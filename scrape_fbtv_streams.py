@@ -157,7 +157,7 @@ async def scrape_matches():
                 m3u_content += f"{stream_link}\n"
         
         # Lưu file M3U
-        output_file = "bunchatv_streams.m3u"
+        output_file = "fbtv_streams.m3u"
         with open(output_file, 'w', encoding='utf-8') as f:
             f.write(m3u_content)
         
@@ -169,7 +169,7 @@ async def scrape_matches():
         try:
             print(f"\n🔗 Tạo shortlink...")
             # Giả sử file được host tại GitHub raw
-            raw_url = "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/bunchatv_streams.m3u"
+            raw_url = "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/fbtv_streams.m3u"
             
             # Tạo bit.ly link (cần API token)
             # Nếu không có token, chỉ in URL
