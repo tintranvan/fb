@@ -5,7 +5,7 @@ import json
 from datetime import datetime
 
 async def get_stream_link(page, match_url):
-    """Lấy link stream m3u8 và tên trận từ trang chi tiết"""
+    """Lấy tất cả link stream m3u8 và tên trận từ trang chi tiết"""
     try:
         await page.goto(match_url, wait_until='networkidle', timeout=30000)
         
@@ -23,24 +23,29 @@ async def get_stream_link(page, match_url):
             # Loại bỏ "Xem trực tiếp " ở đầu
             match_name = re.sub(r'^Xem trực tiếp\s+', '', match_name)
         
-        # Tìm m3u8 links (chỉ m3u8, bỏ mp4)
+        # Tìm tất cả m3u8 links (chỉ m3u8, bỏ mp4)
         m3u8_matches = re.findall(r'https?://[^\s"\'<>]+\.m3u8[^\s"\'<>]*', html)
         
         # Tìm trong script tags
         script_matches = re.findall(r'"(https?://[^"]+m3u8[^"]*)"', html)
         m3u8_matches.extend(script_matches)
         
-        # Loại bỏ duplicates
-        m3u8_matches = list(set(m3u8_matches))
+        # Loại bỏ duplicates nhưng giữ thứ tự
+        seen = set()
+        unique_matches = []
+        for link in m3u8_matches:
+            if link not in seen:
+                seen.add(link)
+                unique_matches.append(link)
         
-        if m3u8_matches:
-            return m3u8_matches[0], match_name  # Trả về link và tên trận
+        if unique_matches:
+            return unique_matches, match_name  # Trả về tất cả links và tên trận
         
-        return None, match_name
+        return [], match_name
     
     except Exception as e:
         print(f"Lỗi khi lấy stream: {e}")
-        return None, ""
+        return [], ""
 
 async def scrape_matches():
     """Cào danh sách trận đấu và link stream"""
@@ -117,17 +122,11 @@ async def scrape_matches():
                 print(f"\n[{idx}] Đang xử lý: {match_title}")
                 print(f"    URL: {match_url}")
                 
-                # Lấy stream link và tên trận
-                stream_link, match_name = await get_stream_link(page, match_url)
+                # Lấy tất cả stream links và tên trận
+                stream_links, match_name = await get_stream_link(page, match_url)
                 
-                if stream_link:
-                    # Bỏ qua nếu đã thêm URL này
-                    if stream_link in seen_urls:
-                        print(f"    ⊘ Duplicate stream link, bỏ qua")
-                        continue
-                    
-                    seen_urls.add(stream_link)
-                    print(f"    ✓ Stream: {stream_link[:80]}...")
+                if stream_links:
+                    print(f"    ✓ Tìm được {len(stream_links)} link(s)")
                     print(f"    ✓ Tên: {match_name}")
                     
                     # Extract tvg_id từ URL
@@ -141,8 +140,13 @@ async def scrape_matches():
                             'streams': []
                         }
                     
-                    match_groups[match_name]['streams'].append(stream_link)
-                    success_count += 1
+                    # Thêm tất cả links
+                    for stream_link in stream_links:
+                        if stream_link not in seen_urls:
+                            seen_urls.add(stream_link)
+                            match_groups[match_name]['streams'].append(stream_link)
+                            success_count += 1
+                            print(f"      ✓ Link {success_count}: {stream_link[:80]}...")
                 else:
                     print(f"    ✗ Không tìm được stream link m3u8")
             
@@ -156,8 +160,14 @@ async def scrape_matches():
             # Dùng tên trận làm group-title
             group_title = match_name.replace(' | ', ' - ').strip()
             
-            for stream_link in data['streams']:
-                extinf_line = f'#EXTINF:-1 tvg-id="{tvg_id}" group-title="{group_title}", {group_title}\n'
+            for idx, stream_link in enumerate(data['streams'], 1):
+                # Nếu có nhiều link, thêm số thứ tự
+                if len(data['streams']) > 1:
+                    display_name = f"{group_title} (Link {idx})"
+                else:
+                    display_name = group_title
+                
+                extinf_line = f'#EXTINF:-1 tvg-id="{tvg_id}" group-title="{group_title}", {display_name}\n'
                 m3u_content += extinf_line
                 m3u_content += f"{stream_link}\n"
         
