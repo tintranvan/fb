@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601293598" group-title="CD Tondela vs Rio Ave 03:15 ngày 10/03 Portuguese Primera Liga", CD Tondela vs Rio Ave 03:15 ngày 10/03 Portuguese Primera Liga (Link 1)
-https://cdn-hls.taoxanh.biz/live/69af22a0326d7_73445/index.m3u8?expire=1773690144&amp;sign=c7188fff53a40058550dd7d64bfd5798
-#EXTINF:-1 tvg-id="601293598" group-title="CD Tondela vs Rio Ave 03:15 ngày 10/03 Portuguese Primera Liga", CD Tondela vs Rio Ave 03:15 ngày 10/03 Portuguese Primera Liga (Link 2)
-https://live.alilicloud.com/live/eca6b3006e420355927f78b6a1ff9d67/playlist.m3u8
-#EXTINF:-1 tvg-id="601293598" group-title="CD Tondela vs Rio Ave 03:15 ngày 10/03 Portuguese Primera Liga", CD Tondela vs Rio Ave 03:15 ngày 10/03 Portuguese Primera Liga (Link 3)
-https://cdn-hls.taoxanh.biz/live/69af22a0326d7_73445/index.m3u8?expire=1773690144&sign=c7188fff53a40058550dd7d64bfd5798
+#EXTINF:-1 tvg-id="601293625" group-title="Club Sportivo Trinidense vs FC Nacional Asuncion 04:30 ngày 10/03 Paraguayan Primera Division", Club Sportivo Trinidense vs FC Nacional Asuncion 04:30 ngày 10/03 Paraguayan Primera Division
+https://live.alilicloud.com/live/9f59636ce2d2eb0227fbdbf9e24b2add/playlist.m3u8
