@@ -1,0 +1,8 @@
+venv/
+.vscode/
+.history/
+__pycache__/
+*.pyc
+.git/
+.gitignore
+debug_html.txt

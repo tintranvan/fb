@@ -1,0 +1,19 @@
+version: '3.8'
+
+services:
+  bunchatv-m3u:
+    build: .
+    container_name: bunchatv-m3u-service
+    ports:
+      - "8080:8080"
+    environment:
+      - PYTHONUNBUFFERED=1
+    volumes:
+      - ./bunchatv_streams.m3u:/app/bunchatv_streams.m3u
+    restart: unless-stopped
+    networks:
+      - bunchatv-network
+
+networks:
+  bunchatv-network:
+    driver: bridge
