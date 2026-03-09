@@ -107,7 +107,12 @@ async def scrape_matches():
             try:
                 # Lấy domain từ current page URL
                 current_url = page.url
-                base_url = re.match(r'https?://[^/]+', current_url).group(0) if current_url else "http://bunchatv1.net"
+                if current_url and current_url.startswith('http'):
+                    base_url = re.match(r'https?://[^/]+', current_url).group(0)
+                else:
+                    # Fallback - lấy từ match_path nếu có domain
+                    base_url = "https://bit.ly"
+                
                 match_url = f"{base_url}{match_path}"
                 print(f"\n[{idx}] Đang xử lý: {match_title}")
                 print(f"    URL: {match_url}")
