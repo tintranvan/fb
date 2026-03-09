@@ -181,5 +181,5 @@ async def scrape_matches():
         await browser.close()
 
 if __name__ == '__main__':
-    print("🚀 Bắt đầu cào stream links từ BunchaTV...\n")
+    print("🚀 Bắt đầu cào stream links từ FBTV...\n")
     asyncio.run(scrape_matches())

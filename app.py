@@ -8,8 +8,8 @@ from datetime import datetime
 
 app = Flask(__name__)
 
-M3U_FILE = 'bunchatv_streams.m3u'
-SCRAPER_SCRIPT = 'scrape_bunchatv_streams.py'
+M3U_FILE = 'fbtv_streams.m3u'
+SCRAPER_SCRIPT = 'scrape_fbtv_streams.py'
 UPDATE_INTERVAL = 300  # 5 phút = 300 giây
 
 def run_scraper():

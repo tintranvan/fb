@@ -1,4 +1,4 @@
-name: Scrape BunchaTV M3U
+name: Scrape FBTV M3U
 
 on:
   schedule:
@@ -28,11 +28,11 @@ jobs:
           playwright install chromium
       
       - name: Run scraper
-        run: python scrape_bunchatv_streams.py
+        run: python scrape_fbtv_streams.py
       
       - name: Commit and push
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add bunchatv_streams.m3u
+          git add fbtv_streams.m3u
           git diff --quiet && git diff --staged --quiet || (git commit -m "🔄 Update M3U streams - $(date +'%Y-%m-%d %H:%M:%S')" && git push)

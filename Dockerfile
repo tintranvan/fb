@@ -6,7 +6,7 @@ WORKDIR /app
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
-COPY scrape_bunchatv_streams.py .
+COPY scrape_fbtv_streams.py .
 COPY app.py .
 
 # Expose port

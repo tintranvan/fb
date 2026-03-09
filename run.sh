@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "🚀 BunchaTV M3U Service"
+echo "🚀 FBTV M3U Service"
 echo "======================="
 echo ""
 
@@ -10,8 +10,8 @@ if ! command -v docker &> /dev/null; then
     exit 1
 fi
 
-IMAGE_NAME="bunchatv-m3u"
-CONTAINER_NAME="bunchatv-m3u-service"
+IMAGE_NAME="fbtv-m3u"
+CONTAINER_NAME="fbtv-m3u-service"
 
 # Stop container cũ nếu có
 echo "🛑 Dừng container cũ (nếu có)..."
