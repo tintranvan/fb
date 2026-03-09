@@ -1,21 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601293445" group-title="Estrela FC U23 vs Uniao Leiria U23 22:00 ngày 09/03 Portuguese U23 League", Estrela FC U23 vs Uniao Leiria U23 22:00 ngày 09/03 Portuguese U23 League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69aedddf326d7_73445/index.m3u8?expire=1773672543&amp;sign=15a6b28e91e0c8308f4d0c2cea8cef0b
-#EXTINF:-1 tvg-id="601293445" group-title="Estrela FC U23 vs Uniao Leiria U23 22:00 ngày 09/03 Portuguese U23 League", Estrela FC U23 vs Uniao Leiria U23 22:00 ngày 09/03 Portuguese U23 League (Link 2)
-https://live.alilicloud.com/live/f1ab0096ac968c037127d4474e810019/playlist.m3u8
-#EXTINF:-1 tvg-id="601293445" group-title="Estrela FC U23 vs Uniao Leiria U23 22:00 ngày 09/03 Portuguese U23 League", Estrela FC U23 vs Uniao Leiria U23 22:00 ngày 09/03 Portuguese U23 League (Link 3)
-https://cdn-hls.taoxanh.biz/live/69aedddf326d7_73445/index.m3u8?expire=1773672543&sign=15a6b28e91e0c8308f4d0c2cea8cef0b
-#EXTINF:-1 tvg-id="601293448" group-title="Gil Vicente U23 vs Vizela U23 22:00 ngày 09/03 Portuguese U23 League", Gil Vicente U23 vs Vizela U23 22:00 ngày 09/03 Portuguese U23 League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69aee04c70a67_72787/index.m3u8?expire=1773673164&amp;sign=81debf5a74b8b746eb24ef9b226f875b
-#EXTINF:-1 tvg-id="601293448" group-title="Gil Vicente U23 vs Vizela U23 22:00 ngày 09/03 Portuguese U23 League", Gil Vicente U23 vs Vizela U23 22:00 ngày 09/03 Portuguese U23 League (Link 2)
-https://live.alilicloud.com/live/7bfbb110c9c4925a409580fbe13b8785/playlist.m3u8
-#EXTINF:-1 tvg-id="601293448" group-title="Gil Vicente U23 vs Vizela U23 22:00 ngày 09/03 Portuguese U23 League", Gil Vicente U23 vs Vizela U23 22:00 ngày 09/03 Portuguese U23 League (Link 3)
-https://cdn-hls.taoxanh.biz/live/69aee04c70a67_72787/index.m3u8?expire=1773673164&sign=81debf5a74b8b746eb24ef9b226f875b
 #EXTINF:-1 tvg-id="601293472" group-title="Veres vs LNZ Cherkasy 23:00 ngày 09/03 Ukrainian Premier League", Veres vs LNZ Cherkasy 23:00 ngày 09/03 Ukrainian Premier League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69aee697326d7_128756/index.m3u8?expire=1773674775&amp;sign=af47f5a1a418131cfbcdf3be59968bc0
 #EXTINF:-1 tvg-id="601293472" group-title="Veres vs LNZ Cherkasy 23:00 ngày 09/03 Ukrainian Premier League", Veres vs LNZ Cherkasy 23:00 ngày 09/03 Ukrainian Premier League (Link 2)
-https://live.alilicloud.com/live/4313a17a8b0d289c800b277d72c06b6d/playlist.m3u8
-#EXTINF:-1 tvg-id="601293472" group-title="Veres vs LNZ Cherkasy 23:00 ngày 09/03 Ukrainian Premier League", Veres vs LNZ Cherkasy 23:00 ngày 09/03 Ukrainian Premier League (Link 3)
 https://cdn-hls.taoxanh.biz/live/69aee697326d7_128756/index.m3u8?expire=1773674775&sign=af47f5a1a418131cfbcdf3be59968bc0
 #EXTINF:-1 tvg-id="601293478" group-title="Levski Sofia vs Lokomotiv Plovdiv 23:00 ngày 09/03 Bulgarian First League", Levski Sofia vs Lokomotiv Plovdiv 23:00 ngày 09/03 Bulgarian First League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69aee7dc326d7_28/index.m3u8?expire=1773675100&amp;sign=10d4de0a7313cce5d913a79dbf6ed37d
@@ -23,5 +9,17 @@ https://cdn-hls.taoxanh.biz/live/69aee7dc326d7_28/index.m3u8?expire=1773675100&a
 https://live.alilicloud.com/live/0cad9567d868c6cb54fb284dd2d37cd4/playlist.m3u8
 #EXTINF:-1 tvg-id="601293478" group-title="Levski Sofia vs Lokomotiv Plovdiv 23:00 ngày 09/03 Bulgarian First League", Levski Sofia vs Lokomotiv Plovdiv 23:00 ngày 09/03 Bulgarian First League (Link 3)
 https://cdn-hls.taoxanh.biz/live/69aee7dc326d7_28/index.m3u8?expire=1773675100&sign=10d4de0a7313cce5d913a79dbf6ed37d
+#EXTINF:-1 tvg-id="601296481" group-title="FC Neftci Baku vs Turan Tovuz 23:30 ngày 09/03 Azerbaijan Premier League", FC Neftci Baku vs Turan Tovuz 23:30 ngày 09/03 Azerbaijan Premier League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69aef498326d7_74012/index.m3u8?expire=1773678360&amp;sign=1b0cc1a60b62dd31b5b7238f040872b2
+#EXTINF:-1 tvg-id="601296481" group-title="FC Neftci Baku vs Turan Tovuz 23:30 ngày 09/03 Azerbaijan Premier League", FC Neftci Baku vs Turan Tovuz 23:30 ngày 09/03 Azerbaijan Premier League (Link 2)
+https://live.alilicloud.com/live/79368144f10575a344ac0df1452d3055/playlist.m3u8
+#EXTINF:-1 tvg-id="601296481" group-title="FC Neftci Baku vs Turan Tovuz 23:30 ngày 09/03 Azerbaijan Premier League", FC Neftci Baku vs Turan Tovuz 23:30 ngày 09/03 Azerbaijan Premier League (Link 3)
+https://cdn-hls.taoxanh.biz/live/69aef498326d7_74012/index.m3u8?expire=1773678360&sign=1b0cc1a60b62dd31b5b7238f040872b2
+#EXTINF:-1 tvg-id="601293481" group-title="Mladost Lucani vs Novi Pazar 00:00 ngày 10/03 Serbian Super liga", Mladost Lucani vs Novi Pazar 00:00 ngày 10/03 Serbian Super liga (Link 1)
+https://cdn-hls.taoxanh.biz/live/69aef43b70a67_88642/index.m3u8?expire=1773678267&amp;sign=701ba9cfe6c5d8dd10354c82409004a5
+#EXTINF:-1 tvg-id="601293481" group-title="Mladost Lucani vs Novi Pazar 00:00 ngày 10/03 Serbian Super liga", Mladost Lucani vs Novi Pazar 00:00 ngày 10/03 Serbian Super liga (Link 2)
+https://live.alilicloud.com/live/45764002243cffe58899577334010b4f/playlist.m3u8
+#EXTINF:-1 tvg-id="601293481" group-title="Mladost Lucani vs Novi Pazar 00:00 ngày 10/03 Serbian Super liga", Mladost Lucani vs Novi Pazar 00:00 ngày 10/03 Serbian Super liga (Link 3)
+https://cdn-hls.taoxanh.biz/live/69aef43b70a67_88642/index.m3u8?expire=1773678267&sign=701ba9cfe6c5d8dd10354c82409004a5
 #EXTINF:-1 tvg-id="601293460" group-title="Macva Sabac vs FAP 23:00 ngày 09/03 Serbian Prva Liga", Macva Sabac vs FAP 23:00 ngày 09/03 Serbian Prva Liga
 https://live.alilicloud.com/live/c033feccc76577a946024d1993411a69/playlist.m3u8
