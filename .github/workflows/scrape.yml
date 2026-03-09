@@ -30,9 +30,24 @@ jobs:
       - name: Run scraper
         run: python scrape_fbtv_streams.py
       
+      - name: Check file
+        run: |
+          echo "Files in directory:"
+          ls -la
+          if [ -f fbtv_streams.m3u ]; then
+            echo "✓ File created"
+            head -20 fbtv_streams.m3u
+          else
+            echo "✗ File not created"
+          fi
+      
       - name: Commit and push
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add fbtv_streams.m3u
-          git diff --quiet && git diff --staged --quiet || (git commit -m "🔄 Update M3U streams - $(date +'%Y-%m-%d %H:%M:%S')" && git push)
+          if [ -f fbtv_streams.m3u ]; then
+            git add fbtv_streams.m3u
+            git diff --quiet && git diff --staged --quiet || (git commit -m "🔄 Update M3U streams - $(date +'%Y-%m-%d %H:%M:%S')" && git push)
+          else
+            echo "⚠️  File fbtv_streams.m3u không được tạo"
+          fi
