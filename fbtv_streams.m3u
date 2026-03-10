@@ -1,27 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601293685" group-title="Japan Women vs Việt Nam (Nữ) 16:00 ngày 10/03 AFC Women’s Asian Cup", Japan Women vs Việt Nam (Nữ) 16:00 ngày 10/03 AFC Women’s Asian Cup (Link 1)
-https://cdn-hls.taoxanh.biz/live/69afb68d326d7_79/index.m3u8?expire=1773728013&amp;sign=58815607c5ba44684ab65c0c87df810d
-#EXTINF:-1 tvg-id="601293685" group-title="Japan Women vs Việt Nam (Nữ) 16:00 ngày 10/03 AFC Women’s Asian Cup", Japan Women vs Việt Nam (Nữ) 16:00 ngày 10/03 AFC Women’s Asian Cup (Link 2)
-https://cdn-hls.taoxanh.biz/live/69afd6c070a68_72787/index.m3u8?expire=1773736256&amp;sign=484a4c66428a9570882a5cd282945ede
-#EXTINF:-1 tvg-id="601293685" group-title="Japan Women vs Việt Nam (Nữ) 16:00 ngày 10/03 AFC Women’s Asian Cup", Japan Women vs Việt Nam (Nữ) 16:00 ngày 10/03 AFC Women’s Asian Cup (Link 3)
-https://live.alilicloud.com/live/d46d48f76b691acabd1183c309da87a3/playlist.m3u8
-#EXTINF:-1 tvg-id="601293685" group-title="Japan Women vs Việt Nam (Nữ) 16:00 ngày 10/03 AFC Women’s Asian Cup", Japan Women vs Việt Nam (Nữ) 16:00 ngày 10/03 AFC Women’s Asian Cup (Link 4)
-https://cdn-hls.taoxanh.biz/live/69afb68d326d7_79/index.m3u8?expire=1773728013&sign=58815607c5ba44684ab65c0c87df810d
-#EXTINF:-1 tvg-id="601308421" group-title="Kang Ji-eun vs Park Jeong-hyun 17:00 ngày 10/03 PBA-LPBA World Championship 2026", Kang Ji-eun vs Park Jeong-hyun 17:00 ngày 10/03 PBA-LPBA World Championship 2026 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69afc7e3326d7_144313/index.m3u8?expire=1773732451&amp;sign=1863f987e1710d7a0f8ebed0567e079f
-#EXTINF:-1 tvg-id="601308421" group-title="Kang Ji-eun vs Park Jeong-hyun 17:00 ngày 10/03 PBA-LPBA World Championship 2026", Kang Ji-eun vs Park Jeong-hyun 17:00 ngày 10/03 PBA-LPBA World Championship 2026 (Link 2)
-https://cdn-hls.taoxanh.biz/live/69afc7e3326d7_144313/index.m3u8?expire=1773732451&sign=1863f987e1710d7a0f8ebed0567e079f
-#EXTINF:-1 tvg-id="601293682" group-title="India (w) vs Chinese Taipei (w) 16:00 ngày 10/03 AFC Women’s Asian Cup", India (w) vs Chinese Taipei (w) 16:00 ngày 10/03 AFC Women’s Asian Cup (Link 1)
-https://cdn-hls.taoxanh.biz/live/69afdab4326d7_73445/index.m3u8?expire=1773737268&amp;sign=4ed42a4fbc5448b9d8f022d465bf2a4f
-#EXTINF:-1 tvg-id="601293682" group-title="India (w) vs Chinese Taipei (w) 16:00 ngày 10/03 AFC Women’s Asian Cup", India (w) vs Chinese Taipei (w) 16:00 ngày 10/03 AFC Women’s Asian Cup (Link 2)
-https://live.alilicloud.com/live/1d8d71dc254ab02b94c7debe944dedff/playlist.m3u8
-#EXTINF:-1 tvg-id="601293682" group-title="India (w) vs Chinese Taipei (w) 16:00 ngày 10/03 AFC Women’s Asian Cup", India (w) vs Chinese Taipei (w) 16:00 ngày 10/03 AFC Women’s Asian Cup (Link 3)
-https://cdn-hls.taoxanh.biz/live/69afdab4326d7_73445/index.m3u8?expire=1773737268&sign=4ed42a4fbc5448b9d8f022d465bf2a4f
-#EXTINF:-1 tvg-id="601299265" group-title="Yadanabon FC vs Yangon United 16:00 ngày 10/03 Myanmar Professional League", Yadanabon FC vs Yangon United 16:00 ngày 10/03 Myanmar Professional League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69afd30270a68_136682/index.m3u8?expire=1773735298&amp;sign=c060d5347a6a40f5a7f92419b40370f6
-#EXTINF:-1 tvg-id="601299265" group-title="Yadanabon FC vs Yangon United 16:00 ngày 10/03 Myanmar Professional League", Yadanabon FC vs Yangon United 16:00 ngày 10/03 Myanmar Professional League (Link 2)
-https://live.alilicloud.com/live/da41f5b9c1e01fbc8b5558741983dffd/playlist.m3u8
-#EXTINF:-1 tvg-id="601299265" group-title="Yadanabon FC vs Yangon United 16:00 ngày 10/03 Myanmar Professional League", Yadanabon FC vs Yangon United 16:00 ngày 10/03 Myanmar Professional League (Link 3)
-https://cdn-hls.taoxanh.biz/live/69afd30270a68_136682/index.m3u8?expire=1773735298&sign=c060d5347a6a40f5a7f92419b40370f6
-#EXTINF:-1 tvg-id="601293676" group-title="Brothers Union vs PWD Sports Club 15:45 ngày 10/03 Bangladesh Federation Cup", Brothers Union vs PWD Sports Club 15:45 ngày 10/03 Bangladesh Federation Cup
-https://live.alilicloud.com/live/98d0f4ad537821276bf4c4a08e7d13e0/playlist.m3u8
+#EXTINF:-1 tvg-id="601308343" group-title="Ivo Pandza vs Semir Zavitan 17:00 ngày 10/03 European Open Pool Championship 2026", Ivo Pandza vs Semir Zavitan 17:00 ngày 10/03 European Open Pool Championship 2026 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69afe457326d7_103/index.m3u8?expire=1773739735&amp;sign=950b8ee39d1769af9395e6b90122ec65
+#EXTINF:-1 tvg-id="601308343" group-title="Ivo Pandza vs Semir Zavitan 17:00 ngày 10/03 European Open Pool Championship 2026", Ivo Pandza vs Semir Zavitan 17:00 ngày 10/03 European Open Pool Championship 2026 (Link 2)
+https://cdn-hls.taoxanh.biz/live/69afe457326d7_103/index.m3u8?expire=1773739735&sign=950b8ee39d1769af9395e6b90122ec65
+#EXTINF:-1 tvg-id="601308346" group-title="Boris Ivanovski vs Megzon Klaiqi 17:00 ngày 10/03 European Open Pool Championship 2026", Boris Ivanovski vs Megzon Klaiqi 17:00 ngày 10/03 European Open Pool Championship 2026 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69afec7d326d7_142246/index.m3u8?expire=1773741821&amp;sign=ba1d82a229fa3147a406baf451d94550
+#EXTINF:-1 tvg-id="601308346" group-title="Boris Ivanovski vs Megzon Klaiqi 17:00 ngày 10/03 European Open Pool Championship 2026", Boris Ivanovski vs Megzon Klaiqi 17:00 ngày 10/03 European Open Pool Championship 2026 (Link 2)
+https://cdn-hls.taoxanh.biz/live/69afec7d326d7_142246/index.m3u8?expire=1773741821&sign=ba1d82a229fa3147a406baf451d94550
+#EXTINF:-1 tvg-id="601293688" group-title="Machida Zelvia vs Gangwon Football Club 17:00 ngày 10/03 AFC Champions League Elite", Machida Zelvia vs Gangwon Football Club 17:00 ngày 10/03 AFC Champions League Elite (Link 1)
+https://cdn-hls.taoxanh.biz/live/69afe3ae70a68_85514/index.m3u8?expire=1773739566&amp;sign=e8741599fd3dd4a59ec1e9a750021ada
+#EXTINF:-1 tvg-id="601293688" group-title="Machida Zelvia vs Gangwon Football Club 17:00 ngày 10/03 AFC Champions League Elite", Machida Zelvia vs Gangwon Football Club 17:00 ngày 10/03 AFC Champions League Elite (Link 2)
+https://live.alilicloud.com/live/951da1731ab30304f1b1d906903002dc/playlist.m3u8
+#EXTINF:-1 tvg-id="601293688" group-title="Machida Zelvia vs Gangwon Football Club 17:00 ngày 10/03 AFC Champions League Elite", Machida Zelvia vs Gangwon Football Club 17:00 ngày 10/03 AFC Champions League Elite (Link 3)
+https://cdn-hls.taoxanh.biz/live/69afe3ae70a68_85514/index.m3u8?expire=1773739566&sign=e8741599fd3dd4a59ec1e9a750021ada
+#EXTINF:-1 tvg-id="601293694" group-title="Belediye Vanspor vs Adana Demirspor 17:30 ngày 10/03 Turkish First League", Belediye Vanspor vs Adana Demirspor 17:30 ngày 10/03 Turkish First League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69afedf570a68_6308/index.m3u8?expire=1773742197&amp;sign=9a1f1533919f302c67046699520966ed
+#EXTINF:-1 tvg-id="601293694" group-title="Belediye Vanspor vs Adana Demirspor 17:30 ngày 10/03 Turkish First League", Belediye Vanspor vs Adana Demirspor 17:30 ngày 10/03 Turkish First League (Link 2)
+https://live.alilicloud.com/live/47311af9d47da1789e83bffc7f0c4579/playlist.m3u8
+#EXTINF:-1 tvg-id="601293694" group-title="Belediye Vanspor vs Adana Demirspor 17:30 ngày 10/03 Turkish First League", Belediye Vanspor vs Adana Demirspor 17:30 ngày 10/03 Turkish First League (Link 3)
+https://cdn-hls.taoxanh.biz/live/69afedf570a68_6308/index.m3u8?expire=1773742197&sign=9a1f1533919f302c67046699520966ed
