@@ -5,9 +5,19 @@ https://cdn-hls.taoxanh.biz/live/69b0408c70a68_79/index.m3u8?expire=1773763340&a
 https://cdn-hls.taoxanh.biz/live/69b035bf70a68_44731/index.m3u8?expire=1773760575&amp;sign=24233b973b3813fcbcbbad041a12ea78
 #EXTINF:-1 tvg-id="601294408" group-title="Galatasaray vs Liverpool 00:45 ngày 11/03 UEFA Champions League", Galatasaray vs Liverpool 00:45 ngày 11/03 UEFA Champions League (Link 3)
 https://cdn-hls.taoxanh.biz/live/69b0408c70a68_79/index.m3u8?expire=1773763340&sign=acf1fa6ef48a058aecb435af8d189447
-#EXTINF:-1 tvg-id="601293754" group-title="Mashal Muborak vs Qizilqum Zarafshon 21:45 ngày 10/03 Uzbekistan Super League", Mashal Muborak vs Qizilqum Zarafshon 21:45 ngày 10/03 Uzbekistan Super League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69b027ef326d8_72787/index.m3u8?expire=1773757039&amp;sign=d43739c864bdbbd2b607f70b3a49cc8d
-#EXTINF:-1 tvg-id="601293754" group-title="Mashal Muborak vs Qizilqum Zarafshon 21:45 ngày 10/03 Uzbekistan Super League", Mashal Muborak vs Qizilqum Zarafshon 21:45 ngày 10/03 Uzbekistan Super League (Link 2)
-https://live.alilicloud.com/live/69e4f8bd5ef451f4fcfce69a333522a9/playlist.m3u8
-#EXTINF:-1 tvg-id="601293754" group-title="Mashal Muborak vs Qizilqum Zarafshon 21:45 ngày 10/03 Uzbekistan Super League", Mashal Muborak vs Qizilqum Zarafshon 21:45 ngày 10/03 Uzbekistan Super League (Link 3)
-https://cdn-hls.taoxanh.biz/live/69b027ef326d8_72787/index.m3u8?expire=1773757039&sign=d43739c864bdbbd2b607f70b3a49cc8d
+#EXTINF:-1 tvg-id="601294636" group-title="Atalanta vs FC Bayern Munich 03:00 ngày 11/03 UEFA Champions League", Atalanta vs FC Bayern Munich 03:00 ngày 11/03 UEFA Champions League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69b0506970a68_88186/index.m3u8?expire=1773767401&amp;sign=8f67ce5aa1daa1d18ad7ed7e135b198a
+#EXTINF:-1 tvg-id="601294636" group-title="Atalanta vs FC Bayern Munich 03:00 ngày 11/03 UEFA Champions League", Atalanta vs FC Bayern Munich 03:00 ngày 11/03 UEFA Champions League (Link 2)
+https://live.alilicloud.com/live/be29fdd1d45c89fff52d29d1b505d747/playlist.m3u8
+#EXTINF:-1 tvg-id="601294636" group-title="Atalanta vs FC Bayern Munich 03:00 ngày 11/03 UEFA Champions League", Atalanta vs FC Bayern Munich 03:00 ngày 11/03 UEFA Champions League (Link 3)
+https://cdn-hls.taoxanh.biz/live/69b0506970a68_88186/index.m3u8?expire=1773767401&sign=8f67ce5aa1daa1d18ad7ed7e135b198a
+#EXTINF:-1 tvg-id="601294639" group-title="Newcastle United vs FC Barcelona 03:00 ngày 11/03 UEFA Champions League", Newcastle United vs FC Barcelona 03:00 ngày 11/03 UEFA Champions League
+https://live.alilicloud.com/live/3ede1e5159c4c81a7613a4bc92cd5095/playlist.m3u8
+#EXTINF:-1 tvg-id="601294642" group-title="Atletico Madrid vs Tottenham Hotspur 03:00 ngày 11/03 UEFA Champions League", Atletico Madrid vs Tottenham Hotspur 03:00 ngày 11/03 UEFA Champions League
+https://live.alilicloud.com/live/757bbd7b57d174d05e47fbee6441b289/playlist.m3u8
+#EXTINF:-1 tvg-id="601293751" group-title="Slaven Belupo vs NK Lokomotiva Zagreb 22:30 ngày 10/03 Croatian Cup", Slaven Belupo vs NK Lokomotiva Zagreb 22:30 ngày 10/03 Croatian Cup (Link 1)
+https://cdn-hls.taoxanh.biz/live/69b0315d70a68_133172/index.m3u8?expire=1773759453&amp;sign=9c797985b08a2b212d2341839af6f58a
+#EXTINF:-1 tvg-id="601293751" group-title="Slaven Belupo vs NK Lokomotiva Zagreb 22:30 ngày 10/03 Croatian Cup", Slaven Belupo vs NK Lokomotiva Zagreb 22:30 ngày 10/03 Croatian Cup (Link 2)
+https://live.alilicloud.com/live/9d6083b297b5fc2dcf86845557ba17ac/playlist.m3u8
+#EXTINF:-1 tvg-id="601293751" group-title="Slaven Belupo vs NK Lokomotiva Zagreb 22:30 ngày 10/03 Croatian Cup", Slaven Belupo vs NK Lokomotiva Zagreb 22:30 ngày 10/03 Croatian Cup (Link 3)
+https://cdn-hls.taoxanh.biz/live/69b0315d70a68_133172/index.m3u8?expire=1773759453&sign=9c797985b08a2b212d2341839af6f58a
