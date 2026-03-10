@@ -17,11 +17,5 @@ https://cdn-hls.taoxanh.biz/live/69b0506970a68_88186/index.m3u8?expire=177376740
 https://live.alilicloud.com/live/be29fdd1d45c89fff52d29d1b505d747/playlist.m3u8
 #EXTINF:-1 tvg-id="601294636" group-title="Atalanta vs FC Bayern Munich 03:00 ngày 11/03 UEFA Champions League", Atalanta vs FC Bayern Munich 03:00 ngày 11/03 UEFA Champions League (Link 3)
 https://cdn-hls.taoxanh.biz/live/69b0506970a68_88186/index.m3u8?expire=1773767401&sign=8f67ce5aa1daa1d18ad7ed7e135b198a
-#EXTINF:-1 tvg-id="601294486" group-title="Leicester City vs Bristol City 02:45 ngày 11/03 English Football League Championship", Leicester City vs Bristol City 02:45 ngày 11/03 English Football League Championship (Link 1)
-https://cdn-hls.taoxanh.biz/live/69b0698170a68_73445/index.m3u8?expire=1773773825&amp;sign=94e4eb96619f041018b07f5656095614
-#EXTINF:-1 tvg-id="601294486" group-title="Leicester City vs Bristol City 02:45 ngày 11/03 English Football League Championship", Leicester City vs Bristol City 02:45 ngày 11/03 English Football League Championship (Link 2)
-https://live.alilicloud.com/live/5ea9f6692ecb1cdae5b0213be84c8123/playlist.m3u8
-#EXTINF:-1 tvg-id="601294486" group-title="Leicester City vs Bristol City 02:45 ngày 11/03 English Football League Championship", Leicester City vs Bristol City 02:45 ngày 11/03 English Football League Championship (Link 3)
-https://cdn-hls.taoxanh.biz/live/69b0698170a68_73445/index.m3u8?expire=1773773825&sign=94e4eb96619f041018b07f5656095614
-#EXTINF:-1 tvg-id="601294456" group-title="El Gounah vs Al Masry 02:30 ngày 11/03 Egyptian Premier League", El Gounah vs Al Masry 02:30 ngày 11/03 Egyptian Premier League
-https://live.alilicloud.com/live/96e33a2bf3b50a07699416ca195a436a/playlist.m3u8
+#EXTINF:-1 tvg-id="601294630" group-title="Stoke City vs Ipswich Town 03:00 ngày 11/03 English Football League Championship", Stoke City vs Ipswich Town 03:00 ngày 11/03 English Football League Championship
+https://live.alilicloud.com/live/ff256a1a06f968640cd1e3b7c48e2d6d/playlist.m3u8
