@@ -1,25 +1,27 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601294408" group-title="Galatasaray vs Liverpool 00:45 ngày 11/03 UEFA Champions League", Galatasaray vs Liverpool 00:45 ngày 11/03 UEFA Champions League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69b0408c70a68_79/index.m3u8?expire=1773763340&amp;sign=acf1fa6ef48a058aecb435af8d189447
-#EXTINF:-1 tvg-id="601294408" group-title="Galatasaray vs Liverpool 00:45 ngày 11/03 UEFA Champions League", Galatasaray vs Liverpool 00:45 ngày 11/03 UEFA Champions League (Link 2)
-https://cdn-hls.taoxanh.biz/live/69b035bf70a68_44731/index.m3u8?expire=1773760575&amp;sign=24233b973b3813fcbcbbad041a12ea78
-#EXTINF:-1 tvg-id="601294408" group-title="Galatasaray vs Liverpool 00:45 ngày 11/03 UEFA Champions League", Galatasaray vs Liverpool 00:45 ngày 11/03 UEFA Champions League (Link 3)
-https://live.alilicloud.com/live/a0b0f70a86a5f9d3560e80ddb374a927/playlist.m3u8
-#EXTINF:-1 tvg-id="601294408" group-title="Galatasaray vs Liverpool 00:45 ngày 11/03 UEFA Champions League", Galatasaray vs Liverpool 00:45 ngày 11/03 UEFA Champions League (Link 4)
-https://cdn-hls.taoxanh.biz/live/69b0408c70a68_79/index.m3u8?expire=1773763340&sign=acf1fa6ef48a058aecb435af8d189447
-#EXTINF:-1 tvg-id="601294636" group-title="Atalanta vs FC Bayern Munich 03:00 ngày 11/03 UEFA Champions League", Atalanta vs FC Bayern Munich 03:00 ngày 11/03 UEFA Champions League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69b0506970a68_88186/index.m3u8?expire=1773767401&amp;sign=8f67ce5aa1daa1d18ad7ed7e135b198a
-#EXTINF:-1 tvg-id="601294636" group-title="Atalanta vs FC Bayern Munich 03:00 ngày 11/03 UEFA Champions League", Atalanta vs FC Bayern Munich 03:00 ngày 11/03 UEFA Champions League (Link 2)
-https://live.alilicloud.com/live/be29fdd1d45c89fff52d29d1b505d747/playlist.m3u8
-#EXTINF:-1 tvg-id="601294636" group-title="Atalanta vs FC Bayern Munich 03:00 ngày 11/03 UEFA Champions League", Atalanta vs FC Bayern Munich 03:00 ngày 11/03 UEFA Champions League (Link 3)
-https://cdn-hls.taoxanh.biz/live/69b0506970a68_88186/index.m3u8?expire=1773767401&sign=8f67ce5aa1daa1d18ad7ed7e135b198a
-#EXTINF:-1 tvg-id="601294642" group-title="Atletico Madrid vs Tottenham Hotspur 03:00 ngày 11/03 UEFA Champions League", Atletico Madrid vs Tottenham Hotspur 03:00 ngày 11/03 UEFA Champions League
+#EXTINF:-1 tvg-id="601294642" group-title="Atletico Madrid vs Tottenham Hotspur 03:00 ngày 11/03 UEFA Champions League", Atletico Madrid vs Tottenham Hotspur 03:00 ngày 11/03 UEFA Champions League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69b071fb70a68_85514/index.m3u8?expire=1773775995&amp;sign=e36d295547fe56c713f2431dfc1176d4
+#EXTINF:-1 tvg-id="601294642" group-title="Atletico Madrid vs Tottenham Hotspur 03:00 ngày 11/03 UEFA Champions League", Atletico Madrid vs Tottenham Hotspur 03:00 ngày 11/03 UEFA Champions League (Link 2)
 https://live.alilicloud.com/live/757bbd7b57d174d05e47fbee6441b289/playlist.m3u8
+#EXTINF:-1 tvg-id="601294642" group-title="Atletico Madrid vs Tottenham Hotspur 03:00 ngày 11/03 UEFA Champions League", Atletico Madrid vs Tottenham Hotspur 03:00 ngày 11/03 UEFA Champions League (Link 3)
+https://cdn-hls.taoxanh.biz/live/69b071fb70a68_85514/index.m3u8?expire=1773775995&sign=e36d295547fe56c713f2431dfc1176d4
 #EXTINF:-1 tvg-id="601294639" group-title="Newcastle United vs FC Barcelona 03:00 ngày 11/03 UEFA Champions League", Newcastle United vs FC Barcelona 03:00 ngày 11/03 UEFA Champions League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69b06b2570a68_28/index.m3u8?expire=1773774245&amp;sign=fe3ed1d2ab779301dfcf3693065a6ccb
 #EXTINF:-1 tvg-id="601294639" group-title="Newcastle United vs FC Barcelona 03:00 ngày 11/03 UEFA Champions League", Newcastle United vs FC Barcelona 03:00 ngày 11/03 UEFA Champions League (Link 2)
 https://live.alilicloud.com/live/3ede1e5159c4c81a7613a4bc92cd5095/playlist.m3u8
 #EXTINF:-1 tvg-id="601294639" group-title="Newcastle United vs FC Barcelona 03:00 ngày 11/03 UEFA Champions League", Newcastle United vs FC Barcelona 03:00 ngày 11/03 UEFA Champions League (Link 3)
 https://cdn-hls.taoxanh.biz/live/69b06b2570a68_28/index.m3u8?expire=1773774245&sign=fe3ed1d2ab779301dfcf3693065a6ccb
-#EXTINF:-1 tvg-id="601284291" group-title="Al Bataeh vs Ajman 00:30 ngày 11/03 United Arab Emirates Adnoc Pro-League", Al Bataeh vs Ajman 00:30 ngày 11/03 United Arab Emirates Adnoc Pro-League
-https://live.alilicloud.com/live/a1b4387632a314f4a4bb963f7c4103f2/playlist.m3u8
+#EXTINF:-1 tvg-id="601294636" group-title="Atalanta vs FC Bayern Munich 03:00 ngày 11/03 UEFA Champions League", Atalanta vs FC Bayern Munich 03:00 ngày 11/03 UEFA Champions League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69b0506970a68_88186/index.m3u8?expire=1773767401&amp;sign=8f67ce5aa1daa1d18ad7ed7e135b198a
+#EXTINF:-1 tvg-id="601294636" group-title="Atalanta vs FC Bayern Munich 03:00 ngày 11/03 UEFA Champions League", Atalanta vs FC Bayern Munich 03:00 ngày 11/03 UEFA Champions League (Link 2)
+https://live.alilicloud.com/live/be29fdd1d45c89fff52d29d1b505d747/playlist.m3u8
+#EXTINF:-1 tvg-id="601294636" group-title="Atalanta vs FC Bayern Munich 03:00 ngày 11/03 UEFA Champions League", Atalanta vs FC Bayern Munich 03:00 ngày 11/03 UEFA Champions League (Link 3)
+https://cdn-hls.taoxanh.biz/live/69b0506970a68_88186/index.m3u8?expire=1773767401&sign=8f67ce5aa1daa1d18ad7ed7e135b198a
+#EXTINF:-1 tvg-id="601294486" group-title="Leicester City vs Bristol City 02:45 ngày 11/03 English Football League Championship", Leicester City vs Bristol City 02:45 ngày 11/03 English Football League Championship (Link 1)
+https://cdn-hls.taoxanh.biz/live/69b0698170a68_73445/index.m3u8?expire=1773773825&amp;sign=94e4eb96619f041018b07f5656095614
+#EXTINF:-1 tvg-id="601294486" group-title="Leicester City vs Bristol City 02:45 ngày 11/03 English Football League Championship", Leicester City vs Bristol City 02:45 ngày 11/03 English Football League Championship (Link 2)
+https://live.alilicloud.com/live/5ea9f6692ecb1cdae5b0213be84c8123/playlist.m3u8
+#EXTINF:-1 tvg-id="601294486" group-title="Leicester City vs Bristol City 02:45 ngày 11/03 English Football League Championship", Leicester City vs Bristol City 02:45 ngày 11/03 English Football League Championship (Link 3)
+https://cdn-hls.taoxanh.biz/live/69b0698170a68_73445/index.m3u8?expire=1773773825&sign=94e4eb96619f041018b07f5656095614
+#EXTINF:-1 tvg-id="601294441" group-title="Beerschot Wilrijk vs Anderlecht II 02:00 ngày 11/03 Belgian Second Division", Beerschot Wilrijk vs Anderlecht II 02:00 ngày 11/03 Belgian Second Division
+https://live.alilicloud.com/live/f0b52be5e88709eaf2e136f5330832a0/playlist.m3u8
