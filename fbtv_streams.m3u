@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601308343" group-title="Ivo Pandza vs Semir Zavitan 17:00 ngày 10/03 European Open Pool Championship 2026", Ivo Pandza vs Semir Zavitan 17:00 ngày 10/03 European Open Pool Championship 2026 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69afe457326d7_103/index.m3u8?expire=1773739735&amp;sign=950b8ee39d1769af9395e6b90122ec65
-#EXTINF:-1 tvg-id="601308343" group-title="Ivo Pandza vs Semir Zavitan 17:00 ngày 10/03 European Open Pool Championship 2026", Ivo Pandza vs Semir Zavitan 17:00 ngày 10/03 European Open Pool Championship 2026 (Link 2)
-https://cdn-hls.taoxanh.biz/live/69afe457326d7_103/index.m3u8?expire=1773739735&sign=950b8ee39d1769af9395e6b90122ec65
 #EXTINF:-1 tvg-id="601308346" group-title="Boris Ivanovski vs Megzon Klaiqi 17:00 ngày 10/03 European Open Pool Championship 2026", Boris Ivanovski vs Megzon Klaiqi 17:00 ngày 10/03 European Open Pool Championship 2026 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69afec7d326d7_142246/index.m3u8?expire=1773741821&amp;sign=ba1d82a229fa3147a406baf451d94550
 #EXTINF:-1 tvg-id="601308346" group-title="Boris Ivanovski vs Megzon Klaiqi 17:00 ngày 10/03 European Open Pool Championship 2026", Boris Ivanovski vs Megzon Klaiqi 17:00 ngày 10/03 European Open Pool Championship 2026 (Link 2)
@@ -19,3 +15,9 @@ https://cdn-hls.taoxanh.biz/live/69afedf570a68_6308/index.m3u8?expire=1773742197
 https://live.alilicloud.com/live/47311af9d47da1789e83bffc7f0c4579/playlist.m3u8
 #EXTINF:-1 tvg-id="601293694" group-title="Belediye Vanspor vs Adana Demirspor 17:30 ngày 10/03 Turkish First League", Belediye Vanspor vs Adana Demirspor 17:30 ngày 10/03 Turkish First League (Link 3)
 https://cdn-hls.taoxanh.biz/live/69afedf570a68_6308/index.m3u8?expire=1773742197&sign=9a1f1533919f302c67046699520966ed
+#EXTINF:-1 tvg-id="601293697" group-title="Farense U23 vs Rio Ave U23 18:00 ngày 10/03 Portuguese U23 League", Farense U23 vs Rio Ave U23 18:00 ngày 10/03 Portuguese U23 League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69aff07b326d7_28/index.m3u8?expire=1773742843&amp;sign=e2bcd876e96ae866edc0b9cd9b0aa8a7
+#EXTINF:-1 tvg-id="601293697" group-title="Farense U23 vs Rio Ave U23 18:00 ngày 10/03 Portuguese U23 League", Farense U23 vs Rio Ave U23 18:00 ngày 10/03 Portuguese U23 League (Link 2)
+https://live.alilicloud.com/live/c24a56e9e7017b9a28c1e02c7b45f3fe/playlist.m3u8
+#EXTINF:-1 tvg-id="601293697" group-title="Farense U23 vs Rio Ave U23 18:00 ngày 10/03 Portuguese U23 League", Farense U23 vs Rio Ave U23 18:00 ngày 10/03 Portuguese U23 League (Link 3)
+https://cdn-hls.taoxanh.biz/live/69aff07b326d7_28/index.m3u8?expire=1773742843&sign=e2bcd876e96ae866edc0b9cd9b0aa8a7
