@@ -8,10 +8,14 @@ https://cdn-hls.taoxanh.biz/live/69b0958670a68_28/index.m3u8?expire=1773785094&s
 #EXTINF:-1 tvg-id="601294669" group-title="Philadelphia Union vs Club America 06:00 ngày 11/03 CNCF CHL", Philadelphia Union vs Club America 06:00 ngày 11/03 CNCF CHL (Link 1)
 https://cdn-hls.taoxanh.biz/live/69b09b7470a68_88642/index.m3u8?expire=1773786612&amp;sign=c2a4574bd98ea25b9106c3f0b8d0c975
 #EXTINF:-1 tvg-id="601294669" group-title="Philadelphia Union vs Club America 06:00 ngày 11/03 CNCF CHL", Philadelphia Union vs Club America 06:00 ngày 11/03 CNCF CHL (Link 2)
+https://live.alilicloud.com/live/64fc596150267a532a86d8956c31a0ca/playlist.m3u8
+#EXTINF:-1 tvg-id="601294669" group-title="Philadelphia Union vs Club America 06:00 ngày 11/03 CNCF CHL", Philadelphia Union vs Club America 06:00 ngày 11/03 CNCF CHL (Link 3)
 https://cdn-hls.taoxanh.biz/live/69b09b7470a68_88642/index.m3u8?expire=1773786612&sign=c2a4574bd98ea25b9106c3f0b8d0c975
 #EXTINF:-1 tvg-id="601282257" group-title="Atletico Bucaramanga vs Deportivo Pereira 06:20 ngày 11/03 Categoría Primera A", Atletico Bucaramanga vs Deportivo Pereira 06:20 ngày 11/03 Categoría Primera A (Link 1)
 https://cdn-hls.taoxanh.biz/live/69b09385326d8_88186/index.m3u8?expire=1773784581&amp;sign=415b422d4d03aef805e757342a5d4d6b
 #EXTINF:-1 tvg-id="601282257" group-title="Atletico Bucaramanga vs Deportivo Pereira 06:20 ngày 11/03 Categoría Primera A", Atletico Bucaramanga vs Deportivo Pereira 06:20 ngày 11/03 Categoría Primera A (Link 2)
+https://live.alilicloud.com/live/0d763e6144ab1aabac0a2830e1b1b3c3/playlist.m3u8
+#EXTINF:-1 tvg-id="601282257" group-title="Atletico Bucaramanga vs Deportivo Pereira 06:20 ngày 11/03 Categoría Primera A", Atletico Bucaramanga vs Deportivo Pereira 06:20 ngày 11/03 Categoría Primera A (Link 3)
 https://cdn-hls.taoxanh.biz/live/69b09385326d8_88186/index.m3u8?expire=1773784581&sign=415b422d4d03aef805e757342a5d4d6b
-#EXTINF:-1 tvg-id="601299733" group-title="Inter Palmira (W) vs Independiente Medellin (w) 04:00 ngày 11/03 Colombian Liga Betplay Femenina", Inter Palmira (W) vs Independiente Medellin (w) 04:00 ngày 11/03 Colombian Liga Betplay Femenina
-https://live.alilicloud.com/live/54641b9e0a46092f2326f2342028dc42/playlist.m3u8
+#EXTINF:-1 tvg-id="601296574" group-title="Bolivar U20 vs CR Flamengo (RJ)  (Youth) 05:00 ngày 11/03 CONMEBOL U20 Copa Libertadores", Bolivar U20 vs CR Flamengo (RJ)  (Youth) 05:00 ngày 11/03 CONMEBOL U20 Copa Libertadores
+https://live.alilicloud.com/live/749a306c48ad1af68c6c0c55bd3c2bc5/playlist.m3u8
