@@ -13,9 +13,13 @@ https://cdn-hls.taoxanh.biz/live/69b0506970a68_88186/index.m3u8?expire=177376740
 https://live.alilicloud.com/live/be29fdd1d45c89fff52d29d1b505d747/playlist.m3u8
 #EXTINF:-1 tvg-id="601294636" group-title="Atalanta vs FC Bayern Munich 03:00 ngày 11/03 UEFA Champions League", Atalanta vs FC Bayern Munich 03:00 ngày 11/03 UEFA Champions League (Link 3)
 https://cdn-hls.taoxanh.biz/live/69b0506970a68_88186/index.m3u8?expire=1773767401&sign=8f67ce5aa1daa1d18ad7ed7e135b198a
-#EXTINF:-1 tvg-id="601294639" group-title="Newcastle United vs FC Barcelona 03:00 ngày 11/03 UEFA Champions League", Newcastle United vs FC Barcelona 03:00 ngày 11/03 UEFA Champions League
-https://live.alilicloud.com/live/3ede1e5159c4c81a7613a4bc92cd5095/playlist.m3u8
 #EXTINF:-1 tvg-id="601294642" group-title="Atletico Madrid vs Tottenham Hotspur 03:00 ngày 11/03 UEFA Champions League", Atletico Madrid vs Tottenham Hotspur 03:00 ngày 11/03 UEFA Champions League
 https://live.alilicloud.com/live/757bbd7b57d174d05e47fbee6441b289/playlist.m3u8
-#EXTINF:-1 tvg-id="601293772" group-title="Kauno Zalgiris vs FK Panevezys 23:45 ngày 10/03 Lithuanian A Lyga", Kauno Zalgiris vs FK Panevezys 23:45 ngày 10/03 Lithuanian A Lyga
-https://live.alilicloud.com/live/c91ad4ca400405fd7efb7085e1969458/playlist.m3u8
+#EXTINF:-1 tvg-id="601294639" group-title="Newcastle United vs FC Barcelona 03:00 ngày 11/03 UEFA Champions League", Newcastle United vs FC Barcelona 03:00 ngày 11/03 UEFA Champions League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69b06b2570a68_28/index.m3u8?expire=1773774245&amp;sign=fe3ed1d2ab779301dfcf3693065a6ccb
+#EXTINF:-1 tvg-id="601294639" group-title="Newcastle United vs FC Barcelona 03:00 ngày 11/03 UEFA Champions League", Newcastle United vs FC Barcelona 03:00 ngày 11/03 UEFA Champions League (Link 2)
+https://live.alilicloud.com/live/3ede1e5159c4c81a7613a4bc92cd5095/playlist.m3u8
+#EXTINF:-1 tvg-id="601294639" group-title="Newcastle United vs FC Barcelona 03:00 ngày 11/03 UEFA Champions League", Newcastle United vs FC Barcelona 03:00 ngày 11/03 UEFA Champions League (Link 3)
+https://cdn-hls.taoxanh.biz/live/69b06b2570a68_28/index.m3u8?expire=1773774245&sign=fe3ed1d2ab779301dfcf3693065a6ccb
+#EXTINF:-1 tvg-id="601284291" group-title="Al Bataeh vs Ajman 00:30 ngày 11/03 United Arab Emirates Adnoc Pro-League", Al Bataeh vs Ajman 00:30 ngày 11/03 United Arab Emirates Adnoc Pro-League
+https://live.alilicloud.com/live/a1b4387632a314f4a4bb963f7c4103f2/playlist.m3u8
