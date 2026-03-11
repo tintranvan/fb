@@ -73,12 +73,6 @@ async def scrape_matches():
         # Lấy HTML
         html = await page.content()
         
-        # Debug: Lưu HTML để check
-        with open('debug_html.txt', 'w', encoding='utf-8') as f:
-            f.write(html)
-        
-        print(f"📄 HTML length: {len(html)}")
-        
         # Parse matches từ HTML
         matches = []
         
@@ -95,7 +89,7 @@ async def scrape_matches():
             alt_matches = re.findall(alt_pattern, html)
             print(f"   Alt pattern tìm được: {len(alt_matches)}")
             if alt_matches:
-                matches = [(m, f"Match {i}") for i, m in enumerate(alt_matches[:10])]
+                matches = [(m, f"Match {i}") for i, m in enumerate(alt_matches)]
             else:
                 # Thử tìm data trong script tags (React state)
                 print("   Tìm trong script tags...")
@@ -103,12 +97,23 @@ async def scrape_matches():
                 scripts = re.findall(script_pattern, html, re.DOTALL)
                 print(f"   Tìm được {len(scripts)} script tags")
         
+        # Loại bỏ duplicates dựa trên URL
+        seen_urls = set()
+        unique_matches = []
+        for match_path, match_title in matches:
+            if match_path not in seen_urls:
+                seen_urls.add(match_path)
+                unique_matches.append((match_path, match_title))
+        
+        matches = unique_matches
+        print(f"✓ Sau loại bỏ duplicates: {len(matches)} trận đấu")
+        
         m3u_content = "#EXTM3U\n"
         success_count = 0
-        seen_urls = set()  # Để loại bỏ duplicates
+        seen_stream_urls = set()  # Để loại bỏ duplicates stream links
         match_groups = {}  # Nhóm các trận cùng tên
         
-        for idx, (match_path, match_title) in enumerate(matches[:20], 1):  # Tăng lên 20 trận
+        for idx, (match_path, match_title) in enumerate(matches, 1):  # Lấy tất cả trận
             try:
                 # Lấy domain từ current page URL
                 current_url = page.url
@@ -142,8 +147,8 @@ async def scrape_matches():
                     
                     # Thêm tất cả links
                     for stream_link in stream_links:
-                        if stream_link not in seen_urls:
-                            seen_urls.add(stream_link)
+                        if stream_link not in seen_stream_urls:
+                            seen_stream_urls.add(stream_link)
                             match_groups[match_name]['streams'].append(stream_link)
                             success_count += 1
                             print(f"      ✓ Link {success_count}: {stream_link[:80]}...")
