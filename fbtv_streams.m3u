@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601296652" group-title="Bayer 04 Leverkusen vs Arsenal 00:45 ngày 12/03 UEFA Champions League", Bayer 04 Leverkusen vs Arsenal 00:45 ngày 12/03 UEFA Champions League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69b1949370a68_79/index.m3u8?expire=1773850387&amp;sign=06041fd3b525075c94c8c98c7bb99481
-#EXTINF:-1 tvg-id="601296652" group-title="Bayer 04 Leverkusen vs Arsenal 00:45 ngày 12/03 UEFA Champions League", Bayer 04 Leverkusen vs Arsenal 00:45 ngày 12/03 UEFA Champions League (Link 2)
-https://live.alilicloud.com/live/b7b21d9e632a2d5353f93c236074cc0b/playlist.m3u8
-#EXTINF:-1 tvg-id="601296652" group-title="Bayer 04 Leverkusen vs Arsenal 00:45 ngày 12/03 UEFA Champions League", Bayer 04 Leverkusen vs Arsenal 00:45 ngày 12/03 UEFA Champions League (Link 3)
-https://cdn-hls.taoxanh.biz/live/69b1949370a68_79/index.m3u8?expire=1773850387&sign=06041fd3b525075c94c8c98c7bb99481
-#EXTINF:-1 tvg-id="601296736" group-title="Paris Saint Germain vs Chelsea 03:00 ngày 12/03 UEFA Champions League", Paris Saint Germain vs Chelsea 03:00 ngày 12/03 UEFA Champions League
+#EXTINF:-1 tvg-id="601296736" group-title="Paris Saint Germain vs Chelsea 03:00 ngày 12/03 UEFA Champions League", Paris Saint Germain vs Chelsea 03:00 ngày 12/03 UEFA Champions League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69b1c54670a68_44731/index.m3u8?expire=1773862854&amp;sign=535b27f3394453f47e610d8708ed6ad6
+#EXTINF:-1 tvg-id="601296736" group-title="Paris Saint Germain vs Chelsea 03:00 ngày 12/03 UEFA Champions League", Paris Saint Germain vs Chelsea 03:00 ngày 12/03 UEFA Champions League (Link 2)
+https://cdn-hls.taoxanh.biz/live/69b1c53c70a68_79/index.m3u8?expire=1773862844&amp;sign=cd6e54fb720773778bfe9f32a0a17531
+#EXTINF:-1 tvg-id="601296736" group-title="Paris Saint Germain vs Chelsea 03:00 ngày 12/03 UEFA Champions League", Paris Saint Germain vs Chelsea 03:00 ngày 12/03 UEFA Champions League (Link 3)
 https://live.alilicloud.com/live/381b84ee12bdeafce68e6ec934228141/playlist.m3u8
+#EXTINF:-1 tvg-id="601296736" group-title="Paris Saint Germain vs Chelsea 03:00 ngày 12/03 UEFA Champions League", Paris Saint Germain vs Chelsea 03:00 ngày 12/03 UEFA Champions League (Link 4)
+https://cdn-hls.taoxanh.biz/live/69b1c54670a68_44731/index.m3u8?expire=1773862854&sign=535b27f3394453f47e610d8708ed6ad6
 #EXTINF:-1 tvg-id="601296739" group-title="Real Madrid vs Manchester City 03:00 ngày 12/03 UEFA Champions League", Real Madrid vs Manchester City 03:00 ngày 12/03 UEFA Champions League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69b1bd9f326d8_28/index.m3u8?expire=1773860895&amp;sign=9336d4124ebf6339e249e6be2387dc99
 #EXTINF:-1 tvg-id="601296739" group-title="Real Madrid vs Manchester City 03:00 ngày 12/03 UEFA Champions League", Real Madrid vs Manchester City 03:00 ngày 12/03 UEFA Champions League (Link 2)
@@ -16,39 +16,53 @@ https://live.alilicloud.com/live/4c79671fd90931188cc1e5d11931cff5/playlist.m3u8
 #EXTINF:-1 tvg-id="601296739" group-title="Real Madrid vs Manchester City 03:00 ngày 12/03 UEFA Champions League", Real Madrid vs Manchester City 03:00 ngày 12/03 UEFA Champions League (Link 4)
 https://cdn-hls.taoxanh.biz/live/69b1bd9f326d8_28/index.m3u8?expire=1773860895&sign=9336d4124ebf6339e249e6be2387dc99
 #EXTINF:-1 tvg-id="601296742" group-title="Bodo Glimt vs Sporting CP 03:00 ngày 12/03 UEFA Champions League", Bodo Glimt vs Sporting CP 03:00 ngày 12/03 UEFA Champions League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69b1bdf470a68_88186/index.m3u8?expire=1773860980&amp;sign=b0d5c17383467c68ea9ceec3d930f5ec
+https://cdn-hls.taoxanh.biz/live/69b1bf0e70a68_128756/index.m3u8?expire=1773861262&amp;sign=82e2037c5bf2135452e8cea8f2409d32
 #EXTINF:-1 tvg-id="601296742" group-title="Bodo Glimt vs Sporting CP 03:00 ngày 12/03 UEFA Champions League", Bodo Glimt vs Sporting CP 03:00 ngày 12/03 UEFA Champions League (Link 2)
-https://live.alilicloud.com/live/dc4fba770f314e6b1cbe7ea3ef0e877e/playlist.m3u8
+https://cdn-hls.taoxanh.biz/live/69b1bdf470a68_88186/index.m3u8?expire=1773860980&amp;sign=b0d5c17383467c68ea9ceec3d930f5ec
 #EXTINF:-1 tvg-id="601296742" group-title="Bodo Glimt vs Sporting CP 03:00 ngày 12/03 UEFA Champions League", Bodo Glimt vs Sporting CP 03:00 ngày 12/03 UEFA Champions League (Link 3)
-https://cdn-hls.taoxanh.biz/live/69b1bdf470a68_88186/index.m3u8?expire=1773860980&sign=b0d5c17383467c68ea9ceec3d930f5ec
-#EXTINF:-1 tvg-id="601284297" group-title="Al-Sharjah vs Al-Nasr Dubai 00:30 ngày 12/03 United Arab Emirates Adnoc Pro-League", Al-Sharjah vs Al-Nasr Dubai 00:30 ngày 12/03 United Arab Emirates Adnoc Pro-League
-https://live.alilicloud.com/live/dc2c2dbd79d647f962cdd1767ed71510/playlist.m3u8
-#EXTINF:-1 tvg-id="601288975" group-title="Khor Fakkan SSC vs Dabba Al-Fujairah 00:30 ngày 12/03 United Arab Emirates Adnoc Pro-League", Khor Fakkan SSC vs Dabba Al-Fujairah 00:30 ngày 12/03 United Arab Emirates Adnoc Pro-League
-https://live.alilicloud.com/live/14d1503eb9df95172143f3c272a9a486/playlist.m3u8
-#EXTINF:-1 tvg-id="601288978" group-title="Shabab AlAhli vs Ittihad Kalba FC 00:30 ngày 12/03 United Arab Emirates Adnoc Pro-League", Shabab AlAhli vs Ittihad Kalba FC 00:30 ngày 12/03 United Arab Emirates Adnoc Pro-League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69b19edf70a68_44731/index.m3u8?expire=1773853023&amp;sign=a5746410b6badbcc3af0c06a257eefdc
-#EXTINF:-1 tvg-id="601288978" group-title="Shabab AlAhli vs Ittihad Kalba FC 00:30 ngày 12/03 United Arab Emirates Adnoc Pro-League", Shabab AlAhli vs Ittihad Kalba FC 00:30 ngày 12/03 United Arab Emirates Adnoc Pro-League (Link 2)
-https://live.alilicloud.com/live/e499d7caa8569a46c482b2dfe841000f/playlist.m3u8
-#EXTINF:-1 tvg-id="601288978" group-title="Shabab AlAhli vs Ittihad Kalba FC 00:30 ngày 12/03 United Arab Emirates Adnoc Pro-League", Shabab AlAhli vs Ittihad Kalba FC 00:30 ngày 12/03 United Arab Emirates Adnoc Pro-League (Link 3)
-https://cdn-hls.taoxanh.biz/live/69b19edf70a68_44731/index.m3u8?expire=1773853023&sign=a5746410b6badbcc3af0c06a257eefdc
-#EXTINF:-1 tvg-id="601296628" group-title="FK Riteriai vs Dziugas Telsiai 00:30 ngày 12/03 Lithuanian A Lyga", FK Riteriai vs Dziugas Telsiai 00:30 ngày 12/03 Lithuanian A Lyga
-https://live.alilicloud.com/live/6a75811aa3bc5378390549ab1e6e2c2b/playlist.m3u8
+https://live.alilicloud.com/live/dc4fba770f314e6b1cbe7ea3ef0e877e/playlist.m3u8
+#EXTINF:-1 tvg-id="601296742" group-title="Bodo Glimt vs Sporting CP 03:00 ngày 12/03 UEFA Champions League", Bodo Glimt vs Sporting CP 03:00 ngày 12/03 UEFA Champions League (Link 4)
+https://cdn-hls.taoxanh.biz/live/69b1bf0e70a68_128756/index.m3u8?expire=1773861262&sign=82e2037c5bf2135452e8cea8f2409d32
+#EXTINF:-1 tvg-id="601296715" group-title="Birmingham City vs Queens Park Rangers 02:45 ngày 12/03 English Football League Championship", Birmingham City vs Queens Park Rangers 02:45 ngày 12/03 English Football League Championship (Link 1)
+https://cdn-hls.taoxanh.biz/live/69b1bb0b326d8_95554/index.m3u8?expire=1773860235&amp;sign=fc868be2ffbeec8629c79f79401285c6
+#EXTINF:-1 tvg-id="601296715" group-title="Birmingham City vs Queens Park Rangers 02:45 ngày 12/03 English Football League Championship", Birmingham City vs Queens Park Rangers 02:45 ngày 12/03 English Football League Championship (Link 2)
+https://live.alilicloud.com/live/e9b1f0f7981d59c31d5ffd7e6c0bae9d/playlist.m3u8
+#EXTINF:-1 tvg-id="601296715" group-title="Birmingham City vs Queens Park Rangers 02:45 ngày 12/03 English Football League Championship", Birmingham City vs Queens Park Rangers 02:45 ngày 12/03 English Football League Championship (Link 3)
+https://cdn-hls.taoxanh.biz/live/69b1bb0b326d8_95554/index.m3u8?expire=1773860235&sign=fc868be2ffbeec8629c79f79401285c6
+#EXTINF:-1 tvg-id="601296664" group-title="Dijon w vs RC Saint Etienne (w) 01:00 ngày 12/03 French Division 1 Feminine", Dijon w vs RC Saint Etienne (w) 01:00 ngày 12/03 French Division 1 Feminine
+https://live.alilicloud.com/live/e81350d1ed4bba21e967cce287b37772/playlist.m3u8
+#EXTINF:-1 tvg-id="601296667" group-title="Lens (w) vs Montpellier (w) 01:00 ngày 12/03 French Division 1 Feminine", Lens (w) vs Montpellier (w) 01:00 ngày 12/03 French Division 1 Feminine
+https://live.alilicloud.com/live/b508c3226e906eff53ace14bc45e5fe7/playlist.m3u8
+#EXTINF:-1 tvg-id="601296670" group-title="Nantes (w) vs Fleury 91 (w) 01:00 ngày 12/03 French Division 1 Feminine", Nantes (w) vs Fleury 91 (w) 01:00 ngày 12/03 French Division 1 Feminine
+https://live.alilicloud.com/live/9deb19695b3f57fdb5c565149c6bf5fa/playlist.m3u8
+#EXTINF:-1 tvg-id="601296718" group-title="Norwich City vs Sheffield United 02:45 ngày 12/03 English Football League Championship", Norwich City vs Sheffield United 02:45 ngày 12/03 English Football League Championship (Link 1)
+https://cdn-hls.taoxanh.biz/live/69b1be7f326d8_124958/index.m3u8?expire=1773861119&amp;sign=349070300be2e9a4e55c2c6649f1c015
+#EXTINF:-1 tvg-id="601296718" group-title="Norwich City vs Sheffield United 02:45 ngày 12/03 English Football League Championship", Norwich City vs Sheffield United 02:45 ngày 12/03 English Football League Championship (Link 2)
+https://live.alilicloud.com/live/ebeec4b31156c2df6bb96b01fb74866e/playlist.m3u8
+#EXTINF:-1 tvg-id="601296718" group-title="Norwich City vs Sheffield United 02:45 ngày 12/03 English Football League Championship", Norwich City vs Sheffield United 02:45 ngày 12/03 English Football League Championship (Link 3)
+https://cdn-hls.taoxanh.biz/live/69b1be7f326d8_124958/index.m3u8?expire=1773861119&sign=349070300be2e9a4e55c2c6649f1c015
+#EXTINF:-1 tvg-id="601296727" group-title="West Bromwich Albion vs Southampton 02:45 ngày 12/03 English Football League Championship", West Bromwich Albion vs Southampton 02:45 ngày 12/03 English Football League Championship (Link 1)
+https://cdn-hls.taoxanh.biz/live/69b1a27a326d8_73445/index.m3u8?expire=1773853946&amp;sign=f1c2a9eb8180146c896a064e7ea0fb32
+#EXTINF:-1 tvg-id="601296727" group-title="West Bromwich Albion vs Southampton 02:45 ngày 12/03 English Football League Championship", West Bromwich Albion vs Southampton 02:45 ngày 12/03 English Football League Championship (Link 2)
+https://cdn-hls.taoxanh.biz/live/69b1a27a326d8_73445/index.m3u8?expire=1773853946&sign=f1c2a9eb8180146c896a064e7ea0fb32
+#EXTINF:-1 tvg-id="601294297" group-title="Al Hussein Irbid vs Al-Baq's 02:00 ngày 12/03 Jordan Premier League", Al Hussein Irbid vs Al-Baq's 02:00 ngày 12/03 Jordan Premier League
+https://live.alilicloud.com/live/1d56980e934a69f35e21581dcc7a8d28/playlist.m3u8
 #EXTINF:-1 tvg-id="601309543" group-title="Quinten Pongers vs Flavian Glont 01:15 ngày 12/03 European Open Pool Championship 2026", Quinten Pongers vs Flavian Glont 01:15 ngày 12/03 European Open Pool Championship 2026 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69b130be70a68_103/index.m3u8?expire=1773824830&amp;sign=1b08b4c9064d9abecc542cb02890d5ed
 #EXTINF:-1 tvg-id="601309543" group-title="Quinten Pongers vs Flavian Glont 01:15 ngày 12/03 European Open Pool Championship 2026", Quinten Pongers vs Flavian Glont 01:15 ngày 12/03 European Open Pool Championship 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69b130be70a68_103/index.m3u8?expire=1773824830&sign=1b08b4c9064d9abecc542cb02890d5ed
-#EXTINF:-1 tvg-id="601308340" group-title="Mihajlo TOMIC / Andjela VITMAN vs WU Guan Xun /. LEE Chia Hsin 01:30 ngày 12/03 Sân 4 - YONEX Swiss Open 2026", Mihajlo TOMIC / Andjela VITMAN vs WU Guan Xun /. LEE Chia Hsin 01:30 ngày 12/03 Sân 4 - YONEX Swiss Open 2026 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69b14a03326d8_85714/index.m3u8?expire=1773831299&amp;sign=2f8e12f4e6285fd4adcdf241756148a7
-#EXTINF:-1 tvg-id="601308340" group-title="Mihajlo TOMIC / Andjela VITMAN vs WU Guan Xun /. LEE Chia Hsin 01:30 ngày 12/03 Sân 4 - YONEX Swiss Open 2026", Mihajlo TOMIC / Andjela VITMAN vs WU Guan Xun /. LEE Chia Hsin 01:30 ngày 12/03 Sân 4 - YONEX Swiss Open 2026 (Link 2)
-https://cdn-hls.taoxanh.biz/live/69b14a03326d8_85714/index.m3u8?expire=1773831299&sign=2f8e12f4e6285fd4adcdf241756148a7
-#EXTINF:-1 tvg-id="601308331" group-title="Arnaud MERKLE vs Justin Hoh 02:08 ngày 12/03 Sân 1 - YONEX Swiss Open 2026", Arnaud MERKLE vs Justin Hoh 02:08 ngày 12/03 Sân 1 - YONEX Swiss Open 2026 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69b12c1f326d8_18754/index.m3u8?expire=1773823647&amp;sign=31f7a20ea07a7ff7f311c9c1c78c3660
-#EXTINF:-1 tvg-id="601308331" group-title="Arnaud MERKLE vs Justin Hoh 02:08 ngày 12/03 Sân 1 - YONEX Swiss Open 2026", Arnaud MERKLE vs Justin Hoh 02:08 ngày 12/03 Sân 1 - YONEX Swiss Open 2026 (Link 2)
-https://cdn-hls.taoxanh.biz/live/69b12c1f326d8_18754/index.m3u8?expire=1773823647&sign=31f7a20ea07a7ff7f311c9c1c78c3660
 #EXTINF:-1 tvg-id="601308337" group-title="Alwi FARHAN vs HU Zhe An 01:50 ngày 12/03 Sân 3 - YONEX Swiss Open 2026", Alwi FARHAN vs HU Zhe An 01:50 ngày 12/03 Sân 3 - YONEX Swiss Open 2026 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69b13a57326d8_85706/index.m3u8?expire=1773827287&amp;sign=d8cec007b8f09ce964edd2ff6c204c1c
 #EXTINF:-1 tvg-id="601308337" group-title="Alwi FARHAN vs HU Zhe An 01:50 ngày 12/03 Sân 3 - YONEX Swiss Open 2026", Alwi FARHAN vs HU Zhe An 01:50 ngày 12/03 Sân 3 - YONEX Swiss Open 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69b13a57326d8_85706/index.m3u8?expire=1773827287&sign=d8cec007b8f09ce964edd2ff6c204c1c
+#EXTINF:-1 tvg-id="601308331" group-title="Arnaud MERKLE vs Justin Hoh 02:08 ngày 12/03 Sân 1 - YONEX Swiss Open 2026", Arnaud MERKLE vs Justin Hoh 02:08 ngày 12/03 Sân 1 - YONEX Swiss Open 2026 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69b12c1f326d8_18754/index.m3u8?expire=1773823647&amp;sign=31f7a20ea07a7ff7f311c9c1c78c3660
+#EXTINF:-1 tvg-id="601308331" group-title="Arnaud MERKLE vs Justin Hoh 02:08 ngày 12/03 Sân 1 - YONEX Swiss Open 2026", Arnaud MERKLE vs Justin Hoh 02:08 ngày 12/03 Sân 1 - YONEX Swiss Open 2026 (Link 2)
+https://cdn-hls.taoxanh.biz/live/69b12c1f326d8_18754/index.m3u8?expire=1773823647&sign=31f7a20ea07a7ff7f311c9c1c78c3660
+#EXTINF:-1 tvg-id="601308340" group-title="Malvika BANSOD vs Pornpawee CHOCHUWONG 02:40 ngày 12/03 Sân 4 - YONEX Swiss Open 2026", Malvika BANSOD vs Pornpawee CHOCHUWONG 02:40 ngày 12/03 Sân 4 - YONEX Swiss Open 2026 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69b14a03326d8_85714/index.m3u8?expire=1773831299&amp;sign=2f8e12f4e6285fd4adcdf241756148a7
+#EXTINF:-1 tvg-id="601308340" group-title="Malvika BANSOD vs Pornpawee CHOCHUWONG 02:40 ngày 12/03 Sân 4 - YONEX Swiss Open 2026", Malvika BANSOD vs Pornpawee CHOCHUWONG 02:40 ngày 12/03 Sân 4 - YONEX Swiss Open 2026 (Link 2)
+https://cdn-hls.taoxanh.biz/live/69b14a03326d8_85714/index.m3u8?expire=1773831299&sign=2f8e12f4e6285fd4adcdf241756148a7
 #EXTINF:-1 tvg-id="601309471" group-title="Hijikata R. vs C. Norrie 01:00 ngày 12/03 ATP Indian Wells", Hijikata R. vs C. Norrie 01:00 ngày 12/03 ATP Indian Wells (Link 1)
 https://cdn-hls.taoxanh.biz/live/69b1ae7c70a68_142210/index.m3u8?expire=1773857020&amp;sign=999299227db0ae15c0699b6172d4233b
 #EXTINF:-1 tvg-id="601309471" group-title="Hijikata R. vs C. Norrie 01:00 ngày 12/03 ATP Indian Wells", Hijikata R. vs C. Norrie 01:00 ngày 12/03 ATP Indian Wells (Link 2)
@@ -57,3 +71,11 @@ https://cdn-hls.taoxanh.biz/live/69b1ae7c70a68_142210/index.m3u8?expire=17738570
 https://cdn-hls.taoxanh.biz/live/69b1aa16326d8_110198/index.m3u8?expire=1773855894&amp;sign=6ec1903001682724ba84379f08953f90
 #EXTINF:-1 tvg-id="601309483" group-title="Muchova K. vs Swiatek I. 01:00 ngày 12/03 WTA Indian Wells", Muchova K. vs Swiatek I. 01:00 ngày 12/03 WTA Indian Wells (Link 2)
 https://cdn-hls.taoxanh.biz/live/69b1aa16326d8_110198/index.m3u8?expire=1773855894&sign=6ec1903001682724ba84379f08953f90
+#EXTINF:-1 tvg-id="601309486" group-title="Pegula J. vs Bencic B. 02:30 ngày 12/03 WTA Indian Wells", Pegula J. vs Bencic B. 02:30 ngày 12/03 WTA Indian Wells (Link 1)
+https://cdn-hls.taoxanh.biz/live/69b1c365326d8_110198/index.m3u8?expire=1773862373&amp;sign=d7444abdb0476227cd90b2e42efe18f8
+#EXTINF:-1 tvg-id="601309486" group-title="Pegula J. vs Bencic B. 02:30 ngày 12/03 WTA Indian Wells", Pegula J. vs Bencic B. 02:30 ngày 12/03 WTA Indian Wells (Link 2)
+https://cdn-hls.taoxanh.biz/live/69b1c365326d8_110198/index.m3u8?expire=1773862373&sign=d7444abdb0476227cd90b2e42efe18f8
+#EXTINF:-1 tvg-id="601309474" group-title="Medvedev D. vs Michelsen A. 03:00 ngày 12/03 ATP Indian Wells", Medvedev D. vs Michelsen A. 03:00 ngày 12/03 ATP Indian Wells (Link 1)
+https://cdn-hls.taoxanh.biz/live/69b1c21770a68_4733/index.m3u8?expire=1773862039&amp;sign=c3b65340bcfbad14520cc41fbbb367a7
+#EXTINF:-1 tvg-id="601309474" group-title="Medvedev D. vs Michelsen A. 03:00 ngày 12/03 ATP Indian Wells", Medvedev D. vs Michelsen A. 03:00 ngày 12/03 ATP Indian Wells (Link 2)
+https://cdn-hls.taoxanh.biz/live/69b1c21770a68_4733/index.m3u8?expire=1773862039&sign=c3b65340bcfbad14520cc41fbbb367a7
