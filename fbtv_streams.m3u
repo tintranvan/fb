@@ -1,14 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601311751" group-title="Aleksa Pecelj vs Dương Quốc Hoàng 21:00 ngày 13/03 European Open Pool Championship 2026", Aleksa Pecelj vs Dương Quốc Hoàng 21:00 ngày 13/03 European Open Pool Championship 2026 (Link 1)
+#EXTINF:-1 tvg-id="601311751" group-title="Phuong Nam Pham vs MORTIZ NEUHAUSEN 00:00 ngày 14/03 European Open Pool Championship 2026", Phuong Nam Pham vs MORTIZ NEUHAUSEN 00:00 ngày 14/03 European Open Pool Championship 2026 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69b3d9c270a68_103/index.m3u8?expire=1773999170&amp;sign=fd39fc4aa564f6b050b6b93e7e2f2751
-#EXTINF:-1 tvg-id="601311751" group-title="Aleksa Pecelj vs Dương Quốc Hoàng 21:00 ngày 13/03 European Open Pool Championship 2026", Aleksa Pecelj vs Dương Quốc Hoàng 21:00 ngày 13/03 European Open Pool Championship 2026 (Link 2)
+#EXTINF:-1 tvg-id="601311751" group-title="Phuong Nam Pham vs MORTIZ NEUHAUSEN 00:00 ngày 14/03 European Open Pool Championship 2026", Phuong Nam Pham vs MORTIZ NEUHAUSEN 00:00 ngày 14/03 European Open Pool Championship 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69b3d9c270a68_103/index.m3u8?expire=1773999170&sign=fd39fc4aa564f6b050b6b93e7e2f2751
-#EXTINF:-1 tvg-id="601308754" group-title="UTA Arad vs Hermannstadt 22:30 ngày 13/03 Romanian Liga I", UTA Arad vs Hermannstadt 22:30 ngày 13/03 Romanian Liga I (Link 1)
-https://cdn-hls.taoxanh.biz/live/69b42a9070a68_73445/index.m3u8?expire=1774019856&amp;sign=1f9b03ff4801f7688ca2f36c3ae47d4a
-#EXTINF:-1 tvg-id="601308754" group-title="UTA Arad vs Hermannstadt 22:30 ngày 13/03 Romanian Liga I", UTA Arad vs Hermannstadt 22:30 ngày 13/03 Romanian Liga I (Link 2)
-https://live.alilicloud.com/live/297fcb3452254b6bb76ce2cdbb8ef74f/playlist.m3u8
-#EXTINF:-1 tvg-id="601308754" group-title="UTA Arad vs Hermannstadt 22:30 ngày 13/03 Romanian Liga I", UTA Arad vs Hermannstadt 22:30 ngày 13/03 Romanian Liga I (Link 3)
-https://cdn-hls.taoxanh.biz/live/69b42a9070a68_73445/index.m3u8?expire=1774019856&sign=1f9b03ff4801f7688ca2f36c3ae47d4a
 #EXTINF:-1 tvg-id="601297585" group-title="FK Makhachkala vs Gazovik Orenburg 23:30 ngày 13/03 Russian Premier League", FK Makhachkala vs Gazovik Orenburg 23:30 ngày 13/03 Russian Premier League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69b42ed2326d8_88642/index.m3u8?expire=1774020946&amp;sign=8d25e35eacc62a0a07c6be66cda07350
 #EXTINF:-1 tvg-id="601297585" group-title="FK Makhachkala vs Gazovik Orenburg 23:30 ngày 13/03 Russian Premier League", FK Makhachkala vs Gazovik Orenburg 23:30 ngày 13/03 Russian Premier League (Link 2)
@@ -17,6 +11,12 @@ https://live.alilicloud.com/live/3703d04906ec01cf6ea5b604bb042b8d/playlist.m3u8
 https://cdn-hls.taoxanh.biz/live/69b42ed2326d8_88642/index.m3u8?expire=1774020946&sign=8d25e35eacc62a0a07c6be66cda07350
 #EXTINF:-1 tvg-id="601297591" group-title="Standard Sumgayit vs Shamakhi FK 23:30 ngày 13/03 Azerbaijan Premier League", Standard Sumgayit vs Shamakhi FK 23:30 ngày 13/03 Azerbaijan Premier League
 https://live.alilicloud.com/live/3f25991ce934af9855af3accfd869d84/playlist.m3u8
+#EXTINF:-1 tvg-id="601300228" group-title="Antalyaspor vs Gazisehir Gaziantep 00:00 ngày 14/03 Turkish Super League", Antalyaspor vs Gazisehir Gaziantep 00:00 ngày 14/03 Turkish Super League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69b43a05326d8_124958/index.m3u8?expire=1774023813&amp;sign=51d5b923317f6ed80901725e1cd3cd4f
+#EXTINF:-1 tvg-id="601300228" group-title="Antalyaspor vs Gazisehir Gaziantep 00:00 ngày 14/03 Turkish Super League", Antalyaspor vs Gazisehir Gaziantep 00:00 ngày 14/03 Turkish Super League (Link 2)
+https://live.alilicloud.com/live/cfb6622e3335be8720495aa0377edd21/playlist.m3u8
+#EXTINF:-1 tvg-id="601300228" group-title="Antalyaspor vs Gazisehir Gaziantep 00:00 ngày 14/03 Turkish Super League", Antalyaspor vs Gazisehir Gaziantep 00:00 ngày 14/03 Turkish Super League (Link 3)
+https://cdn-hls.taoxanh.biz/live/69b43a05326d8_124958/index.m3u8?expire=1774023813&sign=51d5b923317f6ed80901725e1cd3cd4f
 #EXTINF:-1 tvg-id="601297552" group-title="Dynamo Kyiv vs Obolon Kyiv 23:00 ngày 13/03 Ukrainian Premier League", Dynamo Kyiv vs Obolon Kyiv 23:00 ngày 13/03 Ukrainian Premier League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69b4272470a68_79/index.m3u8?expire=1774018980&amp;sign=cf894d6a4665ee703d1d04b01ce005b8
 #EXTINF:-1 tvg-id="601297552" group-title="Dynamo Kyiv vs Obolon Kyiv 23:00 ngày 13/03 Ukrainian Premier League", Dynamo Kyiv vs Obolon Kyiv 23:00 ngày 13/03 Ukrainian Premier League (Link 2)
@@ -25,19 +25,21 @@ https://live.alilicloud.com/live/906eb06e22b5d55ebc2164c5e55ff9fc/playlist.m3u8
 https://cdn-hls.taoxanh.biz/live/69b4272470a68_79/index.m3u8?expire=1774018980&sign=cf894d6a4665ee703d1d04b01ce005b8
 #EXTINF:-1 tvg-id="601297579" group-title="FK Liepaja vs Rigas Futbola Skola 23:00 ngày 13/03 Latvian Higher League", FK Liepaja vs Rigas Futbola Skola 23:00 ngày 13/03 Latvian Higher League
 https://live.alilicloud.com/live/388296c03b261ca9613dac104ebca0dd/playlist.m3u8
-#EXTINF:-1 tvg-id="601297546" group-title="Sidama Bunna vs Shire Endaselassie FC 22:00 ngày 13/03 Ethiopia Premier League", Sidama Bunna vs Shire Endaselassie FC 22:00 ngày 13/03 Ethiopia Premier League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69b4184d326d8_128756/index.m3u8?expire=1774015181&amp;sign=88523dda7636317d8798fd74bc68375e
-#EXTINF:-1 tvg-id="601297546" group-title="Sidama Bunna vs Shire Endaselassie FC 22:00 ngày 13/03 Ethiopia Premier League", Sidama Bunna vs Shire Endaselassie FC 22:00 ngày 13/03 Ethiopia Premier League (Link 2)
-https://cdn-hls.taoxanh.biz/live/69b4184d326d8_128756/index.m3u8?expire=1774015181&sign=88523dda7636317d8798fd74bc68375e
-#EXTINF:-1 tvg-id="601312339" group-title="Phuong Nam Pham vs Moritz Neuhausen 23:00 ngày 13/03 European Open Pool Championship 2026", Phuong Nam Pham vs Moritz Neuhausen 23:00 ngày 13/03 European Open Pool Championship 2026 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69b435ec70a68_85714/index.m3u8?expire=1774022764&amp;sign=297d3462878542170a53c1e0bbb02c61
-#EXTINF:-1 tvg-id="601312339" group-title="Phuong Nam Pham vs Moritz Neuhausen 23:00 ngày 13/03 European Open Pool Championship 2026", Phuong Nam Pham vs Moritz Neuhausen 23:00 ngày 13/03 European Open Pool Championship 2026 (Link 2)
-https://cdn-hls.taoxanh.biz/live/69b435ec70a68_85714/index.m3u8?expire=1774022764&sign=297d3462878542170a53c1e0bbb02c61
-#EXTINF:-1 tvg-id="601311640" group-title="Hu Ling F. / Jheng Y. C. vs G. STOEVA /  S. STOEVA 22:00 ngày 13/03 Sân 2 - YONEX Swiss Open 2026", Hu Ling F. / Jheng Y. C. vs G. STOEVA /  S. STOEVA 22:00 ngày 13/03 Sân 2 - YONEX Swiss Open 2026 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69b406de70a68_18754/index.m3u8?expire=1774010718&amp;sign=9d243af3879004e2196dc972188e1214
-#EXTINF:-1 tvg-id="601311640" group-title="Hu Ling F. / Jheng Y. C. vs G. STOEVA /  S. STOEVA 22:00 ngày 13/03 Sân 2 - YONEX Swiss Open 2026", Hu Ling F. / Jheng Y. C. vs G. STOEVA /  S. STOEVA 22:00 ngày 13/03 Sân 2 - YONEX Swiss Open 2026 (Link 2)
-https://cdn-hls.taoxanh.biz/live/69b406de70a68_18754/index.m3u8?expire=1774010718&sign=9d243af3879004e2196dc972188e1214
+#EXTINF:-1 tvg-id="601300177" group-title="AS Douanes Ouagadougou vs Real du Faso 23:00 ngày 13/03 Burkina Faso Division 1", AS Douanes Ouagadougou vs Real du Faso 23:00 ngày 13/03 Burkina Faso Division 1
+https://live.alilicloud.com/live/68c19f0becc146a4269c070c503c55c3/playlist.m3u8
+#EXTINF:-1 tvg-id="601300231" group-title="Karagumruk vs Fenerbahce 00:00 ngày 14/03 Turkish Super League", Karagumruk vs Fenerbahce 00:00 ngày 14/03 Turkish Super League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69b4419b326d8_95554/index.m3u8?expire=1774025755&amp;sign=7ba0c6a4155519d41d305f52912783b7
+#EXTINF:-1 tvg-id="601300231" group-title="Karagumruk vs Fenerbahce 00:00 ngày 14/03 Turkish Super League", Karagumruk vs Fenerbahce 00:00 ngày 14/03 Turkish Super League (Link 2)
+https://live.alilicloud.com/live/9dfa797259067896fb7d67ae92b64085/playlist.m3u8
+#EXTINF:-1 tvg-id="601300231" group-title="Karagumruk vs Fenerbahce 00:00 ngày 14/03 Turkish Super League", Karagumruk vs Fenerbahce 00:00 ngày 14/03 Turkish Super League (Link 3)
+https://cdn-hls.taoxanh.biz/live/69b4419b326d8_95554/index.m3u8?expire=1774025755&sign=7ba0c6a4155519d41d305f52912783b7
+#EXTINF:-1 tvg-id="601300180" group-title="Vitesse Delft vs Sonabel Ouagadougou 23:00 ngày 13/03 Burkina Faso Division 1", Vitesse Delft vs Sonabel Ouagadougou 23:00 ngày 13/03 Burkina Faso Division 1
+https://live.alilicloud.com/live/8e1acfd0c80ac16a750001d825f38e17/playlist.m3u8
 #EXTINF:-1 tvg-id="601311637" group-title="CHENG Xing / Zhang Chi vs J.HIDAYATULLAH / F.N .PASARIBU 00:00 ngày 14/03 Sân 1 - YONEX Swiss Open 2026", CHENG Xing / Zhang Chi vs J.HIDAYATULLAH / F.N .PASARIBU 00:00 ngày 14/03 Sân 1 - YONEX Swiss Open 2026 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69b4129670a68_110198/index.m3u8?expire=1774013718&amp;sign=797196a3072b849108113cd7b918bf23
 #EXTINF:-1 tvg-id="601311637" group-title="CHENG Xing / Zhang Chi vs J.HIDAYATULLAH / F.N .PASARIBU 00:00 ngày 14/03 Sân 1 - YONEX Swiss Open 2026", CHENG Xing / Zhang Chi vs J.HIDAYATULLAH / F.N .PASARIBU 00:00 ngày 14/03 Sân 1 - YONEX Swiss Open 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69b4129670a68_110198/index.m3u8?expire=1774013718&sign=797196a3072b849108113cd7b918bf23
+#EXTINF:-1 tvg-id="601311640" group-title="Jason GUNAWAN vs Alwi FARHAN 00:00 ngày 14/03 Sân 2 - YONEX Swiss Open 2026", Jason GUNAWAN vs Alwi FARHAN 00:00 ngày 14/03 Sân 2 - YONEX Swiss Open 2026 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69b406de70a68_18754/index.m3u8?expire=1774010718&amp;sign=9d243af3879004e2196dc972188e1214
+#EXTINF:-1 tvg-id="601311640" group-title="Jason GUNAWAN vs Alwi FARHAN 00:00 ngày 14/03 Sân 2 - YONEX Swiss Open 2026", Jason GUNAWAN vs Alwi FARHAN 00:00 ngày 14/03 Sân 2 - YONEX Swiss Open 2026 (Link 2)
+https://cdn-hls.taoxanh.biz/live/69b406de70a68_18754/index.m3u8?expire=1774010718&sign=9d243af3879004e2196dc972188e1214
