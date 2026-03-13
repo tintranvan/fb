@@ -1,31 +1,33 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601311751" group-title="Phuong Nam Pham vs MORTIZ NEUHAUSEN 00:00 ngày 14/03 European Open Pool Championship 2026", Phuong Nam Pham vs MORTIZ NEUHAUSEN 00:00 ngày 14/03 European Open Pool Championship 2026 (Link 1)
+#EXTINF:-1 tvg-id="601311751" group-title="Yannick Pongers vs Joshua Filler 01:45 ngày 14/03 European Open Pool Championship 2026", Yannick Pongers vs Joshua Filler 01:45 ngày 14/03 European Open Pool Championship 2026 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69b3d9c270a68_103/index.m3u8?expire=1773999170&amp;sign=fd39fc4aa564f6b050b6b93e7e2f2751
-#EXTINF:-1 tvg-id="601311751" group-title="Phuong Nam Pham vs MORTIZ NEUHAUSEN 00:00 ngày 14/03 European Open Pool Championship 2026", Phuong Nam Pham vs MORTIZ NEUHAUSEN 00:00 ngày 14/03 European Open Pool Championship 2026 (Link 2)
+#EXTINF:-1 tvg-id="601311751" group-title="Yannick Pongers vs Joshua Filler 01:45 ngày 14/03 European Open Pool Championship 2026", Yannick Pongers vs Joshua Filler 01:45 ngày 14/03 European Open Pool Championship 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69b3d9c270a68_103/index.m3u8?expire=1773999170&sign=fd39fc4aa564f6b050b6b93e7e2f2751
-#EXTINF:-1 tvg-id="601297585" group-title="FK Makhachkala vs Gazovik Orenburg 23:30 ngày 13/03 Russian Premier League", FK Makhachkala vs Gazovik Orenburg 23:30 ngày 13/03 Russian Premier League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69b42ed2326d8_88642/index.m3u8?expire=1774020946&amp;sign=8d25e35eacc62a0a07c6be66cda07350
-#EXTINF:-1 tvg-id="601297585" group-title="FK Makhachkala vs Gazovik Orenburg 23:30 ngày 13/03 Russian Premier League", FK Makhachkala vs Gazovik Orenburg 23:30 ngày 13/03 Russian Premier League (Link 2)
-https://live.alilicloud.com/live/3703d04906ec01cf6ea5b604bb042b8d/playlist.m3u8
-#EXTINF:-1 tvg-id="601297585" group-title="FK Makhachkala vs Gazovik Orenburg 23:30 ngày 13/03 Russian Premier League", FK Makhachkala vs Gazovik Orenburg 23:30 ngày 13/03 Russian Premier League (Link 3)
-https://cdn-hls.taoxanh.biz/live/69b42ed2326d8_88642/index.m3u8?expire=1774020946&sign=8d25e35eacc62a0a07c6be66cda07350
-#EXTINF:-1 tvg-id="601297591" group-title="Standard Sumgayit vs Shamakhi FK 23:30 ngày 13/03 Azerbaijan Premier League", Standard Sumgayit vs Shamakhi FK 23:30 ngày 13/03 Azerbaijan Premier League
-https://live.alilicloud.com/live/3f25991ce934af9855af3accfd869d84/playlist.m3u8
 #EXTINF:-1 tvg-id="601300228" group-title="Antalyaspor vs Gazisehir Gaziantep 00:00 ngày 14/03 Turkish Super League", Antalyaspor vs Gazisehir Gaziantep 00:00 ngày 14/03 Turkish Super League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69b43a05326d8_124958/index.m3u8?expire=1774023813&amp;sign=51d5b923317f6ed80901725e1cd3cd4f
 #EXTINF:-1 tvg-id="601300228" group-title="Antalyaspor vs Gazisehir Gaziantep 00:00 ngày 14/03 Turkish Super League", Antalyaspor vs Gazisehir Gaziantep 00:00 ngày 14/03 Turkish Super League (Link 2)
 https://live.alilicloud.com/live/cfb6622e3335be8720495aa0377edd21/playlist.m3u8
 #EXTINF:-1 tvg-id="601300228" group-title="Antalyaspor vs Gazisehir Gaziantep 00:00 ngày 14/03 Turkish Super League", Antalyaspor vs Gazisehir Gaziantep 00:00 ngày 14/03 Turkish Super League (Link 3)
 https://cdn-hls.taoxanh.biz/live/69b43a05326d8_124958/index.m3u8?expire=1774023813&sign=51d5b923317f6ed80901725e1cd3cd4f
-#EXTINF:-1 tvg-id="601300183" group-title="US Forces Armees vs Sporting Football des Cascades 23:00 ngày 13/03 Burkina Faso Division 1", US Forces Armees vs Sporting Football des Cascades 23:00 ngày 13/03 Burkina Faso Division 1
-https://live.alilicloud.com/live/7c78eb910ecbf7698c4a2f20aac1e16c/playlist.m3u8
-#EXTINF:-1 tvg-id="601300186" group-title="BE1 NFA vs BFA Vilnius 23:30 ngày 13/03 Lithuanian I Lyga", BE1 NFA vs BFA Vilnius 23:30 ngày 13/03 Lithuanian I Lyga
-https://live.alilicloud.com/live/9ad15a6e9309dd365fa2bf3c0d23f114/playlist.m3u8
+#EXTINF:-1 tvg-id="601300264" group-title="SpVgg Greuther Fürth vs SV Elversberg 00:30 ngày 14/03 German Bundesliga 2", SpVgg Greuther Fürth vs SV Elversberg 00:30 ngày 14/03 German Bundesliga 2 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69b4483c70a68_73445/index.m3u8?expire=1774027452&amp;sign=a17aa5bba4fd43637f1faab51e19a5d6
+#EXTINF:-1 tvg-id="601300264" group-title="SpVgg Greuther Fürth vs SV Elversberg 00:30 ngày 14/03 German Bundesliga 2", SpVgg Greuther Fürth vs SV Elversberg 00:30 ngày 14/03 German Bundesliga 2 (Link 2)
+https://live.alilicloud.com/live/9ee2fc7228f08c76cb48b260ce668f68/playlist.m3u8
+#EXTINF:-1 tvg-id="601300264" group-title="SpVgg Greuther Fürth vs SV Elversberg 00:30 ngày 14/03 German Bundesliga 2", SpVgg Greuther Fürth vs SV Elversberg 00:30 ngày 14/03 German Bundesliga 2 (Link 3)
+https://cdn-hls.taoxanh.biz/live/69b4483c70a68_73445/index.m3u8?expire=1774027452&sign=a17aa5bba4fd43637f1faab51e19a5d6
+#EXTINF:-1 tvg-id="601300267" group-title="1. FC Magdeburg vs SV Darmstadt 98 00:30 ngày 14/03 German Bundesliga 2", 1. FC Magdeburg vs SV Darmstadt 98 00:30 ngày 14/03 German Bundesliga 2 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69b43e0e70a68_88186/index.m3u8?expire=1774024846&amp;sign=6665999089e171a719ba0459d4574c8f
+#EXTINF:-1 tvg-id="601300267" group-title="1. FC Magdeburg vs SV Darmstadt 98 00:30 ngày 14/03 German Bundesliga 2", 1. FC Magdeburg vs SV Darmstadt 98 00:30 ngày 14/03 German Bundesliga 2 (Link 2)
+https://live.alilicloud.com/live/b5ed97d07ea0a22e78792d7a50315020/playlist.m3u8
+#EXTINF:-1 tvg-id="601300267" group-title="1. FC Magdeburg vs SV Darmstadt 98 00:30 ngày 14/03 German Bundesliga 2", 1. FC Magdeburg vs SV Darmstadt 98 00:30 ngày 14/03 German Bundesliga 2 (Link 3)
+https://cdn-hls.taoxanh.biz/live/69b43e0e70a68_88186/index.m3u8?expire=1774024846&sign=6665999089e171a719ba0459d4574c8f
+#EXTINF:-1 tvg-id="601300270" group-title="SC Freiburg (w) vs Nurnberg (w) 00:30 ngày 14/03 German Frauen Bundesliga", SC Freiburg (w) vs Nurnberg (w) 00:30 ngày 14/03 German Frauen Bundesliga
+https://live.alilicloud.com/live/157a348b8b9d90dfdfeeb3c185396bed/playlist.m3u8
 #EXTINF:-1 tvg-id="601311637" group-title="Li Shi Feng vs WANG Po-Wei 00:45 ngày 14/03 Sân 1 - YONEX Swiss Open 2026", Li Shi Feng vs WANG Po-Wei 00:45 ngày 14/03 Sân 1 - YONEX Swiss Open 2026 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69b4129670a68_110198/index.m3u8?expire=1774013718&amp;sign=797196a3072b849108113cd7b918bf23
 #EXTINF:-1 tvg-id="601311637" group-title="Li Shi Feng vs WANG Po-Wei 00:45 ngày 14/03 Sân 1 - YONEX Swiss Open 2026", Li Shi Feng vs WANG Po-Wei 00:45 ngày 14/03 Sân 1 - YONEX Swiss Open 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69b4129670a68_110198/index.m3u8?expire=1774013718&sign=797196a3072b849108113cd7b918bf23
-#EXTINF:-1 tvg-id="601311640" group-title="Supanida KATETHONG vs Line CHRISTOPHERSEN 00:50 ngày 14/03 Sân 2 - YONEX Swiss Open 2026", Supanida KATETHONG vs Line CHRISTOPHERSEN 00:50 ngày 14/03 Sân 2 - YONEX Swiss Open 2026 (Link 1)
+#EXTINF:-1 tvg-id="601311640" group-title="Yushi TANAKA vs Koki WATANABE 01:30 ngày 14/03 Sân 2 - YONEX Swiss Open 2026", Yushi TANAKA vs Koki WATANABE 01:30 ngày 14/03 Sân 2 - YONEX Swiss Open 2026 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69b406de70a68_18754/index.m3u8?expire=1774010718&amp;sign=9d243af3879004e2196dc972188e1214
-#EXTINF:-1 tvg-id="601311640" group-title="Supanida KATETHONG vs Line CHRISTOPHERSEN 00:50 ngày 14/03 Sân 2 - YONEX Swiss Open 2026", Supanida KATETHONG vs Line CHRISTOPHERSEN 00:50 ngày 14/03 Sân 2 - YONEX Swiss Open 2026 (Link 2)
+#EXTINF:-1 tvg-id="601311640" group-title="Yushi TANAKA vs Koki WATANABE 01:30 ngày 14/03 Sân 2 - YONEX Swiss Open 2026", Yushi TANAKA vs Koki WATANABE 01:30 ngày 14/03 Sân 2 - YONEX Swiss Open 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69b406de70a68_18754/index.m3u8?expire=1774010718&sign=9d243af3879004e2196dc972188e1214
