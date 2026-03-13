@@ -12,8 +12,6 @@ https://cdn-hls.taoxanh.biz/live/69b4566570a68_128756/index.m3u8?expire=17740310
 #EXTINF:-1 tvg-id="601300573" group-title="Al-Fayha vs Al-Ettifaq FC 02:00 ngày 14/03 Saudi Professional League", Al-Fayha vs Al-Ettifaq FC 02:00 ngày 14/03 Saudi Professional League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69b44eac326d8_28/index.m3u8?expire=1774029100&amp;sign=3e263ac5eda2bb709b48862c81dd558b
 #EXTINF:-1 tvg-id="601300573" group-title="Al-Fayha vs Al-Ettifaq FC 02:00 ngày 14/03 Saudi Professional League", Al-Fayha vs Al-Ettifaq FC 02:00 ngày 14/03 Saudi Professional League (Link 2)
-https://live.alilicloud.com/live/8d9bbb81f73928b3fd44e10dcfd50bd2/playlist.m3u8
-#EXTINF:-1 tvg-id="601300573" group-title="Al-Fayha vs Al-Ettifaq FC 02:00 ngày 14/03 Saudi Professional League", Al-Fayha vs Al-Ettifaq FC 02:00 ngày 14/03 Saudi Professional League (Link 3)
 https://cdn-hls.taoxanh.biz/live/69b44eac326d8_28/index.m3u8?expire=1774029100&sign=3e263ac5eda2bb709b48862c81dd558b
 #EXTINF:-1 tvg-id="601300579" group-title="Al-Riyadh vs Al-Ittihad Club 02:00 ngày 14/03 Saudi Professional League", Al-Riyadh vs Al-Ittihad Club 02:00 ngày 14/03 Saudi Professional League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69b45eba326d8_124958/index.m3u8?expire=1774033210&amp;sign=afae33af9e5a79a96d75612691e04b21
@@ -21,19 +19,19 @@ https://cdn-hls.taoxanh.biz/live/69b45eba326d8_124958/index.m3u8?expire=17740332
 https://live.alilicloud.com/live/92e38815432c961f796a38f5fbb07a06/playlist.m3u8
 #EXTINF:-1 tvg-id="601300579" group-title="Al-Riyadh vs Al-Ittihad Club 02:00 ngày 14/03 Saudi Professional League", Al-Riyadh vs Al-Ittihad Club 02:00 ngày 14/03 Saudi Professional League (Link 3)
 https://cdn-hls.taoxanh.biz/live/69b45eba326d8_124958/index.m3u8?expire=1774033210&sign=afae33af9e5a79a96d75612691e04b21
-#EXTINF:-1 tvg-id="601300315" group-title="Alemannia Aachen vs Energie Cottbus 01:00 ngày 14/03 German 3.Liga", Alemannia Aachen vs Energie Cottbus 01:00 ngày 14/03 German 3.Liga
-https://live.alilicloud.com/live/f94e76be6272d58bfe98462241c5a260/playlist.m3u8
-#EXTINF:-1 tvg-id="601300318" group-title="SC Farense vs FC Felgueiras 01:00 ngày 14/03 Liga Portugal 2", SC Farense vs FC Felgueiras 01:00 ngày 14/03 Liga Portugal 2
-https://live.alilicloud.com/live/26b6ae74972d280c5300f31a4eb90e43/playlist.m3u8
-#EXTINF:-1 tvg-id="601300321" group-title="Sporting CP B vs GD Chaves 01:00 ngày 14/03 Liga Portugal 2", Sporting CP B vs GD Chaves 01:00 ngày 14/03 Liga Portugal 2
-https://live.alilicloud.com/live/8b5da93dbd5817b3726c7dd3a89f51a3/playlist.m3u8
-#EXTINF:-1 tvg-id="601300351" group-title="Egnatia vs Vllaznia Shkoder 01:00 ngày 14/03 Albanian Super league", Egnatia vs Vllaznia Shkoder 01:00 ngày 14/03 Albanian Super league
-https://live.alilicloud.com/live/59f88f0472b2b2f08d00454ba5dae1ff/playlist.m3u8
-#EXTINF:-1 tvg-id="601311637" group-title="Pakkapon TEERARATSAKUL / Sapsiree TAERATTANACHAI vs ZHU Yi Jun/LI Qian 02:00 ngày 14/03 Sân 1 - YONEX Swiss Open 2026", Pakkapon TEERARATSAKUL / Sapsiree TAERATTANACHAI vs ZHU Yi Jun/LI Qian 02:00 ngày 14/03 Sân 1 - YONEX Swiss Open 2026 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69b4129670a68_110198/index.m3u8?expire=1774013718&amp;sign=797196a3072b849108113cd7b918bf23
-#EXTINF:-1 tvg-id="601311637" group-title="Pakkapon TEERARATSAKUL / Sapsiree TAERATTANACHAI vs ZHU Yi Jun/LI Qian 02:00 ngày 14/03 Sân 1 - YONEX Swiss Open 2026", Pakkapon TEERARATSAKUL / Sapsiree TAERATTANACHAI vs ZHU Yi Jun/LI Qian 02:00 ngày 14/03 Sân 1 - YONEX Swiss Open 2026 (Link 2)
-https://cdn-hls.taoxanh.biz/live/69b4129670a68_110198/index.m3u8?expire=1774013718&sign=797196a3072b849108113cd7b918bf23
+#EXTINF:-1 tvg-id="601289068" group-title="Najma Manama vs Al Hidd 01:30 ngày 14/03 Bahrain Premier League", Najma Manama vs Al Hidd 01:30 ngày 14/03 Bahrain Premier League
+https://live.alilicloud.com/live/02fa473d0c65100bb3cb0dfce8becc41/playlist.m3u8
+#EXTINF:-1 tvg-id="601289146" group-title="Al Rayyan vs Al Shahaniya 01:30 ngày 14/03 Qatar Stars League", Al Rayyan vs Al Shahaniya 01:30 ngày 14/03 Qatar Stars League
+https://live.alilicloud.com/live/28540151f7d29d3418e2e7dc8e3e3df7/playlist.m3u8
+#EXTINF:-1 tvg-id="601289149" group-title="Al-Sadd vs Umm Salal 01:30 ngày 14/03 Qatar Stars League", Al-Sadd vs Umm Salal 01:30 ngày 14/03 Qatar Stars League
+https://live.alilicloud.com/live/51dfa16aa0ace7d2010be5b9f02244b1/playlist.m3u8
+#EXTINF:-1 tvg-id="601300435" group-title="Chateauroux vs Villefranche 01:30 ngày 14/03 French Championnat National", Chateauroux vs Villefranche 01:30 ngày 14/03 French Championnat National
+https://live.alilicloud.com/live/3b09002eb22ad4fbec879cc73fd55ebc/playlist.m3u8
 #EXTINF:-1 tvg-id="601311640" group-title="GAO J. X. / WU M. Y. vs M. VESTERGAARD / C. BUSCH 02:15 ngày 14/03 Sân 2 - YONEX Swiss Open 2026", GAO J. X. / WU M. Y. vs M. VESTERGAARD / C. BUSCH 02:15 ngày 14/03 Sân 2 - YONEX Swiss Open 2026 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69b406de70a68_18754/index.m3u8?expire=1774010718&amp;sign=9d243af3879004e2196dc972188e1214
 #EXTINF:-1 tvg-id="601311640" group-title="GAO J. X. / WU M. Y. vs M. VESTERGAARD / C. BUSCH 02:15 ngày 14/03 Sân 2 - YONEX Swiss Open 2026", GAO J. X. / WU M. Y. vs M. VESTERGAARD / C. BUSCH 02:15 ngày 14/03 Sân 2 - YONEX Swiss Open 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69b406de70a68_18754/index.m3u8?expire=1774010718&sign=9d243af3879004e2196dc972188e1214
+#EXTINF:-1 tvg-id="601311637" group-title="Tharun MANNEPALLI vs Anthony Sinisuka GINTING 03:00 ngày 14/03 Sân 1 - YONEX Swiss Open 2026", Tharun MANNEPALLI vs Anthony Sinisuka GINTING 03:00 ngày 14/03 Sân 1 - YONEX Swiss Open 2026 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69b4129670a68_110198/index.m3u8?expire=1774013718&amp;sign=797196a3072b849108113cd7b918bf23
+#EXTINF:-1 tvg-id="601311637" group-title="Tharun MANNEPALLI vs Anthony Sinisuka GINTING 03:00 ngày 14/03 Sân 1 - YONEX Swiss Open 2026", Tharun MANNEPALLI vs Anthony Sinisuka GINTING 03:00 ngày 14/03 Sân 1 - YONEX Swiss Open 2026 (Link 2)
+https://cdn-hls.taoxanh.biz/live/69b4129670a68_110198/index.m3u8?expire=1774013718&sign=797196a3072b849108113cd7b918bf23
