@@ -1,19 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601311817" group-title="Choi Hye-mi vs Lee Woo-kyung 12:00 ngày 13/03 PBA-LPBA World Championship 2026", Choi Hye-mi vs Lee Woo-kyung 12:00 ngày 13/03 PBA-LPBA World Championship 2026 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69b39842326d8_144313/index.m3u8?expire=1773982402&amp;sign=20cf00deb96fd8b8c4ee9bee8ce7976d
-#EXTINF:-1 tvg-id="601311817" group-title="Choi Hye-mi vs Lee Woo-kyung 12:00 ngày 13/03 PBA-LPBA World Championship 2026", Choi Hye-mi vs Lee Woo-kyung 12:00 ngày 13/03 PBA-LPBA World Championship 2026 (Link 2)
-https://cdn-hls.taoxanh.biz/live/69b39842326d8_144313/index.m3u8?expire=1773982402&sign=20cf00deb96fd8b8c4ee9bee8ce7976d
 #EXTINF:-1 tvg-id="601311820" group-title="Lim Jung-suk vs Kim Se-yeon 12:00 ngày 13/03 PBA-LPBA World Championship 2026", Lim Jung-suk vs Kim Se-yeon 12:00 ngày 13/03 PBA-LPBA World Championship 2026 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69b3966d70a68_142246/index.m3u8?expire=1773981933&amp;sign=e85e4aedfba066beacb540114682f499
 #EXTINF:-1 tvg-id="601311820" group-title="Lim Jung-suk vs Kim Se-yeon 12:00 ngày 13/03 PBA-LPBA World Championship 2026", Lim Jung-suk vs Kim Se-yeon 12:00 ngày 13/03 PBA-LPBA World Championship 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69b3966d70a68_142246/index.m3u8?expire=1773981933&sign=e85e4aedfba066beacb540114682f499
-#EXTINF:-1 tvg-id="601297153" group-title="Gangneung Citizen vs Pocheon FC 12:00 ngày 13/03 Korean K League 3", Gangneung Citizen vs Pocheon FC 12:00 ngày 13/03 Korean K League 3 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69b38f4b70a68_124958/index.m3u8?expire=1773980107&amp;sign=e3f23e79c7e9e22c32ec71fd1f69b433
-#EXTINF:-1 tvg-id="601297153" group-title="Gangneung Citizen vs Pocheon FC 12:00 ngày 13/03 Korean K League 3", Gangneung Citizen vs Pocheon FC 12:00 ngày 13/03 Korean K League 3 (Link 2)
-https://live.alilicloud.com/live/80e461bcc65cb05c8e637396bfb98748/playlist.m3u8
-#EXTINF:-1 tvg-id="601297153" group-title="Gangneung Citizen vs Pocheon FC 12:00 ngày 13/03 Korean K League 3", Gangneung Citizen vs Pocheon FC 12:00 ngày 13/03 Korean K League 3 (Link 3)
-https://cdn-hls.taoxanh.biz/live/69b38f4b70a68_124958/index.m3u8?expire=1773980107&sign=e3f23e79c7e9e22c32ec71fd1f69b433
-#EXTINF:-1 tvg-id="601311625" group-title="SUN Yingsha vs Adriana DIAZ 12:40 ngày 13/03 WTT Champions Chongqing Women", SUN Yingsha vs Adriana DIAZ 12:40 ngày 13/03 WTT Champions Chongqing Women (Link 1)
-https://cdn-hls.taoxanh.biz/live/69b37bda70a68_142210/index.m3u8?expire=1773975130&amp;sign=f5e3a56c03fd6ee2406aabeb810f8062
-#EXTINF:-1 tvg-id="601311625" group-title="SUN Yingsha vs Adriana DIAZ 12:40 ngày 13/03 WTT Champions Chongqing Women", SUN Yingsha vs Adriana DIAZ 12:40 ngày 13/03 WTT Champions Chongqing Women (Link 2)
-https://cdn-hls.taoxanh.biz/live/69b37bda70a68_142210/index.m3u8?expire=1773975130&sign=f5e3a56c03fd6ee2406aabeb810f8062
+#EXTINF:-1 tvg-id="601311817" group-title="Cho Keon-hwi vs Cenet 14:30 ngày 13/03 PBA-LPBA World Championship 2026", Cho Keon-hwi vs Cenet 14:30 ngày 13/03 PBA-LPBA World Championship 2026 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69b39842326d8_144313/index.m3u8?expire=1773982402&amp;sign=20cf00deb96fd8b8c4ee9bee8ce7976d
+#EXTINF:-1 tvg-id="601311817" group-title="Cho Keon-hwi vs Cenet 14:30 ngày 13/03 PBA-LPBA World Championship 2026", Cho Keon-hwi vs Cenet 14:30 ngày 13/03 PBA-LPBA World Championship 2026 (Link 2)
+https://cdn-hls.taoxanh.biz/live/69b39842326d8_144313/index.m3u8?expire=1773982402&sign=20cf00deb96fd8b8c4ee9bee8ce7976d
+#EXTINF:-1 tvg-id="601297201" group-title="Changle Jingangtui Football Club vs Qingdao Fuli 14:00 ngày 13/03 Chinese FA Cup", Changle Jingangtui Football Club vs Qingdao Fuli 14:00 ngày 13/03 Chinese FA Cup
+https://live.alilicloud.com/live/09aaf6f2a5c5d04cb119cbb495cdbc48/playlist.m3u8
+#EXTINF:-1 tvg-id="601310788" group-title="Broadmeadow Magic Reserves vs Adamstown Rosebud Reserves 14:00 ngày 13/03 Australia Northern New South Wales Reserves League", Broadmeadow Magic Reserves vs Adamstown Rosebud Reserves 14:00 ngày 13/03 Australia Northern New South Wales Reserves League
+https://live.alilicloud.com/live/f8f48421894af08162bd6467c304a8cb/playlist.m3u8
+#EXTINF:-1 tvg-id="601310791" group-title="Belmont Swansea United SC Reserves vs Weston Workers Reserves 14:00 ngày 13/03 Australia Northern New South Wales Reserves League", Belmont Swansea United SC Reserves vs Weston Workers Reserves 14:00 ngày 13/03 Australia Northern New South Wales Reserves League
+https://live.alilicloud.com/live/3fa72946f07d22d6732a9a3e50757e9a/playlist.m3u8
