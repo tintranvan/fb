@@ -1,54 +1,40 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601311751" group-title="Salvador Garcia vs Dương Quốc Hoàng 17:00 ngày 13/03 European Open Pool Championship 2026", Salvador Garcia vs Dương Quốc Hoàng 17:00 ngày 13/03 European Open Pool Championship 2026 (Link 1)
+#EXTINF:-1 tvg-id="601311751" group-title="Dimitris Loukatos vs Phuong Nam Pham 18:00 ngày 13/03 European Open Pool Championship 2026", Dimitris Loukatos vs Phuong Nam Pham 18:00 ngày 13/03 European Open Pool Championship 2026 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69b3d9c270a68_103/index.m3u8?expire=1773999170&amp;sign=fd39fc4aa564f6b050b6b93e7e2f2751
-#EXTINF:-1 tvg-id="601311751" group-title="Salvador Garcia vs Dương Quốc Hoàng 17:00 ngày 13/03 European Open Pool Championship 2026", Salvador Garcia vs Dương Quốc Hoàng 17:00 ngày 13/03 European Open Pool Championship 2026 (Link 2)
+#EXTINF:-1 tvg-id="601311751" group-title="Dimitris Loukatos vs Phuong Nam Pham 18:00 ngày 13/03 European Open Pool Championship 2026", Dimitris Loukatos vs Phuong Nam Pham 18:00 ngày 13/03 European Open Pool Championship 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69b3d9c270a68_103/index.m3u8?expire=1773999170&sign=fd39fc4aa564f6b050b6b93e7e2f2751
 #EXTINF:-1 tvg-id="601297309" group-title="Nam Dinh FC vs CLB Thanh Hoa 18:00 ngày 13/03 Vietnam National Champion League", Nam Dinh FC vs CLB Thanh Hoa 18:00 ngày 13/03 Vietnam National Champion League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69b3e330326d8_124958/index.m3u8?expire=1774001584&amp;sign=5cef8f6f2b06e5a2db48163d4b876be4
 #EXTINF:-1 tvg-id="601297309" group-title="Nam Dinh FC vs CLB Thanh Hoa 18:00 ngày 13/03 Vietnam National Champion League", Nam Dinh FC vs CLB Thanh Hoa 18:00 ngày 13/03 Vietnam National Champion League (Link 2)
+https://live.alilicloud.com/live/b4bcfc80f66bac3c559dec1c35b81e4c/playlist.m3u8
+#EXTINF:-1 tvg-id="601297309" group-title="Nam Dinh FC vs CLB Thanh Hoa 18:00 ngày 13/03 Vietnam National Champion League", Nam Dinh FC vs CLB Thanh Hoa 18:00 ngày 13/03 Vietnam National Champion League (Link 3)
 https://cdn-hls.taoxanh.biz/live/69b3e330326d8_124958/index.m3u8?expire=1774001584&sign=5cef8f6f2b06e5a2db48163d4b876be4
 #EXTINF:-1 tvg-id="601297312" group-title="SHB Da Nang vs Hoang Anh Gia Lai 18:00 ngày 13/03 Vietnam National Champion League", SHB Da Nang vs Hoang Anh Gia Lai 18:00 ngày 13/03 Vietnam National Champion League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69b3e86770a68_85514/index.m3u8?expire=1774002919&amp;sign=0d6e4df5d156f639c8aaebf1899deaa6
 #EXTINF:-1 tvg-id="601297312" group-title="SHB Da Nang vs Hoang Anh Gia Lai 18:00 ngày 13/03 Vietnam National Champion League", SHB Da Nang vs Hoang Anh Gia Lai 18:00 ngày 13/03 Vietnam National Champion League (Link 2)
+https://live.alilicloud.com/live/1cb08721de15e1daefd832df80635290/playlist.m3u8
+#EXTINF:-1 tvg-id="601297312" group-title="SHB Da Nang vs Hoang Anh Gia Lai 18:00 ngày 13/03 Vietnam National Champion League", SHB Da Nang vs Hoang Anh Gia Lai 18:00 ngày 13/03 Vietnam National Champion League (Link 3)
 https://cdn-hls.taoxanh.biz/live/69b3e86770a68_85514/index.m3u8?expire=1774002919&sign=0d6e4df5d156f639c8aaebf1899deaa6
-#EXTINF:-1 tvg-id="601297261" group-title="Belmont Swansea United SC vs Weston Workers FC 16:00 ngày 13/03 Australia Northern New South Wales Premier League", Belmont Swansea United SC vs Weston Workers FC 16:00 ngày 13/03 Australia Northern New South Wales Premier League
-https://live.alilicloud.com/live/78d610b1cf894807ec018c9d3db4aa95/playlist.m3u8
-#EXTINF:-1 tvg-id="601297264" group-title="Broadmeadow Magic vs Adamstown Rosebuds FC 16:00 ngày 13/03 Australia Northern New South Wales Premier League", Broadmeadow Magic vs Adamstown Rosebuds FC 16:00 ngày 13/03 Australia Northern New South Wales Premier League
-https://live.alilicloud.com/live/4a3531efc5e016a38ec01646c719855e/playlist.m3u8
-#EXTINF:-1 tvg-id="601297267" group-title="Adelaide Olympic vs Eastern United 16:00 ngày 13/03 South Australia State League 1", Adelaide Olympic vs Eastern United 16:00 ngày 13/03 South Australia State League 1
-https://live.alilicloud.com/live/1c965d85e51e11320835179492295cf4/playlist.m3u8
-#EXTINF:-1 tvg-id="601297270" group-title="Oakleigh Cannons vs Heidelberg United 16:15 ngày 13/03 National Premier Leagues Victoria", Oakleigh Cannons vs Heidelberg United 16:15 ngày 13/03 National Premier Leagues Victoria (Link 1)
-https://cdn-hls.taoxanh.biz/live/69b3c89470a68_136682/index.m3u8?expire=1773994772&amp;sign=663e6217357e3e25d9fa23db595ed4bf
-#EXTINF:-1 tvg-id="601297270" group-title="Oakleigh Cannons vs Heidelberg United 16:15 ngày 13/03 National Premier Leagues Victoria", Oakleigh Cannons vs Heidelberg United 16:15 ngày 13/03 National Premier Leagues Victoria (Link 2)
-https://live.alilicloud.com/live/e075cd26e905d09cfa89ed29b81dd152/playlist.m3u8
-#EXTINF:-1 tvg-id="601297270" group-title="Oakleigh Cannons vs Heidelberg United 16:15 ngày 13/03 National Premier Leagues Victoria", Oakleigh Cannons vs Heidelberg United 16:15 ngày 13/03 National Premier Leagues Victoria (Link 3)
-https://cdn-hls.taoxanh.biz/live/69b3c89470a68_136682/index.m3u8?expire=1773994772&sign=663e6217357e3e25d9fa23db595ed4bf
-#EXTINF:-1 tvg-id="601297273" group-title="Brisbane Wolves vs Peninsula Power 16:30 ngày 13/03 Australia National Premier Leagues Queensland", Brisbane Wolves vs Peninsula Power 16:30 ngày 13/03 Australia National Premier Leagues Queensland (Link 1)
-https://cdn-hls.taoxanh.biz/live/69b3c75d326d8_6308/index.m3u8?expire=1773994461&amp;sign=cf47ed53e7c199fcfbabca716d52308d
-#EXTINF:-1 tvg-id="601297273" group-title="Brisbane Wolves vs Peninsula Power 16:30 ngày 13/03 Australia National Premier Leagues Queensland", Brisbane Wolves vs Peninsula Power 16:30 ngày 13/03 Australia National Premier Leagues Queensland (Link 2)
-https://live.alilicloud.com/live/255197af0fb278cadaba696ac1687647/playlist.m3u8
-#EXTINF:-1 tvg-id="601297273" group-title="Brisbane Wolves vs Peninsula Power 16:30 ngày 13/03 Australia National Premier Leagues Queensland", Brisbane Wolves vs Peninsula Power 16:30 ngày 13/03 Australia National Premier Leagues Queensland (Link 3)
-https://cdn-hls.taoxanh.biz/live/69b3c75d326d8_6308/index.m3u8?expire=1773994461&sign=cf47ed53e7c199fcfbabca716d52308d
-#EXTINF:-1 tvg-id="601297282" group-title="Preston Lions vs Caroline Springs George Cross 16:30 ngày 13/03 National Premier Leagues Victoria", Preston Lions vs Caroline Springs George Cross 16:30 ngày 13/03 National Premier Leagues Victoria (Link 1)
-https://cdn-hls.taoxanh.biz/live/69b3d21470a68_133172/index.m3u8?expire=1773997204&amp;sign=24f3906278c065d7ba05fc25bd905e2a
-#EXTINF:-1 tvg-id="601297282" group-title="Preston Lions vs Caroline Springs George Cross 16:30 ngày 13/03 National Premier Leagues Victoria", Preston Lions vs Caroline Springs George Cross 16:30 ngày 13/03 National Premier Leagues Victoria (Link 2)
-https://live.alilicloud.com/live/0b247683bbe54dc957d9898a2bbc2d16/playlist.m3u8
-#EXTINF:-1 tvg-id="601297282" group-title="Preston Lions vs Caroline Springs George Cross 16:30 ngày 13/03 National Premier Leagues Victoria", Preston Lions vs Caroline Springs George Cross 16:30 ngày 13/03 National Premier Leagues Victoria (Link 3)
-https://cdn-hls.taoxanh.biz/live/69b3d21470a68_133172/index.m3u8?expire=1773997204&sign=24f3906278c065d7ba05fc25bd905e2a
+#EXTINF:-1 tvg-id="601297276" group-title="West Torrens Birkalla vs Campbelltown City SC 16:30 ngày 13/03 South Australia National Premier Leagues", West Torrens Birkalla vs Campbelltown City SC 16:30 ngày 13/03 South Australia National Premier Leagues
+https://live.alilicloud.com/live/e4f924b0a0a3a88755e834001d156a52/playlist.m3u8
+#EXTINF:-1 tvg-id="601297285" group-title="White City Woodville vs Para Hills Knlghts SC 16:45 ngày 13/03 South Australia National Premier Leagues", White City Woodville vs Para Hills Knlghts SC 16:45 ngày 13/03 South Australia National Premier Leagues
+https://live.alilicloud.com/live/50c06076d2b036954a2986e21ca1004f/playlist.m3u8
+#EXTINF:-1 tvg-id="601297288" group-title="Australia Women vs North Korea (w) 17:00 ngày 13/03 AFC Women’s Asian Cup", Australia Women vs North Korea (w) 17:00 ngày 13/03 AFC Women’s Asian Cup (Link 1)
+https://cdn-hls.taoxanh.biz/live/69b3d86b326d8_79/index.m3u8?expire=1773998827&amp;sign=ef1cc53a36832a05a88f622ecbba256f
+#EXTINF:-1 tvg-id="601297288" group-title="Australia Women vs North Korea (w) 17:00 ngày 13/03 AFC Women’s Asian Cup", Australia Women vs North Korea (w) 17:00 ngày 13/03 AFC Women’s Asian Cup (Link 2)
+https://live.alilicloud.com/live/d78c392004fcd9028073b982abf3838c/playlist.m3u8
+#EXTINF:-1 tvg-id="601297288" group-title="Australia Women vs North Korea (w) 17:00 ngày 13/03 AFC Women’s Asian Cup", Australia Women vs North Korea (w) 17:00 ngày 13/03 AFC Women’s Asian Cup (Link 3)
+https://cdn-hls.taoxanh.biz/live/69b3d86b326d8_79/index.m3u8?expire=1773998827&sign=ef1cc53a36832a05a88f622ecbba256f
 #EXTINF:-1 tvg-id="601310899" group-title="LG Sakers vs Seoul Thunders 17:00 ngày 13/03 KBL", LG Sakers vs Seoul Thunders 17:00 ngày 13/03 KBL (Link 1)
 https://cdn-hls.taoxanh.biz/live/69b3d841326d8_42127/index.m3u8?expire=1773998785&amp;sign=5160ad21ce4c7605b4f6d4dbf1379a0d
 #EXTINF:-1 tvg-id="601310899" group-title="LG Sakers vs Seoul Thunders 17:00 ngày 13/03 KBL", LG Sakers vs Seoul Thunders 17:00 ngày 13/03 KBL (Link 2)
 https://cdn-hls.taoxanh.biz/live/69b3d841326d8_42127/index.m3u8?expire=1773998785&sign=5160ad21ce4c7605b4f6d4dbf1379a0d
-#EXTINF:-1 tvg-id="601310800" group-title="Adamstown Rosebud (w) vs Charlestown Azzuri (w) 16:00 ngày 13/03 Australia New South Wales Women's Premier League", Adamstown Rosebud (w) vs Charlestown Azzuri (w) 16:00 ngày 13/03 Australia New South Wales Women's Premier League
-https://live.alilicloud.com/live/2c7a3ae003e2212331c28190f98d7437/playlist.m3u8
-#EXTINF:-1 tvg-id="601311817" group-title="Cha Yu-ram vs Kim Ga-young 17:00 ngày 13/03 PBA-LPBA World Championship 2026", Cha Yu-ram vs Kim Ga-young 17:00 ngày 13/03 PBA-LPBA World Championship 2026 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69b39842326d8_144313/index.m3u8?expire=1773982402&amp;sign=20cf00deb96fd8b8c4ee9bee8ce7976d
-#EXTINF:-1 tvg-id="601311817" group-title="Cha Yu-ram vs Kim Ga-young 17:00 ngày 13/03 PBA-LPBA World Championship 2026", Cha Yu-ram vs Kim Ga-young 17:00 ngày 13/03 PBA-LPBA World Championship 2026 (Link 2)
-https://cdn-hls.taoxanh.biz/live/69b39842326d8_144313/index.m3u8?expire=1773982402&sign=20cf00deb96fd8b8c4ee9bee8ce7976d
-#EXTINF:-1 tvg-id="601311820" group-title="Han Ji-eun vs Han Seul-gi 17:00 ngày 13/03 PBA-LPBA World Championship 2026", Han Ji-eun vs Han Seul-gi 17:00 ngày 13/03 PBA-LPBA World Championship 2026 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69b3966d70a68_142246/index.m3u8?expire=1773981933&amp;sign=e85e4aedfba066beacb540114682f499
-#EXTINF:-1 tvg-id="601311820" group-title="Han Ji-eun vs Han Seul-gi 17:00 ngày 13/03 PBA-LPBA World Championship 2026", Han Ji-eun vs Han Seul-gi 17:00 ngày 13/03 PBA-LPBA World Championship 2026 (Link 2)
-https://cdn-hls.taoxanh.biz/live/69b3966d70a68_142246/index.m3u8?expire=1773981933&sign=e85e4aedfba066beacb540114682f499
+#EXTINF:-1 tvg-id="601311628" group-title="Yangzi Liu vs WANG Yidi 17:30 ngày 13/03 WTT Champions Chongqing Women", Yangzi Liu vs WANG Yidi 17:30 ngày 13/03 WTT Champions Chongqing Women (Link 1)
+https://cdn-hls.taoxanh.biz/live/69b3e1f0326d8_112310/index.m3u8?expire=1774001264&amp;sign=69dd2af5ddb39860cbbe7ed9d0aafe2d
+#EXTINF:-1 tvg-id="601311628" group-title="Yangzi Liu vs WANG Yidi 17:30 ngày 13/03 WTT Champions Chongqing Women", Yangzi Liu vs WANG Yidi 17:30 ngày 13/03 WTT Champions Chongqing Women (Link 2)
+https://cdn-hls.taoxanh.biz/live/69b3e1f0326d8_112310/index.m3u8?expire=1774001264&sign=69dd2af5ddb39860cbbe7ed9d0aafe2d
+#EXTINF:-1 tvg-id="601297291" group-title="West Adelaide SC vs Adelaide Comets FC 17:00 ngày 13/03 South Australia National Premier Leagues", West Adelaide SC vs Adelaide Comets FC 17:00 ngày 13/03 South Australia National Premier Leagues
+https://live.alilicloud.com/live/7a5528183f9b98d7d43d4227a6c37c91/playlist.m3u8
 #EXTINF:-1 tvg-id="601309414" group-title="Hungkuk W vs Expressway Co W 17:00 ngày 13/03 Volleyball League Women", Hungkuk W vs Expressway Co W 17:00 ngày 13/03 Volleyball League Women (Link 1)
 https://cdn-hls.taoxanh.biz/live/69b3d786326d8_128756/index.m3u8?expire=1773998598&amp;sign=c209ab82d421490964b737d90c4ef16b
 #EXTINF:-1 tvg-id="601309414" group-title="Hungkuk W vs Expressway Co W 17:00 ngày 13/03 Volleyball League Women", Hungkuk W vs Expressway Co W 17:00 ngày 13/03 Volleyball League Women (Link 2)
@@ -57,7 +43,3 @@ https://cdn-hls.taoxanh.biz/live/69b3d786326d8_128756/index.m3u8?expire=17739985
 https://cdn-hls.taoxanh.biz/live/69b3d7b670a68_88642/index.m3u8?expire=1773998646&amp;sign=01d9ac03d888fa9d2a4892a99f01d8dc
 #EXTINF:-1 tvg-id="601309432" group-title="Hyundai Skywalkers vs Samsung Blue Fangs 17:00 ngày 13/03 Volleyball League", Hyundai Skywalkers vs Samsung Blue Fangs 17:00 ngày 13/03 Volleyball League (Link 2)
 https://cdn-hls.taoxanh.biz/live/69b3d7b670a68_88642/index.m3u8?expire=1773998646&sign=01d9ac03d888fa9d2a4892a99f01d8dc
-#EXTINF:-1 tvg-id="601311628" group-title="Yangzi Liu vs WANG Yidi 17:30 ngày 13/03 WTT Champions Chongqing Women", Yangzi Liu vs WANG Yidi 17:30 ngày 13/03 WTT Champions Chongqing Women (Link 1)
-https://cdn-hls.taoxanh.biz/live/69b3e1f0326d8_112310/index.m3u8?expire=1774001264&amp;sign=69dd2af5ddb39860cbbe7ed9d0aafe2d
-#EXTINF:-1 tvg-id="601311628" group-title="Yangzi Liu vs WANG Yidi 17:30 ngày 13/03 WTT Champions Chongqing Women", Yangzi Liu vs WANG Yidi 17:30 ngày 13/03 WTT Champions Chongqing Women (Link 2)
-https://cdn-hls.taoxanh.biz/live/69b3e1f0326d8_112310/index.m3u8?expire=1774001264&sign=69dd2af5ddb39860cbbe7ed9d0aafe2d
