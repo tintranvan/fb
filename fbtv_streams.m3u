@@ -3,20 +3,6 @@
 https://cdn-hls.taoxanh.biz/live/69b3d9c270a68_103/index.m3u8?expire=1773999170&amp;sign=fd39fc4aa564f6b050b6b93e7e2f2751
 #EXTINF:-1 tvg-id="601311751" group-title="Yannick Pongers vs Joshua Filler 01:45 ngày 14/03 European Open Pool Championship 2026", Yannick Pongers vs Joshua Filler 01:45 ngày 14/03 European Open Pool Championship 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69b3d9c270a68_103/index.m3u8?expire=1773999170&sign=fd39fc4aa564f6b050b6b93e7e2f2751
-#EXTINF:-1 tvg-id="601300720" group-title="Torino vs Parma 02:45 ngày 14/03 Italian Serie A", Torino vs Parma 02:45 ngày 14/03 Italian Serie A (Link 1)
-https://cdn-hls.taoxanh.biz/live/69b446b770a68_85514/index.m3u8?expire=1774027063&amp;sign=8107f8cff1843f1bbc7583ef5cf5ddb0
-#EXTINF:-1 tvg-id="601300720" group-title="Torino vs Parma 02:45 ngày 14/03 Italian Serie A", Torino vs Parma 02:45 ngày 14/03 Italian Serie A (Link 2)
-https://cdn-hls.taoxanh.biz/live/69b465b3326d8_88186/index.m3u8?expire=1774034995&amp;sign=71e946faacd50337900e00c6153eb0f0
-#EXTINF:-1 tvg-id="601300720" group-title="Torino vs Parma 02:45 ngày 14/03 Italian Serie A", Torino vs Parma 02:45 ngày 14/03 Italian Serie A (Link 3)
-https://live.alilicloud.com/live/a5450f8bcdce8837b566e1c67e00a4ab/playlist.m3u8
-#EXTINF:-1 tvg-id="601300720" group-title="Torino vs Parma 02:45 ngày 14/03 Italian Serie A", Torino vs Parma 02:45 ngày 14/03 Italian Serie A (Link 4)
-https://cdn-hls.taoxanh.biz/live/69b446b770a68_85514/index.m3u8?expire=1774027063&sign=8107f8cff1843f1bbc7583ef5cf5ddb0
-#EXTINF:-1 tvg-id="601300726" group-title="Marseille vs AJ Auxerre 02:45 ngày 14/03 French Ligue 1", Marseille vs AJ Auxerre 02:45 ngày 14/03 French Ligue 1 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69b462eb70a68_136682/index.m3u8?expire=1774034283&amp;sign=610b0d861bb08ed76a707b05a1f80dc0
-#EXTINF:-1 tvg-id="601300726" group-title="Marseille vs AJ Auxerre 02:45 ngày 14/03 French Ligue 1", Marseille vs AJ Auxerre 02:45 ngày 14/03 French Ligue 1 (Link 2)
-https://live.alilicloud.com/live/a775b4b346d9d04d50475ebeadd456d6/playlist.m3u8
-#EXTINF:-1 tvg-id="601300726" group-title="Marseille vs AJ Auxerre 02:45 ngày 14/03 French Ligue 1", Marseille vs AJ Auxerre 02:45 ngày 14/03 French Ligue 1 (Link 3)
-https://cdn-hls.taoxanh.biz/live/69b462eb70a68_136682/index.m3u8?expire=1774034283&sign=610b0d861bb08ed76a707b05a1f80dc0
 #EXTINF:-1 tvg-id="601300792" group-title="Deportivo Alavés vs Villarreal CF 03:00 ngày 14/03 Spanish La Liga", Deportivo Alavés vs Villarreal CF 03:00 ngày 14/03 Spanish La Liga (Link 1)
 https://cdn-hls.taoxanh.biz/live/69b4502170a68_79/index.m3u8?expire=1774029473&amp;sign=d8078e4dd7d0e18b4bd9653625584fdd
 #EXTINF:-1 tvg-id="601300792" group-title="Deportivo Alavés vs Villarreal CF 03:00 ngày 14/03 Spanish La Liga", Deportivo Alavés vs Villarreal CF 03:00 ngày 14/03 Spanish La Liga (Link 2)
@@ -25,7 +11,9 @@ https://cdn-hls.taoxanh.biz/live/69b46718326d8_73445/index.m3u8?expire=177403535
 https://live.alilicloud.com/live/09878016c602ecce790e2325b05b403a/playlist.m3u8
 #EXTINF:-1 tvg-id="601300792" group-title="Deportivo Alavés vs Villarreal CF 03:00 ngày 14/03 Spanish La Liga", Deportivo Alavés vs Villarreal CF 03:00 ngày 14/03 Spanish La Liga (Link 4)
 https://cdn-hls.taoxanh.biz/live/69b4502170a68_79/index.m3u8?expire=1774029473&sign=d8078e4dd7d0e18b4bd9653625584fdd
-#EXTINF:-1 tvg-id="601300717" group-title="Ceramica Cleopatra FC vs Tala'ea El Gaish 02:30 ngày 14/03 Egyptian Scores Cup", Ceramica Cleopatra FC vs Tala'ea El Gaish 02:30 ngày 14/03 Egyptian Scores Cup
-https://live.alilicloud.com/live/3283ca7cb465648a00c2607487aedb9e/playlist.m3u8
-#EXTINF:-1 tvg-id="601300738" group-title="Greenock Morton vs Partick Thistle FC 02:45 ngày 14/03 Scottish Championship", Greenock Morton vs Partick Thistle FC 02:45 ngày 14/03 Scottish Championship
-https://live.alilicloud.com/live/4a518fc1141a0ea840f2707c70a9ffed/playlist.m3u8
+#EXTINF:-1 tvg-id="601300816" group-title="Erbil SC vs Al-Mina'a SC 03:15 ngày 14/03 Iraq Stars League", Erbil SC vs Al-Mina'a SC 03:15 ngày 14/03 Iraq Stars League
+https://live.alilicloud.com/live/4bc43227215e79a1404d6682eac8a7f8/playlist.m3u8
+#EXTINF:-1 tvg-id="601300843" group-title="Sportivo Luqueno vs Sportivo San Lorenzo 04:30 ngày 14/03 Paraguayan Primera Division", Sportivo Luqueno vs Sportivo San Lorenzo 04:30 ngày 14/03 Paraguayan Primera Division
+https://live.alilicloud.com/live/6212341049732effed4351ad781b74b4/playlist.m3u8
+#EXTINF:-1 tvg-id="601300846" group-title="Tecnico Universitario vs Libertad FC 04:30 ngày 14/03 LigaPro Serie A", Tecnico Universitario vs Libertad FC 04:30 ngày 14/03 LigaPro Serie A
+https://live.alilicloud.com/live/3a0e4361b741ee1455ae0562911e27da/playlist.m3u8
