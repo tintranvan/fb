@@ -3,18 +3,6 @@
 https://cdn-hls.taoxanh.biz/live/69b3d9c270a68_103/index.m3u8?expire=1773999170&amp;sign=fd39fc4aa564f6b050b6b93e7e2f2751
 #EXTINF:-1 tvg-id="601311751" group-title="Yannick Pongers vs Joshua Filler 01:45 ngày 14/03 European Open Pool Championship 2026", Yannick Pongers vs Joshua Filler 01:45 ngày 14/03 European Open Pool Championship 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69b3d9c270a68_103/index.m3u8?expire=1773999170&sign=fd39fc4aa564f6b050b6b93e7e2f2751
-#EXTINF:-1 tvg-id="601300573" group-title="Al-Fayha vs Al-Ettifaq FC 02:00 ngày 14/03 Saudi Professional League", Al-Fayha vs Al-Ettifaq FC 02:00 ngày 14/03 Saudi Professional League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69b44eac326d8_28/index.m3u8?expire=1774029100&amp;sign=3e263ac5eda2bb709b48862c81dd558b
-#EXTINF:-1 tvg-id="601300573" group-title="Al-Fayha vs Al-Ettifaq FC 02:00 ngày 14/03 Saudi Professional League", Al-Fayha vs Al-Ettifaq FC 02:00 ngày 14/03 Saudi Professional League (Link 2)
-https://live.alilicloud.com/live/8d9bbb81f73928b3fd44e10dcfd50bd2/playlist.m3u8
-#EXTINF:-1 tvg-id="601300573" group-title="Al-Fayha vs Al-Ettifaq FC 02:00 ngày 14/03 Saudi Professional League", Al-Fayha vs Al-Ettifaq FC 02:00 ngày 14/03 Saudi Professional League (Link 3)
-https://cdn-hls.taoxanh.biz/live/69b44eac326d8_28/index.m3u8?expire=1774029100&sign=3e263ac5eda2bb709b48862c81dd558b
-#EXTINF:-1 tvg-id="601300660" group-title="Borussia Monchengladbach vs FC St. Pauli 02:30 ngày 14/03 Bundesliga", Borussia Monchengladbach vs FC St. Pauli 02:30 ngày 14/03 Bundesliga (Link 1)
-https://cdn-hls.taoxanh.biz/live/69b4591c326d8_44731/index.m3u8?expire=1774031772&amp;sign=51a77462ad398412424116fbf5348ca7
-#EXTINF:-1 tvg-id="601300660" group-title="Borussia Monchengladbach vs FC St. Pauli 02:30 ngày 14/03 Bundesliga", Borussia Monchengladbach vs FC St. Pauli 02:30 ngày 14/03 Bundesliga (Link 2)
-https://live.alilicloud.com/live/bb7ef41b50e61c6402c48641bcd7bc08/playlist.m3u8
-#EXTINF:-1 tvg-id="601300660" group-title="Borussia Monchengladbach vs FC St. Pauli 02:30 ngày 14/03 Bundesliga", Borussia Monchengladbach vs FC St. Pauli 02:30 ngày 14/03 Bundesliga (Link 3)
-https://cdn-hls.taoxanh.biz/live/69b4591c326d8_44731/index.m3u8?expire=1774031772&sign=51a77462ad398412424116fbf5348ca7
 #EXTINF:-1 tvg-id="601300720" group-title="Torino vs Parma 02:45 ngày 14/03 Italian Serie A", Torino vs Parma 02:45 ngày 14/03 Italian Serie A (Link 1)
 https://cdn-hls.taoxanh.biz/live/69b446b770a68_85514/index.m3u8?expire=1774027063&amp;sign=8107f8cff1843f1bbc7583ef5cf5ddb0
 #EXTINF:-1 tvg-id="601300720" group-title="Torino vs Parma 02:45 ngày 14/03 Italian Serie A", Torino vs Parma 02:45 ngày 14/03 Italian Serie A (Link 2)
@@ -23,17 +11,21 @@ https://cdn-hls.taoxanh.biz/live/69b465b3326d8_88186/index.m3u8?expire=177403499
 https://live.alilicloud.com/live/a5450f8bcdce8837b566e1c67e00a4ab/playlist.m3u8
 #EXTINF:-1 tvg-id="601300720" group-title="Torino vs Parma 02:45 ngày 14/03 Italian Serie A", Torino vs Parma 02:45 ngày 14/03 Italian Serie A (Link 4)
 https://cdn-hls.taoxanh.biz/live/69b446b770a68_85514/index.m3u8?expire=1774027063&sign=8107f8cff1843f1bbc7583ef5cf5ddb0
-#EXTINF:-1 tvg-id="601300576" group-title="Al-Qadsiah vs Al-Ahli SFC 02:00 ngày 14/03 Saudi Professional League", Al-Qadsiah vs Al-Ahli SFC 02:00 ngày 14/03 Saudi Professional League
-https://live.alilicloud.com/live/aac4b7f9baa3009016b545adb7246b88/playlist.m3u8
-#EXTINF:-1 tvg-id="601300651" group-title="Aarau vs Vaduz 02:15 ngày 14/03 Switzerland Challenge League", Aarau vs Vaduz 02:15 ngày 14/03 Switzerland Challenge League
-https://live.alilicloud.com/live/ae6b7d6f1f4b57dcbe594a2c65337693/playlist.m3u8
-#EXTINF:-1 tvg-id="601300654" group-title="Yverdon vs FC Wil 1900 02:15 ngày 14/03 Switzerland Challenge League", Yverdon vs FC Wil 1900 02:15 ngày 14/03 Switzerland Challenge League
-https://live.alilicloud.com/live/f7f3bfdf777540237bc69d00b97de8b9/playlist.m3u8
-#EXTINF:-1 tvg-id="601311640" group-title="GAO J. X. / WU M. Y. vs M. VESTERGAARD / C. BUSCH 02:15 ngày 14/03 Sân 2 - YONEX Swiss Open 2026", GAO J. X. / WU M. Y. vs M. VESTERGAARD / C. BUSCH 02:15 ngày 14/03 Sân 2 - YONEX Swiss Open 2026 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69b406de70a68_18754/index.m3u8?expire=1774010718&amp;sign=9d243af3879004e2196dc972188e1214
-#EXTINF:-1 tvg-id="601311640" group-title="GAO J. X. / WU M. Y. vs M. VESTERGAARD / C. BUSCH 02:15 ngày 14/03 Sân 2 - YONEX Swiss Open 2026", GAO J. X. / WU M. Y. vs M. VESTERGAARD / C. BUSCH 02:15 ngày 14/03 Sân 2 - YONEX Swiss Open 2026 (Link 2)
-https://cdn-hls.taoxanh.biz/live/69b406de70a68_18754/index.m3u8?expire=1774010718&sign=9d243af3879004e2196dc972188e1214
-#EXTINF:-1 tvg-id="601311637" group-title="Tharun MANNEPALLI vs Anthony Sinisuka GINTING 03:00 ngày 14/03 Sân 1 - YONEX Swiss Open 2026", Tharun MANNEPALLI vs Anthony Sinisuka GINTING 03:00 ngày 14/03 Sân 1 - YONEX Swiss Open 2026 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69b4129670a68_110198/index.m3u8?expire=1774013718&amp;sign=797196a3072b849108113cd7b918bf23
-#EXTINF:-1 tvg-id="601311637" group-title="Tharun MANNEPALLI vs Anthony Sinisuka GINTING 03:00 ngày 14/03 Sân 1 - YONEX Swiss Open 2026", Tharun MANNEPALLI vs Anthony Sinisuka GINTING 03:00 ngày 14/03 Sân 1 - YONEX Swiss Open 2026 (Link 2)
-https://cdn-hls.taoxanh.biz/live/69b4129670a68_110198/index.m3u8?expire=1774013718&sign=797196a3072b849108113cd7b918bf23
+#EXTINF:-1 tvg-id="601300726" group-title="Marseille vs AJ Auxerre 02:45 ngày 14/03 French Ligue 1", Marseille vs AJ Auxerre 02:45 ngày 14/03 French Ligue 1 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69b462eb70a68_136682/index.m3u8?expire=1774034283&amp;sign=610b0d861bb08ed76a707b05a1f80dc0
+#EXTINF:-1 tvg-id="601300726" group-title="Marseille vs AJ Auxerre 02:45 ngày 14/03 French Ligue 1", Marseille vs AJ Auxerre 02:45 ngày 14/03 French Ligue 1 (Link 2)
+https://live.alilicloud.com/live/a775b4b346d9d04d50475ebeadd456d6/playlist.m3u8
+#EXTINF:-1 tvg-id="601300726" group-title="Marseille vs AJ Auxerre 02:45 ngày 14/03 French Ligue 1", Marseille vs AJ Auxerre 02:45 ngày 14/03 French Ligue 1 (Link 3)
+https://cdn-hls.taoxanh.biz/live/69b462eb70a68_136682/index.m3u8?expire=1774034283&sign=610b0d861bb08ed76a707b05a1f80dc0
+#EXTINF:-1 tvg-id="601300792" group-title="Deportivo Alavés vs Villarreal CF 03:00 ngày 14/03 Spanish La Liga", Deportivo Alavés vs Villarreal CF 03:00 ngày 14/03 Spanish La Liga (Link 1)
+https://cdn-hls.taoxanh.biz/live/69b4502170a68_79/index.m3u8?expire=1774029473&amp;sign=d8078e4dd7d0e18b4bd9653625584fdd
+#EXTINF:-1 tvg-id="601300792" group-title="Deportivo Alavés vs Villarreal CF 03:00 ngày 14/03 Spanish La Liga", Deportivo Alavés vs Villarreal CF 03:00 ngày 14/03 Spanish La Liga (Link 2)
+https://cdn-hls.taoxanh.biz/live/69b46718326d8_73445/index.m3u8?expire=1774035352&amp;sign=a30bdf5b304683b1e86e76ccfd8e0d4f
+#EXTINF:-1 tvg-id="601300792" group-title="Deportivo Alavés vs Villarreal CF 03:00 ngày 14/03 Spanish La Liga", Deportivo Alavés vs Villarreal CF 03:00 ngày 14/03 Spanish La Liga (Link 3)
+https://live.alilicloud.com/live/09878016c602ecce790e2325b05b403a/playlist.m3u8
+#EXTINF:-1 tvg-id="601300792" group-title="Deportivo Alavés vs Villarreal CF 03:00 ngày 14/03 Spanish La Liga", Deportivo Alavés vs Villarreal CF 03:00 ngày 14/03 Spanish La Liga (Link 4)
+https://cdn-hls.taoxanh.biz/live/69b4502170a68_79/index.m3u8?expire=1774029473&sign=d8078e4dd7d0e18b4bd9653625584fdd
+#EXTINF:-1 tvg-id="601300717" group-title="Ceramica Cleopatra FC vs Tala'ea El Gaish 02:30 ngày 14/03 Egyptian Scores Cup", Ceramica Cleopatra FC vs Tala'ea El Gaish 02:30 ngày 14/03 Egyptian Scores Cup
+https://live.alilicloud.com/live/3283ca7cb465648a00c2607487aedb9e/playlist.m3u8
+#EXTINF:-1 tvg-id="601300738" group-title="Greenock Morton vs Partick Thistle FC 02:45 ngày 14/03 Scottish Championship", Greenock Morton vs Partick Thistle FC 02:45 ngày 14/03 Scottish Championship
+https://live.alilicloud.com/live/4a518fc1141a0ea840f2707c70a9ffed/playlist.m3u8
