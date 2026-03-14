@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601300963" group-title="FC Juarez vs Monterrey 10:00 ngày 14/03 Mexico Liga MX", FC Juarez vs Monterrey 10:00 ngày 14/03 Mexico Liga MX (Link 1)
-https://cdn-hls.taoxanh.biz/live/69b4c91170a68_136682/index.m3u8?expire=1774060433&amp;sign=3ca0fbea45af0d3089f50a8d704ac4f5
-#EXTINF:-1 tvg-id="601300963" group-title="FC Juarez vs Monterrey 10:00 ngày 14/03 Mexico Liga MX", FC Juarez vs Monterrey 10:00 ngày 14/03 Mexico Liga MX (Link 2)
-https://live.alilicloud.com/live/ff9e6cbb00a9bfdb5d612d2839a7b3dc/playlist.m3u8
-#EXTINF:-1 tvg-id="601300963" group-title="FC Juarez vs Monterrey 10:00 ngày 14/03 Mexico Liga MX", FC Juarez vs Monterrey 10:00 ngày 14/03 Mexico Liga MX (Link 3)
-https://cdn-hls.taoxanh.biz/live/69b4c91170a68_136682/index.m3u8?expire=1774060433&sign=3ca0fbea45af0d3089f50a8d704ac4f5
-#EXTINF:-1 tvg-id="601300969" group-title="Hume City vs Dandenong Thunder 10:00 ngày 14/03 National Premier Leagues Victoria", Hume City vs Dandenong Thunder 10:00 ngày 14/03 National Premier Leagues Victoria (Link 1)
-https://cdn-hls.taoxanh.biz/live/69b4c2c6326d8_133172/index.m3u8?expire=1774058822&amp;sign=b76fb7d848c3ce2f99340afaa5e56272
-#EXTINF:-1 tvg-id="601300969" group-title="Hume City vs Dandenong Thunder 10:00 ngày 14/03 National Premier Leagues Victoria", Hume City vs Dandenong Thunder 10:00 ngày 14/03 National Premier Leagues Victoria (Link 2)
-https://live.alilicloud.com/live/6cc97a2b9e8a44efa93aba945e6f98ae/playlist.m3u8
-#EXTINF:-1 tvg-id="601300969" group-title="Hume City vs Dandenong Thunder 10:00 ngày 14/03 National Premier Leagues Victoria", Hume City vs Dandenong Thunder 10:00 ngày 14/03 National Premier Leagues Victoria (Link 3)
-https://cdn-hls.taoxanh.biz/live/69b4c2c6326d8_133172/index.m3u8?expire=1774058822&sign=b76fb7d848c3ce2f99340afaa5e56272
 #EXTINF:-1 tvg-id="601300993" group-title="Central Coast Mariners vs Adelaide United 11:00 ngày 14/03 Australia A-League", Central Coast Mariners vs Adelaide United 11:00 ngày 14/03 Australia A-League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69b4d73d70a68_85514/index.m3u8?expire=1774064061&amp;sign=26d0cbec323b5d19b4dac8fe3c7fb636
 #EXTINF:-1 tvg-id="601300993" group-title="Central Coast Mariners vs Adelaide United 11:00 ngày 14/03 Australia A-League", Central Coast Mariners vs Adelaide United 11:00 ngày 14/03 Australia A-League (Link 2)
@@ -23,23 +11,37 @@ https://cdn-hls.taoxanh.biz/live/69b4d61e326d8_44731/index.m3u8?expire=177406377
 https://live.alilicloud.com/live/517638f1a2675b52cfe63cf99afc94a4/playlist.m3u8
 #EXTINF:-1 tvg-id="601300999" group-title="Yokohama F. Marinos vs JEF United Ichihara Chiba 11:00 ngày 14/03 Japanese J1 League", Yokohama F. Marinos vs JEF United Ichihara Chiba 11:00 ngày 14/03 Japanese J1 League (Link 3)
 https://cdn-hls.taoxanh.biz/live/69b4d61e326d8_44731/index.m3u8?expire=1774063774&sign=4779d77983f32e1d68fa6a7cce280609
-#EXTINF:-1 tvg-id="601311934" group-title="Salisbury Inter (w) vs Campbelltown City (w) 09:30 ngày 14/03 South Australia Women's Premier League", Salisbury Inter (w) vs Campbelltown City (w) 09:30 ngày 14/03 South Australia Women's Premier League
-https://live.alilicloud.com/live/c4cb0d1942c87e42b2293aa01122cca0/playlist.m3u8
-#EXTINF:-1 tvg-id="601300972" group-title="Nittaidai SMG Yokohama vs Ehime FC (w) 10:00 ngày 14/03 Japanese Nadeshiko League 1", Nittaidai SMG Yokohama vs Ehime FC (w) 10:00 ngày 14/03 Japanese Nadeshiko League 1
-https://live.alilicloud.com/live/7b89ebcb9c63221ee331e8a657b965a5/playlist.m3u8
+#EXTINF:-1 tvg-id="601301002" group-title="Avondale FC vs Dandenong City SC 11:00 ngày 14/03 National Premier Leagues Victoria", Avondale FC vs Dandenong City SC 11:00 ngày 14/03 National Premier Leagues Victoria (Link 1)
+https://cdn-hls.taoxanh.biz/live/69b4d24470a68_88642/index.m3u8?expire=1774062788&amp;sign=ea2c59d09324c1dad0377178a1feabf9
+#EXTINF:-1 tvg-id="601301002" group-title="Avondale FC vs Dandenong City SC 11:00 ngày 14/03 National Premier Leagues Victoria", Avondale FC vs Dandenong City SC 11:00 ngày 14/03 National Premier Leagues Victoria (Link 2)
+https://live.alilicloud.com/live/02154ab7659cd4e487eba8d77b79bcdf/playlist.m3u8
+#EXTINF:-1 tvg-id="601301002" group-title="Avondale FC vs Dandenong City SC 11:00 ngày 14/03 National Premier Leagues Victoria", Avondale FC vs Dandenong City SC 11:00 ngày 14/03 National Premier Leagues Victoria (Link 3)
+https://cdn-hls.taoxanh.biz/live/69b4d24470a68_88642/index.m3u8?expire=1774062788&sign=ea2c59d09324c1dad0377178a1feabf9
+#EXTINF:-1 tvg-id="601301038" group-title="China Women vs Chinese Taipei (w) 12:00 ngày 14/03 AFC Women’s Asian Cup", China Women vs Chinese Taipei (w) 12:00 ngày 14/03 AFC Women’s Asian Cup (Link 1)
+https://cdn-hls.taoxanh.biz/live/69b4ce87326d8_128756/index.m3u8?expire=1774061831&amp;sign=45921d3399a16b342aae37843c9711e2
+#EXTINF:-1 tvg-id="601301038" group-title="China Women vs Chinese Taipei (w) 12:00 ngày 14/03 AFC Women’s Asian Cup", China Women vs Chinese Taipei (w) 12:00 ngày 14/03 AFC Women’s Asian Cup (Link 2)
+https://live.alilicloud.com/live/3f6a6af2fca1b1a1533f242ed0cc5954/playlist.m3u8
+#EXTINF:-1 tvg-id="601301038" group-title="China Women vs Chinese Taipei (w) 12:00 ngày 14/03 AFC Women’s Asian Cup", China Women vs Chinese Taipei (w) 12:00 ngày 14/03 AFC Women’s Asian Cup (Link 3)
+https://cdn-hls.taoxanh.biz/live/69b4ce87326d8_128756/index.m3u8?expire=1774061831&sign=45921d3399a16b342aae37843c9711e2
+#EXTINF:-1 tvg-id="601297165" group-title="Alamein (w) vs Bentleigh Greens (W) 11:00 ngày 14/03 Australia Victorian Women's Premier League", Alamein (w) vs Bentleigh Greens (W) 11:00 ngày 14/03 Australia Victorian Women's Premier League
+https://live.alilicloud.com/live/3256dcf0db3796468bb443d741b21558/playlist.m3u8
+#EXTINF:-1 tvg-id="601300840" group-title="Jungnang Chorus Mustang FC vs Jinju Citizen 11:00 ngày 14/03 Korean K League 4", Jungnang Chorus Mustang FC vs Jinju Citizen 11:00 ngày 14/03 Korean K League 4
+https://live.alilicloud.com/live/42661e442fdc2d50b4280e0a096f030a/playlist.m3u8
+#EXTINF:-1 tvg-id="601300996" group-title="Adelaide City FC vs Adelaide United FC (Youth) 11:00 ngày 14/03 South Australia National Premier Leagues", Adelaide City FC vs Adelaide United FC (Youth) 11:00 ngày 14/03 South Australia National Premier Leagues
+https://live.alilicloud.com/live/c8cf718595c6fa9e79fc4b07fd16025d/playlist.m3u8
 #EXTINF:-1 tvg-id="601313860" group-title="Han Ji-eun vs Lee Woo-kyung 11:00 ngày 14/03 PBA-LPBA World Championship 2026", Han Ji-eun vs Lee Woo-kyung 11:00 ngày 14/03 PBA-LPBA World Championship 2026 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69b4d7e9326d8_144313/index.m3u8?expire=1774064233&amp;sign=62eca2610f0f99254b2a421821372c61
 #EXTINF:-1 tvg-id="601313860" group-title="Han Ji-eun vs Lee Woo-kyung 11:00 ngày 14/03 PBA-LPBA World Championship 2026", Han Ji-eun vs Lee Woo-kyung 11:00 ngày 14/03 PBA-LPBA World Championship 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69b4d7e9326d8_144313/index.m3u8?expire=1774064233&sign=62eca2610f0f99254b2a421821372c61
-#EXTINF:-1 tvg-id="601299376" group-title="Golden State Warriors vs Minnesota Timberwolves 09:00 ngày 14/03 NBA", Golden State Warriors vs Minnesota Timberwolves 09:00 ngày 14/03 NBA (Link 1)
-https://cdn-hls.taoxanh.biz/live/69b4c24970a68_42127/index.m3u8?expire=1774058697&amp;sign=e5dccf03f27c6ab893748847853d7a3f
-#EXTINF:-1 tvg-id="601299376" group-title="Golden State Warriors vs Minnesota Timberwolves 09:00 ngày 14/03 NBA", Golden State Warriors vs Minnesota Timberwolves 09:00 ngày 14/03 NBA (Link 2)
-https://cdn-hls.taoxanh.biz/live/69b4c24970a68_42127/index.m3u8?expire=1774058697&sign=e5dccf03f27c6ab893748847853d7a3f
-#EXTINF:-1 tvg-id="601299379" group-title="Portland Trail Blazers vs Utah Jazz 09:00 ngày 14/03 NBA", Portland Trail Blazers vs Utah Jazz 09:00 ngày 14/03 NBA (Link 1)
-https://cdn-hls.taoxanh.biz/live/69b4c24e326d8_138846/index.m3u8?expire=1774058702&amp;sign=04fb3d783858f22cacc25cee75890d71
-#EXTINF:-1 tvg-id="601299379" group-title="Portland Trail Blazers vs Utah Jazz 09:00 ngày 14/03 NBA", Portland Trail Blazers vs Utah Jazz 09:00 ngày 14/03 NBA (Link 2)
-https://cdn-hls.taoxanh.biz/live/69b4c24e326d8_138846/index.m3u8?expire=1774058702&sign=04fb3d783858f22cacc25cee75890d71
-#EXTINF:-1 tvg-id="601299382" group-title="Los Angeles Clippers vs Chicago Bulls 09:30 ngày 14/03 NBA", Los Angeles Clippers vs Chicago Bulls 09:30 ngày 14/03 NBA (Link 1)
-https://cdn-hls.taoxanh.biz/live/69b4d84c326d8_142210/index.m3u8?expire=1774064332&amp;sign=4fbe4ca317e96b6d56ee54bf3e675c79
-#EXTINF:-1 tvg-id="601299382" group-title="Los Angeles Clippers vs Chicago Bulls 09:30 ngày 14/03 NBA", Los Angeles Clippers vs Chicago Bulls 09:30 ngày 14/03 NBA (Link 2)
-https://cdn-hls.taoxanh.biz/live/69b4d84c326d8_142210/index.m3u8?expire=1774064332&sign=4fbe4ca317e96b6d56ee54bf3e675c79
+#EXTINF:-1 tvg-id="601312330" group-title="KCC Egis vs Anyang JungKwanJang 12:00 ngày 14/03 KBL", KCC Egis vs Anyang JungKwanJang 12:00 ngày 14/03 KBL (Link 1)
+https://cdn-hls.taoxanh.biz/live/69b4ed5770a68_142210/index.m3u8?expire=1774069719&amp;sign=d55a004f5eedc473768029bbf37ea228
+#EXTINF:-1 tvg-id="601312330" group-title="KCC Egis vs Anyang JungKwanJang 12:00 ngày 14/03 KBL", KCC Egis vs Anyang JungKwanJang 12:00 ngày 14/03 KBL (Link 2)
+https://cdn-hls.taoxanh.biz/live/69b4ed5770a68_142210/index.m3u8?expire=1774069719&sign=d55a004f5eedc473768029bbf37ea228
+#EXTINF:-1 tvg-id="601309435" group-title="JT Marvelous Nữ vs NEC Red Rockets Nữ 12:00 ngày 14/03 Volleyball League", JT Marvelous Nữ vs NEC Red Rockets Nữ 12:00 ngày 14/03 Volleyball League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69b4ea79326d8_110198/index.m3u8?expire=1774068985&amp;sign=0204aa5ca7eebf07a1b36a65ce093773
+#EXTINF:-1 tvg-id="601309435" group-title="JT Marvelous Nữ vs NEC Red Rockets Nữ 12:00 ngày 14/03 Volleyball League", JT Marvelous Nữ vs NEC Red Rockets Nữ 12:00 ngày 14/03 Volleyball League (Link 2)
+https://cdn-hls.taoxanh.biz/live/69b4ea79326d8_110198/index.m3u8?expire=1774068985&sign=0204aa5ca7eebf07a1b36a65ce093773
+#EXTINF:-1 tvg-id="601313554" group-title="Dang QIU vs WEN Ruibo 12:05 ngày 14/03 WTT Champions Chongqing Women", Dang QIU vs WEN Ruibo 12:05 ngày 14/03 WTT Champions Chongqing Women (Link 1)
+https://cdn-hls.taoxanh.biz/live/69b4e3cc70a68_141847/index.m3u8?expire=1774067276&amp;sign=765eef073f7eb510f0a6418b60e62956
+#EXTINF:-1 tvg-id="601313554" group-title="Dang QIU vs WEN Ruibo 12:05 ngày 14/03 WTT Champions Chongqing Women", Dang QIU vs WEN Ruibo 12:05 ngày 14/03 WTT Champions Chongqing Women (Link 2)
+https://cdn-hls.taoxanh.biz/live/69b4e3cc70a68_141847/index.m3u8?expire=1774067276&sign=765eef073f7eb510f0a6418b60e62956
