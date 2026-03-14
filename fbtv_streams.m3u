@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601304659" group-title="FC Arouca vs Benfica 03:30 ngày 15/03 Portuguese Primera Liga", FC Arouca vs Benfica 03:30 ngày 15/03 Portuguese Primera Liga (Link 1)
-https://cdn-hls.taoxanh.biz/live/69b5b6bc70a69_88186/index.m3u8?expire=1774121276&amp;sign=9bb27177603a5eea8a747f59f3036827
-#EXTINF:-1 tvg-id="601304659" group-title="FC Arouca vs Benfica 03:30 ngày 15/03 Portuguese Primera Liga", FC Arouca vs Benfica 03:30 ngày 15/03 Portuguese Primera Liga (Link 2)
-https://live.alilicloud.com/live/5d489fa94c46038ae6a00be9411b4f9b/playlist.m3u8
-#EXTINF:-1 tvg-id="601304659" group-title="FC Arouca vs Benfica 03:30 ngày 15/03 Portuguese Primera Liga", FC Arouca vs Benfica 03:30 ngày 15/03 Portuguese Primera Liga (Link 3)
-https://cdn-hls.taoxanh.biz/live/69b5b6bc70a69_88186/index.m3u8?expire=1774121276&sign=9bb27177603a5eea8a747f59f3036827
 #EXTINF:-1 tvg-id="601304887" group-title="Atletico San Luis vs Pachuca 06:00 ngày 15/03 Mexico Liga MX", Atletico San Luis vs Pachuca 06:00 ngày 15/03 Mexico Liga MX (Link 1)
 https://cdn-hls.taoxanh.biz/live/69b5d8a1326d8_44731/index.m3u8?expire=1774129953&amp;sign=1287f63c2695b627da37c5187f8ac48e
 #EXTINF:-1 tvg-id="601304887" group-title="Atletico San Luis vs Pachuca 06:00 ngày 15/03 Mexico Liga MX", Atletico San Luis vs Pachuca 06:00 ngày 15/03 Mexico Liga MX (Link 2)
@@ -13,12 +7,14 @@ https://cdn-hls.taoxanh.biz/live/69b5d8a1326d8_44731/index.m3u8?expire=177412995
 https://cdn-hls.taoxanh.biz/live/69b5cb63326d8_73445/index.m3u8?expire=1774126563&amp;sign=5509b13a2c0d3f17bdaf28606a5af686
 #EXTINF:-1 tvg-id="601304926" group-title="Chivas Guadalajara vs Santos Laguna 06:07 ngày 15/03 Mexico Liga MX", Chivas Guadalajara vs Santos Laguna 06:07 ngày 15/03 Mexico Liga MX (Link 2)
 https://cdn-hls.taoxanh.biz/live/69b5cb63326d8_73445/index.m3u8?expire=1774126563&sign=5509b13a2c0d3f17bdaf28606a5af686
-#EXTINF:-1 tvg-id="601304656" group-title="Juan Pablo II vs Los Chankas 03:15 ngày 15/03 Peruvian Liga 1", Juan Pablo II vs Los Chankas 03:15 ngày 15/03 Peruvian Liga 1
-https://live.alilicloud.com/live/b2bff4903b149e6be905f1ed45747d0b/playlist.m3u8
-#EXTINF:-1 tvg-id="601304662" group-title="Boca Juniors De Cali vs Leones 03:30 ngày 15/03 Colombian Torneo BetPlay Dimayor", Boca Juniors De Cali vs Leones 03:30 ngày 15/03 Colombian Torneo BetPlay Dimayor
-https://live.alilicloud.com/live/86fa70c1fd76b9539c66bbe73139c3ca/playlist.m3u8
-#EXTINF:-1 tvg-id="601313614" group-title="Sporting Vereniging Notch vs Inter Moengo Tapoe 03:30 ngày 15/03 SML", Sporting Vereniging Notch vs Inter Moengo Tapoe 03:30 ngày 15/03 SML
-https://live.alilicloud.com/live/3b2c756630e357c0294d367c86983426/playlist.m3u8
+#EXTINF:-1 tvg-id="601304680" group-title="Colorado Springs Switchbacks FC vs Las Vegas Lights 04:00 ngày 15/03 USL Championship", Colorado Springs Switchbacks FC vs Las Vegas Lights 04:00 ngày 15/03 USL Championship
+https://live.alilicloud.com/live/7fa4edfad64bfec8ff296b1b35a6c1ba/playlist.m3u8
+#EXTINF:-1 tvg-id="601304689" group-title="Coquimbo Unido vs Universidad de Chile 04:00 ngày 15/03 Chilean Primera Division", Coquimbo Unido vs Universidad de Chile 04:00 ngày 15/03 Chilean Primera Division
+https://live.alilicloud.com/live/63eda26a495d45bdace7418c1523fe02/playlist.m3u8
+#EXTINF:-1 tvg-id="601304788" group-title="Maritimo de La Guaira vs Deportivo Miranda 04:00 ngày 15/03 Venezuela Segunda Division", Maritimo de La Guaira vs Deportivo Miranda 04:00 ngày 15/03 Venezuela Segunda Division
+https://live.alilicloud.com/live/ee86481745374267deec02cfe5053d55/playlist.m3u8
+#EXTINF:-1 tvg-id="601312540" group-title="CA Votuporanguense SP vs Ituano  SP 04:00 ngày 15/03 Brazilian Campeonato Paulista A2", CA Votuporanguense SP vs Ituano  SP 04:00 ngày 15/03 Brazilian Campeonato Paulista A2
+https://live.alilicloud.com/live/3924a7fc0e72193b74799072c7fc8537/playlist.m3u8
 #EXTINF:-1 tvg-id="601299394" group-title="Boston Celtics vs Washington Wizards 05:00 ngày 15/03 NBA", Boston Celtics vs Washington Wizards 05:00 ngày 15/03 NBA (Link 1)
 https://cdn-hls.taoxanh.biz/live/69b5d716326d8_72787/index.m3u8?expire=1774129558&amp;sign=43534c4855efd6bda02e4e9995b65b3a
 #EXTINF:-1 tvg-id="601299394" group-title="Boston Celtics vs Washington Wizards 05:00 ngày 15/03 NBA", Boston Celtics vs Washington Wizards 05:00 ngày 15/03 NBA (Link 2)
