@@ -3,12 +3,6 @@
 https://cdn-hls.taoxanh.biz/live/69b538da70a68_103/index.m3u8?expire=1774089050&amp;sign=17f3311a685ab20e82412ef780c916ad
 #EXTINF:-1 tvg-id="601313626" group-title="Mika Van Berkelz vs Joshua Filler 20:20 ngày 14/03 European Open Pool Championship 2026", Mika Van Berkelz vs Joshua Filler 20:20 ngày 14/03 European Open Pool Championship 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69b538da70a68_103/index.m3u8?expire=1774089050&sign=17f3311a685ab20e82412ef780c916ad
-#EXTINF:-1 tvg-id="601302016" group-title="Girona FC vs Athletic Club 20:00 ngày 14/03 Spanish La Liga", Girona FC vs Athletic Club 20:00 ngày 14/03 Spanish La Liga (Link 1)
-https://cdn-hls.taoxanh.biz/live/69b54e1070a68_133172/index.m3u8?expire=1774094480&amp;sign=0ed78b090cc77392c3bba7d4a75a69b6
-#EXTINF:-1 tvg-id="601302016" group-title="Girona FC vs Athletic Club 20:00 ngày 14/03 Spanish La Liga", Girona FC vs Athletic Club 20:00 ngày 14/03 Spanish La Liga (Link 2)
-https://live.alilicloud.com/live/c9cd7ea3bb977b77ece92b08b107f25c/playlist.m3u8
-#EXTINF:-1 tvg-id="601302016" group-title="Girona FC vs Athletic Club 20:00 ngày 14/03 Spanish La Liga", Girona FC vs Athletic Club 20:00 ngày 14/03 Spanish La Liga (Link 3)
-https://cdn-hls.taoxanh.biz/live/69b54e1070a68_133172/index.m3u8?expire=1774094480&sign=0ed78b090cc77392c3bba7d4a75a69b6
 #EXTINF:-1 tvg-id="601302754" group-title="Inter Milan vs Atalanta 21:00 ngày 14/03 Italian Serie A", Inter Milan vs Atalanta 21:00 ngày 14/03 Italian Serie A (Link 1)
 https://cdn-hls.taoxanh.biz/live/69b563b0326d8_74012/index.m3u8?expire=1774100016&amp;sign=52b68dda3b528f4393fdf1be1b842dd6
 #EXTINF:-1 tvg-id="601302754" group-title="Inter Milan vs Atalanta 21:00 ngày 14/03 Italian Serie A", Inter Milan vs Atalanta 21:00 ngày 14/03 Italian Serie A (Link 2)
@@ -21,10 +15,26 @@ https://cdn-hls.taoxanh.biz/live/69b56a7370a69_28/index.m3u8?expire=1774101747&a
 https://live.alilicloud.com/live/bf6419283e4ff7a1949eca2f1a20e1bf/playlist.m3u8
 #EXTINF:-1 tvg-id="601303081" group-title="Bayer 04 Leverkusen vs FC Bayern Munich 21:30 ngày 14/03 Bundesliga", Bayer 04 Leverkusen vs FC Bayern Munich 21:30 ngày 14/03 Bundesliga (Link 3)
 https://cdn-hls.taoxanh.biz/live/69b56a7370a69_28/index.m3u8?expire=1774101747&sign=692232e10cd5a202d164ba72921f503b
-#EXTINF:-1 tvg-id="601301461" group-title="Frosinone U20 vs Napoli Youth 21:00 ngày 14/03 Italian Campionato Primavera 1", Frosinone U20 vs Napoli Youth 21:00 ngày 14/03 Italian Campionato Primavera 1
-https://live.alilicloud.com/live/fac90b937007ae117b37750c7b6bdc6b/playlist.m3u8
-#EXTINF:-1 tvg-id="601301977" group-title="Aarhus Fremad vs AC Horsens 20:00 ngày 14/03 Danish 1st Division", Aarhus Fremad vs AC Horsens 20:00 ngày 14/03 Danish 1st Division
-https://live.alilicloud.com/live/3d5fdef04365e71cd20778e7072dda67/playlist.m3u8
+#EXTINF:-1 tvg-id="601303090" group-title="TSG Hoffenheim vs VfL Wolfsburg 21:30 ngày 14/03 Bundesliga", TSG Hoffenheim vs VfL Wolfsburg 21:30 ngày 14/03 Bundesliga (Link 1)
+https://cdn-hls.taoxanh.biz/live/69b5755770a69_73445/index.m3u8?expire=1774104535&amp;sign=9c44d889bd51ea259e3eb67565fa3dc7
+#EXTINF:-1 tvg-id="601303090" group-title="TSG Hoffenheim vs VfL Wolfsburg 21:30 ngày 14/03 Bundesliga", TSG Hoffenheim vs VfL Wolfsburg 21:30 ngày 14/03 Bundesliga (Link 2)
+https://live.alilicloud.com/live/262beaacd2d12e0466064b8256e3f7e4/playlist.m3u8
+#EXTINF:-1 tvg-id="601303090" group-title="TSG Hoffenheim vs VfL Wolfsburg 21:30 ngày 14/03 Bundesliga", TSG Hoffenheim vs VfL Wolfsburg 21:30 ngày 14/03 Bundesliga (Link 3)
+https://cdn-hls.taoxanh.biz/live/69b5755770a69_73445/index.m3u8?expire=1774104535&sign=9c44d889bd51ea259e3eb67565fa3dc7
+#EXTINF:-1 tvg-id="601302457" group-title="Sabah FC vs Imigresen FC 20:15 ngày 14/03 Malaysian Super League", Sabah FC vs Imigresen FC 20:15 ngày 14/03 Malaysian Super League
+https://live.alilicloud.com/live/6e7ff1e996618c39089c319a7df3632e/playlist.m3u8
+#EXTINF:-1 tvg-id="601302469" group-title="Botev Plovdiv vs Botev Vratsa 20:15 ngày 14/03 Bulgarian First League", Botev Plovdiv vs Botev Vratsa 20:15 ngày 14/03 Bulgarian First League
+https://live.alilicloud.com/live/e040c6abafc8aad6d1df6eea2d75c998/playlist.m3u8
+#EXTINF:-1 tvg-id="601302478" group-title="Ujpest FC vs Kisvárda Master Good FC 20:30 ngày 14/03 OTP Bank Liga", Ujpest FC vs Kisvárda Master Good FC 20:30 ngày 14/03 OTP Bank Liga
+https://live.alilicloud.com/live/dec1d457e3b52b49a0075787f593d922/playlist.m3u8
+#EXTINF:-1 tvg-id="601303084" group-title="Borussia Dortmund vs FC Augsburg 21:30 ngày 14/03 Bundesliga", Borussia Dortmund vs FC Augsburg 21:30 ngày 14/03 Bundesliga (Link 1)
+https://cdn-hls.taoxanh.biz/live/69b55fab70a69_85514/index.m3u8?expire=1774098987&amp;sign=9427da1034f23738a8ebdefd41840819
+#EXTINF:-1 tvg-id="601303084" group-title="Borussia Dortmund vs FC Augsburg 21:30 ngày 14/03 Bundesliga", Borussia Dortmund vs FC Augsburg 21:30 ngày 14/03 Bundesliga (Link 2)
+https://live.alilicloud.com/live/398790af8cdcd55d1ca7e803c1090fb2/playlist.m3u8
+#EXTINF:-1 tvg-id="601303084" group-title="Borussia Dortmund vs FC Augsburg 21:30 ngày 14/03 Bundesliga", Borussia Dortmund vs FC Augsburg 21:30 ngày 14/03 Bundesliga (Link 3)
+https://cdn-hls.taoxanh.biz/live/69b55fab70a69_85514/index.m3u8?expire=1774098987&sign=9427da1034f23738a8ebdefd41840819
+#EXTINF:-1 tvg-id="601302481" group-title="Sturm Graz (Youth) vs Austria Lustenau 20:30 ngày 14/03 Austrian 2.Liga", Sturm Graz (Youth) vs Austria Lustenau 20:30 ngày 14/03 Austrian 2.Liga
+https://live.alilicloud.com/live/a1a2e3344f45879db6ddc41214a27de7/playlist.m3u8
 #EXTINF:-1 tvg-id="601314247" group-title="Kim Young-won vs Kim Jae-geun 20:00 ngày 14/03 PBA-LPBA World Championship 2026", Kim Young-won vs Kim Jae-geun 20:00 ngày 14/03 PBA-LPBA World Championship 2026 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69b52d72326d8_142246/index.m3u8?expire=1774086130&amp;sign=475879e81e48e36a902df71da14dbde3
 #EXTINF:-1 tvg-id="601314247" group-title="Kim Young-won vs Kim Jae-geun 20:00 ngày 14/03 PBA-LPBA World Championship 2026", Kim Young-won vs Kim Jae-geun 20:00 ngày 14/03 PBA-LPBA World Championship 2026 (Link 2)
@@ -33,11 +43,7 @@ https://cdn-hls.taoxanh.biz/live/69b52d72326d8_142246/index.m3u8?expire=17740861
 https://cdn-hls.taoxanh.biz/live/69b56686326d8_85706/index.m3u8?expire=1774100742&amp;sign=e8adae28e7ccfe4ce423e2da19ddf364
 #EXTINF:-1 tvg-id="601314268" group-title="Mohammad Soufi vs Naoyuki Oi 20:30 ngày 14/03 European Open Pool Championship 2026", Mohammad Soufi vs Naoyuki Oi 20:30 ngày 14/03 European Open Pool Championship 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69b56686326d8_85706/index.m3u8?expire=1774100742&sign=e8adae28e7ccfe4ce423e2da19ddf364
-#EXTINF:-1 tvg-id="601313560" group-title="Putri Kusuma WARDANI vs Nozomi OKUHARA 21:17 ngày 14/03 Sân 1 - YONEX Swiss Open 2026", Putri Kusuma WARDANI vs Nozomi OKUHARA 21:17 ngày 14/03 Sân 1 - YONEX Swiss Open 2026 (Link 1)
+#EXTINF:-1 tvg-id="601313560" group-title="Christian Faust KJÆR /  Rasmus KJÆR vs Nozomi OKUHARA 22:10 ngày 14/03 Sân 1 - YONEX Swiss Open 2026", Christian Faust KJÆR /  Rasmus KJÆR vs Nozomi OKUHARA 22:10 ngày 14/03 Sân 1 - YONEX Swiss Open 2026 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69b53e57326d8_18754/index.m3u8?expire=1774090455&amp;sign=c78ecf132f62ac7252092196aa9cbf37
-#EXTINF:-1 tvg-id="601313560" group-title="Putri Kusuma WARDANI vs Nozomi OKUHARA 21:17 ngày 14/03 Sân 1 - YONEX Swiss Open 2026", Putri Kusuma WARDANI vs Nozomi OKUHARA 21:17 ngày 14/03 Sân 1 - YONEX Swiss Open 2026 (Link 2)
+#EXTINF:-1 tvg-id="601313560" group-title="Christian Faust KJÆR /  Rasmus KJÆR vs Nozomi OKUHARA 22:10 ngày 14/03 Sân 1 - YONEX Swiss Open 2026", Christian Faust KJÆR /  Rasmus KJÆR vs Nozomi OKUHARA 22:10 ngày 14/03 Sân 1 - YONEX Swiss Open 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69b53e57326d8_18754/index.m3u8?expire=1774090455&sign=c78ecf132f62ac7252092196aa9cbf37
-#EXTINF:-1 tvg-id="601313557" group-title="Hugo CALDERANO vs Felix LEBRUN 20:46 ngày 14/03 WTT Champions Chongqing Women", Hugo CALDERANO vs Felix LEBRUN 20:46 ngày 14/03 WTT Champions Chongqing Women (Link 1)
-https://cdn-hls.taoxanh.biz/live/69b53e29326d8_142210/index.m3u8?expire=1774090409&amp;sign=190d9f4c4aa07f45d3066caf51861d05
-#EXTINF:-1 tvg-id="601313557" group-title="Hugo CALDERANO vs Felix LEBRUN 20:46 ngày 14/03 WTT Champions Chongqing Women", Hugo CALDERANO vs Felix LEBRUN 20:46 ngày 14/03 WTT Champions Chongqing Women (Link 2)
-https://cdn-hls.taoxanh.biz/live/69b53e29326d8_142210/index.m3u8?expire=1774090409&sign=190d9f4c4aa07f45d3066caf51861d05
