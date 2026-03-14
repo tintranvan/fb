@@ -3,12 +3,6 @@
 https://cdn-hls.taoxanh.biz/live/69b538da70a68_103/index.m3u8?expire=1774089050&amp;sign=17f3311a685ab20e82412ef780c916ad
 #EXTINF:-1 tvg-id="601313626" group-title="Dương Quốc Hoàng vs Moritz Neuhausen 01:00 ngày 15/03 European Open Pool Championship 2026", Dương Quốc Hoàng vs Moritz Neuhausen 01:00 ngày 15/03 European Open Pool Championship 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69b538da70a68_103/index.m3u8?expire=1774089050&sign=17f3311a685ab20e82412ef780c916ad
-#EXTINF:-1 tvg-id="601302754" group-title="Inter Milan vs Atalanta 21:00 ngày 14/03 Italian Serie A", Inter Milan vs Atalanta 21:00 ngày 14/03 Italian Serie A (Link 1)
-https://cdn-hls.taoxanh.biz/live/69b563b0326d8_74012/index.m3u8?expire=1774100016&amp;sign=52b68dda3b528f4393fdf1be1b842dd6
-#EXTINF:-1 tvg-id="601302754" group-title="Inter Milan vs Atalanta 21:00 ngày 14/03 Italian Serie A", Inter Milan vs Atalanta 21:00 ngày 14/03 Italian Serie A (Link 2)
-https://live.alilicloud.com/live/636556f58bc85fd592c788ba632ba072/playlist.m3u8
-#EXTINF:-1 tvg-id="601302754" group-title="Inter Milan vs Atalanta 21:00 ngày 14/03 Italian Serie A", Inter Milan vs Atalanta 21:00 ngày 14/03 Italian Serie A (Link 3)
-https://cdn-hls.taoxanh.biz/live/69b563b0326d8_74012/index.m3u8?expire=1774100016&sign=52b68dda3b528f4393fdf1be1b842dd6
 #EXTINF:-1 tvg-id="601303081" group-title="Bayer 04 Leverkusen vs FC Bayern Munich 21:30 ngày 14/03 Bundesliga", Bayer 04 Leverkusen vs FC Bayern Munich 21:30 ngày 14/03 Bundesliga (Link 1)
 https://cdn-hls.taoxanh.biz/live/69b56a7370a69_28/index.m3u8?expire=1774101747&amp;sign=692232e10cd5a202d164ba72921f503b
 #EXTINF:-1 tvg-id="601303081" group-title="Bayer 04 Leverkusen vs FC Bayern Munich 21:30 ngày 14/03 Bundesliga", Bayer 04 Leverkusen vs FC Bayern Munich 21:30 ngày 14/03 Bundesliga (Link 2)
@@ -21,20 +15,18 @@ https://cdn-hls.taoxanh.biz/live/69b55fab70a69_85514/index.m3u8?expire=177409898
 https://live.alilicloud.com/live/398790af8cdcd55d1ca7e803c1090fb2/playlist.m3u8
 #EXTINF:-1 tvg-id="601303084" group-title="Borussia Dortmund vs FC Augsburg 21:30 ngày 14/03 Bundesliga", Borussia Dortmund vs FC Augsburg 21:30 ngày 14/03 Bundesliga (Link 3)
 https://cdn-hls.taoxanh.biz/live/69b55fab70a69_85514/index.m3u8?expire=1774098987&sign=9427da1034f23738a8ebdefd41840819
-#EXTINF:-1 tvg-id="601301461" group-title="Frosinone U20 vs Napoli Youth 21:00 ngày 14/03 Italian Campionato Primavera 1", Frosinone U20 vs Napoli Youth 21:00 ngày 14/03 Italian Campionato Primavera 1
-https://live.alilicloud.com/live/fac90b937007ae117b37750c7b6bdc6b/playlist.m3u8
-#EXTINF:-1 tvg-id="601302220" group-title="Apolonia Fier vs Skenderbeu Korca 21:00 ngày 14/03 Albanian Division 1", Apolonia Fier vs Skenderbeu Korca 21:00 ngày 14/03 Albanian Division 1
-https://live.alilicloud.com/live/657f155d4c539521ccf0695de5ced21e/playlist.m3u8
-#EXTINF:-1 tvg-id="601302223" group-title="Besa Kavaje vs Pogradeci 21:00 ngày 14/03 Albanian Division 1", Besa Kavaje vs Pogradeci 21:00 ngày 14/03 Albanian Division 1
-https://live.alilicloud.com/live/11caf41aa1db0568a96d114514a6bcc7/playlist.m3u8
 #EXTINF:-1 tvg-id="601303087" group-title="Eintracht Frankfurt vs 1. FC Heidenheim 1846 21:30 ngày 14/03 Bundesliga", Eintracht Frankfurt vs 1. FC Heidenheim 1846 21:30 ngày 14/03 Bundesliga (Link 1)
 https://cdn-hls.taoxanh.biz/live/69b56a8b326d8_72787/index.m3u8?expire=1774101771&amp;sign=961e63dc74eb4f7379cded8ce002d878
 #EXTINF:-1 tvg-id="601303087" group-title="Eintracht Frankfurt vs 1. FC Heidenheim 1846 21:30 ngày 14/03 Bundesliga", Eintracht Frankfurt vs 1. FC Heidenheim 1846 21:30 ngày 14/03 Bundesliga (Link 2)
 https://live.alilicloud.com/live/a6a2787ed0528edefb0c7e7e9afb8b24/playlist.m3u8
 #EXTINF:-1 tvg-id="601303087" group-title="Eintracht Frankfurt vs 1. FC Heidenheim 1846 21:30 ngày 14/03 Bundesliga", Eintracht Frankfurt vs 1. FC Heidenheim 1846 21:30 ngày 14/03 Bundesliga (Link 3)
 https://cdn-hls.taoxanh.biz/live/69b56a8b326d8_72787/index.m3u8?expire=1774101771&sign=961e63dc74eb4f7379cded8ce002d878
-#EXTINF:-1 tvg-id="601302226" group-title="KS Iliria Fushe vs Kastrioti Kruje 21:00 ngày 14/03 Albanian Division 1", KS Iliria Fushe vs Kastrioti Kruje 21:00 ngày 14/03 Albanian Division 1
-https://live.alilicloud.com/live/254c1f9968061f246e0ead3020c2efcf/playlist.m3u8
+#EXTINF:-1 tvg-id="601303090" group-title="TSG Hoffenheim vs VfL Wolfsburg 21:30 ngày 14/03 Bundesliga", TSG Hoffenheim vs VfL Wolfsburg 21:30 ngày 14/03 Bundesliga (Link 1)
+https://cdn-hls.taoxanh.biz/live/69b5755770a69_73445/index.m3u8?expire=1774104535&amp;sign=9c44d889bd51ea259e3eb67565fa3dc7
+#EXTINF:-1 tvg-id="601303090" group-title="TSG Hoffenheim vs VfL Wolfsburg 21:30 ngày 14/03 Bundesliga", TSG Hoffenheim vs VfL Wolfsburg 21:30 ngày 14/03 Bundesliga (Link 2)
+https://live.alilicloud.com/live/262beaacd2d12e0466064b8256e3f7e4/playlist.m3u8
+#EXTINF:-1 tvg-id="601303090" group-title="TSG Hoffenheim vs VfL Wolfsburg 21:30 ngày 14/03 Bundesliga", TSG Hoffenheim vs VfL Wolfsburg 21:30 ngày 14/03 Bundesliga (Link 3)
+https://cdn-hls.taoxanh.biz/live/69b5755770a69_73445/index.m3u8?expire=1774104535&sign=9c44d889bd51ea259e3eb67565fa3dc7
 #EXTINF:-1 tvg-id="601313560" group-title="Christian Faust KJÆR /  Rasmus KJÆR vs Nozomi OKUHARA 22:10 ngày 14/03 Sân 1 - YONEX Swiss Open 2026", Christian Faust KJÆR /  Rasmus KJÆR vs Nozomi OKUHARA 22:10 ngày 14/03 Sân 1 - YONEX Swiss Open 2026 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69b53e57326d8_18754/index.m3u8?expire=1774090455&amp;sign=c78ecf132f62ac7252092196aa9cbf37
 #EXTINF:-1 tvg-id="601313560" group-title="Christian Faust KJÆR /  Rasmus KJÆR vs Nozomi OKUHARA 22:10 ngày 14/03 Sân 1 - YONEX Swiss Open 2026", Christian Faust KJÆR /  Rasmus KJÆR vs Nozomi OKUHARA 22:10 ngày 14/03 Sân 1 - YONEX Swiss Open 2026 (Link 2)
