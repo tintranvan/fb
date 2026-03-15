@@ -17,16 +17,6 @@ https://cdn-hls.taoxanh.biz/live/69b6b259326d9_133172/index.m3u8?expire=17741856
 https://cdn-hls.taoxanh.biz/live/69b68923326d9_103/index.m3u8?expire=1774175139&amp;sign=13f4e9844ad2f6077c2d713090046545
 #EXTINF:-1 tvg-id="601314556" group-title="Mario He vs Joshua Filler 20:00 ngày 15/03 European Open Pool Championship 2026", Mario He vs Joshua Filler 20:00 ngày 15/03 European Open Pool Championship 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69b68923326d9_103/index.m3u8?expire=1774175139&sign=13f4e9844ad2f6077c2d713090046545
-#EXTINF:-1 tvg-id="601306237" group-title="Feyenoord vs Excelsior SBV 20:30 ngày 15/03 Netherlands Eredivisie", Feyenoord vs Excelsior SBV 20:30 ngày 15/03 Netherlands Eredivisie (Link 1)
-https://cdn-hls.taoxanh.biz/live/69b6b13f326d9_73445/index.m3u8?expire=1774185407&amp;sign=c0c763bfee54e9229942ed78859e3d69
-#EXTINF:-1 tvg-id="601306237" group-title="Feyenoord vs Excelsior SBV 20:30 ngày 15/03 Netherlands Eredivisie", Feyenoord vs Excelsior SBV 20:30 ngày 15/03 Netherlands Eredivisie (Link 2)
-https://live.alilicloud.com/live/f6ae1e1bceb8eab226537bddf5832518/playlist.m3u8
-#EXTINF:-1 tvg-id="601306237" group-title="Feyenoord vs Excelsior SBV 20:30 ngày 15/03 Netherlands Eredivisie", Feyenoord vs Excelsior SBV 20:30 ngày 15/03 Netherlands Eredivisie (Link 3)
-https://cdn-hls.taoxanh.biz/live/69b6b13f326d9_73445/index.m3u8?expire=1774185407&sign=c0c763bfee54e9229942ed78859e3d69
-#EXTINF:-1 tvg-id="601306234" group-title="AZ Alkmaar vs Heracles Almelo 20:30 ngày 15/03 Netherlands Eredivisie", AZ Alkmaar vs Heracles Almelo 20:30 ngày 15/03 Netherlands Eredivisie
-https://live.alilicloud.com/live/53529ae2bf6c25df8622162c4bb0cbb4/playlist.m3u8
-#EXTINF:-1 tvg-id="601306246" group-title="GKS Tychy vs Slask Wroclaw 20:30 ngày 15/03 Poland Liga 1", GKS Tychy vs Slask Wroclaw 20:30 ngày 15/03 Poland Liga 1
-https://live.alilicloud.com/live/c37fb2c5474556f343838663a91e9e46/playlist.m3u8
 #EXTINF:-1 tvg-id="601306558" group-title="Pisa vs Cagliari 21:00 ngày 15/03 Italian Serie A", Pisa vs Cagliari 21:00 ngày 15/03 Italian Serie A (Link 1)
 https://cdn-hls.taoxanh.biz/live/69b6ace9326d9_85514/index.m3u8?expire=1774184297&amp;sign=9dae6262c8948cc6ae3912caaacffbed
 #EXTINF:-1 tvg-id="601306558" group-title="Pisa vs Cagliari 21:00 ngày 15/03 Italian Serie A", Pisa vs Cagliari 21:00 ngày 15/03 Italian Serie A (Link 2)
@@ -39,5 +29,9 @@ https://cdn-hls.taoxanh.biz/live/69b6a38f70a69_44731/index.m3u8?expire=177418190
 https://live.alilicloud.com/live/02a949ea6179d25fb1f7752ca9d07601/playlist.m3u8
 #EXTINF:-1 tvg-id="601306561" group-title="Sassuolo vs Bologna 21:00 ngày 15/03 Italian Serie A", Sassuolo vs Bologna 21:00 ngày 15/03 Italian Serie A (Link 3)
 https://cdn-hls.taoxanh.biz/live/69b6a38f70a69_44731/index.m3u8?expire=1774181903&sign=a02ada49f61c1a02bf867153b96b2b36
-#EXTINF:-1 tvg-id="601306249" group-title="FC Pari Nizhniy Novgorod vs Krylya Sovetov 20:30 ngày 15/03 Russian Premier League", FC Pari Nizhniy Novgorod vs Krylya Sovetov 20:30 ngày 15/03 Russian Premier League
-https://live.alilicloud.com/live/7cd3f8a180c4d79540035aebc3b96673/playlist.m3u8
+#EXTINF:-1 tvg-id="601306564" group-title="Crystal Palace vs Leeds United 21:00 ngày 15/03 English Premier League", Crystal Palace vs Leeds United 21:00 ngày 15/03 English Premier League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69b6aec970a69_88186/index.m3u8?expire=1774184777&amp;sign=a0faada47e1283bbabdef48f49ff5f4e
+#EXTINF:-1 tvg-id="601306564" group-title="Crystal Palace vs Leeds United 21:00 ngày 15/03 English Premier League", Crystal Palace vs Leeds United 21:00 ngày 15/03 English Premier League (Link 2)
+https://live.alilicloud.com/live/a67dc5e6f48253b8982e94fed6e463b5/playlist.m3u8
+#EXTINF:-1 tvg-id="601306564" group-title="Crystal Palace vs Leeds United 21:00 ngày 15/03 English Premier League", Crystal Palace vs Leeds United 21:00 ngày 15/03 English Premier League (Link 3)
+https://cdn-hls.taoxanh.biz/live/69b6aec970a69_88186/index.m3u8?expire=1774184777&sign=a0faada47e1283bbabdef48f49ff5f4e
