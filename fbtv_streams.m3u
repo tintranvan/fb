@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601307902" group-title="Lazio vs AC Milan 02:45 ngày 16/03 Italian Serie A", Lazio vs AC Milan 02:45 ngày 16/03 Italian Serie A (Link 1)
-https://cdn-hls.taoxanh.biz/live/69b7026b326d9_28/index.m3u8?expire=1774206187&amp;sign=cc4b6fa1a87e88579a3ba3bd3498781d
-#EXTINF:-1 tvg-id="601307902" group-title="Lazio vs AC Milan 02:45 ngày 16/03 Italian Serie A", Lazio vs AC Milan 02:45 ngày 16/03 Italian Serie A (Link 2)
-https://live.alilicloud.com/live/0ae33c4106c2153988235ae4a13d3376/playlist.m3u8
-#EXTINF:-1 tvg-id="601307902" group-title="Lazio vs AC Milan 02:45 ngày 16/03 Italian Serie A", Lazio vs AC Milan 02:45 ngày 16/03 Italian Serie A (Link 3)
-https://cdn-hls.taoxanh.biz/live/69b7026b326d9_28/index.m3u8?expire=1774206187&sign=cc4b6fa1a87e88579a3ba3bd3498781d
 #EXTINF:-1 tvg-id="601307908" group-title="Real Sociedad vs CA Osasuna 03:00 ngày 16/03 Spanish La Liga", Real Sociedad vs CA Osasuna 03:00 ngày 16/03 Spanish La Liga (Link 1)
 https://cdn-hls.taoxanh.biz/live/69b6fc1270a69_128756/index.m3u8?expire=1774204562&amp;sign=6218b11256e81b345aea045b8503fbd7
 #EXTINF:-1 tvg-id="601307908" group-title="Real Sociedad vs CA Osasuna 03:00 ngày 16/03 Spanish La Liga", Real Sociedad vs CA Osasuna 03:00 ngày 16/03 Spanish La Liga (Link 2)
@@ -17,24 +11,12 @@ https://cdn-hls.taoxanh.biz/live/69b71d6170a69_110198/index.m3u8?expire=17742130
 https://cdn-hls.taoxanh.biz/live/69b71cb1326d9_4733/index.m3u8?expire=1774212913&amp;sign=d071025417ec462fc051d2afd438a0bf
 #EXTINF:-1 tvg-id="601314586" group-title="D. Medvedev vs J. Sinner 04:00 ngày 16/03 ATP Indian Wells", D. Medvedev vs J. Sinner 04:00 ngày 16/03 ATP Indian Wells (Link 3)
 https://cdn-hls.taoxanh.biz/live/69b71d6170a69_110198/index.m3u8?expire=1774213089&sign=96f5a6c1d5c3b39f4133928bd17cb3f5
-#EXTINF:-1 tvg-id="601314556" group-title="Mario He vs Moritz Neuhausen 01:30 ngày 16/03 European Open Pool Championship 2026", Mario He vs Moritz Neuhausen 01:30 ngày 16/03 European Open Pool Championship 2026 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69b68923326d9_103/index.m3u8?expire=1774175139&amp;sign=13f4e9844ad2f6077c2d713090046545
-#EXTINF:-1 tvg-id="601314556" group-title="Mario He vs Moritz Neuhausen 01:30 ngày 16/03 European Open Pool Championship 2026", Mario He vs Moritz Neuhausen 01:30 ngày 16/03 European Open Pool Championship 2026 (Link 2)
-https://cdn-hls.taoxanh.biz/live/69b68923326d9_103/index.m3u8?expire=1774175139&sign=13f4e9844ad2f6077c2d713090046545
-#EXTINF:-1 tvg-id="601307896" group-title="Lecco vs Novara 02:30 ngày 16/03 Italian Serie C", Lecco vs Novara 02:30 ngày 16/03 Italian Serie C
-https://live.alilicloud.com/live/87a9e1b1a803dff50638ef9facf3d846/playlist.m3u8
-#EXTINF:-1 tvg-id="601312735" group-title="Urena SC vs Barquisimeto 02:30 ngày 16/03 Venezuela Segunda Division", Urena SC vs Barquisimeto 02:30 ngày 16/03 Venezuela Segunda Division
-https://live.alilicloud.com/live/b6216db9651a64058792c1b4f9bfbae7/playlist.m3u8
-#EXTINF:-1 tvg-id="601312738" group-title="Atletico El Vigia vs Academia Puerto Cabello B 02:30 ngày 16/03 Venezuela Segunda Division", Atletico El Vigia vs Academia Puerto Cabello B 02:30 ngày 16/03 Venezuela Segunda Division
-https://live.alilicloud.com/live/16cb195729851754f00c1353a2fb2b93/playlist.m3u8
-#EXTINF:-1 tvg-id="601307905" group-title="Stade Rennais FC vs LOSC Lille 02:45 ngày 16/03 French Ligue 1", Stade Rennais FC vs LOSC Lille 02:45 ngày 16/03 French Ligue 1 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69b6fc7c70a69_88186/index.m3u8?expire=1774204668&amp;sign=719cff39727d5c640ea8788a02962479
-#EXTINF:-1 tvg-id="601307905" group-title="Stade Rennais FC vs LOSC Lille 02:45 ngày 16/03 French Ligue 1", Stade Rennais FC vs LOSC Lille 02:45 ngày 16/03 French Ligue 1 (Link 2)
-https://live.alilicloud.com/live/fb0d731188643d77377182d1027b423f/playlist.m3u8
-#EXTINF:-1 tvg-id="601307905" group-title="Stade Rennais FC vs LOSC Lille 02:45 ngày 16/03 French Ligue 1", Stade Rennais FC vs LOSC Lille 02:45 ngày 16/03 French Ligue 1 (Link 3)
-https://cdn-hls.taoxanh.biz/live/69b6fc7c70a69_88186/index.m3u8?expire=1774204668&sign=719cff39727d5c640ea8788a02962479
-#EXTINF:-1 tvg-id="601312741" group-title="Atletico Barinas vs Zamora FC Barinas B 02:30 ngày 16/03 Venezuela Segunda Division", Atletico Barinas vs Zamora FC Barinas B 02:30 ngày 16/03 Venezuela Segunda Division
-https://live.alilicloud.com/live/3283d883b9be0448bb34058c0c09dc4e/playlist.m3u8
+#EXTINF:-1 tvg-id="601304881" group-title="National Defense Forces vs Trinidad Tobago Police FC 03:00 ngày 16/03 Trinidad and Tobago Pro League", National Defense Forces vs Trinidad Tobago Police FC 03:00 ngày 16/03 Trinidad and Tobago Pro League
+https://live.alilicloud.com/live/b848d4d0d18403d83c4997006e2d20cb/playlist.m3u8
+#EXTINF:-1 tvg-id="601304890" group-title="Atletico Mitre de Santiago del Estero vs Club Ciudad de Bolivar 03:00 ngày 16/03 Argentine Division 2", Atletico Mitre de Santiago del Estero vs Club Ciudad de Bolivar 03:00 ngày 16/03 Argentine Division 2
+https://live.alilicloud.com/live/d05e7af507a7da093ec323288ec2feb4/playlist.m3u8
+#EXTINF:-1 tvg-id="601307923" group-title="Orlando Pride (w) vs Seattle Reign (W) 03:00 ngày 16/03 United States Women's National Soccer League", Orlando Pride (w) vs Seattle Reign (W) 03:00 ngày 16/03 United States Women's National Soccer League
+https://live.alilicloud.com/live/52320bad19c75097c9c0f933530ccc81/playlist.m3u8
 #EXTINF:-1 tvg-id="601310653" group-title="Cleveland Cavaliers vs Dallas Mavericks 02:30 ngày 16/03 NBA", Cleveland Cavaliers vs Dallas Mavericks 02:30 ngày 16/03 NBA (Link 1)
 https://cdn-hls.taoxanh.biz/live/69b70a1270a69_85714/index.m3u8?expire=1774208146&amp;sign=1666091d5bffbe56608e03538ff4aaf0
 #EXTINF:-1 tvg-id="601310653" group-title="Cleveland Cavaliers vs Dallas Mavericks 02:30 ngày 16/03 NBA", Cleveland Cavaliers vs Dallas Mavericks 02:30 ngày 16/03 NBA (Link 2)
@@ -47,3 +29,7 @@ https://cdn-hls.taoxanh.biz/live/69b70969326d9_85706/index.m3u8?expire=177420797
 https://cdn-hls.taoxanh.biz/live/69b7094b326d9_142210/index.m3u8?expire=1774207947&amp;sign=41029113b622791df06a39827345f3a8
 #EXTINF:-1 tvg-id="601310659" group-title="Toronto Raptors vs Detroit Pistons 02:30 ngày 16/03 NBA", Toronto Raptors vs Detroit Pistons 02:30 ngày 16/03 NBA (Link 2)
 https://cdn-hls.taoxanh.biz/live/69b7094b326d9_142210/index.m3u8?expire=1774207947&sign=41029113b622791df06a39827345f3a8
+#EXTINF:-1 tvg-id="601310662" group-title="Philadelphia 76ers vs Portland Trail Blazers 05:00 ngày 16/03 NBA", Philadelphia 76ers vs Portland Trail Blazers 05:00 ngày 16/03 NBA (Link 1)
+https://cdn-hls.taoxanh.biz/live/69b727ec70a69_72787/index.m3u8?expire=1774215788&amp;sign=9a8dc2687fcf0ed6c7f4cb962e8c7b06
+#EXTINF:-1 tvg-id="601310662" group-title="Philadelphia 76ers vs Portland Trail Blazers 05:00 ngày 16/03 NBA", Philadelphia 76ers vs Portland Trail Blazers 05:00 ngày 16/03 NBA (Link 2)
+https://cdn-hls.taoxanh.biz/live/69b727ec70a69_72787/index.m3u8?expire=1774215788&sign=9a8dc2687fcf0ed6c7f4cb962e8c7b06
