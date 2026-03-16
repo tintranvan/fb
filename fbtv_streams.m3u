@@ -3,12 +3,6 @@
 https://cdn-hls.taoxanh.biz/live/69b7e48c70a69_142246/index.m3u8?expire=1774264076&amp;sign=575b85a817295eb7f64d00e9a61dbb52
 #EXTINF:-1 tvg-id="601321834" group-title="Judd  Trump vs Mark Lloyd 18:30 ngày 16/03 World Open 2026", Judd  Trump vs Mark Lloyd 18:30 ngày 16/03 World Open 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69b7e48c70a69_142246/index.m3u8?expire=1774264076&sign=575b85a817295eb7f64d00e9a61dbb52
-#EXTINF:-1 tvg-id="601308223" group-title="Bandirmaspor vs Iğdır FK 17:30 ngày 16/03 Turkish First League", Bandirmaspor vs Iğdır FK 17:30 ngày 16/03 Turkish First League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69b7db9170a69_6308/index.m3u8?expire=1774261777&amp;sign=b440c3be2c3f8e04d7b9715dfc5bff90
-#EXTINF:-1 tvg-id="601308223" group-title="Bandirmaspor vs Iğdır FK 17:30 ngày 16/03 Turkish First League", Bandirmaspor vs Iğdır FK 17:30 ngày 16/03 Turkish First League (Link 2)
-https://live.alilicloud.com/live/36449b2fcf9b649ecce3e3a1c73a5ac1/playlist.m3u8
-#EXTINF:-1 tvg-id="601308223" group-title="Bandirmaspor vs Iğdır FK 17:30 ngày 16/03 Turkish First League", Bandirmaspor vs Iğdır FK 17:30 ngày 16/03 Turkish First League (Link 3)
-https://cdn-hls.taoxanh.biz/live/69b7db9170a69_6308/index.m3u8?expire=1774261777&sign=b440c3be2c3f8e04d7b9715dfc5bff90
 #EXTINF:-1 tvg-id="601308226" group-title="Parma U20 vs Lecce U20 18:00 ngày 16/03 Italian Campionato Primavera 1", Parma U20 vs Lecce U20 18:00 ngày 16/03 Italian Campionato Primavera 1 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69b7dc3870a69_133172/index.m3u8?expire=1774261944&amp;sign=a874508c2aa0e6a8219265e768bfe765
 #EXTINF:-1 tvg-id="601308226" group-title="Parma U20 vs Lecce U20 18:00 ngày 16/03 Italian Campionato Primavera 1", Parma U20 vs Lecce U20 18:00 ngày 16/03 Italian Campionato Primavera 1 (Link 2)
@@ -21,15 +15,19 @@ https://cdn-hls.taoxanh.biz/live/69b7de5b326d9_79/index.m3u8?expire=1774262491&a
 https://live.alilicloud.com/live/7e77651f0c85342b6f7c200b5601ac19/playlist.m3u8
 #EXTINF:-1 tvg-id="601308241" group-title="Ararat-Armenia FC vs FK Van Charentsavan 18:30 ngày 16/03 Armenian Premier League", Ararat-Armenia FC vs FK Van Charentsavan 18:30 ngày 16/03 Armenian Premier League (Link 3)
 https://cdn-hls.taoxanh.biz/live/69b7de5b326d9_79/index.m3u8?expire=1774262491&sign=d170f4720a2643534dfb8e648828ed22
-#EXTINF:-1 tvg-id="601321801" group-title="Arba Minch (W) vs Bahir Dar Kenema FC (W) 17:00 ngày 16/03 ETH WL", Arba Minch (W) vs Bahir Dar Kenema FC (W) 17:00 ngày 16/03 ETH WL
-https://live.alilicloud.com/live/4c6becef055f4de842729174e3058cf8/playlist.m3u8
+#EXTINF:-1 tvg-id="601308247" group-title="Tobol Kostanai vs FC Zhetysu Taldykorgan 19:00 ngày 16/03 Kazakhstan Premier League", Tobol Kostanai vs FC Zhetysu Taldykorgan 19:00 ngày 16/03 Kazakhstan Premier League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69b7e8ac326d9_128756/index.m3u8?expire=1774265132&amp;sign=c61adda803491dc319f5aa4fc623da18
+#EXTINF:-1 tvg-id="601308247" group-title="Tobol Kostanai vs FC Zhetysu Taldykorgan 19:00 ngày 16/03 Kazakhstan Premier League", Tobol Kostanai vs FC Zhetysu Taldykorgan 19:00 ngày 16/03 Kazakhstan Premier League (Link 2)
+https://live.alilicloud.com/live/26cf0c84ea32a9225b519d95eda4c8c1/playlist.m3u8
+#EXTINF:-1 tvg-id="601308247" group-title="Tobol Kostanai vs FC Zhetysu Taldykorgan 19:00 ngày 16/03 Kazakhstan Premier League", Tobol Kostanai vs FC Zhetysu Taldykorgan 19:00 ngày 16/03 Kazakhstan Premier League (Link 3)
+https://cdn-hls.taoxanh.biz/live/69b7e8ac326d9_128756/index.m3u8?expire=1774265132&sign=c61adda803491dc319f5aa4fc623da18
 #EXTINF:-1 tvg-id="601308229" group-title="Sassuolo (w) vs Inter Milan (w) 18:00 ngày 16/03 Italian Women's Serie A", Sassuolo (w) vs Inter Milan (w) 18:00 ngày 16/03 Italian Women's Serie A (Link 1)
 https://cdn-hls.taoxanh.biz/live/69b7e878326d9_4908/index.m3u8?expire=1774265080&amp;sign=a6000e78eac72f77ea93d7d6171d8d5f
 #EXTINF:-1 tvg-id="601308229" group-title="Sassuolo (w) vs Inter Milan (w) 18:00 ngày 16/03 Italian Women's Serie A", Sassuolo (w) vs Inter Milan (w) 18:00 ngày 16/03 Italian Women's Serie A (Link 2)
 https://live.alilicloud.com/live/4f57dd0b45424cd6a984c247fcad6649/playlist.m3u8
 #EXTINF:-1 tvg-id="601308229" group-title="Sassuolo (w) vs Inter Milan (w) 18:00 ngày 16/03 Italian Women's Serie A", Sassuolo (w) vs Inter Milan (w) 18:00 ngày 16/03 Italian Women's Serie A (Link 3)
 https://cdn-hls.taoxanh.biz/live/69b7e878326d9_4908/index.m3u8?expire=1774265080&sign=a6000e78eac72f77ea93d7d6171d8d5f
-#EXTINF:-1 tvg-id="601314811" group-title="KoGas vs Anyang JungKwanJang 17:00 ngày 16/03 KBL", KoGas vs Anyang JungKwanJang 17:00 ngày 16/03 KBL (Link 1)
-https://cdn-hls.taoxanh.biz/live/69b7cf8b70a69_42127/index.m3u8?expire=1774258699&amp;sign=cbe69420d51c775abcb784627bc7aac8
-#EXTINF:-1 tvg-id="601314811" group-title="KoGas vs Anyang JungKwanJang 17:00 ngày 16/03 KBL", KoGas vs Anyang JungKwanJang 17:00 ngày 16/03 KBL (Link 2)
-https://cdn-hls.taoxanh.biz/live/69b7cf8b70a69_42127/index.m3u8?expire=1774258699&sign=cbe69420d51c775abcb784627bc7aac8
+#EXTINF:-1 tvg-id="601308244" group-title="Fc Meshakhte Tkibuli vs Dinamo Batumi 18:00 ngày 16/03 Georgia Erovnuli Liga", Fc Meshakhte Tkibuli vs Dinamo Batumi 18:00 ngày 16/03 Georgia Erovnuli Liga
+https://live.alilicloud.com/live/402432c24eca99c2280f3e978aa320f2/playlist.m3u8
+#EXTINF:-1 tvg-id="601312756" group-title="Dinamo KyivU21 vs Rukh Vynnyky U21 18:00 ngày 16/03 Ukrainian Youth Team Championship", Dinamo KyivU21 vs Rukh Vynnyky U21 18:00 ngày 16/03 Ukrainian Youth Team Championship
+https://live.alilicloud.com/live/d217165e625f96fa59a80b8de85a64ac/playlist.m3u8
