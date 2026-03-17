@@ -1,26 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601309168" group-title="Torreense U23 vs Santa Clara U23 18:00 ngày 17/03 Portuguese U23 League", Torreense U23 vs Santa Clara U23 18:00 ngày 17/03 Portuguese U23 League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69b9271a326d9_28/index.m3u8?expire=1774346650&amp;sign=89c7412024b2668dcefa34f081e5ddd7
-#EXTINF:-1 tvg-id="601309168" group-title="Torreense U23 vs Santa Clara U23 18:00 ngày 17/03 Portuguese U23 League", Torreense U23 vs Santa Clara U23 18:00 ngày 17/03 Portuguese U23 League (Link 2)
-https://live.alilicloud.com/live/b954586c81a89cbc137be6275d5d8255/playlist.m3u8
-#EXTINF:-1 tvg-id="601309168" group-title="Torreense U23 vs Santa Clara U23 18:00 ngày 17/03 Portuguese U23 League", Torreense U23 vs Santa Clara U23 18:00 ngày 17/03 Portuguese U23 League (Link 3)
-https://cdn-hls.taoxanh.biz/live/69b9271a326d9_28/index.m3u8?expire=1774346650&sign=89c7412024b2668dcefa34f081e5ddd7
-#EXTINF:-1 tvg-id="601309174" group-title="FK Kaspyi Aktau vs Okzhetpes 19:00 ngày 17/03 Kazakhstan Premier League", FK Kaspyi Aktau vs Okzhetpes 19:00 ngày 17/03 Kazakhstan Premier League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69b93d0f70a69_79/index.m3u8?expire=1774352271&amp;sign=72a7cf72bbc91ee4b44cb08808311740
-#EXTINF:-1 tvg-id="601309174" group-title="FK Kaspyi Aktau vs Okzhetpes 19:00 ngày 17/03 Kazakhstan Premier League", FK Kaspyi Aktau vs Okzhetpes 19:00 ngày 17/03 Kazakhstan Premier League (Link 2)
-https://live.alilicloud.com/live/d7dda979adb4f5686481e62309d8da8b/playlist.m3u8
-#EXTINF:-1 tvg-id="601309174" group-title="FK Kaspyi Aktau vs Okzhetpes 19:00 ngày 17/03 Kazakhstan Premier League", FK Kaspyi Aktau vs Okzhetpes 19:00 ngày 17/03 Kazakhstan Premier League (Link 3)
-https://cdn-hls.taoxanh.biz/live/69b93d0f70a69_79/index.m3u8?expire=1774352271&sign=72a7cf72bbc91ee4b44cb08808311740
-#EXTINF:-1 tvg-id="601312768" group-title="Kudrivka Nyva U21 vs Polissya Zhytomyr U21 18:00 ngày 17/03 Ukrainian Youth Team Championship", Kudrivka Nyva U21 vs Polissya Zhytomyr U21 18:00 ngày 17/03 Ukrainian Youth Team Championship
-https://live.alilicloud.com/live/8d978ee68f95eda53973c1d70b8a1509/playlist.m3u8
 #EXTINF:-1 tvg-id="601312771" group-title="Atletico de Madrid U19 vs Club Brugge U19 20:00 ngày 17/03 UEFA Youth League", Atletico de Madrid U19 vs Club Brugge U19 20:00 ngày 17/03 UEFA Youth League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69b94211326d9_72787/index.m3u8?expire=1774353553&amp;sign=591a6e8ea5526a157c8dd7cc55308f09
 #EXTINF:-1 tvg-id="601312771" group-title="Atletico de Madrid U19 vs Club Brugge U19 20:00 ngày 17/03 UEFA Youth League", Atletico de Madrid U19 vs Club Brugge U19 20:00 ngày 17/03 UEFA Youth League (Link 2)
+https://live.alilicloud.com/live/8928929d293633618af9c9fb6c607fea/playlist.m3u8
+#EXTINF:-1 tvg-id="601312771" group-title="Atletico de Madrid U19 vs Club Brugge U19 20:00 ngày 17/03 UEFA Youth League", Atletico de Madrid U19 vs Club Brugge U19 20:00 ngày 17/03 UEFA Youth League (Link 3)
 https://cdn-hls.taoxanh.biz/live/69b94211326d9_72787/index.m3u8?expire=1774353553&sign=591a6e8ea5526a157c8dd7cc55308f09
-#EXTINF:-1 tvg-id="601322041" group-title="PAI Yu Po vs Kaoru SUGIYAMA 22:00 ngày 17/03 Sân 1 - Orleans Masters Badminton 2026", PAI Yu Po vs Kaoru SUGIYAMA 22:00 ngày 17/03 Sân 1 - Orleans Masters Badminton 2026 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69b904f0326d9_18754/index.m3u8?expire=1774337904&amp;sign=8ef2a809c32e791d4a2ea83ab69dc784
-#EXTINF:-1 tvg-id="601322041" group-title="PAI Yu Po vs Kaoru SUGIYAMA 22:00 ngày 17/03 Sân 1 - Orleans Masters Badminton 2026", PAI Yu Po vs Kaoru SUGIYAMA 22:00 ngày 17/03 Sân 1 - Orleans Masters Badminton 2026 (Link 2)
-https://cdn-hls.taoxanh.biz/live/69b904f0326d9_18754/index.m3u8?expire=1774337904&sign=8ef2a809c32e791d4a2ea83ab69dc784
+#EXTINF:-1 tvg-id="601321957" group-title="AS Bakaridjan vs Derby Académie 23:45 ngày 17/03 Mali Premiere Division", AS Bakaridjan vs Derby Académie 23:45 ngày 17/03 Mali Premiere Division
+https://live.alilicloud.com/live/dc51df0dea47aad95b61017421ec3ae5/playlist.m3u8
+#EXTINF:-1 tvg-id="601322080" group-title="Onze Createurs vs AS Korofina 23:45 ngày 17/03 Mali Premiere Division", Onze Createurs vs AS Korofina 23:45 ngày 17/03 Mali Premiere Division
+https://live.alilicloud.com/live/04587157d74701e97d941e53d8b0ddee/playlist.m3u8
+#EXTINF:-1 tvg-id="601312777" group-title="Villarreal U19 vs Paris Saint Germain U19 22:00 ngày 17/03 UEFA Youth League", Villarreal U19 vs Paris Saint Germain U19 22:00 ngày 17/03 UEFA Youth League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69b96077326d9_28/index.m3u8?expire=1774361335&amp;sign=5e0819512941486b96f67829ec43f336
+#EXTINF:-1 tvg-id="601312777" group-title="Villarreal U19 vs Paris Saint Germain U19 22:00 ngày 17/03 UEFA Youth League", Villarreal U19 vs Paris Saint Germain U19 22:00 ngày 17/03 UEFA Youth League (Link 2)
+https://cdn-hls.taoxanh.biz/live/69b96077326d9_28/index.m3u8?expire=1774361335&sign=5e0819512941486b96f67829ec43f336
 #EXTINF:-1 tvg-id="601322050" group-title="Leo Rolly CARNANDO / Bagas MAULANA vs CHEN Cheng Kuan / LIN Bing-We 22:10 ngày 17/03 Sân 3 - Orleans Masters Badminton 2026", Leo Rolly CARNANDO / Bagas MAULANA vs CHEN Cheng Kuan / LIN Bing-We 22:10 ngày 17/03 Sân 3 - Orleans Masters Badminton 2026 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69b90d98326d9_142210/index.m3u8?expire=1774340120&amp;sign=27fa3df03b16c040f5a971c3eadb5595
 #EXTINF:-1 tvg-id="601322050" group-title="Leo Rolly CARNANDO / Bagas MAULANA vs CHEN Cheng Kuan / LIN Bing-We 22:10 ngày 17/03 Sân 3 - Orleans Masters Badminton 2026", Leo Rolly CARNANDO / Bagas MAULANA vs CHEN Cheng Kuan / LIN Bing-We 22:10 ngày 17/03 Sân 3 - Orleans Masters Badminton 2026 (Link 2)
@@ -29,19 +21,3 @@ https://cdn-hls.taoxanh.biz/live/69b90d98326d9_142210/index.m3u8?expire=17743401
 https://cdn-hls.taoxanh.biz/live/69b90c2b326d9_85706/index.m3u8?expire=1774339755&amp;sign=29047f910fa93dc017a753e0d7588bda
 #EXTINF:-1 tvg-id="601322053" group-title="HU Ling Fang /  JHENG Yu Chieh vs LUO Yi / WANG 22:10 ngày 17/03 Sân 4 - Orleans Masters Badminton 2026", HU Ling Fang /  JHENG Yu Chieh vs LUO Yi / WANG 22:10 ngày 17/03 Sân 4 - Orleans Masters Badminton 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69b90c2b326d9_85706/index.m3u8?expire=1774339755&sign=29047f910fa93dc017a753e0d7588bda
-#EXTINF:-1 tvg-id="601321861" group-title="Guangdong vs Xinjiang 18:35 ngày 17/03 CBA", Guangdong vs Xinjiang 18:35 ngày 17/03 CBA (Link 1)
-https://cdn-hls.taoxanh.biz/live/69b9378c326d9_42127/index.m3u8?expire=1774350860&amp;sign=cf43cb92b668f25402982b3ce07a688e
-#EXTINF:-1 tvg-id="601321861" group-title="Guangdong vs Xinjiang 18:35 ngày 17/03 CBA", Guangdong vs Xinjiang 18:35 ngày 17/03 CBA (Link 2)
-https://cdn-hls.taoxanh.biz/live/69b9378c326d9_42127/index.m3u8?expire=1774350860&sign=cf43cb92b668f25402982b3ce07a688e
-#EXTINF:-1 tvg-id="601321864" group-title="Shanxi Zhongyu vs Beijing Royal Fighters 18:35 ngày 17/03 CBA", Shanxi Zhongyu vs Beijing Royal Fighters 18:35 ngày 17/03 CBA (Link 1)
-https://cdn-hls.taoxanh.biz/live/69b932d2326d9_4733/index.m3u8?expire=1774349650&amp;sign=f12176b36b6e2cd92dd451a615e0ea51
-#EXTINF:-1 tvg-id="601321864" group-title="Shanxi Zhongyu vs Beijing Royal Fighters 18:35 ngày 17/03 CBA", Shanxi Zhongyu vs Beijing Royal Fighters 18:35 ngày 17/03 CBA (Link 2)
-https://cdn-hls.taoxanh.biz/live/69b932d2326d9_4733/index.m3u8?expire=1774349650&sign=f12176b36b6e2cd92dd451a615e0ea51
-#EXTINF:-1 tvg-id="601309423" group-title="Expressway Co W vs IBK W 17:00 ngày 17/03 Volleyball League Women", Expressway Co W vs IBK W 17:00 ngày 17/03 Volleyball League Women (Link 1)
-https://cdn-hls.taoxanh.biz/live/69b91d00326d9_128756/index.m3u8?expire=1774344064&amp;sign=f332eb83703c3cee3d5629f2eedf71f8
-#EXTINF:-1 tvg-id="601309423" group-title="Expressway Co W vs IBK W 17:00 ngày 17/03 Volleyball League Women", Expressway Co W vs IBK W 17:00 ngày 17/03 Volleyball League Women (Link 2)
-https://cdn-hls.taoxanh.biz/live/69b91d00326d9_128756/index.m3u8?expire=1774344064&sign=f332eb83703c3cee3d5629f2eedf71f8
-#EXTINF:-1 tvg-id="601309441" group-title="Samsung Blue Fangs vs Woori 17:00 ngày 17/03 Volleyball League", Samsung Blue Fangs vs Woori 17:00 ngày 17/03 Volleyball League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69b91f7970a69_88642/index.m3u8?expire=1774344697&amp;sign=47eda13ca447d1e68fe6b1c8d30862a0
-#EXTINF:-1 tvg-id="601309441" group-title="Samsung Blue Fangs vs Woori 17:00 ngày 17/03 Volleyball League", Samsung Blue Fangs vs Woori 17:00 ngày 17/03 Volleyball League (Link 2)
-https://cdn-hls.taoxanh.biz/live/69b91f7970a69_88642/index.m3u8?expire=1774344697&sign=47eda13ca447d1e68fe6b1c8d30862a0
