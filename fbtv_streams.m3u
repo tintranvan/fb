@@ -3,7 +3,11 @@
 https://live.alilicloud.com/live/f1d00744db4d74176cc7564745258e49/playlist.m3u8
 #EXTINF:-1 tvg-id="601310167" group-title="CD Universidad Católica vs Deportivo Cuenca 04:30 ngày 18/03 LigaPro Serie A", CD Universidad Católica vs Deportivo Cuenca 04:30 ngày 18/03 LigaPro Serie A
 https://live.alilicloud.com/live/c026e2a0718a0869431b1a58d6eed7ad/playlist.m3u8
-#EXTINF:-1 tvg-id="601311361" group-title="Academia Anzoategui vs Deportivo La Guaira 04:30 ngày 18/03 Venezuela Primera Division", Academia Anzoategui vs Deportivo La Guaira 04:30 ngày 18/03 Venezuela Primera Division
-https://live.alilicloud.com/live/78c579c632798a137918ac315380fa7c/playlist.m3u8
 #EXTINF:-1 tvg-id="601315051" group-title="Sportivo San Lorenzo vs Club Sportivo 2 de Mayo 04:30 ngày 18/03 Paraguayan Primera Division", Sportivo San Lorenzo vs Club Sportivo 2 de Mayo 04:30 ngày 18/03 Paraguayan Primera Division
 https://live.alilicloud.com/live/1227bf016fec41a6a05de231cc38d9e2/playlist.m3u8
+#EXTINF:-1 tvg-id="601310170" group-title="Club Atlético Lanús vs Club Atlético Newell's Old Boys 05:00 ngày 18/03 Argentine Division 1", Club Atlético Lanús vs Club Atlético Newell's Old Boys 05:00 ngày 18/03 Argentine Division 1
+https://live.alilicloud.com/live/ae808b29dd1a197e8a0b2606e53d4f88/playlist.m3u8
+#EXTINF:-1 tvg-id="601311682" group-title="Washington Wizards vs Detroit Pistons 06:00 ngày 18/03 NBA", Washington Wizards vs Detroit Pistons 06:00 ngày 18/03 NBA (Link 1)
+https://cdn-hls.taoxanh.biz/live/69b9d651326d9_72787/index.m3u8?expire=1774391505&amp;sign=04d33c42f6c265d588fada40393765f0
+#EXTINF:-1 tvg-id="601311682" group-title="Washington Wizards vs Detroit Pistons 06:00 ngày 18/03 NBA", Washington Wizards vs Detroit Pistons 06:00 ngày 18/03 NBA (Link 2)
+https://cdn-hls.taoxanh.biz/live/69b9d651326d9_72787/index.m3u8?expire=1774391505&sign=04d33c42f6c265d588fada40393765f0
