@@ -1,43 +1,57 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601309213" group-title="Braga U23 vs Leixoes U23 22:00 ngày 17/03 Portuguese U23 League", Braga U23 vs Leixoes U23 22:00 ngày 17/03 Portuguese U23 League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69b96b7c70a69_72787/index.m3u8?expire=1774364156&amp;sign=18fb3a356b38f3e66c3f5193237fe712
-#EXTINF:-1 tvg-id="601309213" group-title="Braga U23 vs Leixoes U23 22:00 ngày 17/03 Portuguese U23 League", Braga U23 vs Leixoes U23 22:00 ngày 17/03 Portuguese U23 League (Link 2)
-https://live.alilicloud.com/live/8b4cc7c3d27d4b99694c75bc1f5e993a/playlist.m3u8
-#EXTINF:-1 tvg-id="601309213" group-title="Braga U23 vs Leixoes U23 22:00 ngày 17/03 Portuguese U23 League", Braga U23 vs Leixoes U23 22:00 ngày 17/03 Portuguese U23 League (Link 3)
-https://cdn-hls.taoxanh.biz/live/69b96b7c70a69_72787/index.m3u8?expire=1774364156&sign=18fb3a356b38f3e66c3f5193237fe712
-#EXTINF:-1 tvg-id="601312777" group-title="Villarreal U19 vs Paris Saint Germain U19 22:00 ngày 17/03 UEFA Youth League", Villarreal U19 vs Paris Saint Germain U19 22:00 ngày 17/03 UEFA Youth League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69b96077326d9_28/index.m3u8?expire=1774361335&amp;sign=5e0819512941486b96f67829ec43f336
-#EXTINF:-1 tvg-id="601312777" group-title="Villarreal U19 vs Paris Saint Germain U19 22:00 ngày 17/03 UEFA Youth League", Villarreal U19 vs Paris Saint Germain U19 22:00 ngày 17/03 UEFA Youth League (Link 2)
-https://live.alilicloud.com/live/159e35c83db71ffbd05501a0143a7225/playlist.m3u8
-#EXTINF:-1 tvg-id="601312777" group-title="Villarreal U19 vs Paris Saint Germain U19 22:00 ngày 17/03 UEFA Youth League", Villarreal U19 vs Paris Saint Germain U19 22:00 ngày 17/03 UEFA Youth League (Link 3)
-https://cdn-hls.taoxanh.biz/live/69b96077326d9_28/index.m3u8?expire=1774361335&sign=5e0819512941486b96f67829ec43f336
-#EXTINF:-1 tvg-id="601309855" group-title="DC Power (W) vs Carolina Ascent (W) 22:30 ngày 17/03 USL Super League Women", DC Power (W) vs Carolina Ascent (W) 22:30 ngày 17/03 USL Super League Women
-https://live.alilicloud.com/live/47470018e52bcd0d6956c83079069008/playlist.m3u8
+#EXTINF:-1 tvg-id="601309879" group-title="Sporting CP vs Bodo Glimt 00:45 ngày 18/03 UEFA Champions League", Sporting CP vs Bodo Glimt 00:45 ngày 18/03 UEFA Champions League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69b9885470a69_4908/index.m3u8?expire=1774371540&amp;sign=f4ef7da8a440bb38438c55cbbc7dba7d
+#EXTINF:-1 tvg-id="601309879" group-title="Sporting CP vs Bodo Glimt 00:45 ngày 18/03 UEFA Champions League", Sporting CP vs Bodo Glimt 00:45 ngày 18/03 UEFA Champions League (Link 2)
+https://cdn-hls.taoxanh.biz/live/69b98a4970a69_133172/index.m3u8?expire=1774372041&amp;sign=20c04aa12c6d4bc5c912f361004bc4ee
+#EXTINF:-1 tvg-id="601309879" group-title="Sporting CP vs Bodo Glimt 00:45 ngày 18/03 UEFA Champions League", Sporting CP vs Bodo Glimt 00:45 ngày 18/03 UEFA Champions League (Link 3)
+https://cdn-hls.taoxanh.biz/live/69b9885470a69_4908/index.m3u8?expire=1774371540&sign=f4ef7da8a440bb38438c55cbbc7dba7d
+#EXTINF:-1 tvg-id="601310146" group-title="Manchester City vs Real Madrid 03:00 ngày 18/03 UEFA Champions League", Manchester City vs Real Madrid 03:00 ngày 18/03 UEFA Champions League
+https://live.alilicloud.com/live/5d43a7a8caf36058c6c288b35fee1e27/playlist.m3u8
+#EXTINF:-1 tvg-id="601310143" group-title="Chelsea vs Paris Saint Germain 03:00 ngày 18/03 UEFA Champions League", Chelsea vs Paris Saint Germain 03:00 ngày 18/03 UEFA Champions League
+https://live.alilicloud.com/live/290c321191f07fd3afe58c157b8ae95d/playlist.m3u8
+#EXTINF:-1 tvg-id="601310149" group-title="Arsenal vs Bayer 04 Leverkusen 03:00 ngày 18/03 UEFA Champions League", Arsenal vs Bayer 04 Leverkusen 03:00 ngày 18/03 UEFA Champions League
+https://live.alilicloud.com/live/82b23933536f182c4b60d64d75fdd7cc/playlist.m3u8
 #EXTINF:-1 tvg-id="601309216" group-title="Lokomotiv Sofia vs Septemvri Sofia 23:00 ngày 17/03 Bulgarian First League", Lokomotiv Sofia vs Septemvri Sofia 23:00 ngày 17/03 Bulgarian First League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69b9736670a69_79/index.m3u8?expire=1774366182&amp;sign=e8f0295f0d62a0904a870ab7d2e8ad07
 #EXTINF:-1 tvg-id="601309216" group-title="Lokomotiv Sofia vs Septemvri Sofia 23:00 ngày 17/03 Bulgarian First League", Lokomotiv Sofia vs Septemvri Sofia 23:00 ngày 17/03 Bulgarian First League (Link 2)
 https://live.alilicloud.com/live/c8c86f06312f2eae707b8989e29ba794/playlist.m3u8
 #EXTINF:-1 tvg-id="601309216" group-title="Lokomotiv Sofia vs Septemvri Sofia 23:00 ngày 17/03 Bulgarian First League", Lokomotiv Sofia vs Septemvri Sofia 23:00 ngày 17/03 Bulgarian First League (Link 3)
 https://cdn-hls.taoxanh.biz/live/69b9736670a69_79/index.m3u8?expire=1774366182&sign=e8f0295f0d62a0904a870ab7d2e8ad07
+#EXTINF:-1 tvg-id="601314973" group-title="Mexico (w) U17 vs Jamaica Women U17 23:00 ngày 17/03 CONCACAF U17 Women's Championship", Mexico (w) U17 vs Jamaica Women U17 23:00 ngày 17/03 CONCACAF U17 Women's Championship
+https://live.alilicloud.com/live/0194ab1734428fc4ca0fd0ea03bc5a03/playlist.m3u8
+#EXTINF:-1 tvg-id="601322137" group-title="US Bougouni vs Real Bamako 23:00 ngày 17/03 Mali Premiere Division", US Bougouni vs Real Bamako 23:00 ngày 17/03 Mali Premiere Division
+https://live.alilicloud.com/live/71e53dad0d71cb4d82b39183d2c3f704/playlist.m3u8
 #EXTINF:-1 tvg-id="601309858" group-title="FK Krasnodar vs CSKA Moscow 23:30 ngày 17/03 Russian Cup", FK Krasnodar vs CSKA Moscow 23:30 ngày 17/03 Russian Cup (Link 1)
 https://cdn-hls.taoxanh.biz/live/69b977bb326d9_88642/index.m3u8?expire=1774367291&amp;sign=95301264fd5cc1664c758afa52ee78db
 #EXTINF:-1 tvg-id="601309858" group-title="FK Krasnodar vs CSKA Moscow 23:30 ngày 17/03 Russian Cup", FK Krasnodar vs CSKA Moscow 23:30 ngày 17/03 Russian Cup (Link 2)
 https://live.alilicloud.com/live/49e89ca63667584fbdb8980937823e2c/playlist.m3u8
 #EXTINF:-1 tvg-id="601309858" group-title="FK Krasnodar vs CSKA Moscow 23:30 ngày 17/03 Russian Cup", FK Krasnodar vs CSKA Moscow 23:30 ngày 17/03 Russian Cup (Link 3)
 https://cdn-hls.taoxanh.biz/live/69b977bb326d9_88642/index.m3u8?expire=1774367291&sign=95301264fd5cc1664c758afa52ee78db
+#EXTINF:-1 tvg-id="601309861" group-title="Fenerbahce vs Gazisehir Gaziantep 00:00 ngày 18/03 Turkish Super League", Fenerbahce vs Gazisehir Gaziantep 00:00 ngày 18/03 Turkish Super League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69b9847170a69_73445/index.m3u8?expire=1774370545&amp;sign=014d25e5b98d2933def8dd7927644253
+#EXTINF:-1 tvg-id="601309861" group-title="Fenerbahce vs Gazisehir Gaziantep 00:00 ngày 18/03 Turkish Super League", Fenerbahce vs Gazisehir Gaziantep 00:00 ngày 18/03 Turkish Super League (Link 2)
+https://live.alilicloud.com/live/453fbdcef2b8433813b53a7a7ff02550/playlist.m3u8
+#EXTINF:-1 tvg-id="601309861" group-title="Fenerbahce vs Gazisehir Gaziantep 00:00 ngày 18/03 Turkish Super League", Fenerbahce vs Gazisehir Gaziantep 00:00 ngày 18/03 Turkish Super League (Link 3)
+https://cdn-hls.taoxanh.biz/live/69b9847170a69_73445/index.m3u8?expire=1774370545&sign=014d25e5b98d2933def8dd7927644253
+#EXTINF:-1 tvg-id="601309873" group-title="Ittihad Kalba FC vs Al-Sharjah 00:30 ngày 18/03 United Arab Emirates Adnoc Pro-League", Ittihad Kalba FC vs Al-Sharjah 00:30 ngày 18/03 United Arab Emirates Adnoc Pro-League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69b98b03326d9_103/index.m3u8?expire=1774372227&amp;sign=57931e2a020f3f2df80ea2713a6e69d5
+#EXTINF:-1 tvg-id="601309873" group-title="Ittihad Kalba FC vs Al-Sharjah 00:30 ngày 18/03 United Arab Emirates Adnoc Pro-League", Ittihad Kalba FC vs Al-Sharjah 00:30 ngày 18/03 United Arab Emirates Adnoc Pro-League (Link 2)
+https://live.alilicloud.com/live/eaceba2c0dcfe77fa48f8c8023073a95/playlist.m3u8
+#EXTINF:-1 tvg-id="601309873" group-title="Ittihad Kalba FC vs Al-Sharjah 00:30 ngày 18/03 United Arab Emirates Adnoc Pro-League", Ittihad Kalba FC vs Al-Sharjah 00:30 ngày 18/03 United Arab Emirates Adnoc Pro-League (Link 3)
+https://cdn-hls.taoxanh.biz/live/69b98b03326d9_103/index.m3u8?expire=1774372227&sign=57931e2a020f3f2df80ea2713a6e69d5
 #EXTINF:-1 tvg-id="601322041" group-title="Julien MAIO/William VILLEGER vs Peeratchai SUKPHUN / Pakkapon TEERARATSAKUL 22:50 ngày 17/03 Sân 1 - Orleans Masters Badminton 2026", Julien MAIO/William VILLEGER vs Peeratchai SUKPHUN / Pakkapon TEERARATSAKUL 22:50 ngày 17/03 Sân 1 - Orleans Masters Badminton 2026 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69b9664770a69_85714/index.m3u8?expire=1774362823&amp;sign=7606cc247011043e763ad56475ad1a0e
 #EXTINF:-1 tvg-id="601322041" group-title="Julien MAIO/William VILLEGER vs Peeratchai SUKPHUN / Pakkapon TEERARATSAKUL 22:50 ngày 17/03 Sân 1 - Orleans Masters Badminton 2026", Julien MAIO/William VILLEGER vs Peeratchai SUKPHUN / Pakkapon TEERARATSAKUL 22:50 ngày 17/03 Sân 1 - Orleans Masters Badminton 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69b9664770a69_85714/index.m3u8?expire=1774362823&sign=7606cc247011043e763ad56475ad1a0e
-#EXTINF:-1 tvg-id="601322050" group-title="Sumire NAKADE /  Miyu TAKAHASHI vs Kirsten DE WIT / Meerte LOOS 22:50 ngày 17/03 Sân 3 - Orleans Masters Badminton 2026", Sumire NAKADE /  Miyu TAKAHASHI vs Kirsten DE WIT / Meerte LOOS 22:50 ngày 17/03 Sân 3 - Orleans Masters Badminton 2026 (Link 1)
+#EXTINF:-1 tvg-id="601322050" group-title="GEISS /  JANSEN vs M ARDIANTO/R HIDAYAT 23:35 ngày 17/03 Sân 3 - Orleans Masters Badminton 2026", GEISS /  JANSEN vs M ARDIANTO/R HIDAYAT 23:35 ngày 17/03 Sân 3 - Orleans Masters Badminton 2026 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69b90d98326d9_142210/index.m3u8?expire=1774340120&amp;sign=27fa3df03b16c040f5a971c3eadb5595
-#EXTINF:-1 tvg-id="601322050" group-title="Sumire NAKADE /  Miyu TAKAHASHI vs Kirsten DE WIT / Meerte LOOS 22:50 ngày 17/03 Sân 3 - Orleans Masters Badminton 2026", Sumire NAKADE /  Miyu TAKAHASHI vs Kirsten DE WIT / Meerte LOOS 22:50 ngày 17/03 Sân 3 - Orleans Masters Badminton 2026 (Link 2)
+#EXTINF:-1 tvg-id="601322050" group-title="GEISS /  JANSEN vs M ARDIANTO/R HIDAYAT 23:35 ngày 17/03 Sân 3 - Orleans Masters Badminton 2026", GEISS /  JANSEN vs M ARDIANTO/R HIDAYAT 23:35 ngày 17/03 Sân 3 - Orleans Masters Badminton 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69b90d98326d9_142210/index.m3u8?expire=1774340120&sign=27fa3df03b16c040f5a971c3eadb5595
-#EXTINF:-1 tvg-id="601322044" group-title="Kakeru KUMAGAI / Hiroki NISHI vs GREEN /  RUSS 22:56 ngày 17/03 Sân 2 - Orleans Masters Badminton 2026", Kakeru KUMAGAI / Hiroki NISHI vs GREEN /  RUSS 22:56 ngày 17/03 Sân 2 - Orleans Masters Badminton 2026 (Link 1)
+#EXTINF:-1 tvg-id="601322044" group-title="Donovan Willard WEE/Jia Hao Howin WONG vs INDRA / JOAQUIN 23:45 ngày 17/03 Sân 2 - Orleans Masters Badminton 2026", Donovan Willard WEE/Jia Hao Howin WONG vs INDRA / JOAQUIN 23:45 ngày 17/03 Sân 2 - Orleans Masters Badminton 2026 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69b966a770a69_138846/index.m3u8?expire=1774362919&amp;sign=7a0c949e56c9093830ead19bdabf0f47
-#EXTINF:-1 tvg-id="601322044" group-title="Kakeru KUMAGAI / Hiroki NISHI vs GREEN /  RUSS 22:56 ngày 17/03 Sân 2 - Orleans Masters Badminton 2026", Kakeru KUMAGAI / Hiroki NISHI vs GREEN /  RUSS 22:56 ngày 17/03 Sân 2 - Orleans Masters Badminton 2026 (Link 2)
+#EXTINF:-1 tvg-id="601322044" group-title="Donovan Willard WEE/Jia Hao Howin WONG vs INDRA / JOAQUIN 23:45 ngày 17/03 Sân 2 - Orleans Masters Badminton 2026", Donovan Willard WEE/Jia Hao Howin WONG vs INDRA / JOAQUIN 23:45 ngày 17/03 Sân 2 - Orleans Masters Badminton 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69b966a770a69_138846/index.m3u8?expire=1774362919&sign=7a0c949e56c9093830ead19bdabf0f47
-#EXTINF:-1 tvg-id="601322053" group-title="H AMSAKARUNAN / M ARJUN vs Jiri Kral/Ondrej KraL 23:03 ngày 17/03 Sân 4 - Orleans Masters Badminton 2026", H AMSAKARUNAN / M ARJUN vs Jiri Kral/Ondrej KraL 23:03 ngày 17/03 Sân 4 - Orleans Masters Badminton 2026 (Link 1)
+#EXTINF:-1 tvg-id="601322053" group-title="Hathaithip MIJAD /  N.TUNGKASATAN vs SUZUKI /  YAMAKITA 00:30 ngày 18/03 Sân 4 - Orleans Masters Badminton 2026", Hathaithip MIJAD /  N.TUNGKASATAN vs SUZUKI /  YAMAKITA 00:30 ngày 18/03 Sân 4 - Orleans Masters Badminton 2026 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69b90c2b326d9_85706/index.m3u8?expire=1774339755&amp;sign=29047f910fa93dc017a753e0d7588bda
-#EXTINF:-1 tvg-id="601322053" group-title="H AMSAKARUNAN / M ARJUN vs Jiri Kral/Ondrej KraL 23:03 ngày 17/03 Sân 4 - Orleans Masters Badminton 2026", H AMSAKARUNAN / M ARJUN vs Jiri Kral/Ondrej KraL 23:03 ngày 17/03 Sân 4 - Orleans Masters Badminton 2026 (Link 2)
+#EXTINF:-1 tvg-id="601322053" group-title="Hathaithip MIJAD /  N.TUNGKASATAN vs SUZUKI /  YAMAKITA 00:30 ngày 18/03 Sân 4 - Orleans Masters Badminton 2026", Hathaithip MIJAD /  N.TUNGKASATAN vs SUZUKI /  YAMAKITA 00:30 ngày 18/03 Sân 4 - Orleans Masters Badminton 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69b90c2b326d9_85706/index.m3u8?expire=1774339755&sign=29047f910fa93dc017a753e0d7588bda
