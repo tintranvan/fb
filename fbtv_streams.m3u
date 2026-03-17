@@ -1,18 +1,30 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601312771" group-title="Atletico de Madrid U19 vs Club Brugge U19 20:00 ngày 17/03 UEFA Youth League", Atletico de Madrid U19 vs Club Brugge U19 20:00 ngày 17/03 UEFA Youth League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69b94211326d9_72787/index.m3u8?expire=1774353553&amp;sign=591a6e8ea5526a157c8dd7cc55308f09
-#EXTINF:-1 tvg-id="601312771" group-title="Atletico de Madrid U19 vs Club Brugge U19 20:00 ngày 17/03 UEFA Youth League", Atletico de Madrid U19 vs Club Brugge U19 20:00 ngày 17/03 UEFA Youth League (Link 2)
-https://live.alilicloud.com/live/8928929d293633618af9c9fb6c607fea/playlist.m3u8
-#EXTINF:-1 tvg-id="601312771" group-title="Atletico de Madrid U19 vs Club Brugge U19 20:00 ngày 17/03 UEFA Youth League", Atletico de Madrid U19 vs Club Brugge U19 20:00 ngày 17/03 UEFA Youth League (Link 3)
-https://cdn-hls.taoxanh.biz/live/69b94211326d9_72787/index.m3u8?expire=1774353553&sign=591a6e8ea5526a157c8dd7cc55308f09
-#EXTINF:-1 tvg-id="601321957" group-title="AS Bakaridjan vs Derby Académie 23:45 ngày 17/03 Mali Premiere Division", AS Bakaridjan vs Derby Académie 23:45 ngày 17/03 Mali Premiere Division
-https://live.alilicloud.com/live/dc51df0dea47aad95b61017421ec3ae5/playlist.m3u8
-#EXTINF:-1 tvg-id="601322080" group-title="Onze Createurs vs AS Korofina 23:45 ngày 17/03 Mali Premiere Division", Onze Createurs vs AS Korofina 23:45 ngày 17/03 Mali Premiere Division
-https://live.alilicloud.com/live/04587157d74701e97d941e53d8b0ddee/playlist.m3u8
+#EXTINF:-1 tvg-id="601309213" group-title="Braga U23 vs Leixoes U23 22:00 ngày 17/03 Portuguese U23 League", Braga U23 vs Leixoes U23 22:00 ngày 17/03 Portuguese U23 League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69b96b7c70a69_72787/index.m3u8?expire=1774364156&amp;sign=18fb3a356b38f3e66c3f5193237fe712
+#EXTINF:-1 tvg-id="601309213" group-title="Braga U23 vs Leixoes U23 22:00 ngày 17/03 Portuguese U23 League", Braga U23 vs Leixoes U23 22:00 ngày 17/03 Portuguese U23 League (Link 2)
+https://live.alilicloud.com/live/8b4cc7c3d27d4b99694c75bc1f5e993a/playlist.m3u8
+#EXTINF:-1 tvg-id="601309213" group-title="Braga U23 vs Leixoes U23 22:00 ngày 17/03 Portuguese U23 League", Braga U23 vs Leixoes U23 22:00 ngày 17/03 Portuguese U23 League (Link 3)
+https://cdn-hls.taoxanh.biz/live/69b96b7c70a69_72787/index.m3u8?expire=1774364156&sign=18fb3a356b38f3e66c3f5193237fe712
 #EXTINF:-1 tvg-id="601312777" group-title="Villarreal U19 vs Paris Saint Germain U19 22:00 ngày 17/03 UEFA Youth League", Villarreal U19 vs Paris Saint Germain U19 22:00 ngày 17/03 UEFA Youth League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69b96077326d9_28/index.m3u8?expire=1774361335&amp;sign=5e0819512941486b96f67829ec43f336
 #EXTINF:-1 tvg-id="601312777" group-title="Villarreal U19 vs Paris Saint Germain U19 22:00 ngày 17/03 UEFA Youth League", Villarreal U19 vs Paris Saint Germain U19 22:00 ngày 17/03 UEFA Youth League (Link 2)
+https://live.alilicloud.com/live/159e35c83db71ffbd05501a0143a7225/playlist.m3u8
+#EXTINF:-1 tvg-id="601312777" group-title="Villarreal U19 vs Paris Saint Germain U19 22:00 ngày 17/03 UEFA Youth League", Villarreal U19 vs Paris Saint Germain U19 22:00 ngày 17/03 UEFA Youth League (Link 3)
 https://cdn-hls.taoxanh.biz/live/69b96077326d9_28/index.m3u8?expire=1774361335&sign=5e0819512941486b96f67829ec43f336
+#EXTINF:-1 tvg-id="601309855" group-title="DC Power (W) vs Carolina Ascent (W) 22:30 ngày 17/03 USL Super League Women", DC Power (W) vs Carolina Ascent (W) 22:30 ngày 17/03 USL Super League Women
+https://live.alilicloud.com/live/47470018e52bcd0d6956c83079069008/playlist.m3u8
+#EXTINF:-1 tvg-id="601309216" group-title="Lokomotiv Sofia vs Septemvri Sofia 23:00 ngày 17/03 Bulgarian First League", Lokomotiv Sofia vs Septemvri Sofia 23:00 ngày 17/03 Bulgarian First League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69b9736670a69_79/index.m3u8?expire=1774366182&amp;sign=e8f0295f0d62a0904a870ab7d2e8ad07
+#EXTINF:-1 tvg-id="601309216" group-title="Lokomotiv Sofia vs Septemvri Sofia 23:00 ngày 17/03 Bulgarian First League", Lokomotiv Sofia vs Septemvri Sofia 23:00 ngày 17/03 Bulgarian First League (Link 2)
+https://cdn-hls.taoxanh.biz/live/69b9736670a69_79/index.m3u8?expire=1774366182&sign=e8f0295f0d62a0904a870ab7d2e8ad07
+#EXTINF:-1 tvg-id="601322041" group-title="PAI Yu Po vs Kaoru SUGIYAMA 22:00 ngày 17/03 Sân 1 - Orleans Masters Badminton 2026", PAI Yu Po vs Kaoru SUGIYAMA 22:00 ngày 17/03 Sân 1 - Orleans Masters Badminton 2026 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69b9664770a69_85714/index.m3u8?expire=1774362823&amp;sign=7606cc247011043e763ad56475ad1a0e
+#EXTINF:-1 tvg-id="601322041" group-title="PAI Yu Po vs Kaoru SUGIYAMA 22:00 ngày 17/03 Sân 1 - Orleans Masters Badminton 2026", PAI Yu Po vs Kaoru SUGIYAMA 22:00 ngày 17/03 Sân 1 - Orleans Masters Badminton 2026 (Link 2)
+https://cdn-hls.taoxanh.biz/live/69b9664770a69_85714/index.m3u8?expire=1774362823&sign=7606cc247011043e763ad56475ad1a0e
+#EXTINF:-1 tvg-id="601322044" group-title="Kate FROST /  Paige WOODS vs Lin C. / Yang C. Y. 22:30 ngày 17/03 Sân 2 - Orleans Masters Badminton 2026", Kate FROST /  Paige WOODS vs Lin C. / Yang C. Y. 22:30 ngày 17/03 Sân 2 - Orleans Masters Badminton 2026 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69b966a770a69_138846/index.m3u8?expire=1774362919&amp;sign=7a0c949e56c9093830ead19bdabf0f47
+#EXTINF:-1 tvg-id="601322044" group-title="Kate FROST /  Paige WOODS vs Lin C. / Yang C. Y. 22:30 ngày 17/03 Sân 2 - Orleans Masters Badminton 2026", Kate FROST /  Paige WOODS vs Lin C. / Yang C. Y. 22:30 ngày 17/03 Sân 2 - Orleans Masters Badminton 2026 (Link 2)
+https://cdn-hls.taoxanh.biz/live/69b966a770a69_138846/index.m3u8?expire=1774362919&sign=7a0c949e56c9093830ead19bdabf0f47
 #EXTINF:-1 tvg-id="601322050" group-title="Leo Rolly CARNANDO / Bagas MAULANA vs CHEN Cheng Kuan / LIN Bing-We 22:10 ngày 17/03 Sân 3 - Orleans Masters Badminton 2026", Leo Rolly CARNANDO / Bagas MAULANA vs CHEN Cheng Kuan / LIN Bing-We 22:10 ngày 17/03 Sân 3 - Orleans Masters Badminton 2026 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69b90d98326d9_142210/index.m3u8?expire=1774340120&amp;sign=27fa3df03b16c040f5a971c3eadb5595
 #EXTINF:-1 tvg-id="601322050" group-title="Leo Rolly CARNANDO / Bagas MAULANA vs CHEN Cheng Kuan / LIN Bing-We 22:10 ngày 17/03 Sân 3 - Orleans Masters Badminton 2026", Leo Rolly CARNANDO / Bagas MAULANA vs CHEN Cheng Kuan / LIN Bing-We 22:10 ngày 17/03 Sân 3 - Orleans Masters Badminton 2026 (Link 2)
