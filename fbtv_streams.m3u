@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601309879" group-title="Sporting CP vs Bodo Glimt 00:45 ngày 18/03 UEFA Champions League", Sporting CP vs Bodo Glimt 00:45 ngày 18/03 UEFA Champions League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69b98a4970a69_133172/index.m3u8?expire=1774372041&amp;sign=20c04aa12c6d4bc5c912f361004bc4ee
-#EXTINF:-1 tvg-id="601309879" group-title="Sporting CP vs Bodo Glimt 00:45 ngày 18/03 UEFA Champions League", Sporting CP vs Bodo Glimt 00:45 ngày 18/03 UEFA Champions League (Link 2)
-https://live.alilicloud.com/live/d822c046b0931cb4321a12f6e6346d76/playlist.m3u8
-#EXTINF:-1 tvg-id="601309879" group-title="Sporting CP vs Bodo Glimt 00:45 ngày 18/03 UEFA Champions League", Sporting CP vs Bodo Glimt 00:45 ngày 18/03 UEFA Champions League (Link 3)
-https://cdn-hls.taoxanh.biz/live/69b98a4970a69_133172/index.m3u8?expire=1774372041&sign=20c04aa12c6d4bc5c912f361004bc4ee
 #EXTINF:-1 tvg-id="601310146" group-title="Manchester City vs Real Madrid 03:00 ngày 18/03 UEFA Champions League", Manchester City vs Real Madrid 03:00 ngày 18/03 UEFA Champions League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69b9add170a69_4908/index.m3u8?expire=1774381137&amp;sign=e2c81c809d351c885219d02d77eac327
 #EXTINF:-1 tvg-id="601310146" group-title="Manchester City vs Real Madrid 03:00 ngày 18/03 UEFA Champions League", Manchester City vs Real Madrid 03:00 ngày 18/03 UEFA Champions League (Link 2)
@@ -31,19 +25,17 @@ https://cdn-hls.taoxanh.biz/live/69b9aa3470a69_128756/index.m3u8?expire=17743802
 https://live.alilicloud.com/live/82b23933536f182c4b60d64d75fdd7cc/playlist.m3u8
 #EXTINF:-1 tvg-id="601310149" group-title="Arsenal vs Bayer 04 Leverkusen 03:00 ngày 18/03 UEFA Champions League", Arsenal vs Bayer 04 Leverkusen 03:00 ngày 18/03 UEFA Champions League (Link 4)
 https://cdn-hls.taoxanh.biz/live/69b9aabe70a69_79/index.m3u8?expire=1774380350&sign=468564b31aa0fef5f9ff60e7e514c6f6
-#EXTINF:-1 tvg-id="601312792" group-title="Al-Arabi SC vs Al-Sadd 01:30 ngày 18/03 Qatar Stars League", Al-Arabi SC vs Al-Sadd 01:30 ngày 18/03 Qatar Stars League
-https://live.alilicloud.com/live/1b9f28406bd14a1855d3f1c9951b858c/playlist.m3u8
-#EXTINF:-1 tvg-id="601312795" group-title="Al Rayyan vs Al-Wakra 01:30 ngày 18/03 Qatar Stars League", Al Rayyan vs Al-Wakra 01:30 ngày 18/03 Qatar Stars League
-https://live.alilicloud.com/live/9dee5c47de1ba38000d721e88ae43afc/playlist.m3u8
 #EXTINF:-1 tvg-id="601310020" group-title="Watford vs Wrexham 02:45 ngày 18/03 English Football League Championship", Watford vs Wrexham 02:45 ngày 18/03 English Football League Championship (Link 1)
 https://cdn-hls.taoxanh.biz/live/69b9a4d6326d9_18754/index.m3u8?expire=1774378838&amp;sign=660c964cbe4d6ba4841ae840ba805971
 #EXTINF:-1 tvg-id="601310020" group-title="Watford vs Wrexham 02:45 ngày 18/03 English Football League Championship", Watford vs Wrexham 02:45 ngày 18/03 English Football League Championship (Link 2)
 https://live.alilicloud.com/live/dadb40a3ba965afb174cb95fb29ea697/playlist.m3u8
 #EXTINF:-1 tvg-id="601310020" group-title="Watford vs Wrexham 02:45 ngày 18/03 English Football League Championship", Watford vs Wrexham 02:45 ngày 18/03 English Football League Championship (Link 3)
 https://cdn-hls.taoxanh.biz/live/69b9a4d6326d9_18754/index.m3u8?expire=1774378838&sign=660c964cbe4d6ba4841ae840ba805971
-#EXTINF:-1 tvg-id="601312798" group-title="Al Shamal vs Al Duhail 01:30 ngày 18/03 Qatar Stars League", Al Shamal vs Al Duhail 01:30 ngày 18/03 Qatar Stars League
-https://live.alilicloud.com/live/45a4692346bdbb647269a8abc780f568/playlist.m3u8
-#EXTINF:-1 tvg-id="601322050" group-title="Christian Faust KJÆR /  Rasmus KJÆR vs CHANG Ko-Chi/PO Li-Wei 01:29 ngày 18/03 Sân 3 - Orleans Masters Badminton 2026", Christian Faust KJÆR /  Rasmus KJÆR vs CHANG Ko-Chi/PO Li-Wei 01:29 ngày 18/03 Sân 3 - Orleans Masters Badminton 2026 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69b90d98326d9_142210/index.m3u8?expire=1774340120&amp;sign=27fa3df03b16c040f5a971c3eadb5595
-#EXTINF:-1 tvg-id="601322050" group-title="Christian Faust KJÆR /  Rasmus KJÆR vs CHANG Ko-Chi/PO Li-Wei 01:29 ngày 18/03 Sân 3 - Orleans Masters Badminton 2026", Christian Faust KJÆR /  Rasmus KJÆR vs CHANG Ko-Chi/PO Li-Wei 01:29 ngày 18/03 Sân 3 - Orleans Masters Badminton 2026 (Link 2)
-https://cdn-hls.taoxanh.biz/live/69b90d98326d9_142210/index.m3u8?expire=1774340120&sign=27fa3df03b16c040f5a971c3eadb5595
+#EXTINF:-1 tvg-id="601309978" group-title="Newport County vs Bromley 02:30 ngày 18/03 English Football League Two", Newport County vs Bromley 02:30 ngày 18/03 English Football League Two
+https://live.alilicloud.com/live/3766e423cf840d05bcce56a7af824ab5/playlist.m3u8
+#EXTINF:-1 tvg-id="601309993" group-title="Bolton Wanderers vs Doncaster Rovers 02:45 ngày 18/03 English Football League One", Bolton Wanderers vs Doncaster Rovers 02:45 ngày 18/03 English Football League One
+https://live.alilicloud.com/live/8676002caaea1e446c0caab9550809d2/playlist.m3u8
+#EXTINF:-1 tvg-id="601309996" group-title="Bradford City vs Mansfield Town 02:45 ngày 18/03 English Football League One", Bradford City vs Mansfield Town 02:45 ngày 18/03 English Football League One
+https://live.alilicloud.com/live/920abba61eaf937f6d63ac2bd3045a47/playlist.m3u8
+#EXTINF:-1 tvg-id="601310011" group-title="Plymouth Argyle vs Stevenage Borough 02:45 ngày 18/03 English Football League One", Plymouth Argyle vs Stevenage Borough 02:45 ngày 18/03 English Football League One
+https://live.alilicloud.com/live/860e1266bf7adcfa107a790fa58d3852/playlist.m3u8
