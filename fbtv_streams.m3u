@@ -1,43 +1,37 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601311181" group-title="FC Barcelona vs Newcastle United 00:45 ngày 19/03 UEFA Champions League", FC Barcelona vs Newcastle United 00:45 ngày 19/03 UEFA Champions League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69badb7170a69_79/index.m3u8?expire=1774458353&amp;sign=ba608e843c73dc176a7607de77ee62ef
-#EXTINF:-1 tvg-id="601311181" group-title="FC Barcelona vs Newcastle United 00:45 ngày 19/03 UEFA Champions League", FC Barcelona vs Newcastle United 00:45 ngày 19/03 UEFA Champions League (Link 2)
-https://cdn-hls.taoxanh.biz/live/69badf4a326d9_4908/index.m3u8?expire=1774459338&amp;sign=a38ba99525f857868e65051224d66851
-#EXTINF:-1 tvg-id="601311181" group-title="FC Barcelona vs Newcastle United 00:45 ngày 19/03 UEFA Champions League", FC Barcelona vs Newcastle United 00:45 ngày 19/03 UEFA Champions League (Link 3)
-https://cdn-hls.taoxanh.biz/live/69bade6770a69_85514/index.m3u8?expire=1774459111&amp;sign=825234920414b2760402ba029e66bc79
-#EXTINF:-1 tvg-id="601311181" group-title="FC Barcelona vs Newcastle United 00:45 ngày 19/03 UEFA Champions League", FC Barcelona vs Newcastle United 00:45 ngày 19/03 UEFA Champions League (Link 4)
-https://live.alilicloud.com/live/f7b0d74579d4db6dfd775798acab58e9/playlist.m3u8
-#EXTINF:-1 tvg-id="601311181" group-title="FC Barcelona vs Newcastle United 00:45 ngày 19/03 UEFA Champions League", FC Barcelona vs Newcastle United 00:45 ngày 19/03 UEFA Champions League (Link 5)
-https://cdn-hls.taoxanh.biz/live/69badb7170a69_79/index.m3u8?expire=1774458353&sign=ba608e843c73dc176a7607de77ee62ef
-#EXTINF:-1 tvg-id="601311328" group-title="FC Bayern Munich vs Atalanta 03:00 ngày 19/03 UEFA Champions League", FC Bayern Munich vs Atalanta 03:00 ngày 19/03 UEFA Champions League
-https://live.alilicloud.com/live/84682226b3a44f2a89fe3d41c72286ff/playlist.m3u8
-#EXTINF:-1 tvg-id="601311325" group-title="Liverpool vs Galatasaray 03:00 ngày 19/03 UEFA Champions League", Liverpool vs Galatasaray 03:00 ngày 19/03 UEFA Champions League
-https://live.alilicloud.com/live/84a3dd00633e54d12620502a8660a8df/playlist.m3u8
-#EXTINF:-1 tvg-id="601311331" group-title="Tottenham Hotspur vs Atletico Madrid 03:00 ngày 19/03 UEFA Champions League", Tottenham Hotspur vs Atletico Madrid 03:00 ngày 19/03 UEFA Champions League
-https://live.alilicloud.com/live/ddee6632a0d6b49abe7a4418d3d16f6a/playlist.m3u8
-#EXTINF:-1 tvg-id="601310494" group-title="Basel (w) vs St Gallen (w) 00:00 ngày 19/03 Switzerland Women's Division 1", Basel (w) vs St Gallen (w) 00:00 ngày 19/03 Switzerland Women's Division 1
-https://live.alilicloud.com/live/89dbfb946701e391ec8c09cb7b44d71d/playlist.m3u8
-#EXTINF:-1 tvg-id="601311151" group-title="Eyupspor vs Trabzonspor 00:00 ngày 19/03 Turkish Super League", Eyupspor vs Trabzonspor 00:00 ngày 19/03 Turkish Super League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69bad03c70a69_44731/index.m3u8?expire=1774455484&amp;sign=44f5c7aac69c4eb4087a091a6c79c597
-#EXTINF:-1 tvg-id="601311151" group-title="Eyupspor vs Trabzonspor 00:00 ngày 19/03 Turkish Super League", Eyupspor vs Trabzonspor 00:00 ngày 19/03 Turkish Super League (Link 2)
-https://live.alilicloud.com/live/6fc367ae244512017400bfd1003b1590/playlist.m3u8
-#EXTINF:-1 tvg-id="601311151" group-title="Eyupspor vs Trabzonspor 00:00 ngày 19/03 Turkish Super League", Eyupspor vs Trabzonspor 00:00 ngày 19/03 Turkish Super League (Link 3)
-https://cdn-hls.taoxanh.biz/live/69bad03c70a69_44731/index.m3u8?expire=1774455484&sign=44f5c7aac69c4eb4087a091a6c79c597
-#EXTINF:-1 tvg-id="601311154" group-title="Başakşehir Futbol Kulübü vs Antalyaspor 00:00 ngày 19/03 Turkish Super League", Başakşehir Futbol Kulübü vs Antalyaspor 00:00 ngày 19/03 Turkish Super League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69babda270a69_88186/index.m3u8?expire=1774450722&amp;sign=f50c77e68f47e5fc314ed3dfe98eb5db
-#EXTINF:-1 tvg-id="601311154" group-title="Başakşehir Futbol Kulübü vs Antalyaspor 00:00 ngày 19/03 Turkish Super League", Başakşehir Futbol Kulübü vs Antalyaspor 00:00 ngày 19/03 Turkish Super League (Link 2)
-https://live.alilicloud.com/live/bdfb8d8c6e86ea8aefefdec76aebddb1/playlist.m3u8
-#EXTINF:-1 tvg-id="601311154" group-title="Başakşehir Futbol Kulübü vs Antalyaspor 00:00 ngày 19/03 Turkish Super League", Başakşehir Futbol Kulübü vs Antalyaspor 00:00 ngày 19/03 Turkish Super League (Link 3)
-https://cdn-hls.taoxanh.biz/live/69babda270a69_88186/index.m3u8?expire=1774450722&sign=f50c77e68f47e5fc314ed3dfe98eb5db
+#EXTINF:-1 tvg-id="601311328" group-title="FC Bayern Munich vs Atalanta 03:00 ngày 19/03 UEFA Champions League", FC Bayern Munich vs Atalanta 03:00 ngày 19/03 UEFA Champions League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69bafdc070a69_133172/index.m3u8?expire=1774467136&amp;sign=8c09caf88f0699f743a21531839b32b3
+#EXTINF:-1 tvg-id="601311328" group-title="FC Bayern Munich vs Atalanta 03:00 ngày 19/03 UEFA Champions League", FC Bayern Munich vs Atalanta 03:00 ngày 19/03 UEFA Champions League (Link 2)
+https://cdn-hls.taoxanh.biz/live/69bafdc070a69_133172/index.m3u8?expire=1774467136&sign=8c09caf88f0699f743a21531839b32b3
+#EXTINF:-1 tvg-id="601311325" group-title="Liverpool vs Galatasaray 03:00 ngày 19/03 UEFA Champions League", Liverpool vs Galatasaray 03:00 ngày 19/03 UEFA Champions League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69bafa0d326d9_44731/index.m3u8?expire=1774466189&amp;sign=944261226d557fdf369eaef1f94d8e83
+#EXTINF:-1 tvg-id="601311325" group-title="Liverpool vs Galatasaray 03:00 ngày 19/03 UEFA Champions League", Liverpool vs Galatasaray 03:00 ngày 19/03 UEFA Champions League (Link 2)
+https://cdn-hls.taoxanh.biz/live/69bafa0d326d9_44731/index.m3u8?expire=1774466189&sign=944261226d557fdf369eaef1f94d8e83
+#EXTINF:-1 tvg-id="601311331" group-title="Tottenham Hotspur vs Atletico Madrid 03:00 ngày 19/03 UEFA Champions League", Tottenham Hotspur vs Atletico Madrid 03:00 ngày 19/03 UEFA Champions League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69bafff1326d9_4908/index.m3u8?expire=1774467697&amp;sign=80ab605a8f7a2a4722a7c58a91abc2d9
+#EXTINF:-1 tvg-id="601311331" group-title="Tottenham Hotspur vs Atletico Madrid 03:00 ngày 19/03 UEFA Champions League", Tottenham Hotspur vs Atletico Madrid 03:00 ngày 19/03 UEFA Champions League (Link 2)
+https://cdn-hls.taoxanh.biz/live/69bafc5370a69_128756/index.m3u8?expire=1774466771&amp;sign=7e00c21478964685c93c6298e99e1dab
+#EXTINF:-1 tvg-id="601311331" group-title="Tottenham Hotspur vs Atletico Madrid 03:00 ngày 19/03 UEFA Champions League", Tottenham Hotspur vs Atletico Madrid 03:00 ngày 19/03 UEFA Champions League (Link 3)
+https://cdn-hls.taoxanh.biz/live/69bafff1326d9_4908/index.m3u8?expire=1774467697&sign=80ab605a8f7a2a4722a7c58a91abc2d9
 #EXTINF:-1 tvg-id="601311178" group-title="Spartak Moscow vs Dynamo Moscow 00:45 ngày 19/03 Russian Cup", Spartak Moscow vs Dynamo Moscow 00:45 ngày 19/03 Russian Cup (Link 1)
 https://cdn-hls.taoxanh.biz/live/69bad8cc326d9_28/index.m3u8?expire=1774457676&amp;sign=958c34a8126aee38536eb7e7e0067995
 #EXTINF:-1 tvg-id="601311178" group-title="Spartak Moscow vs Dynamo Moscow 00:45 ngày 19/03 Russian Cup", Spartak Moscow vs Dynamo Moscow 00:45 ngày 19/03 Russian Cup (Link 2)
 https://live.alilicloud.com/live/99de6126c91c1cb8843b9927fba258d6/playlist.m3u8
 #EXTINF:-1 tvg-id="601311178" group-title="Spartak Moscow vs Dynamo Moscow 00:45 ngày 19/03 Russian Cup", Spartak Moscow vs Dynamo Moscow 00:45 ngày 19/03 Russian Cup (Link 3)
 https://cdn-hls.taoxanh.biz/live/69bad8cc326d9_28/index.m3u8?expire=1774457676&sign=958c34a8126aee38536eb7e7e0067995
-#EXTINF:-1 tvg-id="601311157" group-title="Eintracht Frankfurt (w) vs Hoffenheim (w) 00:00 ngày 19/03 German Frauen Bundesliga", Eintracht Frankfurt (w) vs Hoffenheim (w) 00:00 ngày 19/03 German Frauen Bundesliga
-https://live.alilicloud.com/live/4afb61e3f22a73a36f4ea176ce9f3b2a/playlist.m3u8
-#EXTINF:-1 tvg-id="601324483" group-title="HU Zhe An vs Jason GUNAWAN 23:50 ngày 18/03 Sân 4 - Orleans Masters Badminton 2026", HU Zhe An vs Jason GUNAWAN 23:50 ngày 18/03 Sân 4 - Orleans Masters Badminton 2026 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69ba60a6326d9_85714/index.m3u8?expire=1774426918&amp;sign=2a11ad714d74e21cffc79d9349a3f6a4
-#EXTINF:-1 tvg-id="601324483" group-title="HU Zhe An vs Jason GUNAWAN 23:50 ngày 18/03 Sân 4 - Orleans Masters Badminton 2026", HU Zhe An vs Jason GUNAWAN 23:50 ngày 18/03 Sân 4 - Orleans Masters Badminton 2026 (Link 2)
-https://cdn-hls.taoxanh.biz/live/69ba60a6326d9_85714/index.m3u8?expire=1774426918&sign=2a11ad714d74e21cffc79d9349a3f6a4
+#EXTINF:-1 tvg-id="601311196" group-title="Frosinone vs Bari 01:00 ngày 19/03 Italian Serie B", Frosinone vs Bari 01:00 ngày 19/03 Italian Serie B
+https://live.alilicloud.com/live/18207128abac9737c496fba47ac1267e/playlist.m3u8
+#EXTINF:-1 tvg-id="601311199" group-title="FC Zurich Frauen (w) vs FC Luzern (w) 01:00 ngày 19/03 Switzerland Women's Division 1", FC Zurich Frauen (w) vs FC Luzern (w) 01:00 ngày 19/03 Switzerland Women's Division 1
+https://live.alilicloud.com/live/e37fc8ff52ae21de258a763710d45a4b/playlist.m3u8
+#EXTINF:-1 tvg-id="601311262" group-title="Al Kholood vs Al-Ittihad Club 02:00 ngày 19/03 Saudi Arabia Kings Cup", Al Kholood vs Al-Ittihad Club 02:00 ngày 19/03 Saudi Arabia Kings Cup (Link 1)
+https://cdn-hls.taoxanh.biz/live/69bad95a70a69_124958/index.m3u8?expire=1774457818&amp;sign=0afd0e7c30f2704af674140b6cc54192
+#EXTINF:-1 tvg-id="601311262" group-title="Al Kholood vs Al-Ittihad Club 02:00 ngày 19/03 Saudi Arabia Kings Cup", Al Kholood vs Al-Ittihad Club 02:00 ngày 19/03 Saudi Arabia Kings Cup (Link 2)
+https://live.alilicloud.com/live/b5116d85f6aeaf3e563c6f5e9d76059c/playlist.m3u8
+#EXTINF:-1 tvg-id="601311262" group-title="Al Kholood vs Al-Ittihad Club 02:00 ngày 19/03 Saudi Arabia Kings Cup", Al Kholood vs Al-Ittihad Club 02:00 ngày 19/03 Saudi Arabia Kings Cup (Link 3)
+https://cdn-hls.taoxanh.biz/live/69bad95a70a69_124958/index.m3u8?expire=1774457818&sign=0afd0e7c30f2704af674140b6cc54192
+#EXTINF:-1 tvg-id="601311307" group-title="Southampton vs Norwich City 02:45 ngày 19/03 English Football League Championship", Southampton vs Norwich City 02:45 ngày 19/03 English Football League Championship (Link 1)
+https://cdn-hls.taoxanh.biz/live/69baf8ca70a69_73445/index.m3u8?expire=1774465866&amp;sign=3734d24e850169a7491c20c0a78be78e
+#EXTINF:-1 tvg-id="601311307" group-title="Southampton vs Norwich City 02:45 ngày 19/03 English Football League Championship", Southampton vs Norwich City 02:45 ngày 19/03 English Football League Championship (Link 2)
+https://cdn-hls.taoxanh.biz/live/69baf8ca70a69_73445/index.m3u8?expire=1774465866&sign=3734d24e850169a7491c20c0a78be78e
+#EXTINF:-1 tvg-id="601315180" group-title="Lanus Reserves vs Newell's Reserves 01:00 ngày 19/03 Argentine Reserve League", Lanus Reserves vs Newell's Reserves 01:00 ngày 19/03 Argentine Reserve League
+https://live.alilicloud.com/live/3edfae4eb5a04b05ea6f29512a1f33d0/playlist.m3u8
