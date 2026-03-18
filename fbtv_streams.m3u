@@ -1,57 +1,65 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601324474" group-title="Yudai OKIMOTO vs Enogat ROY 17:55 ngày 18/03 Sân 1 - Orleans Masters Badminton 2026", Yudai OKIMOTO vs Enogat ROY 17:55 ngày 18/03 Sân 1 - Orleans Masters Badminton 2026 (Link 1)
+#EXTINF:-1 tvg-id="601324474" group-title="Anna TATRANOVA vs Natsuki NIDAIRA 18:45 ngày 18/03 Sân 1 - Orleans Masters Badminton 2026", Anna TATRANOVA vs Natsuki NIDAIRA 18:45 ngày 18/03 Sân 1 - Orleans Masters Badminton 2026 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69ba5b5370a69_18754/index.m3u8?expire=1774425555&amp;sign=a6645bee6be34f0a4d180e41693f4256
-#EXTINF:-1 tvg-id="601324474" group-title="Yudai OKIMOTO vs Enogat ROY 17:55 ngày 18/03 Sân 1 - Orleans Masters Badminton 2026", Yudai OKIMOTO vs Enogat ROY 17:55 ngày 18/03 Sân 1 - Orleans Masters Badminton 2026 (Link 2)
+#EXTINF:-1 tvg-id="601324474" group-title="Anna TATRANOVA vs Natsuki NIDAIRA 18:45 ngày 18/03 Sân 1 - Orleans Masters Badminton 2026", Anna TATRANOVA vs Natsuki NIDAIRA 18:45 ngày 18/03 Sân 1 - Orleans Masters Badminton 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69ba5b5370a69_18754/index.m3u8?expire=1774425555&sign=a6645bee6be34f0a4d180e41693f4256
+#EXTINF:-1 tvg-id="601310335" group-title="SHB Da Nang vs Nam Dinh FC 18:00 ngày 18/03 Vietnam National Cup", SHB Da Nang vs Nam Dinh FC 18:00 ngày 18/03 Vietnam National Cup (Link 1)
+https://cdn-hls.taoxanh.biz/live/69ba848570a69_73445/index.m3u8?expire=1774436101&amp;sign=9a78ca5afe2735cae83e38a34d77e1bc
+#EXTINF:-1 tvg-id="601310335" group-title="SHB Da Nang vs Nam Dinh FC 18:00 ngày 18/03 Vietnam National Cup", SHB Da Nang vs Nam Dinh FC 18:00 ngày 18/03 Vietnam National Cup (Link 2)
+https://live.alilicloud.com/live/2387e48985fecf43c23490580ea0e02b/playlist.m3u8
+#EXTINF:-1 tvg-id="601310335" group-title="SHB Da Nang vs Nam Dinh FC 18:00 ngày 18/03 Vietnam National Cup", SHB Da Nang vs Nam Dinh FC 18:00 ngày 18/03 Vietnam National Cup (Link 3)
+https://cdn-hls.taoxanh.biz/live/69ba848570a69_73445/index.m3u8?expire=1774436101&sign=9a78ca5afe2735cae83e38a34d77e1bc
 #EXTINF:-1 tvg-id="601322305" group-title="Hà Nội vs LPB Ninh Bình 17:30 ngày 18/03 Cúp Hoa Lư 2026", Hà Nội vs LPB Ninh Bình 17:30 ngày 18/03 Cúp Hoa Lư 2026 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69ba736570a69_88642/index.m3u8?expire=1774431717&amp;sign=dc3f5c80432e111ecf8014e95cc1ffb2
 #EXTINF:-1 tvg-id="601322305" group-title="Hà Nội vs LPB Ninh Bình 17:30 ngày 18/03 Cúp Hoa Lư 2026", Hà Nội vs LPB Ninh Bình 17:30 ngày 18/03 Cúp Hoa Lư 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69ba736570a69_88642/index.m3u8?expire=1774431717&sign=dc3f5c80432e111ecf8014e95cc1ffb2
-#EXTINF:-1 tvg-id="601310248" group-title="Cerezo Osaka vs Fagiano Okayama 16:30 ngày 18/03 Japanese J1 League", Cerezo Osaka vs Fagiano Okayama 16:30 ngày 18/03 Japanese J1 League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69ba6aed70a69_85514/index.m3u8?expire=1774429549&amp;sign=2710727e95efdd0b12116f0e082bd7cd
-#EXTINF:-1 tvg-id="601310248" group-title="Cerezo Osaka vs Fagiano Okayama 16:30 ngày 18/03 Japanese J1 League", Cerezo Osaka vs Fagiano Okayama 16:30 ngày 18/03 Japanese J1 League (Link 2)
-https://live.alilicloud.com/live/f498baf6ec57bec9d9f0b54c0cde8541/playlist.m3u8
-#EXTINF:-1 tvg-id="601310248" group-title="Cerezo Osaka vs Fagiano Okayama 16:30 ngày 18/03 Japanese J1 League", Cerezo Osaka vs Fagiano Okayama 16:30 ngày 18/03 Japanese J1 League (Link 3)
-https://cdn-hls.taoxanh.biz/live/69ba6aed70a69_85514/index.m3u8?expire=1774429549&sign=2710727e95efdd0b12116f0e082bd7cd
 #EXTINF:-1 tvg-id="601310260" group-title="Avispa Fukuoka vs Shimizu S-Pulse 17:00 ngày 18/03 Japanese J1 League", Avispa Fukuoka vs Shimizu S-Pulse 17:00 ngày 18/03 Japanese J1 League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69ba6bea326d9_95554/index.m3u8?expire=1774429802&amp;sign=45188df56647b6f042d0d54a6a2f28b1
 #EXTINF:-1 tvg-id="601310260" group-title="Avispa Fukuoka vs Shimizu S-Pulse 17:00 ngày 18/03 Japanese J1 League", Avispa Fukuoka vs Shimizu S-Pulse 17:00 ngày 18/03 Japanese J1 League (Link 2)
 https://live.alilicloud.com/live/31b63751e83beb8348aad89abcaa1975/playlist.m3u8
 #EXTINF:-1 tvg-id="601310260" group-title="Avispa Fukuoka vs Shimizu S-Pulse 17:00 ngày 18/03 Japanese J1 League", Avispa Fukuoka vs Shimizu S-Pulse 17:00 ngày 18/03 Japanese J1 League (Link 3)
 https://cdn-hls.taoxanh.biz/live/69ba6bea326d9_95554/index.m3u8?expire=1774429802&sign=45188df56647b6f042d0d54a6a2f28b1
-#EXTINF:-1 tvg-id="601322128" group-title="Sunshine Coast Wanderers (w) vs Queensland Lions (w) 16:45 ngày 18/03 Australia Queensland State Women's League", Sunshine Coast Wanderers (w) vs Queensland Lions (w) 16:45 ngày 18/03 Australia Queensland State Women's League
-https://live.alilicloud.com/live/d14014ab2e0f82a264db3f74c7cfc450/playlist.m3u8
 #EXTINF:-1 tvg-id="601310251" group-title="JEF United Ichihara Chiba vs FC Tokyo 17:00 ngày 18/03 Japanese J1 League", JEF United Ichihara Chiba vs FC Tokyo 17:00 ngày 18/03 Japanese J1 League
 https://live.alilicloud.com/live/fff4bf48f04d947170e51ca1ba53fd9c/playlist.m3u8
+#EXTINF:-1 tvg-id="601310257" group-title="Tokyo Verdy vs Kawasaki Frontale 17:00 ngày 18/03 Japanese J1 League", Tokyo Verdy vs Kawasaki Frontale 17:00 ngày 18/03 Japanese J1 League
+https://live.alilicloud.com/live/5c58ba1a6ae7d92e25a9776040a1951d/playlist.m3u8
 #EXTINF:-1 tvg-id="601310269" group-title="Vissel Kobe vs Gamba Osaka 17:00 ngày 18/03 Japanese J1 League", Vissel Kobe vs Gamba Osaka 17:00 ngày 18/03 Japanese J1 League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69ba665370a69_6308/index.m3u8?expire=1774428371&amp;sign=eb9c57e40818703b436d1dd21cf354e7
 #EXTINF:-1 tvg-id="601310269" group-title="Vissel Kobe vs Gamba Osaka 17:00 ngày 18/03 Japanese J1 League", Vissel Kobe vs Gamba Osaka 17:00 ngày 18/03 Japanese J1 League (Link 2)
 https://live.alilicloud.com/live/ee77d1f2d6601e2c7255cc0291241b28/playlist.m3u8
 #EXTINF:-1 tvg-id="601310269" group-title="Vissel Kobe vs Gamba Osaka 17:00 ngày 18/03 Japanese J1 League", Vissel Kobe vs Gamba Osaka 17:00 ngày 18/03 Japanese J1 League (Link 3)
 https://cdn-hls.taoxanh.biz/live/69ba665370a69_6308/index.m3u8?expire=1774428371&sign=eb9c57e40818703b436d1dd21cf354e7
-#EXTINF:-1 tvg-id="601322302" group-title="Kepco vs KB Stars 17:00 ngày 18/03 Volleyball League", Kepco vs KB Stars 17:00 ngày 18/03 Volleyball League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69ba6fca70a69_128756/index.m3u8?expire=1774430794&amp;sign=98eaf52cbaa0c3784c71618ffc07c137
-#EXTINF:-1 tvg-id="601322302" group-title="Kepco vs KB Stars 17:00 ngày 18/03 Volleyball League", Kepco vs KB Stars 17:00 ngày 18/03 Volleyball League (Link 2)
-https://cdn-hls.taoxanh.biz/live/69ba6fca70a69_128756/index.m3u8?expire=1774430794&sign=98eaf52cbaa0c3784c71618ffc07c137
-#EXTINF:-1 tvg-id="601310254" group-title="Mito Hollyhock vs Yokohama F. Marinos 17:00 ngày 18/03 Japanese J1 League", Mito Hollyhock vs Yokohama F. Marinos 17:00 ngày 18/03 Japanese J1 League
-https://live.alilicloud.com/live/6af6a65e1f8871626f98624f67d3d0b5/playlist.m3u8
-#EXTINF:-1 tvg-id="601324477" group-title="KIDAMBI Srikanth vs Magnus JOHANNESEN 16:50 ngày 18/03 Sân 2 - Orleans Masters Badminton 2026", KIDAMBI Srikanth vs Magnus JOHANNESEN 16:50 ngày 18/03 Sân 2 - Orleans Masters Badminton 2026 (Link 1)
+#EXTINF:-1 tvg-id="601310278" group-title="Incheon United Club vs Daejeon Citizen 17:30 ngày 18/03 Korean K League 1", Incheon United Club vs Daejeon Citizen 17:30 ngày 18/03 Korean K League 1 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69ba7291326d9_28/index.m3u8?expire=1774431505&amp;sign=d4f5a5dd1b70b69fad0a0ec8d5c7f547
+#EXTINF:-1 tvg-id="601310278" group-title="Incheon United Club vs Daejeon Citizen 17:30 ngày 18/03 Korean K League 1", Incheon United Club vs Daejeon Citizen 17:30 ngày 18/03 Korean K League 1 (Link 2)
+https://live.alilicloud.com/live/885b5c3486936f41048610d78d6f72dd/playlist.m3u8
+#EXTINF:-1 tvg-id="601310278" group-title="Incheon United Club vs Daejeon Citizen 17:30 ngày 18/03 Korean K League 1", Incheon United Club vs Daejeon Citizen 17:30 ngày 18/03 Korean K League 1 (Link 3)
+https://cdn-hls.taoxanh.biz/live/69ba7291326d9_28/index.m3u8?expire=1774431505&sign=d4f5a5dd1b70b69fad0a0ec8d5c7f547
+#EXTINF:-1 tvg-id="601310281" group-title="Jeonbuk Hyundai Motors vs FC Anyang 17:30 ngày 18/03 Korean K League 1", Jeonbuk Hyundai Motors vs FC Anyang 17:30 ngày 18/03 Korean K League 1 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69ba726f70a69_88186/index.m3u8?expire=1774431471&amp;sign=8fd930ace1e8f18be6e7bf27c2b33f17
+#EXTINF:-1 tvg-id="601310281" group-title="Jeonbuk Hyundai Motors vs FC Anyang 17:30 ngày 18/03 Korean K League 1", Jeonbuk Hyundai Motors vs FC Anyang 17:30 ngày 18/03 Korean K League 1 (Link 2)
+https://live.alilicloud.com/live/d37e7aff3e0986eb3174be628190b740/playlist.m3u8
+#EXTINF:-1 tvg-id="601310281" group-title="Jeonbuk Hyundai Motors vs FC Anyang 17:30 ngày 18/03 Korean K League 1", Jeonbuk Hyundai Motors vs FC Anyang 17:30 ngày 18/03 Korean K League 1 (Link 3)
+https://cdn-hls.taoxanh.biz/live/69ba726f70a69_88186/index.m3u8?expire=1774431471&sign=8fd930ace1e8f18be6e7bf27c2b33f17
+#EXTINF:-1 tvg-id="601310263" group-title="Nagoya Grampus vs Sanfrecce Hiroshima 17:00 ngày 18/03 Japanese J1 League", Nagoya Grampus vs Sanfrecce Hiroshima 17:00 ngày 18/03 Japanese J1 League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69ba701570a69_79/index.m3u8?expire=1774430869&amp;sign=158ad0c9227f06d94d2e33452062f438
+#EXTINF:-1 tvg-id="601310263" group-title="Nagoya Grampus vs Sanfrecce Hiroshima 17:00 ngày 18/03 Japanese J1 League", Nagoya Grampus vs Sanfrecce Hiroshima 17:00 ngày 18/03 Japanese J1 League (Link 2)
+https://live.alilicloud.com/live/5ad98d757238f00c82a231a823b40dfa/playlist.m3u8
+#EXTINF:-1 tvg-id="601310263" group-title="Nagoya Grampus vs Sanfrecce Hiroshima 17:00 ngày 18/03 Japanese J1 League", Nagoya Grampus vs Sanfrecce Hiroshima 17:00 ngày 18/03 Japanese J1 League (Link 3)
+https://cdn-hls.taoxanh.biz/live/69ba701570a69_79/index.m3u8?expire=1774430869&sign=158ad0c9227f06d94d2e33452062f438
+#EXTINF:-1 tvg-id="601324477" group-title="A. MAULANA /  Indah C. S. JAMIL vs WATANABE /  TAGUCHI 18:45 ngày 18/03 Sân 2 - Orleans Masters Badminton 2026", A. MAULANA /  Indah C. S. JAMIL vs WATANABE /  TAGUCHI 18:45 ngày 18/03 Sân 2 - Orleans Masters Badminton 2026 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69ba5cf470a69_142210/index.m3u8?expire=1774425972&amp;sign=4527b5bc972ed3faf8bf98eaf7e51f7b
-#EXTINF:-1 tvg-id="601324477" group-title="KIDAMBI Srikanth vs Magnus JOHANNESEN 16:50 ngày 18/03 Sân 2 - Orleans Masters Badminton 2026", KIDAMBI Srikanth vs Magnus JOHANNESEN 16:50 ngày 18/03 Sân 2 - Orleans Masters Badminton 2026 (Link 2)
+#EXTINF:-1 tvg-id="601324477" group-title="A. MAULANA /  Indah C. S. JAMIL vs WATANABE /  TAGUCHI 18:45 ngày 18/03 Sân 2 - Orleans Masters Badminton 2026", A. MAULANA /  Indah C. S. JAMIL vs WATANABE /  TAGUCHI 18:45 ngày 18/03 Sân 2 - Orleans Masters Badminton 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69ba5cf470a69_142210/index.m3u8?expire=1774425972&sign=4527b5bc972ed3faf8bf98eaf7e51f7b
-#EXTINF:-1 tvg-id="601324480" group-title="Akira KOGA /   Natsu SAITO vs WONG Tien Ci / LIM Chiew Sien 16:50 ngày 18/03 Sân 3 - Orleans Masters Badminton 2026", Akira KOGA /   Natsu SAITO vs WONG Tien Ci / LIM Chiew Sien 16:50 ngày 18/03 Sân 3 - Orleans Masters Badminton 2026 (Link 1)
+#EXTINF:-1 tvg-id="601324480" group-title="Anmol KHARB vs Neslihan ARIN 18:45 ngày 18/03 Sân 3 - Orleans Masters Badminton 2026", Anmol KHARB vs Neslihan ARIN 18:45 ngày 18/03 Sân 3 - Orleans Masters Badminton 2026 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69ba5f6470a69_85706/index.m3u8?expire=1774426596&amp;sign=6bcbc3ea4b202d6781cf491bf820016a
-#EXTINF:-1 tvg-id="601324480" group-title="Akira KOGA /   Natsu SAITO vs WONG Tien Ci / LIM Chiew Sien 16:50 ngày 18/03 Sân 3 - Orleans Masters Badminton 2026", Akira KOGA /   Natsu SAITO vs WONG Tien Ci / LIM Chiew Sien 16:50 ngày 18/03 Sân 3 - Orleans Masters Badminton 2026 (Link 2)
+#EXTINF:-1 tvg-id="601324480" group-title="Anmol KHARB vs Neslihan ARIN 18:45 ngày 18/03 Sân 3 - Orleans Masters Badminton 2026", Anmol KHARB vs Neslihan ARIN 18:45 ngày 18/03 Sân 3 - Orleans Masters Badminton 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69ba5f6470a69_85706/index.m3u8?expire=1774426596&sign=6bcbc3ea4b202d6781cf491bf820016a
-#EXTINF:-1 tvg-id="601324483" group-title="Kiran GEORGE vs Ayush SHETTY 16:55 ngày 18/03 Sân 4 - Orleans Masters Badminton 2026", Kiran GEORGE vs Ayush SHETTY 16:55 ngày 18/03 Sân 4 - Orleans Masters Badminton 2026 (Link 1)
+#EXTINF:-1 tvg-id="601324483" group-title="Wen Chi HSU vs HUANG Yu-Hsun 18:45 ngày 18/03 Sân 4 - Orleans Masters Badminton 2026", Wen Chi HSU vs HUANG Yu-Hsun 18:45 ngày 18/03 Sân 4 - Orleans Masters Badminton 2026 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69ba60a6326d9_85714/index.m3u8?expire=1774426918&amp;sign=2a11ad714d74e21cffc79d9349a3f6a4
-#EXTINF:-1 tvg-id="601324483" group-title="Kiran GEORGE vs Ayush SHETTY 16:55 ngày 18/03 Sân 4 - Orleans Masters Badminton 2026", Kiran GEORGE vs Ayush SHETTY 16:55 ngày 18/03 Sân 4 - Orleans Masters Badminton 2026 (Link 2)
+#EXTINF:-1 tvg-id="601324483" group-title="Wen Chi HSU vs HUANG Yu-Hsun 18:45 ngày 18/03 Sân 4 - Orleans Masters Badminton 2026", Wen Chi HSU vs HUANG Yu-Hsun 18:45 ngày 18/03 Sân 4 - Orleans Masters Badminton 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69ba60a6326d9_85714/index.m3u8?expire=1774426918&sign=2a11ad714d74e21cffc79d9349a3f6a4
 #EXTINF:-1 tvg-id="601324252" group-title="Suwon KT vs Wonju DB 17:00 ngày 18/03 KBL", Suwon KT vs Wonju DB 17:00 ngày 18/03 KBL (Link 1)
 https://cdn-hls.taoxanh.biz/live/69ba711e70a69_4439/index.m3u8?expire=1774431134&amp;sign=545cca892a564a56a9d74682f77f4d47
 #EXTINF:-1 tvg-id="601324252" group-title="Suwon KT vs Wonju DB 17:00 ngày 18/03 KBL", Suwon KT vs Wonju DB 17:00 ngày 18/03 KBL (Link 2)
 https://cdn-hls.taoxanh.biz/live/69ba711e70a69_4439/index.m3u8?expire=1774431134&sign=545cca892a564a56a9d74682f77f4d47
-#EXTINF:-1 tvg-id="601324390" group-title="GS Caltex W vs Hyundai E&amp;C Hillstate W 17:00 ngày 18/03 Volleyball League Women", GS Caltex W vs Hyundai E&amp;C Hillstate W 17:00 ngày 18/03 Volleyball League Women (Link 1)
-https://cdn-hls.taoxanh.biz/live/69ba78f170a69_42127/index.m3u8?expire=1774433137&amp;sign=c586d36e45640d0625a225ec58877059
-#EXTINF:-1 tvg-id="601324390" group-title="GS Caltex W vs Hyundai E&amp;C Hillstate W 17:00 ngày 18/03 Volleyball League Women", GS Caltex W vs Hyundai E&amp;C Hillstate W 17:00 ngày 18/03 Volleyball League Women (Link 2)
-https://cdn-hls.taoxanh.biz/live/69ba78f170a69_42127/index.m3u8?expire=1774433137&sign=c586d36e45640d0625a225ec58877059
