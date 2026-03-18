@@ -1,18 +1,22 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601324474" group-title="T POPOV vs ZHU Xuan Chen 00:21 ngày 19/03 Sân 1 - Orleans Masters Badminton 2026", T POPOV vs ZHU Xuan Chen 00:21 ngày 19/03 Sân 1 - Orleans Masters Badminton 2026 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69ba5b5370a69_18754/index.m3u8?expire=1774425555&amp;sign=a6645bee6be34f0a4d180e41693f4256
-#EXTINF:-1 tvg-id="601324474" group-title="T POPOV vs ZHU Xuan Chen 00:21 ngày 19/03 Sân 1 - Orleans Masters Badminton 2026", T POPOV vs ZHU Xuan Chen 00:21 ngày 19/03 Sân 1 - Orleans Masters Badminton 2026 (Link 2)
-https://cdn-hls.taoxanh.biz/live/69ba5b5370a69_18754/index.m3u8?expire=1774425555&sign=a6645bee6be34f0a4d180e41693f4256
 #EXTINF:-1 tvg-id="601311181" group-title="FC Barcelona vs Newcastle United 00:45 ngày 19/03 UEFA Champions League", FC Barcelona vs Newcastle United 00:45 ngày 19/03 UEFA Champions League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69badf4a326d9_4908/index.m3u8?expire=1774459338&amp;sign=a38ba99525f857868e65051224d66851
-#EXTINF:-1 tvg-id="601311181" group-title="FC Barcelona vs Newcastle United 00:45 ngày 19/03 UEFA Champions League", FC Barcelona vs Newcastle United 00:45 ngày 19/03 UEFA Champions League (Link 2)
 https://cdn-hls.taoxanh.biz/live/69badb7170a69_79/index.m3u8?expire=1774458353&amp;sign=ba608e843c73dc176a7607de77ee62ef
+#EXTINF:-1 tvg-id="601311181" group-title="FC Barcelona vs Newcastle United 00:45 ngày 19/03 UEFA Champions League", FC Barcelona vs Newcastle United 00:45 ngày 19/03 UEFA Champions League (Link 2)
+https://cdn-hls.taoxanh.biz/live/69badf4a326d9_4908/index.m3u8?expire=1774459338&amp;sign=a38ba99525f857868e65051224d66851
 #EXTINF:-1 tvg-id="601311181" group-title="FC Barcelona vs Newcastle United 00:45 ngày 19/03 UEFA Champions League", FC Barcelona vs Newcastle United 00:45 ngày 19/03 UEFA Champions League (Link 3)
 https://cdn-hls.taoxanh.biz/live/69bade6770a69_85514/index.m3u8?expire=1774459111&amp;sign=825234920414b2760402ba029e66bc79
 #EXTINF:-1 tvg-id="601311181" group-title="FC Barcelona vs Newcastle United 00:45 ngày 19/03 UEFA Champions League", FC Barcelona vs Newcastle United 00:45 ngày 19/03 UEFA Champions League (Link 4)
 https://live.alilicloud.com/live/f7b0d74579d4db6dfd775798acab58e9/playlist.m3u8
 #EXTINF:-1 tvg-id="601311181" group-title="FC Barcelona vs Newcastle United 00:45 ngày 19/03 UEFA Champions League", FC Barcelona vs Newcastle United 00:45 ngày 19/03 UEFA Champions League (Link 5)
-https://cdn-hls.taoxanh.biz/live/69badf4a326d9_4908/index.m3u8?expire=1774459338&sign=a38ba99525f857868e65051224d66851
+https://cdn-hls.taoxanh.biz/live/69badb7170a69_79/index.m3u8?expire=1774458353&sign=ba608e843c73dc176a7607de77ee62ef
+#EXTINF:-1 tvg-id="601311328" group-title="FC Bayern Munich vs Atalanta 03:00 ngày 19/03 UEFA Champions League", FC Bayern Munich vs Atalanta 03:00 ngày 19/03 UEFA Champions League
+https://live.alilicloud.com/live/84682226b3a44f2a89fe3d41c72286ff/playlist.m3u8
+#EXTINF:-1 tvg-id="601311325" group-title="Liverpool vs Galatasaray 03:00 ngày 19/03 UEFA Champions League", Liverpool vs Galatasaray 03:00 ngày 19/03 UEFA Champions League
+https://live.alilicloud.com/live/84a3dd00633e54d12620502a8660a8df/playlist.m3u8
+#EXTINF:-1 tvg-id="601311331" group-title="Tottenham Hotspur vs Atletico Madrid 03:00 ngày 19/03 UEFA Champions League", Tottenham Hotspur vs Atletico Madrid 03:00 ngày 19/03 UEFA Champions League
+https://live.alilicloud.com/live/ddee6632a0d6b49abe7a4418d3d16f6a/playlist.m3u8
+#EXTINF:-1 tvg-id="601310494" group-title="Basel (w) vs St Gallen (w) 00:00 ngày 19/03 Switzerland Women's Division 1", Basel (w) vs St Gallen (w) 00:00 ngày 19/03 Switzerland Women's Division 1
+https://live.alilicloud.com/live/89dbfb946701e391ec8c09cb7b44d71d/playlist.m3u8
 #EXTINF:-1 tvg-id="601311151" group-title="Eyupspor vs Trabzonspor 00:00 ngày 19/03 Turkish Super League", Eyupspor vs Trabzonspor 00:00 ngày 19/03 Turkish Super League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69bad03c70a69_44731/index.m3u8?expire=1774455484&amp;sign=44f5c7aac69c4eb4087a091a6c79c597
 #EXTINF:-1 tvg-id="601311151" group-title="Eyupspor vs Trabzonspor 00:00 ngày 19/03 Turkish Super League", Eyupspor vs Trabzonspor 00:00 ngày 19/03 Turkish Super League (Link 2)
@@ -25,31 +29,15 @@ https://cdn-hls.taoxanh.biz/live/69babda270a69_88186/index.m3u8?expire=177445072
 https://live.alilicloud.com/live/bdfb8d8c6e86ea8aefefdec76aebddb1/playlist.m3u8
 #EXTINF:-1 tvg-id="601311154" group-title="Başakşehir Futbol Kulübü vs Antalyaspor 00:00 ngày 19/03 Turkish Super League", Başakşehir Futbol Kulübü vs Antalyaspor 00:00 ngày 19/03 Turkish Super League (Link 3)
 https://cdn-hls.taoxanh.biz/live/69babda270a69_88186/index.m3u8?expire=1774450722&sign=f50c77e68f47e5fc314ed3dfe98eb5db
-#EXTINF:-1 tvg-id="601310473" group-title="KP Calisia Kalisz vs Stal Stalowa Wola 23:00 ngày 18/03 Poland Liga 2", KP Calisia Kalisz vs Stal Stalowa Wola 23:00 ngày 18/03 Poland Liga 2
-https://live.alilicloud.com/live/cff7c820ee7e2e82719c430c6140008f/playlist.m3u8
-#EXTINF:-1 tvg-id="601310509" group-title="Lietava Jonava vs BE1 NFA 23:00 ngày 18/03 Lithuanian I Lyga", Lietava Jonava vs BE1 NFA 23:00 ngày 18/03 Lithuanian I Lyga
-https://live.alilicloud.com/live/9d046ab95721b384de28002bb6242132/playlist.m3u8
-#EXTINF:-1 tvg-id="601313404" group-title="Kamboi Eagles vs BAI Bureh Warriors 23:25 ngày 18/03 Sierra Leone Premier League", Kamboi Eagles vs BAI Bureh Warriors 23:25 ngày 18/03 Sierra Leone Premier League
-https://live.alilicloud.com/live/0b07ffbb3fd82f4d3280131684ff7f93/playlist.m3u8
 #EXTINF:-1 tvg-id="601311178" group-title="Spartak Moscow vs Dynamo Moscow 00:45 ngày 19/03 Russian Cup", Spartak Moscow vs Dynamo Moscow 00:45 ngày 19/03 Russian Cup (Link 1)
 https://cdn-hls.taoxanh.biz/live/69bad8cc326d9_28/index.m3u8?expire=1774457676&amp;sign=958c34a8126aee38536eb7e7e0067995
 #EXTINF:-1 tvg-id="601311178" group-title="Spartak Moscow vs Dynamo Moscow 00:45 ngày 19/03 Russian Cup", Spartak Moscow vs Dynamo Moscow 00:45 ngày 19/03 Russian Cup (Link 2)
+https://live.alilicloud.com/live/99de6126c91c1cb8843b9927fba258d6/playlist.m3u8
+#EXTINF:-1 tvg-id="601311178" group-title="Spartak Moscow vs Dynamo Moscow 00:45 ngày 19/03 Russian Cup", Spartak Moscow vs Dynamo Moscow 00:45 ngày 19/03 Russian Cup (Link 3)
 https://cdn-hls.taoxanh.biz/live/69bad8cc326d9_28/index.m3u8?expire=1774457676&sign=958c34a8126aee38536eb7e7e0067995
-#EXTINF:-1 tvg-id="601315129" group-title="Wusum Stars vs Luawa FC 23:30 ngày 18/03 Sierra Leone Premier League", Wusum Stars vs Luawa FC 23:30 ngày 18/03 Sierra Leone Premier League
-https://live.alilicloud.com/live/34a1f644e465de1dba5ab207acf6877c/playlist.m3u8
-#EXTINF:-1 tvg-id="601324477" group-title="Rasmus Gemke vs WANG Po-Wei 23:30 ngày 18/03 Sân 2 - Orleans Masters Badminton 2026", Rasmus Gemke vs WANG Po-Wei 23:30 ngày 18/03 Sân 2 - Orleans Masters Badminton 2026 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69ba5cf470a69_142210/index.m3u8?expire=1774425972&amp;sign=4527b5bc972ed3faf8bf98eaf7e51f7b
-#EXTINF:-1 tvg-id="601324477" group-title="Rasmus Gemke vs WANG Po-Wei 23:30 ngày 18/03 Sân 2 - Orleans Masters Badminton 2026", Rasmus Gemke vs WANG Po-Wei 23:30 ngày 18/03 Sân 2 - Orleans Masters Badminton 2026 (Link 2)
-https://cdn-hls.taoxanh.biz/live/69ba5cf470a69_142210/index.m3u8?expire=1774425972&sign=4527b5bc972ed3faf8bf98eaf7e51f7b
-#EXTINF:-1 tvg-id="601324480" group-title="DONG Tian Yao vs Joakim OLDORFF 23:35 ngày 18/03 Sân 3 - Orleans Masters Badminton 2026", DONG Tian Yao vs Joakim OLDORFF 23:35 ngày 18/03 Sân 3 - Orleans Masters Badminton 2026 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69ba5f6470a69_85706/index.m3u8?expire=1774426596&amp;sign=6bcbc3ea4b202d6781cf491bf820016a
-#EXTINF:-1 tvg-id="601324480" group-title="DONG Tian Yao vs Joakim OLDORFF 23:35 ngày 18/03 Sân 3 - Orleans Masters Badminton 2026", DONG Tian Yao vs Joakim OLDORFF 23:35 ngày 18/03 Sân 3 - Orleans Masters Badminton 2026 (Link 2)
-https://cdn-hls.taoxanh.biz/live/69ba5f6470a69_85706/index.m3u8?expire=1774426596&sign=6bcbc3ea4b202d6781cf491bf820016a
+#EXTINF:-1 tvg-id="601311157" group-title="Eintracht Frankfurt (w) vs Hoffenheim (w) 00:00 ngày 19/03 German Frauen Bundesliga", Eintracht Frankfurt (w) vs Hoffenheim (w) 00:00 ngày 19/03 German Frauen Bundesliga
+https://live.alilicloud.com/live/4afb61e3f22a73a36f4ea176ce9f3b2a/playlist.m3u8
 #EXTINF:-1 tvg-id="601324483" group-title="HU Zhe An vs Jason GUNAWAN 23:50 ngày 18/03 Sân 4 - Orleans Masters Badminton 2026", HU Zhe An vs Jason GUNAWAN 23:50 ngày 18/03 Sân 4 - Orleans Masters Badminton 2026 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69ba60a6326d9_85714/index.m3u8?expire=1774426918&amp;sign=2a11ad714d74e21cffc79d9349a3f6a4
 #EXTINF:-1 tvg-id="601324483" group-title="HU Zhe An vs Jason GUNAWAN 23:50 ngày 18/03 Sân 4 - Orleans Masters Badminton 2026", HU Zhe An vs Jason GUNAWAN 23:50 ngày 18/03 Sân 4 - Orleans Masters Badminton 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69ba60a6326d9_85714/index.m3u8?expire=1774426918&sign=2a11ad714d74e21cffc79d9349a3f6a4
-#EXTINF:-1 tvg-id="601324726" group-title="Opelka R. vs Borges N. 02:10 ngày 19/03 ATP MIAMI 2026", Opelka R. vs Borges N. 02:10 ngày 19/03 ATP MIAMI 2026 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69bac8d7326d9_138846/index.m3u8?expire=1774453591&amp;sign=9b1ba0f096d22a13d97df3ccc6e1ea32
-#EXTINF:-1 tvg-id="601324726" group-title="Opelka R. vs Borges N. 02:10 ngày 19/03 ATP MIAMI 2026", Opelka R. vs Borges N. 02:10 ngày 19/03 ATP MIAMI 2026 (Link 2)
-https://cdn-hls.taoxanh.biz/live/69bac8d7326d9_138846/index.m3u8?expire=1774453591&sign=9b1ba0f096d22a13d97df3ccc6e1ea32
