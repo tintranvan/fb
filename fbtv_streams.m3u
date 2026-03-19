@@ -1,21 +1,43 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601311433" group-title="Inter Miami CF vs Nashville 06:00 ngày 19/03 CNCF CHL", Inter Miami CF vs Nashville 06:00 ngày 19/03 CNCF CHL (Link 1)
-https://cdn-hls.taoxanh.biz/live/69bb266270a69_128756/index.m3u8?expire=1774477538&amp;sign=1b6c7d3cd99ff0ba1404d036153ac0ae
-#EXTINF:-1 tvg-id="601311433" group-title="Inter Miami CF vs Nashville 06:00 ngày 19/03 CNCF CHL", Inter Miami CF vs Nashville 06:00 ngày 19/03 CNCF CHL (Link 2)
-https://live.alilicloud.com/live/cf318be241f26cf3fe24a2b4e6477ccc/playlist.m3u8
-#EXTINF:-1 tvg-id="601311433" group-title="Inter Miami CF vs Nashville 06:00 ngày 19/03 CNCF CHL", Inter Miami CF vs Nashville 06:00 ngày 19/03 CNCF CHL (Link 3)
-https://cdn-hls.taoxanh.biz/live/69bb266270a69_128756/index.m3u8?expire=1774477538&sign=1b6c7d3cd99ff0ba1404d036153ac0ae
-#EXTINF:-1 tvg-id="601311463" group-title="Clube de Regatas Vasco da Gama vs Fluminense RJ 07:30 ngày 19/03 Brazilian Serie A", Clube de Regatas Vasco da Gama vs Fluminense RJ 07:30 ngày 19/03 Brazilian Serie A
+#EXTINF:-1 tvg-id="601311463" group-title="Clube de Regatas Vasco da Gama vs Fluminense RJ 07:30 ngày 19/03 Brazilian Serie A", Clube de Regatas Vasco da Gama vs Fluminense RJ 07:30 ngày 19/03 Brazilian Serie A (Link 1)
+https://cdn-hls.taoxanh.biz/live/69bb3d78326d9_88642/index.m3u8?expire=1774483448&amp;sign=8c30581a6b8de21303864600844c632c
+#EXTINF:-1 tvg-id="601311463" group-title="Clube de Regatas Vasco da Gama vs Fluminense RJ 07:30 ngày 19/03 Brazilian Serie A", Clube de Regatas Vasco da Gama vs Fluminense RJ 07:30 ngày 19/03 Brazilian Serie A (Link 2)
 https://live.alilicloud.com/live/f6191660b441e7646dba4c33891ec7f7/playlist.m3u8
-#EXTINF:-1 tvg-id="601311400" group-title="Bahia vs Red Bull Bragantino 05:00 ngày 19/03 Brazilian Serie A", Bahia vs Red Bull Bragantino 05:00 ngày 19/03 Brazilian Serie A
-https://live.alilicloud.com/live/c57ceb2f4f36f92acf83b0a97f488110/playlist.m3u8
-#EXTINF:-1 tvg-id="601311403" group-title="Palmeiras vs Botafogo RJ 05:00 ngày 19/03 Brazilian Serie A", Palmeiras vs Botafogo RJ 05:00 ngày 19/03 Brazilian Serie A
-https://live.alilicloud.com/live/7233a17217a38a59a198abbdf3e2aed9/playlist.m3u8
-#EXTINF:-1 tvg-id="601311406" group-title="Chattanooga vs Kalonji Pro Profile 05:00 ngày 19/03 United States Open Cup", Chattanooga vs Kalonji Pro Profile 05:00 ngày 19/03 United States Open Cup
-https://live.alilicloud.com/live/69f4bf7838b430fe264ca7a023e30927/playlist.m3u8
-#EXTINF:-1 tvg-id="601324429" group-title="Prison Service FC vs San Juan Jabloteh 05:00 ngày 19/03 Trinidad and Tobago Pro League", Prison Service FC vs San Juan Jabloteh 05:00 ngày 19/03 Trinidad and Tobago Pro League
-https://live.alilicloud.com/live/8c2b5fc3eb0a54ec93b6369be664e881/playlist.m3u8
+#EXTINF:-1 tvg-id="601311463" group-title="Clube de Regatas Vasco da Gama vs Fluminense RJ 07:30 ngày 19/03 Brazilian Serie A", Clube de Regatas Vasco da Gama vs Fluminense RJ 07:30 ngày 19/03 Brazilian Serie A (Link 3)
+https://cdn-hls.taoxanh.biz/live/69bb3d78326d9_88642/index.m3u8?expire=1774483448&sign=8c30581a6b8de21303864600844c632c
+#EXTINF:-1 tvg-id="601311466" group-title="Santos vs Internacional RS 07:30 ngày 19/03 Brazilian Serie A", Santos vs Internacional RS 07:30 ngày 19/03 Brazilian Serie A (Link 1)
+https://cdn-hls.taoxanh.biz/live/69bb3e6e70a69_44731/index.m3u8?expire=1774483694&amp;sign=69beca72a67caff578bb6f3da8c1ead5
+#EXTINF:-1 tvg-id="601311466" group-title="Santos vs Internacional RS 07:30 ngày 19/03 Brazilian Serie A", Santos vs Internacional RS 07:30 ngày 19/03 Brazilian Serie A (Link 2)
+https://live.alilicloud.com/live/22fc99af96a140707bb6ec3af95a5e1c/playlist.m3u8
+#EXTINF:-1 tvg-id="601311466" group-title="Santos vs Internacional RS 07:30 ngày 19/03 Brazilian Serie A", Santos vs Internacional RS 07:30 ngày 19/03 Brazilian Serie A (Link 3)
+https://cdn-hls.taoxanh.biz/live/69bb3e6e70a69_44731/index.m3u8?expire=1774483694&sign=69beca72a67caff578bb6f3da8c1ead5
+#EXTINF:-1 tvg-id="601311475" group-title="Club America vs Philadelphia Union 08:00 ngày 19/03 CNCF CHL", Club America vs Philadelphia Union 08:00 ngày 19/03 CNCF CHL (Link 1)
+https://cdn-hls.taoxanh.biz/live/69bb480770a69_74012/index.m3u8?expire=1774486151&amp;sign=9ab17f58c8e6d5afd3b157e57c30adf4
+#EXTINF:-1 tvg-id="601311475" group-title="Club America vs Philadelphia Union 08:00 ngày 19/03 CNCF CHL", Club America vs Philadelphia Union 08:00 ngày 19/03 CNCF CHL (Link 2)
+https://live.alilicloud.com/live/624fa2a79e321a525e9191d60f007a63/playlist.m3u8
+#EXTINF:-1 tvg-id="601311475" group-title="Club America vs Philadelphia Union 08:00 ngày 19/03 CNCF CHL", Club America vs Philadelphia Union 08:00 ngày 19/03 CNCF CHL (Link 3)
+https://cdn-hls.taoxanh.biz/live/69bb480770a69_74012/index.m3u8?expire=1774486151&sign=9ab17f58c8e6d5afd3b157e57c30adf4
+#EXTINF:-1 tvg-id="601311478" group-title="Deportivo Cali vs Independiente Santa Fe 08:30 ngày 19/03 Categoría Primera A", Deportivo Cali vs Independiente Santa Fe 08:30 ngày 19/03 Categoría Primera A (Link 1)
+https://cdn-hls.taoxanh.biz/live/69bb4695326d9_133172/index.m3u8?expire=1774485781&amp;sign=8eea759b4109e51859c4d253dea060d4
+#EXTINF:-1 tvg-id="601311478" group-title="Deportivo Cali vs Independiente Santa Fe 08:30 ngày 19/03 Categoría Primera A", Deportivo Cali vs Independiente Santa Fe 08:30 ngày 19/03 Categoría Primera A (Link 2)
+https://cdn-hls.taoxanh.biz/live/69bb4695326d9_133172/index.m3u8?expire=1774485781&sign=8eea759b4109e51859c4d253dea060d4
+#EXTINF:-1 tvg-id="601311442" group-title="Tampa Bay Sun (W) vs Brooklyn City (w) 06:30 ngày 19/03 USL Super League Women", Tampa Bay Sun (W) vs Brooklyn City (w) 06:30 ngày 19/03 USL Super League Women
+https://live.alilicloud.com/live/4d0674d234c2e4c058142d21951470a5/playlist.m3u8
+#EXTINF:-1 tvg-id="601311445" group-title="Vistula vs Knoxville troops 06:30 ngày 19/03 United States Open Cup", Vistula vs Knoxville troops 06:30 ngày 19/03 United States Open Cup
+https://live.alilicloud.com/live/1c4982e3397899a6525cb7acdae634e9/playlist.m3u8
+#EXTINF:-1 tvg-id="601311451" group-title="Little Rock Street vs FC Tulsa 07:00 ngày 19/03 United States Open Cup", Little Rock Street vs FC Tulsa 07:00 ngày 19/03 United States Open Cup
+https://live.alilicloud.com/live/f590ce02d1fe5a4a21c98810987c69fc/playlist.m3u8
+#EXTINF:-1 tvg-id="601311454" group-title="Libertad FC vs Barcelona SC(ECU) 07:00 ngày 19/03 LigaPro Serie A", Libertad FC vs Barcelona SC(ECU) 07:00 ngày 19/03 LigaPro Serie A
+https://live.alilicloud.com/live/939c2bb77d7c5ead6a9f1376079762e5/playlist.m3u8
+#EXTINF:-1 tvg-id="601311700" group-title="Boston Celtics vs Golden State Warriors 06:00 ngày 19/03 NBA", Boston Celtics vs Golden State Warriors 06:00 ngày 19/03 NBA (Link 1)
+https://cdn-hls.taoxanh.biz/live/69bb3acc70a69_142210/index.m3u8?expire=1774482764&amp;sign=80ac964295e9864a0c32425e8c8da402
+#EXTINF:-1 tvg-id="601311700" group-title="Boston Celtics vs Golden State Warriors 06:00 ngày 19/03 NBA", Boston Celtics vs Golden State Warriors 06:00 ngày 19/03 NBA (Link 2)
+https://cdn-hls.taoxanh.biz/live/69bb3acc70a69_142210/index.m3u8?expire=1774482764&sign=80ac964295e9864a0c32425e8c8da402
 #EXTINF:-1 tvg-id="601311703" group-title="Brooklyn Nets vs Oklahoma City Thunder 06:30 ngày 19/03 NBA", Brooklyn Nets vs Oklahoma City Thunder 06:30 ngày 19/03 NBA (Link 1)
 https://cdn-hls.taoxanh.biz/live/69bb31e4326d9_42127/index.m3u8?expire=1774480484&amp;sign=fa80dc7fa736910f8942ac1ded22564e
 #EXTINF:-1 tvg-id="601311703" group-title="Brooklyn Nets vs Oklahoma City Thunder 06:30 ngày 19/03 NBA", Brooklyn Nets vs Oklahoma City Thunder 06:30 ngày 19/03 NBA (Link 2)
 https://cdn-hls.taoxanh.biz/live/69bb31e4326d9_42127/index.m3u8?expire=1774480484&sign=fa80dc7fa736910f8942ac1ded22564e
+#EXTINF:-1 tvg-id="601311709" group-title="Minnesota Timberwolves vs Utah Jazz 07:00 ngày 19/03 NBA", Minnesota Timberwolves vs Utah Jazz 07:00 ngày 19/03 NBA (Link 1)
+https://cdn-hls.taoxanh.biz/live/69bb3bac326d9_145690/index.m3u8?expire=1774482988&amp;sign=00b2f09f2a68082071f495736e2cbd3f
+#EXTINF:-1 tvg-id="601311709" group-title="Minnesota Timberwolves vs Utah Jazz 07:00 ngày 19/03 NBA", Minnesota Timberwolves vs Utah Jazz 07:00 ngày 19/03 NBA (Link 2)
+https://cdn-hls.taoxanh.biz/live/69bb3bac326d9_145690/index.m3u8?expire=1774482988&sign=00b2f09f2a68082071f495736e2cbd3f
