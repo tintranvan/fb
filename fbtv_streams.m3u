@@ -3,9 +3,15 @@
 https://cdn-hls.taoxanh.biz/live/69bb8a24326d9_142246/index.m3u8?expire=1774503076&amp;sign=76109caf4f55c59f2be0b442065c80f6
 #EXTINF:-1 tvg-id="601324729" group-title="Ronnie O'Sullivan vs Shaun Murphy 13:00 ngày 19/03 World Open 2026", Ronnie O'Sullivan vs Shaun Murphy 13:00 ngày 19/03 World Open 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69bb8a24326d9_142246/index.m3u8?expire=1774503076&sign=76109caf4f55c59f2be0b442065c80f6
-#EXTINF:-1 tvg-id="601311517" group-title="South Island United FC vs Bula FC 11:00 ngày 19/03 OFC P L", South Island United FC vs Bula FC 11:00 ngày 19/03 OFC P L
-https://live.alilicloud.com/live/409b2fbc287dcd025a6aebc37f942789/playlist.m3u8
+#EXTINF:-1 tvg-id="601325662" group-title="Bagmati Yuwa Club (W) vs RS Pokhara Women 12:15 ngày 19/03 Nepal Women's National League", Bagmati Yuwa Club (W) vs RS Pokhara Women 12:15 ngày 19/03 Nepal Women's National League
+https://live.alilicloud.com/live/3fc4bfeaf3bf55b47623efb7fd72d993/playlist.m3u8
+#EXTINF:-1 tvg-id="601311523" group-title="Chinese Taipei (w) vs North Korea (w) 16:00 ngày 19/03 AFC Women’s Asian Cup", Chinese Taipei (w) vs North Korea (w) 16:00 ngày 19/03 AFC Women’s Asian Cup
+https://live.alilicloud.com/live/753eafc9b95d0bb4a472ab4403c85318/playlist.m3u8
 #EXTINF:-1 tvg-id="601324732" group-title="Judd Trump vs Robbie Williams 18:30 ngày 19/03 World Open 2026", Judd Trump vs Robbie Williams 18:30 ngày 19/03 World Open 2026 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69bb8a1e326d9_142246/index.m3u8?expire=1774503070&amp;sign=862180408877927125107e0319d6f3b7
 #EXTINF:-1 tvg-id="601324732" group-title="Judd Trump vs Robbie Williams 18:30 ngày 19/03 World Open 2026", Judd Trump vs Robbie Williams 18:30 ngày 19/03 World Open 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69bb8a1e326d9_142246/index.m3u8?expire=1774503070&sign=862180408877927125107e0319d6f3b7
+#EXTINF:-1 tvg-id="601324702" group-title="Vietinbank vs VTV Bình Điền Long An 14:00 ngày 19/03 Cúp Hoa Lư 2026 - Nữ", Vietinbank vs VTV Bình Điền Long An 14:00 ngày 19/03 Cúp Hoa Lư 2026 - Nữ (Link 1)
+https://cdn-hls.taoxanh.biz/live/69bb9850326d9_88642/index.m3u8?expire=1774506704&amp;sign=6f1c98c143f73330fd655bf8dec37ff5
+#EXTINF:-1 tvg-id="601324702" group-title="Vietinbank vs VTV Bình Điền Long An 14:00 ngày 19/03 Cúp Hoa Lư 2026 - Nữ", Vietinbank vs VTV Bình Điền Long An 14:00 ngày 19/03 Cúp Hoa Lư 2026 - Nữ (Link 2)
+https://cdn-hls.taoxanh.biz/live/69bb9850326d9_88642/index.m3u8?expire=1774506704&sign=6f1c98c143f73330fd655bf8dec37ff5
