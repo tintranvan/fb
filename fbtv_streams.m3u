@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601312894" group-title="Midtjylland vs Nottingham Forest 00:45 ngày 20/03 UEFA Europa League", Midtjylland vs Nottingham Forest 00:45 ngày 20/03 UEFA Europa League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69bc2f3270a69_128756/index.m3u8?expire=1774545330&amp;sign=b4f8eeb7ba563d83cbdaee59d5acf7ac
-#EXTINF:-1 tvg-id="601312894" group-title="Midtjylland vs Nottingham Forest 00:45 ngày 20/03 UEFA Europa League", Midtjylland vs Nottingham Forest 00:45 ngày 20/03 UEFA Europa League (Link 2)
-https://live.alilicloud.com/live/e6fee88dd834f2052298e2dd4b1f4c57/playlist.m3u8
-#EXTINF:-1 tvg-id="601312894" group-title="Midtjylland vs Nottingham Forest 00:45 ngày 20/03 UEFA Europa League", Midtjylland vs Nottingham Forest 00:45 ngày 20/03 UEFA Europa League (Link 3)
-https://cdn-hls.taoxanh.biz/live/69bc2f3270a69_128756/index.m3u8?expire=1774545330&sign=b4f8eeb7ba563d83cbdaee59d5acf7ac
 #EXTINF:-1 tvg-id="601312954" group-title="Real Betis vs Panathinaikos 03:00 ngày 20/03 UEFA Europa League", Real Betis vs Panathinaikos 03:00 ngày 20/03 UEFA Europa League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69bc4eaa326d9_44731/index.m3u8?expire=1774553386&amp;sign=2e1831e2705080011b19abdf1669222f
 #EXTINF:-1 tvg-id="601312954" group-title="Real Betis vs Panathinaikos 03:00 ngày 20/03 UEFA Europa League", Real Betis vs Panathinaikos 03:00 ngày 20/03 UEFA Europa League (Link 2)
@@ -23,8 +17,12 @@ https://cdn-hls.taoxanh.biz/live/69bc478070a69_88186/index.m3u8?expire=177455155
 https://live.alilicloud.com/live/3a4b2a0f6feacc6ad297d8b77ceb3dc1/playlist.m3u8
 #EXTINF:-1 tvg-id="601312960" group-title="AS Roma vs Bologna 03:00 ngày 20/03 UEFA Europa League", AS Roma vs Bologna 03:00 ngày 20/03 UEFA Europa League (Link 3)
 https://cdn-hls.taoxanh.biz/live/69bc478070a69_88186/index.m3u8?expire=1774551552&sign=5597ac8806702c5b50aaee2ded4c79d3
-#EXTINF:-1 tvg-id="601312912" group-title="FC Dinamo 1948 vs CS Universitatea Craiova 01:30 ngày 20/03 Romanian Liga I", FC Dinamo 1948 vs CS Universitatea Craiova 01:30 ngày 20/03 Romanian Liga I
-https://live.alilicloud.com/live/06405e4994161b1923fd688fc59893a5/playlist.m3u8
+#EXTINF:-1 tvg-id="601312963" group-title="Aston Villa vs LOSC Lille 03:00 ngày 20/03 UEFA Europa League", Aston Villa vs LOSC Lille 03:00 ngày 20/03 UEFA Europa League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69bc50e770a69_28/index.m3u8?expire=1774553959&amp;sign=2a1ade8030259ec4df353e045c88c42e
+#EXTINF:-1 tvg-id="601312963" group-title="Aston Villa vs LOSC Lille 03:00 ngày 20/03 UEFA Europa League", Aston Villa vs LOSC Lille 03:00 ngày 20/03 UEFA Europa League (Link 2)
+https://live.alilicloud.com/live/35491e110beffcf14ebefc5d1ab1b4d4/playlist.m3u8
+#EXTINF:-1 tvg-id="601312963" group-title="Aston Villa vs LOSC Lille 03:00 ngày 20/03 UEFA Europa League", Aston Villa vs LOSC Lille 03:00 ngày 20/03 UEFA Europa League (Link 3)
+https://cdn-hls.taoxanh.biz/live/69bc50e770a69_28/index.m3u8?expire=1774553959&sign=2a1ade8030259ec4df353e045c88c42e
 #EXTINF:-1 tvg-id="601312930" group-title="Sociedad Deportiva Aucas vs Tecnico Universitario 02:00 ngày 20/03 LigaPro Serie A", Sociedad Deportiva Aucas vs Tecnico Universitario 02:00 ngày 20/03 LigaPro Serie A
 https://live.alilicloud.com/live/b039888157bfe41725a681a0716276c8/playlist.m3u8
 #EXTINF:-1 tvg-id="601315393" group-title="Colon Reserves vs Platense Reserves 02:00 ngày 20/03 Argentine Reserve League", Colon Reserves vs Platense Reserves 02:00 ngày 20/03 Argentine Reserve League
