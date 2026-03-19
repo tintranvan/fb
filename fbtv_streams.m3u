@@ -1,14 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601325452" group-title="Brian WASSINK / Debora JILLE vs Amri SYAHNAWI / N. V. MARWAH 22:33 ngày 19/03 Sân 3 - Orleans Masters Badminton 2026", Brian WASSINK / Debora JILLE vs Amri SYAHNAWI / N. V. MARWAH 22:33 ngày 19/03 Sân 3 - Orleans Masters Badminton 2026 (Link 1)
+#EXTINF:-1 tvg-id="601325452" group-title="MAMMERI / MAMMERI vs LIU Kuang Heng /  JHENG Yu Chieh 23:07 ngày 19/03 Sân 3 - Orleans Masters Badminton 2026", MAMMERI / MAMMERI vs LIU Kuang Heng /  JHENG Yu Chieh 23:07 ngày 19/03 Sân 3 - Orleans Masters Badminton 2026 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69bbd52a70a69_18754/index.m3u8?expire=1774522282&amp;sign=085b9e8973878a5bf8f09a4cc551e986
-#EXTINF:-1 tvg-id="601325452" group-title="Brian WASSINK / Debora JILLE vs Amri SYAHNAWI / N. V. MARWAH 22:33 ngày 19/03 Sân 3 - Orleans Masters Badminton 2026", Brian WASSINK / Debora JILLE vs Amri SYAHNAWI / N. V. MARWAH 22:33 ngày 19/03 Sân 3 - Orleans Masters Badminton 2026 (Link 2)
+#EXTINF:-1 tvg-id="601325452" group-title="MAMMERI / MAMMERI vs LIU Kuang Heng /  JHENG Yu Chieh 23:07 ngày 19/03 Sân 3 - Orleans Masters Badminton 2026", MAMMERI / MAMMERI vs LIU Kuang Heng /  JHENG Yu Chieh 23:07 ngày 19/03 Sân 3 - Orleans Masters Badminton 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69bbd52a70a69_18754/index.m3u8?expire=1774522282&sign=085b9e8973878a5bf8f09a4cc551e986
-#EXTINF:-1 tvg-id="601311559" group-title="Hyderabad FC vs Jamshedpur FC 21:00 ngày 19/03 Indian Super League", Hyderabad FC vs Jamshedpur FC 21:00 ngày 19/03 Indian Super League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69bbf66870a69_88186/index.m3u8?expire=1774530792&amp;sign=e4af8787ca05b80c924ca23a1268c7b3
-#EXTINF:-1 tvg-id="601311559" group-title="Hyderabad FC vs Jamshedpur FC 21:00 ngày 19/03 Indian Super League", Hyderabad FC vs Jamshedpur FC 21:00 ngày 19/03 Indian Super League (Link 2)
-https://live.alilicloud.com/live/af80edc1ed420132ed4704c444235235/playlist.m3u8
-#EXTINF:-1 tvg-id="601311559" group-title="Hyderabad FC vs Jamshedpur FC 21:00 ngày 19/03 Indian Super League", Hyderabad FC vs Jamshedpur FC 21:00 ngày 19/03 Indian Super League (Link 3)
-https://cdn-hls.taoxanh.biz/live/69bbf66870a69_88186/index.m3u8?expire=1774530792&sign=e4af8787ca05b80c924ca23a1268c7b3
 #EXTINF:-1 tvg-id="601311565" group-title="Sabah Baku vs Standard Sumgayit 22:15 ngày 19/03 Azerbaijan Premier League", Sabah Baku vs Standard Sumgayit 22:15 ngày 19/03 Azerbaijan Premier League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69bc0d3670a69_73445/index.m3u8?expire=1774536630&amp;sign=041770710749350b812609f8bc3765a6
 #EXTINF:-1 tvg-id="601311565" group-title="Sabah Baku vs Standard Sumgayit 22:15 ngày 19/03 Azerbaijan Premier League", Sabah Baku vs Standard Sumgayit 22:15 ngày 19/03 Azerbaijan Premier League (Link 2)
@@ -18,26 +12,38 @@ https://cdn-hls.taoxanh.biz/live/69bc0d3670a69_73445/index.m3u8?expire=177453663
 #EXTINF:-1 tvg-id="601311571" group-title="Metalist 1925 Kharkiv vs SC Poltava 23:00 ngày 19/03 Ukrainian Premier League", Metalist 1925 Kharkiv vs SC Poltava 23:00 ngày 19/03 Ukrainian Premier League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69bc122370a69_85514/index.m3u8?expire=1774537891&amp;sign=e2a3f8c3f28a9c0bda643d751ff5524b
 #EXTINF:-1 tvg-id="601311571" group-title="Metalist 1925 Kharkiv vs SC Poltava 23:00 ngày 19/03 Ukrainian Premier League", Metalist 1925 Kharkiv vs SC Poltava 23:00 ngày 19/03 Ukrainian Premier League (Link 2)
+https://live.alilicloud.com/live/28add979503e13605a694b856aab812a/playlist.m3u8
+#EXTINF:-1 tvg-id="601311571" group-title="Metalist 1925 Kharkiv vs SC Poltava 23:00 ngày 19/03 Ukrainian Premier League", Metalist 1925 Kharkiv vs SC Poltava 23:00 ngày 19/03 Ukrainian Premier League (Link 3)
 https://cdn-hls.taoxanh.biz/live/69bc122370a69_85514/index.m3u8?expire=1774537891&sign=e2a3f8c3f28a9c0bda643d751ff5524b
 #EXTINF:-1 tvg-id="601311574" group-title="Spartak Varna vs Ludogorets Razgrad 23:00 ngày 19/03 Bulgarian First League", Spartak Varna vs Ludogorets Razgrad 23:00 ngày 19/03 Bulgarian First League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69bc1405326d9_79/index.m3u8?expire=1774538373&amp;sign=4b8f9e3a0e556ddbad5220820aca3ffe
 #EXTINF:-1 tvg-id="601311574" group-title="Spartak Varna vs Ludogorets Razgrad 23:00 ngày 19/03 Bulgarian First League", Spartak Varna vs Ludogorets Razgrad 23:00 ngày 19/03 Bulgarian First League (Link 2)
+https://live.alilicloud.com/live/761c1b3084294047ad131d0d298a6089/playlist.m3u8
+#EXTINF:-1 tvg-id="601311574" group-title="Spartak Varna vs Ludogorets Razgrad 23:00 ngày 19/03 Bulgarian First League", Spartak Varna vs Ludogorets Razgrad 23:00 ngày 19/03 Bulgarian First League (Link 3)
 https://cdn-hls.taoxanh.biz/live/69bc1405326d9_79/index.m3u8?expire=1774538373&sign=4b8f9e3a0e556ddbad5220820aca3ffe
-#EXTINF:-1 tvg-id="601325455" group-title="Manami SUIZU vs Nozomi OKUHARA 21:30 ngày 19/03 Sân 4 - Orleans Masters Badminton 2026", Manami SUIZU vs Nozomi OKUHARA 21:30 ngày 19/03 Sân 4 - Orleans Masters Badminton 2026 (Link 1)
+#EXTINF:-1 tvg-id="601311568" group-title="Krylya Sovetov vs Lokomotiv Moscow 22:30 ngày 19/03 Russian Cup", Krylya Sovetov vs Lokomotiv Moscow 22:30 ngày 19/03 Russian Cup
+https://live.alilicloud.com/live/183c5da0194ff9ce765f3a26bbc5d73b/playlist.m3u8
+#EXTINF:-1 tvg-id="601325455" group-title="Magnus JOHANNESEN vs WANG Zheng Xing 22:30 ngày 19/03 Sân 4 - Orleans Masters Badminton 2026", Magnus JOHANNESEN vs WANG Zheng Xing 22:30 ngày 19/03 Sân 4 - Orleans Masters Badminton 2026 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69bbd8a6326d9_85706/index.m3u8?expire=1774523174&amp;sign=f28a7cf84a2b7b69eba67d35a907222a
-#EXTINF:-1 tvg-id="601325455" group-title="Manami SUIZU vs Nozomi OKUHARA 21:30 ngày 19/03 Sân 4 - Orleans Masters Badminton 2026", Manami SUIZU vs Nozomi OKUHARA 21:30 ngày 19/03 Sân 4 - Orleans Masters Badminton 2026 (Link 2)
+#EXTINF:-1 tvg-id="601325455" group-title="Magnus JOHANNESEN vs WANG Zheng Xing 22:30 ngày 19/03 Sân 4 - Orleans Masters Badminton 2026", Magnus JOHANNESEN vs WANG Zheng Xing 22:30 ngày 19/03 Sân 4 - Orleans Masters Badminton 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69bbd8a6326d9_85706/index.m3u8?expire=1774523174&sign=f28a7cf84a2b7b69eba67d35a907222a
-#EXTINF:-1 tvg-id="601325443" group-title="Wen Yu ZHANG vs Isharani BARUAH 22:00 ngày 19/03 Sân 1 - Orleans Masters Badminton 2026", Wen Yu ZHANG vs Isharani BARUAH 22:00 ngày 19/03 Sân 1 - Orleans Masters Badminton 2026 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69bc0bfb70a69_19013/index.m3u8?expire=1774536315&amp;sign=3d72714b54a452b0bea27882cfcfb01d
-#EXTINF:-1 tvg-id="601325443" group-title="Wen Yu ZHANG vs Isharani BARUAH 22:00 ngày 19/03 Sân 1 - Orleans Masters Badminton 2026", Wen Yu ZHANG vs Isharani BARUAH 22:00 ngày 19/03 Sân 1 - Orleans Masters Badminton 2026 (Link 2)
-https://cdn-hls.taoxanh.biz/live/69bbda4970a69_85714/index.m3u8?expire=1774523593&amp;sign=def1e225c56ed04521285d57d813877c
-#EXTINF:-1 tvg-id="601325443" group-title="Wen Yu ZHANG vs Isharani BARUAH 22:00 ngày 19/03 Sân 1 - Orleans Masters Badminton 2026", Wen Yu ZHANG vs Isharani BARUAH 22:00 ngày 19/03 Sân 1 - Orleans Masters Badminton 2026 (Link 3)
-https://cdn-hls.taoxanh.biz/live/69bc0bfb70a69_19013/index.m3u8?expire=1774536315&sign=3d72714b54a452b0bea27882cfcfb01d
-#EXTINF:-1 tvg-id="601325449" group-title="Christian Faust KJÆR /  Rasmus KJÆR vs KANG Khai Xing 22:00 ngày 19/03 Sân 2 - Orleans Masters Badminton 2026", Christian Faust KJÆR /  Rasmus KJÆR vs KANG Khai Xing 22:00 ngày 19/03 Sân 2 - Orleans Masters Badminton 2026 (Link 1)
+#EXTINF:-1 tvg-id="601325449" group-title="WONG Ling Ching vs Malvika BANSOD 22:40 ngày 19/03 Sân 2 - Orleans Masters Badminton 2026", WONG Ling Ching vs Malvika BANSOD 22:40 ngày 19/03 Sân 2 - Orleans Masters Badminton 2026 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69bbe3ca326d9_138846/index.m3u8?expire=1774526026&amp;sign=8e01cf8294104c7c58753568dd39f8f9
-#EXTINF:-1 tvg-id="601325449" group-title="Christian Faust KJÆR /  Rasmus KJÆR vs KANG Khai Xing 22:00 ngày 19/03 Sân 2 - Orleans Masters Badminton 2026", Christian Faust KJÆR /  Rasmus KJÆR vs KANG Khai Xing 22:00 ngày 19/03 Sân 2 - Orleans Masters Badminton 2026 (Link 2)
+#EXTINF:-1 tvg-id="601325449" group-title="WONG Ling Ching vs Malvika BANSOD 22:40 ngày 19/03 Sân 2 - Orleans Masters Badminton 2026", WONG Ling Ching vs Malvika BANSOD 22:40 ngày 19/03 Sân 2 - Orleans Masters Badminton 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69bbe3ca326d9_138846/index.m3u8?expire=1774526026&sign=8e01cf8294104c7c58753568dd39f8f9
-#EXTINF:-1 tvg-id="601325707" group-title="Zhang Z. vs Mannarino A. 22:30 ngày 19/03 ATP MIAMI 2026", Zhang Z. vs Mannarino A. 22:30 ngày 19/03 ATP MIAMI 2026 (Link 1)
+#EXTINF:-1 tvg-id="601325443" group-title="Toma Junior POPOV vs WANG Tzu Wei 23:10 ngày 19/03 Sân 1 - Orleans Masters Badminton 2026", Toma Junior POPOV vs WANG Tzu Wei 23:10 ngày 19/03 Sân 1 - Orleans Masters Badminton 2026 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69bc0bfb70a69_19013/index.m3u8?expire=1774536315&amp;sign=3d72714b54a452b0bea27882cfcfb01d
+#EXTINF:-1 tvg-id="601325443" group-title="Toma Junior POPOV vs WANG Tzu Wei 23:10 ngày 19/03 Sân 1 - Orleans Masters Badminton 2026", Toma Junior POPOV vs WANG Tzu Wei 23:10 ngày 19/03 Sân 1 - Orleans Masters Badminton 2026 (Link 2)
+https://cdn-hls.taoxanh.biz/live/69bc0bfb70a69_19013/index.m3u8?expire=1774536315&sign=3d72714b54a452b0bea27882cfcfb01d
+#EXTINF:-1 tvg-id="601325704" group-title="Blanch Dar. vs Struff J-L. 23:10 ngày 19/03 ATP MIAMI 2026", Blanch Dar. vs Struff J-L. 23:10 ngày 19/03 ATP MIAMI 2026 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69bc1b0370a69_142210/index.m3u8?expire=1774540163&amp;sign=af1823a049252022f61be3eae3db0cdf
+#EXTINF:-1 tvg-id="601325704" group-title="Blanch Dar. vs Struff J-L. 23:10 ngày 19/03 ATP MIAMI 2026", Blanch Dar. vs Struff J-L. 23:10 ngày 19/03 ATP MIAMI 2026 (Link 2)
+https://cdn-hls.taoxanh.biz/live/69bc1b0370a69_142210/index.m3u8?expire=1774540163&sign=af1823a049252022f61be3eae3db0cdf
+#EXTINF:-1 tvg-id="601325707" group-title="Zhang Z. vs Mannarino A. 23:30 ngày 19/03 ATP MIAMI 2026", Zhang Z. vs Mannarino A. 23:30 ngày 19/03 ATP MIAMI 2026 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69bc13c570a69_112310/index.m3u8?expire=1774538309&amp;sign=420f022fa3e691adb69629c9fc6f75ca
-#EXTINF:-1 tvg-id="601325707" group-title="Zhang Z. vs Mannarino A. 22:30 ngày 19/03 ATP MIAMI 2026", Zhang Z. vs Mannarino A. 22:30 ngày 19/03 ATP MIAMI 2026 (Link 2)
+#EXTINF:-1 tvg-id="601325707" group-title="Zhang Z. vs Mannarino A. 23:30 ngày 19/03 ATP MIAMI 2026", Zhang Z. vs Mannarino A. 23:30 ngày 19/03 ATP MIAMI 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69bc13c570a69_112310/index.m3u8?expire=1774538309&sign=420f022fa3e691adb69629c9fc6f75ca
+#EXTINF:-1 tvg-id="601325710" group-title="Giron M. vs Landaluce M. 23:30 ngày 19/03 ATP MIAMI 2026", Giron M. vs Landaluce M. 23:30 ngày 19/03 ATP MIAMI 2026 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69bc1fa270a69_4733/index.m3u8?expire=1774541346&amp;sign=d2e75e236f50ca9760daa12e6c3c6e84
+#EXTINF:-1 tvg-id="601325710" group-title="Giron M. vs Landaluce M. 23:30 ngày 19/03 ATP MIAMI 2026", Giron M. vs Landaluce M. 23:30 ngày 19/03 ATP MIAMI 2026 (Link 2)
+https://cdn-hls.taoxanh.biz/live/69bc1fa270a69_4733/index.m3u8?expire=1774541346&sign=d2e75e236f50ca9760daa12e6c3c6e84
