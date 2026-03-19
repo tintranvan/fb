@@ -1,16 +1,20 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="601312999" group-title="CR Flamengo vs Remo Belem (PA) 06:00 ngày 20/03 Brazilian Serie A", CR Flamengo vs Remo Belem (PA) 06:00 ngày 20/03 Brazilian Serie A
+https://live.alilicloud.com/live/3a2534ab793fb81b474d0d2838e39a3d/playlist.m3u8
 #EXTINF:-1 tvg-id="601313005" group-title="Mount Pleasant FA vs Los Angeles Galaxy 06:00 ngày 20/03 CNCF CHL", Mount Pleasant FA vs Los Angeles Galaxy 06:00 ngày 20/03 CNCF CHL (Link 1)
 https://cdn-hls.taoxanh.biz/live/69bc6b42326d9_128756/index.m3u8?expire=1774560706&amp;sign=ac74d6ab4743078ab401a4db690c0d10
 #EXTINF:-1 tvg-id="601313005" group-title="Mount Pleasant FA vs Los Angeles Galaxy 06:00 ngày 20/03 CNCF CHL", Mount Pleasant FA vs Los Angeles Galaxy 06:00 ngày 20/03 CNCF CHL (Link 2)
+https://live.alilicloud.com/live/aba0a048711b84fdf4d29937c4538378/playlist.m3u8
+#EXTINF:-1 tvg-id="601313005" group-title="Mount Pleasant FA vs Los Angeles Galaxy 06:00 ngày 20/03 CNCF CHL", Mount Pleasant FA vs Los Angeles Galaxy 06:00 ngày 20/03 CNCF CHL (Link 3)
 https://cdn-hls.taoxanh.biz/live/69bc6b42326d9_128756/index.m3u8?expire=1774560706&sign=ac74d6ab4743078ab401a4db690c0d10
-#EXTINF:-1 tvg-id="601312981" group-title="Alianza Fútbol Club vs Jaguares de Cordoba 04:10 ngày 20/03 Categoría Primera A", Alianza Fútbol Club vs Jaguares de Cordoba 04:10 ngày 20/03 Categoría Primera A
-https://live.alilicloud.com/live/d0d6ffa0ec28492ca6d6cb1f661c0410/playlist.m3u8
 #EXTINF:-1 tvg-id="601312984" group-title="Orense SC vs Mushuc Runa 04:30 ngày 20/03 LigaPro Serie A", Orense SC vs Mushuc Runa 04:30 ngày 20/03 LigaPro Serie A
 https://live.alilicloud.com/live/8eea7f1118485eb1c6a04390fb2f90f2/playlist.m3u8
 #EXTINF:-1 tvg-id="601312987" group-title="Gremio (RS) vs Vitoria BA 05:00 ngày 20/03 Brazilian Serie A", Gremio (RS) vs Vitoria BA 05:00 ngày 20/03 Brazilian Serie A
 https://live.alilicloud.com/live/79ebd7238dbfc08aa2b0ddf3ff849b69/playlist.m3u8
 #EXTINF:-1 tvg-id="601312990" group-title="Carolina Core vs Virginia Dream 05:00 ngày 20/03 United States Open Cup", Carolina Core vs Virginia Dream 05:00 ngày 20/03 United States Open Cup
 https://live.alilicloud.com/live/57e811c2b2b263271ee0755081c7c80e/playlist.m3u8
+#EXTINF:-1 tvg-id="601312993" group-title="Charlotte Independence vs Ristozi FC 05:30 ngày 20/03 United States Open Cup", Charlotte Independence vs Ristozi FC 05:30 ngày 20/03 United States Open Cup
+https://live.alilicloud.com/live/efc886ada7e20fb049b4986064da7378/playlist.m3u8
 #EXTINF:-1 tvg-id="601325530" group-title="Charlotte Hornets vs Orlando Magic 06:00 ngày 20/03 NBA", Charlotte Hornets vs Orlando Magic 06:00 ngày 20/03 NBA (Link 1)
 https://cdn-hls.taoxanh.biz/live/69bc77fb326d9_42127/index.m3u8?expire=1774563963&amp;sign=8d1a63f15ac06e03a3ad5210a706080a
 #EXTINF:-1 tvg-id="601325530" group-title="Charlotte Hornets vs Orlando Magic 06:00 ngày 20/03 NBA", Charlotte Hornets vs Orlando Magic 06:00 ngày 20/03 NBA (Link 2)
