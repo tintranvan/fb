@@ -1,14 +1,22 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601324708" group-title="Công an TPHCM vs TPHCM 16:00 ngày 19/03 Cúp Hoa Lư 2026 - Nam", Công an TPHCM vs TPHCM 16:00 ngày 19/03 Cúp Hoa Lư 2026 - Nam (Link 1)
-https://cdn-hls.taoxanh.biz/live/69bbb33a70a69_128756/index.m3u8?expire=1774513594&amp;sign=dfa1684c73d96f8984fce403202b36a5
-#EXTINF:-1 tvg-id="601324708" group-title="Công an TPHCM vs TPHCM 16:00 ngày 19/03 Cúp Hoa Lư 2026 - Nam", Công an TPHCM vs TPHCM 16:00 ngày 19/03 Cúp Hoa Lư 2026 - Nam (Link 2)
-https://cdn-hls.taoxanh.biz/live/69bbb33a70a69_128756/index.m3u8?expire=1774513594&sign=dfa1684c73d96f8984fce403202b36a5
 #EXTINF:-1 tvg-id="601311523" group-title="Chinese Taipei (w) vs North Korea (w) 16:00 ngày 19/03 AFC Women’s Asian Cup", Chinese Taipei (w) vs North Korea (w) 16:00 ngày 19/03 AFC Women’s Asian Cup (Link 1)
 https://cdn-hls.taoxanh.biz/live/69bbb2e5326d9_88642/index.m3u8?expire=1774513509&amp;sign=4597d8a426caff298e13a6c50287f177
 #EXTINF:-1 tvg-id="601311523" group-title="Chinese Taipei (w) vs North Korea (w) 16:00 ngày 19/03 AFC Women’s Asian Cup", Chinese Taipei (w) vs North Korea (w) 16:00 ngày 19/03 AFC Women’s Asian Cup (Link 2)
 https://live.alilicloud.com/live/753eafc9b95d0bb4a472ab4403c85318/playlist.m3u8
 #EXTINF:-1 tvg-id="601311523" group-title="Chinese Taipei (w) vs North Korea (w) 16:00 ngày 19/03 AFC Women’s Asian Cup", Chinese Taipei (w) vs North Korea (w) 16:00 ngày 19/03 AFC Women’s Asian Cup (Link 3)
 https://cdn-hls.taoxanh.biz/live/69bbb2e5326d9_88642/index.m3u8?expire=1774513509&sign=4597d8a426caff298e13a6c50287f177
+#EXTINF:-1 tvg-id="601311526" group-title="Chanmari FC vs Shillong Lajong FC 17:30 ngày 19/03 Indian League Division 1", Chanmari FC vs Shillong Lajong FC 17:30 ngày 19/03 Indian League Division 1 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69bbc3fd326d9_95554/index.m3u8?expire=1774517885&amp;sign=abfe16653e0185de0c46d74fa91abe5e
+#EXTINF:-1 tvg-id="601311526" group-title="Chanmari FC vs Shillong Lajong FC 17:30 ngày 19/03 Indian League Division 1", Chanmari FC vs Shillong Lajong FC 17:30 ngày 19/03 Indian League Division 1 (Link 2)
+https://cdn-hls.taoxanh.biz/live/69bbc3fd326d9_95554/index.m3u8?expire=1774517885&sign=abfe16653e0185de0c46d74fa91abe5e
+#EXTINF:-1 tvg-id="601311529" group-title="FK Oleksandria vs Dynamo Kyiv 18:00 ngày 19/03 Ukrainian Premier League", FK Oleksandria vs Dynamo Kyiv 18:00 ngày 19/03 Ukrainian Premier League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69bbc7a0326d9_128756/index.m3u8?expire=1774518816&amp;sign=5322e8730d930fa814902597faeb9f25
+#EXTINF:-1 tvg-id="601311529" group-title="FK Oleksandria vs Dynamo Kyiv 18:00 ngày 19/03 Ukrainian Premier League", FK Oleksandria vs Dynamo Kyiv 18:00 ngày 19/03 Ukrainian Premier League (Link 2)
+https://cdn-hls.taoxanh.biz/live/69bbc7a0326d9_128756/index.m3u8?expire=1774518816&sign=5322e8730d930fa814902597faeb9f25
+#EXTINF:-1 tvg-id="601311538" group-title="Karvan Evlakh vs Zira FK 18:00 ngày 19/03 Azerbaijan Premier League", Karvan Evlakh vs Zira FK 18:00 ngày 19/03 Azerbaijan Premier League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69bbc86f326d9_28/index.m3u8?expire=1774519023&amp;sign=dc79a2e57157e426b5c4d541eb8bac5a
+#EXTINF:-1 tvg-id="601311538" group-title="Karvan Evlakh vs Zira FK 18:00 ngày 19/03 Azerbaijan Premier League", Karvan Evlakh vs Zira FK 18:00 ngày 19/03 Azerbaijan Premier League (Link 2)
+https://cdn-hls.taoxanh.biz/live/69bbc86f326d9_28/index.m3u8?expire=1774519023&sign=dc79a2e57157e426b5c4d541eb8bac5a
 #EXTINF:-1 tvg-id="601311520" group-title="Solomon Kings FC vs South Melbourne 15:00 ngày 19/03 OFC P L", Solomon Kings FC vs South Melbourne 15:00 ngày 19/03 OFC P L
 https://live.alilicloud.com/live/7fd2f343efeb03f13dd0580f97fd4189/playlist.m3u8
 #EXTINF:-1 tvg-id="601324732" group-title="Judd Trump vs Robbie Williams 18:30 ngày 19/03 World Open 2026", Judd Trump vs Robbie Williams 18:30 ngày 19/03 World Open 2026 (Link 1)
