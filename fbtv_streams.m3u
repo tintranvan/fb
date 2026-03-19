@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601311526" group-title="Chanmari FC vs Shillong Lajong FC 17:30 ngày 19/03 Indian League Division 1", Chanmari FC vs Shillong Lajong FC 17:30 ngày 19/03 Indian League Division 1 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69bbc3fd326d9_95554/index.m3u8?expire=1774517885&amp;sign=abfe16653e0185de0c46d74fa91abe5e
-#EXTINF:-1 tvg-id="601311526" group-title="Chanmari FC vs Shillong Lajong FC 17:30 ngày 19/03 Indian League Division 1", Chanmari FC vs Shillong Lajong FC 17:30 ngày 19/03 Indian League Division 1 (Link 2)
-https://live.alilicloud.com/live/f3fee22c151113938a768029c93f286c/playlist.m3u8
-#EXTINF:-1 tvg-id="601311526" group-title="Chanmari FC vs Shillong Lajong FC 17:30 ngày 19/03 Indian League Division 1", Chanmari FC vs Shillong Lajong FC 17:30 ngày 19/03 Indian League Division 1 (Link 3)
-https://cdn-hls.taoxanh.biz/live/69bbc3fd326d9_95554/index.m3u8?expire=1774517885&sign=abfe16653e0185de0c46d74fa91abe5e
 #EXTINF:-1 tvg-id="601311529" group-title="FK Oleksandria vs Dynamo Kyiv 18:00 ngày 19/03 Ukrainian Premier League", FK Oleksandria vs Dynamo Kyiv 18:00 ngày 19/03 Ukrainian Premier League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69bbc7a0326d9_128756/index.m3u8?expire=1774518816&amp;sign=5322e8730d930fa814902597faeb9f25
 #EXTINF:-1 tvg-id="601311529" group-title="FK Oleksandria vs Dynamo Kyiv 18:00 ngày 19/03 Ukrainian Premier League", FK Oleksandria vs Dynamo Kyiv 18:00 ngày 19/03 Ukrainian Premier League (Link 2)
@@ -21,6 +15,12 @@ https://cdn-hls.taoxanh.biz/live/69bbc21470a69_85514/index.m3u8?expire=177451739
 https://live.alilicloud.com/live/215db298a42a691bd6e949e56858c843/playlist.m3u8
 #EXTINF:-1 tvg-id="601311541" group-title="Simal FK vs Zaqatala FK 18:00 ngày 19/03 Azerbaijan First Division", Simal FK vs Zaqatala FK 18:00 ngày 19/03 Azerbaijan First Division (Link 3)
 https://cdn-hls.taoxanh.biz/live/69bbc21470a69_85514/index.m3u8?expire=1774517396&sign=6c425c0a517f3eea7f854d4762565a28
+#EXTINF:-1 tvg-id="601311544" group-title="Difai Agsu FK vs Cəbrayıl FK 18:00 ngày 19/03 Azerbaijan First Division", Difai Agsu FK vs Cəbrayıl FK 18:00 ngày 19/03 Azerbaijan First Division (Link 1)
+https://cdn-hls.taoxanh.biz/live/69bbce04326d9_79/index.m3u8?expire=1774520452&amp;sign=12a803f990a3c822d3cfbaae2422fdf3
+#EXTINF:-1 tvg-id="601311544" group-title="Difai Agsu FK vs Cəbrayıl FK 18:00 ngày 19/03 Azerbaijan First Division", Difai Agsu FK vs Cəbrayıl FK 18:00 ngày 19/03 Azerbaijan First Division (Link 2)
+https://live.alilicloud.com/live/d509a2b0e95a6fadc833969fa7659f1a/playlist.m3u8
+#EXTINF:-1 tvg-id="601311544" group-title="Difai Agsu FK vs Cəbrayıl FK 18:00 ngày 19/03 Azerbaijan First Division", Difai Agsu FK vs Cəbrayıl FK 18:00 ngày 19/03 Azerbaijan First Division (Link 3)
+https://cdn-hls.taoxanh.biz/live/69bbce04326d9_79/index.m3u8?expire=1774520452&sign=12a803f990a3c822d3cfbaae2422fdf3
 #EXTINF:-1 tvg-id="601324732" group-title="Judd Trump vs Robbie Williams 18:30 ngày 19/03 World Open 2026", Judd Trump vs Robbie Williams 18:30 ngày 19/03 World Open 2026 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69bb8a24326d9_142246/index.m3u8?expire=1774503076&amp;sign=76109caf4f55c59f2be0b442065c80f6
 #EXTINF:-1 tvg-id="601324732" group-title="Judd Trump vs Robbie Williams 18:30 ngày 19/03 World Open 2026", Judd Trump vs Robbie Williams 18:30 ngày 19/03 World Open 2026 (Link 2)
@@ -29,18 +29,18 @@ https://cdn-hls.taoxanh.biz/live/69bb8a24326d9_142246/index.m3u8?expire=17745030
 https://cdn-hls.taoxanh.biz/live/69bbda4970a69_85714/index.m3u8?expire=1774523593&amp;sign=def1e225c56ed04521285d57d813877c
 #EXTINF:-1 tvg-id="601325443" group-title="Hathaithip MIJAD /  N.TUNGKASATAN vs R HIROKAMI/S HOBARA 18:00 ngày 19/03 Sân 1 - Orleans Masters Badminton 2026", Hathaithip MIJAD /  N.TUNGKASATAN vs R HIROKAMI/S HOBARA 18:00 ngày 19/03 Sân 1 - Orleans Masters Badminton 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69bbda4970a69_85714/index.m3u8?expire=1774523593&sign=def1e225c56ed04521285d57d813877c
-#EXTINF:-1 tvg-id="601325452" group-title="LIN Xiao Min / WANG Yu Qiao vs BAO Li Jing /  LUO Xu Min 18:00 ngày 19/03 Sân 3 - Orleans Masters Badminton 2026", LIN Xiao Min / WANG Yu Qiao vs BAO Li Jing /  LUO Xu Min 18:00 ngày 19/03 Sân 3 - Orleans Masters Badminton 2026 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69bbd52a70a69_18754/index.m3u8?expire=1774522282&amp;sign=085b9e8973878a5bf8f09a4cc551e986
-#EXTINF:-1 tvg-id="601325452" group-title="LIN Xiao Min / WANG Yu Qiao vs BAO Li Jing /  LUO Xu Min 18:00 ngày 19/03 Sân 3 - Orleans Masters Badminton 2026", LIN Xiao Min / WANG Yu Qiao vs BAO Li Jing /  LUO Xu Min 18:00 ngày 19/03 Sân 3 - Orleans Masters Badminton 2026 (Link 2)
-https://cdn-hls.taoxanh.biz/live/69bbd52a70a69_18754/index.m3u8?expire=1774522282&sign=085b9e8973878a5bf8f09a4cc551e986
+#EXTINF:-1 tvg-id="601325449" group-title="AMSAKARUNAN /  M.R. ARJUN vs A. DUNN / J. MACPHERSON 18:00 ngày 19/03 Sân 2 - Orleans Masters Badminton 2026", AMSAKARUNAN /  M.R. ARJUN vs A. DUNN / J. MACPHERSON 18:00 ngày 19/03 Sân 2 - Orleans Masters Badminton 2026 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69bbe3ca326d9_138846/index.m3u8?expire=1774526026&amp;sign=8e01cf8294104c7c58753568dd39f8f9
+#EXTINF:-1 tvg-id="601325449" group-title="AMSAKARUNAN /  M.R. ARJUN vs A. DUNN / J. MACPHERSON 18:00 ngày 19/03 Sân 2 - Orleans Masters Badminton 2026", AMSAKARUNAN /  M.R. ARJUN vs A. DUNN / J. MACPHERSON 18:00 ngày 19/03 Sân 2 - Orleans Masters Badminton 2026 (Link 2)
+https://cdn-hls.taoxanh.biz/live/69bbe3ca326d9_138846/index.m3u8?expire=1774526026&sign=8e01cf8294104c7c58753568dd39f8f9
 #EXTINF:-1 tvg-id="601325455" group-title="Eng Keat Wesley KOH / Junsuke KUBO vs Hiroki OKAMURA/Kyohei YAMASHITA 18:00 ngày 19/03 Sân 4 - Orleans Masters Badminton 2026", Eng Keat Wesley KOH / Junsuke KUBO vs Hiroki OKAMURA/Kyohei YAMASHITA 18:00 ngày 19/03 Sân 4 - Orleans Masters Badminton 2026 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69bbd8a6326d9_85706/index.m3u8?expire=1774523174&amp;sign=f28a7cf84a2b7b69eba67d35a907222a
 #EXTINF:-1 tvg-id="601325455" group-title="Eng Keat Wesley KOH / Junsuke KUBO vs Hiroki OKAMURA/Kyohei YAMASHITA 18:00 ngày 19/03 Sân 4 - Orleans Masters Badminton 2026", Eng Keat Wesley KOH / Junsuke KUBO vs Hiroki OKAMURA/Kyohei YAMASHITA 18:00 ngày 19/03 Sân 4 - Orleans Masters Badminton 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69bbd8a6326d9_85706/index.m3u8?expire=1774523174&sign=f28a7cf84a2b7b69eba67d35a907222a
-#EXTINF:-1 tvg-id="601325428" group-title="Goyang Sono vs KCC Egis 17:00 ngày 19/03 KBL", Goyang Sono vs KCC Egis 17:00 ngày 19/03 KBL (Link 1)
-https://cdn-hls.taoxanh.biz/live/69bbcc95326d9_112310/index.m3u8?expire=1774520085&amp;sign=7623758764560b5e00a06fad824bc278
-#EXTINF:-1 tvg-id="601325428" group-title="Goyang Sono vs KCC Egis 17:00 ngày 19/03 KBL", Goyang Sono vs KCC Egis 17:00 ngày 19/03 KBL (Link 2)
-https://cdn-hls.taoxanh.biz/live/69bbcc95326d9_112310/index.m3u8?expire=1774520085&sign=7623758764560b5e00a06fad824bc278
+#EXTINF:-1 tvg-id="601325452" group-title="Kakeru KUMAGAI / Hiroki NISHI vs Mihajlo TOMIC/ Andjela Vitman 19:30 ngày 19/03 Sân 3 - Orleans Masters Badminton 2026", Kakeru KUMAGAI / Hiroki NISHI vs Mihajlo TOMIC/ Andjela Vitman 19:30 ngày 19/03 Sân 3 - Orleans Masters Badminton 2026 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69bbd52a70a69_18754/index.m3u8?expire=1774522282&amp;sign=085b9e8973878a5bf8f09a4cc551e986
+#EXTINF:-1 tvg-id="601325452" group-title="Kakeru KUMAGAI / Hiroki NISHI vs Mihajlo TOMIC/ Andjela Vitman 19:30 ngày 19/03 Sân 3 - Orleans Masters Badminton 2026", Kakeru KUMAGAI / Hiroki NISHI vs Mihajlo TOMIC/ Andjela Vitman 19:30 ngày 19/03 Sân 3 - Orleans Masters Badminton 2026 (Link 2)
+https://cdn-hls.taoxanh.biz/live/69bbd52a70a69_18754/index.m3u8?expire=1774522282&sign=085b9e8973878a5bf8f09a4cc551e986
 #EXTINF:-1 tvg-id="601325431" group-title="Fujian vs Beijing 18:30 ngày 19/03 CBA", Fujian vs Beijing 18:30 ngày 19/03 CBA (Link 1)
 https://cdn-hls.taoxanh.biz/live/69bbdaf4326d9_42127/index.m3u8?expire=1774523764&amp;sign=5ce150ae30711e6955b0ae19f744d24d
 #EXTINF:-1 tvg-id="601325431" group-title="Fujian vs Beijing 18:30 ngày 19/03 CBA", Fujian vs Beijing 18:30 ngày 19/03 CBA (Link 2)
@@ -49,7 +49,3 @@ https://cdn-hls.taoxanh.biz/live/69bbdaf4326d9_42127/index.m3u8?expire=177452376
 https://cdn-hls.taoxanh.biz/live/69bbd5db70a69_4733/index.m3u8?expire=1774522459&amp;sign=d9da55807e59530147a7dc5ef822ddb4
 #EXTINF:-1 tvg-id="601325434" group-title="Sichuan vs Ningbo Rockets 18:30 ngày 19/03 CBA", Sichuan vs Ningbo Rockets 18:30 ngày 19/03 CBA (Link 2)
 https://cdn-hls.taoxanh.biz/live/69bbd5db70a69_4733/index.m3u8?expire=1774522459&sign=d9da55807e59530147a7dc5ef822ddb4
-#EXTINF:-1 tvg-id="601309447" group-title="Hyundai Skywalkers vs KAL Jumbos 17:00 ngày 19/03 Volleyball League", Hyundai Skywalkers vs KAL Jumbos 17:00 ngày 19/03 Volleyball League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69bbca0e70a69_142210/index.m3u8?expire=1774519438&amp;sign=a4cf120e5bad4e171bcdc3785cda0ab3
-#EXTINF:-1 tvg-id="601309447" group-title="Hyundai Skywalkers vs KAL Jumbos 17:00 ngày 19/03 Volleyball League", Hyundai Skywalkers vs KAL Jumbos 17:00 ngày 19/03 Volleyball League (Link 2)
-https://cdn-hls.taoxanh.biz/live/69bbca0e70a69_142210/index.m3u8?expire=1774519438&sign=a4cf120e5bad4e171bcdc3785cda0ab3
