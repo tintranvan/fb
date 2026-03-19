@@ -1,13 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601311523" group-title="Chinese Taipei (w) vs North Korea (w) 16:00 ngày 19/03 AFC Women’s Asian Cup", Chinese Taipei (w) vs North Korea (w) 16:00 ngày 19/03 AFC Women’s Asian Cup (Link 1)
-https://cdn-hls.taoxanh.biz/live/69bbb2e5326d9_88642/index.m3u8?expire=1774513509&amp;sign=4597d8a426caff298e13a6c50287f177
-#EXTINF:-1 tvg-id="601311523" group-title="Chinese Taipei (w) vs North Korea (w) 16:00 ngày 19/03 AFC Women’s Asian Cup", Chinese Taipei (w) vs North Korea (w) 16:00 ngày 19/03 AFC Women’s Asian Cup (Link 2)
-https://live.alilicloud.com/live/753eafc9b95d0bb4a472ab4403c85318/playlist.m3u8
-#EXTINF:-1 tvg-id="601311523" group-title="Chinese Taipei (w) vs North Korea (w) 16:00 ngày 19/03 AFC Women’s Asian Cup", Chinese Taipei (w) vs North Korea (w) 16:00 ngày 19/03 AFC Women’s Asian Cup (Link 3)
-https://cdn-hls.taoxanh.biz/live/69bbb2e5326d9_88642/index.m3u8?expire=1774513509&sign=4597d8a426caff298e13a6c50287f177
 #EXTINF:-1 tvg-id="601311526" group-title="Chanmari FC vs Shillong Lajong FC 17:30 ngày 19/03 Indian League Division 1", Chanmari FC vs Shillong Lajong FC 17:30 ngày 19/03 Indian League Division 1 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69bbc3fd326d9_95554/index.m3u8?expire=1774517885&amp;sign=abfe16653e0185de0c46d74fa91abe5e
 #EXTINF:-1 tvg-id="601311526" group-title="Chanmari FC vs Shillong Lajong FC 17:30 ngày 19/03 Indian League Division 1", Chanmari FC vs Shillong Lajong FC 17:30 ngày 19/03 Indian League Division 1 (Link 2)
+https://live.alilicloud.com/live/f3fee22c151113938a768029c93f286c/playlist.m3u8
+#EXTINF:-1 tvg-id="601311526" group-title="Chanmari FC vs Shillong Lajong FC 17:30 ngày 19/03 Indian League Division 1", Chanmari FC vs Shillong Lajong FC 17:30 ngày 19/03 Indian League Division 1 (Link 3)
 https://cdn-hls.taoxanh.biz/live/69bbc3fd326d9_95554/index.m3u8?expire=1774517885&sign=abfe16653e0185de0c46d74fa91abe5e
 #EXTINF:-1 tvg-id="601311529" group-title="FK Oleksandria vs Dynamo Kyiv 18:00 ngày 19/03 Ukrainian Premier League", FK Oleksandria vs Dynamo Kyiv 18:00 ngày 19/03 Ukrainian Premier League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69bbc7a0326d9_128756/index.m3u8?expire=1774518816&amp;sign=5322e8730d930fa814902597faeb9f25
@@ -17,9 +13,27 @@ https://cdn-hls.taoxanh.biz/live/69bbc7a0326d9_128756/index.m3u8?expire=17745188
 https://cdn-hls.taoxanh.biz/live/69bbc86f326d9_28/index.m3u8?expire=1774519023&amp;sign=dc79a2e57157e426b5c4d541eb8bac5a
 #EXTINF:-1 tvg-id="601311538" group-title="Karvan Evlakh vs Zira FK 18:00 ngày 19/03 Azerbaijan Premier League", Karvan Evlakh vs Zira FK 18:00 ngày 19/03 Azerbaijan Premier League (Link 2)
 https://cdn-hls.taoxanh.biz/live/69bbc86f326d9_28/index.m3u8?expire=1774519023&sign=dc79a2e57157e426b5c4d541eb8bac5a
-#EXTINF:-1 tvg-id="601311520" group-title="Solomon Kings FC vs South Melbourne 15:00 ngày 19/03 OFC P L", Solomon Kings FC vs South Melbourne 15:00 ngày 19/03 OFC P L
-https://live.alilicloud.com/live/7fd2f343efeb03f13dd0580f97fd4189/playlist.m3u8
+#EXTINF:-1 tvg-id="601311541" group-title="Simal FK vs Zaqatala FK 18:00 ngày 19/03 Azerbaijan First Division", Simal FK vs Zaqatala FK 18:00 ngày 19/03 Azerbaijan First Division (Link 1)
+https://cdn-hls.taoxanh.biz/live/69bbc21470a69_85514/index.m3u8?expire=1774517396&amp;sign=6c425c0a517f3eea7f854d4762565a28
+#EXTINF:-1 tvg-id="601311541" group-title="Simal FK vs Zaqatala FK 18:00 ngày 19/03 Azerbaijan First Division", Simal FK vs Zaqatala FK 18:00 ngày 19/03 Azerbaijan First Division (Link 2)
+https://cdn-hls.taoxanh.biz/live/69bbc21470a69_85514/index.m3u8?expire=1774517396&sign=6c425c0a517f3eea7f854d4762565a28
 #EXTINF:-1 tvg-id="601324732" group-title="Judd Trump vs Robbie Williams 18:30 ngày 19/03 World Open 2026", Judd Trump vs Robbie Williams 18:30 ngày 19/03 World Open 2026 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69bb8a1e326d9_142246/index.m3u8?expire=1774503070&amp;sign=862180408877927125107e0319d6f3b7
 #EXTINF:-1 tvg-id="601324732" group-title="Judd Trump vs Robbie Williams 18:30 ngày 19/03 World Open 2026", Judd Trump vs Robbie Williams 18:30 ngày 19/03 World Open 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69bb8a1e326d9_142246/index.m3u8?expire=1774503070&sign=862180408877927125107e0319d6f3b7
+#EXTINF:-1 tvg-id="601325452" group-title="LIN Xiao Min / WANG Yu Qiao vs BAO Li Jing /  LUO Xu Min 18:00 ngày 19/03 Sân 3 - Orleans Masters Badminton 2026", LIN Xiao Min / WANG Yu Qiao vs BAO Li Jing /  LUO Xu Min 18:00 ngày 19/03 Sân 3 - Orleans Masters Badminton 2026 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69bbd52a70a69_18754/index.m3u8?expire=1774522282&amp;sign=085b9e8973878a5bf8f09a4cc551e986
+#EXTINF:-1 tvg-id="601325452" group-title="LIN Xiao Min / WANG Yu Qiao vs BAO Li Jing /  LUO Xu Min 18:00 ngày 19/03 Sân 3 - Orleans Masters Badminton 2026", LIN Xiao Min / WANG Yu Qiao vs BAO Li Jing /  LUO Xu Min 18:00 ngày 19/03 Sân 3 - Orleans Masters Badminton 2026 (Link 2)
+https://cdn-hls.taoxanh.biz/live/69bbd52a70a69_18754/index.m3u8?expire=1774522282&sign=085b9e8973878a5bf8f09a4cc551e986
+#EXTINF:-1 tvg-id="601325428" group-title="Goyang Sono vs KCC Egis 17:00 ngày 19/03 KBL", Goyang Sono vs KCC Egis 17:00 ngày 19/03 KBL (Link 1)
+https://cdn-hls.taoxanh.biz/live/69bbcc95326d9_112310/index.m3u8?expire=1774520085&amp;sign=7623758764560b5e00a06fad824bc278
+#EXTINF:-1 tvg-id="601325428" group-title="Goyang Sono vs KCC Egis 17:00 ngày 19/03 KBL", Goyang Sono vs KCC Egis 17:00 ngày 19/03 KBL (Link 2)
+https://cdn-hls.taoxanh.biz/live/69bbcc95326d9_112310/index.m3u8?expire=1774520085&sign=7623758764560b5e00a06fad824bc278
+#EXTINF:-1 tvg-id="601325434" group-title="Sichuan vs Ningbo Rockets 18:30 ngày 19/03 CBA", Sichuan vs Ningbo Rockets 18:30 ngày 19/03 CBA (Link 1)
+https://cdn-hls.taoxanh.biz/live/69bbd5db70a69_4733/index.m3u8?expire=1774522459&amp;sign=d9da55807e59530147a7dc5ef822ddb4
+#EXTINF:-1 tvg-id="601325434" group-title="Sichuan vs Ningbo Rockets 18:30 ngày 19/03 CBA", Sichuan vs Ningbo Rockets 18:30 ngày 19/03 CBA (Link 2)
+https://cdn-hls.taoxanh.biz/live/69bbd5db70a69_4733/index.m3u8?expire=1774522459&sign=d9da55807e59530147a7dc5ef822ddb4
+#EXTINF:-1 tvg-id="601309447" group-title="Hyundai Skywalkers vs KAL Jumbos 17:00 ngày 19/03 Volleyball League", Hyundai Skywalkers vs KAL Jumbos 17:00 ngày 19/03 Volleyball League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69bbca0e70a69_142210/index.m3u8?expire=1774519438&amp;sign=a4cf120e5bad4e171bcdc3785cda0ab3
+#EXTINF:-1 tvg-id="601309447" group-title="Hyundai Skywalkers vs KAL Jumbos 17:00 ngày 19/03 Volleyball League", Hyundai Skywalkers vs KAL Jumbos 17:00 ngày 19/03 Volleyball League (Link 2)
+https://cdn-hls.taoxanh.biz/live/69bbca0e70a69_142210/index.m3u8?expire=1774519438&sign=a4cf120e5bad4e171bcdc3785cda0ab3
