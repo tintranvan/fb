@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601313074" group-title="Sydney FC Women vs Wellington Phoenix Women 15:00 ngày 20/03 Australia W-League", Sydney FC Women vs Wellington Phoenix Women 15:00 ngày 20/03 Australia W-League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69bcf76a70a69_28/index.m3u8?expire=1774596586&amp;sign=ff9549e04325740ae08b5e148dc91561
-#EXTINF:-1 tvg-id="601313074" group-title="Sydney FC Women vs Wellington Phoenix Women 15:00 ngày 20/03 Australia W-League", Sydney FC Women vs Wellington Phoenix Women 15:00 ngày 20/03 Australia W-League (Link 2)
-https://live.alilicloud.com/live/d20205d1209725588bc57c658f4b6fb9/playlist.m3u8
-#EXTINF:-1 tvg-id="601313074" group-title="Sydney FC Women vs Wellington Phoenix Women 15:00 ngày 20/03 Australia W-League", Sydney FC Women vs Wellington Phoenix Women 15:00 ngày 20/03 Australia W-League (Link 3)
-https://cdn-hls.taoxanh.biz/live/69bcf76a70a69_28/index.m3u8?expire=1774596586&sign=ff9549e04325740ae08b5e148dc91561
 #EXTINF:-1 tvg-id="601313083" group-title="Sydney FC (Youth) vs University NSW 15:30 ngày 20/03 Australia New South Wales Premier League", Sydney FC (Youth) vs University NSW 15:30 ngày 20/03 Australia New South Wales Premier League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69bd031d70a69_73445/index.m3u8?expire=1774599581&amp;sign=a26df325f456f833f2d570edfc3093c5
 #EXTINF:-1 tvg-id="601313083" group-title="Sydney FC (Youth) vs University NSW 15:30 ngày 20/03 Australia New South Wales Premier League", Sydney FC (Youth) vs University NSW 15:30 ngày 20/03 Australia New South Wales Premier League (Link 2)
@@ -17,16 +11,22 @@ https://cdn-hls.taoxanh.biz/live/69bcff5f70a69_88186/index.m3u8?expire=177459862
 https://live.alilicloud.com/live/9bb3d5ef36a2521497ef44429a3211e4/playlist.m3u8
 #EXTINF:-1 tvg-id="601313086" group-title="Bentleigh greens vs Green Gully Cavaliers 15:30 ngày 20/03 National Premier Leagues Victoria", Bentleigh greens vs Green Gully Cavaliers 15:30 ngày 20/03 National Premier Leagues Victoria (Link 3)
 https://cdn-hls.taoxanh.biz/live/69bcff5f70a69_88186/index.m3u8?expire=1774598623&sign=5d605a3b0fa9ec58faf9810ac8fce484
-#EXTINF:-1 tvg-id="601325638" group-title="Flinders United (W) vs West Torrens Birkalla (w) 14:45 ngày 20/03 South Australia Women's Premier League", Flinders United (W) vs West Torrens Birkalla (w) 14:45 ngày 20/03 South Australia Women's Premier League
-https://live.alilicloud.com/live/4158daf0d469b20bec5cde378896ac58/playlist.m3u8
-#EXTINF:-1 tvg-id="601325641" group-title="Adelaide Comets (w) vs Modbury Vista (w) 14:45 ngày 20/03 South Australia Women's Premier League", Adelaide Comets (w) vs Modbury Vista (w) 14:45 ngày 20/03 South Australia Women's Premier League
-https://live.alilicloud.com/live/a927cf53c22ef6f7849c9d351e4215d8/playlist.m3u8
 #EXTINF:-1 tvg-id="601313089" group-title="Western Sydney vs Adelaide United 15:35 ngày 20/03 Australia A-League", Western Sydney vs Adelaide United 15:35 ngày 20/03 Australia A-League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69bcfab270a69_95554/index.m3u8?expire=1774597426&amp;sign=35380e34486ebdf65f74e26b2e3ca63f
 #EXTINF:-1 tvg-id="601313089" group-title="Western Sydney vs Adelaide United 15:35 ngày 20/03 Australia A-League", Western Sydney vs Adelaide United 15:35 ngày 20/03 Australia A-League (Link 2)
 https://live.alilicloud.com/live/8ebe73ad3f21838df38ead0e073a2593/playlist.m3u8
 #EXTINF:-1 tvg-id="601313089" group-title="Western Sydney vs Adelaide United 15:35 ngày 20/03 Australia A-League", Western Sydney vs Adelaide United 15:35 ngày 20/03 Australia A-League (Link 3)
 https://cdn-hls.taoxanh.biz/live/69bcfab270a69_95554/index.m3u8?expire=1774597426&sign=35380e34486ebdf65f74e26b2e3ca63f
+#EXTINF:-1 tvg-id="601313062" group-title="Box Hill (w) vs Melbourne Victory FC Youth(W) 15:30 ngày 20/03 Australia Victorian Women's Premier League", Box Hill (w) vs Melbourne Victory FC Youth(W) 15:30 ngày 20/03 Australia Victorian Women's Premier League
+https://live.alilicloud.com/live/f793b6473c5959c8f0a33ffb6ed77f43/playlist.m3u8
+#EXTINF:-1 tvg-id="601313092" group-title="Dandenong City SC vs Hume City 15:45 ngày 20/03 National Premier Leagues Victoria", Dandenong City SC vs Hume City 15:45 ngày 20/03 National Premier Leagues Victoria (Link 1)
+https://cdn-hls.taoxanh.biz/live/69bd000f326d9_44731/index.m3u8?expire=1774598799&amp;sign=bd6e4d501d28d71bb3d3404306de1cf3
+#EXTINF:-1 tvg-id="601313092" group-title="Dandenong City SC vs Hume City 15:45 ngày 20/03 National Premier Leagues Victoria", Dandenong City SC vs Hume City 15:45 ngày 20/03 National Premier Leagues Victoria (Link 2)
+https://live.alilicloud.com/live/06cae0f1615f866d07db7ae4e22d3969/playlist.m3u8
+#EXTINF:-1 tvg-id="601313092" group-title="Dandenong City SC vs Hume City 15:45 ngày 20/03 National Premier Leagues Victoria", Dandenong City SC vs Hume City 15:45 ngày 20/03 National Premier Leagues Victoria (Link 3)
+https://cdn-hls.taoxanh.biz/live/69bd000f326d9_44731/index.m3u8?expire=1774598799&sign=bd6e4d501d28d71bb3d3404306de1cf3
+#EXTINF:-1 tvg-id="601315447" group-title="Manly Utd (w) vs Northern Tigers FC (w) 15:40 ngày 20/03 Australia New South Wales Women's League", Manly Utd (w) vs Northern Tigers FC (w) 15:40 ngày 20/03 Australia New South Wales Women's League
+https://live.alilicloud.com/live/34b90f879789d8f004de0ffb09960cde/playlist.m3u8
 #EXTINF:-1 tvg-id="601326685" group-title="Judd Trump vs Hossein Vafaei 18:30 ngày 20/03 World Open 2026", Judd Trump vs Hossein Vafaei 18:30 ngày 20/03 World Open 2026 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69bcddb7326d9_142246/index.m3u8?expire=1774590007&amp;sign=7f810e2cdd864caaa5766ade4532029a
 #EXTINF:-1 tvg-id="601326685" group-title="Judd Trump vs Hossein Vafaei 18:30 ngày 20/03 World Open 2026", Judd Trump vs Hossein Vafaei 18:30 ngày 20/03 World Open 2026 (Link 2)
@@ -35,10 +35,10 @@ https://cdn-hls.taoxanh.biz/live/69bcddb7326d9_142246/index.m3u8?expire=17745900
 https://cdn-hls.taoxanh.biz/live/69bd0a8c70a69_18754/index.m3u8?expire=1774601484&amp;sign=d09ec8d69310a4d6edff7112d0ee4939
 #EXTINF:-1 tvg-id="601326820" group-title="Kakeru KUMAGAI / Hiroki NISHI vs HU Ke Yuan / LIN Xiang Yi 16:00 ngày 20/03 Sân 1 - Orleans Masters Badminton 2026", Kakeru KUMAGAI / Hiroki NISHI vs HU Ke Yuan / LIN Xiang Yi 16:00 ngày 20/03 Sân 1 - Orleans Masters Badminton 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69bd0a8c70a69_18754/index.m3u8?expire=1774601484&sign=d09ec8d69310a4d6edff7112d0ee4939
-#EXTINF:-1 tvg-id="601325527" group-title="Hà Nội vs Vietinbank 14:00 ngày 20/03 Cúp Hoa Lư 2026 - Nữ", Hà Nội vs Vietinbank 14:00 ngày 20/03 Cúp Hoa Lư 2026 - Nữ (Link 1)
-https://cdn-hls.taoxanh.biz/live/69bce90770a69_88642/index.m3u8?expire=1774592903&amp;sign=f6f6a2c46ac17ff34ae2cc0e50e2b05d
-#EXTINF:-1 tvg-id="601325527" group-title="Hà Nội vs Vietinbank 14:00 ngày 20/03 Cúp Hoa Lư 2026 - Nữ", Hà Nội vs Vietinbank 14:00 ngày 20/03 Cúp Hoa Lư 2026 - Nữ (Link 2)
-https://cdn-hls.taoxanh.biz/live/69bce90770a69_88642/index.m3u8?expire=1774592903&sign=f6f6a2c46ac17ff34ae2cc0e50e2b05d
+#EXTINF:-1 tvg-id="601326601" group-title="Sumire NAKADE /  Miyu TAKAHASHI vs Lauren LAM /  Allison Quynh LEE 17:00 ngày 20/03 Sân 2 - Orleans Masters Badminton 2026", Sumire NAKADE /  Miyu TAKAHASHI vs Lauren LAM /  Allison Quynh LEE 17:00 ngày 20/03 Sân 2 - Orleans Masters Badminton 2026 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69bd194970a69_142210/index.m3u8?expire=1774605257&amp;sign=2bcc79997403b8c73ddb04d48c4eef54
+#EXTINF:-1 tvg-id="601326601" group-title="Sumire NAKADE /  Miyu TAKAHASHI vs Lauren LAM /  Allison Quynh LEE 17:00 ngày 20/03 Sân 2 - Orleans Masters Badminton 2026", Sumire NAKADE /  Miyu TAKAHASHI vs Lauren LAM /  Allison Quynh LEE 17:00 ngày 20/03 Sân 2 - Orleans Masters Badminton 2026 (Link 2)
+https://cdn-hls.taoxanh.biz/live/69bd194970a69_142210/index.m3u8?expire=1774605257&sign=2bcc79997403b8c73ddb04d48c4eef54
 #EXTINF:-1 tvg-id="601325518" group-title="Biên Phòng MB vs Công an TPHCM 16:00 ngày 20/03 Cúp Hoa Lư 2026 - Nam", Biên Phòng MB vs Công an TPHCM 16:00 ngày 20/03 Cúp Hoa Lư 2026 - Nam (Link 1)
 https://cdn-hls.taoxanh.biz/live/69bd0401326d9_128756/index.m3u8?expire=1774599809&amp;sign=85c4044919116b5dd8992e6bba093ba0
 #EXTINF:-1 tvg-id="601325518" group-title="Biên Phòng MB vs Công an TPHCM 16:00 ngày 20/03 Cúp Hoa Lư 2026 - Nam", Biên Phòng MB vs Công an TPHCM 16:00 ngày 20/03 Cúp Hoa Lư 2026 - Nam (Link 2)
