@@ -1,23 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601313038" group-title="Albirex Niigata vs Kataller Toyama 12:00 ngày 20/03 J2/J3 100 Year Vision League", Albirex Niigata vs Kataller Toyama 12:00 ngày 20/03 J2/J3 100 Year Vision League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69bcca4970a69_133172/index.m3u8?expire=1774585033&amp;sign=8011517837f87da804f5bcab5ce62ce9
-#EXTINF:-1 tvg-id="601313038" group-title="Albirex Niigata vs Kataller Toyama 12:00 ngày 20/03 J2/J3 100 Year Vision League", Albirex Niigata vs Kataller Toyama 12:00 ngày 20/03 J2/J3 100 Year Vision League (Link 2)
-https://live.alilicloud.com/live/fdf099ff0914198a22441f60423fc0bb/playlist.m3u8
-#EXTINF:-1 tvg-id="601313038" group-title="Albirex Niigata vs Kataller Toyama 12:00 ngày 20/03 J2/J3 100 Year Vision League", Albirex Niigata vs Kataller Toyama 12:00 ngày 20/03 J2/J3 100 Year Vision League (Link 3)
-https://cdn-hls.taoxanh.biz/live/69bcca4970a69_133172/index.m3u8?expire=1774585033&sign=8011517837f87da804f5bcab5ce62ce9
-#EXTINF:-1 tvg-id="601313041" group-title="Thespa Kusatsu Gunma vs Shonan Bellmare 12:00 ngày 20/03 J2/J3 100 Year Vision League", Thespa Kusatsu Gunma vs Shonan Bellmare 12:00 ngày 20/03 J2/J3 100 Year Vision League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69bcd12070a69_103/index.m3u8?expire=1774586784&amp;sign=eda9bca3706192396e695a3b7e6dc778
-#EXTINF:-1 tvg-id="601313041" group-title="Thespa Kusatsu Gunma vs Shonan Bellmare 12:00 ngày 20/03 J2/J3 100 Year Vision League", Thespa Kusatsu Gunma vs Shonan Bellmare 12:00 ngày 20/03 J2/J3 100 Year Vision League (Link 2)
-https://live.alilicloud.com/live/a13f100d41d1b09ff1f3c8460897607f/playlist.m3u8
-#EXTINF:-1 tvg-id="601313041" group-title="Thespa Kusatsu Gunma vs Shonan Bellmare 12:00 ngày 20/03 J2/J3 100 Year Vision League", Thespa Kusatsu Gunma vs Shonan Bellmare 12:00 ngày 20/03 J2/J3 100 Year Vision League (Link 3)
-https://cdn-hls.taoxanh.biz/live/69bcd12070a69_103/index.m3u8?expire=1774586784&sign=eda9bca3706192396e695a3b7e6dc778
-#EXTINF:-1 tvg-id="601313044" group-title="Gangneung Citizen vs Dangjin Citizen 12:00 ngày 20/03 Korean K League 3", Gangneung Citizen vs Dangjin Citizen 12:00 ngày 20/03 Korean K League 3
-https://live.alilicloud.com/live/3a9e01412275bdb26422c1a9cdef44c7/playlist.m3u8
 #EXTINF:-1 tvg-id="601326817" group-title="Ryan Day vs Ronnie O'Sullivan 13:00 ngày 20/03 World Open 2026", Ryan Day vs Ronnie O'Sullivan 13:00 ngày 20/03 World Open 2026 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69bcdecd326d9_142246/index.m3u8?expire=1774590285&amp;sign=873ca017c83da69316647183bc0334a9
 #EXTINF:-1 tvg-id="601326817" group-title="Ryan Day vs Ronnie O'Sullivan 13:00 ngày 20/03 World Open 2026", Ryan Day vs Ronnie O'Sullivan 13:00 ngày 20/03 World Open 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69bcdecd326d9_142246/index.m3u8?expire=1774590285&sign=873ca017c83da69316647183bc0334a9
+#EXTINF:-1 tvg-id="601325677" group-title="Adamstown Rosebud Reserves vs Lambton Jaffas Reserves 14:00 ngày 20/03 Australia Northern New South Wales Reserves League", Adamstown Rosebud Reserves vs Lambton Jaffas Reserves 14:00 ngày 20/03 Australia Northern New South Wales Reserves League
+https://live.alilicloud.com/live/f2a2635a69a3d916e0bfe229af7bd3ee/playlist.m3u8
+#EXTINF:-1 tvg-id="601325680" group-title="Edgeworth Eagles Reserves vs Valentine Phoenix Reserves 14:00 ngày 20/03 Australia Northern New South Wales Reserves League", Edgeworth Eagles Reserves vs Valentine Phoenix Reserves 14:00 ngày 20/03 Australia Northern New South Wales Reserves League
+https://live.alilicloud.com/live/b60e39d2b00784d05e11da8c86f63799/playlist.m3u8
+#EXTINF:-1 tvg-id="601313065" group-title="Preston Lions (w) vs Alamein (w) 14:15 ngày 20/03 Australia Victorian Women's Premier League", Preston Lions (w) vs Alamein (w) 14:15 ngày 20/03 Australia Victorian Women's Premier League
+https://live.alilicloud.com/live/a8fc47b13fe2a4aa88aaabe14fbf1287/playlist.m3u8
 #EXTINF:-1 tvg-id="601326685" group-title="Judd Trump vs Hossein Vafaei 18:30 ngày 20/03 World Open 2026", Judd Trump vs Hossein Vafaei 18:30 ngày 20/03 World Open 2026 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69bcddb7326d9_142246/index.m3u8?expire=1774590007&amp;sign=7f810e2cdd864caaa5766ade4532029a
 #EXTINF:-1 tvg-id="601326685" group-title="Judd Trump vs Hossein Vafaei 18:30 ngày 20/03 World Open 2026", Judd Trump vs Hossein Vafaei 18:30 ngày 20/03 World Open 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69bcddb7326d9_142246/index.m3u8?expire=1774590007&sign=7f810e2cdd864caaa5766ade4532029a
+#EXTINF:-1 tvg-id="601325527" group-title="Hà Nội vs Vietinbank 14:00 ngày 20/03 Cúp Hoa Lư 2026 - Nữ", Hà Nội vs Vietinbank 14:00 ngày 20/03 Cúp Hoa Lư 2026 - Nữ (Link 1)
+https://cdn-hls.taoxanh.biz/live/69bce90770a69_88642/index.m3u8?expire=1774592903&amp;sign=f6f6a2c46ac17ff34ae2cc0e50e2b05d
+#EXTINF:-1 tvg-id="601325527" group-title="Hà Nội vs Vietinbank 14:00 ngày 20/03 Cúp Hoa Lư 2026 - Nữ", Hà Nội vs Vietinbank 14:00 ngày 20/03 Cúp Hoa Lư 2026 - Nữ (Link 2)
+https://cdn-hls.taoxanh.biz/live/69bce90770a69_88642/index.m3u8?expire=1774592903&sign=f6f6a2c46ac17ff34ae2cc0e50e2b05d
