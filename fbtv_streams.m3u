@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601326820" group-title="Nozomi OKUHARA vs Nguyễn Thùy Linh 19:30 ngày 20/03 Sân 2 - Orleans Masters Badminton 2026", Nozomi OKUHARA vs Nguyễn Thùy Linh 19:30 ngày 20/03 Sân 2 - Orleans Masters Badminton 2026 (Link 1)
+#EXTINF:-1 tvg-id="601326820" group-title="Nozomi OKUHARA vs Nguyễn Thùy Linh 19:30 ngày 20/03 Sân 1 - Orleans Masters Badminton 2026", Nozomi OKUHARA vs Nguyễn Thùy Linh 19:30 ngày 20/03 Sân 1 - Orleans Masters Badminton 2026 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69bd0a8c70a69_18754/index.m3u8?expire=1774601484&amp;sign=d09ec8d69310a4d6edff7112d0ee4939
-#EXTINF:-1 tvg-id="601326820" group-title="Nozomi OKUHARA vs Nguyễn Thùy Linh 19:30 ngày 20/03 Sân 2 - Orleans Masters Badminton 2026", Nozomi OKUHARA vs Nguyễn Thùy Linh 19:30 ngày 20/03 Sân 2 - Orleans Masters Badminton 2026 (Link 2)
+#EXTINF:-1 tvg-id="601326820" group-title="Nozomi OKUHARA vs Nguyễn Thùy Linh 19:30 ngày 20/03 Sân 1 - Orleans Masters Badminton 2026", Nozomi OKUHARA vs Nguyễn Thùy Linh 19:30 ngày 20/03 Sân 1 - Orleans Masters Badminton 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69bd0a8c70a69_18754/index.m3u8?expire=1774601484&sign=d09ec8d69310a4d6edff7112d0ee4939
 #EXTINF:-1 tvg-id="601313239" group-title="Ho Chi Minh City FC vs Đồng Nai 19:15 ngày 20/03 Vietnam National Cup", Ho Chi Minh City FC vs Đồng Nai 19:15 ngày 20/03 Vietnam National Cup (Link 1)
 https://cdn-hls.taoxanh.biz/live/69bd2f5a70a69_103/index.m3u8?expire=1774610906&amp;sign=e59a7b583555633f99e16cd5dc48df81
@@ -9,57 +9,31 @@ https://cdn-hls.taoxanh.biz/live/69bd2f5a70a69_103/index.m3u8?expire=1774610906&
 https://live.alilicloud.com/live/1103af9092d1d19c9cc60185150e902e/playlist.m3u8
 #EXTINF:-1 tvg-id="601313239" group-title="Ho Chi Minh City FC vs Đồng Nai 19:15 ngày 20/03 Vietnam National Cup", Ho Chi Minh City FC vs Đồng Nai 19:15 ngày 20/03 Vietnam National Cup (Link 3)
 https://cdn-hls.taoxanh.biz/live/69bd2f5a70a69_103/index.m3u8?expire=1774610906&sign=e59a7b583555633f99e16cd5dc48df81
-#EXTINF:-1 tvg-id="601313170" group-title="Dalian Yingbo FC vs Shanghai Port FC 18:00 ngày 20/03 Chinese Football Super League", Dalian Yingbo FC vs Shanghai Port FC 18:00 ngày 20/03 Chinese Football Super League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69bd228a70a69_73445/index.m3u8?expire=1774607626&amp;sign=b348b2124ec8ab4f90df7f8730a985f3
-#EXTINF:-1 tvg-id="601313170" group-title="Dalian Yingbo FC vs Shanghai Port FC 18:00 ngày 20/03 Chinese Football Super League", Dalian Yingbo FC vs Shanghai Port FC 18:00 ngày 20/03 Chinese Football Super League (Link 2)
-https://live.alilicloud.com/live/8a0b10919b5424b33187468368fd4342/playlist.m3u8
-#EXTINF:-1 tvg-id="601313170" group-title="Dalian Yingbo FC vs Shanghai Port FC 18:00 ngày 20/03 Chinese Football Super League", Dalian Yingbo FC vs Shanghai Port FC 18:00 ngày 20/03 Chinese Football Super League (Link 3)
-https://cdn-hls.taoxanh.biz/live/69bd228a70a69_73445/index.m3u8?expire=1774607626&sign=b348b2124ec8ab4f90df7f8730a985f3
-#EXTINF:-1 tvg-id="601313188" group-title="FK Atyrau vs Zhenis 18:00 ngày 20/03 Kazakhstan Premier League", FK Atyrau vs Zhenis 18:00 ngày 20/03 Kazakhstan Premier League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69bd235470a69_79/index.m3u8?expire=1774607828&amp;sign=9966c4a2adc59c785dd96ae78e2f0150
-#EXTINF:-1 tvg-id="601313188" group-title="FK Atyrau vs Zhenis 18:00 ngày 20/03 Kazakhstan Premier League", FK Atyrau vs Zhenis 18:00 ngày 20/03 Kazakhstan Premier League (Link 2)
-https://live.alilicloud.com/live/9899a98724dba013a278a718dce7db9c/playlist.m3u8
-#EXTINF:-1 tvg-id="601313188" group-title="FK Atyrau vs Zhenis 18:00 ngày 20/03 Kazakhstan Premier League", FK Atyrau vs Zhenis 18:00 ngày 20/03 Kazakhstan Premier League (Link 3)
-https://cdn-hls.taoxanh.biz/live/69bd235470a69_79/index.m3u8?expire=1774607828&sign=9966c4a2adc59c785dd96ae78e2f0150
-#EXTINF:-1 tvg-id="601313167" group-title="Bayswater City vs Western Knights 18:00 ngày 20/03 Western Australia National Premier Leagues", Bayswater City vs Western Knights 18:00 ngày 20/03 Western Australia National Premier Leagues
-https://live.alilicloud.com/live/974a73bb559f2708438f1226e2aefeb2/playlist.m3u8
-#EXTINF:-1 tvg-id="601313182" group-title="Wuxi Wugou vs Shenzhen Juniors 18:00 ngày 20/03 Chinese Football League 1", Wuxi Wugou vs Shenzhen Juniors 18:00 ngày 20/03 Chinese Football League 1
-https://live.alilicloud.com/live/95ccf83d8aba404be9f5fc3d9df22325/playlist.m3u8
-#EXTINF:-1 tvg-id="601313191" group-title="FK Kapaz Ganca vs Qarabag 18:00 ngày 20/03 Azerbaijan Premier League", FK Kapaz Ganca vs Qarabag 18:00 ngày 20/03 Azerbaijan Premier League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69bd21e470a69_95554/index.m3u8?expire=1774607460&amp;sign=07520aa76a69c7211004768a8bd262ef
-#EXTINF:-1 tvg-id="601313191" group-title="FK Kapaz Ganca vs Qarabag 18:00 ngày 20/03 Azerbaijan Premier League", FK Kapaz Ganca vs Qarabag 18:00 ngày 20/03 Azerbaijan Premier League (Link 2)
-https://live.alilicloud.com/live/757ff0fb8aaafad31e81cdb6178c8b81/playlist.m3u8
-#EXTINF:-1 tvg-id="601313191" group-title="FK Kapaz Ganca vs Qarabag 18:00 ngày 20/03 Azerbaijan Premier League", FK Kapaz Ganca vs Qarabag 18:00 ngày 20/03 Azerbaijan Premier League (Link 3)
-https://cdn-hls.taoxanh.biz/live/69bd21e470a69_95554/index.m3u8?expire=1774607460&sign=07520aa76a69c7211004768a8bd262ef
-#EXTINF:-1 tvg-id="601313194" group-title="Northeast United vs Odisha FC 18:30 ngày 20/03 Indian Super League", Northeast United vs Odisha FC 18:30 ngày 20/03 Indian Super League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69bd2cd7326d9_6308/index.m3u8?expire=1774610263&amp;sign=aa9210a63da70e13168895dfc0dc5f5c
-#EXTINF:-1 tvg-id="601313194" group-title="Northeast United vs Odisha FC 18:30 ngày 20/03 Indian Super League", Northeast United vs Odisha FC 18:30 ngày 20/03 Indian Super League (Link 2)
-https://live.alilicloud.com/live/0bfe6300174b2d1c85b4fceb224981c7/playlist.m3u8
-#EXTINF:-1 tvg-id="601313194" group-title="Northeast United vs Odisha FC 18:30 ngày 20/03 Indian Super League", Northeast United vs Odisha FC 18:30 ngày 20/03 Indian Super League (Link 3)
-https://cdn-hls.taoxanh.biz/live/69bd2cd7326d9_6308/index.m3u8?expire=1774610263&sign=aa9210a63da70e13168895dfc0dc5f5c
-#EXTINF:-1 tvg-id="601313185" group-title="Sparta Praha U19 vs Slovan Liberec U19 18:00 ngày 20/03 Czech U19 League", Sparta Praha U19 vs Slovan Liberec U19 18:00 ngày 20/03 Czech U19 League
-https://live.alilicloud.com/live/a46005f8f401a727c4d7d7325598d233/playlist.m3u8
-#EXTINF:-1 tvg-id="601326601" group-title="Margot LAMBERT /  Camille POGNANTE vs LIN Chih-Chun /  YANG Chu Yun 19:10 ngày 20/03 Sân 1 - Orleans Masters Badminton 2026", Margot LAMBERT /  Camille POGNANTE vs LIN Chih-Chun /  YANG Chu Yun 19:10 ngày 20/03 Sân 1 - Orleans Masters Badminton 2026 (Link 1)
+#EXTINF:-1 tvg-id="601313209" group-title="Guangxi Hengchen Football Club vs Shanghai Jiading Huilong 19:00 ngày 20/03 Chinese Football League 1", Guangxi Hengchen Football Club vs Shanghai Jiading Huilong 19:00 ngày 20/03 Chinese Football League 1 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69bd29f3326d9_85514/index.m3u8?expire=1774609523&amp;sign=229f9eeadd0f8150f08d761017b9fdd3
+#EXTINF:-1 tvg-id="601313209" group-title="Guangxi Hengchen Football Club vs Shanghai Jiading Huilong 19:00 ngày 20/03 Chinese Football League 1", Guangxi Hengchen Football Club vs Shanghai Jiading Huilong 19:00 ngày 20/03 Chinese Football League 1 (Link 2)
+https://live.alilicloud.com/live/3a25a0a59f0dc18e062c089c6b22feac/playlist.m3u8
+#EXTINF:-1 tvg-id="601313209" group-title="Guangxi Hengchen Football Club vs Shanghai Jiading Huilong 19:00 ngày 20/03 Chinese Football League 1", Guangxi Hengchen Football Club vs Shanghai Jiading Huilong 19:00 ngày 20/03 Chinese Football League 1 (Link 3)
+https://cdn-hls.taoxanh.biz/live/69bd29f3326d9_85514/index.m3u8?expire=1774609523&sign=229f9eeadd0f8150f08d761017b9fdd3
+#EXTINF:-1 tvg-id="601313161" group-title="Aizawl FC vs Diamond Harbour FC 20:00 ngày 20/03 Indian League Division 1", Aizawl FC vs Diamond Harbour FC 20:00 ngày 20/03 Indian League Division 1 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69bd3d8570a69_4908/index.m3u8?expire=1774614533&amp;sign=926e90c9ba7b9775cadfea13ff1358a6
+#EXTINF:-1 tvg-id="601313161" group-title="Aizawl FC vs Diamond Harbour FC 20:00 ngày 20/03 Indian League Division 1", Aizawl FC vs Diamond Harbour FC 20:00 ngày 20/03 Indian League Division 1 (Link 2)
+https://live.alilicloud.com/live/f58c7194469c26b346ab114459f0c0d6/playlist.m3u8
+#EXTINF:-1 tvg-id="601313161" group-title="Aizawl FC vs Diamond Harbour FC 20:00 ngày 20/03 Indian League Division 1", Aizawl FC vs Diamond Harbour FC 20:00 ngày 20/03 Indian League Division 1 (Link 3)
+https://cdn-hls.taoxanh.biz/live/69bd3d8570a69_4908/index.m3u8?expire=1774614533&sign=926e90c9ba7b9775cadfea13ff1358a6
+#EXTINF:-1 tvg-id="601313212" group-title="Slavia Praha U19 vs Slovacko U19 19:00 ngày 20/03 Czech U19 League", Slavia Praha U19 vs Slovacko U19 19:00 ngày 20/03 Czech U19 League
+https://live.alilicloud.com/live/56d8f09d368d36e0a36639cc10780b2f/playlist.m3u8
+#EXTINF:-1 tvg-id="601313362" group-title="Ahrobiznes TSK Romny vs Nyva Ternopil 19:00 ngày 20/03 Ukrainian First League", Ahrobiznes TSK Romny vs Nyva Ternopil 19:00 ngày 20/03 Ukrainian First League
+https://live.alilicloud.com/live/b09af7f70d212dd935ef93891b7f0270/playlist.m3u8
+#EXTINF:-1 tvg-id="601326601" group-title="Natsuki NIDAIRA vs Tanvi Sharma 20:00 ngày 20/03 Sân 1 - Orleans Masters Badminton 2026", Natsuki NIDAIRA vs Tanvi Sharma 20:00 ngày 20/03 Sân 1 - Orleans Masters Badminton 2026 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69bd194970a69_142210/index.m3u8?expire=1774605257&amp;sign=2bcc79997403b8c73ddb04d48c4eef54
-#EXTINF:-1 tvg-id="601326601" group-title="Margot LAMBERT /  Camille POGNANTE vs LIN Chih-Chun /  YANG Chu Yun 19:10 ngày 20/03 Sân 1 - Orleans Masters Badminton 2026", Margot LAMBERT /  Camille POGNANTE vs LIN Chih-Chun /  YANG Chu Yun 19:10 ngày 20/03 Sân 1 - Orleans Masters Badminton 2026 (Link 2)
+#EXTINF:-1 tvg-id="601326601" group-title="Natsuki NIDAIRA vs Tanvi Sharma 20:00 ngày 20/03 Sân 1 - Orleans Masters Badminton 2026", Natsuki NIDAIRA vs Tanvi Sharma 20:00 ngày 20/03 Sân 1 - Orleans Masters Badminton 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69bd194970a69_142210/index.m3u8?expire=1774605257&sign=2bcc79997403b8c73ddb04d48c4eef54
-#EXTINF:-1 tvg-id="601325719" group-title="Suwon KT vs KoGas 17:00 ngày 20/03 KBL", Suwon KT vs KoGas 17:00 ngày 20/03 KBL (Link 1)
-https://cdn-hls.taoxanh.biz/live/69bd1cdc70a69_85714/index.m3u8?expire=1774606172&amp;sign=efa774fb4eec51ee3b7de4b6ce485f1e
-#EXTINF:-1 tvg-id="601325719" group-title="Suwon KT vs KoGas 17:00 ngày 20/03 KBL", Suwon KT vs KoGas 17:00 ngày 20/03 KBL (Link 2)
-https://cdn-hls.taoxanh.biz/live/69bd1cdc70a69_85714/index.m3u8?expire=1774606172&sign=efa774fb4eec51ee3b7de4b6ce485f1e
-#EXTINF:-1 tvg-id="601325722" group-title="Jiangsu Dragons vs Guangdong 18:35 ngày 20/03 CBA", Jiangsu Dragons vs Guangdong 18:35 ngày 20/03 CBA (Link 1)
-https://cdn-hls.taoxanh.biz/live/69bd2c6e70a69_145690/index.m3u8?expire=1774610158&amp;sign=0828e8fe963bc1968287352225251c95
-#EXTINF:-1 tvg-id="601325722" group-title="Jiangsu Dragons vs Guangdong 18:35 ngày 20/03 CBA", Jiangsu Dragons vs Guangdong 18:35 ngày 20/03 CBA (Link 2)
-https://cdn-hls.taoxanh.biz/live/69bd2c6e70a69_145690/index.m3u8?expire=1774610158&sign=0828e8fe963bc1968287352225251c95
-#EXTINF:-1 tvg-id="601325725" group-title="Shandong vs Tianjin 18:35 ngày 20/03 CBA", Shandong vs Tianjin 18:35 ngày 20/03 CBA (Link 1)
-https://cdn-hls.taoxanh.biz/live/69bd2f7b70a69_138846/index.m3u8?expire=1774610939&amp;sign=cc67cd2c26f593f83efab3fb812d99d7
-#EXTINF:-1 tvg-id="601325725" group-title="Shandong vs Tianjin 18:35 ngày 20/03 CBA", Shandong vs Tianjin 18:35 ngày 20/03 CBA (Link 2)
-https://cdn-hls.taoxanh.biz/live/69bd2f7b70a69_138846/index.m3u8?expire=1774610939&sign=cc67cd2c26f593f83efab3fb812d99d7
-#EXTINF:-1 tvg-id="601325728" group-title="Zhejiang Guangsha vs Beijing Royal Fighters 18:35 ngày 20/03 CBA", Zhejiang Guangsha vs Beijing Royal Fighters 18:35 ngày 20/03 CBA (Link 1)
-https://cdn-hls.taoxanh.biz/live/69bd2ebf326d9_85706/index.m3u8?expire=1774610751&amp;sign=8c2a9172d524bd017b5129ed8ee2923a
-#EXTINF:-1 tvg-id="601325728" group-title="Zhejiang Guangsha vs Beijing Royal Fighters 18:35 ngày 20/03 CBA", Zhejiang Guangsha vs Beijing Royal Fighters 18:35 ngày 20/03 CBA (Link 2)
-https://cdn-hls.taoxanh.biz/live/69bd2ebf326d9_85706/index.m3u8?expire=1774610751&sign=8c2a9172d524bd017b5129ed8ee2923a
 #EXTINF:-1 tvg-id="601325524" group-title="LPB Ninh Bình vs Binh chủng Thông tin 19:15 ngày 20/03 Cúp Hoa Lư 2026 - Nữ", LPB Ninh Bình vs Binh chủng Thông tin 19:15 ngày 20/03 Cúp Hoa Lư 2026 - Nữ (Link 1)
 https://cdn-hls.taoxanh.biz/live/69bd3709326d9_128756/index.m3u8?expire=1774612873&amp;sign=a7bd8836ddb0cc6eebd85726df9e411f
 #EXTINF:-1 tvg-id="601325524" group-title="LPB Ninh Bình vs Binh chủng Thông tin 19:15 ngày 20/03 Cúp Hoa Lư 2026 - Nữ", LPB Ninh Bình vs Binh chủng Thông tin 19:15 ngày 20/03 Cúp Hoa Lư 2026 - Nữ (Link 2)
 https://cdn-hls.taoxanh.biz/live/69bd3709326d9_128756/index.m3u8?expire=1774612873&sign=a7bd8836ddb0cc6eebd85726df9e411f
+#EXTINF:-1 tvg-id="601325521" group-title="LPB Ninh Bình vs Thể Công Tân Cảng 20:15 ngày 20/03 Cúp Hoa Lư 2026 - Nam", LPB Ninh Bình vs Thể Công Tân Cảng 20:15 ngày 20/03 Cúp Hoa Lư 2026 - Nam (Link 1)
+https://cdn-hls.taoxanh.biz/live/69bd45b5326d9_88642/index.m3u8?expire=1774616629&amp;sign=4a1fc8237dc5940851555b5b733f863c
+#EXTINF:-1 tvg-id="601325521" group-title="LPB Ninh Bình vs Thể Công Tân Cảng 20:15 ngày 20/03 Cúp Hoa Lư 2026 - Nam", LPB Ninh Bình vs Thể Công Tân Cảng 20:15 ngày 20/03 Cúp Hoa Lư 2026 - Nam (Link 2)
+https://cdn-hls.taoxanh.biz/live/69bd45b5326d9_88642/index.m3u8?expire=1774616629&sign=4a1fc8237dc5940851555b5b733f863c
