@@ -13,9 +13,9 @@ https://cdn-hls.taoxanh.biz/live/69be825f326da_88642/index.m3u8?expire=177469769
 https://live.alilicloud.com/live/7904a4cc5a2ba9bb8a89252514bb7ff8/playlist.m3u8
 #EXTINF:-1 tvg-id="601317085" group-title="Viettel FC vs TDTT Bac Ninh 19:15 ngày 21/03 Vietnam National Cup", Viettel FC vs TDTT Bac Ninh 19:15 ngày 21/03 Vietnam National Cup (Link 3)
 https://cdn-hls.taoxanh.biz/live/69be825f326da_88642/index.m3u8?expire=1774697695&sign=c9dde385f2912d9751fcc27ae99b2ea3
-#EXTINF:-1 tvg-id="601328080" group-title="Nozomi OKUHARA vs Tanvi Sharma 20:00 ngày 21/03 Sân 1 - Orleans Masters Badminton 2026", Nozomi OKUHARA vs Tanvi Sharma 20:00 ngày 21/03 Sân 1 - Orleans Masters Badminton 2026 (Link 1)
+#EXTINF:-1 tvg-id="601328080" group-title="Pitchamon OPATNIPUTH vs Isharani BARUAH 23:00 ngày 21/03 Sân 1 - Orleans Masters Badminton 2026", Pitchamon OPATNIPUTH vs Isharani BARUAH 23:00 ngày 21/03 Sân 1 - Orleans Masters Badminton 2026 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69be59ee70a6a_18754/index.m3u8?expire=1774687342&amp;sign=b8dd48521c790fe7b3b128b19b89da2c
-#EXTINF:-1 tvg-id="601328080" group-title="Nozomi OKUHARA vs Tanvi Sharma 20:00 ngày 21/03 Sân 1 - Orleans Masters Badminton 2026", Nozomi OKUHARA vs Tanvi Sharma 20:00 ngày 21/03 Sân 1 - Orleans Masters Badminton 2026 (Link 2)
+#EXTINF:-1 tvg-id="601328080" group-title="Pitchamon OPATNIPUTH vs Isharani BARUAH 23:00 ngày 21/03 Sân 1 - Orleans Masters Badminton 2026", Pitchamon OPATNIPUTH vs Isharani BARUAH 23:00 ngày 21/03 Sân 1 - Orleans Masters Badminton 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69be59ee70a6a_18754/index.m3u8?expire=1774687342&sign=b8dd48521c790fe7b3b128b19b89da2c
 #EXTINF:-1 tvg-id="601317187" group-title="Elche vs RCD Mallorca 20:00 ngày 21/03 Spanish La Liga", Elche vs RCD Mallorca 20:00 ngày 21/03 Spanish La Liga (Link 1)
 https://cdn-hls.taoxanh.biz/live/69be930970a6a_4908/index.m3u8?expire=1774701961&amp;sign=8e88c06f6ab2109a7d313320f4f15c7d
@@ -23,35 +23,27 @@ https://cdn-hls.taoxanh.biz/live/69be930970a6a_4908/index.m3u8?expire=1774701961
 https://live.alilicloud.com/live/f54ef6ac9e69f51de9b59e3f8c7ad254/playlist.m3u8
 #EXTINF:-1 tvg-id="601317187" group-title="Elche vs RCD Mallorca 20:00 ngày 21/03 Spanish La Liga", Elche vs RCD Mallorca 20:00 ngày 21/03 Spanish La Liga (Link 3)
 https://cdn-hls.taoxanh.biz/live/69be930970a6a_4908/index.m3u8?expire=1774701961&sign=8e88c06f6ab2109a7d313320f4f15c7d
-#EXTINF:-1 tvg-id="601316872" group-title="Chonburi Shark FC vs Sukhothai 18:30 ngày 21/03 Hilux Revo Thai League", Chonburi Shark FC vs Sukhothai 18:30 ngày 21/03 Hilux Revo Thai League
-https://live.alilicloud.com/live/ca9d9c75559a9d174d55cbd594be175b/playlist.m3u8
-#EXTINF:-1 tvg-id="601316899" group-title="Alashkert vs FC Pyunik 18:30 ngày 21/03 Armenian Premier League", Alashkert vs FC Pyunik 18:30 ngày 21/03 Armenian Premier League
-https://live.alilicloud.com/live/5e8ed0ad6701dfd50c123381b6d60760/playlist.m3u8
-#EXTINF:-1 tvg-id="601316905" group-title="Chongqing Tongliangloong FC vs Chengdu Rongcheng FC 18:35 ngày 21/03 Chinese Football Super League", Chongqing Tongliangloong FC vs Chengdu Rongcheng FC 18:35 ngày 21/03 Chinese Football Super League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69be7f7b70a6a_6308/index.m3u8?expire=1774696955&amp;sign=c19ef3606f2d428caa39a1e80e03c687
-#EXTINF:-1 tvg-id="601316905" group-title="Chongqing Tongliangloong FC vs Chengdu Rongcheng FC 18:35 ngày 21/03 Chinese Football Super League", Chongqing Tongliangloong FC vs Chengdu Rongcheng FC 18:35 ngày 21/03 Chinese Football Super League (Link 2)
-https://live.alilicloud.com/live/37cf20a5a93db403db2488e3d44a2a7a/playlist.m3u8
-#EXTINF:-1 tvg-id="601316905" group-title="Chongqing Tongliangloong FC vs Chengdu Rongcheng FC 18:35 ngày 21/03 Chinese Football Super League", Chongqing Tongliangloong FC vs Chengdu Rongcheng FC 18:35 ngày 21/03 Chinese Football Super League (Link 3)
-https://cdn-hls.taoxanh.biz/live/69be7f7b70a6a_6308/index.m3u8?expire=1774696955&sign=c19ef3606f2d428caa39a1e80e03c687
+#EXTINF:-1 tvg-id="601316935" group-title="Herfolge Boldklub Koge vs Lyngby 19:00 ngày 21/03 Danish 1st Division", Herfolge Boldklub Koge vs Lyngby 19:00 ngày 21/03 Danish 1st Division
+https://live.alilicloud.com/live/5a668f084ee17d3af108f38371b50fc8/playlist.m3u8
+#EXTINF:-1 tvg-id="601316959" group-title="Juventus U20 vs AC Milan U20 19:00 ngày 21/03 Italian Campionato Primavera 1", Juventus U20 vs AC Milan U20 19:00 ngày 21/03 Italian Campionato Primavera 1
+https://live.alilicloud.com/live/53bc0215f84546ccca9281980ab78e0e/playlist.m3u8
 #EXTINF:-1 tvg-id="601316962" group-title="SV Elversberg vs Arminia Bielefeld 19:00 ngày 21/03 German Bundesliga 2", SV Elversberg vs Arminia Bielefeld 19:00 ngày 21/03 German Bundesliga 2 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69be7aa5326d9_74012/index.m3u8?expire=1774695717&amp;sign=ff700075643407c11e3221cfd3bc409c
 #EXTINF:-1 tvg-id="601316962" group-title="SV Elversberg vs Arminia Bielefeld 19:00 ngày 21/03 German Bundesliga 2", SV Elversberg vs Arminia Bielefeld 19:00 ngày 21/03 German Bundesliga 2 (Link 2)
 https://live.alilicloud.com/live/84720dc534a8f0463ba0fd398d277971/playlist.m3u8
 #EXTINF:-1 tvg-id="601316962" group-title="SV Elversberg vs Arminia Bielefeld 19:00 ngày 21/03 German Bundesliga 2", SV Elversberg vs Arminia Bielefeld 19:00 ngày 21/03 German Bundesliga 2 (Link 3)
 https://cdn-hls.taoxanh.biz/live/69be7aa5326d9_74012/index.m3u8?expire=1774695717&sign=ff700075643407c11e3221cfd3bc409c
-#EXTINF:-1 tvg-id="601316965" group-title="1. FC Nürnberg vs 1. FC Kaiserslautern 19:00 ngày 21/03 German Bundesliga 2", 1. FC Nürnberg vs 1. FC Kaiserslautern 19:00 ngày 21/03 German Bundesliga 2 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69be7c0f326d9_124958/index.m3u8?expire=1774696079&amp;sign=901fcb02529344f2af3b5adbfe76ae26
-#EXTINF:-1 tvg-id="601316965" group-title="1. FC Nürnberg vs 1. FC Kaiserslautern 19:00 ngày 21/03 German Bundesliga 2", 1. FC Nürnberg vs 1. FC Kaiserslautern 19:00 ngày 21/03 German Bundesliga 2 (Link 2)
-https://live.alilicloud.com/live/7e58b8564dc187dde5e38bbf5590b2af/playlist.m3u8
-#EXTINF:-1 tvg-id="601316965" group-title="1. FC Nürnberg vs 1. FC Kaiserslautern 19:00 ngày 21/03 German Bundesliga 2", 1. FC Nürnberg vs 1. FC Kaiserslautern 19:00 ngày 21/03 German Bundesliga 2 (Link 3)
-https://cdn-hls.taoxanh.biz/live/69be7c0f326d9_124958/index.m3u8?expire=1774696079&sign=901fcb02529344f2af3b5adbfe76ae26
-#EXTINF:-1 tvg-id="601316908" group-title="Qingdao West Coast FC vs Shenzhen Peng City FC 18:35 ngày 21/03 Chinese Football Super League", Qingdao West Coast FC vs Shenzhen Peng City FC 18:35 ngày 21/03 Chinese Football Super League
-https://live.alilicloud.com/live/85b6b4fb3ad32a3eb3a41dc3a9104499/playlist.m3u8
-#EXTINF:-1 tvg-id="601327165" group-title="KCC Egis vs Seoul Thunders 14:30 ngày 21/03 KBL", KCC Egis vs Seoul Thunders 14:30 ngày 21/03 KBL (Link 1)
-https://cdn-hls.taoxanh.biz/live/69be452a326d9_145690/index.m3u8?expire=1774682026&amp;sign=f866808b133f2ec06bda8e11a8d7f7ed
-#EXTINF:-1 tvg-id="601327165" group-title="KCC Egis vs Seoul Thunders 14:30 ngày 21/03 KBL", KCC Egis vs Seoul Thunders 14:30 ngày 21/03 KBL (Link 2)
-https://cdn-hls.taoxanh.biz/live/69be452a326d9_145690/index.m3u8?expire=1774682026&sign=f866808b133f2ec06bda8e11a8d7f7ed
-#EXTINF:-1 tvg-id="601327186" group-title="Zhejiang Chouzhou vs Jilin 18:35 ngày 21/03 CBA", Zhejiang Chouzhou vs Jilin 18:35 ngày 21/03 CBA (Link 1)
-https://cdn-hls.taoxanh.biz/live/69be7f92326d9_142210/index.m3u8?expire=1774696978&amp;sign=60a13ed8b84d85ffd55bf474fc8badca
-#EXTINF:-1 tvg-id="601327186" group-title="Zhejiang Chouzhou vs Jilin 18:35 ngày 21/03 CBA", Zhejiang Chouzhou vs Jilin 18:35 ngày 21/03 CBA (Link 2)
-https://cdn-hls.taoxanh.biz/live/69be7f92326d9_142210/index.m3u8?expire=1774696978&sign=60a13ed8b84d85ffd55bf474fc8badca
+#EXTINF:-1 tvg-id="601317097" group-title="Blackburn Rovers vs Middlesbrough 19:30 ngày 21/03 English Football League Championship", Blackburn Rovers vs Middlesbrough 19:30 ngày 21/03 English Football League Championship (Link 1)
+https://cdn-hls.taoxanh.biz/live/69be8f50326da_133172/index.m3u8?expire=1774701008&amp;sign=82108aad0405205b655aa6b2c253d422
+#EXTINF:-1 tvg-id="601317097" group-title="Blackburn Rovers vs Middlesbrough 19:30 ngày 21/03 English Football League Championship", Blackburn Rovers vs Middlesbrough 19:30 ngày 21/03 English Football League Championship (Link 2)
+https://live.alilicloud.com/live/1f741fee367e2e8d73dfab6d164006bb/playlist.m3u8
+#EXTINF:-1 tvg-id="601317097" group-title="Blackburn Rovers vs Middlesbrough 19:30 ngày 21/03 English Football League Championship", Blackburn Rovers vs Middlesbrough 19:30 ngày 21/03 English Football League Championship (Link 3)
+https://cdn-hls.taoxanh.biz/live/69be8f50326da_133172/index.m3u8?expire=1774701008&sign=82108aad0405205b655aa6b2c253d422
+#EXTINF:-1 tvg-id="601317100" group-title="Derby County vs Birmingham City 19:30 ngày 21/03 English Football League Championship", Derby County vs Birmingham City 19:30 ngày 21/03 English Football League Championship (Link 1)
+https://cdn-hls.taoxanh.biz/live/69be834570a6a_44731/index.m3u8?expire=1774697925&amp;sign=083b38446de1ac7caa7074c61065a9a3
+#EXTINF:-1 tvg-id="601317100" group-title="Derby County vs Birmingham City 19:30 ngày 21/03 English Football League Championship", Derby County vs Birmingham City 19:30 ngày 21/03 English Football League Championship (Link 2)
+https://live.alilicloud.com/live/076c84de9c30ff1b8509f55d3037ed5c/playlist.m3u8
+#EXTINF:-1 tvg-id="601317100" group-title="Derby County vs Birmingham City 19:30 ngày 21/03 English Football League Championship", Derby County vs Birmingham City 19:30 ngày 21/03 English Football League Championship (Link 3)
+https://cdn-hls.taoxanh.biz/live/69be834570a6a_44731/index.m3u8?expire=1774697925&sign=083b38446de1ac7caa7074c61065a9a3
+#EXTINF:-1 tvg-id="601316980" group-title="Arsenal (w) vs West Ham United (w) 19:00 ngày 21/03 English FA Women's Super League", Arsenal (w) vs West Ham United (w) 19:00 ngày 21/03 English FA Women's Super League
+https://live.alilicloud.com/live/409e46067c0d2b84e6de16908292d326/playlist.m3u8
