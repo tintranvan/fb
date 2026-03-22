@@ -7,12 +7,6 @@ https://cdn-hls.taoxanh.biz/live/69c0423b70a6a_79/index.m3u8?expire=1774812347&a
 https://live.alilicloud.com/live/0a59ca657905ecd1ac16d2df682b1c36/playlist.m3u8
 #EXTINF:-1 tvg-id="601323685" group-title="Real Madrid vs Atletico Madrid 03:00 ngày 23/03 Spanish La Liga", Real Madrid vs Atletico Madrid 03:00 ngày 23/03 Spanish La Liga (Link 4)
 https://cdn-hls.taoxanh.biz/live/69c0378770a6a_28/index.m3u8?expire=1774809607&sign=180ad6be915f0a32b39394801b35e29c
-#EXTINF:-1 tvg-id="601323664" group-title="Legia Warszawa vs Rakow Czestochowa 02:15 ngày 23/03 PKO Bank Polski EKSTRAKLASA", Legia Warszawa vs Rakow Czestochowa 02:15 ngày 23/03 PKO Bank Polski EKSTRAKLASA (Link 1)
-https://cdn-hls.taoxanh.biz/live/69c0378370a6a_4908/index.m3u8?expire=1774809603&amp;sign=df622981cb969cda57d5d25eefc09243
-#EXTINF:-1 tvg-id="601323664" group-title="Legia Warszawa vs Rakow Czestochowa 02:15 ngày 23/03 PKO Bank Polski EKSTRAKLASA", Legia Warszawa vs Rakow Czestochowa 02:15 ngày 23/03 PKO Bank Polski EKSTRAKLASA (Link 2)
-https://live.alilicloud.com/live/764e1c969139d6ebf51713f30df9c238/playlist.m3u8
-#EXTINF:-1 tvg-id="601323664" group-title="Legia Warszawa vs Rakow Czestochowa 02:15 ngày 23/03 PKO Bank Polski EKSTRAKLASA", Legia Warszawa vs Rakow Czestochowa 02:15 ngày 23/03 PKO Bank Polski EKSTRAKLASA (Link 3)
-https://cdn-hls.taoxanh.biz/live/69c0378370a6a_4908/index.m3u8?expire=1774809603&sign=df622981cb969cda57d5d25eefc09243
 #EXTINF:-1 tvg-id="601323682" group-title="FC Nantes vs RC Strasbourg Alsace 02:45 ngày 23/03 French Ligue 1", FC Nantes vs RC Strasbourg Alsace 02:45 ngày 23/03 French Ligue 1 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69c03c6f326da_95554/index.m3u8?expire=1774810863&amp;sign=2b76492707ffe64e5af727ab2a42491d
 #EXTINF:-1 tvg-id="601323682" group-title="FC Nantes vs RC Strasbourg Alsace 02:45 ngày 23/03 French Ligue 1", FC Nantes vs RC Strasbourg Alsace 02:45 ngày 23/03 French Ligue 1 (Link 2)
@@ -25,14 +19,20 @@ https://cdn-hls.taoxanh.biz/live/69c03b5a70a6a_85514/index.m3u8?expire=177481058
 https://live.alilicloud.com/live/a6f8ed1d429aa13c6c4d8b2323ced211/playlist.m3u8
 #EXTINF:-1 tvg-id="601323679" group-title="Fiorentina vs Inter Milan 02:45 ngày 23/03 Italian Serie A", Fiorentina vs Inter Milan 02:45 ngày 23/03 Italian Serie A (Link 3)
 https://cdn-hls.taoxanh.biz/live/69c03b5a70a6a_85514/index.m3u8?expire=1774810586&sign=5e91e6f329a36b5f0faf4168b9cf633b
-#EXTINF:-1 tvg-id="601323568" group-title="Wydad Casablanca vs Olympique de Safi 02:00 ngày 23/03 CAF Confederation Cup", Wydad Casablanca vs Olympique de Safi 02:00 ngày 23/03 CAF Confederation Cup
-https://live.alilicloud.com/live/0630b8a58c8451a80a2446d9444a6c1a/playlist.m3u8
-#EXTINF:-1 tvg-id="601323616" group-title="Cruzeiro Esporte Clube vs Santos 02:00 ngày 23/03 Brazilian Serie A", Cruzeiro Esporte Clube vs Santos 02:00 ngày 23/03 Brazilian Serie A
-https://live.alilicloud.com/live/bdad34596d1398592828cb998fd07aaa/playlist.m3u8
-#EXTINF:-1 tvg-id="601323619" group-title="Athletico Paranaense vs Coritiba PR 02:00 ngày 23/03 Brazilian Serie A", Athletico Paranaense vs Coritiba PR 02:00 ngày 23/03 Brazilian Serie A
-https://live.alilicloud.com/live/c0e0dfd662d865032f614bb534f23295/playlist.m3u8
+#EXTINF:-1 tvg-id="601323703" group-title="Sporting Braga vs FC Porto 03:30 ngày 23/03 Portuguese Primera Liga", Sporting Braga vs FC Porto 03:30 ngày 23/03 Portuguese Primera Liga (Link 1)
+https://cdn-hls.taoxanh.biz/live/69c04bea326da_88186/index.m3u8?expire=1774814826&amp;sign=f1cca08866d67e29c508dbd0be07f8db
+#EXTINF:-1 tvg-id="601323703" group-title="Sporting Braga vs FC Porto 03:30 ngày 23/03 Portuguese Primera Liga", Sporting Braga vs FC Porto 03:30 ngày 23/03 Portuguese Primera Liga (Link 2)
+https://live.alilicloud.com/live/fdb876ac1925d2fe7615b4c2b8c209f0/playlist.m3u8
+#EXTINF:-1 tvg-id="601323703" group-title="Sporting Braga vs FC Porto 03:30 ngày 23/03 Portuguese Primera Liga", Sporting Braga vs FC Porto 03:30 ngày 23/03 Portuguese Primera Liga (Link 3)
+https://cdn-hls.taoxanh.biz/live/69c04bea326da_88186/index.m3u8?expire=1774814826&sign=f1cca08866d67e29c508dbd0be07f8db
 #EXTINF:-1 tvg-id="601323637" group-title="San Telmo vs Colon de Santa Fe 02:00 ngày 23/03 Argentine Division 2", San Telmo vs Colon de Santa Fe 02:00 ngày 23/03 Argentine Division 2
 https://live.alilicloud.com/live/742cbf5ad1b2b291ab4cdbfc6f02b285/playlist.m3u8
+#EXTINF:-1 tvg-id="601323676" group-title="Academia Puerto Cabello B vs Yaracuyanos 02:30 ngày 23/03 Venezuela Segunda Division", Academia Puerto Cabello B vs Yaracuyanos 02:30 ngày 23/03 Venezuela Segunda Division
+https://live.alilicloud.com/live/d6f76429563af85c649435ef4868522f/playlist.m3u8
+#EXTINF:-1 tvg-id="601326676" group-title="Denver Nuggets vs Portland Trail Blazers 04:00 ngày 23/03 NBA", Denver Nuggets vs Portland Trail Blazers 04:00 ngày 23/03 NBA (Link 1)
+https://cdn-hls.taoxanh.biz/live/69c05b0670a6a_145690/index.m3u8?expire=1774818694&amp;sign=52182dd7f5c5734ec610e4bf49cb9774
+#EXTINF:-1 tvg-id="601326676" group-title="Denver Nuggets vs Portland Trail Blazers 04:00 ngày 23/03 NBA", Denver Nuggets vs Portland Trail Blazers 04:00 ngày 23/03 NBA (Link 2)
+https://cdn-hls.taoxanh.biz/live/69c05b0670a6a_145690/index.m3u8?expire=1774818694&sign=52182dd7f5c5734ec610e4bf49cb9774
 #EXTINF:-1 tvg-id="601329205" group-title="Tommy Paul vs Raphael Collignon 01:00 ngày 23/03 ATP MIAMI 2026", Tommy Paul vs Raphael Collignon 01:00 ngày 23/03 ATP MIAMI 2026 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69c02c02326da_110198/index.m3u8?expire=1774806658&amp;sign=9ef6ffeec840125d256fcd02296930de
 #EXTINF:-1 tvg-id="601329205" group-title="Tommy Paul vs Raphael Collignon 01:00 ngày 23/03 ATP MIAMI 2026", Tommy Paul vs Raphael Collignon 01:00 ngày 23/03 ATP MIAMI 2026 (Link 2)
@@ -41,3 +41,7 @@ https://cdn-hls.taoxanh.biz/live/69c02c02326da_110198/index.m3u8?expire=17748066
 https://cdn-hls.taoxanh.biz/live/69c038e070a6a_4733/index.m3u8?expire=1774809952&amp;sign=a197a551265e7a8639e61524d29aaa19
 #EXTINF:-1 tvg-id="601329202" group-title="Alcaraz C. vs Korda S. 02:00 ngày 23/03 ATP MIAMI 2026", Alcaraz C. vs Korda S. 02:00 ngày 23/03 ATP MIAMI 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69c038e070a6a_4733/index.m3u8?expire=1774809952&sign=a197a551265e7a8639e61524d29aaa19
+#EXTINF:-1 tvg-id="601329286" group-title="Karen Khachanov vs Landaluce M. 03:00 ngày 23/03 ATP MIAMI 2026", Karen Khachanov vs Landaluce M. 03:00 ngày 23/03 ATP MIAMI 2026 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69c05b5f326da_110198/index.m3u8?expire=1774818783&amp;sign=e574aef36953d9515332f3981081f15b
+#EXTINF:-1 tvg-id="601329286" group-title="Karen Khachanov vs Landaluce M. 03:00 ngày 23/03 ATP MIAMI 2026", Karen Khachanov vs Landaluce M. 03:00 ngày 23/03 ATP MIAMI 2026 (Link 2)
+https://cdn-hls.taoxanh.biz/live/69c05b5f326da_110198/index.m3u8?expire=1774818783&sign=e574aef36953d9515332f3981081f15b
