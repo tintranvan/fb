@@ -5,3 +5,7 @@ https://cdn-hls.taoxanh.biz/live/69c0e0e6326da_128756/index.m3u8?expire=17748529
 https://cdn-hls.taoxanh.biz/live/69c0e0e6326da_128756/index.m3u8?expire=1774852966&amp;sign=57972a157c337bfb211001502fc066b6
 #EXTINF:-1 tvg-id="601329196" group-title="CISF vs Northern United FC 14:30 ngày 23/03 IND DSD", CISF vs Northern United FC 14:30 ngày 23/03 IND DSD
 https://live.alilicloud.com/live/ba940d6ec0a9cc75ea9a280f94a5e3d9/playlist.m3u8
+#EXTINF:-1 tvg-id="601323979" group-title="Adelaide Blue Eagles vs Modbury Jets 16:45 ngày 23/03 South Australia State League 1", Adelaide Blue Eagles vs Modbury Jets 16:45 ngày 23/03 South Australia State League 1 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69c10374326da_85514/index.m3u8?expire=1774861812&sign=bfd08ec32ffb4b690d03fd01e9a7e800
+#EXTINF:-1 tvg-id="601323979" group-title="Adelaide Blue Eagles vs Modbury Jets 16:45 ngày 23/03 South Australia State League 1", Adelaide Blue Eagles vs Modbury Jets 16:45 ngày 23/03 South Australia State League 1 (Link 2)
+https://cdn-hls.taoxanh.biz/live/69c10374326da_85514/index.m3u8?expire=1774861812&amp;sign=bfd08ec32ffb4b690d03fd01e9a7e800
