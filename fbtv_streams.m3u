@@ -1,16 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601326718" group-title="Dallas Mavericks vs Golden State Warriors 08:30 ngày 24/03 NBA", Dallas Mavericks vs Golden State Warriors 08:30 ngày 24/03 NBA (Link 1)
-https://cdn-hls.taoxanh.biz/live/69c1ea4b70a6a_42127/index.m3u8?expire=1774920907&sign=19ef974fd721b612235071d4745b34af
-#EXTINF:-1 tvg-id="601326718" group-title="Dallas Mavericks vs Golden State Warriors 08:30 ngày 24/03 NBA", Dallas Mavericks vs Golden State Warriors 08:30 ngày 24/03 NBA (Link 2)
-https://cdn-hls.taoxanh.biz/live/69c1ea4b70a6a_42127/index.m3u8?expire=1774920907&amp;sign=19ef974fd721b612235071d4745b34af
-#EXTINF:-1 tvg-id="601326721" group-title="Portland Trail Blazers vs Brooklyn Nets 09:00 ngày 24/03 NBA", Portland Trail Blazers vs Brooklyn Nets 09:00 ngày 24/03 NBA (Link 1)
-https://cdn-hls.taoxanh.biz/live/69c1ee1370a6a_72787/index.m3u8?expire=1774921875&sign=8fe826a50ff136389916ec165ee84cee
-#EXTINF:-1 tvg-id="601326721" group-title="Portland Trail Blazers vs Brooklyn Nets 09:00 ngày 24/03 NBA", Portland Trail Blazers vs Brooklyn Nets 09:00 ngày 24/03 NBA (Link 2)
-https://cdn-hls.taoxanh.biz/live/69c1ee1370a6a_72787/index.m3u8?expire=1774921875&amp;sign=8fe826a50ff136389916ec165ee84cee
-#EXTINF:-1 tvg-id="601326724" group-title="Los Angeles Clippers vs Milwaukee Bucks 09:30 ngày 24/03 NBA", Los Angeles Clippers vs Milwaukee Bucks 09:30 ngày 24/03 NBA (Link 1)
-https://cdn-hls.taoxanh.biz/live/69c1f7f9326da_4733/index.m3u8?expire=1774924409&sign=a9a82248008bad31e91c5198284ae984
-#EXTINF:-1 tvg-id="601326724" group-title="Los Angeles Clippers vs Milwaukee Bucks 09:30 ngày 24/03 NBA", Los Angeles Clippers vs Milwaukee Bucks 09:30 ngày 24/03 NBA (Link 2)
-https://cdn-hls.taoxanh.biz/live/69c1f7f9326da_4733/index.m3u8?expire=1774924409&amp;sign=a9a82248008bad31e91c5198284ae984
+#EXTINF:-1 tvg-id="601330051" group-title="Garhwal Diamond vs Friends United 11:30 ngày 24/03 IND DSD", Garhwal Diamond vs Friends United 11:30 ngày 24/03 IND DSD
+https://live.alilicloud.com/live/b0d4d3db532f3f06fe38c13a7a3db139/playlist.m3u8
 #EXTINF:-1 tvg-id="601324918" group-title="Musspor vs Kahramanmaras Bld 18:00 ngày 24/03 Turkish Second League", Musspor vs Kahramanmaras Bld 18:00 ngày 24/03 Turkish Second League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69c1fd9d326da_6308/index.m3u8?expire=1774925853&sign=22a2e59656047d0c492f4d4f953be2ce
 #EXTINF:-1 tvg-id="601324918" group-title="Musspor vs Kahramanmaras Bld 18:00 ngày 24/03 Turkish Second League", Musspor vs Kahramanmaras Bld 18:00 ngày 24/03 Turkish Second League (Link 2)
