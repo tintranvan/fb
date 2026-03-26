@@ -17,12 +17,6 @@ https://cdn-hls.taoxanh.biz/live/69c573054b877_72787/index.m3u8?expire=177515251
 https://live.alilicloud.com/live/a1fdb0d93e7d472b5a5a85157124d3b5/playlist.m3u8
 #EXTINF:-1 tvg-id="601327636" group-title="Czech vs Ireland 02:45 ngày 27/03 FIFA World Cup qualification (UEFA)", Czech vs Ireland 02:45 ngày 27/03 FIFA World Cup qualification (UEFA) (Link 3)
 https://cdn-hls.taoxanh.biz/live/69c573054b877_72787/index.m3u8?expire=1775152517&sign=c13d74ff72b46563ce391a45229f736b
-#EXTINF:-1 tvg-id="601327648" group-title="Poland vs Albania 02:45 ngày 27/03 FIFA World Cup qualification (UEFA)", Poland vs Albania 02:45 ngày 27/03 FIFA World Cup qualification (UEFA) (Link 1)
-https://cdn-hls.taoxanh.biz/live/69c584ae229d0_88186/index.m3u8?expire=1775157038&amp;sign=9650e8e18e9c86328707f59d46dff3bd
-#EXTINF:-1 tvg-id="601327648" group-title="Poland vs Albania 02:45 ngày 27/03 FIFA World Cup qualification (UEFA)", Poland vs Albania 02:45 ngày 27/03 FIFA World Cup qualification (UEFA) (Link 2)
-https://live.alilicloud.com/live/bbcf5aa6ac7c86ee33cceab4f135b55f/playlist.m3u8
-#EXTINF:-1 tvg-id="601327648" group-title="Poland vs Albania 02:45 ngày 27/03 FIFA World Cup qualification (UEFA)", Poland vs Albania 02:45 ngày 27/03 FIFA World Cup qualification (UEFA) (Link 3)
-https://cdn-hls.taoxanh.biz/live/69c584ae229d0_88186/index.m3u8?expire=1775157038&sign=9650e8e18e9c86328707f59d46dff3bd
 #EXTINF:-1 tvg-id="601327642" group-title="Wales vs Bosnia-Herzegovina 02:45 ngày 27/03 FIFA World Cup qualification (UEFA)", Wales vs Bosnia-Herzegovina 02:45 ngày 27/03 FIFA World Cup qualification (UEFA) (Link 1)
 https://cdn-hls.taoxanh.biz/live/69c58039229d0_128756/index.m3u8?expire=1775155897&amp;sign=cdfd72c71272b16655dd68f117be0fc7
 #EXTINF:-1 tvg-id="601327642" group-title="Wales vs Bosnia-Herzegovina 02:45 ngày 27/03 FIFA World Cup qualification (UEFA)", Wales vs Bosnia-Herzegovina 02:45 ngày 27/03 FIFA World Cup qualification (UEFA) (Link 2)
@@ -35,6 +29,12 @@ https://cdn-hls.taoxanh.biz/live/69c57fc971d8e_44731/index.m3u8?expire=177515578
 https://live.alilicloud.com/live/408ce484468ce89c0a9b755cc70efb87/playlist.m3u8
 #EXTINF:-1 tvg-id="601327645" group-title="Ukraine vs Sweden 02:45 ngày 27/03 FIFA World Cup qualification (UEFA)", Ukraine vs Sweden 02:45 ngày 27/03 FIFA World Cup qualification (UEFA) (Link 3)
 https://cdn-hls.taoxanh.biz/live/69c57fc971d8e_44731/index.m3u8?expire=1775155785&sign=cc613e5db1354d0f335a8caac8a0e96b
+#EXTINF:-1 tvg-id="601327648" group-title="Poland vs Albania 02:45 ngày 27/03 FIFA World Cup qualification (UEFA)", Poland vs Albania 02:45 ngày 27/03 FIFA World Cup qualification (UEFA) (Link 1)
+https://cdn-hls.taoxanh.biz/live/69c584ae229d0_88186/index.m3u8?expire=1775157038&amp;sign=9650e8e18e9c86328707f59d46dff3bd
+#EXTINF:-1 tvg-id="601327648" group-title="Poland vs Albania 02:45 ngày 27/03 FIFA World Cup qualification (UEFA)", Poland vs Albania 02:45 ngày 27/03 FIFA World Cup qualification (UEFA) (Link 2)
+https://live.alilicloud.com/live/bbcf5aa6ac7c86ee33cceab4f135b55f/playlist.m3u8
+#EXTINF:-1 tvg-id="601327648" group-title="Poland vs Albania 02:45 ngày 27/03 FIFA World Cup qualification (UEFA)", Poland vs Albania 02:45 ngày 27/03 FIFA World Cup qualification (UEFA) (Link 3)
+https://cdn-hls.taoxanh.biz/live/69c584ae229d0_88186/index.m3u8?expire=1775157038&sign=9650e8e18e9c86328707f59d46dff3bd
 #EXTINF:-1 tvg-id="601327651" group-title="Slovakia vs Kosovo 02:45 ngày 27/03 FIFA World Cup qualification (UEFA)", Slovakia vs Kosovo 02:45 ngày 27/03 FIFA World Cup qualification (UEFA) (Link 1)
 https://cdn-hls.taoxanh.biz/live/69c58fde439cd_133172/index.m3u8?expire=1775159902&amp;sign=c9fb9f1d51d12c5efec359c6069d4fab
 #EXTINF:-1 tvg-id="601327651" group-title="Slovakia vs Kosovo 02:45 ngày 27/03 FIFA World Cup qualification (UEFA)", Slovakia vs Kosovo 02:45 ngày 27/03 FIFA World Cup qualification (UEFA) (Link 2)
@@ -47,13 +47,11 @@ https://cdn-hls.taoxanh.biz/live/69c5803a229d0_4908/index.m3u8?expire=1775155898
 https://live.alilicloud.com/live/364224ed708564ac4a67022da98944a9/playlist.m3u8
 #EXTINF:-1 tvg-id="601327633" group-title="Denmark vs North Macedonia 02:45 ngày 27/03 FIFA World Cup qualification (UEFA)", Denmark vs North Macedonia 02:45 ngày 27/03 FIFA World Cup qualification (UEFA) (Link 3)
 https://cdn-hls.taoxanh.biz/live/69c5803a229d0_4908/index.m3u8?expire=1775155898&sign=0b4ae7b3495d6359558df84313188f04
-#EXTINF:-1 tvg-id="601338832" group-title="Coco Gauff vs Muchova K. 02:00 ngày 27/03 WTA MIAMI 2026", Coco Gauff vs Muchova K. 02:00 ngày 27/03 WTA MIAMI 2026 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69c57a9c5d7c2_110198/index.m3u8?expire=1775154460&amp;sign=73f233a8c634a8a2b50a66d192be123c
-#EXTINF:-1 tvg-id="601338832" group-title="Coco Gauff vs Muchova K. 02:00 ngày 27/03 WTA MIAMI 2026", Coco Gauff vs Muchova K. 02:00 ngày 27/03 WTA MIAMI 2026 (Link 2)
-https://cdn-hls.taoxanh.biz/live/69c57a9c5d7c2_110198/index.m3u8?expire=1775154460&sign=73f233a8c634a8a2b50a66d192be123c
-#EXTINF:-1 tvg-id="601327630" group-title="Danubio FC vs Defensor Sporting Montevideo 02:00 ngày 27/03 Uruguay Primera Division", Danubio FC vs Defensor Sporting Montevideo 02:00 ngày 27/03 Uruguay Primera Division
-https://live.alilicloud.com/live/ed985b867eceb1c5157ce450e824fe51/playlist.m3u8
 #EXTINF:-1 tvg-id="601326388" group-title="Escorpiones Belen vs CS Uruguay De Coronado 03:00 ngày 27/03 Costa Rica 2.Liga", Escorpiones Belen vs CS Uruguay De Coronado 03:00 ngày 27/03 Costa Rica 2.Liga
 https://live.alilicloud.com/live/9ef0b4cbce6beebbd775f0f4128eb783/playlist.m3u8
 #EXTINF:-1 tvg-id="601326406" group-title="Atletico Futbol Club vs Cuniburo FC 03:30 ngày 27/03 Ecuadorian Campeonato Serie B", Atletico Futbol Club vs Cuniburo FC 03:30 ngày 27/03 Ecuadorian Campeonato Serie B
 https://live.alilicloud.com/live/eda236a166720a9af75dd1358c05aa17/playlist.m3u8
+#EXTINF:-1 tvg-id="601325302" group-title="Deportes Limache vs Palestino 04:00 ngày 27/03 CHI LC", Deportes Limache vs Palestino 04:00 ngày 27/03 CHI LC
+https://live.alilicloud.com/live/d3bf4821bdc185ba449d8c82da3d0917/playlist.m3u8
+#EXTINF:-1 tvg-id="601327690" group-title="Union Magdalena vs Real Santander 04:00 ngày 27/03 Colombian Torneo BetPlay Dimayor", Union Magdalena vs Real Santander 04:00 ngày 27/03 Colombian Torneo BetPlay Dimayor
+https://live.alilicloud.com/live/5381945497fcbd100403a15b91976366/playlist.m3u8
