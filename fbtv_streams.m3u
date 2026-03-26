@@ -1,28 +1,24 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601326520" group-title="Việt Nam vs Bangladesh 19:00 ngày 26/03 International Friendly", Việt Nam vs Bangladesh 19:00 ngày 26/03 International Friendly (Link 1)
-https://cdn-hls.taoxanh.biz/live/69c51b204b877_79/index.m3u8?expire=1775130016&amp;sign=d40f77bd2c0ad429b127d5fcca9e60d8
-#EXTINF:-1 tvg-id="601326520" group-title="Việt Nam vs Bangladesh 19:00 ngày 26/03 International Friendly", Việt Nam vs Bangladesh 19:00 ngày 26/03 International Friendly (Link 2)
-https://live.alilicloud.com/live/ba7395e3b2ea91dabb37bca25ec9f64b/playlist.m3u8
-#EXTINF:-1 tvg-id="601326520" group-title="Việt Nam vs Bangladesh 19:00 ngày 26/03 International Friendly", Việt Nam vs Bangladesh 19:00 ngày 26/03 International Friendly (Link 3)
-https://cdn-hls.taoxanh.biz/live/69c514f34b877_4908/index.m3u8?expire=1775128435&sign=961282308e389830e13f7270093abc6b
-#EXTINF:-1 tvg-id="601326517" group-title="Aruba vs Macau of China 18:30 ngày 26/03 FIFA Series", Aruba vs Macau of China 18:30 ngày 26/03 FIFA Series (Link 1)
-https://cdn-hls.taoxanh.biz/live/69c50b0a4b877_136682/index.m3u8?expire=1775125898&amp;sign=3ad756e689af80af465682d985294303
-#EXTINF:-1 tvg-id="601326517" group-title="Aruba vs Macau of China 18:30 ngày 26/03 FIFA Series", Aruba vs Macau of China 18:30 ngày 26/03 FIFA Series (Link 2)
-https://live.alilicloud.com/live/acbf77b96d225511bb127c367c2f13af/playlist.m3u8
-#EXTINF:-1 tvg-id="601326517" group-title="Aruba vs Macau of China 18:30 ngày 26/03 FIFA Series", Aruba vs Macau of China 18:30 ngày 26/03 FIFA Series (Link 3)
-https://cdn-hls.taoxanh.biz/live/69c50b0a4b877_136682/index.m3u8?expire=1775125898&sign=3ad756e689af80af465682d985294303
-#EXTINF:-1 tvg-id="601338586" group-title="Snehit Suravajjula vs Joe Seyfried 19:40 ngày 26/03 Table 1 - WTT Contender Tunis 2026", Snehit Suravajjula vs Joe Seyfried 19:40 ngày 26/03 Table 1 - WTT Contender Tunis 2026 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69c4fd3029f1e_4733/index.m3u8?expire=1775122352&amp;sign=73b2d69ee2eb17e5d46511716a7509a3
-#EXTINF:-1 tvg-id="601338586" group-title="Snehit Suravajjula vs Joe Seyfried 19:40 ngày 26/03 Table 1 - WTT Contender Tunis 2026", Snehit Suravajjula vs Joe Seyfried 19:40 ngày 26/03 Table 1 - WTT Contender Tunis 2026 (Link 2)
-https://cdn-hls.taoxanh.biz/live/69c4fd3029f1e_4733/index.m3u8?expire=1775122352&sign=73b2d69ee2eb17e5d46511716a7509a3
-#EXTINF:-1 tvg-id="601338589" group-title="Remi Betelu vs Maharu Yoshimura 20:15 ngày 26/03 Table 2 - WTT Contender Tunis 2026", Remi Betelu vs Maharu Yoshimura 20:15 ngày 26/03 Table 2 - WTT Contender Tunis 2026 (Link 1)
+#EXTINF:-1 tvg-id="601326550" group-title="Famalicao U23 vs Sporting CP U23 21:00 ngày 26/03 Portuguese U23 League", Famalicao U23 vs Sporting CP U23 21:00 ngày 26/03 Portuguese U23 League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69c52f815a9e1_95554/index.m3u8?expire=1775135233&amp;sign=3056e8f757b3ef99c6f790fbe9a69f6f
+#EXTINF:-1 tvg-id="601326550" group-title="Famalicao U23 vs Sporting CP U23 21:00 ngày 26/03 Portuguese U23 League", Famalicao U23 vs Sporting CP U23 21:00 ngày 26/03 Portuguese U23 League (Link 2)
+https://live.alilicloud.com/live/3ce3cd36d6f3fe83a894fe17877d61cd/playlist.m3u8
+#EXTINF:-1 tvg-id="601326550" group-title="Famalicao U23 vs Sporting CP U23 21:00 ngày 26/03 Portuguese U23 League", Famalicao U23 vs Sporting CP U23 21:00 ngày 26/03 Portuguese U23 League (Link 3)
+https://cdn-hls.taoxanh.biz/live/69c52f815a9e1_95554/index.m3u8?expire=1775135233&sign=3056e8f757b3ef99c6f790fbe9a69f6f
+#EXTINF:-1 tvg-id="601326556" group-title="Tanzania vs Liechtenstein 21:30 ngày 26/03 FIFA Series", Tanzania vs Liechtenstein 21:30 ngày 26/03 FIFA Series (Link 1)
+https://cdn-hls.taoxanh.biz/live/69c539545032d_88642/index.m3u8?expire=1775137748&amp;sign=6c19ecf0b009f38a1ee76a6298bcdbec
+#EXTINF:-1 tvg-id="601326556" group-title="Tanzania vs Liechtenstein 21:30 ngày 26/03 FIFA Series", Tanzania vs Liechtenstein 21:30 ngày 26/03 FIFA Series (Link 2)
+https://live.alilicloud.com/live/c00f75d934e0f3d88ff38859639750e4/playlist.m3u8
+#EXTINF:-1 tvg-id="601326556" group-title="Tanzania vs Liechtenstein 21:30 ngày 26/03 FIFA Series", Tanzania vs Liechtenstein 21:30 ngày 26/03 FIFA Series (Link 3)
+https://cdn-hls.taoxanh.biz/live/69c539545032d_88642/index.m3u8?expire=1775137748&sign=6c19ecf0b009f38a1ee76a6298bcdbec
+#EXTINF:-1 tvg-id="601338589" group-title="Abraamian/Panfilove vs Tailakova/Shcherbatykh 21:00 ngày 26/03 Table 2 - WTT Contender Tunis 2026", Abraamian/Panfilove vs Tailakova/Shcherbatykh 21:00 ngày 26/03 Table 2 - WTT Contender Tunis 2026 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69c4f8304b877_42127/index.m3u8?expire=1775121072&amp;sign=648357cb53a672fa0f1d396bf55fdd6d
-#EXTINF:-1 tvg-id="601338589" group-title="Remi Betelu vs Maharu Yoshimura 20:15 ngày 26/03 Table 2 - WTT Contender Tunis 2026", Remi Betelu vs Maharu Yoshimura 20:15 ngày 26/03 Table 2 - WTT Contender Tunis 2026 (Link 2)
+#EXTINF:-1 tvg-id="601338589" group-title="Abraamian/Panfilove vs Tailakova/Shcherbatykh 21:00 ngày 26/03 Table 2 - WTT Contender Tunis 2026", Abraamian/Panfilove vs Tailakova/Shcherbatykh 21:00 ngày 26/03 Table 2 - WTT Contender Tunis 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69c4f8304b877_42127/index.m3u8?expire=1775121072&sign=648357cb53a672fa0f1d396bf55fdd6d
 #EXTINF:-1 tvg-id="601329619" group-title="Al Quwa Al Jawiya vs Al Karkh 19:30 ngày 26/03 Iraq Stars League", Al Quwa Al Jawiya vs Al Karkh 19:30 ngày 26/03 Iraq Stars League
 https://live.alilicloud.com/live/159f42daef58a6efb2b28f7639cc8108/playlist.m3u8
-#EXTINF:-1 tvg-id="601329631" group-title="Zakho SC vs Al Shorta 19:30 ngày 26/03 Iraq Stars League", Zakho SC vs Al Shorta 19:30 ngày 26/03 Iraq Stars League
-https://live.alilicloud.com/live/7ad2ea9f3b042af7810ccb98b4eaaea9/playlist.m3u8
+#EXTINF:-1 tvg-id="601329607" group-title="Djibouti vs South Sudan 20:00 ngày 26/03 CAF Africa Cup of Nations", Djibouti vs South Sudan 20:00 ngày 26/03 CAF Africa Cup of Nations
+https://live.alilicloud.com/live/3feb442ddd4ac46d1fe5cc7210e3f9d8/playlist.m3u8
 #EXTINF:-1 tvg-id="601335475" group-title="Karlsruher SC vs SV Wehen Wiesbaden 20:00 ngày 26/03 International Club Friendly", Karlsruher SC vs SV Wehen Wiesbaden 20:00 ngày 26/03 International Club Friendly
 https://live.alilicloud.com/live/154326327ec56794a1be3fbe081105b7/playlist.m3u8
 #EXTINF:-1 tvg-id="601337296" group-title="Trenkwalder Admira Wacker vs Dunajska Streda 20:00 ngày 26/03 International Club Friendly", Trenkwalder Admira Wacker vs Dunajska Streda 20:00 ngày 26/03 International Club Friendly
@@ -31,7 +27,19 @@ https://live.alilicloud.com/live/2659af23963174809f2c7fba088eb15f/playlist.m3u8
 https://live.alilicloud.com/live/b86272820f86d0ecc7bdfbc738504e4e/playlist.m3u8
 #EXTINF:-1 tvg-id="601338796" group-title="Akaki Kality vs Batu Ketema 20:00 ngày 26/03 Ethiopian Higher League", Akaki Kality vs Batu Ketema 20:00 ngày 26/03 Ethiopian Higher League
 https://live.alilicloud.com/live/2fc38830690fd40094b83e69c46c382d/playlist.m3u8
-#EXTINF:-1 tvg-id="601326550" group-title="Famalicao U23 vs Sporting CP U23 21:00 ngày 26/03 Portuguese U23 League", Famalicao U23 vs Sporting CP U23 21:00 ngày 26/03 Portuguese U23 League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69c52f815a9e1_95554/index.m3u8?expire=1775135233&amp;sign=3056e8f757b3ef99c6f790fbe9a69f6f
-#EXTINF:-1 tvg-id="601326550" group-title="Famalicao U23 vs Sporting CP U23 21:00 ngày 26/03 Portuguese U23 League", Famalicao U23 vs Sporting CP U23 21:00 ngày 26/03 Portuguese U23 League (Link 2)
-https://cdn-hls.taoxanh.biz/live/69c52f815a9e1_95554/index.m3u8?expire=1775135233&sign=3056e8f757b3ef99c6f790fbe9a69f6f
+#EXTINF:-1 tvg-id="601327573" group-title="FC Masar vs Baladiyat El Mahalla 20:30 ngày 26/03 Egyptian Division 2", FC Masar vs Baladiyat El Mahalla 20:30 ngày 26/03 Egyptian Division 2
+https://live.alilicloud.com/live/1d08014672e3e553bd2f883e3d2c19f5/playlist.m3u8
+#EXTINF:-1 tvg-id="601335484" group-title="Malmo FF vs Landskrona BoIS 21:00 ngày 26/03 International Club Friendly", Malmo FF vs Landskrona BoIS 21:00 ngày 26/03 International Club Friendly
+https://live.alilicloud.com/live/40e090b47d4a06391fecf4317cb5b489/playlist.m3u8
+#EXTINF:-1 tvg-id="601326526" group-title="Moldova vs Lithuania 22:00 ngày 26/03 International Friendly", Moldova vs Lithuania 22:00 ngày 26/03 International Friendly (Link 1)
+https://cdn-hls.taoxanh.biz/live/69c543b565105_74012/index.m3u8?expire=1775140405&amp;sign=cfc8b671c6ef2ddadfaf58258aed1b5c
+#EXTINF:-1 tvg-id="601326526" group-title="Moldova vs Lithuania 22:00 ngày 26/03 International Friendly", Moldova vs Lithuania 22:00 ngày 26/03 International Friendly (Link 2)
+https://cdn-hls.taoxanh.biz/live/69c543b565105_74012/index.m3u8?expire=1775140405&sign=cfc8b671c6ef2ddadfaf58258aed1b5c
+#EXTINF:-1 tvg-id="601326571" group-title="Racing Club Montevideo vs Club Atletico Progreso 23:00 ngày 26/03 Uruguay Primera Division", Racing Club Montevideo vs Club Atletico Progreso 23:00 ngày 26/03 Uruguay Primera Division (Link 1)
+https://cdn-hls.taoxanh.biz/live/69c53ada65105_72787/index.m3u8?expire=1775138138&amp;sign=eae88773c008e5d1eb71b66a2138840a
+#EXTINF:-1 tvg-id="601326571" group-title="Racing Club Montevideo vs Club Atletico Progreso 23:00 ngày 26/03 Uruguay Primera Division", Racing Club Montevideo vs Club Atletico Progreso 23:00 ngày 26/03 Uruguay Primera Division (Link 2)
+https://cdn-hls.taoxanh.biz/live/69c53ada65105_72787/index.m3u8?expire=1775138138&sign=eae88773c008e5d1eb71b66a2138840a
+#EXTINF:-1 tvg-id="601329622" group-title="El Gounah vs Al Masry 22:00 ngày 26/03 Egypt League Cup", El Gounah vs Al Masry 22:00 ngày 26/03 Egypt League Cup (Link 1)
+https://cdn-hls.taoxanh.biz/live/69c5436965105_103/index.m3u8?expire=1775140329&amp;sign=8dc2ed892088c8085cde908f38ca3ae5
+#EXTINF:-1 tvg-id="601329622" group-title="El Gounah vs Al Masry 22:00 ngày 26/03 Egypt League Cup", El Gounah vs Al Masry 22:00 ngày 26/03 Egypt League Cup (Link 2)
+https://cdn-hls.taoxanh.biz/live/69c5436965105_103/index.m3u8?expire=1775140329&sign=8dc2ed892088c8085cde908f38ca3ae5
