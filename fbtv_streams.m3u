@@ -1,53 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601327684" group-title="Bolivia vs Suriname 05:00 ngày 27/03 FIFA World Cup (Inter-confederation Play-offs)", Bolivia vs Suriname 05:00 ngày 27/03 FIFA World Cup (Inter-confederation Play-offs) (Link 1)
-https://cdn-hls.taoxanh.biz/live/69c5a80d16898_133172/index.m3u8?expire=1775166093&amp;sign=98ee2bd4e806b11f1f0f69d59b817fdd
-#EXTINF:-1 tvg-id="601327684" group-title="Bolivia vs Suriname 05:00 ngày 27/03 FIFA World Cup (Inter-confederation Play-offs)", Bolivia vs Suriname 05:00 ngày 27/03 FIFA World Cup (Inter-confederation Play-offs) (Link 2)
-https://live.alilicloud.com/live/c7a7b890ae58bf9b2bf4fb5fd0dbcfe8/playlist.m3u8
-#EXTINF:-1 tvg-id="601327684" group-title="Bolivia vs Suriname 05:00 ngày 27/03 FIFA World Cup (Inter-confederation Play-offs)", Bolivia vs Suriname 05:00 ngày 27/03 FIFA World Cup (Inter-confederation Play-offs) (Link 3)
-https://cdn-hls.taoxanh.biz/live/69c5a80d16898_133172/index.m3u8?expire=1775166093&sign=98ee2bd4e806b11f1f0f69d59b817fdd
-#EXTINF:-1 tvg-id="601325305" group-title="Everton CD vs O.Higgins 06:30 ngày 27/03 CHI LC", Everton CD vs O.Higgins 06:30 ngày 27/03 CHI LC (Link 1)
-https://cdn-hls.taoxanh.biz/live/69c5bc5b4b877_74012/index.m3u8?expire=1775171291&amp;sign=ef5ed4457d0dbab1338c98a850ee5318
-#EXTINF:-1 tvg-id="601325305" group-title="Everton CD vs O.Higgins 06:30 ngày 27/03 CHI LC", Everton CD vs O.Higgins 06:30 ngày 27/03 CHI LC (Link 2)
-https://live.alilicloud.com/live/bcd05e5e8c992036566b81312e68b4be/playlist.m3u8
-#EXTINF:-1 tvg-id="601325305" group-title="Everton CD vs O.Higgins 06:30 ngày 27/03 CHI LC", Everton CD vs O.Higgins 06:30 ngày 27/03 CHI LC (Link 3)
-https://cdn-hls.taoxanh.biz/live/69c5bc5b4b877_74012/index.m3u8?expire=1775171291&sign=ef5ed4457d0dbab1338c98a850ee5318
-#EXTINF:-1 tvg-id="601327693" group-title="Colombia vs Croatia 06:30 ngày 27/03 International Friendly", Colombia vs Croatia 06:30 ngày 27/03 International Friendly (Link 1)
-https://cdn-hls.taoxanh.biz/live/69c5bea74b877_73445/index.m3u8?expire=1775171879&amp;sign=5b5cc506a2be6a876dd98949c9336c5e
-#EXTINF:-1 tvg-id="601327693" group-title="Colombia vs Croatia 06:30 ngày 27/03 International Friendly", Colombia vs Croatia 06:30 ngày 27/03 International Friendly (Link 2)
-https://live.alilicloud.com/live/66a6478cb5f74331a2d539cb2540eda5/playlist.m3u8
-#EXTINF:-1 tvg-id="601327693" group-title="Colombia vs Croatia 06:30 ngày 27/03 International Friendly", Colombia vs Croatia 06:30 ngày 27/03 International Friendly (Link 3)
-https://cdn-hls.taoxanh.biz/live/69c5bea74b877_73445/index.m3u8?expire=1775171879&sign=5b5cc506a2be6a876dd98949c9336c5e
-#EXTINF:-1 tvg-id="601329913" group-title="Charlotte Hornets vs New York Knicks 06:00 ngày 27/03 NBA", Charlotte Hornets vs New York Knicks 06:00 ngày 27/03 NBA (Link 1)
-https://cdn-hls.taoxanh.biz/live/69c5b87c27286_145690/index.m3u8?expire=1775170300&amp;sign=55772bfafe520818a455879007665d72
-#EXTINF:-1 tvg-id="601329913" group-title="Charlotte Hornets vs New York Knicks 06:00 ngày 27/03 NBA", Charlotte Hornets vs New York Knicks 06:00 ngày 27/03 NBA (Link 2)
-https://cdn-hls.taoxanh.biz/live/69c5b87c27286_145690/index.m3u8?expire=1775170300&sign=55772bfafe520818a455879007665d72
-#EXTINF:-1 tvg-id="601329916" group-title="Detroit Pistons vs New Orleans Pelicans 06:00 ngày 27/03 NBA", Detroit Pistons vs New Orleans Pelicans 06:00 ngày 27/03 NBA (Link 1)
-https://cdn-hls.taoxanh.biz/live/69c5b1e21c675_42127/index.m3u8?expire=1775168610&amp;sign=4a319c0caa8377dc4d5d30abfffc2e6f
-#EXTINF:-1 tvg-id="601329916" group-title="Detroit Pistons vs New Orleans Pelicans 06:00 ngày 27/03 NBA", Detroit Pistons vs New Orleans Pelicans 06:00 ngày 27/03 NBA (Link 2)
-https://cdn-hls.taoxanh.biz/live/69c5b1e21c675_42127/index.m3u8?expire=1775168610&sign=4a319c0caa8377dc4d5d30abfffc2e6f
-#EXTINF:-1 tvg-id="601329922" group-title="Orlando Magic vs Sacramento Kings 06:00 ngày 27/03 NBA", Orlando Magic vs Sacramento Kings 06:00 ngày 27/03 NBA (Link 1)
-https://cdn-hls.taoxanh.biz/live/69c5b5054b877_72787/index.m3u8?expire=1775169413&amp;sign=72d5d7827910351edd6178494849d000
-#EXTINF:-1 tvg-id="601329922" group-title="Orlando Magic vs Sacramento Kings 06:00 ngày 27/03 NBA", Orlando Magic vs Sacramento Kings 06:00 ngày 27/03 NBA (Link 2)
-https://cdn-hls.taoxanh.biz/live/69c5b5054b877_72787/index.m3u8?expire=1775169413&sign=72d5d7827910351edd6178494849d000
-#EXTINF:-1 tvg-id="601338826" group-title="Francisco Cerundolo vs Alexander Zverev 06:00 ngày 27/03 ATP MIAMI 2026", Francisco Cerundolo vs Alexander Zverev 06:00 ngày 27/03 ATP MIAMI 2026 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69c5b77165105_4733/index.m3u8?expire=1775170033&amp;sign=cd255567a3e6b1d732138c3713804688
-#EXTINF:-1 tvg-id="601338826" group-title="Francisco Cerundolo vs Alexander Zverev 06:00 ngày 27/03 ATP MIAMI 2026", Francisco Cerundolo vs Alexander Zverev 06:00 ngày 27/03 ATP MIAMI 2026 (Link 2)
-https://cdn-hls.taoxanh.biz/live/69c5b77165105_4733/index.m3u8?expire=1775170033&sign=cd255567a3e6b1d732138c3713804688
-#EXTINF:-1 tvg-id="601327678" group-title="Sousa PB vs AD Confiança 05:00 ngày 27/03 Brazilian Copa do Nordeste", Sousa PB vs AD Confiança 05:00 ngày 27/03 Brazilian Copa do Nordeste
-https://live.alilicloud.com/live/6f2b6342960d8130252086eeff4895f5/playlist.m3u8
-#EXTINF:-1 tvg-id="601330666" group-title="Talleres Cordoba Reserve vs Banfield Reserves 05:30 ngày 27/03 Argentine Reserve League", Talleres Cordoba Reserve vs Banfield Reserves 05:30 ngày 27/03 Argentine Reserve League
-https://live.alilicloud.com/live/48afb3c89de5dd2bc2acbd3afe3f4dc6/playlist.m3u8
-#EXTINF:-1 tvg-id="601327681" group-title="DC Power (W) vs Tampa Bay Sun (W) 06:00 ngày 27/03 USL Super League Women", DC Power (W) vs Tampa Bay Sun (W) 06:00 ngày 27/03 USL Super League Women
-https://live.alilicloud.com/live/f9fb2a56c663e6e4923fb938c46619b4/playlist.m3u8
-#EXTINF:-1 tvg-id="601327687" group-title="Independiente Yumbo vs Patriotas FC 06:00 ngày 27/03 Colombian Torneo BetPlay Dimayor", Independiente Yumbo vs Patriotas FC 06:00 ngày 27/03 Colombian Torneo BetPlay Dimayor
-https://live.alilicloud.com/live/6f415b23b3f966f49f59c71fb8b22fe8/playlist.m3u8
-#EXTINF:-1 tvg-id="601335508" group-title="Deportivo Recoleta vs Rubio nu 06:00 ngày 27/03 Paraguayan Primera Division", Deportivo Recoleta vs Rubio nu 06:00 ngày 27/03 Paraguayan Primera Division
-https://live.alilicloud.com/live/08b5e92055d32419d373412c66ae6258/playlist.m3u8
-#EXTINF:-1 tvg-id="601330663" group-title="Atletico Tucuman Reserve vs Velez Sarsfield Reserves 06:30 ngày 27/03 Argentine Reserve League", Atletico Tucuman Reserve vs Velez Sarsfield Reserves 06:30 ngày 27/03 Argentine Reserve League
-https://live.alilicloud.com/live/472fb28922f52761bcacc396e57e3bb2/playlist.m3u8
-#EXTINF:-1 tvg-id="601330669" group-title="Union Santa Fe Reserves vs River Plate R 06:30 ngày 27/03 Argentine Reserve League", Union Santa Fe Reserves vs River Plate R 06:30 ngày 27/03 Argentine Reserve League
-https://live.alilicloud.com/live/1e0c6dcb6debe5e90fa806f028468fdd/playlist.m3u8
 #EXTINF:-1 tvg-id="601327696" group-title="Argentinos Juniors vs Club Atlético Lanús 07:00 ngày 27/03 Argentine Division 1", Argentinos Juniors vs Club Atlético Lanús 07:00 ngày 27/03 Argentine Division 1 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69c5bfd95498d_44731/index.m3u8?expire=1775172185&amp;sign=108eff9f29df04599715efe3f829de53
 #EXTINF:-1 tvg-id="601327696" group-title="Argentinos Juniors vs Club Atlético Lanús 07:00 ngày 27/03 Argentine Division 1", Argentinos Juniors vs Club Atlético Lanús 07:00 ngày 27/03 Argentine Division 1 (Link 2)
+https://live.alilicloud.com/live/c230d9ed0c2980fc240b92c00cf4ef9a/playlist.m3u8
+#EXTINF:-1 tvg-id="601327696" group-title="Argentinos Juniors vs Club Atlético Lanús 07:00 ngày 27/03 Argentine Division 1", Argentinos Juniors vs Club Atlético Lanús 07:00 ngày 27/03 Argentine Division 1 (Link 3)
 https://cdn-hls.taoxanh.biz/live/69c5bfd95498d_44731/index.m3u8?expire=1775172185&sign=108eff9f29df04599715efe3f829de53
+#EXTINF:-1 tvg-id="601338835" group-title="Sabalenka A. vs Rybakina E. 07:30 ngày 27/03 WTA MIAMI 2026", Sabalenka A. vs Rybakina E. 07:30 ngày 27/03 WTA MIAMI 2026 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69c5ccc865105_4733/index.m3u8?expire=1775175496&amp;sign=57351777ffeb8d3d8f3c86a5db16b3ff
+#EXTINF:-1 tvg-id="601338835" group-title="Sabalenka A. vs Rybakina E. 07:30 ngày 27/03 WTA MIAMI 2026", Sabalenka A. vs Rybakina E. 07:30 ngày 27/03 WTA MIAMI 2026 (Link 2)
+https://cdn-hls.taoxanh.biz/live/69c5ccc865105_4733/index.m3u8?expire=1775175496&sign=57351777ffeb8d3d8f3c86a5db16b3ff
+#EXTINF:-1 tvg-id="601326409" group-title="Cuenca Juniors vs 9 de Octubre 07:00 ngày 27/03 Ecuadorian Campeonato Serie B", Cuenca Juniors vs 9 de Octubre 07:00 ngày 27/03 Ecuadorian Campeonato Serie B
+https://live.alilicloud.com/live/6f197e5e802cd3e56810055d58c8f478/playlist.m3u8
+#EXTINF:-1 tvg-id="601327699" group-title="Deportes Quindio vs Orsomarso 07:00 ngày 27/03 Colombian Torneo BetPlay Dimayor", Deportes Quindio vs Orsomarso 07:00 ngày 27/03 Colombian Torneo BetPlay Dimayor
+https://live.alilicloud.com/live/07d36b1fffcdf0c98fc8c886cb6f800e/playlist.m3u8
+#EXTINF:-1 tvg-id="601327702" group-title="EC Juventude (w) vs Flamengo/RJ (w) 07:00 ngày 27/03 Campeonato Brasileiro de Futebol Feminino Série A1", EC Juventude (w) vs Flamengo/RJ (w) 07:00 ngày 27/03 Campeonato Brasileiro de Futebol Feminino Série A1
+https://live.alilicloud.com/live/94eae56b12fe2bab78a64ab5809a3fdb/playlist.m3u8
+#EXTINF:-1 tvg-id="601338568" group-title="Cayman Islands vs British Virgin Islands 07:00 ngày 27/03 International Friendly", Cayman Islands vs British Virgin Islands 07:00 ngày 27/03 International Friendly
+https://live.alilicloud.com/live/c550b4ac372bf2cbd1ef7acc125b4f0f/playlist.m3u8
+#EXTINF:-1 tvg-id="601338649" group-title="Bonaire vs St. Vincent   Grenadines 07:30 ngày 27/03 NC A S", Bonaire vs St. Vincent   Grenadines 07:30 ngày 27/03 NC A S
+https://live.alilicloud.com/live/ea553b9ad564bc8bebb99032473b7e4d/playlist.m3u8
+#EXTINF:-1 tvg-id="601327714" group-title="China vs Curacao 13:00 ngày 27/03 FIFA Series", China vs Curacao 13:00 ngày 27/03 FIFA Series
+https://live.alilicloud.com/live/63f33dadbe3a49eb1f08a767ba7899b0/playlist.m3u8
+#EXTINF:-1 tvg-id="601327717" group-title="New Zealand vs Finland 13:15 ngày 27/03 FIFA Series", New Zealand vs Finland 13:15 ngày 27/03 FIFA Series
+https://live.alilicloud.com/live/651b920a75d0b7254239964982354ad0/playlist.m3u8
