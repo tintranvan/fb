@@ -1,37 +1,61 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601327828" group-title="Azerbaijan U21 vs Portugal U21 18:00 ngày 27/03 UEFA European U21 Championship qualification", Azerbaijan U21 vs Portugal U21 18:00 ngày 27/03 UEFA European U21 Championship qualification (Link 1)
-https://cdn-hls.taoxanh.biz/live/69c65c6b65105_95554/index.m3u8?expire=1775212267&amp;sign=521684eca1eeb61be66863792f458578
-#EXTINF:-1 tvg-id="601327828" group-title="Azerbaijan U21 vs Portugal U21 18:00 ngày 27/03 UEFA European U21 Championship qualification", Azerbaijan U21 vs Portugal U21 18:00 ngày 27/03 UEFA European U21 Championship qualification (Link 2)
-https://live.alilicloud.com/live/69a05008457b972a33e1e188936d073a/playlist.m3u8
-#EXTINF:-1 tvg-id="601327828" group-title="Azerbaijan U21 vs Portugal U21 18:00 ngày 27/03 UEFA European U21 Championship qualification", Azerbaijan U21 vs Portugal U21 18:00 ngày 27/03 UEFA European U21 Championship qualification (Link 3)
-https://cdn-hls.taoxanh.biz/live/69c65c6b65105_95554/index.m3u8?expire=1775212267&sign=521684eca1eeb61be66863792f458578
-#EXTINF:-1 tvg-id="601329742" group-title="Naft Missan vs Erbil SC 19:30 ngày 27/03 Iraq Stars League", Naft Missan vs Erbil SC 19:30 ngày 27/03 Iraq Stars League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69c670f365105_18754/index.m3u8?expire=1775217523&amp;sign=8e1753f11243a43f45651efa35abd4e8
-#EXTINF:-1 tvg-id="601329742" group-title="Naft Missan vs Erbil SC 19:30 ngày 27/03 Iraq Stars League", Naft Missan vs Erbil SC 19:30 ngày 27/03 Iraq Stars League (Link 2)
-https://live.alilicloud.com/live/cca07d60670865b192985d0ff798d16a/playlist.m3u8
-#EXTINF:-1 tvg-id="601329742" group-title="Naft Missan vs Erbil SC 19:30 ngày 27/03 Iraq Stars League", Naft Missan vs Erbil SC 19:30 ngày 27/03 Iraq Stars League (Link 3)
-https://cdn-hls.taoxanh.biz/live/69c670f365105_18754/index.m3u8?expire=1775217523&sign=8e1753f11243a43f45651efa35abd4e8
 #EXTINF:-1 tvg-id="601329787" group-title="Diala vs Al-Najaf  19:30 ngày 27/03 Iraq Stars League", Diala vs Al-Najaf  19:30 ngày 27/03 Iraq Stars League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69c671eb4b877_6308/index.m3u8?expire=1775217771&amp;sign=a159a5b15eae493150d2449da153c64e
 #EXTINF:-1 tvg-id="601329787" group-title="Diala vs Al-Najaf  19:30 ngày 27/03 Iraq Stars League", Diala vs Al-Najaf  19:30 ngày 27/03 Iraq Stars League (Link 2)
 https://live.alilicloud.com/live/392e56a2a6d86810f9ab2c1f870d2130/playlist.m3u8
 #EXTINF:-1 tvg-id="601329787" group-title="Diala vs Al-Najaf  19:30 ngày 27/03 Iraq Stars League", Diala vs Al-Najaf  19:30 ngày 27/03 Iraq Stars League (Link 3)
 https://cdn-hls.taoxanh.biz/live/69c671eb4b877_6308/index.m3u8?expire=1775217771&sign=a159a5b15eae493150d2449da153c64e
+#EXTINF:-1 tvg-id="601329742" group-title="Naft Missan vs Erbil SC 19:30 ngày 27/03 Iraq Stars League", Naft Missan vs Erbil SC 19:30 ngày 27/03 Iraq Stars League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69c670f365105_18754/index.m3u8?expire=1775217523&amp;sign=8e1753f11243a43f45651efa35abd4e8
+#EXTINF:-1 tvg-id="601329742" group-title="Naft Missan vs Erbil SC 19:30 ngày 27/03 Iraq Stars League", Naft Missan vs Erbil SC 19:30 ngày 27/03 Iraq Stars League (Link 2)
+https://live.alilicloud.com/live/cca07d60670865b192985d0ff798d16a/playlist.m3u8
+#EXTINF:-1 tvg-id="601329742" group-title="Naft Missan vs Erbil SC 19:30 ngày 27/03 Iraq Stars League", Naft Missan vs Erbil SC 19:30 ngày 27/03 Iraq Stars League (Link 3)
+https://cdn-hls.taoxanh.biz/live/69c670f365105_18754/index.m3u8?expire=1775217523&sign=8e1753f11243a43f45651efa35abd4e8
+#EXTINF:-1 tvg-id="601327894" group-title="Indonesia vs St. Kitts and Nevis 20:00 ngày 27/03 FIFA Series", Indonesia vs St. Kitts and Nevis 20:00 ngày 27/03 FIFA Series (Link 1)
+https://cdn-hls.taoxanh.biz/live/69c678db7473f_136682/index.m3u8?expire=1775219547&amp;sign=fe0be955d82a25989facf480174a37ce
+#EXTINF:-1 tvg-id="601327894" group-title="Indonesia vs St. Kitts and Nevis 20:00 ngày 27/03 FIFA Series", Indonesia vs St. Kitts and Nevis 20:00 ngày 27/03 FIFA Series (Link 2)
+https://live.alilicloud.com/live/b5d6b2e1f0575196ce99b635009cdc92/playlist.m3u8
+#EXTINF:-1 tvg-id="601327894" group-title="Indonesia vs St. Kitts and Nevis 20:00 ngày 27/03 FIFA Series", Indonesia vs St. Kitts and Nevis 20:00 ngày 27/03 FIFA Series (Link 3)
+https://cdn-hls.taoxanh.biz/live/69c678db7473f_136682/index.m3u8?expire=1775219547&sign=fe0be955d82a25989facf480174a37ce
+#EXTINF:-1 tvg-id="601327936" group-title="Uzbekistan vs Gabon 21:00 ngày 27/03 FIFA Series", Uzbekistan vs Gabon 21:00 ngày 27/03 FIFA Series (Link 1)
+https://cdn-hls.taoxanh.biz/live/69c67df57473f_95554/index.m3u8?expire=1775220853&amp;sign=e3d62e70371892e2319c3d7c6df4d240
+#EXTINF:-1 tvg-id="601327936" group-title="Uzbekistan vs Gabon 21:00 ngày 27/03 FIFA Series", Uzbekistan vs Gabon 21:00 ngày 27/03 FIFA Series (Link 2)
+https://live.alilicloud.com/live/2f81865b9e38c697af49d7b8060b52d5/playlist.m3u8
+#EXTINF:-1 tvg-id="601327936" group-title="Uzbekistan vs Gabon 21:00 ngày 27/03 FIFA Series", Uzbekistan vs Gabon 21:00 ngày 27/03 FIFA Series (Link 3)
+https://cdn-hls.taoxanh.biz/live/69c67df57473f_95554/index.m3u8?expire=1775220853&sign=e3d62e70371892e2319c3d7c6df4d240
+#EXTINF:-1 tvg-id="601327927" group-title="Bosnia-Herzegovina U21 vs Slovenia U21 21:00 ngày 27/03 UEFA European U21 Championship qualification", Bosnia-Herzegovina U21 vs Slovenia U21 21:00 ngày 27/03 UEFA European U21 Championship qualification (Link 1)
+https://cdn-hls.taoxanh.biz/live/69c686634b877_4733/index.m3u8?expire=1775223011&amp;sign=b723f4d9dda152e48f1b201c28db2a84
+#EXTINF:-1 tvg-id="601327927" group-title="Bosnia-Herzegovina U21 vs Slovenia U21 21:00 ngày 27/03 UEFA European U21 Championship qualification", Bosnia-Herzegovina U21 vs Slovenia U21 21:00 ngày 27/03 UEFA European U21 Championship qualification (Link 2)
+https://live.alilicloud.com/live/a6603bdefdd245b1ea6bc7fb53713c8f/playlist.m3u8
+#EXTINF:-1 tvg-id="601327927" group-title="Bosnia-Herzegovina U21 vs Slovenia U21 21:00 ngày 27/03 UEFA European U21 Championship qualification", Bosnia-Herzegovina U21 vs Slovenia U21 21:00 ngày 27/03 UEFA European U21 Championship qualification (Link 3)
+https://cdn-hls.taoxanh.biz/live/69c686634b877_4733/index.m3u8?expire=1775223011&sign=b723f4d9dda152e48f1b201c28db2a84
+#EXTINF:-1 tvg-id="601329703" group-title="Abha vs Jubail 20:15 ngày 27/03 Saudi Arabia Division 1", Abha vs Jubail 20:15 ngày 27/03 Saudi Arabia Division 1 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69c67d7465105_103/index.m3u8?expire=1775220724&amp;sign=bff7caf82def798eb15f085c74b5282b
+#EXTINF:-1 tvg-id="601329703" group-title="Abha vs Jubail 20:15 ngày 27/03 Saudi Arabia Division 1", Abha vs Jubail 20:15 ngày 27/03 Saudi Arabia Division 1 (Link 2)
+https://live.alilicloud.com/live/8f8f1f2a3f81714586219377ba0d1b12/playlist.m3u8
+#EXTINF:-1 tvg-id="601329703" group-title="Abha vs Jubail 20:15 ngày 27/03 Saudi Arabia Division 1", Abha vs Jubail 20:15 ngày 27/03 Saudi Arabia Division 1 (Link 3)
+https://cdn-hls.taoxanh.biz/live/69c67d7465105_103/index.m3u8?expire=1775220724&sign=bff7caf82def798eb15f085c74b5282b
 #EXTINF:-1 tvg-id="601340146" group-title="Yashaswini GHORPADE vs oana SINGEORZAN 17:45 ngày 27/03 Table 1 - WTT Contender Tunis 2026", Yashaswini GHORPADE vs oana SINGEORZAN 17:45 ngày 27/03 Table 1 - WTT Contender Tunis 2026 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69c652464b877_42127/index.m3u8?expire=1775209670&amp;sign=3242264e723f6f8a3bff308b76bb4316
 #EXTINF:-1 tvg-id="601340146" group-title="Yashaswini GHORPADE vs oana SINGEORZAN 17:45 ngày 27/03 Table 1 - WTT Contender Tunis 2026", Yashaswini GHORPADE vs oana SINGEORZAN 17:45 ngày 27/03 Table 1 - WTT Contender Tunis 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69c652464b877_42127/index.m3u8?expire=1775209670&sign=3242264e723f6f8a3bff308b76bb4316
-#EXTINF:-1 tvg-id="601327825" group-title="Maldives U20 vs Nepal U20 17:45 ngày 27/03 SAFF U19 Championship", Maldives U20 vs Nepal U20 17:45 ngày 27/03 SAFF U19 Championship
-https://live.alilicloud.com/live/dd41fab84dca6005521b4034509e9493/playlist.m3u8
-#EXTINF:-1 tvg-id="601327834" group-title="Floreat Athena vs Joondalup City 18:00 ngày 27/03 Western Australia State League 1", Floreat Athena vs Joondalup City 18:00 ngày 27/03 Western Australia State League 1
-https://live.alilicloud.com/live/c0238df7da85d56d920af90afb48af31/playlist.m3u8
-#EXTINF:-1 tvg-id="601329676" group-title="Finland (w)U16 vs Denmark (w)U16 18:30 ngày 27/03 International Friendly", Finland (w)U16 vs Denmark (w)U16 18:30 ngày 27/03 International Friendly
-https://live.alilicloud.com/live/30c7a18563811a2aeb0e65f9ae5428da/playlist.m3u8
-#EXTINF:-1 tvg-id="601330255" group-title="Hapoel Nof HaGalil vs Maccabi Kabilio Jaffa 19:00 ngày 27/03 Israel Leumit League", Hapoel Nof HaGalil vs Maccabi Kabilio Jaffa 19:00 ngày 27/03 Israel Leumit League
-https://live.alilicloud.com/live/0147790434bbd2483cd497dc108a55f7/playlist.m3u8
-#EXTINF:-1 tvg-id="601330258" group-title="Hapoel Afula vs Bnei Yehuda Tel Aviv 19:00 ngày 27/03 Israel Leumit League", Hapoel Afula vs Bnei Yehuda Tel Aviv 19:00 ngày 27/03 Israel Leumit League
-https://live.alilicloud.com/live/fd0d6a26f45b9277c4c1de33baefd1d9/playlist.m3u8
-#EXTINF:-1 tvg-id="601327894" group-title="Indonesia vs St. Kitts and Nevis 20:00 ngày 27/03 FIFA Series", Indonesia vs St. Kitts and Nevis 20:00 ngày 27/03 FIFA Series (Link 1)
-https://cdn-hls.taoxanh.biz/live/69c678db7473f_136682/index.m3u8?expire=1775219547&amp;sign=fe0be955d82a25989facf480174a37ce
-#EXTINF:-1 tvg-id="601327894" group-title="Indonesia vs St. Kitts and Nevis 20:00 ngày 27/03 FIFA Series", Indonesia vs St. Kitts and Nevis 20:00 ngày 27/03 FIFA Series (Link 2)
-https://cdn-hls.taoxanh.biz/live/69c678db7473f_136682/index.m3u8?expire=1775219547&sign=fe0be955d82a25989facf480174a37ce
+#EXTINF:-1 tvg-id="601335523" group-title="Iran vs Nigeria 19:30 ngày 27/03 International Friendly", Iran vs Nigeria 19:30 ngày 27/03 International Friendly
+https://live.alilicloud.com/live/3ec642fe62a37c09e371f2168891794c/playlist.m3u8
+#EXTINF:-1 tvg-id="601338736" group-title="Nib FC vs Bench Maji Buna FC 20:00 ngày 27/03 Ethiopian Higher League", Nib FC vs Bench Maji Buna FC 20:00 ngày 27/03 Ethiopian Higher League
+https://live.alilicloud.com/live/02cff76129d7ebd4a26fc7bd62710107/playlist.m3u8
+#EXTINF:-1 tvg-id="601338739" group-title="Halaba City vs Addis Ababa Ketema 20:00 ngày 27/03 Ethiopian Higher League", Halaba City vs Addis Ababa Ketema 20:00 ngày 27/03 Ethiopian Higher League
+https://live.alilicloud.com/live/3dfcede3af53cf8ae0b567fcb05c78e9/playlist.m3u8
+#EXTINF:-1 tvg-id="601338688" group-title="RC Kouba vs ESM Kolea 21:00 ngày 27/03 Algerian Ligue Professionnelle 2", RC Kouba vs ESM Kolea 21:00 ngày 27/03 Algerian Ligue Professionnelle 2
+https://live.alilicloud.com/live/98eb3a9ebff999b13d88b579c9e3ad78/playlist.m3u8
+#EXTINF:-1 tvg-id="601338685" group-title="CRB Temouchent vs US Bechar Djedid 21:00 ngày 27/03 Algerian Ligue Professionnelle 2", CRB Temouchent vs US Bechar Djedid 21:00 ngày 27/03 Algerian Ligue Professionnelle 2
+https://live.alilicloud.com/live/250ff3e148836beb884cae81699f0c2b/playlist.m3u8
+#EXTINF:-1 tvg-id="601338670" group-title="MO Bejaia vs CA Batna 21:00 ngày 27/03 Algerian Ligue Professionnelle 2", MO Bejaia vs CA Batna 21:00 ngày 27/03 Algerian Ligue Professionnelle 2
+https://live.alilicloud.com/live/d86a2789520a336bcad5c8e26fb8d4a4/playlist.m3u8
+#EXTINF:-1 tvg-id="601338667" group-title="JS Jijel vs NRB Teleghma 21:00 ngày 27/03 Algerian Ligue Professionnelle 2", JS Jijel vs NRB Teleghma 21:00 ngày 27/03 Algerian Ligue Professionnelle 2
+https://live.alilicloud.com/live/231d8a66dd44673e56a87beb6da35ccc/playlist.m3u8
+#EXTINF:-1 tvg-id="601338664" group-title="HB Chelghoum Laid vs US Chaouia 21:00 ngày 27/03 Algerian Ligue Professionnelle 2", HB Chelghoum Laid vs US Chaouia 21:00 ngày 27/03 Algerian Ligue Professionnelle 2
+https://live.alilicloud.com/live/dcaa8de6675c39d36ece59c0e5712cd6/playlist.m3u8
+#EXTINF:-1 tvg-id="601338661" group-title="CR Beni Thour vs JS Bordj Menaiel 21:00 ngày 27/03 Algerian Ligue Professionnelle 2", CR Beni Thour vs JS Bordj Menaiel 21:00 ngày 27/03 Algerian Ligue Professionnelle 2
+https://live.alilicloud.com/live/0ce19d60e95554073242c610ec51467c/playlist.m3u8
+#EXTINF:-1 tvg-id="601329727" group-title="Usce vs Tekstilac 21:00 ngày 27/03 Serbian Prva Liga", Usce vs Tekstilac 21:00 ngày 27/03 Serbian Prva Liga
+https://live.alilicloud.com/live/77f48e7f2bdae777d3ac3e8eef841da7/playlist.m3u8
