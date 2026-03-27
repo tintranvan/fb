@@ -1,33 +1,43 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601327717" group-title="New Zealand vs Finland 13:15 ngày 27/03 FIFA Series", New Zealand vs Finland 13:15 ngày 27/03 FIFA Series (Link 1)
-https://cdn-hls.taoxanh.biz/live/69c60ffe4b877_136682/index.m3u8?expire=1775192702&amp;sign=283bb11facaf7c3bf3fe75bd63f4409d
-#EXTINF:-1 tvg-id="601327717" group-title="New Zealand vs Finland 13:15 ngày 27/03 FIFA Series", New Zealand vs Finland 13:15 ngày 27/03 FIFA Series (Link 2)
-https://live.alilicloud.com/live/651b920a75d0b7254239964982354ad0/playlist.m3u8
-#EXTINF:-1 tvg-id="601327717" group-title="New Zealand vs Finland 13:15 ngày 27/03 FIFA Series", New Zealand vs Finland 13:15 ngày 27/03 FIFA Series (Link 3)
-https://cdn-hls.taoxanh.biz/live/69c60ffe4b877_136682/index.m3u8?expire=1775192702&sign=283bb11facaf7c3bf3fe75bd63f4409d
-#EXTINF:-1 tvg-id="601338757" group-title="Monaro Panthers U23 vs Tuggeranong United U23 13:30 ngày 27/03 Australia Capital Territory U23 League", Monaro Panthers U23 vs Tuggeranong United U23 13:30 ngày 27/03 Australia Capital Territory U23 League
-https://live.alilicloud.com/live/bf4f49c031d96ab73e8f8081c0cf977a/playlist.m3u8
-#EXTINF:-1 tvg-id="601338718" group-title="Addis Ketema vs Bishoftu Ketema 14:00 ngày 27/03 Ethiopian Higher League", Addis Ketema vs Bishoftu Ketema 14:00 ngày 27/03 Ethiopian Higher League
-https://live.alilicloud.com/live/c13346021d8df5550470dec8de47ef6d/playlist.m3u8
-#EXTINF:-1 tvg-id="601338763" group-title="Adamstown Rosebud Reserves vs Edgeworth Eagles Reserves 14:00 ngày 27/03 Australia Northern New South Wales Reserves League", Adamstown Rosebud Reserves vs Edgeworth Eagles Reserves 14:00 ngày 27/03 Australia Northern New South Wales Reserves League
-https://live.alilicloud.com/live/abb696c4f9ba702d4fe3f077a7d72fcd/playlist.m3u8
-#EXTINF:-1 tvg-id="601338766" group-title="Belmont Swansea United SC Reserves vs Charlestown Azzurri Reserves 14:00 ngày 27/03 Australia Northern New South Wales Reserves League", Belmont Swansea United SC Reserves vs Charlestown Azzurri Reserves 14:00 ngày 27/03 Australia Northern New South Wales Reserves League
-https://live.alilicloud.com/live/378c5864cf7db2bc7f53bc734623cd93/playlist.m3u8
-#EXTINF:-1 tvg-id="601338772" group-title="Adelaide University (w) vs Salisbury Inter (w) 14:45 ngày 27/03 South Australia Women's Premier League", Adelaide University (w) vs Salisbury Inter (w) 14:45 ngày 27/03 South Australia Women's Premier League
-https://live.alilicloud.com/live/4e1e916295af763cab477e243de14430/playlist.m3u8
-#EXTINF:-1 tvg-id="601337764" group-title="Vietnam (w) U20 vs Uzbekistan (w) U20 16:00 ngày 27/03 International Friendly", Vietnam (w) U20 vs Uzbekistan (w) U20 16:00 ngày 27/03 International Friendly (Link 1)
-https://cdn-hls.taoxanh.biz/live/69c6239765105_79/index.m3u8?expire=1775197719&amp;sign=bb66be48ae8a37628aec9176a23a5439
-#EXTINF:-1 tvg-id="601337764" group-title="Vietnam (w) U20 vs Uzbekistan (w) U20 16:00 ngày 27/03 International Friendly", Vietnam (w) U20 vs Uzbekistan (w) U20 16:00 ngày 27/03 International Friendly (Link 2)
-https://cdn-hls.taoxanh.biz/live/69c6239765105_79/index.m3u8?expire=1775197719&sign=bb66be48ae8a37628aec9176a23a5439
 #EXTINF:-1 tvg-id="601327747" group-title="Sydney FC (Youth) vs A.P.I.A. Leichhardt Tigers 15:30 ngày 27/03 Australia New South Wales Premier League", Sydney FC (Youth) vs A.P.I.A. Leichhardt Tigers 15:30 ngày 27/03 Australia New South Wales Premier League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69c6375c23de8_124958/index.m3u8?expire=1775202780&amp;sign=cc352e91f093d843460b328a471510af
 #EXTINF:-1 tvg-id="601327747" group-title="Sydney FC (Youth) vs A.P.I.A. Leichhardt Tigers 15:30 ngày 27/03 Australia New South Wales Premier League", Sydney FC (Youth) vs A.P.I.A. Leichhardt Tigers 15:30 ngày 27/03 Australia New South Wales Premier League (Link 2)
+https://live.alilicloud.com/live/12c1028ad3c3d425492bff0b3e2d381c/playlist.m3u8
+#EXTINF:-1 tvg-id="601327747" group-title="Sydney FC (Youth) vs A.P.I.A. Leichhardt Tigers 15:30 ngày 27/03 Australia New South Wales Premier League", Sydney FC (Youth) vs A.P.I.A. Leichhardt Tigers 15:30 ngày 27/03 Australia New South Wales Premier League (Link 3)
 https://cdn-hls.taoxanh.biz/live/69c6375c23de8_124958/index.m3u8?expire=1775202780&sign=cc352e91f093d843460b328a471510af
 #EXTINF:-1 tvg-id="601327753" group-title="Bentleigh greens vs Dandenong Thunder 15:30 ngày 27/03 National Premier Leagues Victoria", Bentleigh greens vs Dandenong Thunder 15:30 ngày 27/03 National Premier Leagues Victoria (Link 1)
 https://cdn-hls.taoxanh.biz/live/69c632ec6446e_95554/index.m3u8?expire=1775201644&amp;sign=d95d55281ea1885b92c82f055425b5b8
 #EXTINF:-1 tvg-id="601327753" group-title="Bentleigh greens vs Dandenong Thunder 15:30 ngày 27/03 National Premier Leagues Victoria", Bentleigh greens vs Dandenong Thunder 15:30 ngày 27/03 National Premier Leagues Victoria (Link 2)
+https://live.alilicloud.com/live/c2a37ac4452ddb8b0fd20ac30e5a6434/playlist.m3u8
+#EXTINF:-1 tvg-id="601327753" group-title="Bentleigh greens vs Dandenong Thunder 15:30 ngày 27/03 National Premier Leagues Victoria", Bentleigh greens vs Dandenong Thunder 15:30 ngày 27/03 National Premier Leagues Victoria (Link 3)
 https://cdn-hls.taoxanh.biz/live/69c632ec6446e_95554/index.m3u8?expire=1775201644&sign=d95d55281ea1885b92c82f055425b5b8
 #EXTINF:-1 tvg-id="601327762" group-title="Solomon Islands vs Bulgaria 15:30 ngày 27/03 FIFA Series", Solomon Islands vs Bulgaria 15:30 ngày 27/03 FIFA Series (Link 1)
 https://cdn-hls.taoxanh.biz/live/69c6393a23de8_72787/index.m3u8?expire=1775203258&amp;sign=6cb2e5d62ac9d5069b42da5ab9e4d0e2
 #EXTINF:-1 tvg-id="601327762" group-title="Solomon Islands vs Bulgaria 15:30 ngày 27/03 FIFA Series", Solomon Islands vs Bulgaria 15:30 ngày 27/03 FIFA Series (Link 2)
+https://live.alilicloud.com/live/1b77bd1218a77465d0d624343fcf7770/playlist.m3u8
+#EXTINF:-1 tvg-id="601327762" group-title="Solomon Islands vs Bulgaria 15:30 ngày 27/03 FIFA Series", Solomon Islands vs Bulgaria 15:30 ngày 27/03 FIFA Series (Link 3)
 https://cdn-hls.taoxanh.biz/live/69c6393a23de8_72787/index.m3u8?expire=1775203258&sign=6cb2e5d62ac9d5069b42da5ab9e4d0e2
+#EXTINF:-1 tvg-id="601327741" group-title="Brisbane Roar Women vs Perth Glory Women 16:00 ngày 27/03 Australia W-League", Brisbane Roar Women vs Perth Glory Women 16:00 ngày 27/03 Australia W-League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69c642434b877_88642/index.m3u8?expire=1775205571&amp;sign=0f9c1c19f3882795374a1e4c314f18e4
+#EXTINF:-1 tvg-id="601327741" group-title="Brisbane Roar Women vs Perth Glory Women 16:00 ngày 27/03 Australia W-League", Brisbane Roar Women vs Perth Glory Women 16:00 ngày 27/03 Australia W-League (Link 2)
+https://live.alilicloud.com/live/cadda6a4c16d887d629dfdec1513805a/playlist.m3u8
+#EXTINF:-1 tvg-id="601327741" group-title="Brisbane Roar Women vs Perth Glory Women 16:00 ngày 27/03 Australia W-League", Brisbane Roar Women vs Perth Glory Women 16:00 ngày 27/03 Australia W-League (Link 3)
+https://cdn-hls.taoxanh.biz/live/69c642434b877_88642/index.m3u8?expire=1775205571&sign=0f9c1c19f3882795374a1e4c314f18e4
+#EXTINF:-1 tvg-id="601338772" group-title="Adelaide University (w) vs Salisbury Inter (w) 14:45 ngày 27/03 South Australia Women's Premier League", Adelaide University (w) vs Salisbury Inter (w) 14:45 ngày 27/03 South Australia Women's Premier League
+https://live.alilicloud.com/live/4e1e916295af763cab477e243de14430/playlist.m3u8
+#EXTINF:-1 tvg-id="601327756" group-title="Persikad Depok vs Persekat Tegal 15:30 ngày 27/03 Indonesian Liga 2", Persikad Depok vs Persekat Tegal 15:30 ngày 27/03 Indonesian Liga 2
+https://live.alilicloud.com/live/e3b3380ef7421220acefe0697dbe3e5b/playlist.m3u8
+#EXTINF:-1 tvg-id="601327759" group-title="Monaro Panthers vs Tuggeranong United 15:30 ngày 27/03 Australia National Premier Leagues Capital Football 1", Monaro Panthers vs Tuggeranong United 15:30 ngày 27/03 Australia National Premier Leagues Capital Football 1
+https://live.alilicloud.com/live/abb86ef4b099c0e2cf07cb3d9ed1ff03/playlist.m3u8
+#EXTINF:-1 tvg-id="601327777" group-title="Cumberland United FC vs Eastern United 16:00 ngày 27/03 South Australia State League 1", Cumberland United FC vs Eastern United 16:00 ngày 27/03 South Australia State League 1
+https://live.alilicloud.com/live/bc6b51657eb6239c685d20559ef3b299/playlist.m3u8
+#EXTINF:-1 tvg-id="601327780" group-title="Adelaide Olympic vs Modbury Jets 16:00 ngày 27/03 South Australia State League 1", Adelaide Olympic vs Modbury Jets 16:00 ngày 27/03 South Australia State League 1
+https://live.alilicloud.com/live/172c6b33fadfe8b2f8b42bc77b241552/playlist.m3u8
+#EXTINF:-1 tvg-id="601327765" group-title="Brisbane Olympic United FC vs Gold Coast Knights 16:00 ngày 27/03 Australia National Premier Leagues Queensland", Brisbane Olympic United FC vs Gold Coast Knights 16:00 ngày 27/03 Australia National Premier Leagues Queensland (Link 1)
+https://cdn-hls.taoxanh.biz/live/69c63ff94b877_6308/index.m3u8?expire=1775204985&amp;sign=c02354c3abfd1fe5f514daaf9ecedb3b
+#EXTINF:-1 tvg-id="601327765" group-title="Brisbane Olympic United FC vs Gold Coast Knights 16:00 ngày 27/03 Australia National Premier Leagues Queensland", Brisbane Olympic United FC vs Gold Coast Knights 16:00 ngày 27/03 Australia National Premier Leagues Queensland (Link 2)
+https://cdn-hls.taoxanh.biz/live/69c63ff94b877_6308/index.m3u8?expire=1775204985&sign=c02354c3abfd1fe5f514daaf9ecedb3b
+#EXTINF:-1 tvg-id="601327798" group-title="Australia vs Cameroon 16:10 ngày 27/03 FIFA Series", Australia vs Cameroon 16:10 ngày 27/03 FIFA Series (Link 1)
+https://cdn-hls.taoxanh.biz/live/69c641784b877_128756/index.m3u8?expire=1775205368&amp;sign=5622a1448ac05529d6f29bf489655e43
+#EXTINF:-1 tvg-id="601327798" group-title="Australia vs Cameroon 16:10 ngày 27/03 FIFA Series", Australia vs Cameroon 16:10 ngày 27/03 FIFA Series (Link 2)
+https://cdn-hls.taoxanh.biz/live/69c641784b877_128756/index.m3u8?expire=1775205368&sign=5622a1448ac05529d6f29bf489655e43
