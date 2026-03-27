@@ -1,25 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601327696" group-title="Argentinos Juniors vs Club Atlético Lanús 07:00 ngày 27/03 Argentine Division 1", Argentinos Juniors vs Club Atlético Lanús 07:00 ngày 27/03 Argentine Division 1 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69c5bfd95498d_44731/index.m3u8?expire=1775172185&amp;sign=108eff9f29df04599715efe3f829de53
-#EXTINF:-1 tvg-id="601327696" group-title="Argentinos Juniors vs Club Atlético Lanús 07:00 ngày 27/03 Argentine Division 1", Argentinos Juniors vs Club Atlético Lanús 07:00 ngày 27/03 Argentine Division 1 (Link 2)
-https://live.alilicloud.com/live/c230d9ed0c2980fc240b92c00cf4ef9a/playlist.m3u8
-#EXTINF:-1 tvg-id="601327696" group-title="Argentinos Juniors vs Club Atlético Lanús 07:00 ngày 27/03 Argentine Division 1", Argentinos Juniors vs Club Atlético Lanús 07:00 ngày 27/03 Argentine Division 1 (Link 3)
-https://cdn-hls.taoxanh.biz/live/69c5bfd95498d_44731/index.m3u8?expire=1775172185&sign=108eff9f29df04599715efe3f829de53
-#EXTINF:-1 tvg-id="601338835" group-title="Sabalenka A. vs Rybakina E. 07:30 ngày 27/03 WTA MIAMI 2026", Sabalenka A. vs Rybakina E. 07:30 ngày 27/03 WTA MIAMI 2026 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69c5ccc865105_4733/index.m3u8?expire=1775175496&amp;sign=57351777ffeb8d3d8f3c86a5db16b3ff
-#EXTINF:-1 tvg-id="601338835" group-title="Sabalenka A. vs Rybakina E. 07:30 ngày 27/03 WTA MIAMI 2026", Sabalenka A. vs Rybakina E. 07:30 ngày 27/03 WTA MIAMI 2026 (Link 2)
-https://cdn-hls.taoxanh.biz/live/69c5ccc865105_4733/index.m3u8?expire=1775175496&sign=57351777ffeb8d3d8f3c86a5db16b3ff
-#EXTINF:-1 tvg-id="601326409" group-title="Cuenca Juniors vs 9 de Octubre 07:00 ngày 27/03 Ecuadorian Campeonato Serie B", Cuenca Juniors vs 9 de Octubre 07:00 ngày 27/03 Ecuadorian Campeonato Serie B
-https://live.alilicloud.com/live/6f197e5e802cd3e56810055d58c8f478/playlist.m3u8
-#EXTINF:-1 tvg-id="601327699" group-title="Deportes Quindio vs Orsomarso 07:00 ngày 27/03 Colombian Torneo BetPlay Dimayor", Deportes Quindio vs Orsomarso 07:00 ngày 27/03 Colombian Torneo BetPlay Dimayor
-https://live.alilicloud.com/live/07d36b1fffcdf0c98fc8c886cb6f800e/playlist.m3u8
-#EXTINF:-1 tvg-id="601327702" group-title="EC Juventude (w) vs Flamengo/RJ (w) 07:00 ngày 27/03 Campeonato Brasileiro de Futebol Feminino Série A1", EC Juventude (w) vs Flamengo/RJ (w) 07:00 ngày 27/03 Campeonato Brasileiro de Futebol Feminino Série A1
-https://live.alilicloud.com/live/94eae56b12fe2bab78a64ab5809a3fdb/playlist.m3u8
-#EXTINF:-1 tvg-id="601338568" group-title="Cayman Islands vs British Virgin Islands 07:00 ngày 27/03 International Friendly", Cayman Islands vs British Virgin Islands 07:00 ngày 27/03 International Friendly
-https://live.alilicloud.com/live/c550b4ac372bf2cbd1ef7acc125b4f0f/playlist.m3u8
-#EXTINF:-1 tvg-id="601338649" group-title="Bonaire vs St. Vincent   Grenadines 07:30 ngày 27/03 NC A S", Bonaire vs St. Vincent   Grenadines 07:30 ngày 27/03 NC A S
-https://live.alilicloud.com/live/ea553b9ad564bc8bebb99032473b7e4d/playlist.m3u8
+#EXTINF:-1 tvg-id="601327705" group-title="New Caledonia vs Jamaica 10:00 ngày 27/03 FIFA World Cup (Inter-confederation Play-offs)", New Caledonia vs Jamaica 10:00 ngày 27/03 FIFA World Cup (Inter-confederation Play-offs) (Link 1)
+https://cdn-hls.taoxanh.biz/live/69c5eb8a65105_136682/index.m3u8?expire=1775183370&amp;sign=dd55e45650d7aa7eb9a453ec9974591b
+#EXTINF:-1 tvg-id="601327705" group-title="New Caledonia vs Jamaica 10:00 ngày 27/03 FIFA World Cup (Inter-confederation Play-offs)", New Caledonia vs Jamaica 10:00 ngày 27/03 FIFA World Cup (Inter-confederation Play-offs) (Link 2)
+https://live.alilicloud.com/live/7468c28c91b0846f29304e57c84a35a7/playlist.m3u8
+#EXTINF:-1 tvg-id="601327705" group-title="New Caledonia vs Jamaica 10:00 ngày 27/03 FIFA World Cup (Inter-confederation Play-offs)", New Caledonia vs Jamaica 10:00 ngày 27/03 FIFA World Cup (Inter-confederation Play-offs) (Link 3)
+https://cdn-hls.taoxanh.biz/live/69c5eb8a65105_136682/index.m3u8?expire=1775183370&sign=dd55e45650d7aa7eb9a453ec9974591b
+#EXTINF:-1 tvg-id="601327708" group-title="Chile vs Cape Verde 10:00 ngày 27/03 FIFA Series", Chile vs Cape Verde 10:00 ngày 27/03 FIFA Series (Link 1)
+https://cdn-hls.taoxanh.biz/live/69c5ed1c4b877_74012/index.m3u8?expire=1775183772&amp;sign=99caa3fe6407557f11a4021e3f11ce37
+#EXTINF:-1 tvg-id="601327708" group-title="Chile vs Cape Verde 10:00 ngày 27/03 FIFA Series", Chile vs Cape Verde 10:00 ngày 27/03 FIFA Series (Link 2)
+https://live.alilicloud.com/live/23e31f997f53b6e4a9be81907fe5f262/playlist.m3u8
+#EXTINF:-1 tvg-id="601327708" group-title="Chile vs Cape Verde 10:00 ngày 27/03 FIFA Series", Chile vs Cape Verde 10:00 ngày 27/03 FIFA Series (Link 3)
+https://cdn-hls.taoxanh.biz/live/69c5ed1c4b877_74012/index.m3u8?expire=1775183772&sign=99caa3fe6407557f11a4021e3f11ce37
 #EXTINF:-1 tvg-id="601327714" group-title="China vs Curacao 13:00 ngày 27/03 FIFA Series", China vs Curacao 13:00 ngày 27/03 FIFA Series
 https://live.alilicloud.com/live/63f33dadbe3a49eb1f08a767ba7899b0/playlist.m3u8
-#EXTINF:-1 tvg-id="601327717" group-title="New Zealand vs Finland 13:15 ngày 27/03 FIFA Series", New Zealand vs Finland 13:15 ngày 27/03 FIFA Series
-https://live.alilicloud.com/live/651b920a75d0b7254239964982354ad0/playlist.m3u8
