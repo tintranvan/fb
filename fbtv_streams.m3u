@@ -1,15 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601327705" group-title="New Caledonia vs Jamaica 10:00 ngày 27/03 FIFA World Cup (Inter-confederation Play-offs)", New Caledonia vs Jamaica 10:00 ngày 27/03 FIFA World Cup (Inter-confederation Play-offs) (Link 1)
-https://cdn-hls.taoxanh.biz/live/69c5eb8a65105_136682/index.m3u8?expire=1775183370&amp;sign=dd55e45650d7aa7eb9a453ec9974591b
-#EXTINF:-1 tvg-id="601327705" group-title="New Caledonia vs Jamaica 10:00 ngày 27/03 FIFA World Cup (Inter-confederation Play-offs)", New Caledonia vs Jamaica 10:00 ngày 27/03 FIFA World Cup (Inter-confederation Play-offs) (Link 2)
-https://live.alilicloud.com/live/7468c28c91b0846f29304e57c84a35a7/playlist.m3u8
-#EXTINF:-1 tvg-id="601327705" group-title="New Caledonia vs Jamaica 10:00 ngày 27/03 FIFA World Cup (Inter-confederation Play-offs)", New Caledonia vs Jamaica 10:00 ngày 27/03 FIFA World Cup (Inter-confederation Play-offs) (Link 3)
-https://cdn-hls.taoxanh.biz/live/69c5eb8a65105_136682/index.m3u8?expire=1775183370&sign=dd55e45650d7aa7eb9a453ec9974591b
-#EXTINF:-1 tvg-id="601327708" group-title="Chile vs Cape Verde 10:00 ngày 27/03 FIFA Series", Chile vs Cape Verde 10:00 ngày 27/03 FIFA Series (Link 1)
-https://cdn-hls.taoxanh.biz/live/69c5ed1c4b877_74012/index.m3u8?expire=1775183772&amp;sign=99caa3fe6407557f11a4021e3f11ce37
-#EXTINF:-1 tvg-id="601327708" group-title="Chile vs Cape Verde 10:00 ngày 27/03 FIFA Series", Chile vs Cape Verde 10:00 ngày 27/03 FIFA Series (Link 2)
-https://live.alilicloud.com/live/23e31f997f53b6e4a9be81907fe5f262/playlist.m3u8
-#EXTINF:-1 tvg-id="601327708" group-title="Chile vs Cape Verde 10:00 ngày 27/03 FIFA Series", Chile vs Cape Verde 10:00 ngày 27/03 FIFA Series (Link 3)
-https://cdn-hls.taoxanh.biz/live/69c5ed1c4b877_74012/index.m3u8?expire=1775183772&sign=99caa3fe6407557f11a4021e3f11ce37
-#EXTINF:-1 tvg-id="601327714" group-title="China vs Curacao 13:00 ngày 27/03 FIFA Series", China vs Curacao 13:00 ngày 27/03 FIFA Series
+#EXTINF:-1 tvg-id="601327714" group-title="China vs Curacao 13:00 ngày 27/03 FIFA Series", China vs Curacao 13:00 ngày 27/03 FIFA Series (Link 1)
+https://cdn-hls.taoxanh.biz/live/69c615134b877_88642/index.m3u8?expire=1775194003&amp;sign=86ac81a5c37bdf7ace02846d539f2eae
+#EXTINF:-1 tvg-id="601327714" group-title="China vs Curacao 13:00 ngày 27/03 FIFA Series", China vs Curacao 13:00 ngày 27/03 FIFA Series (Link 2)
 https://live.alilicloud.com/live/63f33dadbe3a49eb1f08a767ba7899b0/playlist.m3u8
+#EXTINF:-1 tvg-id="601327714" group-title="China vs Curacao 13:00 ngày 27/03 FIFA Series", China vs Curacao 13:00 ngày 27/03 FIFA Series (Link 3)
+https://cdn-hls.taoxanh.biz/live/69c615134b877_88642/index.m3u8?expire=1775194003&sign=86ac81a5c37bdf7ace02846d539f2eae
+#EXTINF:-1 tvg-id="601327717" group-title="New Zealand vs Finland 13:15 ngày 27/03 FIFA Series", New Zealand vs Finland 13:15 ngày 27/03 FIFA Series (Link 1)
+https://cdn-hls.taoxanh.biz/live/69c60ffe4b877_136682/index.m3u8?expire=1775192702&amp;sign=283bb11facaf7c3bf3fe75bd63f4409d
+#EXTINF:-1 tvg-id="601327717" group-title="New Zealand vs Finland 13:15 ngày 27/03 FIFA Series", New Zealand vs Finland 13:15 ngày 27/03 FIFA Series (Link 2)
+https://cdn-hls.taoxanh.biz/live/69c60ffe4b877_136682/index.m3u8?expire=1775192702&sign=283bb11facaf7c3bf3fe75bd63f4409d
