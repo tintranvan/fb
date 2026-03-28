@@ -1,123 +1,109 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601330807" group-title="Western Sydney Wanderers AM vs Marconi Stallions 11:00 ngày 28/03 Australia New South Wales Premier League", Western Sydney Wanderers AM vs Marconi Stallions 11:00 ngày 28/03 Australia New South Wales Premier League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69c7469f26954_103/index.m3u8?expire=1775272223&amp;sign=e2456b14e4ccc7a91acef856fa0d8c43
-#EXTINF:-1 tvg-id="601330807" group-title="Western Sydney Wanderers AM vs Marconi Stallions 11:00 ngày 28/03 Australia New South Wales Premier League", Western Sydney Wanderers AM vs Marconi Stallions 11:00 ngày 28/03 Australia New South Wales Premier League (Link 2)
-https://live.alilicloud.com/live/d1d08c9f448f2d80c9bcfed1347648e9/playlist.m3u8
-#EXTINF:-1 tvg-id="601330807" group-title="Western Sydney Wanderers AM vs Marconi Stallions 11:00 ngày 28/03 Australia New South Wales Premier League", Western Sydney Wanderers AM vs Marconi Stallions 11:00 ngày 28/03 Australia New South Wales Premier League (Link 3)
-https://cdn-hls.taoxanh.biz/live/69c7469f26954_103/index.m3u8?expire=1775272223&sign=e2456b14e4ccc7a91acef856fa0d8c43
-#EXTINF:-1 tvg-id="601330810" group-title="Avondale FC vs Oakleigh Cannons 11:00 ngày 28/03 National Premier Leagues Victoria", Avondale FC vs Oakleigh Cannons 11:00 ngày 28/03 National Premier Leagues Victoria (Link 1)
-https://cdn-hls.taoxanh.biz/live/69c7422a65105_74012/index.m3u8?expire=1775271082&amp;sign=b8660e89e41ce62876410bbc1cb1ce38
-#EXTINF:-1 tvg-id="601330810" group-title="Avondale FC vs Oakleigh Cannons 11:00 ngày 28/03 National Premier Leagues Victoria", Avondale FC vs Oakleigh Cannons 11:00 ngày 28/03 National Premier Leagues Victoria (Link 2)
-https://live.alilicloud.com/live/6d69b6594e8032f72e8eeea13b184e54/playlist.m3u8
-#EXTINF:-1 tvg-id="601330810" group-title="Avondale FC vs Oakleigh Cannons 11:00 ngày 28/03 National Premier Leagues Victoria", Avondale FC vs Oakleigh Cannons 11:00 ngày 28/03 National Premier Leagues Victoria (Link 3)
-https://cdn-hls.taoxanh.biz/live/69c7422a65105_74012/index.m3u8?expire=1775271082&sign=b8660e89e41ce62876410bbc1cb1ce38
-#EXTINF:-1 tvg-id="601330882" group-title="Yokohama FC vs Shonan Bellmare 12:00 ngày 28/03 J2/J3 100 Year Vision League", Yokohama FC vs Shonan Bellmare 12:00 ngày 28/03 J2/J3 100 Year Vision League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69c7604e65105_110198/index.m3u8?expire=1775278798&amp;sign=0c8c12df9c68ab4d36b7d00f046e2f46
-#EXTINF:-1 tvg-id="601330882" group-title="Yokohama FC vs Shonan Bellmare 12:00 ngày 28/03 J2/J3 100 Year Vision League", Yokohama FC vs Shonan Bellmare 12:00 ngày 28/03 J2/J3 100 Year Vision League (Link 2)
-https://live.alilicloud.com/live/635382a6d8bbc7b61367463c3e175dbb/playlist.m3u8
-#EXTINF:-1 tvg-id="601330882" group-title="Yokohama FC vs Shonan Bellmare 12:00 ngày 28/03 J2/J3 100 Year Vision League", Yokohama FC vs Shonan Bellmare 12:00 ngày 28/03 J2/J3 100 Year Vision League (Link 3)
-https://cdn-hls.taoxanh.biz/live/69c7604e65105_110198/index.m3u8?expire=1775278798&sign=0c8c12df9c68ab4d36b7d00f046e2f46
 #EXTINF:-1 tvg-id="601330885" group-title="NTV Tokyo Verdy Beleza vs Stallion Laguna FC (W) 12:00 ngày 28/03 AFC Women’s Champions League", NTV Tokyo Verdy Beleza vs Stallion Laguna FC (W) 12:00 ngày 28/03 AFC Women’s Champions League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69c758b950037_4908/index.m3u8?expire=1775276857&amp;sign=3fead17e075ac8118fb2244e27755123
 #EXTINF:-1 tvg-id="601330885" group-title="NTV Tokyo Verdy Beleza vs Stallion Laguna FC (W) 12:00 ngày 28/03 AFC Women’s Champions League", NTV Tokyo Verdy Beleza vs Stallion Laguna FC (W) 12:00 ngày 28/03 AFC Women’s Champions League (Link 2)
 https://live.alilicloud.com/live/ba148e4409fb9c29d5c0ba66d5a3d1fe/playlist.m3u8
 #EXTINF:-1 tvg-id="601330885" group-title="NTV Tokyo Verdy Beleza vs Stallion Laguna FC (W) 12:00 ngày 28/03 AFC Women’s Champions League", NTV Tokyo Verdy Beleza vs Stallion Laguna FC (W) 12:00 ngày 28/03 AFC Women’s Champions League (Link 3)
 https://cdn-hls.taoxanh.biz/live/69c758b950037_4908/index.m3u8?expire=1775276857&sign=3fead17e075ac8118fb2244e27755123
+#EXTINF:-1 tvg-id="601330882" group-title="Yokohama FC vs Shonan Bellmare 12:00 ngày 28/03 J2/J3 100 Year Vision League", Yokohama FC vs Shonan Bellmare 12:00 ngày 28/03 J2/J3 100 Year Vision League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69c7604e65105_110198/index.m3u8?expire=1775278798&amp;sign=0c8c12df9c68ab4d36b7d00f046e2f46
+#EXTINF:-1 tvg-id="601330882" group-title="Yokohama FC vs Shonan Bellmare 12:00 ngày 28/03 J2/J3 100 Year Vision League", Yokohama FC vs Shonan Bellmare 12:00 ngày 28/03 J2/J3 100 Year Vision League (Link 2)
+https://live.alilicloud.com/live/635382a6d8bbc7b61367463c3e175dbb/playlist.m3u8
+#EXTINF:-1 tvg-id="601330882" group-title="Yokohama FC vs Shonan Bellmare 12:00 ngày 28/03 J2/J3 100 Year Vision League", Yokohama FC vs Shonan Bellmare 12:00 ngày 28/03 J2/J3 100 Year Vision League (Link 3)
+https://cdn-hls.taoxanh.biz/live/69c7604e65105_110198/index.m3u8?expire=1775278798&sign=0c8c12df9c68ab4d36b7d00f046e2f46
 #EXTINF:-1 tvg-id="601330864" group-title="Machida Zelvia vs Kawasaki Frontale 12:00 ngày 28/03 Japanese J1 League", Machida Zelvia vs Kawasaki Frontale 12:00 ngày 28/03 Japanese J1 League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69c753e765105_124958/index.m3u8?expire=1775275623&amp;sign=0f54a71b5dc2b5b1ccd1289b72518634
 #EXTINF:-1 tvg-id="601330864" group-title="Machida Zelvia vs Kawasaki Frontale 12:00 ngày 28/03 Japanese J1 League", Machida Zelvia vs Kawasaki Frontale 12:00 ngày 28/03 Japanese J1 League (Link 2)
 https://live.alilicloud.com/live/e5d6967f3f080d62d5a9f510cde79b8d/playlist.m3u8
 #EXTINF:-1 tvg-id="601330864" group-title="Machida Zelvia vs Kawasaki Frontale 12:00 ngày 28/03 Japanese J1 League", Machida Zelvia vs Kawasaki Frontale 12:00 ngày 28/03 Japanese J1 League (Link 3)
 https://cdn-hls.taoxanh.biz/live/69c753e765105_124958/index.m3u8?expire=1775275623&sign=0f54a71b5dc2b5b1ccd1289b72518634
-#EXTINF:-1 tvg-id="601339054" group-title="Lambton Jaffas Reserves vs Valentine Phoenix Reserves 11:00 ngày 28/03 Australia Northern New South Wales Reserves League", Lambton Jaffas Reserves vs Valentine Phoenix Reserves 11:00 ngày 28/03 Australia Northern New South Wales Reserves League
-https://live.alilicloud.com/live/b3c946aa07ca420d74ffc0b24738249a/playlist.m3u8
-#EXTINF:-1 tvg-id="601335574" group-title="SKA Khabarovsk II vs FK Volna Nizhegorodskaya 11:00 ngày 28/03 RUS D3B", SKA Khabarovsk II vs FK Volna Nizhegorodskaya 11:00 ngày 28/03 RUS D3B
-https://live.alilicloud.com/live/17d4a0be2f48683ef6ad0f6646e59db9/playlist.m3u8
-#EXTINF:-1 tvg-id="601332901" group-title="Yokogawa Musashino FC vs Reinmeer Aomori FC 11:00 ngày 28/03 Japanese Football League", Yokogawa Musashino FC vs Reinmeer Aomori FC 11:00 ngày 28/03 Japanese Football League
-https://live.alilicloud.com/live/6dc4e960762fbb21004160beebc6d6ea/playlist.m3u8
-#EXTINF:-1 tvg-id="601332898" group-title="VONDS Ichihara vs Yokohama SCC 11:00 ngày 28/03 Japanese Football League", VONDS Ichihara vs Yokohama SCC 11:00 ngày 28/03 Japanese Football League
-https://live.alilicloud.com/live/705336e7ab48c0b4a78813d36fd771e1/playlist.m3u8
-#EXTINF:-1 tvg-id="601327729" group-title="Keilor Park (w) vs Essendon Royals (W) 11:00 ngày 28/03 Australia Victorian Women's Premier League", Keilor Park (w) vs Essendon Royals (W) 11:00 ngày 28/03 Australia Victorian Women's Premier League
-https://live.alilicloud.com/live/c004256cbbc97463a05e4c0672331879/playlist.m3u8
-#EXTINF:-1 tvg-id="601327732" group-title="Alamein (w) vs Heidelberg United (w) 11:00 ngày 28/03 Australia Victorian Women's Premier League", Alamein (w) vs Heidelberg United (w) 11:00 ngày 28/03 Australia Victorian Women's Premier League
-https://live.alilicloud.com/live/faf3e7c9630f37a277f787dbac8b3d5b/playlist.m3u8
-#EXTINF:-1 tvg-id="601330801" group-title="Adelaide City FC vs Adelaide Comets FC 11:00 ngày 28/03 South Australia National Premier Leagues", Adelaide City FC vs Adelaide Comets FC 11:00 ngày 28/03 South Australia National Premier Leagues
-https://live.alilicloud.com/live/442def5c42a08509a0b62a792ffa5c52/playlist.m3u8
-#EXTINF:-1 tvg-id="601330828" group-title="Maruyasu Okazaki vs FC Tiamo Hirakata 11:00 ngày 28/03 Japanese Football League", Maruyasu Okazaki vs FC Tiamo Hirakata 11:00 ngày 28/03 Japanese Football League
-https://live.alilicloud.com/live/6da883f7c91cdbf9bde954e5d30b110b/playlist.m3u8
-#EXTINF:-1 tvg-id="601330825" group-title="Setagaya Sfid(w) vs Okayama Yunogo Belle (w) 11:00 ngày 28/03 Japanese Nadeshiko League 1", Setagaya Sfid(w) vs Okayama Yunogo Belle (w) 11:00 ngày 28/03 Japanese Nadeshiko League 1
-https://live.alilicloud.com/live/7c3c0816ab4be31229400501c567f8da/playlist.m3u8
-#EXTINF:-1 tvg-id="601330822" group-title="NGU Nagoya (w) vs Ehime FC (w) 11:00 ngày 28/03 Japanese Nadeshiko League 1", NGU Nagoya (w) vs Ehime FC (w) 11:00 ngày 28/03 Japanese Nadeshiko League 1
-https://live.alilicloud.com/live/a99ed5ba2a3046b55e0a2024d75c33b9/playlist.m3u8
-#EXTINF:-1 tvg-id="601330813" group-title="Albirex Niigata Ladies vs AC Nagano Parceiro Ladies 11:00 ngày 28/03 Women Empowerment League", Albirex Niigata Ladies vs AC Nagano Parceiro Ladies 11:00 ngày 28/03 Women Empowerment League
-https://live.alilicloud.com/live/1c49ffe4259eae48e9caf39a07d4d586/playlist.m3u8
-#EXTINF:-1 tvg-id="601339057" group-title="Canberra White Eagles U23 vs Belconnen United U23 11:00 ngày 28/03 Australia Capital Territory U23 League", Canberra White Eagles U23 vs Belconnen United U23 11:00 ngày 28/03 Australia Capital Territory U23 League
-https://live.alilicloud.com/live/51d4ba760c7139e3de9fa55dab511fc7/playlist.m3u8
-#EXTINF:-1 tvg-id="601327720" group-title="Melbourne City Youth(W) vs Melbourne Victory FC Youth(W) 11:00 ngày 28/03 Australia Victorian Women's Premier League", Melbourne City Youth(W) vs Melbourne Victory FC Youth(W) 11:00 ngày 28/03 Australia Victorian Women's Premier League
-https://live.alilicloud.com/live/453672ddc60d91a3730ab81b62407193/playlist.m3u8
-#EXTINF:-1 tvg-id="601330843" group-title="Sturt Lions vs West Torrens Birkalla 11:30 ngày 28/03 South Australia National Premier Leagues", Sturt Lions vs West Torrens Birkalla 11:30 ngày 28/03 South Australia National Premier Leagues
-https://live.alilicloud.com/live/07768c8463b44fb8086074fc308a61dd/playlist.m3u8
-#EXTINF:-1 tvg-id="601330846" group-title="Adelaide Blue Eagles vs Adelaide Atletico 11:30 ngày 28/03 South Australia State League 1", Adelaide Blue Eagles vs Adelaide Atletico 11:30 ngày 28/03 South Australia State League 1
-https://live.alilicloud.com/live/b1815788475c3fe93f022562c0062ad7/playlist.m3u8
-#EXTINF:-1 tvg-id="601330849" group-title="Fulham United FC vs Adelaide Panthers 11:30 ngày 28/03 South Australia State League 1", Fulham United FC vs Adelaide Panthers 11:30 ngày 28/03 South Australia State League 1
-https://live.alilicloud.com/live/f2fbb3149bb37fdaf82fcccbf7e8937b/playlist.m3u8
-#EXTINF:-1 tvg-id="601339063" group-title="Cooma Tigers U23 vs OConnor Knights U23 11:30 ngày 28/03 Australia Capital Territory U23 League", Cooma Tigers U23 vs OConnor Knights U23 11:30 ngày 28/03 Australia Capital Territory U23 League
-https://live.alilicloud.com/live/8bb906ded401c8d9fab86470089455ab/playlist.m3u8
-#EXTINF:-1 tvg-id="601339066" group-title="Modbury Vista (w) vs MetroStars (W) 11:45 ngày 28/03 South Australia Women's Premier League", Modbury Vista (w) vs MetroStars (W) 11:45 ngày 28/03 South Australia Women's Premier League
-https://live.alilicloud.com/live/88e28457d85b7b3ec5d30b171b51b4e3/playlist.m3u8
-#EXTINF:-1 tvg-id="601330921" group-title="Jincheon HR FC vs Sejong SA 12:00 ngày 28/03 Korean K League 4", Jincheon HR FC vs Sejong SA 12:00 ngày 28/03 Korean K League 4
-https://live.alilicloud.com/live/bd910852de177b5e6d4ae323c34bc874/playlist.m3u8
-#EXTINF:-1 tvg-id="601330891" group-title="Sanfrecce Hiroshima Regina vs AS Elfen Saitama 12:00 ngày 28/03 Women Empowerment League", Sanfrecce Hiroshima Regina vs AS Elfen Saitama 12:00 ngày 28/03 Women Empowerment League
-https://live.alilicloud.com/live/53cfe3ad175503154831eaae11207bb9/playlist.m3u8
-#EXTINF:-1 tvg-id="601330858" group-title="Sunny Bank Athletic Club Taipei (w) vs Taipei Brao Women 12:00 ngày 28/03 Chinese Taiwan Mulan Football League", Sunny Bank Athletic Club Taipei (w) vs Taipei Brao Women 12:00 ngày 28/03 Chinese Taiwan Mulan Football League
-https://live.alilicloud.com/live/e5ed31aab0b7001f72d7b7515bf3ab73/playlist.m3u8
-#EXTINF:-1 tvg-id="601330867" group-title="FC Gifu vs AC Nagano Parceiro 12:00 ngày 28/03 J2/J3 100 Year Vision League", FC Gifu vs AC Nagano Parceiro 12:00 ngày 28/03 J2/J3 100 Year Vision League
-https://live.alilicloud.com/live/b04862a476c15573590a52198add8d55/playlist.m3u8
-#EXTINF:-1 tvg-id="601330870" group-title="Thespa Kusatsu Gunma vs Tochigi SC 12:00 ngày 28/03 J2/J3 100 Year Vision League", Thespa Kusatsu Gunma vs Tochigi SC 12:00 ngày 28/03 J2/J3 100 Year Vision League
-https://live.alilicloud.com/live/97e0ec186f109548bfc3f094278a5514/playlist.m3u8
-#EXTINF:-1 tvg-id="601330873" group-title="Fujieda MYFC vs Hokkaido Consadole Sapporo 12:00 ngày 28/03 J2/J3 100 Year Vision League", Fujieda MYFC vs Hokkaido Consadole Sapporo 12:00 ngày 28/03 J2/J3 100 Year Vision League
-https://live.alilicloud.com/live/fe41a2b3bc4340a1d11da97e9a30a045/playlist.m3u8
-#EXTINF:-1 tvg-id="601330876" group-title="Nara Club vs Zweigen Kanazawa FC 12:00 ngày 28/03 J2/J3 100 Year Vision League", Nara Club vs Zweigen Kanazawa FC 12:00 ngày 28/03 J2/J3 100 Year Vision League
-https://live.alilicloud.com/live/dfcf4dbc52cf71a0dbd4e5c70a0811e7/playlist.m3u8
-#EXTINF:-1 tvg-id="601330879" group-title="Ventforet Kofu vs RB Omiya Ardija 12:00 ngày 28/03 J2/J3 100 Year Vision League", Ventforet Kofu vs RB Omiya Ardija 12:00 ngày 28/03 J2/J3 100 Year Vision League
-https://live.alilicloud.com/live/8619f3a004717db4da738ba318e38818/playlist.m3u8
-#EXTINF:-1 tvg-id="601330888" group-title="Mynavi Sendai Ladies vs Cerezo Osaka Sakai 12:00 ngày 28/03 Women Empowerment League", Mynavi Sendai Ladies vs Cerezo Osaka Sakai 12:00 ngày 28/03 Women Empowerment League
-https://live.alilicloud.com/live/367f0fe688b3c605d172c8066b94fc57/playlist.m3u8
-#EXTINF:-1 tvg-id="601327726" group-title="FC Bulleen Lions (w) vs Preston Lions (w) 12:00 ngày 28/03 Australia Victorian Women's Premier League", FC Bulleen Lions (w) vs Preston Lions (w) 12:00 ngày 28/03 Australia Victorian Women's Premier League
-https://live.alilicloud.com/live/3ba71509773bbc4cc261be4705c592d3/playlist.m3u8
-#EXTINF:-1 tvg-id="601330894" group-title="Chungnam Asan vs Hwaseong FC 12:00 ngày 28/03 Korean K League 2", Chungnam Asan vs Hwaseong FC 12:00 ngày 28/03 Korean K League 2
-https://live.alilicloud.com/live/2fb899896b1e3cf78115bea7bd030d53/playlist.m3u8
-#EXTINF:-1 tvg-id="601330897" group-title="Yongin FC vs Suwon Samsung Bluewings 12:00 ngày 28/03 Korean K League 2", Yongin FC vs Suwon Samsung Bluewings 12:00 ngày 28/03 Korean K League 2
-https://live.alilicloud.com/live/0c95d1256f0ae90e7ecb04b83a0147da/playlist.m3u8
-#EXTINF:-1 tvg-id="601330903" group-title="Busan Transportation Corporation vs Siheung City 12:00 ngày 28/03 Korean K League 3", Busan Transportation Corporation vs Siheung City 12:00 ngày 28/03 Korean K League 3
-https://live.alilicloud.com/live/d0a52c11fdeab6552a98b711fe50b5c5/playlist.m3u8
-#EXTINF:-1 tvg-id="601330906" group-title="Gangneung Citizen vs Mokpo City 12:00 ngày 28/03 Korean K League 3", Gangneung Citizen vs Mokpo City 12:00 ngày 28/03 Korean K League 3
-https://live.alilicloud.com/live/05cb4c8f4a00baee52849717ad78ae54/playlist.m3u8
-#EXTINF:-1 tvg-id="601330909" group-title="Gyeongju KHNP vs Daejeon Korail 12:00 ngày 28/03 Korean K League 3", Gyeongju KHNP vs Daejeon Korail 12:00 ngày 28/03 Korean K League 3
-https://live.alilicloud.com/live/b105611987ebeff3f1713f0f1f03fe89/playlist.m3u8
-#EXTINF:-1 tvg-id="601330912" group-title="Pocheon FC vs Dangjin Citizen 12:00 ngày 28/03 Korean K League 3", Pocheon FC vs Dangjin Citizen 12:00 ngày 28/03 Korean K League 3
-https://live.alilicloud.com/live/a84f20f88b762413ecb88a5d8e08dff1/playlist.m3u8
-#EXTINF:-1 tvg-id="601330915" group-title="Geoje Citizen vs Pyeongchang FC 12:00 ngày 28/03 Korean K League 4", Geoje Citizen vs Pyeongchang FC 12:00 ngày 28/03 Korean K League 4
-https://live.alilicloud.com/live/6cb1c0e1f7380e334fd6657720ee000a/playlist.m3u8
-#EXTINF:-1 tvg-id="601330918" group-title="Seosan Pioneer FC vs Pyeongtaek Citizen 12:00 ngày 28/03 Korean K League 4", Seosan Pioneer FC vs Pyeongtaek Citizen 12:00 ngày 28/03 Korean K League 4
-https://live.alilicloud.com/live/b2fb3e439d0e4eadfeb244455a136512/playlist.m3u8
-#EXTINF:-1 tvg-id="601330861" group-title="Taichung Sakura (W) vs Valkyrie (W) 12:10 ngày 28/03 Chinese Taiwan Mulan Football League", Taichung Sakura (W) vs Valkyrie (W) 12:10 ngày 28/03 Chinese Taiwan Mulan Football League
-https://live.alilicloud.com/live/3fb95c4ea443fabc632b580ef0b03f4a/playlist.m3u8
 #EXTINF:-1 tvg-id="601330957" group-title="Sydney FC Women vs Melbourne Victory (w) 13:00 ngày 28/03 Australia W-League", Sydney FC Women vs Melbourne Victory (w) 13:00 ngày 28/03 Australia W-League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69c761824b877_95554/index.m3u8?expire=1775279106&amp;sign=f1c55f8d1c094caadfcd8df52a0b5314
 #EXTINF:-1 tvg-id="601330957" group-title="Sydney FC Women vs Melbourne Victory (w) 13:00 ngày 28/03 Australia W-League", Sydney FC Women vs Melbourne Victory (w) 13:00 ngày 28/03 Australia W-League (Link 2)
+https://live.alilicloud.com/live/8f3ae2bbdb0a52fc848dab85d62f540e/playlist.m3u8
+#EXTINF:-1 tvg-id="601330957" group-title="Sydney FC Women vs Melbourne Victory (w) 13:00 ngày 28/03 Australia W-League", Sydney FC Women vs Melbourne Victory (w) 13:00 ngày 28/03 Australia W-League (Link 3)
 https://cdn-hls.taoxanh.biz/live/69c761824b877_95554/index.m3u8?expire=1775279106&sign=f1c55f8d1c094caadfcd8df52a0b5314
-#EXTINF:-1 tvg-id="601330963" group-title="University NSW vs St George City FA 13:00 ngày 28/03 Australia New South Wales Premier League", University NSW vs St George City FA 13:00 ngày 28/03 Australia New South Wales Premier League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69c75c3e4b877_18754/index.m3u8?expire=1775277758&amp;sign=d2543bd3407cb8d39b005fe1aa533bb6
-#EXTINF:-1 tvg-id="601330963" group-title="University NSW vs St George City FA 13:00 ngày 28/03 Australia New South Wales Premier League", University NSW vs St George City FA 13:00 ngày 28/03 Australia New South Wales Premier League (Link 2)
-https://cdn-hls.taoxanh.biz/live/69c75c3e4b877_18754/index.m3u8?expire=1775277758&sign=d2543bd3407cb8d39b005fe1aa533bb6
 #EXTINF:-1 tvg-id="601330966" group-title="Rockdale City Suns vs Sydney United 58 FC 13:00 ngày 28/03 Australia New South Wales Premier League", Rockdale City Suns vs Sydney United 58 FC 13:00 ngày 28/03 Australia New South Wales Premier League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69c75fb165105_151657/index.m3u8?expire=1775278641&amp;sign=13962d77b06a28e8723fd9835d68fdf0
 #EXTINF:-1 tvg-id="601330966" group-title="Rockdale City Suns vs Sydney United 58 FC 13:00 ngày 28/03 Australia New South Wales Premier League", Rockdale City Suns vs Sydney United 58 FC 13:00 ngày 28/03 Australia New South Wales Premier League (Link 2)
+https://live.alilicloud.com/live/87a29458326076decc00a2abb64cecf7/playlist.m3u8
+#EXTINF:-1 tvg-id="601330966" group-title="Rockdale City Suns vs Sydney United 58 FC 13:00 ngày 28/03 Australia New South Wales Premier League", Rockdale City Suns vs Sydney United 58 FC 13:00 ngày 28/03 Australia New South Wales Premier League (Link 3)
 https://cdn-hls.taoxanh.biz/live/69c75fb165105_151657/index.m3u8?expire=1775278641&sign=13962d77b06a28e8723fd9835d68fdf0
 #EXTINF:-1 tvg-id="601330969" group-title="Pohang Steelers vs Gangwon Football Club 13:00 ngày 28/03 Korean K League 1", Pohang Steelers vs Gangwon Football Club 13:00 ngày 28/03 Korean K League 1 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69c7664865105_133172/index.m3u8?expire=1775280328&amp;sign=9e704db89b1fe74275b9c0acece95234
 #EXTINF:-1 tvg-id="601330969" group-title="Pohang Steelers vs Gangwon Football Club 13:00 ngày 28/03 Korean K League 1", Pohang Steelers vs Gangwon Football Club 13:00 ngày 28/03 Korean K League 1 (Link 2)
+https://live.alilicloud.com/live/7d6b06d1c5610c164f88eda2220e2669/playlist.m3u8
+#EXTINF:-1 tvg-id="601330969" group-title="Pohang Steelers vs Gangwon Football Club 13:00 ngày 28/03 Korean K League 1", Pohang Steelers vs Gangwon Football Club 13:00 ngày 28/03 Korean K League 1 (Link 3)
 https://cdn-hls.taoxanh.biz/live/69c7664865105_133172/index.m3u8?expire=1775280328&sign=9e704db89b1fe74275b9c0acece95234
+#EXTINF:-1 tvg-id="601330963" group-title="University NSW vs St George City FA 13:10 ngày 28/03 Australia New South Wales Premier League", University NSW vs St George City FA 13:10 ngày 28/03 Australia New South Wales Premier League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69c75c3e4b877_18754/index.m3u8?expire=1775277758&amp;sign=d2543bd3407cb8d39b005fe1aa533bb6
+#EXTINF:-1 tvg-id="601330963" group-title="University NSW vs St George City FA 13:10 ngày 28/03 Australia New South Wales Premier League", University NSW vs St George City FA 13:10 ngày 28/03 Australia New South Wales Premier League (Link 2)
+https://live.alilicloud.com/live/96dfd7950bfd301c14f54d1cef47e287/playlist.m3u8
+#EXTINF:-1 tvg-id="601330963" group-title="University NSW vs St George City FA 13:10 ngày 28/03 Australia New South Wales Premier League", University NSW vs St George City FA 13:10 ngày 28/03 Australia New South Wales Premier League (Link 3)
+https://cdn-hls.taoxanh.biz/live/69c75c3e4b877_18754/index.m3u8?expire=1775277758&sign=d2543bd3407cb8d39b005fe1aa533bb6
+#EXTINF:-1 tvg-id="601330990" group-title="Sutherland Sharks vs Manly United 13:30 ngày 28/03 Australia New South Wales Premier League", Sutherland Sharks vs Manly United 13:30 ngày 28/03 Australia New South Wales Premier League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69c7721b65105_73445/index.m3u8?expire=1775283355&amp;sign=b86e924dbca04873cd1de6777e0d0ec8
+#EXTINF:-1 tvg-id="601330990" group-title="Sutherland Sharks vs Manly United 13:30 ngày 28/03 Australia New South Wales Premier League", Sutherland Sharks vs Manly United 13:30 ngày 28/03 Australia New South Wales Premier League (Link 2)
+https://live.alilicloud.com/live/d18ab8327283bf47a17bf04c266e4ca1/playlist.m3u8
+#EXTINF:-1 tvg-id="601330990" group-title="Sutherland Sharks vs Manly United 13:30 ngày 28/03 Australia New South Wales Premier League", Sutherland Sharks vs Manly United 13:30 ngày 28/03 Australia New South Wales Premier League (Link 3)
+https://cdn-hls.taoxanh.biz/live/69c7721b65105_73445/index.m3u8?expire=1775283355&sign=b86e924dbca04873cd1de6777e0d0ec8
+#EXTINF:-1 tvg-id="601339066" group-title="Modbury Vista (w) vs MetroStars (W) 11:45 ngày 28/03 South Australia Women's Premier League", Modbury Vista (w) vs MetroStars (W) 11:45 ngày 28/03 South Australia Women's Premier League
+https://live.alilicloud.com/live/88e28457d85b7b3ec5d30b171b51b4e3/playlist.m3u8
+#EXTINF:-1 tvg-id="601327726" group-title="FC Bulleen Lions (w) vs Preston Lions (w) 12:00 ngày 28/03 Australia Victorian Women's Premier League", FC Bulleen Lions (w) vs Preston Lions (w) 12:00 ngày 28/03 Australia Victorian Women's Premier League
+https://live.alilicloud.com/live/3ba71509773bbc4cc261be4705c592d3/playlist.m3u8
+#EXTINF:-1 tvg-id="601330921" group-title="Jincheon HR FC vs Sejong SA 12:00 ngày 28/03 Korean K League 4", Jincheon HR FC vs Sejong SA 12:00 ngày 28/03 Korean K League 4
+https://live.alilicloud.com/live/bd910852de177b5e6d4ae323c34bc874/playlist.m3u8
+#EXTINF:-1 tvg-id="601330918" group-title="Seosan Pioneer FC vs Pyeongtaek Citizen 12:00 ngày 28/03 Korean K League 4", Seosan Pioneer FC vs Pyeongtaek Citizen 12:00 ngày 28/03 Korean K League 4
+https://live.alilicloud.com/live/b2fb3e439d0e4eadfeb244455a136512/playlist.m3u8
+#EXTINF:-1 tvg-id="601330915" group-title="Geoje Citizen vs Pyeongchang FC 12:00 ngày 28/03 Korean K League 4", Geoje Citizen vs Pyeongchang FC 12:00 ngày 28/03 Korean K League 4
+https://live.alilicloud.com/live/6cb1c0e1f7380e334fd6657720ee000a/playlist.m3u8
+#EXTINF:-1 tvg-id="601330912" group-title="Pocheon FC vs Dangjin Citizen 12:00 ngày 28/03 Korean K League 3", Pocheon FC vs Dangjin Citizen 12:00 ngày 28/03 Korean K League 3
+https://live.alilicloud.com/live/a84f20f88b762413ecb88a5d8e08dff1/playlist.m3u8
+#EXTINF:-1 tvg-id="601330909" group-title="Gyeongju KHNP vs Daejeon Korail 12:00 ngày 28/03 Korean K League 3", Gyeongju KHNP vs Daejeon Korail 12:00 ngày 28/03 Korean K League 3
+https://live.alilicloud.com/live/b105611987ebeff3f1713f0f1f03fe89/playlist.m3u8
+#EXTINF:-1 tvg-id="601330906" group-title="Gangneung Citizen vs Mokpo City 12:00 ngày 28/03 Korean K League 3", Gangneung Citizen vs Mokpo City 12:00 ngày 28/03 Korean K League 3
+https://live.alilicloud.com/live/05cb4c8f4a00baee52849717ad78ae54/playlist.m3u8
+#EXTINF:-1 tvg-id="601330903" group-title="Busan Transportation Corporation vs Siheung City 12:00 ngày 28/03 Korean K League 3", Busan Transportation Corporation vs Siheung City 12:00 ngày 28/03 Korean K League 3
+https://live.alilicloud.com/live/d0a52c11fdeab6552a98b711fe50b5c5/playlist.m3u8
+#EXTINF:-1 tvg-id="601330897" group-title="Yongin FC vs Suwon Samsung Bluewings 12:00 ngày 28/03 Korean K League 2", Yongin FC vs Suwon Samsung Bluewings 12:00 ngày 28/03 Korean K League 2
+https://live.alilicloud.com/live/0c95d1256f0ae90e7ecb04b83a0147da/playlist.m3u8
+#EXTINF:-1 tvg-id="601330894" group-title="Chungnam Asan vs Hwaseong FC 12:00 ngày 28/03 Korean K League 2", Chungnam Asan vs Hwaseong FC 12:00 ngày 28/03 Korean K League 2
+https://live.alilicloud.com/live/2fb899896b1e3cf78115bea7bd030d53/playlist.m3u8
+#EXTINF:-1 tvg-id="601330891" group-title="Sanfrecce Hiroshima Regina vs AS Elfen Saitama 12:00 ngày 28/03 Women Empowerment League", Sanfrecce Hiroshima Regina vs AS Elfen Saitama 12:00 ngày 28/03 Women Empowerment League
+https://live.alilicloud.com/live/53cfe3ad175503154831eaae11207bb9/playlist.m3u8
+#EXTINF:-1 tvg-id="601330888" group-title="Mynavi Sendai Ladies vs Cerezo Osaka Sakai 12:00 ngày 28/03 Women Empowerment League", Mynavi Sendai Ladies vs Cerezo Osaka Sakai 12:00 ngày 28/03 Women Empowerment League
+https://live.alilicloud.com/live/367f0fe688b3c605d172c8066b94fc57/playlist.m3u8
+#EXTINF:-1 tvg-id="601330879" group-title="Ventforet Kofu vs RB Omiya Ardija 12:00 ngày 28/03 J2/J3 100 Year Vision League", Ventforet Kofu vs RB Omiya Ardija 12:00 ngày 28/03 J2/J3 100 Year Vision League
+https://live.alilicloud.com/live/8619f3a004717db4da738ba318e38818/playlist.m3u8
+#EXTINF:-1 tvg-id="601330876" group-title="Nara Club vs Zweigen Kanazawa FC 12:00 ngày 28/03 J2/J3 100 Year Vision League", Nara Club vs Zweigen Kanazawa FC 12:00 ngày 28/03 J2/J3 100 Year Vision League
+https://live.alilicloud.com/live/dfcf4dbc52cf71a0dbd4e5c70a0811e7/playlist.m3u8
+#EXTINF:-1 tvg-id="601330873" group-title="Fujieda MYFC vs Hokkaido Consadole Sapporo 12:00 ngày 28/03 J2/J3 100 Year Vision League", Fujieda MYFC vs Hokkaido Consadole Sapporo 12:00 ngày 28/03 J2/J3 100 Year Vision League
+https://live.alilicloud.com/live/fe41a2b3bc4340a1d11da97e9a30a045/playlist.m3u8
+#EXTINF:-1 tvg-id="601330870" group-title="Thespa Kusatsu Gunma vs Tochigi SC 12:00 ngày 28/03 J2/J3 100 Year Vision League", Thespa Kusatsu Gunma vs Tochigi SC 12:00 ngày 28/03 J2/J3 100 Year Vision League
+https://live.alilicloud.com/live/97e0ec186f109548bfc3f094278a5514/playlist.m3u8
+#EXTINF:-1 tvg-id="601330867" group-title="FC Gifu vs AC Nagano Parceiro 12:00 ngày 28/03 J2/J3 100 Year Vision League", FC Gifu vs AC Nagano Parceiro 12:00 ngày 28/03 J2/J3 100 Year Vision League
+https://live.alilicloud.com/live/b04862a476c15573590a52198add8d55/playlist.m3u8
+#EXTINF:-1 tvg-id="601330858" group-title="Sunny Bank Athletic Club Taipei (w) vs Taipei Brao Women 12:00 ngày 28/03 Chinese Taiwan Mulan Football League", Sunny Bank Athletic Club Taipei (w) vs Taipei Brao Women 12:00 ngày 28/03 Chinese Taiwan Mulan Football League
+https://live.alilicloud.com/live/e5ed31aab0b7001f72d7b7515bf3ab73/playlist.m3u8
+#EXTINF:-1 tvg-id="601330861" group-title="Taichung Sakura (W) vs Valkyrie (W) 12:10 ngày 28/03 Chinese Taiwan Mulan Football League", Taichung Sakura (W) vs Valkyrie (W) 12:10 ngày 28/03 Chinese Taiwan Mulan Football League
+https://live.alilicloud.com/live/3fb95c4ea443fabc632b580ef0b03f4a/playlist.m3u8
+#EXTINF:-1 tvg-id="601330951" group-title="LAN Thurston vs Hobart Zebras 12:45 ngày 28/03 Australia Tasmania National Premier League", LAN Thurston vs Hobart Zebras 12:45 ngày 28/03 Australia Tasmania National Premier League
+https://live.alilicloud.com/live/c91f126e8b89e7b3903dfd52fc311f3b/playlist.m3u8
+#EXTINF:-1 tvg-id="601330984" group-title="Canberra White Eagles vs Belconnen United 13:00 ngày 28/03 Australia National Premier Leagues Capital Football 1", Canberra White Eagles vs Belconnen United 13:00 ngày 28/03 Australia National Premier Leagues Capital Football 1
+https://live.alilicloud.com/live/4735f84270199adea18f32881980b5be/playlist.m3u8
+#EXTINF:-1 tvg-id="601330831" group-title="J-Lease FC vs Verspah Oita 13:00 ngày 28/03 Japanese Football League", J-Lease FC vs Verspah Oita 13:00 ngày 28/03 Japanese Football League
+https://live.alilicloud.com/live/9b663a69b140c450d13a857ecc9fb3a7/playlist.m3u8
+#EXTINF:-1 tvg-id="601343266" group-title="West Adelaide (w) vs Campbelltown City (w) 13:15 ngày 28/03 South Australia Women's Premier League", West Adelaide (w) vs Campbelltown City (w) 13:15 ngày 28/03 South Australia Women's Premier League
+https://live.alilicloud.com/live/a451dcac090ff49cacd9ff30330c4cd4/playlist.m3u8
+#EXTINF:-1 tvg-id="601330993" group-title="The Cove FC vs Salisbury United 13:30 ngày 28/03 South Australia State League 1", The Cove FC vs Salisbury United 13:30 ngày 28/03 South Australia State League 1
+https://live.alilicloud.com/live/c8c7657180cb8edbf3d9ea545a26ef17/playlist.m3u8
+#EXTINF:-1 tvg-id="601331023" group-title="Thailand U23 vs Vietnam U23 14:00 ngày 28/03 CFA Team China International Tournament", Thailand U23 vs Vietnam U23 14:00 ngày 28/03 CFA Team China International Tournament (Link 1)
+https://cdn-hls.taoxanh.biz/live/69c76f684b877_4908/index.m3u8?expire=1775282664&amp;sign=6431c2dec1c659a2af35cadee8dde49f
+#EXTINF:-1 tvg-id="601331023" group-title="Thailand U23 vs Vietnam U23 14:00 ngày 28/03 CFA Team China International Tournament", Thailand U23 vs Vietnam U23 14:00 ngày 28/03 CFA Team China International Tournament (Link 2)
+https://cdn-hls.taoxanh.biz/live/69c7708265105_79/index.m3u8?expire=1775282946&sign=752a98d624eaa0b1b8b3b77faed5e7c8
+#EXTINF:-1 tvg-id="601331077" group-title="Ansan Greeners FC vs Gyeongnam FC 14:30 ngày 28/03 Korean K League 2", Ansan Greeners FC vs Gyeongnam FC 14:30 ngày 28/03 Korean K League 2 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69c7778e4b877_103/index.m3u8?expire=1775284750&amp;sign=a06fcc2689e82c2237ae3609d75d323f
+#EXTINF:-1 tvg-id="601331077" group-title="Ansan Greeners FC vs Gyeongnam FC 14:30 ngày 28/03 Korean K League 2", Ansan Greeners FC vs Gyeongnam FC 14:30 ngày 28/03 Korean K League 2 (Link 2)
+https://cdn-hls.taoxanh.biz/live/69c7778e4b877_103/index.m3u8?expire=1775284750&sign=a06fcc2689e82c2237ae3609d75d323f
 #EXTINF:-1 tvg-id="601331104" group-title="Naegohyang W vs Hồ Chí Minh City (w) 15:00 ngày 28/03 AFC Women’s Champions League", Naegohyang W vs Hồ Chí Minh City (w) 15:00 ngày 28/03 AFC Women’s Champions League
 https://live.alilicloud.com/live/209f7320be794757d80e539d2d84b7a7/playlist.m3u8
