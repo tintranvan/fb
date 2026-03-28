@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601333663" group-title="Albacete Balompié SAD vs Castellon 03:00 ngày 29/03 Spanish Segunda Division", Albacete Balompié SAD vs Castellon 03:00 ngày 29/03 Spanish Segunda Division (Link 1)
-https://cdn-hls.taoxanh.biz/live/69c8240b3e0ab_124958/index.m3u8?expire=1775328907&amp;sign=e3fc941f38f8deb0489d08d44bccc299
-#EXTINF:-1 tvg-id="601333663" group-title="Albacete Balompié SAD vs Castellon 03:00 ngày 29/03 Spanish Segunda Division", Albacete Balompié SAD vs Castellon 03:00 ngày 29/03 Spanish Segunda Division (Link 2)
-https://live.alilicloud.com/live/c3f62e33d6de7f0f3519ed897e6a7f1b/playlist.m3u8
-#EXTINF:-1 tvg-id="601333663" group-title="Albacete Balompié SAD vs Castellon 03:00 ngày 29/03 Spanish Segunda Division", Albacete Balompié SAD vs Castellon 03:00 ngày 29/03 Spanish Segunda Division (Link 3)
-https://cdn-hls.taoxanh.biz/live/69c8240b3e0ab_124958/index.m3u8?expire=1775328907&sign=e3fc941f38f8deb0489d08d44bccc299
-#EXTINF:-1 tvg-id="601333666" group-title="Sporting Gijon vs Deportivo La Coruna 03:00 ngày 29/03 Spanish Segunda Division", Sporting Gijon vs Deportivo La Coruna 03:00 ngày 29/03 Spanish Segunda Division (Link 1)
-https://cdn-hls.taoxanh.biz/live/69c825553e0ab_136682/index.m3u8?expire=1775329237&amp;sign=d967ca851e411a925c837c933a731b65
-#EXTINF:-1 tvg-id="601333666" group-title="Sporting Gijon vs Deportivo La Coruna 03:00 ngày 29/03 Spanish Segunda Division", Sporting Gijon vs Deportivo La Coruna 03:00 ngày 29/03 Spanish Segunda Division (Link 2)
-https://live.alilicloud.com/live/d4f47c88bb94580a079a0838e21fd391/playlist.m3u8
-#EXTINF:-1 tvg-id="601333666" group-title="Sporting Gijon vs Deportivo La Coruna 03:00 ngày 29/03 Spanish Segunda Division", Sporting Gijon vs Deportivo La Coruna 03:00 ngày 29/03 Spanish Segunda Division (Link 3)
-https://cdn-hls.taoxanh.biz/live/69c825553e0ab_136682/index.m3u8?expire=1775329237&sign=d967ca851e411a925c837c933a731b65
 #EXTINF:-1 tvg-id="601343485" group-title="Sabalenka A. vs Coco Gauff 02:00 ngày 29/03 WTA MIAMI 2026", Sabalenka A. vs Coco Gauff 02:00 ngày 29/03 WTA MIAMI 2026 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69c825094b878_110198/index.m3u8?expire=1775329161&amp;sign=aab9d2bbdd5d8a2d10d77d76e3487d42
 #EXTINF:-1 tvg-id="601343485" group-title="Sabalenka A. vs Coco Gauff 02:00 ngày 29/03 WTA MIAMI 2026", Sabalenka A. vs Coco Gauff 02:00 ngày 29/03 WTA MIAMI 2026 (Link 2)
@@ -27,29 +15,21 @@ https://cdn-hls.taoxanh.biz/live/69c8478065105_110198/index.m3u8?expire=17753379
 https://cdn-hls.taoxanh.biz/live/69c8406d65105_142210/index.m3u8?expire=1775336173&amp;sign=ce96db5215abe2d3201002493b911256
 #EXTINF:-1 tvg-id="601346860" group-title="UFC Fight Night: Vòng Loại", UFC Fight Night: Vòng Loại (Link 2)
 https://cdn-hls.taoxanh.biz/live/69c8406d65105_142210/index.m3u8?expire=1775336173&sign=ce96db5215abe2d3201002493b911256
-#EXTINF:-1 tvg-id="601333693" group-title="Retro FC Brasil vs Ceara 03:00 ngày 29/03 Brazilian Copa do Nordeste", Retro FC Brasil vs Ceara 03:00 ngày 29/03 Brazilian Copa do Nordeste
-https://live.alilicloud.com/live/fd73bc54fa32041fb949a1f28070f58e/playlist.m3u8
-#EXTINF:-1 tvg-id="601333690" group-title="Maranhao vs Ferroviario CE 03:00 ngày 29/03 Brazilian Copa do Nordeste", Maranhao vs Ferroviario CE 03:00 ngày 29/03 Brazilian Copa do Nordeste
-https://live.alilicloud.com/live/9a040410915eab9447c9c33605786a5c/playlist.m3u8
-#EXTINF:-1 tvg-id="601333687" group-title="CRB AL vs Vitoria BA 03:00 ngày 29/03 Brazilian Copa do Nordeste", CRB AL vs Vitoria BA 03:00 ngày 29/03 Brazilian Copa do Nordeste
-https://live.alilicloud.com/live/f2d09a62857a077046442ccaf82a8df0/playlist.m3u8
-#EXTINF:-1 tvg-id="601333678" group-title="Detroit City vs Charleston Battery 03:00 ngày 29/03 USL Championship", Detroit City vs Charleston Battery 03:00 ngày 29/03 USL Championship
-https://live.alilicloud.com/live/51dab86c98ce14fd1438d13ea66d0ef1/playlist.m3u8
-#EXTINF:-1 tvg-id="601333675" group-title="FC Eindhoven vs Emmen 03:00 ngày 29/03 Netherlands Eerste Divisie", FC Eindhoven vs Emmen 03:00 ngày 29/03 Netherlands Eerste Divisie
-https://live.alilicloud.com/live/9950ccde013c5e03c2fd424d85418246/playlist.m3u8
-#EXTINF:-1 tvg-id="601333672" group-title="Nantes (w) vs Paris Saint Germain (w) 03:00 ngày 29/03 French Division 1 Feminine", Nantes (w) vs Paris Saint Germain (w) 03:00 ngày 29/03 French Division 1 Feminine
-https://live.alilicloud.com/live/eb067c223a7ff912e9c2ac96f4fd467a/playlist.m3u8
-#EXTINF:-1 tvg-id="601333684" group-title="Portland Thorns FC (w) vs Kansas City Current (w) 03:10 ngày 29/03 United States Women's National Soccer League", Portland Thorns FC (w) vs Kansas City Current (w) 03:10 ngày 29/03 United States Women's National Soccer League
-https://live.alilicloud.com/live/c79e200dfb1bfa311c95c7af8ad678f7/playlist.m3u8
-#EXTINF:-1 tvg-id="601333717" group-title="CA Votuporanguense SP vs XV de Piracicaba 04:00 ngày 29/03 Brazilian Campeonato Paulista A2", CA Votuporanguense SP vs XV de Piracicaba 04:00 ngày 29/03 Brazilian Campeonato Paulista A2
-https://live.alilicloud.com/live/8ee2085f27f01746f11d608ce1e20182/playlist.m3u8
-#EXTINF:-1 tvg-id="601333714" group-title="Omaha vs Corpus Christi FC 04:00 ngày 29/03 USL League One", Omaha vs Corpus Christi FC 04:00 ngày 29/03 USL League One
-https://live.alilicloud.com/live/89d3f32b0ee681aca30d38f313e47da0/playlist.m3u8
-#EXTINF:-1 tvg-id="601333708" group-title="Cucuta Deportivo vs Boyaca Chico 04:00 ngày 29/03 Categoría Primera A", Cucuta Deportivo vs Boyaca Chico 04:00 ngày 29/03 Categoría Primera A
-https://live.alilicloud.com/live/ed462d9cf5d470019b28e0d50bb1387a/playlist.m3u8
 #EXTINF:-1 tvg-id="601333705" group-title="Hartford Athletic vs Indy Eleven 04:00 ngày 29/03 USL Championship", Hartford Athletic vs Indy Eleven 04:00 ngày 29/03 USL Championship
 https://live.alilicloud.com/live/6b07e50ae88f186c5c2b616c03af3814/playlist.m3u8
+#EXTINF:-1 tvg-id="601333708" group-title="Cucuta Deportivo vs Boyaca Chico 04:00 ngày 29/03 Categoría Primera A", Cucuta Deportivo vs Boyaca Chico 04:00 ngày 29/03 Categoría Primera A
+https://live.alilicloud.com/live/ed462d9cf5d470019b28e0d50bb1387a/playlist.m3u8
+#EXTINF:-1 tvg-id="601333714" group-title="Omaha vs Corpus Christi FC 04:00 ngày 29/03 USL League One", Omaha vs Corpus Christi FC 04:00 ngày 29/03 USL League One
+https://live.alilicloud.com/live/89d3f32b0ee681aca30d38f313e47da0/playlist.m3u8
+#EXTINF:-1 tvg-id="601333717" group-title="CA Votuporanguense SP vs XV de Piracicaba 04:00 ngày 29/03 Brazilian Campeonato Paulista A2", CA Votuporanguense SP vs XV de Piracicaba 04:00 ngày 29/03 Brazilian Campeonato Paulista A2
+https://live.alilicloud.com/live/8ee2085f27f01746f11d608ce1e20182/playlist.m3u8
 #EXTINF:-1 tvg-id="601338049" group-title="Olimpia Asuncion vs Club Sportivo 2 de Mayo 04:30 ngày 29/03 Paraguayan Primera Division", Olimpia Asuncion vs Club Sportivo 2 de Mayo 04:30 ngày 29/03 Paraguayan Primera Division
 https://live.alilicloud.com/live/6c8aa4835dd343c16cc875d82c3a21e5/playlist.m3u8
+#EXTINF:-1 tvg-id="601333720" group-title="Union La Calera vs Deportes La Serena 04:30 ngày 29/03 CHI LC", Union La Calera vs Deportes La Serena 04:30 ngày 29/03 CHI LC
+https://live.alilicloud.com/live/77644e01930df47f1f4e7f17e15dee5b/playlist.m3u8
 #EXTINF:-1 tvg-id="601333738" group-title="Cruz Azul (w) vs Puebla (w) 04:45 ngày 29/03 Mexico Liga MX Femenil", Cruz Azul (w) vs Puebla (w) 04:45 ngày 29/03 Mexico Liga MX Femenil
 https://live.alilicloud.com/live/6fd92cc750462f3eb8486adb05490cd1/playlist.m3u8
+#EXTINF:-1 tvg-id="601333741" group-title="Fortaleza vs Imperatriz(MA) 05:00 ngày 29/03 Brazilian Copa do Nordeste", Fortaleza vs Imperatriz(MA) 05:00 ngày 29/03 Brazilian Copa do Nordeste
+https://live.alilicloud.com/live/321361ddfd9f3d608f5e50c5efa4f8cc/playlist.m3u8
+#EXTINF:-1 tvg-id="601333744" group-title="Volta Redonda vs Chapecoense SC 05:00 ngày 29/03 Copa Sul-Sudeste", Volta Redonda vs Chapecoense SC 05:00 ngày 29/03 Copa Sul-Sudeste
+https://live.alilicloud.com/live/377e0a0611a64acd8f2ad0b231ce6b7b/playlist.m3u8
