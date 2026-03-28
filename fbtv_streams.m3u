@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601333648" group-title="USA vs Belgium 02:30 ngày 29/03 International Friendly", USA vs Belgium 02:30 ngày 29/03 International Friendly (Link 1)
-https://cdn-hls.taoxanh.biz/live/69c824424b878_4908/index.m3u8?expire=1775328962&amp;sign=a3c0e2c016e53b9759c25ed55f6df6a9
-#EXTINF:-1 tvg-id="601333648" group-title="USA vs Belgium 02:30 ngày 29/03 International Friendly", USA vs Belgium 02:30 ngày 29/03 International Friendly (Link 2)
-https://live.alilicloud.com/live/d82904005971b52d97e324159fe32b69/playlist.m3u8
-#EXTINF:-1 tvg-id="601333648" group-title="USA vs Belgium 02:30 ngày 29/03 International Friendly", USA vs Belgium 02:30 ngày 29/03 International Friendly (Link 3)
-https://cdn-hls.taoxanh.biz/live/69c824334b878_85514/index.m3u8?expire=1775328947&sign=24f3a8fcbbda417fc874145e1047069a
 #EXTINF:-1 tvg-id="601333663" group-title="Albacete Balompié SAD vs Castellon 03:00 ngày 29/03 Spanish Segunda Division", Albacete Balompié SAD vs Castellon 03:00 ngày 29/03 Spanish Segunda Division (Link 1)
 https://cdn-hls.taoxanh.biz/live/69c8240b3e0ab_124958/index.m3u8?expire=1775328907&amp;sign=e3fc941f38f8deb0489d08d44bccc299
 #EXTINF:-1 tvg-id="601333663" group-title="Albacete Balompié SAD vs Castellon 03:00 ngày 29/03 Spanish Segunda Division", Albacete Balompié SAD vs Castellon 03:00 ngày 29/03 Spanish Segunda Division (Link 2)
@@ -25,16 +19,14 @@ https://cdn-hls.taoxanh.biz/live/69c825094b878_110198/index.m3u8?expire=17753291
 https://cdn-hls.taoxanh.biz/live/69c823314b878_42127/index.m3u8?expire=1775328689&amp;sign=ce1abff6eabe1992881d4397c55aa3b5
 #EXTINF:-1 tvg-id="601337428" group-title="Milwaukee Bucks vs San Antonio Spurs 02:00 ngày 29/03 NBA", Milwaukee Bucks vs San Antonio Spurs 02:00 ngày 29/03 NBA (Link 2)
 https://cdn-hls.taoxanh.biz/live/69c823314b878_42127/index.m3u8?expire=1775328689&sign=ce1abff6eabe1992881d4397c55aa3b5
+#EXTINF:-1 tvg-id="601337494" group-title="Minnesota Timberwolves vs Detroit Pistons 04:30 ngày 29/03 NBA", Minnesota Timberwolves vs Detroit Pistons 04:30 ngày 29/03 NBA (Link 1)
+https://cdn-hls.taoxanh.biz/live/69c8478065105_110198/index.m3u8?expire=1775337984&amp;sign=205027def63586898ba7fee89ebad8da
+#EXTINF:-1 tvg-id="601337494" group-title="Minnesota Timberwolves vs Detroit Pistons 04:30 ngày 29/03 NBA", Minnesota Timberwolves vs Detroit Pistons 04:30 ngày 29/03 NBA (Link 2)
+https://cdn-hls.taoxanh.biz/live/69c8478065105_110198/index.m3u8?expire=1775337984&sign=205027def63586898ba7fee89ebad8da
 #EXTINF:-1 tvg-id="601346860" group-title="UFC Fight Night: Vòng Loại", UFC Fight Night: Vòng Loại (Link 1)
 https://cdn-hls.taoxanh.biz/live/69c8406d65105_142210/index.m3u8?expire=1775336173&amp;sign=ce96db5215abe2d3201002493b911256
 #EXTINF:-1 tvg-id="601346860" group-title="UFC Fight Night: Vòng Loại", UFC Fight Night: Vòng Loại (Link 2)
 https://cdn-hls.taoxanh.biz/live/69c8406d65105_142210/index.m3u8?expire=1775336173&sign=ce96db5215abe2d3201002493b911256
-#EXTINF:-1 tvg-id="601333696" group-title="Mineros de Guayana vs Aragua FC 02:30 ngày 29/03 Venezuela Segunda Division", Mineros de Guayana vs Aragua FC 02:30 ngày 29/03 Venezuela Segunda Division
-https://live.alilicloud.com/live/9f40254a58850e9ac9b34dca586f2917/playlist.m3u8
-#EXTINF:-1 tvg-id="601333654" group-title="Operario Ferroviario PR vs Tombense 02:30 ngày 29/03 Copa Sul-Sudeste", Operario Ferroviario PR vs Tombense 02:30 ngày 29/03 Copa Sul-Sudeste
-https://live.alilicloud.com/live/2f160bcd8442df64315db586b70481ae/playlist.m3u8
-#EXTINF:-1 tvg-id="601339240" group-title="American Samoa vs Guam Island 03:00 ngày 29/03 FIFA Series", American Samoa vs Guam Island 03:00 ngày 29/03 FIFA Series
-https://live.alilicloud.com/live/c1ffdc48735a03fac135ec1346c42347/playlist.m3u8
 #EXTINF:-1 tvg-id="601333693" group-title="Retro FC Brasil vs Ceara 03:00 ngày 29/03 Brazilian Copa do Nordeste", Retro FC Brasil vs Ceara 03:00 ngày 29/03 Brazilian Copa do Nordeste
 https://live.alilicloud.com/live/fd73bc54fa32041fb949a1f28070f58e/playlist.m3u8
 #EXTINF:-1 tvg-id="601333690" group-title="Maranhao vs Ferroviario CE 03:00 ngày 29/03 Brazilian Copa do Nordeste", Maranhao vs Ferroviario CE 03:00 ngày 29/03 Brazilian Copa do Nordeste
@@ -57,3 +49,7 @@ https://live.alilicloud.com/live/89d3f32b0ee681aca30d38f313e47da0/playlist.m3u8
 https://live.alilicloud.com/live/ed462d9cf5d470019b28e0d50bb1387a/playlist.m3u8
 #EXTINF:-1 tvg-id="601333705" group-title="Hartford Athletic vs Indy Eleven 04:00 ngày 29/03 USL Championship", Hartford Athletic vs Indy Eleven 04:00 ngày 29/03 USL Championship
 https://live.alilicloud.com/live/6b07e50ae88f186c5c2b616c03af3814/playlist.m3u8
+#EXTINF:-1 tvg-id="601338049" group-title="Olimpia Asuncion vs Club Sportivo 2 de Mayo 04:30 ngày 29/03 Paraguayan Primera Division", Olimpia Asuncion vs Club Sportivo 2 de Mayo 04:30 ngày 29/03 Paraguayan Primera Division
+https://live.alilicloud.com/live/6c8aa4835dd343c16cc875d82c3a21e5/playlist.m3u8
+#EXTINF:-1 tvg-id="601333738" group-title="Cruz Azul (w) vs Puebla (w) 04:45 ngày 29/03 Mexico Liga MX Femenil", Cruz Azul (w) vs Puebla (w) 04:45 ngày 29/03 Mexico Liga MX Femenil
+https://live.alilicloud.com/live/6fd92cc750462f3eb8486adb05490cd1/playlist.m3u8
