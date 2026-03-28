@@ -14,6 +14,8 @@ https://cdn-hls.taoxanh.biz/live/69c7dff916d50_44731/index.m3u8?expire=177531148
 #EXTINF:-1 tvg-id="601332415" group-title="Romania U19 vs Northern Ireland U19 21:30 ngày 28/03 UEFA European U19 Football Championship", Romania U19 vs Northern Ireland U19 21:30 ngày 28/03 UEFA European U19 Football Championship (Link 1)
 https://cdn-hls.taoxanh.biz/live/69c7dc1c4b877_95554/index.m3u8?expire=1775310492&amp;sign=dd17e995ffa912ac2a5292b7bc0eb406
 #EXTINF:-1 tvg-id="601332415" group-title="Romania U19 vs Northern Ireland U19 21:30 ngày 28/03 UEFA European U19 Football Championship", Romania U19 vs Northern Ireland U19 21:30 ngày 28/03 UEFA European U19 Football Championship (Link 2)
+https://live.alilicloud.com/live/144d68ce595e33e3b2dbbfade3eab1b0/playlist.m3u8
+#EXTINF:-1 tvg-id="601332415" group-title="Romania U19 vs Northern Ireland U19 21:30 ngày 28/03 UEFA European U19 Football Championship", Romania U19 vs Northern Ireland U19 21:30 ngày 28/03 UEFA European U19 Football Championship (Link 3)
 https://cdn-hls.taoxanh.biz/live/69c7dc1c4b877_95554/index.m3u8?expire=1775310492&sign=dd17e995ffa912ac2a5292b7bc0eb406
 #EXTINF:-1 tvg-id="601335775" group-title="Fakel Voronezh vs KAMAZ Naberezhnye Chelny 22:00 ngày 28/03 Russian National Football League", Fakel Voronezh vs KAMAZ Naberezhnye Chelny 22:00 ngày 28/03 Russian National Football League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69c7e61e14ec3_79/index.m3u8?expire=1775313054&amp;sign=2fcf9078231eeb4fedda833f1efb7d22
@@ -27,14 +29,6 @@ https://cdn-hls.taoxanh.biz/live/69c7e9964b878_88186/index.m3u8?expire=177531394
 https://live.alilicloud.com/live/48ebd1b10b92cadfdef09b3f4ba486bd/playlist.m3u8
 #EXTINF:-1 tvg-id="601332979" group-title="Real Valladolid CF vs Burgos CF 22:15 ngày 28/03 Spanish Segunda Division", Real Valladolid CF vs Burgos CF 22:15 ngày 28/03 Spanish Segunda Division (Link 3)
 https://cdn-hls.taoxanh.biz/live/69c7e9964b878_88186/index.m3u8?expire=1775313942&sign=fd3811006bfc8467abe209ac1ac77ecf
-#EXTINF:-1 tvg-id="601331965" group-title="A.C. Ospitaletto vs Giana 20:30 ngày 28/03 Italian Serie C", A.C. Ospitaletto vs Giana 20:30 ngày 28/03 Italian Serie C
-https://live.alilicloud.com/live/72773c99404a16a8742ef337a4b65c21/playlist.m3u8
-#EXTINF:-1 tvg-id="601331974" group-title="Potenza vs Salernitana 20:40 ngày 28/03 Italian Serie C", Potenza vs Salernitana 20:40 ngày 28/03 Italian Serie C
-https://live.alilicloud.com/live/a3471ddf650dae6037ea84187f8e0432/playlist.m3u8
-#EXTINF:-1 tvg-id="601332190" group-title="Banik Most-Sous vs Spolana Neratovice 21:00 ngày 28/03 Czech Third League", Banik Most-Sous vs Spolana Neratovice 21:00 ngày 28/03 Czech Third League
-https://live.alilicloud.com/live/525320fcbd05d4602b5ba5056415304c/playlist.m3u8
-#EXTINF:-1 tvg-id="601332046" group-title="FAP vs Borac Cacak 21:00 ngày 28/03 Serbian Prva Liga", FAP vs Borac Cacak 21:00 ngày 28/03 Serbian Prva Liga
-https://live.alilicloud.com/live/f01eaa73a0f6fb34e3a4de13026fcf00/playlist.m3u8
 #EXTINF:-1 tvg-id="601332049" group-title="FK Graficar Beograd vs FK Vrsac 21:00 ngày 28/03 Serbian Prva Liga", FK Graficar Beograd vs FK Vrsac 21:00 ngày 28/03 Serbian Prva Liga
 https://live.alilicloud.com/live/9b38ef28cb268c808f02aee6f1bbdc70/playlist.m3u8
 #EXTINF:-1 tvg-id="601332055" group-title="Semendrija 1924 vs FK Vozdovac Beograd 21:00 ngày 28/03 Serbian Prva Liga", Semendrija 1924 vs FK Vozdovac Beograd 21:00 ngày 28/03 Serbian Prva Liga
@@ -45,14 +39,10 @@ https://live.alilicloud.com/live/bfd77219064e9730b61276cea7fd7304/playlist.m3u8
 https://live.alilicloud.com/live/6e3e936c93a561e268e764e1fb2dafa5/playlist.m3u8
 #EXTINF:-1 tvg-id="601332163" group-title="Eskilstuna United (w) vs Vittsjo GIK (w) 21:00 ngày 28/03 Sweden Damallsvenskan", Eskilstuna United (w) vs Vittsjo GIK (w) 21:00 ngày 28/03 Sweden Damallsvenskan
 https://live.alilicloud.com/live/e57f186dc631d2d06c0025a058a858dd/playlist.m3u8
-#EXTINF:-1 tvg-id="601332184" group-title="SK Kladno vs FK Kraluv Dvur 21:00 ngày 28/03 Czech Third League", SK Kladno vs FK Kraluv Dvur 21:00 ngày 28/03 Czech Third League
-https://live.alilicloud.com/live/a3d53bbe6fccf9c41ace0a67268b677b/playlist.m3u8
 #EXTINF:-1 tvg-id="601332187" group-title="Slavia Prague C vs Aritma Praha 21:00 ngày 28/03 Czech Third League", Slavia Prague C vs Aritma Praha 21:00 ngày 28/03 Czech Third League
 https://live.alilicloud.com/live/edd519889fe4b8e8b8fcd5389bf639a1/playlist.m3u8
-#EXTINF:-1 tvg-id="601339204" group-title="WA Mostaganem vs NA Hussein Dey 21:00 ngày 28/03 Algerian Ligue Professionnelle 2", WA Mostaganem vs NA Hussein Dey 21:00 ngày 28/03 Algerian Ligue Professionnelle 2
-https://live.alilicloud.com/live/056e96cd1d18afba66843296f7acfd04/playlist.m3u8
-#EXTINF:-1 tvg-id="601332193" group-title="Arsenal Ceska Lipa vs Benatky Nad Jizerou 21:00 ngày 28/03 Czech Third League", Arsenal Ceska Lipa vs Benatky Nad Jizerou 21:00 ngày 28/03 Czech Third League
-https://live.alilicloud.com/live/2f7baf770aa2c02cff78bdf25c1a125f/playlist.m3u8
+#EXTINF:-1 tvg-id="601332190" group-title="Banik Most-Sous vs Spolana Neratovice 21:00 ngày 28/03 Czech Third League", Banik Most-Sous vs Spolana Neratovice 21:00 ngày 28/03 Czech Third League
+https://live.alilicloud.com/live/525320fcbd05d4602b5ba5056415304c/playlist.m3u8
 #EXTINF:-1 tvg-id="601332196" group-title="Jiskra Usti nad Orlici vs FK Kolin 21:00 ngày 28/03 Czech Third League", Jiskra Usti nad Orlici vs FK Kolin 21:00 ngày 28/03 Czech Third League
 https://live.alilicloud.com/live/60c6b09c518c25e22d3ecd8dc4971560/playlist.m3u8
 #EXTINF:-1 tvg-id="601332202" group-title="Blansko vs MFK Karvina B 21:00 ngày 28/03 Czech Third League", Blansko vs MFK Karvina B 21:00 ngày 28/03 Czech Third League
@@ -77,18 +67,22 @@ https://live.alilicloud.com/live/4bd7cf3141eb5081b1273bef6d4fd0db/playlist.m3u8
 https://live.alilicloud.com/live/19749f23fa67b0d7214ce9ac8e4c8a4c/playlist.m3u8
 #EXTINF:-1 tvg-id="601339201" group-title="USM EL HARRACH vs JSM Tiaret 21:00 ngày 28/03 Algerian Ligue Professionnelle 2", USM EL HARRACH vs JSM Tiaret 21:00 ngày 28/03 Algerian Ligue Professionnelle 2
 https://live.alilicloud.com/live/4f0a164060f3cbb9cd5bb3694a90f921/playlist.m3u8
-#EXTINF:-1 tvg-id="601332043" group-title="FK Dubocica vs Kabel Novi Sad 21:00 ngày 28/03 Serbian Prva Liga", FK Dubocica vs Kabel Novi Sad 21:00 ngày 28/03 Serbian Prva Liga
-https://live.alilicloud.com/live/868d0b55961471282215ce1ccd77ca02/playlist.m3u8
+#EXTINF:-1 tvg-id="601339204" group-title="WA Mostaganem vs NA Hussein Dey 21:00 ngày 28/03 Algerian Ligue Professionnelle 2", WA Mostaganem vs NA Hussein Dey 21:00 ngày 28/03 Algerian Ligue Professionnelle 2
+https://live.alilicloud.com/live/056e96cd1d18afba66843296f7acfd04/playlist.m3u8
+#EXTINF:-1 tvg-id="601332046" group-title="FAP vs Borac Cacak 21:00 ngày 28/03 Serbian Prva Liga", FAP vs Borac Cacak 21:00 ngày 28/03 Serbian Prva Liga
+https://live.alilicloud.com/live/f01eaa73a0f6fb34e3a4de13026fcf00/playlist.m3u8
 #EXTINF:-1 tvg-id="601332394" group-title="France U19 vs Switzerland U19 21:15 ngày 28/03 UEFA European U19 Football Championship", France U19 vs Switzerland U19 21:15 ngày 28/03 UEFA European U19 Football Championship
 https://live.alilicloud.com/live/d4256255cf9e04c28f5260ee19b3c47d/playlist.m3u8
 #EXTINF:-1 tvg-id="601332472" group-title="Croatia U19 vs Bulgaria U19 21:30 ngày 28/03 UEFA European U19 Football Championship", Croatia U19 vs Bulgaria U19 21:30 ngày 28/03 UEFA European U19 Football Championship
 https://live.alilicloud.com/live/348f6dc9b50db20f193981fba34d5a34/playlist.m3u8
-#EXTINF:-1 tvg-id="601332412" group-title="Altona 93 vs Hannover 96 Am 21:30 ngày 28/03 German Regionalliga", Altona 93 vs Hannover 96 Am 21:30 ngày 28/03 German Regionalliga
-https://live.alilicloud.com/live/a64d27a2c6822ba92c74248c57691420/playlist.m3u8
 #EXTINF:-1 tvg-id="601332418" group-title="Pen-y-Bont FC vs Colwyn Bay 21:30 ngày 28/03 Welsh Premier League", Pen-y-Bont FC vs Colwyn Bay 21:30 ngày 28/03 Welsh Premier League
 https://live.alilicloud.com/live/f207c6de76bcfc05698ab0008dabe1c0/playlist.m3u8
-#EXTINF:-1 tvg-id="601332547" group-title="Colchester United vs Walsall 22:00 ngày 28/03 English Football League Two", Colchester United vs Walsall 22:00 ngày 28/03 English Football League Two
-https://live.alilicloud.com/live/d930ead238a54c03dab826dcda37092c/playlist.m3u8
+#EXTINF:-1 tvg-id="601332412" group-title="Altona 93 vs Hannover 96 Am 21:30 ngày 28/03 German Regionalliga", Altona 93 vs Hannover 96 Am 21:30 ngày 28/03 German Regionalliga
+https://live.alilicloud.com/live/a64d27a2c6822ba92c74248c57691420/playlist.m3u8
+#EXTINF:-1 tvg-id="601332736" group-title="SSV Jeddeloh vs ETSV Weiche Flensburg 22:00 ngày 28/03 German Regionalliga", SSV Jeddeloh vs ETSV Weiche Flensburg 22:00 ngày 28/03 German Regionalliga
+https://live.alilicloud.com/live/740abc74f47029ed912b72879e9c1157/playlist.m3u8
+#EXTINF:-1 tvg-id="601332892" group-title="Germany U17 vs Slovenia U17 22:00 ngày 28/03 UEFA European U17 Football Championship", Germany U17 vs Slovenia U17 22:00 ngày 28/03 UEFA European U17 Football Championship
+https://live.alilicloud.com/live/a6470eef174b9c536c3a0d9fbf2bfe20/playlist.m3u8
 #EXTINF:-1 tvg-id="601332496" group-title="Blackpool vs Burton Albion 22:00 ngày 28/03 English Football League One", Blackpool vs Burton Albion 22:00 ngày 28/03 English Football League One
 https://live.alilicloud.com/live/6ee0393f4f15c8772f34a52ec03fc9b4/playlist.m3u8
 #EXTINF:-1 tvg-id="601332502" group-title="Exeter City vs Leyton Orient 22:00 ngày 28/03 English Football League One", Exeter City vs Leyton Orient 22:00 ngày 28/03 English Football League One
@@ -103,12 +97,10 @@ https://live.alilicloud.com/live/22c13272a8d3a8607f00b94b405c6202/playlist.m3u8
 https://live.alilicloud.com/live/53cb548d9a9d988811360be04e08eff7/playlist.m3u8
 #EXTINF:-1 tvg-id="601332538" group-title="Barrow vs Bromley 22:00 ngày 28/03 English Football League Two", Barrow vs Bromley 22:00 ngày 28/03 English Football League Two
 https://live.alilicloud.com/live/828fd5f73217ba3e59242c99fc6c5418/playlist.m3u8
-#EXTINF:-1 tvg-id="601340674" group-title="RSB Berkane (W) vs Phoenix Marrakech (W) 22:00 ngày 28/03 MLW", RSB Berkane (W) vs Phoenix Marrakech (W) 22:00 ngày 28/03 MLW
-https://live.alilicloud.com/live/1a48674ffaca31d8c7bda3da4610e002/playlist.m3u8
 #EXTINF:-1 tvg-id="601332541" group-title="Bristol Rovers vs Accrington Stanley 22:00 ngày 28/03 English Football League Two", Bristol Rovers vs Accrington Stanley 22:00 ngày 28/03 English Football League Two
 https://live.alilicloud.com/live/034a11b9c92368221929423270ee559a/playlist.m3u8
-#EXTINF:-1 tvg-id="601335778" group-title="Metallurg Lipetsk vs Salyut-Energia Belgorod 22:00 ngày 28/03 RUS D3B", Metallurg Lipetsk vs Salyut-Energia Belgorod 22:00 ngày 28/03 RUS D3B
-https://live.alilicloud.com/live/cc740435ad504fd7333cc28c5eec1f30/playlist.m3u8
+#EXTINF:-1 tvg-id="601332547" group-title="Colchester United vs Walsall 22:00 ngày 28/03 English Football League Two", Colchester United vs Walsall 22:00 ngày 28/03 English Football League Two
+https://live.alilicloud.com/live/d930ead238a54c03dab826dcda37092c/playlist.m3u8
 #EXTINF:-1 tvg-id="601332550" group-title="Crawley Town vs Gillingham 22:00 ngày 28/03 English Football League Two", Crawley Town vs Gillingham 22:00 ngày 28/03 English Football League Two
 https://live.alilicloud.com/live/0cbce27aaa6e7e31121d840fe14fa5e9/playlist.m3u8
 #EXTINF:-1 tvg-id="601332553" group-title="Crewe Alexandra vs Oldham Athletic 22:00 ngày 28/03 English Football League Two", Crewe Alexandra vs Oldham Athletic 22:00 ngày 28/03 English Football League Two
@@ -119,17 +111,31 @@ https://live.alilicloud.com/live/0a3bd2be055f3b7b358b49cf1aa4653b/playlist.m3u8
 https://live.alilicloud.com/live/4659aa93074809013492a744f6c81565/playlist.m3u8
 #EXTINF:-1 tvg-id="601332562" group-title="Newport County vs Shrewsbury Town 22:00 ngày 28/03 English Football League Two", Newport County vs Shrewsbury Town 22:00 ngày 28/03 English Football League Two
 https://live.alilicloud.com/live/e901d96f15feb290bdf12614a8402757/playlist.m3u8
-#EXTINF:-1 tvg-id="601332637" group-title="York City vs Woking 22:00 ngày 28/03 English National League", York City vs Woking 22:00 ngày 28/03 English National League
-https://live.alilicloud.com/live/6f25700fc099d62e4dfa2d738ade5e3a/playlist.m3u8
-#EXTINF:-1 tvg-id="601332736" group-title="SSV Jeddeloh vs ETSV Weiche Flensburg 22:00 ngày 28/03 German Regionalliga", SSV Jeddeloh vs ETSV Weiche Flensburg 22:00 ngày 28/03 German Regionalliga
-https://live.alilicloud.com/live/740abc74f47029ed912b72879e9c1157/playlist.m3u8
 #EXTINF:-1 tvg-id="601332889" group-title="FK Smiltene BJSS vs JFK Ventspils 22:00 ngày 28/03 Latvian 1.Liga", FK Smiltene BJSS vs JFK Ventspils 22:00 ngày 28/03 Latvian 1.Liga
 https://live.alilicloud.com/live/0a4678f3c92df759a604a6dc877b4fe9/playlist.m3u8
-#EXTINF:-1 tvg-id="601332892" group-title="Germany U17 vs Slovenia U17 22:00 ngày 28/03 UEFA European U17 Football Championship", Germany U17 vs Slovenia U17 22:00 ngày 28/03 UEFA European U17 Football Championship
-https://live.alilicloud.com/live/a6470eef174b9c536c3a0d9fbf2bfe20/playlist.m3u8
+#EXTINF:-1 tvg-id="601335778" group-title="Metallurg Lipetsk vs Salyut-Energia Belgorod 22:00 ngày 28/03 RUS D3B", Metallurg Lipetsk vs Salyut-Energia Belgorod 22:00 ngày 28/03 RUS D3B
+https://live.alilicloud.com/live/cc740435ad504fd7333cc28c5eec1f30/playlist.m3u8
+#EXTINF:-1 tvg-id="601340674" group-title="RSB Berkane (W) vs Phoenix Marrakech (W) 22:00 ngày 28/03 MLW", RSB Berkane (W) vs Phoenix Marrakech (W) 22:00 ngày 28/03 MLW
+https://live.alilicloud.com/live/1a48674ffaca31d8c7bda3da4610e002/playlist.m3u8
+#EXTINF:-1 tvg-id="601332637" group-title="York City vs Woking 22:00 ngày 28/03 English National League", York City vs Woking 22:00 ngày 28/03 English National League
+https://live.alilicloud.com/live/6f25700fc099d62e4dfa2d738ade5e3a/playlist.m3u8
+#EXTINF:-1 tvg-id="601339222" group-title="Al Rayyan vs Umm Salal 22:15 ngày 28/03 Qatari Stars Cup", Al Rayyan vs Umm Salal 22:15 ngày 28/03 Qatari Stars Cup
+https://live.alilicloud.com/live/4941bdb2ff21a2211de9dc6627509d16/playlist.m3u8
 #EXTINF:-1 tvg-id="601332976" group-title="Granada CF vs SD Huesca 22:15 ngày 28/03 Spanish Segunda Division", Granada CF vs SD Huesca 22:15 ngày 28/03 Spanish Segunda Division
 https://live.alilicloud.com/live/7b11f720b25ed81da8078048511a1478/playlist.m3u8
+#EXTINF:-1 tvg-id="601333183" group-title="Italy U19 vs Slovakia U19 23:00 ngày 28/03 UEFA European U19 Football Championship", Italy U19 vs Slovakia U19 23:00 ngày 28/03 UEFA European U19 Football Championship (Link 1)
+https://cdn-hls.taoxanh.biz/live/69c7f70c4b878_73445/index.m3u8?expire=1775317388&amp;sign=b5918cbed89dc8336b823389c17b1773
+#EXTINF:-1 tvg-id="601333183" group-title="Italy U19 vs Slovakia U19 23:00 ngày 28/03 UEFA European U19 Football Championship", Italy U19 vs Slovakia U19 23:00 ngày 28/03 UEFA European U19 Football Championship (Link 2)
+https://cdn-hls.taoxanh.biz/live/69c7f70c4b878_73445/index.m3u8?expire=1775317388&sign=b5918cbed89dc8336b823389c17b1773
+#EXTINF:-1 tvg-id="601333195" group-title="Senegal vs Peru 23:00 ngày 28/03 International Friendly", Senegal vs Peru 23:00 ngày 28/03 International Friendly (Link 1)
+https://cdn-hls.taoxanh.biz/live/69c7f9e94b878_72787/index.m3u8?expire=1775318121&amp;sign=40a6543832ed1881629c785e2a879b90
+#EXTINF:-1 tvg-id="601333195" group-title="Senegal vs Peru 23:00 ngày 28/03 International Friendly", Senegal vs Peru 23:00 ngày 28/03 International Friendly (Link 2)
+https://cdn-hls.taoxanh.biz/live/69c7f9e94b878_72787/index.m3u8?expire=1775318121&sign=40a6543832ed1881629c785e2a879b90
 #EXTINF:-1 tvg-id="601338001" group-title="Zenit St. Petersburg vs FC Kairat Almaty 23:00 ngày 28/03 International Club Friendly", Zenit St. Petersburg vs FC Kairat Almaty 23:00 ngày 28/03 International Club Friendly (Link 1)
 https://cdn-hls.taoxanh.biz/live/69c7e6d54b878_28/index.m3u8?expire=1775313237&amp;sign=815192577ac7077bf4108d3bb85a647b
 #EXTINF:-1 tvg-id="601338001" group-title="Zenit St. Petersburg vs FC Kairat Almaty 23:00 ngày 28/03 International Club Friendly", Zenit St. Petersburg vs FC Kairat Almaty 23:00 ngày 28/03 International Club Friendly (Link 2)
 https://cdn-hls.taoxanh.biz/live/69c7e6d54b878_28/index.m3u8?expire=1775313237&sign=815192577ac7077bf4108d3bb85a647b
+#EXTINF:-1 tvg-id="601333432" group-title="Hungary vs Slovenia 00:00 ngày 29/03 International Friendly", Hungary vs Slovenia 00:00 ngày 29/03 International Friendly (Link 1)
+https://cdn-hls.taoxanh.biz/live/69c7f9b44b878_133172/index.m3u8?expire=1775318068&amp;sign=ea18f5c2037fa795f4e550ad96eb18a1
+#EXTINF:-1 tvg-id="601333432" group-title="Hungary vs Slovenia 00:00 ngày 29/03 International Friendly", Hungary vs Slovenia 00:00 ngày 29/03 International Friendly (Link 2)
+https://cdn-hls.taoxanh.biz/live/69c7f9b44b878_133172/index.m3u8?expire=1775318068&sign=ea18f5c2037fa795f4e550ad96eb18a1
