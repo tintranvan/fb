@@ -1,27 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601334014" group-title="Daegu Football Club vs Seoul E-Land FC 14:30 ngày 29/03 Korean K League 2", Daegu Football Club vs Seoul E-Land FC 14:30 ngày 29/03 Korean K League 2 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69c8ce6b1271a_72787/index.m3u8?expire=1775372523&amp;sign=3f16690ef42bd62108b2b7bd66936df9
-#EXTINF:-1 tvg-id="601334014" group-title="Daegu Football Club vs Seoul E-Land FC 14:30 ngày 29/03 Korean K League 2", Daegu Football Club vs Seoul E-Land FC 14:30 ngày 29/03 Korean K League 2 (Link 2)
-https://live.alilicloud.com/live/c5b04a06b1871a31c95da362900b394e/playlist.m3u8
-#EXTINF:-1 tvg-id="601334014" group-title="Daegu Football Club vs Seoul E-Land FC 14:30 ngày 29/03 Korean K League 2", Daegu Football Club vs Seoul E-Land FC 14:30 ngày 29/03 Korean K League 2 (Link 3)
-https://cdn-hls.taoxanh.biz/live/69c8ce6b1271a_72787/index.m3u8?expire=1775372523&sign=3f16690ef42bd62108b2b7bd66936df9
 #EXTINF:-1 tvg-id="601334029" group-title="Manila Digger FC vs Philippine Army FC 15:00 ngày 29/03 Philippines United Football League", Manila Digger FC vs Philippine Army FC 15:00 ngày 29/03 Philippines United Football League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69c8c13c65105_103/index.m3u8?expire=1775369148&amp;sign=a7242496591d8ab201b5f6011ae4ff45
 #EXTINF:-1 tvg-id="601334029" group-title="Manila Digger FC vs Philippine Army FC 15:00 ngày 29/03 Philippines United Football League", Manila Digger FC vs Philippine Army FC 15:00 ngày 29/03 Philippines United Football League (Link 2)
 https://live.alilicloud.com/live/217217492239ad8a89f5c7fffb5569d1/playlist.m3u8
 #EXTINF:-1 tvg-id="601334029" group-title="Manila Digger FC vs Philippine Army FC 15:00 ngày 29/03 Philippines United Football League", Manila Digger FC vs Philippine Army FC 15:00 ngày 29/03 Philippines United Football League (Link 3)
 https://cdn-hls.taoxanh.biz/live/69c8c13c65105_103/index.m3u8?expire=1775369148&sign=a7242496591d8ab201b5f6011ae4ff45
-#EXTINF:-1 tvg-id="601327786" group-title="Perth SC (w) vs Subiaco AFC (w) 14:00 ngày 29/03 Western Australia Women's League", Perth SC (w) vs Subiaco AFC (w) 14:00 ngày 29/03 Western Australia Women's League
-https://live.alilicloud.com/live/28f202f6a4325fa38e8b8f793de91fcd/playlist.m3u8
-#EXTINF:-1 tvg-id="601327792" group-title="NTC Football West (W) vs Sorrento (w) 14:00 ngày 29/03 Western Australia Women's League", NTC Football West (W) vs Sorrento (w) 14:00 ngày 29/03 Western Australia Women's League
-https://live.alilicloud.com/live/2bf576cf56699d0eaa327c21855c816d/playlist.m3u8
-#EXTINF:-1 tvg-id="601334035" group-title="Souths United vs Pine Hills 14:10 ngày 29/03 QLD D2", Souths United vs Pine Hills 14:10 ngày 29/03 QLD D2
-https://live.alilicloud.com/live/aa63109824f4024468d2db8f4debff23/playlist.m3u8
 #EXTINF:-1 tvg-id="601335826" group-title="FK Yenisey-2 Krasnoyarsk vs Irkutsk 15:00 ngày 29/03 RUS D3B", FK Yenisey-2 Krasnoyarsk vs Irkutsk 15:00 ngày 29/03 RUS D3B
 https://live.alilicloud.com/live/c395051b77713a54f02b908f851d5ccf/playlist.m3u8
 #EXTINF:-1 tvg-id="601334044" group-title="Garudayaksa vs FC Bekasi City 15:30 ngày 29/03 Indonesian Liga 2", Garudayaksa vs FC Bekasi City 15:30 ngày 29/03 Indonesian Liga 2
 https://live.alilicloud.com/live/536eb303e0419a6054dc252c2beb2e0e/playlist.m3u8
-#EXTINF:-1 tvg-id="601334329" group-title="FC Chernigiv vs FC Livyi Bereh 16:00 ngày 29/03 Ukrainian First League", FC Chernigiv vs FC Livyi Bereh 16:00 ngày 29/03 Ukrainian First League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69c8e2cf4b878_44731/index.m3u8?expire=1775377743&amp;sign=331d02814bb2681408cea8a403aae1a8
-#EXTINF:-1 tvg-id="601334329" group-title="FC Chernigiv vs FC Livyi Bereh 16:00 ngày 29/03 Ukrainian First League", FC Chernigiv vs FC Livyi Bereh 16:00 ngày 29/03 Ukrainian First League (Link 2)
-https://cdn-hls.taoxanh.biz/live/69c8e2cf4b878_44731/index.m3u8?expire=1775377743&sign=331d02814bb2681408cea8a403aae1a8
+#EXTINF:-1 tvg-id="601334074" group-title="Dynamic Herb Cebu vs Don Bosco Garelli United 16:00 ngày 29/03 Philippines United Football League", Dynamic Herb Cebu vs Don Bosco Garelli United 16:00 ngày 29/03 Philippines United Football League
+https://live.alilicloud.com/live/f5f0158a988a9143648d3676127fd7a9/playlist.m3u8
+#EXTINF:-1 tvg-id="601334167" group-title="Sibir Novosibirsk vs Rodina Moskva II 16:00 ngày 29/03 RUS D3A", Sibir Novosibirsk vs Rodina Moskva II 16:00 ngày 29/03 RUS D3A
+https://live.alilicloud.com/live/2dc99d7ea339d3b3991ac2ef01ef82f2/playlist.m3u8
+#EXTINF:-1 tvg-id="601335757" group-title="Lokomotiv Kyiv vs Dinaz Vyshgorod 16:30 ngày 29/03 Ukrainian Second League", Lokomotiv Kyiv vs Dinaz Vyshgorod 16:30 ngày 29/03 Ukrainian Second League
+https://live.alilicloud.com/live/d2dc0431504a837c0005382eb86770c2/playlist.m3u8
+#EXTINF:-1 tvg-id="601334161" group-title="Estrela FC U23 vs Rio Ave U23 17:00 ngày 29/03 Portuguese U23 League", Estrela FC U23 vs Rio Ave U23 17:00 ngày 29/03 Portuguese U23 League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69c8f1ac4b878_124958/index.m3u8?expire=1775381548&amp;sign=df8e840ec0180fce9f967b1a71ad89df
+#EXTINF:-1 tvg-id="601334161" group-title="Estrela FC U23 vs Rio Ave U23 17:00 ngày 29/03 Portuguese U23 League", Estrela FC U23 vs Rio Ave U23 17:00 ngày 29/03 Portuguese U23 League (Link 2)
+https://cdn-hls.taoxanh.biz/live/69c8f1ac4b878_124958/index.m3u8?expire=1775381548&sign=df8e840ec0180fce9f967b1a71ad89df
