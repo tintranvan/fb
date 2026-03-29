@@ -15,12 +15,6 @@ https://cdn-hls.taoxanh.biz/live/69c948804b878_124958/index.m3u8?expire=17754037
 https://cdn-hls.taoxanh.biz/live/69c93c0f4b878_42127/index.m3u8?expire=1775400591&amp;sign=ac26ea97f6e9a1e248fa663683a85845
 #EXTINF:-1 tvg-id="601347241" group-title="JOO Cheonhui vs Elizabet ABRAAMIAN 23:30 ngày 29/03 Table 1 - WTT Contender Tunis 2026", JOO Cheonhui vs Elizabet ABRAAMIAN 23:30 ngày 29/03 Table 1 - WTT Contender Tunis 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69c93c0f4b878_42127/index.m3u8?expire=1775400591&sign=ac26ea97f6e9a1e248fa663683a85845
-#EXTINF:-1 tvg-id="601340998" group-title="Aruba vs Liechtenstein 23:00 ngày 29/03 FIFA Series", Aruba vs Liechtenstein 23:00 ngày 29/03 FIFA Series
-https://live.alilicloud.com/live/e1c1e04fa249359290147af5c277326c/playlist.m3u8
-#EXTINF:-1 tvg-id="601347145" group-title="ES Bafing vs Leader SC de Marcory 23:00 ngày 29/03 ICPD Division 1", ES Bafing vs Leader SC de Marcory 23:00 ngày 29/03 ICPD Division 1
-https://live.alilicloud.com/live/1c4e1fdb53ddf96518b8ac760dd96368/playlist.m3u8
-#EXTINF:-1 tvg-id="601335118" group-title="Wrexham (W) vs Cardiff City FC (w) 23:10 ngày 29/03 Welsh Women's Premier League", Wrexham (W) vs Cardiff City FC (w) 23:10 ngày 29/03 Welsh Women's Premier League
-https://live.alilicloud.com/live/9dfdac359c0b2c28f219d8a111cc58e7/playlist.m3u8
 #EXTINF:-1 tvg-id="601338100" group-title="East End Lions vs BAI Bureh Warriors 23:30 ngày 29/03 Sierra Leone Premier League", East End Lions vs BAI Bureh Warriors 23:30 ngày 29/03 Sierra Leone Premier League
 https://live.alilicloud.com/live/f5bd7547877a67366a93a127e4eaafe7/playlist.m3u8
 #EXTINF:-1 tvg-id="601343788" group-title="SLIFA vs Wusum Stars 23:30 ngày 29/03 Sierra Leone Premier League", SLIFA vs Wusum Stars 23:30 ngày 29/03 Sierra Leone Premier League
@@ -37,3 +31,25 @@ https://live.alilicloud.com/live/8f9d3a27f7879b3dd527a3a208712dec/playlist.m3u8
 https://live.alilicloud.com/live/dfa0a99b8ab034c301f51db98df61c46/playlist.m3u8
 #EXTINF:-1 tvg-id="601336363" group-title="Resovia Rzeszow vs Swit Szczecin 00:30 ngày 30/03 Poland Liga 2", Resovia Rzeszow vs Swit Szczecin 00:30 ngày 30/03 Poland Liga 2
 https://live.alilicloud.com/live/3e0c1c1b463469c9e6944fd9e1ef185f/playlist.m3u8
+#EXTINF:-1 tvg-id="601333564" group-title="Petrojet vs Enppi 01:00 ngày 30/03 Egypt League Cup", Petrojet vs Enppi 01:00 ngày 30/03 Egypt League Cup
+https://live.alilicloud.com/live/5cdd8653d4c51ad4edcbba5592e2de88/playlist.m3u8
+#EXTINF:-1 tvg-id="601336384" group-title="Los Andes vs Temperley 01:00 ngày 30/03 Argentine Division 2", Los Andes vs Temperley 01:00 ngày 30/03 Argentine Division 2
+https://live.alilicloud.com/live/9c3c6efc2f0233b1546d7216fa2a7d4d/playlist.m3u8
+#EXTINF:-1 tvg-id="601347151" group-title="Racing Club (w) vs Ferro Carril Oeste (w) 01:00 ngày 30/03 Argentine Women's League", Racing Club (w) vs Ferro Carril Oeste (w) 01:00 ngày 30/03 Argentine Women's League
+https://live.alilicloud.com/live/a1f81fcae13ca1770fb77a95b75016a7/playlist.m3u8
+#EXTINF:-1 tvg-id="601347154" group-title="Social Atletico Television (w) vs Huracan (w) 01:00 ngày 30/03 Argentine Women's League", Social Atletico Television (w) vs Huracan (w) 01:00 ngày 30/03 Argentine Women's League
+https://live.alilicloud.com/live/caf02886b30f6b7ad76abfcc7e24e389/playlist.m3u8
+#EXTINF:-1 tvg-id="601336375" group-title="Gubbio vs Ravenna 01:30 ngày 30/03 Italian Serie C", Gubbio vs Ravenna 01:30 ngày 30/03 Italian Serie C (Link 1)
+https://cdn-hls.taoxanh.biz/live/69c9687365ab0_44731/index.m3u8?expire=1775411955&amp;sign=2c902d462e72fa03b6b3e5d5b8b25758
+#EXTINF:-1 tvg-id="601336375" group-title="Gubbio vs Ravenna 01:30 ngày 30/03 Italian Serie C", Gubbio vs Ravenna 01:30 ngày 30/03 Italian Serie C (Link 2)
+https://live.alilicloud.com/live/1c3aa72fbd3b8426120cee10e42f1515/playlist.m3u8
+#EXTINF:-1 tvg-id="601336375" group-title="Gubbio vs Ravenna 01:30 ngày 30/03 Italian Serie C", Gubbio vs Ravenna 01:30 ngày 30/03 Italian Serie C (Link 3)
+https://cdn-hls.taoxanh.biz/live/69c9687365ab0_44731/index.m3u8?expire=1775411955&sign=2c902d462e72fa03b6b3e5d5b8b25758
+#EXTINF:-1 tvg-id="601336390" group-title="Real Madrid (w) vs Barcelona (w) 02:00 ngày 30/03 Spanish Primera División de la Liga de Fútbol Femenino", Real Madrid (w) vs Barcelona (w) 02:00 ngày 30/03 Spanish Primera División de la Liga de Fútbol Femenino (Link 1)
+https://cdn-hls.taoxanh.biz/live/69c96c2465105_88186/index.m3u8?expire=1775412900&amp;sign=43f53679cf5a431ae194a1f525fb2070
+#EXTINF:-1 tvg-id="601336390" group-title="Real Madrid (w) vs Barcelona (w) 02:00 ngày 30/03 Spanish Primera División de la Liga de Fútbol Femenino", Real Madrid (w) vs Barcelona (w) 02:00 ngày 30/03 Spanish Primera División de la Liga de Fútbol Femenino (Link 2)
+https://cdn-hls.taoxanh.biz/live/69c96c2465105_88186/index.m3u8?expire=1775412900&sign=43f53679cf5a431ae194a1f525fb2070
+#EXTINF:-1 tvg-id="601336423" group-title="Colombia vs France 02:00 ngày 30/03 International Friendly", Colombia vs France 02:00 ngày 30/03 International Friendly (Link 1)
+https://cdn-hls.taoxanh.biz/live/69c96b4565105_28/index.m3u8?expire=1775412677&amp;sign=0ef0ad7eb58bbb01df65cbde967e482a
+#EXTINF:-1 tvg-id="601336423" group-title="Colombia vs France 02:00 ngày 30/03 International Friendly", Colombia vs France 02:00 ngày 30/03 International Friendly (Link 2)
+https://cdn-hls.taoxanh.biz/live/69c96b4565105_28/index.m3u8?expire=1775412677&sign=0ef0ad7eb58bbb01df65cbde967e482a
