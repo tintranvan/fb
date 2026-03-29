@@ -1,51 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601336498" group-title="San Antonio vs Lexington 03:00 ngày 30/03 USL Championship", San Antonio vs Lexington 03:00 ngày 30/03 USL Championship (Link 1)
-https://cdn-hls.taoxanh.biz/live/69c9778665ab0_124958/index.m3u8?expire=1775415814&amp;sign=fa4d979bbc3003f5c26e61d26885be89
-#EXTINF:-1 tvg-id="601336498" group-title="San Antonio vs Lexington 03:00 ngày 30/03 USL Championship", San Antonio vs Lexington 03:00 ngày 30/03 USL Championship (Link 2)
-https://live.alilicloud.com/live/58f02f22482a5178ccd145712bcde2df/playlist.m3u8
-#EXTINF:-1 tvg-id="601336498" group-title="San Antonio vs Lexington 03:00 ngày 30/03 USL Championship", San Antonio vs Lexington 03:00 ngày 30/03 USL Championship (Link 3)
-https://cdn-hls.taoxanh.biz/live/69c9778665ab0_124958/index.m3u8?expire=1775415814&sign=fa4d979bbc3003f5c26e61d26885be89
-#EXTINF:-1 tvg-id="601337509" group-title="Milwaukee Bucks vs Los Angeles Clippers 02:30 ngày 30/03 NBA", Milwaukee Bucks vs Los Angeles Clippers 02:30 ngày 30/03 NBA (Link 1)
-https://cdn-hls.taoxanh.biz/live/69c9730865105_42127/index.m3u8?expire=1775414664&amp;sign=520b89bf0ed5dde89374fcc2cd52c909
-#EXTINF:-1 tvg-id="601337509" group-title="Milwaukee Bucks vs Los Angeles Clippers 02:30 ngày 30/03 NBA", Milwaukee Bucks vs Los Angeles Clippers 02:30 ngày 30/03 NBA (Link 2)
-https://cdn-hls.taoxanh.biz/live/69c9730865105_42127/index.m3u8?expire=1775414664&sign=520b89bf0ed5dde89374fcc2cd52c909
+#EXTINF:-1 tvg-id="601337518" group-title="Charlotte Hornets vs Boston Celtics 05:00 ngày 30/03 NBA", Charlotte Hornets vs Boston Celtics 05:00 ngày 30/03 NBA (Link 1)
+https://cdn-hls.taoxanh.biz/live/69c9a03b7c0d3_42127/index.m3u8?expire=1775426235&amp;sign=b323e804cb395363f1e5ff78b88d8fcc
+#EXTINF:-1 tvg-id="601337518" group-title="Charlotte Hornets vs Boston Celtics 05:00 ngày 30/03 NBA", Charlotte Hornets vs Boston Celtics 05:00 ngày 30/03 NBA (Link 2)
+https://cdn-hls.taoxanh.biz/live/69c9a03b7c0d3_42127/index.m3u8?expire=1775426235&sign=b323e804cb395363f1e5ff78b88d8fcc
 #EXTINF:-1 tvg-id="601347238" group-title="Lehecka J. vs J. Sinner 03:30 ngày 30/03 ATP MIAMI 2026", Lehecka J. vs J. Sinner 03:30 ngày 30/03 ATP MIAMI 2026 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69c96f4065ab0_4733/index.m3u8?expire=1775413696&amp;sign=d7dbed47a97189944892ac01d3cf4a00
 #EXTINF:-1 tvg-id="601347238" group-title="Lehecka J. vs J. Sinner 03:30 ngày 30/03 ATP MIAMI 2026", Lehecka J. vs J. Sinner 03:30 ngày 30/03 ATP MIAMI 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69c96f4065ab0_4733/index.m3u8?expire=1775413696&sign=d7dbed47a97189944892ac01d3cf4a00
-#EXTINF:-1 tvg-id="601343836" group-title="SV Caiquetio vs SV Jong Aruba 03:00 ngày 30/03 Aruba Division Di Honor", SV Caiquetio vs SV Jong Aruba 03:00 ngày 30/03 Aruba Division Di Honor
-https://live.alilicloud.com/live/6955413505b0a384bf505e0b0343fd1c/playlist.m3u8
-#EXTINF:-1 tvg-id="601339318" group-title="Barbados vs St. Vincent   Grenadines 03:00 ngày 30/03 NC A S", Barbados vs St. Vincent   Grenadines 03:00 ngày 30/03 NC A S
-https://live.alilicloud.com/live/6f45cb9ca6c125823798ef28f4afbd3d/playlist.m3u8
-#EXTINF:-1 tvg-id="601336630" group-title="Barquisimeto vs Yaracuyanos 03:00 ngày 30/03 Venezuela Segunda Division", Barquisimeto vs Yaracuyanos 03:00 ngày 30/03 Venezuela Segunda Division
-https://live.alilicloud.com/live/fd2b68bec6fb606f01f350cb3ccc4c72/playlist.m3u8
-#EXTINF:-1 tvg-id="601336531" group-title="Dynamo Puerto FC vs Deportivo Miranda 03:00 ngày 30/03 Venezuela Segunda Division", Dynamo Puerto FC vs Deportivo Miranda 03:00 ngày 30/03 Venezuela Segunda Division
-https://live.alilicloud.com/live/cb026a25876115dcc6a65b08c9644174/playlist.m3u8
-#EXTINF:-1 tvg-id="601336528" group-title="Atletico Avila FC vs Monagas B 03:00 ngày 30/03 Venezuela Segunda Division", Atletico Avila FC vs Monagas B 03:00 ngày 30/03 Venezuela Segunda Division
-https://live.alilicloud.com/live/371c431574f6aa8dd4b4673c5348a1f1/playlist.m3u8
-#EXTINF:-1 tvg-id="601336492" group-title="Club Atletico Guemes vs Atletico Mitre de Santiago del Estero 03:00 ngày 30/03 Argentine Division 2", Club Atletico Guemes vs Atletico Mitre de Santiago del Estero 03:00 ngày 30/03 Argentine Division 2
-https://live.alilicloud.com/live/a5cfd94104f51f671505ed898bd11ce7/playlist.m3u8
-#EXTINF:-1 tvg-id="601336495" group-title="Deportivo Maipu vs Godoy Cruz Antonio Tomba 03:00 ngày 30/03 Argentine Division 2", Deportivo Maipu vs Godoy Cruz Antonio Tomba 03:00 ngày 30/03 Argentine Division 2
-https://live.alilicloud.com/live/4b26a9217768b5b3d4e28b55dc51e7ca/playlist.m3u8
-#EXTINF:-1 tvg-id="601336516" group-title="ABC RN vs Sport Club do Recife 03:00 ngày 30/03 Brazilian Copa do Nordeste", ABC RN vs Sport Club do Recife 03:00 ngày 30/03 Brazilian Copa do Nordeste
-https://live.alilicloud.com/live/acd760095d8e978e2dc14644be3e146a/playlist.m3u8
-#EXTINF:-1 tvg-id="601336519" group-title="AD Confiança vs Fluminense PI 03:00 ngày 30/03 Brazilian Copa do Nordeste", AD Confiança vs Fluminense PI 03:00 ngày 30/03 Brazilian Copa do Nordeste
-https://live.alilicloud.com/live/ebbcfc40b95a44d640ce7aeea6909991/playlist.m3u8
-#EXTINF:-1 tvg-id="601347274" group-title="Broki vs Voorwaarts T 03:30 ngày 30/03 SML", Broki vs Voorwaarts T 03:30 ngày 30/03 SML
-https://live.alilicloud.com/live/d6ae6c6a8047d8c19a8cd26c19c9c241/playlist.m3u8
 #EXTINF:-1 tvg-id="601336585" group-title="Gimnasia yTiro vs Central Norte Salta 03:30 ngày 30/03 Argentine Division 2", Gimnasia yTiro vs Central Norte Salta 03:30 ngày 30/03 Argentine Division 2
 https://live.alilicloud.com/live/e00d26dc439efc06521711465cf78d66/playlist.m3u8
-#EXTINF:-1 tvg-id="601338052" group-title="Central FC vs Point Fortin FC 04:00 ngày 30/03 Trinidad and Tobago Pro League", Central FC vs Point Fortin FC 04:00 ngày 30/03 Trinidad and Tobago Pro League
-https://live.alilicloud.com/live/27cb14023edf3d799562e481bb65ebb5/playlist.m3u8
-#EXTINF:-1 tvg-id="601336636" group-title="CA Huracan vs Olimpo Bahia Blanca 04:00 ngày 30/03 Copa Argentina", CA Huracan vs Olimpo Bahia Blanca 04:00 ngày 30/03 Copa Argentina
-https://live.alilicloud.com/live/355bc8ad51e301b36779a384bfe7a54f/playlist.m3u8
+#EXTINF:-1 tvg-id="601347274" group-title="Broki vs Voorwaarts T 03:30 ngày 30/03 SML", Broki vs Voorwaarts T 03:30 ngày 30/03 SML
+https://live.alilicloud.com/live/d6ae6c6a8047d8c19a8cd26c19c9c241/playlist.m3u8
 #EXTINF:-1 tvg-id="601336612" group-title="Ferroviaria SP vs Esporte Clube Sao Jose SP 04:00 ngày 30/03 Brazilian Campeonato Paulista A2", Ferroviaria SP vs Esporte Clube Sao Jose SP 04:00 ngày 30/03 Brazilian Campeonato Paulista A2
 https://live.alilicloud.com/live/0fd157985a33d5cf813de8e7964cf28b/playlist.m3u8
-#EXTINF:-1 tvg-id="601336522" group-title="Piaui(PI) vs Sousa PB 04:00 ngày 30/03 Brazilian Copa do Nordeste", Piaui(PI) vs Sousa PB 04:00 ngày 30/03 Brazilian Copa do Nordeste
-https://live.alilicloud.com/live/8904e917e482de9e6d639ac40454e890/playlist.m3u8
-#EXTINF:-1 tvg-id="601336621" group-title="La Equidad vs Atletico Junior Barranquilla 04:10 ngày 30/03 Categoría Primera A", La Equidad vs Atletico Junior Barranquilla 04:10 ngày 30/03 Categoría Primera A
-https://live.alilicloud.com/live/cc0e835e7d8411b49b4ff153a5c8c368/playlist.m3u8
+#EXTINF:-1 tvg-id="601338052" group-title="Central FC vs Point Fortin FC 04:00 ngày 30/03 Trinidad and Tobago Pro League", Central FC vs Point Fortin FC 04:00 ngày 30/03 Trinidad and Tobago Pro League
+https://live.alilicloud.com/live/27cb14023edf3d799562e481bb65ebb5/playlist.m3u8
 #EXTINF:-1 tvg-id="601336624" group-title="Avaí FC vs Cianorte PR 04:15 ngày 30/03 Copa Sul-Sudeste", Avaí FC vs Cianorte PR 04:15 ngày 30/03 Copa Sul-Sudeste
 https://live.alilicloud.com/live/6a60c640142acb57780cda2d9e033f8b/playlist.m3u8
 #EXTINF:-1 tvg-id="601339321" group-title="British Virgin Islands vs Anguilla 04:30 ngày 30/03 NC A S", British Virgin Islands vs Anguilla 04:30 ngày 30/03 NC A S
 https://live.alilicloud.com/live/c75de1f8d1d7087e8b3fc2acfb3c9460/playlist.m3u8
+#EXTINF:-1 tvg-id="601339324" group-title="Dominican Republic vs Cuba 05:00 ngày 30/03 NC A S", Dominican Republic vs Cuba 05:00 ngày 30/03 NC A S
+https://live.alilicloud.com/live/d3d3dd03da355c53a03172c8eac27b91/playlist.m3u8
+#EXTINF:-1 tvg-id="601336645" group-title="Athletico Paranaense vs Botafogo RJ 05:30 ngày 30/03 Brazilian Serie A", Athletico Paranaense vs Botafogo RJ 05:30 ngày 30/03 Brazilian Serie A (Link 1)
+https://cdn-hls.taoxanh.biz/live/69c9a2ca4b878_74012/index.m3u8?expire=1775426890&amp;sign=e88f5fa6f2811c5f5b5eec63d1d97fc5
+#EXTINF:-1 tvg-id="601336645" group-title="Athletico Paranaense vs Botafogo RJ 05:30 ngày 30/03 Brazilian Serie A", Athletico Paranaense vs Botafogo RJ 05:30 ngày 30/03 Brazilian Serie A (Link 2)
+https://cdn-hls.taoxanh.biz/live/69c9a2ca4b878_74012/index.m3u8?expire=1775426890&sign=e88f5fa6f2811c5f5b5eec63d1d97fc5
+#EXTINF:-1 tvg-id="601336684" group-title="Club Atlético Newell's Old Boys vs Club Atletico Acassuso 06:15 ngày 30/03 Copa Argentina", Club Atlético Newell's Old Boys vs Club Atletico Acassuso 06:15 ngày 30/03 Copa Argentina
+https://live.alilicloud.com/live/44124fd20389589f37c3fddb02840d2f/playlist.m3u8
+#EXTINF:-1 tvg-id="601336672" group-title="Deportivo Pasto vs Atletico Nacional Medellin 06:20 ngày 30/03 Categoría Primera A", Deportivo Pasto vs Atletico Nacional Medellin 06:20 ngày 30/03 Categoría Primera A
+https://live.alilicloud.com/live/d3c97079a757f702ec98aab6132c1013/playlist.m3u8
