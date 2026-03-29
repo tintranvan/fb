@@ -1,21 +1,27 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601334029" group-title="Manila Digger FC vs Philippine Army FC 15:00 ngày 29/03 Philippines United Football League", Manila Digger FC vs Philippine Army FC 15:00 ngày 29/03 Philippines United Football League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69c8c13c65105_103/index.m3u8?expire=1775369148&amp;sign=a7242496591d8ab201b5f6011ae4ff45
-#EXTINF:-1 tvg-id="601334029" group-title="Manila Digger FC vs Philippine Army FC 15:00 ngày 29/03 Philippines United Football League", Manila Digger FC vs Philippine Army FC 15:00 ngày 29/03 Philippines United Football League (Link 2)
-https://live.alilicloud.com/live/217217492239ad8a89f5c7fffb5569d1/playlist.m3u8
-#EXTINF:-1 tvg-id="601334029" group-title="Manila Digger FC vs Philippine Army FC 15:00 ngày 29/03 Philippines United Football League", Manila Digger FC vs Philippine Army FC 15:00 ngày 29/03 Philippines United Football League (Link 3)
-https://cdn-hls.taoxanh.biz/live/69c8c13c65105_103/index.m3u8?expire=1775369148&sign=a7242496591d8ab201b5f6011ae4ff45
-#EXTINF:-1 tvg-id="601335826" group-title="FK Yenisey-2 Krasnoyarsk vs Irkutsk 15:00 ngày 29/03 RUS D3B", FK Yenisey-2 Krasnoyarsk vs Irkutsk 15:00 ngày 29/03 RUS D3B
-https://live.alilicloud.com/live/c395051b77713a54f02b908f851d5ccf/playlist.m3u8
+#EXTINF:-1 tvg-id="601334161" group-title="Estrela FC U23 vs Rio Ave U23 17:00 ngày 29/03 Portuguese U23 League", Estrela FC U23 vs Rio Ave U23 17:00 ngày 29/03 Portuguese U23 League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69c8f1ac4b878_124958/index.m3u8?expire=1775381548&amp;sign=df8e840ec0180fce9f967b1a71ad89df
+#EXTINF:-1 tvg-id="601334161" group-title="Estrela FC U23 vs Rio Ave U23 17:00 ngày 29/03 Portuguese U23 League", Estrela FC U23 vs Rio Ave U23 17:00 ngày 29/03 Portuguese U23 League (Link 2)
+https://live.alilicloud.com/live/09af543598449074f39e7fb2af5db110/playlist.m3u8
+#EXTINF:-1 tvg-id="601334161" group-title="Estrela FC U23 vs Rio Ave U23 17:00 ngày 29/03 Portuguese U23 League", Estrela FC U23 vs Rio Ave U23 17:00 ngày 29/03 Portuguese U23 League (Link 3)
+https://cdn-hls.taoxanh.biz/live/69c8f1ac4b878_124958/index.m3u8?expire=1775381548&sign=df8e840ec0180fce9f967b1a71ad89df
 #EXTINF:-1 tvg-id="601334044" group-title="Garudayaksa vs FC Bekasi City 15:30 ngày 29/03 Indonesian Liga 2", Garudayaksa vs FC Bekasi City 15:30 ngày 29/03 Indonesian Liga 2
 https://live.alilicloud.com/live/536eb303e0419a6054dc252c2beb2e0e/playlist.m3u8
 #EXTINF:-1 tvg-id="601334074" group-title="Dynamic Herb Cebu vs Don Bosco Garelli United 16:00 ngày 29/03 Philippines United Football League", Dynamic Herb Cebu vs Don Bosco Garelli United 16:00 ngày 29/03 Philippines United Football League
 https://live.alilicloud.com/live/f5f0158a988a9143648d3676127fd7a9/playlist.m3u8
+#EXTINF:-1 tvg-id="601334077" group-title="Teplice B vs Pardubice B 16:00 ngày 29/03 Czech Third League", Teplice B vs Pardubice B 16:00 ngày 29/03 Czech Third League
+https://live.alilicloud.com/live/208e6e771762f8f94951555607087c81/playlist.m3u8
 #EXTINF:-1 tvg-id="601334167" group-title="Sibir Novosibirsk vs Rodina Moskva II 16:00 ngày 29/03 RUS D3A", Sibir Novosibirsk vs Rodina Moskva II 16:00 ngày 29/03 RUS D3A
 https://live.alilicloud.com/live/2dc99d7ea339d3b3991ac2ef01ef82f2/playlist.m3u8
 #EXTINF:-1 tvg-id="601335757" group-title="Lokomotiv Kyiv vs Dinaz Vyshgorod 16:30 ngày 29/03 Ukrainian Second League", Lokomotiv Kyiv vs Dinaz Vyshgorod 16:30 ngày 29/03 Ukrainian Second League
 https://live.alilicloud.com/live/d2dc0431504a837c0005382eb86770c2/playlist.m3u8
-#EXTINF:-1 tvg-id="601334161" group-title="Estrela FC U23 vs Rio Ave U23 17:00 ngày 29/03 Portuguese U23 League", Estrela FC U23 vs Rio Ave U23 17:00 ngày 29/03 Portuguese U23 League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69c8f1ac4b878_124958/index.m3u8?expire=1775381548&amp;sign=df8e840ec0180fce9f967b1a71ad89df
-#EXTINF:-1 tvg-id="601334161" group-title="Estrela FC U23 vs Rio Ave U23 17:00 ngày 29/03 Portuguese U23 League", Estrela FC U23 vs Rio Ave U23 17:00 ngày 29/03 Portuguese U23 League (Link 2)
-https://cdn-hls.taoxanh.biz/live/69c8f1ac4b878_124958/index.m3u8?expire=1775381548&sign=df8e840ec0180fce9f967b1a71ad89df
+#EXTINF:-1 tvg-id="601321261" group-title="Pogon Tczew (w) vs GKS Katowice (w) 17:00 ngày 29/03 Poland Women's Ekstraliga", Pogon Tczew (w) vs GKS Katowice (w) 17:00 ngày 29/03 Poland Women's Ekstraliga
+https://live.alilicloud.com/live/5c3e935e6e37a286a667b67d3344ba83/playlist.m3u8
+#EXTINF:-1 tvg-id="601334092" group-title="Real Sociedad (w) vs CDEF Logrono (w) 17:00 ngày 29/03 Spanish Primera División de la Liga de Fútbol Femenino", Real Sociedad (w) vs CDEF Logrono (w) 17:00 ngày 29/03 Spanish Primera División de la Liga de Fútbol Femenino
+https://live.alilicloud.com/live/71f772230f32e861df2d24a4fd8205c1/playlist.m3u8
+#EXTINF:-1 tvg-id="601335703" group-title="FK Shumbrat Saransk vs FC Avangard Kursk 17:00 ngày 29/03 RUS D3B", FK Shumbrat Saransk vs FC Avangard Kursk 17:00 ngày 29/03 RUS D3B
+https://live.alilicloud.com/live/e8393ac9b13cd1142df676ecbee050ca/playlist.m3u8
+#EXTINF:-1 tvg-id="601334191" group-title="Benevento vs Cosenza Calcio 1914 17:30 ngày 29/03 Italian Serie C", Benevento vs Cosenza Calcio 1914 17:30 ngày 29/03 Italian Serie C (Link 1)
+https://cdn-hls.taoxanh.biz/live/69c8f8e948e50_4908/index.m3u8?expire=1775383401&amp;sign=f51a03c073d153d18401a8d45c26b57e
+#EXTINF:-1 tvg-id="601334191" group-title="Benevento vs Cosenza Calcio 1914 17:30 ngày 29/03 Italian Serie C", Benevento vs Cosenza Calcio 1914 17:30 ngày 29/03 Italian Serie C (Link 2)
+https://cdn-hls.taoxanh.biz/live/69c8f8e948e50_4908/index.m3u8?expire=1775383401&sign=f51a03c073d153d18401a8d45c26b57e
