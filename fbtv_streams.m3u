@@ -1,21 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601336687" group-title="Marquense vs C.S.D. Comunicaciones 08:00 ngày 30/03 Guatemala Liga Nacional", Marquense vs C.S.D. Comunicaciones 08:00 ngày 30/03 Guatemala Liga Nacional (Link 1)
-https://cdn-hls.taoxanh.biz/live/69c9c3ee2ac58_74012/index.m3u8?expire=1775435374&amp;sign=bf5e948c3a862ff2a269b17a1a9ab66f
-#EXTINF:-1 tvg-id="601336687" group-title="Marquense vs C.S.D. Comunicaciones 08:00 ngày 30/03 Guatemala Liga Nacional", Marquense vs C.S.D. Comunicaciones 08:00 ngày 30/03 Guatemala Liga Nacional (Link 2)
-https://live.alilicloud.com/live/0d3408f469ea80e2e9bfa4c9eb6918f5/playlist.m3u8
-#EXTINF:-1 tvg-id="601336687" group-title="Marquense vs C.S.D. Comunicaciones 08:00 ngày 30/03 Guatemala Liga Nacional", Marquense vs C.S.D. Comunicaciones 08:00 ngày 30/03 Guatemala Liga Nacional (Link 3)
-https://cdn-hls.taoxanh.biz/live/69c9c3ee2ac58_74012/index.m3u8?expire=1775435374&sign=bf5e948c3a862ff2a269b17a1a9ab66f
-#EXTINF:-1 tvg-id="601337533" group-title="Denver Nuggets vs Golden State Warriors 09:00 ngày 30/03 NBA", Denver Nuggets vs Golden State Warriors 09:00 ngày 30/03 NBA (Link 1)
-https://cdn-hls.taoxanh.biz/live/69c9c0c565105_42127/index.m3u8?expire=1775434565&amp;sign=248b87afd40219d2730dbf32fc5930da
-#EXTINF:-1 tvg-id="601337533" group-title="Denver Nuggets vs Golden State Warriors 09:00 ngày 30/03 NBA", Denver Nuggets vs Golden State Warriors 09:00 ngày 30/03 NBA (Link 2)
-https://cdn-hls.taoxanh.biz/live/69c9c0c565105_42127/index.m3u8?expire=1775434565&sign=248b87afd40219d2730dbf32fc5930da
-#EXTINF:-1 tvg-id="601346995" group-title="Chivas Guadalajara vs Atlas 08:00 ngày 30/03 International Club Friendly", Chivas Guadalajara vs Atlas 08:00 ngày 30/03 International Club Friendly
-https://live.alilicloud.com/live/d9c55db953632eba852b2297929a6010/playlist.m3u8
-#EXTINF:-1 tvg-id="601336696" group-title="Cape Verde vs Finland 10:00 ngày 30/03 FIFA Series", Cape Verde vs Finland 10:00 ngày 30/03 FIFA Series (Link 1)
-https://cdn-hls.taoxanh.biz/live/69c9e07f4b878_79/index.m3u8?expire=1775442687&amp;sign=0e443a7cf7e850b09c3f51683dfa2b4c
-#EXTINF:-1 tvg-id="601336696" group-title="Cape Verde vs Finland 10:00 ngày 30/03 FIFA Series", Cape Verde vs Finland 10:00 ngày 30/03 FIFA Series (Link 2)
-https://cdn-hls.taoxanh.biz/live/69c9e07f4b878_79/index.m3u8?expire=1775442687&sign=0e443a7cf7e850b09c3f51683dfa2b4c
+#EXTINF:-1 tvg-id="601336702" group-title="New Zealand vs Chile 13:00 ngày 30/03 FIFA Series", New Zealand vs Chile 13:00 ngày 30/03 FIFA Series (Link 1)
+https://cdn-hls.taoxanh.biz/live/69ca01373ec58_44731/index.m3u8?expire=1775451063&amp;sign=365f09b178f65d495e85b9546c563e8f
+#EXTINF:-1 tvg-id="601336702" group-title="New Zealand vs Chile 13:00 ngày 30/03 FIFA Series", New Zealand vs Chile 13:00 ngày 30/03 FIFA Series (Link 2)
+https://cdn-hls.taoxanh.biz/live/69ca01373ec58_44731/index.m3u8?expire=1775451063&sign=365f09b178f65d495e85b9546c563e8f
 #EXTINF:-1 tvg-id="601335115" group-title="CA Juventud vs Boston River 01:00 ngày 31/03 Uruguay Primera Division", CA Juventud vs Boston River 01:00 ngày 31/03 Uruguay Primera Division (Link 1)
 https://cdn-hls.taoxanh.biz/live/69c92ecc4b878_88186/index.m3u8?expire=1775397196&amp;sign=46ab0a0eb0ea3d83e501563d84dfd137
 #EXTINF:-1 tvg-id="601335115" group-title="CA Juventud vs Boston River 01:00 ngày 31/03 Uruguay Primera Division", CA Juventud vs Boston River 01:00 ngày 31/03 Uruguay Primera Division (Link 2)
 https://cdn-hls.taoxanh.biz/live/69c92ecc4b878_88186/index.m3u8?expire=1775397196&sign=46ab0a0eb0ea3d83e501563d84dfd137
+#EXTINF:-1 tvg-id="601334572" group-title="Club Atletico Progreso vs Liverpool URU 20:55 ngày 31/03 Uruguay Primera Division", Club Atletico Progreso vs Liverpool URU 20:55 ngày 31/03 Uruguay Primera Division (Link 1)
+https://cdn-hls.taoxanh.biz/live/69c9173f65105_74012/index.m3u8?expire=1775391167&amp;sign=e079667f073015dab501eb5b38a8e40a
+#EXTINF:-1 tvg-id="601334572" group-title="Club Atletico Progreso vs Liverpool URU 20:55 ngày 31/03 Uruguay Primera Division", Club Atletico Progreso vs Liverpool URU 20:55 ngày 31/03 Uruguay Primera Division (Link 2)
+https://cdn-hls.taoxanh.biz/live/69c9173f65105_74012/index.m3u8?expire=1775391167&sign=e079667f073015dab501eb5b38a8e40a
