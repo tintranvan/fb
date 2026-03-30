@@ -1,24 +1,36 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601350370" group-title="Bengkulu Putra FC vs Indonesia Muda Bali FC 13:50 ngày 30/03 Indo D4", Bengkulu Putra FC vs Indonesia Muda Bali FC 13:50 ngày 30/03 Indo D4
-https://live.alilicloud.com/live/d801d974d0cbc919dec232e673be3c77/playlist.m3u8
-#EXTINF:-1 tvg-id="601350328" group-title="Gamo Chencha vs Shashemene Ketema 14:00 ngày 30/03 Ethiopian Higher League", Gamo Chencha vs Shashemene Ketema 14:00 ngày 30/03 Ethiopian Higher League
-https://live.alilicloud.com/live/5d538bf44678bd14c3ff6233e7294e42/playlist.m3u8
-#EXTINF:-1 tvg-id="601347184" group-title="Northern United FC vs Friends United 14:30 ngày 30/03 IND DSD", Northern United FC vs Friends United 14:30 ngày 30/03 IND DSD
-https://live.alilicloud.com/live/e4752b970188b95ac964eac252314723/playlist.m3u8
+#EXTINF:-1 tvg-id="601335754" group-title="Rebel Kyiv vs FC Livyi Bereh Kyiv B 16:00 ngày 30/03 Ukrainian Second League", Rebel Kyiv vs FC Livyi Bereh Kyiv B 16:00 ngày 30/03 Ukrainian Second League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69ca3df34b878_74012/index.m3u8?expire=1775466611&amp;sign=35d74557320f8d792764b3c88f49a6e2
+#EXTINF:-1 tvg-id="601335754" group-title="Rebel Kyiv vs FC Livyi Bereh Kyiv B 16:00 ngày 30/03 Ukrainian Second League", Rebel Kyiv vs FC Livyi Bereh Kyiv B 16:00 ngày 30/03 Ukrainian Second League (Link 2)
+https://live.alilicloud.com/live/c6ea376ab9dc996fb726460c7c2671a4/playlist.m3u8
+#EXTINF:-1 tvg-id="601335754" group-title="Rebel Kyiv vs FC Livyi Bereh Kyiv B 16:00 ngày 30/03 Ukrainian Second League", Rebel Kyiv vs FC Livyi Bereh Kyiv B 16:00 ngày 30/03 Ukrainian Second League (Link 3)
+https://cdn-hls.taoxanh.biz/live/69ca3df34b878_74012/index.m3u8?expire=1775466611&sign=35d74557320f8d792764b3c88f49a6e2
+#EXTINF:-1 tvg-id="601341004" group-title="St. Kitts and Nevis vs Solomon Islands 16:50 ngày 30/03 FIFA Series", St. Kitts and Nevis vs Solomon Islands 16:50 ngày 30/03 FIFA Series (Link 1)
+https://cdn-hls.taoxanh.biz/live/69ca2c8d18432_88642/index.m3u8?expire=1775462157&amp;sign=7b9f4ca7f5bf5fd2118f3ecc0cca10aa
+#EXTINF:-1 tvg-id="601341004" group-title="St. Kitts and Nevis vs Solomon Islands 16:50 ngày 30/03 FIFA Series", St. Kitts and Nevis vs Solomon Islands 16:50 ngày 30/03 FIFA Series (Link 2)
+https://live.alilicloud.com/live/af6d1d27138c850e216487fff9fbe02e/playlist.m3u8
+#EXTINF:-1 tvg-id="601341004" group-title="St. Kitts and Nevis vs Solomon Islands 16:50 ngày 30/03 FIFA Series", St. Kitts and Nevis vs Solomon Islands 16:50 ngày 30/03 FIFA Series (Link 3)
+https://cdn-hls.taoxanh.biz/live/69ca2c8d18432_88642/index.m3u8?expire=1775462157&sign=7b9f4ca7f5bf5fd2118f3ecc0cca10aa
+#EXTINF:-1 tvg-id="601336714" group-title="Trinidad   Tobago vs Gabon 17:00 ngày 30/03 FIFA Series", Trinidad   Tobago vs Gabon 17:00 ngày 30/03 FIFA Series (Link 1)
+https://cdn-hls.taoxanh.biz/live/69ca46a35ff6b_72787/index.m3u8?expire=1775468835&amp;sign=b4b365ebd5686b20ecd6af532951eade
+#EXTINF:-1 tvg-id="601336714" group-title="Trinidad   Tobago vs Gabon 17:00 ngày 30/03 FIFA Series", Trinidad   Tobago vs Gabon 17:00 ngày 30/03 FIFA Series (Link 2)
+https://live.alilicloud.com/live/2d64a3256001a7ee47c296b2bf65c100/playlist.m3u8
+#EXTINF:-1 tvg-id="601336714" group-title="Trinidad   Tobago vs Gabon 17:00 ngày 30/03 FIFA Series", Trinidad   Tobago vs Gabon 17:00 ngày 30/03 FIFA Series (Link 3)
+https://cdn-hls.taoxanh.biz/live/69ca46a35ff6b_72787/index.m3u8?expire=1775468835&sign=b4b365ebd5686b20ecd6af532951eade
+#EXTINF:-1 tvg-id="601336720" group-title="Lithuania U17 vs Bulgaria U17 17:00 ngày 30/03 UEFA European U17 Football Championship", Lithuania U17 vs Bulgaria U17 17:00 ngày 30/03 UEFA European U17 Football Championship (Link 1)
+https://cdn-hls.taoxanh.biz/live/69ca3b6d65105_103/index.m3u8?expire=1775465965&amp;sign=d5a6d7039ce2c723ae929dc59b47603a
+#EXTINF:-1 tvg-id="601336720" group-title="Lithuania U17 vs Bulgaria U17 17:00 ngày 30/03 UEFA European U17 Football Championship", Lithuania U17 vs Bulgaria U17 17:00 ngày 30/03 UEFA European U17 Football Championship (Link 2)
+https://cdn-hls.taoxanh.biz/live/69ca3b6d65105_103/index.m3u8?expire=1775465965&sign=d5a6d7039ce2c723ae929dc59b47603a
+#EXTINF:-1 tvg-id="601350313" group-title="Shunsuke TOGAMI vs MAK Tin Ian 16:00 ngày 30/03 ITTF Men’s &amp; Women’s World Cup Macao 2026 Presented", Shunsuke TOGAMI vs MAK Tin Ian 16:00 ngày 30/03 ITTF Men’s &amp; Women’s World Cup Macao 2026 Presented (Link 1)
+https://cdn-hls.taoxanh.biz/live/69ca37b565105_112310/index.m3u8?expire=1775465013&amp;sign=8706759d851936f9ab69e2f263550d87
+#EXTINF:-1 tvg-id="601350313" group-title="Shunsuke TOGAMI vs MAK Tin Ian 16:00 ngày 30/03 ITTF Men’s &amp; Women’s World Cup Macao 2026 Presented", Shunsuke TOGAMI vs MAK Tin Ian 16:00 ngày 30/03 ITTF Men’s &amp; Women’s World Cup Macao 2026 Presented (Link 2)
+https://cdn-hls.taoxanh.biz/live/69ca37b565105_112310/index.m3u8?expire=1775465013&sign=8706759d851936f9ab69e2f263550d87
 #EXTINF:-1 tvg-id="601350376" group-title="Nafri vs Eleven Wise Biak Numfor 15:00 ngày 30/03 Indo D4", Nafri vs Eleven Wise Biak Numfor 15:00 ngày 30/03 Indo D4
 https://live.alilicloud.com/live/1d6a17c2e5030670c1ab64f9ccf964cc/playlist.m3u8
 #EXTINF:-1 tvg-id="601350382" group-title="Trisukma FC vs Banten Jaya FC 15:30 ngày 30/03 Indo D4", Trisukma FC vs Banten Jaya FC 15:30 ngày 30/03 Indo D4
 https://live.alilicloud.com/live/793842da3f5a0209e7bcfc9e794c2385/playlist.m3u8
-#EXTINF:-1 tvg-id="601341004" group-title="St. Kitts and Nevis vs Solomon Islands 15:50 ngày 30/03 FIFA Series", St. Kitts and Nevis vs Solomon Islands 15:50 ngày 30/03 FIFA Series (Link 1)
-https://cdn-hls.taoxanh.biz/live/69ca2c8d18432_88642/index.m3u8?expire=1775462157&amp;sign=7b9f4ca7f5bf5fd2118f3ecc0cca10aa
-#EXTINF:-1 tvg-id="601341004" group-title="St. Kitts and Nevis vs Solomon Islands 15:50 ngày 30/03 FIFA Series", St. Kitts and Nevis vs Solomon Islands 15:50 ngày 30/03 FIFA Series (Link 2)
-https://live.alilicloud.com/live/af6d1d27138c850e216487fff9fbe02e/playlist.m3u8
-#EXTINF:-1 tvg-id="601341004" group-title="St. Kitts and Nevis vs Solomon Islands 15:50 ngày 30/03 FIFA Series", St. Kitts and Nevis vs Solomon Islands 15:50 ngày 30/03 FIFA Series (Link 3)
-https://cdn-hls.taoxanh.biz/live/69ca2c8d18432_88642/index.m3u8?expire=1775462157&sign=7b9f4ca7f5bf5fd2118f3ecc0cca10aa
-#EXTINF:-1 tvg-id="601339336" group-title="Uzbekistan U19 vs Japan U20 16:00 ngày 30/03 International Friendly", Uzbekistan U19 vs Japan U20 16:00 ngày 30/03 International Friendly (Link 1)
-https://cdn-hls.taoxanh.biz/live/69ca3501e2a96_74012/index.m3u8?expire=1775464321&amp;sign=4cf6539f05ff3bdc02e94d2d494fe7e5
-#EXTINF:-1 tvg-id="601339336" group-title="Uzbekistan U19 vs Japan U20 16:00 ngày 30/03 International Friendly", Uzbekistan U19 vs Japan U20 16:00 ngày 30/03 International Friendly (Link 2)
-https://cdn-hls.taoxanh.biz/live/69ca3501e2a96_74012/index.m3u8?expire=1775464321&sign=4cf6539f05ff3bdc02e94d2d494fe7e5
+#EXTINF:-1 tvg-id="601341010" group-title="Finland (w)U16 vs Denmark (w)U16 16:00 ngày 30/03 International Friendly", Finland (w)U16 vs Denmark (w)U16 16:00 ngày 30/03 International Friendly
+https://live.alilicloud.com/live/2e2acd892b4547979215a6def4ab8df6/playlist.m3u8
 #EXTINF:-1 tvg-id="601335115" group-title="CA Juventud vs Boston River 01:00 ngày 31/03 Uruguay Primera Division", CA Juventud vs Boston River 01:00 ngày 31/03 Uruguay Primera Division (Link 1)
 https://cdn-hls.taoxanh.biz/live/69c92ecc4b878_88186/index.m3u8?expire=1775397196&amp;sign=46ab0a0eb0ea3d83e501563d84dfd137
 #EXTINF:-1 tvg-id="601335115" group-title="CA Juventud vs Boston River 01:00 ngày 31/03 Uruguay Primera Division", CA Juventud vs Boston River 01:00 ngày 31/03 Uruguay Primera Division (Link 2)
