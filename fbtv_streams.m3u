@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601335754" group-title="Rebel Kyiv vs FC Livyi Bereh Kyiv B 16:00 ngày 30/03 Ukrainian Second League", Rebel Kyiv vs FC Livyi Bereh Kyiv B 16:00 ngày 30/03 Ukrainian Second League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69ca3df34b878_74012/index.m3u8?expire=1775466611&amp;sign=35d74557320f8d792764b3c88f49a6e2
-#EXTINF:-1 tvg-id="601335754" group-title="Rebel Kyiv vs FC Livyi Bereh Kyiv B 16:00 ngày 30/03 Ukrainian Second League", Rebel Kyiv vs FC Livyi Bereh Kyiv B 16:00 ngày 30/03 Ukrainian Second League (Link 2)
-https://live.alilicloud.com/live/c6ea376ab9dc996fb726460c7c2671a4/playlist.m3u8
-#EXTINF:-1 tvg-id="601335754" group-title="Rebel Kyiv vs FC Livyi Bereh Kyiv B 16:00 ngày 30/03 Ukrainian Second League", Rebel Kyiv vs FC Livyi Bereh Kyiv B 16:00 ngày 30/03 Ukrainian Second League (Link 3)
-https://cdn-hls.taoxanh.biz/live/69ca3df34b878_74012/index.m3u8?expire=1775466611&sign=35d74557320f8d792764b3c88f49a6e2
 #EXTINF:-1 tvg-id="601341004" group-title="St. Kitts and Nevis vs Solomon Islands 16:50 ngày 30/03 FIFA Series", St. Kitts and Nevis vs Solomon Islands 16:50 ngày 30/03 FIFA Series (Link 1)
 https://cdn-hls.taoxanh.biz/live/69ca2c8d18432_88642/index.m3u8?expire=1775462157&amp;sign=7b9f4ca7f5bf5fd2118f3ecc0cca10aa
 #EXTINF:-1 tvg-id="601341004" group-title="St. Kitts and Nevis vs Solomon Islands 16:50 ngày 30/03 FIFA Series", St. Kitts and Nevis vs Solomon Islands 16:50 ngày 30/03 FIFA Series (Link 2)
@@ -21,16 +15,18 @@ https://cdn-hls.taoxanh.biz/live/69ca46a35ff6b_72787/index.m3u8?expire=177546883
 https://cdn-hls.taoxanh.biz/live/69ca3b6d65105_103/index.m3u8?expire=1775465965&amp;sign=d5a6d7039ce2c723ae929dc59b47603a
 #EXTINF:-1 tvg-id="601336720" group-title="Lithuania U17 vs Bulgaria U17 17:00 ngày 30/03 UEFA European U17 Football Championship", Lithuania U17 vs Bulgaria U17 17:00 ngày 30/03 UEFA European U17 Football Championship (Link 2)
 https://cdn-hls.taoxanh.biz/live/69ca3b6d65105_103/index.m3u8?expire=1775465965&sign=d5a6d7039ce2c723ae929dc59b47603a
-#EXTINF:-1 tvg-id="601350313" group-title="Shunsuke TOGAMI vs MAK Tin Ian 16:00 ngày 30/03 ITTF Men’s &amp; Women’s World Cup Macao 2026 Presented", Shunsuke TOGAMI vs MAK Tin Ian 16:00 ngày 30/03 ITTF Men’s &amp; Women’s World Cup Macao 2026 Presented (Link 1)
+#EXTINF:-1 tvg-id="601350313" group-title="CHEN Xingtong vs ndreea DRAGOMAN 17:40 ngày 30/03 ITTF Men’s &amp; Women’s World Cup Macao 2026 Presented", CHEN Xingtong vs ndreea DRAGOMAN 17:40 ngày 30/03 ITTF Men’s &amp; Women’s World Cup Macao 2026 Presented (Link 1)
 https://cdn-hls.taoxanh.biz/live/69ca37b565105_112310/index.m3u8?expire=1775465013&amp;sign=8706759d851936f9ab69e2f263550d87
-#EXTINF:-1 tvg-id="601350313" group-title="Shunsuke TOGAMI vs MAK Tin Ian 16:00 ngày 30/03 ITTF Men’s &amp; Women’s World Cup Macao 2026 Presented", Shunsuke TOGAMI vs MAK Tin Ian 16:00 ngày 30/03 ITTF Men’s &amp; Women’s World Cup Macao 2026 Presented (Link 2)
+#EXTINF:-1 tvg-id="601350313" group-title="CHEN Xingtong vs ndreea DRAGOMAN 17:40 ngày 30/03 ITTF Men’s &amp; Women’s World Cup Macao 2026 Presented", CHEN Xingtong vs ndreea DRAGOMAN 17:40 ngày 30/03 ITTF Men’s &amp; Women’s World Cup Macao 2026 Presented (Link 2)
 https://cdn-hls.taoxanh.biz/live/69ca37b565105_112310/index.m3u8?expire=1775465013&sign=8706759d851936f9ab69e2f263550d87
-#EXTINF:-1 tvg-id="601350376" group-title="Nafri vs Eleven Wise Biak Numfor 15:00 ngày 30/03 Indo D4", Nafri vs Eleven Wise Biak Numfor 15:00 ngày 30/03 Indo D4
-https://live.alilicloud.com/live/1d6a17c2e5030670c1ab64f9ccf964cc/playlist.m3u8
-#EXTINF:-1 tvg-id="601350382" group-title="Trisukma FC vs Banten Jaya FC 15:30 ngày 30/03 Indo D4", Trisukma FC vs Banten Jaya FC 15:30 ngày 30/03 Indo D4
-https://live.alilicloud.com/live/793842da3f5a0209e7bcfc9e794c2385/playlist.m3u8
-#EXTINF:-1 tvg-id="601341010" group-title="Finland (w)U16 vs Denmark (w)U16 16:00 ngày 30/03 International Friendly", Finland (w)U16 vs Denmark (w)U16 16:00 ngày 30/03 International Friendly
-https://live.alilicloud.com/live/2e2acd892b4547979215a6def4ab8df6/playlist.m3u8
+#EXTINF:-1 tvg-id="601350349" group-title="Nekemte Ketema vs Harare City (ETH) 17:30 ngày 30/03 Ethiopian Higher League", Nekemte Ketema vs Harare City (ETH) 17:30 ngày 30/03 Ethiopian Higher League
+https://live.alilicloud.com/live/398044a4db25203a6323840d0450a187/playlist.m3u8
+#EXTINF:-1 tvg-id="601347187" group-title="Shastri FC vs Vatika FC 17:30 ngày 30/03 IND DSD", Shastri FC vs Vatika FC 17:30 ngày 30/03 IND DSD
+https://live.alilicloud.com/live/c421ceb5b96bf9c661159c4e5ae24ccc/playlist.m3u8
+#EXTINF:-1 tvg-id="601336756" group-title="Kosovo U19 vs Turkiye U19 19:00 ngày 30/03 UEFA European U19 Football Championship", Kosovo U19 vs Turkiye U19 19:00 ngày 30/03 UEFA European U19 Football Championship (Link 1)
+https://cdn-hls.taoxanh.biz/live/69ca59274b878_133172/index.m3u8?expire=1775473575&amp;sign=6cab47c21bd67a75b8262c3262a2be4c
+#EXTINF:-1 tvg-id="601336756" group-title="Kosovo U19 vs Turkiye U19 19:00 ngày 30/03 UEFA European U19 Football Championship", Kosovo U19 vs Turkiye U19 19:00 ngày 30/03 UEFA European U19 Football Championship (Link 2)
+https://cdn-hls.taoxanh.biz/live/69ca59274b878_133172/index.m3u8?expire=1775473575&sign=6cab47c21bd67a75b8262c3262a2be4c
 #EXTINF:-1 tvg-id="601335115" group-title="CA Juventud vs Boston River 01:00 ngày 31/03 Uruguay Primera Division", CA Juventud vs Boston River 01:00 ngày 31/03 Uruguay Primera Division (Link 1)
 https://cdn-hls.taoxanh.biz/live/69c92ecc4b878_88186/index.m3u8?expire=1775397196&amp;sign=46ab0a0eb0ea3d83e501563d84dfd137
 #EXTINF:-1 tvg-id="601335115" group-title="CA Juventud vs Boston River 01:00 ngày 31/03 Uruguay Primera Division", CA Juventud vs Boston River 01:00 ngày 31/03 Uruguay Primera Division (Link 2)
