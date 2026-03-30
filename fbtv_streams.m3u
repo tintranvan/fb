@@ -9,12 +9,18 @@ https://cdn-hls.taoxanh.biz/live/69cafa8089fdd_128756/index.m3u8?expire=17755148
 https://cdn-hls.taoxanh.biz/live/69cafd4b1e80b_72787/index.m3u8?expire=1775515595&amp;sign=5362f02112d1670fc17811fe56d29b4c
 #EXTINF:-1 tvg-id="601337536" group-title="Miami Heat vs Philadelphia 76ers 06:00 ngày 31/03 NBA", Miami Heat vs Philadelphia 76ers 06:00 ngày 31/03 NBA (Link 2)
 https://cdn-hls.taoxanh.biz/live/69cafd4b1e80b_72787/index.m3u8?expire=1775515595&sign=5362f02112d1670fc17811fe56d29b4c
-#EXTINF:-1 tvg-id="601336864" group-title="EC Jacuipense vs America FC Natal RN 04:30 ngày 31/03 Brazilian Copa do Nordeste", EC Jacuipense vs America FC Natal RN 04:30 ngày 31/03 Brazilian Copa do Nordeste
-https://live.alilicloud.com/live/c47afd500308171de8180e713cad10e6/playlist.m3u8
-#EXTINF:-1 tvg-id="601336870" group-title="Racing United vs Treasure Beach 05:00 ngày 31/03 Jamaica Premier League", Racing United vs Treasure Beach 05:00 ngày 31/03 Jamaica Premier League
-https://live.alilicloud.com/live/634e64eca70566c1bebb66d4a532b6f2/playlist.m3u8
+#EXTINF:-1 tvg-id="601337539" group-title="Atlanta Hawks vs Boston Celtics 06:30 ngày 31/03 NBA", Atlanta Hawks vs Boston Celtics 06:30 ngày 31/03 NBA (Link 1)
+https://cdn-hls.taoxanh.biz/live/69caff6689fdd_42127/index.m3u8?expire=1775516134&amp;sign=f6530d8b1726e7fe489af7c5c29c876d
+#EXTINF:-1 tvg-id="601337539" group-title="Atlanta Hawks vs Boston Celtics 06:30 ngày 31/03 NBA", Atlanta Hawks vs Boston Celtics 06:30 ngày 31/03 NBA (Link 2)
+https://cdn-hls.taoxanh.biz/live/69caff6689fdd_42127/index.m3u8?expire=1775516134&sign=f6530d8b1726e7fe489af7c5c29c876d
 #EXTINF:-1 tvg-id="601343878" group-title="Millonarios (w) vs Atletico Bucaramanga (w) 05:15 ngày 31/03 Colombian Liga Betplay Femenina", Millonarios (w) vs Atletico Bucaramanga (w) 05:15 ngày 31/03 Colombian Liga Betplay Femenina
 https://live.alilicloud.com/live/e5009d00217a05bff6fec2bf964f46e2/playlist.m3u8
+#EXTINF:-1 tvg-id="601338151" group-title="Club Libertad Asunción vs Deportivo Recoleta 06:30 ngày 31/03 Paraguayan Primera Division", Club Libertad Asunción vs Deportivo Recoleta 06:30 ngày 31/03 Paraguayan Primera Division
+https://live.alilicloud.com/live/8fd0727202f875f7a6b491e33735f456/playlist.m3u8
+#EXTINF:-1 tvg-id="601336885" group-title="Club Atlético Unión vs Agropecuario de Carlos Casares 07:15 ngày 31/03 Copa Argentina", Club Atlético Unión vs Agropecuario de Carlos Casares 07:15 ngày 31/03 Copa Argentina (Link 1)
+https://cdn-hls.taoxanh.biz/live/69cb0b8065106_88642/index.m3u8?expire=1775519232&amp;sign=df3fa8a33ef7741f2e3c38a03b55eeb5
+#EXTINF:-1 tvg-id="601336885" group-title="Club Atlético Unión vs Agropecuario de Carlos Casares 07:15 ngày 31/03 Copa Argentina", Club Atlético Unión vs Agropecuario de Carlos Casares 07:15 ngày 31/03 Copa Argentina (Link 2)
+https://cdn-hls.taoxanh.biz/live/69cb0b8065106_88642/index.m3u8?expire=1775519232&sign=df3fa8a33ef7741f2e3c38a03b55eeb5
 #EXTINF:-1 tvg-id="601334572" group-title="Club Atletico Progreso vs Liverpool URU 20:55 ngày 31/03 Uruguay Primera Division", Club Atletico Progreso vs Liverpool URU 20:55 ngày 31/03 Uruguay Primera Division (Link 1)
 https://cdn-hls.taoxanh.biz/live/69c9173f65105_74012/index.m3u8?expire=1775391167&amp;sign=e079667f073015dab501eb5b38a8e40a
 #EXTINF:-1 tvg-id="601334572" group-title="Club Atletico Progreso vs Liverpool URU 20:55 ngày 31/03 Uruguay Primera Division", Club Atletico Progreso vs Liverpool URU 20:55 ngày 31/03 Uruguay Primera Division (Link 2)
