@@ -1,23 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601341055" group-title="Bosnia-Herzegovina vs Italy 01:45 ngày 01/04 FIFA World Cup qualification (UEFA)", Bosnia-Herzegovina vs Italy 01:45 ngày 01/04 FIFA World Cup qualification (UEFA) (Link 1)
-https://cdn-hls.taoxanh.biz/live/69cc09ec968e6_4908/index.m3u8?expire=1775584364&amp;sign=f900933b6f64bdaab803b2b4a6c34627
-#EXTINF:-1 tvg-id="601341055" group-title="Bosnia-Herzegovina vs Italy 01:45 ngày 01/04 FIFA World Cup qualification (UEFA)", Bosnia-Herzegovina vs Italy 01:45 ngày 01/04 FIFA World Cup qualification (UEFA) (Link 2)
-https://live.alilicloud.com/live/f0fb7000b9ef4e7879287f15b1b0a29d/playlist.m3u8
-#EXTINF:-1 tvg-id="601341055" group-title="Bosnia-Herzegovina vs Italy 01:45 ngày 01/04 FIFA World Cup qualification (UEFA)", Bosnia-Herzegovina vs Italy 01:45 ngày 01/04 FIFA World Cup qualification (UEFA) (Link 3)
-https://cdn-hls.taoxanh.biz/live/69cc09ec968e6_4908/index.m3u8?expire=1775584364&sign=f900933b6f64bdaab803b2b4a6c34627
-#EXTINF:-1 tvg-id="601341058" group-title="Czech vs Denmark 01:45 ngày 01/04 FIFA World Cup qualification (UEFA)", Czech vs Denmark 01:45 ngày 01/04 FIFA World Cup qualification (UEFA) (Link 1)
-https://cdn-hls.taoxanh.biz/live/69cc0c0b968e6_44731/index.m3u8?expire=1775584907&amp;sign=aca46eb73d7dd4edeb00bff53d77e127
-#EXTINF:-1 tvg-id="601341058" group-title="Czech vs Denmark 01:45 ngày 01/04 FIFA World Cup qualification (UEFA)", Czech vs Denmark 01:45 ngày 01/04 FIFA World Cup qualification (UEFA) (Link 2)
-https://live.alilicloud.com/live/6c0c1048e7f081acb41096945b81d2db/playlist.m3u8
-#EXTINF:-1 tvg-id="601341058" group-title="Czech vs Denmark 01:45 ngày 01/04 FIFA World Cup qualification (UEFA)", Czech vs Denmark 01:45 ngày 01/04 FIFA World Cup qualification (UEFA) (Link 3)
-https://cdn-hls.taoxanh.biz/live/69cc0c0b968e6_44731/index.m3u8?expire=1775584907&sign=aca46eb73d7dd4edeb00bff53d77e127
-#EXTINF:-1 tvg-id="601338349" group-title="Democratic Republic of the Congo vs Jamaica 04:00 ngày 01/04 FIFA World Cup (Inter-confederation Play-offs)", Democratic Republic of the Congo vs Jamaica 04:00 ngày 01/04 FIFA World Cup (Inter-confederation Play-offs)
+#EXTINF:-1 tvg-id="601338349" group-title="Democratic Republic of the Congo vs Jamaica 04:00 ngày 01/04 FIFA World Cup (Inter-confederation Play-offs)", Democratic Republic of the Congo vs Jamaica 04:00 ngày 01/04 FIFA World Cup (Inter-confederation Play-offs) (Link 1)
+https://cdn-hls.taoxanh.biz/live/69cc3d16968e7_44731/index.m3u8?expire=1775597462&amp;sign=08cbc6e890f1b7bb018c17b4a54a3e0c
+#EXTINF:-1 tvg-id="601338349" group-title="Democratic Republic of the Congo vs Jamaica 04:00 ngày 01/04 FIFA World Cup (Inter-confederation Play-offs)", Democratic Republic of the Congo vs Jamaica 04:00 ngày 01/04 FIFA World Cup (Inter-confederation Play-offs) (Link 2)
 https://live.alilicloud.com/live/ff9d9da064d17ad3fdb9e2f0e75ed305/playlist.m3u8
-#EXTINF:-1 tvg-id="601338340" group-title="Real Valladolid CF vs Cadiz 02:30 ngày 01/04 Spanish Segunda Division", Real Valladolid CF vs Cadiz 02:30 ngày 01/04 Spanish Segunda Division
-https://live.alilicloud.com/live/8a505d4a5de44746f1219674d73fc0ee/playlist.m3u8
-#EXTINF:-1 tvg-id="601338355" group-title="Tigres Zipaquira vs Barranquilla FC 03:00 ngày 01/04 Colombian Torneo BetPlay Dimayor", Tigres Zipaquira vs Barranquilla FC 03:00 ngày 01/04 Colombian Torneo BetPlay Dimayor
-https://live.alilicloud.com/live/76d456f06a28524c89874adbcd85eaf9/playlist.m3u8
-#EXTINF:-1 tvg-id="601338358" group-title="Real Santander vs Envigado FC 03:00 ngày 01/04 Colombian Torneo BetPlay Dimayor", Real Santander vs Envigado FC 03:00 ngày 01/04 Colombian Torneo BetPlay Dimayor
-https://live.alilicloud.com/live/d704e52efd666886af02b405c6679b03/playlist.m3u8
+#EXTINF:-1 tvg-id="601338349" group-title="Democratic Republic of the Congo vs Jamaica 04:00 ngày 01/04 FIFA World Cup (Inter-confederation Play-offs)", Democratic Republic of the Congo vs Jamaica 04:00 ngày 01/04 FIFA World Cup (Inter-confederation Play-offs) (Link 3)
+https://cdn-hls.taoxanh.biz/live/69cc3d16968e7_44731/index.m3u8?expire=1775597462&sign=08cbc6e890f1b7bb018c17b4a54a3e0c
 #EXTINF:-1 tvg-id="601343890" group-title="Independiente Medellin (w) vs Deportivo Pasto s (W) 03:00 ngày 01/04 Colombian Liga Betplay Femenina", Independiente Medellin (w) vs Deportivo Pasto s (W) 03:00 ngày 01/04 Colombian Liga Betplay Femenina
 https://live.alilicloud.com/live/2162d58a1a0fc0466d6269936f497a5f/playlist.m3u8
+#EXTINF:-1 tvg-id="601331515" group-title="Audax Italiano vs Universidad de Chile 04:00 ngày 01/04 CHI LC", Audax Italiano vs Universidad de Chile 04:00 ngày 01/04 CHI LC
+https://live.alilicloud.com/live/cd2ab29ea4ede56640b89c2486cd1a9e/playlist.m3u8
+#EXTINF:-1 tvg-id="601338364" group-title="Club Sportivo 2 de Mayo vs FC Nacional Asuncion 04:30 ngày 01/04 Paraguayan Primera Division", Club Sportivo 2 de Mayo vs FC Nacional Asuncion 04:30 ngày 01/04 Paraguayan Primera Division
+https://live.alilicloud.com/live/f55ad1b9ddcaeced278b5104692cbbf2/playlist.m3u8
+#EXTINF:-1 tvg-id="601338367" group-title="Juventude vs Gremio Novorizontino 04:30 ngày 01/04 Brazilian Serie B", Juventude vs Gremio Novorizontino 04:30 ngày 01/04 Brazilian Serie B
+https://live.alilicloud.com/live/e89f81f98aca21846cd2f4acbed34d72/playlist.m3u8
