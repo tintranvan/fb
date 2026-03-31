@@ -1,34 +1,54 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601336912" group-title="South Melbourne vs Dandenong City SC 15:30 ngày 31/03 National Premier Leagues Victoria", South Melbourne vs Dandenong City SC 15:30 ngày 31/03 National Premier Leagues Victoria (Link 1)
-https://cdn-hls.taoxanh.biz/live/69cb7d4a65106_72787/index.m3u8?expire=1775548362&amp;sign=b9766e01609ed3f4c8f4c1176e10a1c1
-#EXTINF:-1 tvg-id="601336912" group-title="South Melbourne vs Dandenong City SC 15:30 ngày 31/03 National Premier Leagues Victoria", South Melbourne vs Dandenong City SC 15:30 ngày 31/03 National Premier Leagues Victoria (Link 2)
-https://live.alilicloud.com/live/f6c1000b0d8fc69013a330218233f0d1/playlist.m3u8
-#EXTINF:-1 tvg-id="601336912" group-title="South Melbourne vs Dandenong City SC 15:30 ngày 31/03 National Premier Leagues Victoria", South Melbourne vs Dandenong City SC 15:30 ngày 31/03 National Premier Leagues Victoria (Link 3)
-https://cdn-hls.taoxanh.biz/live/69cb7d4a65106_72787/index.m3u8?expire=1775548362&sign=b9766e01609ed3f4c8f4c1176e10a1c1
 #EXTINF:-1 tvg-id="601336915" group-title="Pakistan vs Myanmar 16:00 ngày 31/03 AFC Asian Cup", Pakistan vs Myanmar 16:00 ngày 31/03 AFC Asian Cup (Link 1)
 https://cdn-hls.taoxanh.biz/live/69cb874665106_4908/index.m3u8?expire=1775550918&amp;sign=a774df2bf2801a99853e485eed32740d
 #EXTINF:-1 tvg-id="601336915" group-title="Pakistan vs Myanmar 16:00 ngày 31/03 AFC Asian Cup", Pakistan vs Myanmar 16:00 ngày 31/03 AFC Asian Cup (Link 2)
 https://live.alilicloud.com/live/c606a20f2c40ab71a02ced005d29e992/playlist.m3u8
 #EXTINF:-1 tvg-id="601336915" group-title="Pakistan vs Myanmar 16:00 ngày 31/03 AFC Asian Cup", Pakistan vs Myanmar 16:00 ngày 31/03 AFC Asian Cup (Link 3)
 https://cdn-hls.taoxanh.biz/live/69cb874665106_4908/index.m3u8?expire=1775550918&sign=a774df2bf2801a99853e485eed32740d
-#EXTINF:-1 tvg-id="601352230" group-title="Yangzi Liu vs Xiaona SHAN 16:00 ngày 31/03 ITTF Men’s &amp; Women’s World Cup Macao 2026 Presented", Yangzi Liu vs Xiaona SHAN 16:00 ngày 31/03 ITTF Men’s &amp; Women’s World Cup Macao 2026 Presented (Link 1)
+#EXTINF:-1 tvg-id="601336942" group-title="Maldives vs Timor Leste 17:30 ngày 31/03 AFC Asian Cup", Maldives vs Timor Leste 17:30 ngày 31/03 AFC Asian Cup (Link 1)
+https://cdn-hls.taoxanh.biz/live/69cb975671c67_88642/index.m3u8?expire=1775555030&amp;sign=cb015c8b493a672d8f4df30ccf66696e
+#EXTINF:-1 tvg-id="601336942" group-title="Maldives vs Timor Leste 17:30 ngày 31/03 AFC Asian Cup", Maldives vs Timor Leste 17:30 ngày 31/03 AFC Asian Cup (Link 2)
+https://live.alilicloud.com/live/114ffbb008d392b7e4eae404cd3287cb/playlist.m3u8
+#EXTINF:-1 tvg-id="601336942" group-title="Maldives vs Timor Leste 17:30 ngày 31/03 AFC Asian Cup", Maldives vs Timor Leste 17:30 ngày 31/03 AFC Asian Cup (Link 3)
+https://cdn-hls.taoxanh.biz/live/69cb975671c67_88642/index.m3u8?expire=1775555030&sign=cb015c8b493a672d8f4df30ccf66696e
+#EXTINF:-1 tvg-id="601336945" group-title="Chinese Taipei vs Sri Lanka 17:30 ngày 31/03 AFC Asian Cup", Chinese Taipei vs Sri Lanka 17:30 ngày 31/03 AFC Asian Cup (Link 1)
+https://cdn-hls.taoxanh.biz/live/69cb996935361_103/index.m3u8?expire=1775555561&amp;sign=803f481199ac6e3869f38b6c091bd44a
+#EXTINF:-1 tvg-id="601336945" group-title="Chinese Taipei vs Sri Lanka 17:30 ngày 31/03 AFC Asian Cup", Chinese Taipei vs Sri Lanka 17:30 ngày 31/03 AFC Asian Cup (Link 2)
+https://live.alilicloud.com/live/1c0fc05848f30e6e01d64fffc1492288/playlist.m3u8
+#EXTINF:-1 tvg-id="601336945" group-title="Chinese Taipei vs Sri Lanka 17:30 ngày 31/03 AFC Asian Cup", Chinese Taipei vs Sri Lanka 17:30 ngày 31/03 AFC Asian Cup (Link 3)
+https://cdn-hls.taoxanh.biz/live/69cb996935361_103/index.m3u8?expire=1775555561&sign=803f481199ac6e3869f38b6c091bd44a
+#EXTINF:-1 tvg-id="601352230" group-title="ZENG Jian vs Linda BERGSTROM 17:25 ngày 31/03 ITTF Men’s &amp; Women’s World Cup Macao 2026 Presented", ZENG Jian vs Linda BERGSTROM 17:25 ngày 31/03 ITTF Men’s &amp; Women’s World Cup Macao 2026 Presented (Link 1)
 https://cdn-hls.taoxanh.biz/live/69cb894f65106_42127/index.m3u8?expire=1775551439&amp;sign=937c866d98c3f5ab7caa3569eec71475
-#EXTINF:-1 tvg-id="601352230" group-title="Yangzi Liu vs Xiaona SHAN 16:00 ngày 31/03 ITTF Men’s &amp; Women’s World Cup Macao 2026 Presented", Yangzi Liu vs Xiaona SHAN 16:00 ngày 31/03 ITTF Men’s &amp; Women’s World Cup Macao 2026 Presented (Link 2)
+#EXTINF:-1 tvg-id="601352230" group-title="ZENG Jian vs Linda BERGSTROM 17:25 ngày 31/03 ITTF Men’s &amp; Women’s World Cup Macao 2026 Presented", ZENG Jian vs Linda BERGSTROM 17:25 ngày 31/03 ITTF Men’s &amp; Women’s World Cup Macao 2026 Presented (Link 2)
 https://cdn-hls.taoxanh.biz/live/69cb894f65106_42127/index.m3u8?expire=1775551439&sign=937c866d98c3f5ab7caa3569eec71475
-#EXTINF:-1 tvg-id="601352416" group-title="Alexis LEBRUN vs LAM Siu Hang 16:00 ngày 31/03 ITTF Men’s &amp; Women’s World Cup Macao 2026 Presented", Alexis LEBRUN vs LAM Siu Hang 16:00 ngày 31/03 ITTF Men’s &amp; Women’s World Cup Macao 2026 Presented (Link 1)
+#EXTINF:-1 tvg-id="601352416" group-title="Truls MOREGARD vs PARK Ganghyeon 17:30 ngày 31/03 ITTF Men’s &amp; Women’s World Cup Macao 2026 Presented", Truls MOREGARD vs PARK Ganghyeon 17:30 ngày 31/03 ITTF Men’s &amp; Women’s World Cup Macao 2026 Presented (Link 1)
 https://cdn-hls.taoxanh.biz/live/69cb8bcc4b878_112310/index.m3u8?expire=1775552076&amp;sign=2702302979dfa5c2533cd8fec3e8a470
-#EXTINF:-1 tvg-id="601352416" group-title="Alexis LEBRUN vs LAM Siu Hang 16:00 ngày 31/03 ITTF Men’s &amp; Women’s World Cup Macao 2026 Presented", Alexis LEBRUN vs LAM Siu Hang 16:00 ngày 31/03 ITTF Men’s &amp; Women’s World Cup Macao 2026 Presented (Link 2)
+#EXTINF:-1 tvg-id="601352416" group-title="Truls MOREGARD vs PARK Ganghyeon 17:30 ngày 31/03 ITTF Men’s &amp; Women’s World Cup Macao 2026 Presented", Truls MOREGARD vs PARK Ganghyeon 17:30 ngày 31/03 ITTF Men’s &amp; Women’s World Cup Macao 2026 Presented (Link 2)
 https://cdn-hls.taoxanh.biz/live/69cb8bcc4b878_112310/index.m3u8?expire=1775552076&sign=2702302979dfa5c2533cd8fec3e8a470
-#EXTINF:-1 tvg-id="601330819" group-title="Queanbeyan City vs Canberra FC 15:40 ngày 31/03 Australia National Premier Leagues Capital Football 1", Queanbeyan City vs Canberra FC 15:40 ngày 31/03 Australia National Premier Leagues Capital Football 1
-https://live.alilicloud.com/live/bff73ae794d4a1f3d0faed68d92cc02f/playlist.m3u8
 #EXTINF:-1 tvg-id="601336918" group-title="Australia vs Curacao 16:10 ngày 31/03 FIFA Series", Australia vs Curacao 16:10 ngày 31/03 FIFA Series
 https://live.alilicloud.com/live/2c3354c394b9c3f407087525f06c361c/playlist.m3u8
 #EXTINF:-1 tvg-id="601350436" group-title="Sunshine Coast Wanderers (w) vs Eastern Suburbs SC (w) 16:30 ngày 31/03 Australia Queensland State Women's League", Sunshine Coast Wanderers (w) vs Eastern Suburbs SC (w) 16:30 ngày 31/03 Australia Queensland State Women's League
 https://live.alilicloud.com/live/457d6af3649138fd989010514f562450/playlist.m3u8
-#EXTINF:-1 tvg-id="601336942" group-title="Maldives vs Timor Leste 17:30 ngày 31/03 AFC Asian Cup", Maldives vs Timor Leste 17:30 ngày 31/03 AFC Asian Cup (Link 1)
-https://cdn-hls.taoxanh.biz/live/69cb975671c67_88642/index.m3u8?expire=1775555030&amp;sign=cb015c8b493a672d8f4df30ccf66696e
-#EXTINF:-1 tvg-id="601336942" group-title="Maldives vs Timor Leste 17:30 ngày 31/03 AFC Asian Cup", Maldives vs Timor Leste 17:30 ngày 31/03 AFC Asian Cup (Link 2)
-https://cdn-hls.taoxanh.biz/live/69cb975671c67_88642/index.m3u8?expire=1775555030&sign=cb015c8b493a672d8f4df30ccf66696e
+#EXTINF:-1 tvg-id="601336924" group-title="France U19 vs Croatia U19 17:00 ngày 31/03 UEFA European U19 Football Championship", France U19 vs Croatia U19 17:00 ngày 31/03 UEFA European U19 Football Championship
+https://live.alilicloud.com/live/e4a7c881afbe08f4e12d98f3a65b6c17/playlist.m3u8
+#EXTINF:-1 tvg-id="601336930" group-title="Finland U19 vs Czechia Republic U19 17:00 ngày 31/03 UEFA European U19 Football Championship", Finland U19 vs Czechia Republic U19 17:00 ngày 31/03 UEFA European U19 Football Championship
+https://live.alilicloud.com/live/102997ac9330e1341aaf9013bddf4942/playlist.m3u8
+#EXTINF:-1 tvg-id="601336939" group-title="Romania U19 vs Denmark U19 17:00 ngày 31/03 UEFA European U19 Football Championship", Romania U19 vs Denmark U19 17:00 ngày 31/03 UEFA European U19 Football Championship
+https://live.alilicloud.com/live/bf8edf19bf59e09e8d138001a44cdb1a/playlist.m3u8
+#EXTINF:-1 tvg-id="601350442" group-title="Brisbane City (w) vs Capalaba (w) 17:15 ngày 31/03 Australia Queensland State Women's League", Brisbane City (w) vs Capalaba (w) 17:15 ngày 31/03 Australia Queensland State Women's League
+https://live.alilicloud.com/live/ea48344e56129208b97114ec4bf1a021/playlist.m3u8
+#EXTINF:-1 tvg-id="601350445" group-title="Gold Coast Knights (w) vs Gold Coast United Women 17:15 ngày 31/03 Australia Queensland State Women's League", Gold Coast Knights (w) vs Gold Coast United Women 17:15 ngày 31/03 Australia Queensland State Women's League
+https://live.alilicloud.com/live/4d37431f95b11affc4cbbcc2d42f7ab6/playlist.m3u8
+#EXTINF:-1 tvg-id="601350448" group-title="Souths United SC (w) vs Queensland Lions (w) 17:15 ngày 31/03 Australia Queensland State Women's League", Souths United SC (w) vs Queensland Lions (w) 17:15 ngày 31/03 Australia Queensland State Women's League
+https://live.alilicloud.com/live/2c74520362618dce9be45849ba90d239/playlist.m3u8
+#EXTINF:-1 tvg-id="601337014" group-title="Gokulam Kerala FC vs Aizawl FC 17:30 ngày 31/03 Indian League Division 1", Gokulam Kerala FC vs Aizawl FC 17:30 ngày 31/03 Indian League Division 1
+https://live.alilicloud.com/live/282475d746b08cc741f389bc5ec3face/playlist.m3u8
+#EXTINF:-1 tvg-id="601339360" group-title="Switzerland U20 vs Romania U20 17:30 ngày 31/03 Elite League U20", Switzerland U20 vs Romania U20 17:30 ngày 31/03 Elite League U20
+https://live.alilicloud.com/live/c5b5b777e646bd968cf947cd3b0b5589/playlist.m3u8
+#EXTINF:-1 tvg-id="601337005" group-title="Bhutan vs Brunei Darussalam 19:30 ngày 31/03 AFC Asian Cup", Bhutan vs Brunei Darussalam 19:30 ngày 31/03 AFC Asian Cup (Link 1)
+https://cdn-hls.taoxanh.biz/live/69cba2f971c67_124958/index.m3u8?expire=1775558009&amp;sign=ae2171acd7683a8146cadbcdf15b746b
+#EXTINF:-1 tvg-id="601337005" group-title="Bhutan vs Brunei Darussalam 19:30 ngày 31/03 AFC Asian Cup", Bhutan vs Brunei Darussalam 19:30 ngày 31/03 AFC Asian Cup (Link 2)
+https://cdn-hls.taoxanh.biz/live/69cba2f971c67_124958/index.m3u8?expire=1775558009&sign=ae2171acd7683a8146cadbcdf15b746b
 #EXTINF:-1 tvg-id="601334572" group-title="Club Atletico Progreso vs Liverpool URU 20:55 ngày 31/03 Uruguay Primera Division", Club Atletico Progreso vs Liverpool URU 20:55 ngày 31/03 Uruguay Primera Division (Link 1)
 https://cdn-hls.taoxanh.biz/live/69c9173f65105_74012/index.m3u8?expire=1775391167&amp;sign=e079667f073015dab501eb5b38a8e40a
 #EXTINF:-1 tvg-id="601334572" group-title="Club Atletico Progreso vs Liverpool URU 20:55 ngày 31/03 Uruguay Primera Division", Club Atletico Progreso vs Liverpool URU 20:55 ngày 31/03 Uruguay Primera Division (Link 2)
