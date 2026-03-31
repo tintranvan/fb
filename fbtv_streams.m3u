@@ -1,22 +1,20 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601336906" group-title="Cameroon vs China 13:00 ngày 31/03 FIFA Series", Cameroon vs China 13:00 ngày 31/03 FIFA Series (Link 1)
-https://cdn-hls.taoxanh.biz/live/69cb54a94b878_95554/index.m3u8?expire=1775537961&amp;sign=e9d315370a707ce8d8f9e49bbc3c214e
-#EXTINF:-1 tvg-id="601336906" group-title="Cameroon vs China 13:00 ngày 31/03 FIFA Series", Cameroon vs China 13:00 ngày 31/03 FIFA Series (Link 2)
-https://live.alilicloud.com/live/5c453a75dceef5c215b2d875a2097493/playlist.m3u8
-#EXTINF:-1 tvg-id="601336906" group-title="Cameroon vs China 13:00 ngày 31/03 FIFA Series", Cameroon vs China 13:00 ngày 31/03 FIFA Series (Link 3)
-https://cdn-hls.taoxanh.biz/live/69cb54a94b878_95554/index.m3u8?expire=1775537961&sign=e9d315370a707ce8d8f9e49bbc3c214e
 #EXTINF:-1 tvg-id="601336909" group-title="North Korea U23 vs Thailand U23 14:00 ngày 31/03 CFA Team China International Tournament", North Korea U23 vs Thailand U23 14:00 ngày 31/03 CFA Team China International Tournament (Link 1)
 https://cdn-hls.taoxanh.biz/live/69cb6c454b878_88186/index.m3u8?expire=1775544005&amp;sign=a7630bfdddaffa203fc17e09b33133df
 #EXTINF:-1 tvg-id="601336909" group-title="North Korea U23 vs Thailand U23 14:00 ngày 31/03 CFA Team China International Tournament", North Korea U23 vs Thailand U23 14:00 ngày 31/03 CFA Team China International Tournament (Link 2)
 https://cdn-hls.taoxanh.biz/live/69cb6c454b878_88186/index.m3u8?expire=1775544005&sign=a7630bfdddaffa203fc17e09b33133df
-#EXTINF:-1 tvg-id="601352350" group-title="Waribo FC vs Persiker Keerom 13:00 ngày 31/03 Indo D4", Waribo FC vs Persiker Keerom 13:00 ngày 31/03 Indo D4
-https://live.alilicloud.com/live/6aa144f53b58ba5e6dd0807ad78957a0/playlist.m3u8
-#EXTINF:-1 tvg-id="601352353" group-title="PSPP Padang Panjang vs PSLA Sicincin 13:00 ngày 31/03 Indo D4", PSPP Padang Panjang vs PSLA Sicincin 13:00 ngày 31/03 Indo D4
-https://live.alilicloud.com/live/644bb7bbe38803cac50e69b5a0c84d7a/playlist.m3u8
-#EXTINF:-1 tvg-id="601352269" group-title="Queanbeyan City U23 vs Canberra Croatia FC U23 13:30 ngày 31/03 Australia Capital Territory U23 League", Queanbeyan City U23 vs Canberra Croatia FC U23 13:30 ngày 31/03 Australia Capital Territory U23 League
-https://live.alilicloud.com/live/ffad3795f254deaa02114ad857b0d136/playlist.m3u8
+#EXTINF:-1 tvg-id="601336912" group-title="South Melbourne vs Dandenong City SC 15:30 ngày 31/03 National Premier Leagues Victoria", South Melbourne vs Dandenong City SC 15:30 ngày 31/03 National Premier Leagues Victoria (Link 1)
+https://cdn-hls.taoxanh.biz/live/69cb7d4a65106_72787/index.m3u8?expire=1775548362&amp;sign=b9766e01609ed3f4c8f4c1176e10a1c1
+#EXTINF:-1 tvg-id="601336912" group-title="South Melbourne vs Dandenong City SC 15:30 ngày 31/03 National Premier Leagues Victoria", South Melbourne vs Dandenong City SC 15:30 ngày 31/03 National Premier Leagues Victoria (Link 2)
+https://live.alilicloud.com/live/f6c1000b0d8fc69013a330218233f0d1/playlist.m3u8
+#EXTINF:-1 tvg-id="601336912" group-title="South Melbourne vs Dandenong City SC 15:30 ngày 31/03 National Premier Leagues Victoria", South Melbourne vs Dandenong City SC 15:30 ngày 31/03 National Premier Leagues Victoria (Link 3)
+https://cdn-hls.taoxanh.biz/live/69cb7d4a65106_72787/index.m3u8?expire=1775548362&sign=b9766e01609ed3f4c8f4c1176e10a1c1
 #EXTINF:-1 tvg-id="601352242" group-title="Garhwal Diamond vs National United SC 14:30 ngày 31/03 IND DSD", Garhwal Diamond vs National United SC 14:30 ngày 31/03 IND DSD
 https://live.alilicloud.com/live/fdf622009497a3a13012c2d330761318/playlist.m3u8
+#EXTINF:-1 tvg-id="601336957" group-title="China U23 vs Vietnam U23 18:35 ngày 31/03 CFA Team China International Tournament", China U23 vs Vietnam U23 18:35 ngày 31/03 CFA Team China International Tournament
+https://cdn-hls.taoxanh.biz/live/69cb874665106_4908/index.m3u8?expire=1775550918&sign=a774df2bf2801a99853e485eed32740d
+#EXTINF:-1 tvg-id="601336915" group-title="Pakistan vs Myanmar 16:00 ngày 31/03 AFC Asian Cup", Pakistan vs Myanmar 16:00 ngày 31/03 AFC Asian Cup
+https://cdn-hls.taoxanh.biz/live/69cb874665106_4908/index.m3u8?expire=1775550918&amp;sign=a774df2bf2801a99853e485eed32740d
 #EXTINF:-1 tvg-id="601334572" group-title="Club Atletico Progreso vs Liverpool URU 20:55 ngày 31/03 Uruguay Primera Division", Club Atletico Progreso vs Liverpool URU 20:55 ngày 31/03 Uruguay Primera Division (Link 1)
 https://cdn-hls.taoxanh.biz/live/69c9173f65105_74012/index.m3u8?expire=1775391167&amp;sign=e079667f073015dab501eb5b38a8e40a
 #EXTINF:-1 tvg-id="601334572" group-title="Club Atletico Progreso vs Liverpool URU 20:55 ngày 31/03 Uruguay Primera Division", Club Atletico Progreso vs Liverpool URU 20:55 ngày 31/03 Uruguay Primera Division (Link 2)
