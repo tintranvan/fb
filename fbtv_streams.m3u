@@ -23,12 +23,6 @@ https://cdn-hls.taoxanh.biz/live/69cc0b1671c67_79/index.m3u8?expire=1775584662&a
 https://live.alilicloud.com/live/d1c6b114a22110a090ee988b842c75b3/playlist.m3u8
 #EXTINF:-1 tvg-id="601338337" group-title="Spain vs Egypt 02:00 ngày 01/04 International Friendly", Spain vs Egypt 02:00 ngày 01/04 International Friendly (Link 3)
 https://cdn-hls.taoxanh.biz/live/69cc0b1671c67_79/index.m3u8?expire=1775584662&sign=90ea2728de75293b0abbc1be3a59e46c
-#EXTINF:-1 tvg-id="601338235" group-title="Morocco vs Paraguay 01:00 ngày 01/04 International Friendly", Morocco vs Paraguay 01:00 ngày 01/04 International Friendly (Link 1)
-https://cdn-hls.taoxanh.biz/live/69cc034071c67_88642/index.m3u8?expire=1775582656&amp;sign=412694220b7fee4893c5b73941565e48
-#EXTINF:-1 tvg-id="601338235" group-title="Morocco vs Paraguay 01:00 ngày 01/04 International Friendly", Morocco vs Paraguay 01:00 ngày 01/04 International Friendly (Link 2)
-https://live.alilicloud.com/live/bfe38ec2552368168c2fee7e5af8a31c/playlist.m3u8
-#EXTINF:-1 tvg-id="601338235" group-title="Morocco vs Paraguay 01:00 ngày 01/04 International Friendly", Morocco vs Paraguay 01:00 ngày 01/04 International Friendly (Link 3)
-https://cdn-hls.taoxanh.biz/live/69cc034071c67_88642/index.m3u8?expire=1775582656&sign=412694220b7fee4893c5b73941565e48
 #EXTINF:-1 tvg-id="601338274" group-title="Scotland vs Cote d'Ivoire 01:30 ngày 01/04 International Friendly", Scotland vs Cote d'Ivoire 01:30 ngày 01/04 International Friendly (Link 1)
 https://cdn-hls.taoxanh.biz/live/69cbfd0e71c67_103/index.m3u8?expire=1775581070&amp;sign=897feebc9d249ddb242cca5f4090d442
 #EXTINF:-1 tvg-id="601338274" group-title="Scotland vs Cote d'Ivoire 01:30 ngày 01/04 International Friendly", Scotland vs Cote d'Ivoire 01:30 ngày 01/04 International Friendly (Link 2)
@@ -65,31 +59,21 @@ https://cdn-hls.taoxanh.biz/live/69cc0c0b968e6_44731/index.m3u8?expire=177558490
 https://live.alilicloud.com/live/6c0c1048e7f081acb41096945b81d2db/playlist.m3u8
 #EXTINF:-1 tvg-id="601341058" group-title="Czech vs Denmark 01:45 ngày 01/04 FIFA World Cup qualification (UEFA)", Czech vs Denmark 01:45 ngày 01/04 FIFA World Cup qualification (UEFA) (Link 3)
 https://cdn-hls.taoxanh.biz/live/69cc0c0b968e6_44731/index.m3u8?expire=1775584907&sign=aca46eb73d7dd4edeb00bff53d77e127
-#EXTINF:-1 tvg-id="601338250" group-title="Deportivo Riestra Reserves vs Newell's Reserves 01:00 ngày 01/04 Argentine Reserve League", Deportivo Riestra Reserves vs Newell's Reserves 01:00 ngày 01/04 Argentine Reserve League
-https://live.alilicloud.com/live/42927996f22c22981604d2cf8b2f0cba/playlist.m3u8
-#EXTINF:-1 tvg-id="601338247" group-title="Colon Reserves vs Atletico Rafaela Reserves 01:00 ngày 01/04 Argentine Reserve League", Colon Reserves vs Atletico Rafaela Reserves 01:00 ngày 01/04 Argentine Reserve League
-https://live.alilicloud.com/live/50a17f6c2c966891014d824ab970677c/playlist.m3u8
-#EXTINF:-1 tvg-id="601338244" group-title="Belgrano Reserves vs Lanus Reserves 01:00 ngày 01/04 Argentine Reserve League", Belgrano Reserves vs Lanus Reserves 01:00 ngày 01/04 Argentine Reserve League
-https://live.alilicloud.com/live/e25e6e70c2d0e8f0a62a91281cb03689/playlist.m3u8
-#EXTINF:-1 tvg-id="601338226" group-title="Deportivo La Coruna vs Cordoba 01:00 ngày 01/04 Spanish Segunda Division", Deportivo La Coruna vs Cordoba 01:00 ngày 01/04 Spanish Segunda Division
-https://live.alilicloud.com/live/0d5c6e4e624799fece5462a8fab506f9/playlist.m3u8
-#EXTINF:-1 tvg-id="601338220" group-title="Switzerland U21 vs Estonia U21 01:00 ngày 01/04 UEFA European U21 Championship qualification", Switzerland U21 vs Estonia U21 01:00 ngày 01/04 UEFA European U21 Championship qualification
-https://live.alilicloud.com/live/e0c2fe6bf3d5722ead08fe138f788c0f/playlist.m3u8
-#EXTINF:-1 tvg-id="601338253" group-title="Independiente Rivadavia Reserves vs Defensa y Justicia Reserves 01:00 ngày 01/04 Argentine Reserve League", Independiente Rivadavia Reserves vs Defensa y Justicia Reserves 01:00 ngày 01/04 Argentine Reserve League
-https://live.alilicloud.com/live/55c8227ac866dda70104ed47cdb82f50/playlist.m3u8
-#EXTINF:-1 tvg-id="601338256" group-title="Platense Reserves vs CA Independiente Reserves 01:00 ngày 01/04 Argentine Reserve League", Platense Reserves vs CA Independiente Reserves 01:00 ngày 01/04 Argentine Reserve League
-https://live.alilicloud.com/live/cf21a3ba73c77aa6d7a7e48c07b27db0/playlist.m3u8
-#EXTINF:-1 tvg-id="601338265" group-title="Portugal U21 vs Scotland U21 01:30 ngày 01/04 UEFA European U21 Championship qualification", Portugal U21 vs Scotland U21 01:30 ngày 01/04 UEFA European U21 Championship qualification
-https://live.alilicloud.com/live/91a40c591bc238a743d301036f04412a/playlist.m3u8
-#EXTINF:-1 tvg-id="601347325" group-title="Wales vs Northern Ireland 01:45 ngày 01/04 International Club Friendly", Wales vs Northern Ireland 01:45 ngày 01/04 International Club Friendly
-https://live.alilicloud.com/live/7079873699639ba68f47c6eafe74ad70/playlist.m3u8
 #EXTINF:-1 tvg-id="601347328" group-title="Slovakia vs Romania 01:45 ngày 01/04 International Club Friendly", Slovakia vs Romania 01:45 ngày 01/04 International Club Friendly
 https://live.alilicloud.com/live/e08f3ec3bc5c47a1bc7bff4064517873/playlist.m3u8
+#EXTINF:-1 tvg-id="601347325" group-title="Wales vs Northern Ireland 01:45 ngày 01/04 International Club Friendly", Wales vs Northern Ireland 01:45 ngày 01/04 International Club Friendly
+https://live.alilicloud.com/live/7079873699639ba68f47c6eafe74ad70/playlist.m3u8
 #EXTINF:-1 tvg-id="601347322" group-title="Ireland vs North Macedonia 01:45 ngày 01/04 International Club Friendly", Ireland vs North Macedonia 01:45 ngày 01/04 International Club Friendly
 https://live.alilicloud.com/live/e777eb1cbf3fa88a65874dbc1e81c111/playlist.m3u8
 #EXTINF:-1 tvg-id="601347319" group-title="Ukraine vs Albania 01:45 ngày 01/04 International Friendly", Ukraine vs Albania 01:45 ngày 01/04 International Friendly
 https://live.alilicloud.com/live/d41e568070ef6643393c2d58ef4b1539/playlist.m3u8
 #EXTINF:-1 tvg-id="601338340" group-title="Real Valladolid CF vs Cadiz 02:30 ngày 01/04 Spanish Segunda Division", Real Valladolid CF vs Cadiz 02:30 ngày 01/04 Spanish Segunda Division
 https://live.alilicloud.com/live/8a505d4a5de44746f1219674d73fc0ee/playlist.m3u8
+#EXTINF:-1 tvg-id="601343890" group-title="Independiente Medellin (w) vs Deportivo Pasto s (W) 03:00 ngày 01/04 Colombian Liga Betplay Femenina", Independiente Medellin (w) vs Deportivo Pasto s (W) 03:00 ngày 01/04 Colombian Liga Betplay Femenina
+https://live.alilicloud.com/live/2162d58a1a0fc0466d6269936f497a5f/playlist.m3u8
+#EXTINF:-1 tvg-id="601338358" group-title="Real Santander vs Envigado FC 03:00 ngày 01/04 Colombian Torneo BetPlay Dimayor", Real Santander vs Envigado FC 03:00 ngày 01/04 Colombian Torneo BetPlay Dimayor
+https://live.alilicloud.com/live/d704e52efd666886af02b405c6679b03/playlist.m3u8
+#EXTINF:-1 tvg-id="601338355" group-title="Tigres Zipaquira vs Barranquilla FC 03:00 ngày 01/04 Colombian Torneo BetPlay Dimayor", Tigres Zipaquira vs Barranquilla FC 03:00 ngày 01/04 Colombian Torneo BetPlay Dimayor
+https://live.alilicloud.com/live/76d456f06a28524c89874adbcd85eaf9/playlist.m3u8
 #EXTINF:-1 tvg-id="601338349" group-title="Democratic Republic of the Congo vs Jamaica 04:00 ngày 01/04 FIFA World Cup (Inter-confederation Play-offs)", Democratic Republic of the Congo vs Jamaica 04:00 ngày 01/04 FIFA World Cup (Inter-confederation Play-offs)
 https://live.alilicloud.com/live/ff9d9da064d17ad3fdb9e2f0e75ed305/playlist.m3u8
