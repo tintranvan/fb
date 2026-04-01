@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601339453" group-title="Andorra CF vs Malaga 00:00 ngày 02/04 Spanish Segunda Division", Andorra CF vs Malaga 00:00 ngày 02/04 Spanish Segunda Division (Link 1)
-https://cdn-hls.taoxanh.biz/live/69cd47ff314c5_151255/index.m3u8?expire=1775665791&amp;sign=89ae10a1eeebdf30a0c6764209f6def5
-#EXTINF:-1 tvg-id="601339453" group-title="Andorra CF vs Malaga 00:00 ngày 02/04 Spanish Segunda Division", Andorra CF vs Malaga 00:00 ngày 02/04 Spanish Segunda Division (Link 2)
-https://live.alilicloud.com/live/cb0996ac37182d6f579b857d83d0b389/playlist.m3u8
-#EXTINF:-1 tvg-id="601339453" group-title="Andorra CF vs Malaga 00:00 ngày 02/04 Spanish Segunda Division", Andorra CF vs Malaga 00:00 ngày 02/04 Spanish Segunda Division (Link 3)
-https://cdn-hls.taoxanh.biz/live/69cd47ff314c5_151255/index.m3u8?expire=1775665791&sign=89ae10a1eeebdf30a0c6764209f6def5
 #EXTINF:-1 tvg-id="601339531" group-title="Burgos CF vs AD Ceuta 01:00 ngày 02/04 Spanish Segunda Division", Burgos CF vs AD Ceuta 01:00 ngày 02/04 Spanish Segunda Division (Link 1)
 https://cdn-hls.taoxanh.biz/live/69cd563a968e8_136682/index.m3u8?expire=1775669434&amp;sign=050919b83272ec623fe5f3e87a8e8fc8
 #EXTINF:-1 tvg-id="601339531" group-title="Burgos CF vs AD Ceuta 01:00 ngày 02/04 Spanish Segunda Division", Burgos CF vs AD Ceuta 01:00 ngày 02/04 Spanish Segunda Division (Link 2)
@@ -17,6 +11,18 @@ https://cdn-hls.taoxanh.biz/live/69cd516d314c5_88186/index.m3u8?expire=177566820
 https://live.alilicloud.com/live/4493acf057489d45976bd58de8af961d/playlist.m3u8
 #EXTINF:-1 tvg-id="601339534" group-title="SD Huesca vs Cultural Leonesa 01:00 ngày 02/04 Spanish Segunda Division", SD Huesca vs Cultural Leonesa 01:00 ngày 02/04 Spanish Segunda Division (Link 3)
 https://cdn-hls.taoxanh.biz/live/69cd516d314c5_88186/index.m3u8?expire=1775668205&sign=cc1c612bccbff8b90f2a429e39e26fc4
+#EXTINF:-1 tvg-id="601339687" group-title="Chelsea FC (w) vs Arsenal (w) 02:00 ngày 02/04 UEFA Women's Champions League", Chelsea FC (w) vs Arsenal (w) 02:00 ngày 02/04 UEFA Women's Champions League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69cd6017968e8_79/index.m3u8?expire=1775671959&amp;sign=9a40aeb8fa57c522c3ac7cbe96408b5c
+#EXTINF:-1 tvg-id="601339687" group-title="Chelsea FC (w) vs Arsenal (w) 02:00 ngày 02/04 UEFA Women's Champions League", Chelsea FC (w) vs Arsenal (w) 02:00 ngày 02/04 UEFA Women's Champions League (Link 2)
+https://live.alilicloud.com/live/b623fbcfb321ef34980d7410095c0956/playlist.m3u8
+#EXTINF:-1 tvg-id="601339687" group-title="Chelsea FC (w) vs Arsenal (w) 02:00 ngày 02/04 UEFA Women's Champions League", Chelsea FC (w) vs Arsenal (w) 02:00 ngày 02/04 UEFA Women's Champions League (Link 3)
+https://cdn-hls.taoxanh.biz/live/69cd6017968e8_79/index.m3u8?expire=1775671959&sign=9a40aeb8fa57c522c3ac7cbe96408b5c
+#EXTINF:-1 tvg-id="601339690" group-title="Racing Santander vs Sporting Gijon 02:30 ngày 02/04 Spanish Segunda Division", Racing Santander vs Sporting Gijon 02:30 ngày 02/04 Spanish Segunda Division (Link 1)
+https://cdn-hls.taoxanh.biz/live/69cd69da314c5_128756/index.m3u8?expire=1775674458&amp;sign=f104aa4c58bd530d71f49c7be4eb0ef3
+#EXTINF:-1 tvg-id="601339690" group-title="Racing Santander vs Sporting Gijon 02:30 ngày 02/04 Spanish Segunda Division", Racing Santander vs Sporting Gijon 02:30 ngày 02/04 Spanish Segunda Division (Link 2)
+https://live.alilicloud.com/live/c1f3d79ce6873c6ccedc0b64afaf603f/playlist.m3u8
+#EXTINF:-1 tvg-id="601339690" group-title="Racing Santander vs Sporting Gijon 02:30 ngày 02/04 Spanish Segunda Division", Racing Santander vs Sporting Gijon 02:30 ngày 02/04 Spanish Segunda Division (Link 3)
+https://cdn-hls.taoxanh.biz/live/69cd69da314c5_128756/index.m3u8?expire=1775674458&sign=f104aa4c58bd530d71f49c7be4eb0ef3
 #EXTINF:-1 tvg-id="601353694" group-title="Skyler Woodward vs Jayson Shaw 01:00 ngày 02/04 Predator Pro Billiard Series Saint Louis 2026", Skyler Woodward vs Jayson Shaw 01:00 ngày 02/04 Predator Pro Billiard Series Saint Louis 2026 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69cd1d92164c4_103/index.m3u8?expire=1775654930&amp;sign=b27f761aa1bd250acff45314a141a720
 #EXTINF:-1 tvg-id="601353694" group-title="Skyler Woodward vs Jayson Shaw 01:00 ngày 02/04 Predator Pro Billiard Series Saint Louis 2026", Skyler Woodward vs Jayson Shaw 01:00 ngày 02/04 Predator Pro Billiard Series Saint Louis 2026 (Link 2)
@@ -39,9 +45,11 @@ https://live.alilicloud.com/live/38b7c8f76b12a23671f734e2daf23eb9/playlist.m3u8
 https://live.alilicloud.com/live/99fc4fac7d50f9c5040ebe1248643fc7/playlist.m3u8
 #EXTINF:-1 tvg-id="601339639" group-title="Latina Calcio 1932 vs Potenza 01:30 ngày 02/04 Italian Serie C PRO Cup", Latina Calcio 1932 vs Potenza 01:30 ngày 02/04 Italian Serie C PRO Cup
 https://live.alilicloud.com/live/e55cf64904fc091f2a4b679bcfc6d56b/playlist.m3u8
-#EXTINF:-1 tvg-id="601339687" group-title="Chelsea FC (w) vs Arsenal (w) 02:00 ngày 02/04 UEFA Women's Champions League", Chelsea FC (w) vs Arsenal (w) 02:00 ngày 02/04 UEFA Women's Champions League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69cd6017968e8_79/index.m3u8?expire=1775671959&amp;sign=9a40aeb8fa57c522c3ac7cbe96408b5c
-#EXTINF:-1 tvg-id="601339687" group-title="Chelsea FC (w) vs Arsenal (w) 02:00 ngày 02/04 UEFA Women's Champions League", Chelsea FC (w) vs Arsenal (w) 02:00 ngày 02/04 UEFA Women's Champions League (Link 2)
-https://live.alilicloud.com/live/b623fbcfb321ef34980d7410095c0956/playlist.m3u8
-#EXTINF:-1 tvg-id="601339687" group-title="Chelsea FC (w) vs Arsenal (w) 02:00 ngày 02/04 UEFA Women's Champions League", Chelsea FC (w) vs Arsenal (w) 02:00 ngày 02/04 UEFA Women's Champions League (Link 3)
-https://cdn-hls.taoxanh.biz/live/69cd6017968e8_79/index.m3u8?expire=1775671959&sign=9a40aeb8fa57c522c3ac7cbe96408b5c
+#EXTINF:-1 tvg-id="601339654" group-title="Glasgow City (w) vs Hibernian (w) 01:45 ngày 02/04 Scottish Women's Premier League", Glasgow City (w) vs Hibernian (w) 01:45 ngày 02/04 Scottish Women's Premier League
+https://live.alilicloud.com/live/5a60b5abd81588aaec1a4efc8391eda5/playlist.m3u8
+#EXTINF:-1 tvg-id="601339615" group-title="Tigre Reserves vs Godoy Cruz Reserves 02:20 ngày 02/04 Argentine Reserve League", Tigre Reserves vs Godoy Cruz Reserves 02:20 ngày 02/04 Argentine Reserve League
+https://live.alilicloud.com/live/7db76ab68900bee0165482eb064c9b72/playlist.m3u8
+#EXTINF:-1 tvg-id="601339699" group-title="Bogota FC vs Real Soacha Cundinamarca 03:00 ngày 02/04 Colombian Torneo BetPlay Dimayor", Bogota FC vs Real Soacha Cundinamarca 03:00 ngày 02/04 Colombian Torneo BetPlay Dimayor (Link 1)
+https://cdn-hls.taoxanh.biz/live/69cd72aa968e8_151657/index.m3u8?expire=1775676714&amp;sign=4de838e3b8a062d9d8b4c08f92e0070a
+#EXTINF:-1 tvg-id="601339699" group-title="Bogota FC vs Real Soacha Cundinamarca 03:00 ngày 02/04 Colombian Torneo BetPlay Dimayor", Bogota FC vs Real Soacha Cundinamarca 03:00 ngày 02/04 Colombian Torneo BetPlay Dimayor (Link 2)
+https://cdn-hls.taoxanh.biz/live/69cd72aa968e8_151657/index.m3u8?expire=1775676714&sign=4de838e3b8a062d9d8b4c08f92e0070a
