@@ -23,14 +23,12 @@ https://cdn-hls.taoxanh.biz/live/69cd9488beb10_74012/index.m3u8?expire=177568538
 https://live.alilicloud.com/live/d4036123e1f3f9603efd936433049967/playlist.m3u8
 #EXTINF:-1 tvg-id="601341073" group-title="Club Atlético Lanús vs CA Platense 06:00 ngày 02/04 Argentine Division 1", Club Atlético Lanús vs CA Platense 06:00 ngày 02/04 Argentine Division 1 (Link 3)
 https://cdn-hls.taoxanh.biz/live/69cd9488beb10_74012/index.m3u8?expire=1775685384&sign=e5da97588f66096c5cbf2d8925e667b9
-#EXTINF:-1 tvg-id="601353694" group-title="Joshua Filler vs Jayson Shaw 05:00 ngày 02/04 Predator Pro Billiard Series Saint Louis 2026", Joshua Filler vs Jayson Shaw 05:00 ngày 02/04 Predator Pro Billiard Series Saint Louis 2026 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69cd1d92164c4_103/index.m3u8?expire=1775654930&amp;sign=b27f761aa1bd250acff45314a141a720
-#EXTINF:-1 tvg-id="601353694" group-title="Joshua Filler vs Jayson Shaw 05:00 ngày 02/04 Predator Pro Billiard Series Saint Louis 2026", Joshua Filler vs Jayson Shaw 05:00 ngày 02/04 Predator Pro Billiard Series Saint Louis 2026 (Link 2)
-https://cdn-hls.taoxanh.biz/live/69cd1d92164c4_103/index.m3u8?expire=1775654930&sign=b27f761aa1bd250acff45314a141a720
-#EXTINF:-1 tvg-id="601353880" group-title="Roberto Gomez vs Shane Van Boening 05:00 ngày 02/04 Predator Pro Billiard Series Saint Louis 2026", Roberto Gomez vs Shane Van Boening 05:00 ngày 02/04 Predator Pro Billiard Series Saint Louis 2026 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69cd6441968e8_153187/index.m3u8?expire=1775673025&amp;sign=3b65d46150d33435b720e68d92b5cc60
-#EXTINF:-1 tvg-id="601353880" group-title="Roberto Gomez vs Shane Van Boening 05:00 ngày 02/04 Predator Pro Billiard Series Saint Louis 2026", Roberto Gomez vs Shane Van Boening 05:00 ngày 02/04 Predator Pro Billiard Series Saint Louis 2026 (Link 2)
-https://cdn-hls.taoxanh.biz/live/69cd6441968e8_153187/index.m3u8?expire=1775673025&sign=3b65d46150d33435b720e68d92b5cc60
+#EXTINF:-1 tvg-id="601339813" group-title="Independiente Santa Fe vs Llaneros FC 06:30 ngày 02/04 Categoría Primera A", Independiente Santa Fe vs Llaneros FC 06:30 ngày 02/04 Categoría Primera A (Link 1)
+https://cdn-hls.taoxanh.biz/live/69cda2781843c_44731/index.m3u8?expire=1775688952&amp;sign=00ed5e36c8d69c70f43be7fda9b6863e
+#EXTINF:-1 tvg-id="601339813" group-title="Independiente Santa Fe vs Llaneros FC 06:30 ngày 02/04 Categoría Primera A", Independiente Santa Fe vs Llaneros FC 06:30 ngày 02/04 Categoría Primera A (Link 2)
+https://live.alilicloud.com/live/45cea9d8f1cef59639c4cb37303fe6f4/playlist.m3u8
+#EXTINF:-1 tvg-id="601339813" group-title="Independiente Santa Fe vs Llaneros FC 06:30 ngày 02/04 Categoría Primera A", Independiente Santa Fe vs Llaneros FC 06:30 ngày 02/04 Categoría Primera A (Link 3)
+https://cdn-hls.taoxanh.biz/live/69cda2781843c_44731/index.m3u8?expire=1775688952&sign=00ed5e36c8d69c70f43be7fda9b6863e
 #EXTINF:-1 tvg-id="601340296" group-title="Orlando Magic vs Atlanta Hawks 06:00 ngày 02/04 NBA", Orlando Magic vs Atlanta Hawks 06:00 ngày 02/04 NBA (Link 1)
 https://cdn-hls.taoxanh.biz/live/69cd9da3beb10_4733/index.m3u8?expire=1775687715&amp;sign=8e00402a7b40bfa885b62de5daac8919
 #EXTINF:-1 tvg-id="601340296" group-title="Orlando Magic vs Atlanta Hawks 06:00 ngày 02/04 NBA", Orlando Magic vs Atlanta Hawks 06:00 ngày 02/04 NBA (Link 2)
@@ -39,8 +37,10 @@ https://cdn-hls.taoxanh.biz/live/69cd9da3beb10_4733/index.m3u8?expire=1775687715
 https://cdn-hls.taoxanh.biz/live/69cd9ca1968e8_72787/index.m3u8?expire=1775687457&amp;sign=1e9be8d63d08b4bb09f6802eacb63c7e
 #EXTINF:-1 tvg-id="601340299" group-title="Washington Wizards vs Philadelphia 76ers 06:00 ngày 02/04 NBA", Washington Wizards vs Philadelphia 76ers 06:00 ngày 02/04 NBA (Link 2)
 https://cdn-hls.taoxanh.biz/live/69cd9ca1968e8_72787/index.m3u8?expire=1775687457&sign=1e9be8d63d08b4bb09f6802eacb63c7e
-#EXTINF:-1 tvg-id="601339750" group-title="Rubio nu vs Club Guaraní 04:30 ngày 02/04 Paraguayan Primera Division", Rubio nu vs Club Guaraní 04:30 ngày 02/04 Paraguayan Primera Division
-https://live.alilicloud.com/live/a5e7cb02e5a846d0d13eca4faa66e745/playlist.m3u8
+#EXTINF:-1 tvg-id="601340302" group-title="Miami Heat vs Boston Celtics 06:30 ngày 02/04 NBA", Miami Heat vs Boston Celtics 06:30 ngày 02/04 NBA (Link 1)
+https://cdn-hls.taoxanh.biz/live/69cda9d4de942_4439/index.m3u8?expire=1775690836&amp;sign=2766b63501155ec470e3676d2547de52
+#EXTINF:-1 tvg-id="601340302" group-title="Miami Heat vs Boston Celtics 06:30 ngày 02/04 NBA", Miami Heat vs Boston Celtics 06:30 ngày 02/04 NBA (Link 2)
+https://cdn-hls.taoxanh.biz/live/69cda9d4de942_4439/index.m3u8?expire=1775690836&sign=2766b63501155ec470e3676d2547de52
 #EXTINF:-1 tvg-id="601352602" group-title="Moca FC vs Cibao FC 05:00 ngày 02/04 Liga Dominicana de Fútbol", Moca FC vs Cibao FC 05:00 ngày 02/04 Liga Dominicana de Fútbol
 https://live.alilicloud.com/live/6174bcad750c27cdad903ae0024d7008/playlist.m3u8
 #EXTINF:-1 tvg-id="601339768" group-title="Chattanooga vs Tennessee Tempo 05:00 ngày 02/04 United States Open Cup", Chattanooga vs Tennessee Tempo 05:00 ngày 02/04 United States Open Cup
@@ -55,17 +55,19 @@ https://live.alilicloud.com/live/389f6d170f89b5cf10038932a2ce0dfa/playlist.m3u8
 https://live.alilicloud.com/live/655b74a86dcb7c1d30c706084cc74b80/playlist.m3u8
 #EXTINF:-1 tvg-id="601339774" group-title="Botafogo RJ vs Mirassol 05:30 ngày 02/04 Brazilian Serie A", Botafogo RJ vs Mirassol 05:30 ngày 02/04 Brazilian Serie A
 https://live.alilicloud.com/live/813406d5cfab5807119236e548371963/playlist.m3u8
-#EXTINF:-1 tvg-id="601339804" group-title="Vermont Green vs Westchester SC 06:00 ngày 02/04 United States Open Cup", Vermont Green vs Westchester SC 06:00 ngày 02/04 United States Open Cup
-https://live.alilicloud.com/live/d625ecf599ddd129e7f0f7156d52db08/playlist.m3u8
 #EXTINF:-1 tvg-id="601339801" group-title="Rhode Island vs Hartford Athletic 06:00 ngày 02/04 United States Open Cup", Rhode Island vs Hartford Athletic 06:00 ngày 02/04 United States Open Cup
 https://live.alilicloud.com/live/f7bea95186011d3ab09f3475795fc7eb/playlist.m3u8
+#EXTINF:-1 tvg-id="601339804" group-title="Vermont Green vs Westchester SC 06:00 ngày 02/04 United States Open Cup", Vermont Green vs Westchester SC 06:00 ngày 02/04 United States Open Cup
+https://live.alilicloud.com/live/d625ecf599ddd129e7f0f7156d52db08/playlist.m3u8
 #EXTINF:-1 tvg-id="601339798" group-title="Lexington vs Louisville City FC 06:00 ngày 02/04 United States Open Cup", Lexington vs Louisville City FC 06:00 ngày 02/04 United States Open Cup
 https://live.alilicloud.com/live/c275dda000c41443f26aed0c4fedae24/playlist.m3u8
 #EXTINF:-1 tvg-id="601339795" group-title="Club Necaxa (w) vs Juarez FC (w) 06:00 ngày 02/04 Mexico Liga MX Femenil", Club Necaxa (w) vs Juarez FC (w) 06:00 ngày 02/04 Mexico Liga MX Femenil
 https://live.alilicloud.com/live/b4504bfeb7dc13d6e88226c44e903cb5/playlist.m3u8
 #EXTINF:-1 tvg-id="601339786" group-title="Bahia vs Athletico Paranaense 06:00 ngày 02/04 Brazilian Serie A", Bahia vs Athletico Paranaense 06:00 ngày 02/04 Brazilian Serie A
 https://live.alilicloud.com/live/6547ce45dc6fba8a665f939730e11334/playlist.m3u8
-#EXTINF:-1 tvg-id="601339813" group-title="Independiente Santa Fe vs Llaneros FC 06:30 ngày 02/04 Categoría Primera A", Independiente Santa Fe vs Llaneros FC 06:30 ngày 02/04 Categoría Primera A (Link 1)
-https://cdn-hls.taoxanh.biz/live/69cda2781843c_44731/index.m3u8?expire=1775688952&amp;sign=00ed5e36c8d69c70f43be7fda9b6863e
-#EXTINF:-1 tvg-id="601339813" group-title="Independiente Santa Fe vs Llaneros FC 06:30 ngày 02/04 Categoría Primera A", Independiente Santa Fe vs Llaneros FC 06:30 ngày 02/04 Categoría Primera A (Link 2)
-https://cdn-hls.taoxanh.biz/live/69cda2781843c_44731/index.m3u8?expire=1775688952&sign=00ed5e36c8d69c70f43be7fda9b6863e
+#EXTINF:-1 tvg-id="601339819" group-title="Flint City Bucks vs Detroit City 06:30 ngày 02/04 United States Open Cup", Flint City Bucks vs Detroit City 06:30 ngày 02/04 United States Open Cup
+https://live.alilicloud.com/live/33319f286268de43ed9710a497f323ee/playlist.m3u8
+#EXTINF:-1 tvg-id="601339816" group-title="Club Sportivo Trinidense vs Olimpia Asuncion 06:30 ngày 02/04 Paraguayan Primera Division", Club Sportivo Trinidense vs Olimpia Asuncion 06:30 ngày 02/04 Paraguayan Primera Division
+https://live.alilicloud.com/live/56a58c8946be98272b80f64cb966d47d/playlist.m3u8
+#EXTINF:-1 tvg-id="601339810" group-title="Coritiba PR vs Clube de Regatas Vasco da Gama 06:30 ngày 02/04 Brazilian Serie A", Coritiba PR vs Clube de Regatas Vasco da Gama 06:30 ngày 02/04 Brazilian Serie A
+https://live.alilicloud.com/live/692d566b6957a8a6d6a9f60c18c409df/playlist.m3u8
