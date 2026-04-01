@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601338433" group-title="China U20(w) vs Vietnam (w) U20 16:00 ngày 01/04 AFC U-20 Women's Asian Cup", China U20(w) vs Vietnam (w) U20 16:00 ngày 01/04 AFC U-20 Women's Asian Cup (Link 1)
-https://cdn-hls.taoxanh.biz/live/69ccd599968e7_151255/index.m3u8?expire=1775636505&amp;sign=2d866c7ea6229514c4b528f01706efd7
-#EXTINF:-1 tvg-id="601338433" group-title="China U20(w) vs Vietnam (w) U20 16:00 ngày 01/04 AFC U-20 Women's Asian Cup", China U20(w) vs Vietnam (w) U20 16:00 ngày 01/04 AFC U-20 Women's Asian Cup (Link 2)
-https://live.alilicloud.com/live/99c8477baa58b6d298305a78a0ea3461/playlist.m3u8
-#EXTINF:-1 tvg-id="601338433" group-title="China U20(w) vs Vietnam (w) U20 16:00 ngày 01/04 AFC U-20 Women's Asian Cup", China U20(w) vs Vietnam (w) U20 16:00 ngày 01/04 AFC U-20 Women's Asian Cup (Link 3)
-https://cdn-hls.taoxanh.biz/live/69ccd0aa3d290_79/index.m3u8?expire=1775635242&sign=a9afe76d53475f7b3ef66ea5e140dd07
-#EXTINF:-1 tvg-id="601341061" group-title="Newcastle Olympic vs Adamstown Rosebuds FC 16:00 ngày 01/04 Australia Northern New South Wales Premier League", Newcastle Olympic vs Adamstown Rosebuds FC 16:00 ngày 01/04 Australia Northern New South Wales Premier League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69ccd2b03d290_4908/index.m3u8?expire=1775635760&amp;sign=e8a521b98ab2a20de53d978e277368a0
-#EXTINF:-1 tvg-id="601341061" group-title="Newcastle Olympic vs Adamstown Rosebuds FC 16:00 ngày 01/04 Australia Northern New South Wales Premier League", Newcastle Olympic vs Adamstown Rosebuds FC 16:00 ngày 01/04 Australia Northern New South Wales Premier League (Link 2)
-https://live.alilicloud.com/live/099169ebdcc4b5bd270f3a866028ecad/playlist.m3u8
-#EXTINF:-1 tvg-id="601341061" group-title="Newcastle Olympic vs Adamstown Rosebuds FC 16:00 ngày 01/04 Australia Northern New South Wales Premier League", Newcastle Olympic vs Adamstown Rosebuds FC 16:00 ngày 01/04 Australia Northern New South Wales Premier League (Link 3)
-https://cdn-hls.taoxanh.biz/live/69ccd2b03d290_4908/index.m3u8?expire=1775635760&sign=e8a521b98ab2a20de53d978e277368a0
 #EXTINF:-1 tvg-id="601341064" group-title="Machida Zelvia vs FC Tokyo 17:00 ngày 01/04 Japanese J1 League", Machida Zelvia vs FC Tokyo 17:00 ngày 01/04 Japanese J1 League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69cce658968e7_88186/index.m3u8?expire=1775640792&amp;sign=e580ce6cf9b0651b74b3f35ecc41b0a7
 #EXTINF:-1 tvg-id="601341064" group-title="Machida Zelvia vs FC Tokyo 17:00 ngày 01/04 Japanese J1 League", Machida Zelvia vs FC Tokyo 17:00 ngày 01/04 Japanese J1 League (Link 2)
@@ -37,13 +25,23 @@ https://cdn-hls.taoxanh.biz/live/69ccdccf1705e_112310/index.m3u8?expire=17756383
 https://cdn-hls.taoxanh.biz/live/69cce430968e7_128756/index.m3u8?expire=1775640240&amp;sign=b6c76999068222856261246ac44e39d6
 #EXTINF:-1 tvg-id="601352530" group-title="Expressway Co W vs GS Caltex W 17:00 ngày 01/04 Volleyball League Women", Expressway Co W vs GS Caltex W 17:00 ngày 01/04 Volleyball League Women (Link 2)
 https://cdn-hls.taoxanh.biz/live/69cce430968e7_128756/index.m3u8?expire=1775640240&sign=b6c76999068222856261246ac44e39d6
-#EXTINF:-1 tvg-id="601338448" group-title="Dinamo Vladivostok vs Dynamo Moscow B 16:00 ngày 01/04 RUS D3A", Dinamo Vladivostok vs Dynamo Moscow B 16:00 ngày 01/04 RUS D3A
-https://live.alilicloud.com/live/5dd43ebd96443cf8e708d190a26536d2/playlist.m3u8
 #EXTINF:-1 tvg-id="601338436" group-title="MTK Hungaria FC (w) vs Diosgyori VTK (w) 17:00 ngày 01/04 Hungary Women's Division 1 League", MTK Hungaria FC (w) vs Diosgyori VTK (w) 17:00 ngày 01/04 Hungary Women's Division 1 League
 https://live.alilicloud.com/live/309b38d741c1bd91f5d55d4c341ee212/playlist.m3u8
 #EXTINF:-1 tvg-id="601352293" group-title="Bishoftu Ketema vs Dessie Ketema 17:30 ngày 01/04 Ethiopian Higher League", Bishoftu Ketema vs Dessie Ketema 17:30 ngày 01/04 Ethiopian Higher League
 https://live.alilicloud.com/live/80a34820b16db126e7529ce264552ac4/playlist.m3u8
 #EXTINF:-1 tvg-id="601352497" group-title="Sudeva Delhi vs Shastri FC 17:30 ngày 01/04 IND DSD", Sudeva Delhi vs Shastri FC 17:30 ngày 01/04 IND DSD
 https://live.alilicloud.com/live/3280c5599bf7063b55770ff17e18f74e/playlist.m3u8
+#EXTINF:-1 tvg-id="601352323" group-title="Nepal U20 vs Bangladesh U20 17:45 ngày 01/04 SAFF U19 Championship", Nepal U20 vs Bangladesh U20 17:45 ngày 01/04 SAFF U19 Championship
+https://live.alilicloud.com/live/2148055b4a7ccf1f32847232f051c27c/playlist.m3u8
+#EXTINF:-1 tvg-id="601338442" group-title="Kuban Krasnodar vs Dinamo Bryansk 18:00 ngày 01/04 RUS D3A", Kuban Krasnodar vs Dinamo Bryansk 18:00 ngày 01/04 RUS D3A
+https://live.alilicloud.com/live/8f0de7df879c6964329451fc00deecda/playlist.m3u8
+#EXTINF:-1 tvg-id="601338445" group-title="Alania Vladikavkaz vs Stavropolye-2009 18:00 ngày 01/04 RUS D3A", Alania Vladikavkaz vs Stavropolye-2009 18:00 ngày 01/04 RUS D3A
+https://live.alilicloud.com/live/8c66829267f161a436080368f890ab53/playlist.m3u8
+#EXTINF:-1 tvg-id="601350529" group-title="Ganzhou Team vs Yongzhou Football Team 18:35 ngày 01/04 CMG Mass Football Invitational Tournament", Ganzhou Team vs Yongzhou Football Team 18:35 ngày 01/04 CMG Mass Football Invitational Tournament
+https://live.alilicloud.com/live/aa4627e8be6bcecff2ef4e5ce10b2206/playlist.m3u8
+#EXTINF:-1 tvg-id="601337134" group-title="FC Noah vs FC Pyunik 19:00 ngày 01/04 Armenian Cup", FC Noah vs FC Pyunik 19:00 ngày 01/04 Armenian Cup (Link 1)
+https://cdn-hls.taoxanh.biz/live/69cd0133968e7_151255/index.m3u8?expire=1775647667&amp;sign=d72233e4a7904e5f882c91a52764863e
+#EXTINF:-1 tvg-id="601337134" group-title="FC Noah vs FC Pyunik 19:00 ngày 01/04 Armenian Cup", FC Noah vs FC Pyunik 19:00 ngày 01/04 Armenian Cup (Link 2)
+https://cdn-hls.taoxanh.biz/live/69cd0133968e7_151255/index.m3u8?expire=1775647667&sign=d72233e4a7904e5f882c91a52764863e
 #EXTINF:-1 tvg-id="601338475" group-title="Thailand U20(w) vs Bangladesh (w) U20 20:00 ngày 01/04 AFC U-20 Women's Asian Cup", Thailand U20(w) vs Bangladesh (w) U20 20:00 ngày 01/04 AFC U-20 Women's Asian Cup
 https://live.alilicloud.com/live/4e2bbad009d25fb357e89c2aaa5ea211/playlist.m3u8
