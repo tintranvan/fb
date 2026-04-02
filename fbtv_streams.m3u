@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601337137" group-title="Andranik vs FC Syunik 19:00 ngày 02/04 Armenian Cup", Andranik vs FC Syunik 19:00 ngày 02/04 Armenian Cup (Link 1)
-https://cdn-hls.taoxanh.biz/live/69ce4ef92443f_72787/index.m3u8?expire=1775733113&amp;sign=92dacb0a25f9284398c4f938be780110
-#EXTINF:-1 tvg-id="601337137" group-title="Andranik vs FC Syunik 19:00 ngày 02/04 Armenian Cup", Andranik vs FC Syunik 19:00 ngày 02/04 Armenian Cup (Link 2)
-https://cdn-hls.taoxanh.biz/live/69ce4ef92443f_72787/index.m3u8?expire=1775733113&sign=92dacb0a25f9284398c4f938be780110
 #EXTINF:-1 tvg-id="601339999" group-title="North Korea Women U20 vs Jordan (w) U20 20:00 ngày 02/04 AFC U-20 Women's Asian Cup", North Korea Women U20 vs Jordan (w) U20 20:00 ngày 02/04 AFC U-20 Women's Asian Cup (Link 1)
 https://cdn-hls.taoxanh.biz/live/69ce5e2d5131e_4733/index.m3u8?expire=1775737005&amp;sign=1fee9bde8ef88563e8f402eeaaad26d0
 #EXTINF:-1 tvg-id="601339999" group-title="North Korea Women U20 vs Jordan (w) U20 20:00 ngày 02/04 AFC U-20 Women's Asian Cup", North Korea Women U20 vs Jordan (w) U20 20:00 ngày 02/04 AFC U-20 Women's Asian Cup (Link 2)
@@ -18,8 +14,6 @@ https://cdn-hls.taoxanh.biz/live/69ce5f42beb11_151657/index.m3u8?expire=17757372
 #EXTINF:-1 tvg-id="601340014" group-title="Sabail FC vs Baku Sportinq FK 20:00 ngày 02/04 Azerbaijan First Division", Sabail FC vs Baku Sportinq FK 20:00 ngày 02/04 Azerbaijan First Division (Link 1)
 https://cdn-hls.taoxanh.biz/live/69ce607fbeb11_79/index.m3u8?expire=1775737599&amp;sign=1f95937ea80dcaf56f498711f9ac8e2b
 #EXTINF:-1 tvg-id="601340014" group-title="Sabail FC vs Baku Sportinq FK 20:00 ngày 02/04 Azerbaijan First Division", Sabail FC vs Baku Sportinq FK 20:00 ngày 02/04 Azerbaijan First Division (Link 2)
-https://live.alilicloud.com/live/08b3c5f6372519d2c1b6228b9aa6a6b3/playlist.m3u8
-#EXTINF:-1 tvg-id="601340014" group-title="Sabail FC vs Baku Sportinq FK 20:00 ngày 02/04 Azerbaijan First Division", Sabail FC vs Baku Sportinq FK 20:00 ngày 02/04 Azerbaijan First Division (Link 3)
 https://cdn-hls.taoxanh.biz/live/69ce607fbeb11_79/index.m3u8?expire=1775737599&sign=1f95937ea80dcaf56f498711f9ac8e2b
 #EXTINF:-1 tvg-id="601340020" group-title="Al-Jandal vs AL-Rbeea Jeddah 20:15 ngày 02/04 Saudi Arabia Division 1", Al-Jandal vs AL-Rbeea Jeddah 20:15 ngày 02/04 Saudi Arabia Division 1 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69ce4934968e9_85514/index.m3u8?expire=1775731636&amp;sign=73d6475bb8af00773abd7fc831a7c0d6
@@ -33,17 +27,35 @@ https://cdn-hls.taoxanh.biz/live/69ce661abeb11_133172/index.m3u8?expire=17757390
 https://live.alilicloud.com/live/3dbe816b9ed806fea2048c6f5b213579/playlist.m3u8
 #EXTINF:-1 tvg-id="601340071" group-title="Sogdiana Jizak vs FK Kokand 1912 20:25 ngày 02/04 Uzbekistan Super League", Sogdiana Jizak vs FK Kokand 1912 20:25 ngày 02/04 Uzbekistan Super League (Link 3)
 https://cdn-hls.taoxanh.biz/live/69ce661abeb11_133172/index.m3u8?expire=1775739034&sign=18feebc2ac02339fe6642c0adc9ac333
+#EXTINF:-1 tvg-id="601340056" group-title="Kuruvchi Bunyodkor vs Lokomotiv Tashkent 21:00 ngày 02/04 Uzbekistan Super League", Kuruvchi Bunyodkor vs Lokomotiv Tashkent 21:00 ngày 02/04 Uzbekistan Super League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69ce696cbeb11_4908/index.m3u8?expire=1775739884&amp;sign=9912c4d49156b36b16cd277316067375
+#EXTINF:-1 tvg-id="601340056" group-title="Kuruvchi Bunyodkor vs Lokomotiv Tashkent 21:00 ngày 02/04 Uzbekistan Super League", Kuruvchi Bunyodkor vs Lokomotiv Tashkent 21:00 ngày 02/04 Uzbekistan Super League (Link 2)
+https://live.alilicloud.com/live/3cc76f0bc067af3258222640b9cb1db2/playlist.m3u8
+#EXTINF:-1 tvg-id="601340056" group-title="Kuruvchi Bunyodkor vs Lokomotiv Tashkent 21:00 ngày 02/04 Uzbekistan Super League", Kuruvchi Bunyodkor vs Lokomotiv Tashkent 21:00 ngày 02/04 Uzbekistan Super League (Link 3)
+https://cdn-hls.taoxanh.biz/live/69ce696cbeb11_4908/index.m3u8?expire=1775739884&sign=9912c4d49156b36b16cd277316067375
+#EXTINF:-1 tvg-id="601355035" group-title="Sean Mark Malayan vs Skyler Woodward 21:00 ngày 02/04 Giải vô địch Pool 8 bi thế giới 2026", Sean Mark Malayan vs Skyler Woodward 21:00 ngày 02/04 Giải vô địch Pool 8 bi thế giới 2026 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69ce6f752443f_142246/index.m3u8?expire=1775741429&amp;sign=7865cdd53dea085f827074c941798b50
+#EXTINF:-1 tvg-id="601355035" group-title="Sean Mark Malayan vs Skyler Woodward 21:00 ngày 02/04 Giải vô địch Pool 8 bi thế giới 2026", Sean Mark Malayan vs Skyler Woodward 21:00 ngày 02/04 Giải vô địch Pool 8 bi thế giới 2026 (Link 2)
+https://cdn-hls.taoxanh.biz/live/69ce6f752443f_142246/index.m3u8?expire=1775741429&sign=7865cdd53dea085f827074c941798b50
+#EXTINF:-1 tvg-id="601355038" group-title="Lee Van Corteza vs Moritz Neuhausen 21:00 ngày 02/04 Giải vô địch Pool 8 bi thế giới 2026", Lee Van Corteza vs Moritz Neuhausen 21:00 ngày 02/04 Giải vô địch Pool 8 bi thế giới 2026 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69ce6d6c5131e_103/index.m3u8?expire=1775740908&amp;sign=47c12a7c81081f2b8fc7f93276bebad0
+#EXTINF:-1 tvg-id="601355038" group-title="Lee Van Corteza vs Moritz Neuhausen 21:00 ngày 02/04 Giải vô địch Pool 8 bi thế giới 2026", Lee Van Corteza vs Moritz Neuhausen 21:00 ngày 02/04 Giải vô địch Pool 8 bi thế giới 2026 (Link 2)
+https://cdn-hls.taoxanh.biz/live/69ce6d6c5131e_103/index.m3u8?expire=1775740908&sign=47c12a7c81081f2b8fc7f93276bebad0
+#EXTINF:-1 tvg-id="601353886" group-title="Fenerbahce  (W) vs Zeren Spor Women 21:00 ngày 02/04 Sultanlar Ligi Women", Fenerbahce  (W) vs Zeren Spor Women 21:00 ngày 02/04 Sultanlar Ligi Women (Link 1)
+https://cdn-hls.taoxanh.biz/live/69ce61855131e_88642/index.m3u8?expire=1775737861&amp;sign=fa629ee39120f1baa9f2bbdfb9fdaf6d
+#EXTINF:-1 tvg-id="601353886" group-title="Fenerbahce  (W) vs Zeren Spor Women 21:00 ngày 02/04 Sultanlar Ligi Women", Fenerbahce  (W) vs Zeren Spor Women 21:00 ngày 02/04 Sultanlar Ligi Women (Link 2)
+https://cdn-hls.taoxanh.biz/live/69ce61855131e_88642/index.m3u8?expire=1775737861&sign=fa629ee39120f1baa9f2bbdfb9fdaf6d
 #EXTINF:-1 tvg-id="601354873" group-title="Thibault PORET vs Alexis LEBRUN 20:00 ngày 02/04 ITTF Men’s &amp; Women’s World Cup Macao 2026 Presented", Thibault PORET vs Alexis LEBRUN 20:00 ngày 02/04 ITTF Men’s &amp; Women’s World Cup Macao 2026 Presented (Link 1)
 https://cdn-hls.taoxanh.biz/live/69ce3e875be2b_112310/index.m3u8?expire=1775728903&amp;sign=46fba296603a7961f65957f044a5f21a
 #EXTINF:-1 tvg-id="601354873" group-title="Thibault PORET vs Alexis LEBRUN 20:00 ngày 02/04 ITTF Men’s &amp; Women’s World Cup Macao 2026 Presented", Thibault PORET vs Alexis LEBRUN 20:00 ngày 02/04 ITTF Men’s &amp; Women’s World Cup Macao 2026 Presented (Link 2)
 https://cdn-hls.taoxanh.biz/live/69ce3e875be2b_112310/index.m3u8?expire=1775728903&sign=46fba296603a7961f65957f044a5f21a
-#EXTINF:-1 tvg-id="601339993" group-title="Curtin Univ SC vs Willip 19:30 ngày 02/04 Western Australia State League 1", Curtin Univ SC vs Willip 19:30 ngày 02/04 Western Australia State League 1
-https://live.alilicloud.com/live/2c246f676f61d9bd82e508f2a316f894/playlist.m3u8
 #EXTINF:-1 tvg-id="601340017" group-title="Turan vs Akademiya Ontustik 20:00 ngày 02/04 Kazakhstan Division 1", Turan vs Akademiya Ontustik 20:00 ngày 02/04 Kazakhstan Division 1
 https://live.alilicloud.com/live/1c8833806fc023ee9523f62de0cbde7b/playlist.m3u8
 #EXTINF:-1 tvg-id="601353667" group-title="Sululta Ketema vs Addis Ketema 20:00 ngày 02/04 Ethiopian Higher League", Sululta Ketema vs Addis Ketema 20:00 ngày 02/04 Ethiopian Higher League
 https://live.alilicloud.com/live/d5d10b549aec4f7f36aef18884844faf/playlist.m3u8
-#EXTINF:-1 tvg-id="601340056" group-title="Kuruvchi Bunyodkor vs Lokomotiv Tashkent 21:00 ngày 02/04 Uzbekistan Super League", Kuruvchi Bunyodkor vs Lokomotiv Tashkent 21:00 ngày 02/04 Uzbekistan Super League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69ce696cbeb11_4908/index.m3u8?expire=1775739884&amp;sign=9912c4d49156b36b16cd277316067375
-#EXTINF:-1 tvg-id="601340056" group-title="Kuruvchi Bunyodkor vs Lokomotiv Tashkent 21:00 ngày 02/04 Uzbekistan Super League", Kuruvchi Bunyodkor vs Lokomotiv Tashkent 21:00 ngày 02/04 Uzbekistan Super League (Link 2)
-https://cdn-hls.taoxanh.biz/live/69ce696cbeb11_4908/index.m3u8?expire=1775739884&sign=9912c4d49156b36b16cd277316067375
+#EXTINF:-1 tvg-id="601341382" group-title="Radnik Sesvete vs NK Opatija 21:00 ngày 02/04 Croatian First Football League", Radnik Sesvete vs NK Opatija 21:00 ngày 02/04 Croatian First Football League
+https://live.alilicloud.com/live/01c1843c8742cf698d8353b0460b3f2d/playlist.m3u8
+#EXTINF:-1 tvg-id="601343899" group-title="Sama Al Sarhan vs Al-Jazeera 22:00 ngày 02/04 Jordan Premier League", Sama Al Sarhan vs Al-Jazeera 22:00 ngày 02/04 Jordan Premier League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69ce7d50beb11_44731/index.m3u8?expire=1775744976&amp;sign=f2398ea64523a7addd4efba54ee677d2
+#EXTINF:-1 tvg-id="601343899" group-title="Sama Al Sarhan vs Al-Jazeera 22:00 ngày 02/04 Jordan Premier League", Sama Al Sarhan vs Al-Jazeera 22:00 ngày 02/04 Jordan Premier League (Link 2)
+https://cdn-hls.taoxanh.biz/live/69ce7d50beb11_44731/index.m3u8?expire=1775744976&sign=f2398ea64523a7addd4efba54ee677d2
