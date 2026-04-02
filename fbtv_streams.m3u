@@ -1,26 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601340086" group-title="Al-Faisaly Harmah vs Jubail 22:55 ngày 02/04 Saudi Arabia Division 1", Al-Faisaly Harmah vs Jubail 22:55 ngày 02/04 Saudi Arabia Division 1 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69ce82392443f_72787/index.m3u8?expire=1775746233&amp;sign=d81d655c43a234292f2085a38d427f84
-#EXTINF:-1 tvg-id="601340086" group-title="Al-Faisaly Harmah vs Jubail 22:55 ngày 02/04 Saudi Arabia Division 1", Al-Faisaly Harmah vs Jubail 22:55 ngày 02/04 Saudi Arabia Division 1 (Link 2)
-https://live.alilicloud.com/live/58fb571f576e59f26e7f2cbbde492613/playlist.m3u8
-#EXTINF:-1 tvg-id="601340086" group-title="Al-Faisaly Harmah vs Jubail 22:55 ngày 02/04 Saudi Arabia Division 1", Al-Faisaly Harmah vs Jubail 22:55 ngày 02/04 Saudi Arabia Division 1 (Link 3)
-https://cdn-hls.taoxanh.biz/live/69ce82392443f_72787/index.m3u8?expire=1775746233&sign=d81d655c43a234292f2085a38d427f84
-#EXTINF:-1 tvg-id="601341451" group-title="A'Ali FC vs Bahrain SC 23:00 ngày 02/04 Bahrain Premier League", A'Ali FC vs Bahrain SC 23:00 ngày 02/04 Bahrain Premier League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69ce88f6beb11_85514/index.m3u8?expire=1775747958&amp;sign=6edccc50c45f67b7d0762a04e8504c6c
-#EXTINF:-1 tvg-id="601341451" group-title="A'Ali FC vs Bahrain SC 23:00 ngày 02/04 Bahrain Premier League", A'Ali FC vs Bahrain SC 23:00 ngày 02/04 Bahrain Premier League (Link 2)
-https://live.alilicloud.com/live/12403d0f7160d58406e93806534ecd79/playlist.m3u8
-#EXTINF:-1 tvg-id="601341451" group-title="A'Ali FC vs Bahrain SC 23:00 ngày 02/04 Bahrain Premier League", A'Ali FC vs Bahrain SC 23:00 ngày 02/04 Bahrain Premier League (Link 3)
-https://cdn-hls.taoxanh.biz/live/69ce88f6beb11_85514/index.m3u8?expire=1775747958&sign=6edccc50c45f67b7d0762a04e8504c6c
-#EXTINF:-1 tvg-id="601341454" group-title="Al-Shabbab vs Najma Manama 23:00 ngày 02/04 Bahrain Premier League", Al-Shabbab vs Najma Manama 23:00 ngày 02/04 Bahrain Premier League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69ce85872443f_88186/index.m3u8?expire=1775747079&amp;sign=f15d3fe5e95c2d652bbb96560f92be26
-#EXTINF:-1 tvg-id="601341454" group-title="Al-Shabbab vs Najma Manama 23:00 ngày 02/04 Bahrain Premier League", Al-Shabbab vs Najma Manama 23:00 ngày 02/04 Bahrain Premier League (Link 2)
-https://live.alilicloud.com/live/ab0f20022db48cd51488876c15b081a4/playlist.m3u8
-#EXTINF:-1 tvg-id="601341454" group-title="Al-Shabbab vs Najma Manama 23:00 ngày 02/04 Bahrain Premier League", Al-Shabbab vs Najma Manama 23:00 ngày 02/04 Bahrain Premier League (Link 3)
-https://cdn-hls.taoxanh.biz/live/69ce85872443f_88186/index.m3u8?expire=1775747079&sign=f15d3fe5e95c2d652bbb96560f92be26
-#EXTINF:-1 tvg-id="601340119" group-title="BK Hacken (w) vs Eintracht Frankfurt (w) 23:30 ngày 02/04 UEFA EL W", BK Hacken (w) vs Eintracht Frankfurt (w) 23:30 ngày 02/04 UEFA EL W (Link 1)
-https://cdn-hls.taoxanh.biz/live/69ce92ff2443f_4908/index.m3u8?expire=1775750527&amp;sign=2d1c4483590d2f6c097f7c031c3d7bc8
-#EXTINF:-1 tvg-id="601340119" group-title="BK Hacken (w) vs Eintracht Frankfurt (w) 23:30 ngày 02/04 UEFA EL W", BK Hacken (w) vs Eintracht Frankfurt (w) 23:30 ngày 02/04 UEFA EL W (Link 2)
-https://cdn-hls.taoxanh.biz/live/69ce92ff2443f_4908/index.m3u8?expire=1775750527&sign=2d1c4483590d2f6c097f7c031c3d7bc8
 #EXTINF:-1 tvg-id="601340122" group-title="Barcelona (w) vs Real Madrid (w) 23:45 ngày 02/04 UEFA Women's Champions League", Barcelona (w) vs Real Madrid (w) 23:45 ngày 02/04 UEFA Women's Champions League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69ce9651beb11_79/index.m3u8?expire=1775751377&amp;sign=dca1e164b4614676d9f74e101193f8f4
 #EXTINF:-1 tvg-id="601340122" group-title="Barcelona (w) vs Real Madrid (w) 23:45 ngày 02/04 UEFA Women's Champions League", Barcelona (w) vs Real Madrid (w) 23:45 ngày 02/04 UEFA Women's Champions League (Link 2)
@@ -39,23 +17,41 @@ https://cdn-hls.taoxanh.biz/live/69ce9ec82443f_133172/index.m3u8?expire=17757535
 https://live.alilicloud.com/live/df3742b80c447c7bb43c9dc9623ad1f3/playlist.m3u8
 #EXTINF:-1 tvg-id="601341553" group-title="Hammarby (w) vs Sparta Praha (w) 00:00 ngày 03/04 UEFA EL W", Hammarby (w) vs Sparta Praha (w) 00:00 ngày 03/04 UEFA EL W (Link 3)
 https://cdn-hls.taoxanh.biz/live/69ce9ec82443f_133172/index.m3u8?expire=1775753544&sign=f2ac5b1ffd3a9884031d628dd9e54704
+#EXTINF:-1 tvg-id="601341691" group-title="Real Sociedad B vs Eibar 01:00 ngày 03/04 Spanish Segunda Division", Real Sociedad B vs Eibar 01:00 ngày 03/04 Spanish Segunda Division (Link 1)
+https://cdn-hls.taoxanh.biz/live/69ceaef9beb12_85514/index.m3u8?expire=1775757689&amp;sign=3e662bb8b277341791831396a8f97f19
+#EXTINF:-1 tvg-id="601341691" group-title="Real Sociedad B vs Eibar 01:00 ngày 03/04 Spanish Segunda Division", Real Sociedad B vs Eibar 01:00 ngày 03/04 Spanish Segunda Division (Link 2)
+https://live.alilicloud.com/live/4a7b0fd06920b03091e3c9f1910b370a/playlist.m3u8
+#EXTINF:-1 tvg-id="601341691" group-title="Real Sociedad B vs Eibar 01:00 ngày 03/04 Spanish Segunda Division", Real Sociedad B vs Eibar 01:00 ngày 03/04 Spanish Segunda Division (Link 3)
+https://cdn-hls.taoxanh.biz/live/69ceaef9beb12_85514/index.m3u8?expire=1775757689&sign=3e662bb8b277341791831396a8f97f19
 #EXTINF:-1 tvg-id="601355014" group-title="Hsieh Chia Chen vs Shane Van Boening 00:30 ngày 03/04 Giải vô địch Pool 8 bi thế giới 2026", Hsieh Chia Chen vs Shane Van Boening 00:30 ngày 03/04 Giải vô địch Pool 8 bi thế giới 2026 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69ce8f70beb11_103/index.m3u8?expire=1775749616&amp;sign=4fcad0459d43320bb65b7ce4774d8ff0
 #EXTINF:-1 tvg-id="601355014" group-title="Hsieh Chia Chen vs Shane Van Boening 00:30 ngày 03/04 Giải vô địch Pool 8 bi thế giới 2026", Hsieh Chia Chen vs Shane Van Boening 00:30 ngày 03/04 Giải vô địch Pool 8 bi thế giới 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69ce8f70beb11_103/index.m3u8?expire=1775749616&sign=4fcad0459d43320bb65b7ce4774d8ff0
-#EXTINF:-1 tvg-id="601355104" group-title="Borough FC vs Gardnersville FC 23:00 ngày 02/04 Liberian second Division", Borough FC vs Gardnersville FC 23:00 ngày 02/04 Liberian second Division
-https://live.alilicloud.com/live/0303b0d855f67e61bee88b5c66bb75d0/playlist.m3u8
-#EXTINF:-1 tvg-id="601355209" group-title="Downtown FC vs Discoveries SA 23:00 ngày 02/04 Liberia First Division", Downtown FC vs Discoveries SA 23:00 ngày 02/04 Liberia First Division
-https://live.alilicloud.com/live/1020075d9cfa0dbd946dfb6d2a180215/playlist.m3u8
-#EXTINF:-1 tvg-id="601355212" group-title="Jubilee FC vs Paynesville 23:00 ngày 02/04 Liberia First Division", Jubilee FC vs Paynesville 23:00 ngày 02/04 Liberia First Division
-https://live.alilicloud.com/live/9526e40f7fea78a55d768b01906b4aba/playlist.m3u8
-#EXTINF:-1 tvg-id="601341505" group-title="Karlovac vs NK Dubrava Zagreb 23:15 ngày 02/04 Croatian First Football League", Karlovac vs NK Dubrava Zagreb 23:15 ngày 02/04 Croatian First Football League
-https://live.alilicloud.com/live/cfcde20942b7f720e2b5ea73c00ac763/playlist.m3u8
 #EXTINF:-1 tvg-id="601353874" group-title="Wilberforce Strikers vs Kamboi Eagles 23:30 ngày 02/04 Sierra Leone Premier League", Wilberforce Strikers vs Kamboi Eagles 23:30 ngày 02/04 Sierra Leone Premier League
 https://live.alilicloud.com/live/1fe9825e060a6842e16cd5c5a9fe0c70/playlist.m3u8
-#EXTINF:-1 tvg-id="601340107" group-title="BrasilU16 vs China U16 23:30 ngày 02/04 Montaigu Tournament", BrasilU16 vs China U16 23:30 ngày 02/04 Montaigu Tournament
-https://live.alilicloud.com/live/a7582a3ae11ea8307d0ab9bf0e42b7cf/playlist.m3u8
+#EXTINF:-1 tvg-id="601341538" group-title="FSV Frankfurt vs Astoria Walldorf 00:00 ngày 03/04 German Regionalliga", FSV Frankfurt vs Astoria Walldorf 00:00 ngày 03/04 German Regionalliga
+https://live.alilicloud.com/live/4feca6cd25af6153f956a5d6af2bad9e/playlist.m3u8
 #EXTINF:-1 tvg-id="601341622" group-title="Sandecja Nowy Sacz vs Resovia Rzeszow 00:30 ngày 03/04 Poland Liga 2", Sandecja Nowy Sacz vs Resovia Rzeszow 00:30 ngày 03/04 Poland Liga 2
 https://live.alilicloud.com/live/6c17875c53a48ffb3d3b476bc99403c1/playlist.m3u8
 #EXTINF:-1 tvg-id="601341682" group-title="Al Zulfi vs Al Anwar SA 00:35 ngày 03/04 Saudi Arabia Division 1", Al Zulfi vs Al Anwar SA 00:35 ngày 03/04 Saudi Arabia Division 1
 https://live.alilicloud.com/live/35ec83b39257b98d82b5d909767cd974/playlist.m3u8
+#EXTINF:-1 tvg-id="601339708" group-title="Cruzeiro (Youth) vs Vasco da Gama (Youth) 01:00 ngày 03/04 Brazilian Youth League", Cruzeiro (Youth) vs Vasco da Gama (Youth) 01:00 ngày 03/04 Brazilian Youth League
+https://live.alilicloud.com/live/ad07008f48adc20786dc0cceda98c410/playlist.m3u8
+#EXTINF:-1 tvg-id="601339711" group-title="Bragantino RB Youth vs Bahia (Youth) 01:00 ngày 03/04 Brazilian Youth League", Bragantino RB Youth vs Bahia (Youth) 01:00 ngày 03/04 Brazilian Youth League
+https://live.alilicloud.com/live/fe92ce9c9bcdef79cab3f883de033e6f/playlist.m3u8
+#EXTINF:-1 tvg-id="601341721" group-title="Barracas Central vs Sarmiento Junin 01:00 ngày 03/04 Argentine Division 1", Barracas Central vs Sarmiento Junin 01:00 ngày 03/04 Argentine Division 1
+https://live.alilicloud.com/live/a759d48583b42c44b9e9f34c6d1cf471/playlist.m3u8
+#EXTINF:-1 tvg-id="601341748" group-title="Rosario Central Reserves vs Gimnasia Mendoza Reserves 01:00 ngày 03/04 Argentine Reserve League", Rosario Central Reserves vs Gimnasia Mendoza Reserves 01:00 ngày 03/04 Argentine Reserve League
+https://live.alilicloud.com/live/e879722629ef88a03911511fee725639/playlist.m3u8
+#EXTINF:-1 tvg-id="601341787" group-title="Boyaca Chico vs Deportivo Pereira 02:00 ngày 03/04 Categoría Primera A", Boyaca Chico vs Deportivo Pereira 02:00 ngày 03/04 Categoría Primera A (Link 1)
+https://cdn-hls.taoxanh.biz/live/69ceb3c5beb12_4908/index.m3u8?expire=1775758917&amp;sign=716391e4039cb929a87b25451908d89e
+#EXTINF:-1 tvg-id="601341787" group-title="Boyaca Chico vs Deportivo Pereira 02:00 ngày 03/04 Categoría Primera A", Boyaca Chico vs Deportivo Pereira 02:00 ngày 03/04 Categoría Primera A (Link 2)
+https://cdn-hls.taoxanh.biz/live/69ceb3c5beb12_4908/index.m3u8?expire=1775758917&sign=716391e4039cb929a87b25451908d89e
+#EXTINF:-1 tvg-id="601341790" group-title="Lyon (w) vs VfL Wolfsburg (w) 02:00 ngày 03/04 UEFA Women's Champions League", Lyon (w) vs VfL Wolfsburg (w) 02:00 ngày 03/04 UEFA Women's Champions League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69ceb5cfbeb12_79/index.m3u8?expire=1775759439&amp;sign=d080651d13f3e8053cd347497544bce1
+#EXTINF:-1 tvg-id="601341790" group-title="Lyon (w) vs VfL Wolfsburg (w) 02:00 ngày 03/04 UEFA Women's Champions League", Lyon (w) vs VfL Wolfsburg (w) 02:00 ngày 03/04 UEFA Women's Champions League (Link 2)
+https://cdn-hls.taoxanh.biz/live/69ceb5cfbeb12_79/index.m3u8?expire=1775759439&sign=d080651d13f3e8053cd347497544bce1
+#EXTINF:-1 tvg-id="601341793" group-title="CD Leganes vs Real Zaragoza 02:30 ngày 03/04 Spanish Segunda Division", CD Leganes vs Real Zaragoza 02:30 ngày 03/04 Spanish Segunda Division (Link 1)
+https://cdn-hls.taoxanh.biz/live/69ceafb32443f_88186/index.m3u8?expire=1775757875&amp;sign=5e8075c0aec15b8da96500e50527a3dc
+#EXTINF:-1 tvg-id="601341793" group-title="CD Leganes vs Real Zaragoza 02:30 ngày 03/04 Spanish Segunda Division", CD Leganes vs Real Zaragoza 02:30 ngày 03/04 Spanish Segunda Division (Link 2)
+https://cdn-hls.taoxanh.biz/live/69ceafb32443f_88186/index.m3u8?expire=1775757875&sign=5e8075c0aec15b8da96500e50527a3dc
