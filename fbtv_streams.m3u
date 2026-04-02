@@ -17,17 +17,17 @@ https://cdn-hls.taoxanh.biz/live/69ceafb32443f_88186/index.m3u8?expire=177575787
 https://live.alilicloud.com/live/dc48282126f0440321af9ebe0e50cb7f/playlist.m3u8
 #EXTINF:-1 tvg-id="601341793" group-title="CD Leganes vs Real Zaragoza 02:30 ngày 03/04 Spanish Segunda Division", CD Leganes vs Real Zaragoza 02:30 ngày 03/04 Spanish Segunda Division (Link 3)
 https://cdn-hls.taoxanh.biz/live/69ceafb32443f_88186/index.m3u8?expire=1775757875&sign=5e8075c0aec15b8da96500e50527a3dc
+#EXTINF:-1 tvg-id="601341796" group-title="Club Atletico Tigre vs Independiente Rivadavia 03:30 ngày 03/04 Argentine Division 1", Club Atletico Tigre vs Independiente Rivadavia 03:30 ngày 03/04 Argentine Division 1 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69ceca652443f_18754/index.m3u8?expire=1775764709&amp;sign=6eaab4c02bc5bd09809d07d8bdb6b20a
+#EXTINF:-1 tvg-id="601341796" group-title="Club Atletico Tigre vs Independiente Rivadavia 03:30 ngày 03/04 Argentine Division 1", Club Atletico Tigre vs Independiente Rivadavia 03:30 ngày 03/04 Argentine Division 1 (Link 2)
+https://live.alilicloud.com/live/56b93257f98ed94e0b07b0d84805365e/playlist.m3u8
+#EXTINF:-1 tvg-id="601341796" group-title="Club Atletico Tigre vs Independiente Rivadavia 03:30 ngày 03/04 Argentine Division 1", Club Atletico Tigre vs Independiente Rivadavia 03:30 ngày 03/04 Argentine Division 1 (Link 3)
+https://cdn-hls.taoxanh.biz/live/69ceca652443f_18754/index.m3u8?expire=1775764709&sign=6eaab4c02bc5bd09809d07d8bdb6b20a
 #EXTINF:-1 tvg-id="601355014" group-title="Justin Bergman vs Fedor Gorst 03:00 ngày 03/04 Giải vô địch Pool 8 bi thế giới 2026", Justin Bergman vs Fedor Gorst 03:00 ngày 03/04 Giải vô địch Pool 8 bi thế giới 2026 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69ce8f70beb11_103/index.m3u8?expire=1775749616&amp;sign=4fcad0459d43320bb65b7ce4774d8ff0
 #EXTINF:-1 tvg-id="601355014" group-title="Justin Bergman vs Fedor Gorst 03:00 ngày 03/04 Giải vô địch Pool 8 bi thế giới 2026", Justin Bergman vs Fedor Gorst 03:00 ngày 03/04 Giải vô địch Pool 8 bi thế giới 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69ce8f70beb11_103/index.m3u8?expire=1775749616&sign=4fcad0459d43320bb65b7ce4774d8ff0
-#EXTINF:-1 tvg-id="601341775" group-title="Wigan Athletic vs Leyton Orient 01:45 ngày 03/04 English Football League One", Wigan Athletic vs Leyton Orient 01:45 ngày 03/04 English Football League One
-https://live.alilicloud.com/live/9297d3cccdbb341c3ed978c8e0840fae/playlist.m3u8
-#EXTINF:-1 tvg-id="601350535" group-title="AS FAR Rabat vs Olympique Dcheira 02:00 ngày 03/04 The Botola Pro", AS FAR Rabat vs Olympique Dcheira 02:00 ngày 03/04 The Botola Pro
-https://live.alilicloud.com/live/dab1849800087721bac58c4f4f143e49/playlist.m3u8
 #EXTINF:-1 tvg-id="601341784" group-title="Cambridge United vs Swindon Town 02:00 ngày 03/04 English Football League Two", Cambridge United vs Swindon Town 02:00 ngày 03/04 English Football League Two
 https://live.alilicloud.com/live/4e4d879405941d2ef3038425b3582339/playlist.m3u8
-#EXTINF:-1 tvg-id="601341796" group-title="Club Atletico Tigre vs Independiente Rivadavia 03:30 ngày 03/04 Argentine Division 1", Club Atletico Tigre vs Independiente Rivadavia 03:30 ngày 03/04 Argentine Division 1 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69ceca652443f_18754/index.m3u8?expire=1775764709&amp;sign=6eaab4c02bc5bd09809d07d8bdb6b20a
-#EXTINF:-1 tvg-id="601341796" group-title="Club Atletico Tigre vs Independiente Rivadavia 03:30 ngày 03/04 Argentine Division 1", Club Atletico Tigre vs Independiente Rivadavia 03:30 ngày 03/04 Argentine Division 1 (Link 2)
-https://cdn-hls.taoxanh.biz/live/69ceca652443f_18754/index.m3u8?expire=1775764709&sign=6eaab4c02bc5bd09809d07d8bdb6b20a
+#EXTINF:-1 tvg-id="601350535" group-title="AS FAR Rabat vs Olympique Dcheira 02:00 ngày 03/04 The Botola Pro", AS FAR Rabat vs Olympique Dcheira 02:00 ngày 03/04 The Botola Pro
+https://live.alilicloud.com/live/dab1849800087721bac58c4f4f143e49/playlist.m3u8
