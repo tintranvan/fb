@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601341790" group-title="Lyon (w) vs VfL Wolfsburg (w) 02:00 ngày 03/04 UEFA Women's Champions League", Lyon (w) vs VfL Wolfsburg (w) 02:00 ngày 03/04 UEFA Women's Champions League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69ceb5cfbeb12_79/index.m3u8?expire=1775759439&amp;sign=d080651d13f3e8053cd347497544bce1
-#EXTINF:-1 tvg-id="601341790" group-title="Lyon (w) vs VfL Wolfsburg (w) 02:00 ngày 03/04 UEFA Women's Champions League", Lyon (w) vs VfL Wolfsburg (w) 02:00 ngày 03/04 UEFA Women's Champions League (Link 2)
-https://live.alilicloud.com/live/8885103daa65673e4dbbfaac68d5debe/playlist.m3u8
-#EXTINF:-1 tvg-id="601341790" group-title="Lyon (w) vs VfL Wolfsburg (w) 02:00 ngày 03/04 UEFA Women's Champions League", Lyon (w) vs VfL Wolfsburg (w) 02:00 ngày 03/04 UEFA Women's Champions League (Link 3)
-https://cdn-hls.taoxanh.biz/live/69ceb5cfbeb12_79/index.m3u8?expire=1775759439&sign=d080651d13f3e8053cd347497544bce1
 #EXTINF:-1 tvg-id="601341796" group-title="Club Atletico Tigre vs Independiente Rivadavia 03:30 ngày 03/04 Argentine Division 1", Club Atletico Tigre vs Independiente Rivadavia 03:30 ngày 03/04 Argentine Division 1 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69ceca652443f_18754/index.m3u8?expire=1775764709&amp;sign=6eaab4c02bc5bd09809d07d8bdb6b20a
 #EXTINF:-1 tvg-id="601341796" group-title="Club Atletico Tigre vs Independiente Rivadavia 03:30 ngày 03/04 Argentine Division 1", Club Atletico Tigre vs Independiente Rivadavia 03:30 ngày 03/04 Argentine Division 1 (Link 2)
@@ -26,4 +20,6 @@ https://live.alilicloud.com/live/457129ace3cbbaed722a61e5539457dd/playlist.m3u8
 #EXTINF:-1 tvg-id="601341829" group-title="Chapecoense SC vs Atletico Mineiro 05:00 ngày 03/04 Brazilian Serie A", Chapecoense SC vs Atletico Mineiro 05:00 ngày 03/04 Brazilian Serie A (Link 1)
 https://cdn-hls.taoxanh.biz/live/69ceded2beb12_88186/index.m3u8?expire=1775769938&amp;sign=4482ee021fe0ef9d856ff961929af842
 #EXTINF:-1 tvg-id="601341829" group-title="Chapecoense SC vs Atletico Mineiro 05:00 ngày 03/04 Brazilian Serie A", Chapecoense SC vs Atletico Mineiro 05:00 ngày 03/04 Brazilian Serie A (Link 2)
+https://live.alilicloud.com/live/8141bc6a0d139f152860af346cb901df/playlist.m3u8
+#EXTINF:-1 tvg-id="601341829" group-title="Chapecoense SC vs Atletico Mineiro 05:00 ngày 03/04 Brazilian Serie A", Chapecoense SC vs Atletico Mineiro 05:00 ngày 03/04 Brazilian Serie A (Link 3)
 https://cdn-hls.taoxanh.biz/live/69ceded2beb12_88186/index.m3u8?expire=1775769938&sign=4482ee021fe0ef9d856ff961929af842
