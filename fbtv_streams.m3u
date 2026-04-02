@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601339882" group-title="Brisbane Roar vs Sydney FC 17:00 ngày 02/04 Australia A-League", Brisbane Roar vs Sydney FC 17:00 ngày 02/04 Australia A-League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69ce3929602b3_88186/index.m3u8?expire=1775727529&amp;sign=6ff5ced3c5d5b7ac5d9aa52452794b6a
-#EXTINF:-1 tvg-id="601339882" group-title="Brisbane Roar vs Sydney FC 17:00 ngày 02/04 Australia A-League", Brisbane Roar vs Sydney FC 17:00 ngày 02/04 Australia A-League (Link 2)
-https://live.alilicloud.com/live/3763eb4f52031b1974d50577cddba6dd/playlist.m3u8
-#EXTINF:-1 tvg-id="601339882" group-title="Brisbane Roar vs Sydney FC 17:00 ngày 02/04 Australia A-League", Brisbane Roar vs Sydney FC 17:00 ngày 02/04 Australia A-League (Link 3)
-https://cdn-hls.taoxanh.biz/live/69ce3929602b3_88186/index.m3u8?expire=1775727529&sign=6ff5ced3c5d5b7ac5d9aa52452794b6a
 #EXTINF:-1 tvg-id="601339891" group-title="Real Kashmir vs Diamond Harbour FC 17:30 ngày 02/04 Indian League Division 1", Real Kashmir vs Diamond Harbour FC 17:30 ngày 02/04 Indian League Division 1 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69ce3c18968e8_6308/index.m3u8?expire=1775728280&amp;sign=455c04b20127a80b4b23dc7b85f040b6
 #EXTINF:-1 tvg-id="601339891" group-title="Real Kashmir vs Diamond Harbour FC 17:30 ngày 02/04 Indian League Division 1", Real Kashmir vs Diamond Harbour FC 17:30 ngày 02/04 Indian League Division 1 (Link 2)
@@ -27,34 +21,34 @@ https://cdn-hls.taoxanh.biz/live/69ce3bbebeb11_133172/index.m3u8?expire=17757281
 https://live.alilicloud.com/live/e3c9d0e3704c49e0b3e694c545e8595e/playlist.m3u8
 #EXTINF:-1 tvg-id="601339924" group-title="FK MOIK Baku vs Cəbrayıl FK 18:00 ngày 02/04 Azerbaijan First Division", FK MOIK Baku vs Cəbrayıl FK 18:00 ngày 02/04 Azerbaijan First Division (Link 3)
 https://cdn-hls.taoxanh.biz/live/69ce3bbebeb11_133172/index.m3u8?expire=1775728190&sign=5bf440b47765a9b7b3edef088aa11203
+#EXTINF:-1 tvg-id="601339936" group-title="Zaqatala FK vs Difai Agsu FK 18:30 ngày 02/04 Azerbaijan First Division", Zaqatala FK vs Difai Agsu FK 18:30 ngày 02/04 Azerbaijan First Division (Link 1)
+https://cdn-hls.taoxanh.biz/live/69ce4a21beb11_103/index.m3u8?expire=1775731873&amp;sign=a3e1fd33e9e03f3e115da852e615ca3e
+#EXTINF:-1 tvg-id="601339936" group-title="Zaqatala FK vs Difai Agsu FK 18:30 ngày 02/04 Azerbaijan First Division", Zaqatala FK vs Difai Agsu FK 18:30 ngày 02/04 Azerbaijan First Division (Link 2)
+https://live.alilicloud.com/live/81bd53134aefcb641819c7975d240fb8/playlist.m3u8
+#EXTINF:-1 tvg-id="601339936" group-title="Zaqatala FK vs Difai Agsu FK 18:30 ngày 02/04 Azerbaijan First Division", Zaqatala FK vs Difai Agsu FK 18:30 ngày 02/04 Azerbaijan First Division (Link 3)
+https://cdn-hls.taoxanh.biz/live/69ce4a21beb11_103/index.m3u8?expire=1775731873&sign=a3e1fd33e9e03f3e115da852e615ca3e
+#EXTINF:-1 tvg-id="601337137" group-title="Andranik vs FC Syunik 19:00 ngày 02/04 Armenian Cup", Andranik vs FC Syunik 19:00 ngày 02/04 Armenian Cup (Link 1)
+https://cdn-hls.taoxanh.biz/live/69ce4ef92443f_72787/index.m3u8?expire=1775733113&amp;sign=92dacb0a25f9284398c4f938be780110
+#EXTINF:-1 tvg-id="601337137" group-title="Andranik vs FC Syunik 19:00 ngày 02/04 Armenian Cup", Andranik vs FC Syunik 19:00 ngày 02/04 Armenian Cup (Link 2)
+https://cdn-hls.taoxanh.biz/live/69ce4ef92443f_72787/index.m3u8?expire=1775733113&sign=92dacb0a25f9284398c4f938be780110
 #EXTINF:-1 tvg-id="601353883" group-title="KAL Jumbos vs Hyundai Skywalkers 17:00 ngày 02/04 Volleyball League", KAL Jumbos vs Hyundai Skywalkers 17:00 ngày 02/04 Volleyball League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69ce35ba968e8_88642/index.m3u8?expire=1775726650&amp;sign=b7b7bcd0bce6c4138740ee41d503e1cc
 #EXTINF:-1 tvg-id="601353883" group-title="KAL Jumbos vs Hyundai Skywalkers 17:00 ngày 02/04 Volleyball League", KAL Jumbos vs Hyundai Skywalkers 17:00 ngày 02/04 Volleyball League (Link 2)
 https://cdn-hls.taoxanh.biz/live/69ce35ba968e8_88642/index.m3u8?expire=1775726650&sign=b7b7bcd0bce6c4138740ee41d503e1cc
-#EXTINF:-1 tvg-id="601354873" group-title="JANG Woojin vs Sora MATSUSHIMA 17:00 ngày 02/04 ITTF Men’s &amp; Women’s World Cup Macao 2026 Presented", JANG Woojin vs Sora MATSUSHIMA 17:00 ngày 02/04 ITTF Men’s &amp; Women’s World Cup Macao 2026 Presented (Link 1)
+#EXTINF:-1 tvg-id="601354873" group-title="Patrick FRANZISKA vs Truls MOREGARD 18:20 ngày 02/04 ITTF Men’s &amp; Women’s World Cup Macao 2026 Presented", Patrick FRANZISKA vs Truls MOREGARD 18:20 ngày 02/04 ITTF Men’s &amp; Women’s World Cup Macao 2026 Presented (Link 1)
 https://cdn-hls.taoxanh.biz/live/69ce3e875be2b_112310/index.m3u8?expire=1775728903&amp;sign=46fba296603a7961f65957f044a5f21a
-#EXTINF:-1 tvg-id="601354873" group-title="JANG Woojin vs Sora MATSUSHIMA 17:00 ngày 02/04 ITTF Men’s &amp; Women’s World Cup Macao 2026 Presented", JANG Woojin vs Sora MATSUSHIMA 17:00 ngày 02/04 ITTF Men’s &amp; Women’s World Cup Macao 2026 Presented (Link 2)
+#EXTINF:-1 tvg-id="601354873" group-title="Patrick FRANZISKA vs Truls MOREGARD 18:20 ngày 02/04 ITTF Men’s &amp; Women’s World Cup Macao 2026 Presented", Patrick FRANZISKA vs Truls MOREGARD 18:20 ngày 02/04 ITTF Men’s &amp; Women’s World Cup Macao 2026 Presented (Link 2)
 https://cdn-hls.taoxanh.biz/live/69ce3e875be2b_112310/index.m3u8?expire=1775728903&sign=46fba296603a7961f65957f044a5f21a
-#EXTINF:-1 tvg-id="601339885" group-title="FK Arys vs Jaiyq 17:00 ngày 02/04 Kazakhstan Division 1", FK Arys vs Jaiyq 17:00 ngày 02/04 Kazakhstan Division 1
-https://live.alilicloud.com/live/fadcd629c52e2678d30da6709bf3e8f0/playlist.m3u8
-#EXTINF:-1 tvg-id="601339888" group-title="Khan Tengri FC vs FK Kaspiy Aktau B 17:00 ngày 02/04 Kazakhstan Division 1", Khan Tengri FC vs FK Kaspiy Aktau B 17:00 ngày 02/04 Kazakhstan Division 1
-https://live.alilicloud.com/live/d96e999c63c41a989065e820687f683c/playlist.m3u8
 #EXTINF:-1 tvg-id="601353652" group-title="Boditi Ketema vs Debre Birhan Ketema 17:30 ngày 02/04 Ethiopian Higher League", Boditi Ketema vs Debre Birhan Ketema 17:30 ngày 02/04 Ethiopian Higher League
 https://live.alilicloud.com/live/b8fc690aba91977c5871b15ca0ece0f2/playlist.m3u8
 #EXTINF:-1 tvg-id="601339921" group-title="Perth RedStar vs Stirling Macedonia 18:00 ngày 02/04 Western Australia National Premier Leagues", Perth RedStar vs Stirling Macedonia 18:00 ngày 02/04 Western Australia National Premier Leagues
 https://live.alilicloud.com/live/cc0cc1e1183aa26a32ae290eec81ac8b/playlist.m3u8
 #EXTINF:-1 tvg-id="601339927" group-title="Gneist vs Fana 18:00 ngày 02/04 Norwegian 3.Divisjon", Gneist vs Fana 18:00 ngày 02/04 Norwegian 3.Divisjon
 https://live.alilicloud.com/live/dbc37399cc46c54df281dcd78668bff2/playlist.m3u8
-#EXTINF:-1 tvg-id="601339930" group-title="Perth SC vs Dianella White Eagles 18:15 ngày 02/04 Western Australia National Premier Leagues", Perth SC vs Dianella White Eagles 18:15 ngày 02/04 Western Australia National Premier Leagues
-https://live.alilicloud.com/live/fdbc90c837860d76df6089ad24c4a8a2/playlist.m3u8
-#EXTINF:-1 tvg-id="601339936" group-title="Zaqatala FK vs Difai Agsu FK 18:30 ngày 02/04 Azerbaijan First Division", Zaqatala FK vs Difai Agsu FK 18:30 ngày 02/04 Azerbaijan First Division (Link 1)
-https://cdn-hls.taoxanh.biz/live/69ce4a21beb11_103/index.m3u8?expire=1775731873&amp;sign=a3e1fd33e9e03f3e115da852e615ca3e
-#EXTINF:-1 tvg-id="601339936" group-title="Zaqatala FK vs Difai Agsu FK 18:30 ngày 02/04 Azerbaijan First Division", Zaqatala FK vs Difai Agsu FK 18:30 ngày 02/04 Azerbaijan First Division (Link 2)
-https://cdn-hls.taoxanh.biz/live/69ce4a21beb11_103/index.m3u8?expire=1775731873&sign=a3e1fd33e9e03f3e115da852e615ca3e
-#EXTINF:-1 tvg-id="601337137" group-title="Andranik vs FC Syunik 19:00 ngày 02/04 Armenian Cup", Andranik vs FC Syunik 19:00 ngày 02/04 Armenian Cup (Link 1)
-https://cdn-hls.taoxanh.biz/live/69ce4ef92443f_72787/index.m3u8?expire=1775733113&amp;sign=92dacb0a25f9284398c4f938be780110
-#EXTINF:-1 tvg-id="601337137" group-title="Andranik vs FC Syunik 19:00 ngày 02/04 Armenian Cup", Andranik vs FC Syunik 19:00 ngày 02/04 Armenian Cup (Link 2)
-https://cdn-hls.taoxanh.biz/live/69ce4ef92443f_72787/index.m3u8?expire=1775733113&sign=92dacb0a25f9284398c4f938be780110
+#EXTINF:-1 tvg-id="601345084" group-title="Inglewood United vs Floreat Athena 18:30 ngày 02/04 Western Australia State League 1", Inglewood United vs Floreat Athena 18:30 ngày 02/04 Western Australia State League 1
+https://live.alilicloud.com/live/c818b454954c29d97581a3e9fa892451/playlist.m3u8
+#EXTINF:-1 tvg-id="601355011" group-title="Hohhot Team vs Heilongjiang Harbin Football Team 18:35 ngày 02/04 CMG Mass Football Invitational Tournament", Hohhot Team vs Heilongjiang Harbin Football Team 18:35 ngày 02/04 CMG Mass Football Invitational Tournament
+https://live.alilicloud.com/live/83362c16d516eaeb28abbb1a6494ee40/playlist.m3u8
 #EXTINF:-1 tvg-id="601340020" group-title="Al-Jandal vs AL-Rbeea Jeddah 20:15 ngày 02/04 Saudi Arabia Division 1", Al-Jandal vs AL-Rbeea Jeddah 20:15 ngày 02/04 Saudi Arabia Division 1 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69ce4934968e9_85514/index.m3u8?expire=1775731636&amp;sign=73d6475bb8af00773abd7fc831a7c0d6
 #EXTINF:-1 tvg-id="601340020" group-title="Al-Jandal vs AL-Rbeea Jeddah 20:15 ngày 02/04 Saudi Arabia Division 1", Al-Jandal vs AL-Rbeea Jeddah 20:15 ngày 02/04 Saudi Arabia Division 1 (Link 2)
