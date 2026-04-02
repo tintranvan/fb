@@ -1,22 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601341787" group-title="Boyaca Chico vs Deportivo Pereira 02:00 ngày 03/04 Categoría Primera A", Boyaca Chico vs Deportivo Pereira 02:00 ngày 03/04 Categoría Primera A (Link 1)
-https://cdn-hls.taoxanh.biz/live/69ceb3c5beb12_4908/index.m3u8?expire=1775758917&amp;sign=716391e4039cb929a87b25451908d89e
-#EXTINF:-1 tvg-id="601341787" group-title="Boyaca Chico vs Deportivo Pereira 02:00 ngày 03/04 Categoría Primera A", Boyaca Chico vs Deportivo Pereira 02:00 ngày 03/04 Categoría Primera A (Link 2)
-https://live.alilicloud.com/live/1e533e199ff323b4462905cf01fc1063/playlist.m3u8
-#EXTINF:-1 tvg-id="601341787" group-title="Boyaca Chico vs Deportivo Pereira 02:00 ngày 03/04 Categoría Primera A", Boyaca Chico vs Deportivo Pereira 02:00 ngày 03/04 Categoría Primera A (Link 3)
-https://cdn-hls.taoxanh.biz/live/69ceb3c5beb12_4908/index.m3u8?expire=1775758917&sign=716391e4039cb929a87b25451908d89e
 #EXTINF:-1 tvg-id="601341790" group-title="Lyon (w) vs VfL Wolfsburg (w) 02:00 ngày 03/04 UEFA Women's Champions League", Lyon (w) vs VfL Wolfsburg (w) 02:00 ngày 03/04 UEFA Women's Champions League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69ceb5cfbeb12_79/index.m3u8?expire=1775759439&amp;sign=d080651d13f3e8053cd347497544bce1
 #EXTINF:-1 tvg-id="601341790" group-title="Lyon (w) vs VfL Wolfsburg (w) 02:00 ngày 03/04 UEFA Women's Champions League", Lyon (w) vs VfL Wolfsburg (w) 02:00 ngày 03/04 UEFA Women's Champions League (Link 2)
 https://live.alilicloud.com/live/8885103daa65673e4dbbfaac68d5debe/playlist.m3u8
 #EXTINF:-1 tvg-id="601341790" group-title="Lyon (w) vs VfL Wolfsburg (w) 02:00 ngày 03/04 UEFA Women's Champions League", Lyon (w) vs VfL Wolfsburg (w) 02:00 ngày 03/04 UEFA Women's Champions League (Link 3)
 https://cdn-hls.taoxanh.biz/live/69ceb5cfbeb12_79/index.m3u8?expire=1775759439&sign=d080651d13f3e8053cd347497544bce1
-#EXTINF:-1 tvg-id="601341793" group-title="CD Leganes vs Real Zaragoza 02:30 ngày 03/04 Spanish Segunda Division", CD Leganes vs Real Zaragoza 02:30 ngày 03/04 Spanish Segunda Division (Link 1)
-https://cdn-hls.taoxanh.biz/live/69ceafb32443f_88186/index.m3u8?expire=1775757875&amp;sign=5e8075c0aec15b8da96500e50527a3dc
-#EXTINF:-1 tvg-id="601341793" group-title="CD Leganes vs Real Zaragoza 02:30 ngày 03/04 Spanish Segunda Division", CD Leganes vs Real Zaragoza 02:30 ngày 03/04 Spanish Segunda Division (Link 2)
-https://live.alilicloud.com/live/dc48282126f0440321af9ebe0e50cb7f/playlist.m3u8
-#EXTINF:-1 tvg-id="601341793" group-title="CD Leganes vs Real Zaragoza 02:30 ngày 03/04 Spanish Segunda Division", CD Leganes vs Real Zaragoza 02:30 ngày 03/04 Spanish Segunda Division (Link 3)
-https://cdn-hls.taoxanh.biz/live/69ceafb32443f_88186/index.m3u8?expire=1775757875&sign=5e8075c0aec15b8da96500e50527a3dc
 #EXTINF:-1 tvg-id="601341796" group-title="Club Atletico Tigre vs Independiente Rivadavia 03:30 ngày 03/04 Argentine Division 1", Club Atletico Tigre vs Independiente Rivadavia 03:30 ngày 03/04 Argentine Division 1 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69ceca652443f_18754/index.m3u8?expire=1775764709&amp;sign=6eaab4c02bc5bd09809d07d8bdb6b20a
 #EXTINF:-1 tvg-id="601341796" group-title="Club Atletico Tigre vs Independiente Rivadavia 03:30 ngày 03/04 Argentine Division 1", Club Atletico Tigre vs Independiente Rivadavia 03:30 ngày 03/04 Argentine Division 1 (Link 2)
@@ -27,7 +15,15 @@ https://cdn-hls.taoxanh.biz/live/69ceca652443f_18754/index.m3u8?expire=177576470
 https://cdn-hls.taoxanh.biz/live/69ce8f70beb11_103/index.m3u8?expire=1775749616&amp;sign=4fcad0459d43320bb65b7ce4774d8ff0
 #EXTINF:-1 tvg-id="601355014" group-title="Justin Bergman vs Fedor Gorst 03:00 ngày 03/04 Giải vô địch Pool 8 bi thế giới 2026", Justin Bergman vs Fedor Gorst 03:00 ngày 03/04 Giải vô địch Pool 8 bi thế giới 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69ce8f70beb11_103/index.m3u8?expire=1775749616&sign=4fcad0459d43320bb65b7ce4774d8ff0
-#EXTINF:-1 tvg-id="601341784" group-title="Cambridge United vs Swindon Town 02:00 ngày 03/04 English Football League Two", Cambridge United vs Swindon Town 02:00 ngày 03/04 English Football League Two
-https://live.alilicloud.com/live/4e4d879405941d2ef3038425b3582339/playlist.m3u8
-#EXTINF:-1 tvg-id="601350535" group-title="AS FAR Rabat vs Olympique Dcheira 02:00 ngày 03/04 The Botola Pro", AS FAR Rabat vs Olympique Dcheira 02:00 ngày 03/04 The Botola Pro
-https://live.alilicloud.com/live/dab1849800087721bac58c4f4f143e49/playlist.m3u8
+#EXTINF:-1 tvg-id="601341811" group-title="CD Achuapa vs CSD Municipal 04:00 ngày 03/04 Guatemala Liga Nacional", CD Achuapa vs CSD Municipal 04:00 ngày 03/04 Guatemala Liga Nacional
+https://live.alilicloud.com/live/06ea43cd8d6c32c79a6184b080ff37c0/playlist.m3u8
+#EXTINF:-1 tvg-id="601341823" group-title="River Plate R vs Gimnasia LP Reserves 04:00 ngày 03/04 Argentine Reserve League", River Plate R vs Gimnasia LP Reserves 04:00 ngày 03/04 Argentine Reserve League
+https://live.alilicloud.com/live/6e78420165a41e92cbdbebaa948ac376/playlist.m3u8
+#EXTINF:-1 tvg-id="601347406" group-title="Univ Catolica vs Palestino 04:00 ngày 03/04 Chilean Primera Division", Univ Catolica vs Palestino 04:00 ngày 03/04 Chilean Primera Division
+https://live.alilicloud.com/live/11527f0e8a3e79d08a02c8462d26e611/playlist.m3u8
+#EXTINF:-1 tvg-id="601341826" group-title="America de Cali vs Atletico Bucaramanga 04:10 ngày 03/04 Categoría Primera A", America de Cali vs Atletico Bucaramanga 04:10 ngày 03/04 Categoría Primera A
+https://live.alilicloud.com/live/457129ace3cbbaed722a61e5539457dd/playlist.m3u8
+#EXTINF:-1 tvg-id="601341829" group-title="Chapecoense SC vs Atletico Mineiro 05:00 ngày 03/04 Brazilian Serie A", Chapecoense SC vs Atletico Mineiro 05:00 ngày 03/04 Brazilian Serie A (Link 1)
+https://cdn-hls.taoxanh.biz/live/69ceded2beb12_88186/index.m3u8?expire=1775769938&amp;sign=4482ee021fe0ef9d856ff961929af842
+#EXTINF:-1 tvg-id="601341829" group-title="Chapecoense SC vs Atletico Mineiro 05:00 ngày 03/04 Brazilian Serie A", Chapecoense SC vs Atletico Mineiro 05:00 ngày 03/04 Brazilian Serie A (Link 2)
+https://cdn-hls.taoxanh.biz/live/69ceded2beb12_88186/index.m3u8?expire=1775769938&sign=4482ee021fe0ef9d856ff961929af842
