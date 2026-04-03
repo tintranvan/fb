@@ -1,22 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601344619" group-title="Club Atlético Unión vs Deportivo Riestra 03:15 ngày 04/04 Argentine Division 1", Club Atlético Unión vs Deportivo Riestra 03:15 ngày 04/04 Argentine Division 1 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69d00e29beb14_28/index.m3u8?expire=1775847593&amp;sign=aeb4c19937bfa62db1e1932e320ce44c
-#EXTINF:-1 tvg-id="601344619" group-title="Club Atlético Unión vs Deportivo Riestra 03:15 ngày 04/04 Argentine Division 1", Club Atlético Unión vs Deportivo Riestra 03:15 ngày 04/04 Argentine Division 1 (Link 2)
-https://live.alilicloud.com/live/c68d4efb02dbf07f02a158a78ea8560a/playlist.m3u8
-#EXTINF:-1 tvg-id="601344619" group-title="Club Atlético Unión vs Deportivo Riestra 03:15 ngày 04/04 Argentine Division 1", Club Atlético Unión vs Deportivo Riestra 03:15 ngày 04/04 Argentine Division 1 (Link 3)
-https://cdn-hls.taoxanh.biz/live/69d00e29beb14_28/index.m3u8?expire=1775847593&sign=aeb4c19937bfa62db1e1932e320ce44c
-#EXTINF:-1 tvg-id="601355737" group-title="Brittany Bryant vs Shasha Liu 00:30 ngày 04/04 Giải vô địch Pool 8 bi thế giới 2026", Brittany Bryant vs Shasha Liu 00:30 ngày 04/04 Giải vô địch Pool 8 bi thế giới 2026 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69cfbf652202b_103/index.m3u8?expire=1775827429&amp;sign=b2880ee895b06b2aaab06fc14891bfb4
-#EXTINF:-1 tvg-id="601355737" group-title="Brittany Bryant vs Shasha Liu 00:30 ngày 04/04 Giải vô địch Pool 8 bi thế giới 2026", Brittany Bryant vs Shasha Liu 00:30 ngày 04/04 Giải vô địch Pool 8 bi thế giới 2026 (Link 2)
-https://cdn-hls.taoxanh.biz/live/69cfbf652202b_103/index.m3u8?expire=1775827429&sign=b2880ee895b06b2aaab06fc14891bfb4
-#EXTINF:-1 tvg-id="601344607" group-title="Alianza Atletico Sullana vs Atletico Grau 03:00 ngày 04/04 Peruvian Liga 1", Alianza Atletico Sullana vs Atletico Grau 03:00 ngày 04/04 Peruvian Liga 1
-https://live.alilicloud.com/live/a81c630e6a1367378abbd7eca904ff58/playlist.m3u8
-#EXTINF:-1 tvg-id="601344610" group-title="Boston River vs Montevideo Wanderers FC 03:00 ngày 04/04 Uruguay Primera Division", Boston River vs Montevideo Wanderers FC 03:00 ngày 04/04 Uruguay Primera Division
-https://live.alilicloud.com/live/a119928f6f9ef162cde618771f8a4668/playlist.m3u8
-#EXTINF:-1 tvg-id="601344613" group-title="Uruguay U17 vs Chile U17 03:00 ngày 04/04 CONMEBOL U17 Championship", Uruguay U17 vs Chile U17 03:00 ngày 04/04 CONMEBOL U17 Championship
-https://live.alilicloud.com/live/fd83814e2627edbd0bd2df3b2aa23cc3/playlist.m3u8
-#EXTINF:-1 tvg-id="601344616" group-title="Fortaleza CEIF FC (W) vs America de Cali (w) 03:00 ngày 04/04 Colombian Liga Betplay Femenina", Fortaleza CEIF FC (W) vs America de Cali (w) 03:00 ngày 04/04 Colombian Liga Betplay Femenina
-https://live.alilicloud.com/live/22e05b37aeec7715055a5cc3d85e1d81/playlist.m3u8
 #EXTINF:-1 tvg-id="601339723" group-title="Gualaceo SC vs Pottu Via Ho 03:30 ngày 04/04 Ecuadorian Campeonato Serie B", Gualaceo SC vs Pottu Via Ho 03:30 ngày 04/04 Ecuadorian Campeonato Serie B
 https://live.alilicloud.com/live/e9ee7701fa5de9a4abd15fe31adbedef/playlist.m3u8
 #EXTINF:-1 tvg-id="601347451" group-title="Coquimbo Unido vs Cobresal 03:30 ngày 04/04 Chilean Primera Division", Coquimbo Unido vs Cobresal 03:30 ngày 04/04 Chilean Primera Division
@@ -25,6 +7,8 @@ https://live.alilicloud.com/live/4a3a7bf5eee79098776dc3272de4586e/playlist.m3u8
 https://live.alilicloud.com/live/b39b2350d9e47c0dddfc21ec55eace70/playlist.m3u8
 #EXTINF:-1 tvg-id="601348522" group-title="Academia Anzoategui vs Universidad Central de Venezuela 04:30 ngày 04/04 Venezuela Primera Division", Academia Anzoategui vs Universidad Central de Venezuela 04:30 ngày 04/04 Venezuela Primera Division
 https://live.alilicloud.com/live/7ba450fd883a196db21aedb9eea7bf57/playlist.m3u8
+#EXTINF:-1 tvg-id="601347454" group-title="Ituzaingo vs Argentino de Merlo 05:00 ngày 04/04 Argentine Group B Tebolidun League Manchester", Ituzaingo vs Argentino de Merlo 05:00 ngày 04/04 Argentine Group B Tebolidun League Manchester
+https://live.alilicloud.com/live/1eb38c952ce08737e569e9b5d8967528/playlist.m3u8
 #EXTINF:-1 tvg-id="601345318" group-title="Manchester City vs Liverpool 18:45 ngày 04/04 FA Cup", Manchester City vs Liverpool 18:45 ngày 04/04 FA Cup
 https://live.alilicloud.com/live/31cbe321bfc87e0619076361cdc1fa86/playlist.m3u8
 #EXTINF:-1 tvg-id="601345321" group-title="Real Sociedad vs Levante 19:00 ngày 04/04 Spanish La Liga", Real Sociedad vs Levante 19:00 ngày 04/04 Spanish La Liga
