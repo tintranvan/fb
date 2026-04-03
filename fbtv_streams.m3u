@@ -1,64 +1,54 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601342021" group-title="FK Taraz vs Ekibastuzets 17:00 ngày 03/04 Kazakhstan Division 1", FK Taraz vs Ekibastuzets 17:00 ngày 03/04 Kazakhstan Division 1 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69cf8480beb13_4908/index.m3u8?expire=1775812352&amp;sign=1fc5a8105ac6b7a4347c99a04233a233
-#EXTINF:-1 tvg-id="601342021" group-title="FK Taraz vs Ekibastuzets 17:00 ngày 03/04 Kazakhstan Division 1", FK Taraz vs Ekibastuzets 17:00 ngày 03/04 Kazakhstan Division 1 (Link 2)
-https://live.alilicloud.com/live/844cbe1c50c578d12b4914cfdb6dc36f/playlist.m3u8
-#EXTINF:-1 tvg-id="601342021" group-title="FK Taraz vs Ekibastuzets 17:00 ngày 03/04 Kazakhstan Division 1", FK Taraz vs Ekibastuzets 17:00 ngày 03/04 Kazakhstan Division 1 (Link 3)
-https://cdn-hls.taoxanh.biz/live/69cf8480beb13_4908/index.m3u8?expire=1775812352&sign=1fc5a8105ac6b7a4347c99a04233a233
-#EXTINF:-1 tvg-id="601342012" group-title="Gil Vicente U23 vs Farense U23 17:00 ngày 03/04 Portuguese U23 League", Gil Vicente U23 vs Farense U23 17:00 ngày 03/04 Portuguese U23 League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69cf8a0bbeb13_74012/index.m3u8?expire=1775813771&amp;sign=15f95e40edc7b9eac93fd9aa37269251
-#EXTINF:-1 tvg-id="601342012" group-title="Gil Vicente U23 vs Farense U23 17:00 ngày 03/04 Portuguese U23 League", Gil Vicente U23 vs Farense U23 17:00 ngày 03/04 Portuguese U23 League (Link 2)
-https://live.alilicloud.com/live/a87d898deb33ecb7710254cbdd228c74/playlist.m3u8
-#EXTINF:-1 tvg-id="601342012" group-title="Gil Vicente U23 vs Farense U23 17:00 ngày 03/04 Portuguese U23 League", Gil Vicente U23 vs Farense U23 17:00 ngày 03/04 Portuguese U23 League (Link 3)
-https://cdn-hls.taoxanh.biz/live/69cf8a0bbeb13_74012/index.m3u8?expire=1775813771&sign=15f95e40edc7b9eac93fd9aa37269251
 #EXTINF:-1 tvg-id="601343977" group-title="Bangkok United FC vs Sukhothai 18:00 ngày 03/04 Hilux Revo Thai League", Bangkok United FC vs Sukhothai 18:00 ngày 03/04 Hilux Revo Thai League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69cf922fbeb13_79/index.m3u8?expire=1775815855&amp;sign=ea4f0d27394f857491da2e55d63cd4ac
 #EXTINF:-1 tvg-id="601343977" group-title="Bangkok United FC vs Sukhothai 18:00 ngày 03/04 Hilux Revo Thai League", Bangkok United FC vs Sukhothai 18:00 ngày 03/04 Hilux Revo Thai League (Link 2)
 https://live.alilicloud.com/live/d8d851575d130c8598003ea396c7717f/playlist.m3u8
 #EXTINF:-1 tvg-id="601343977" group-title="Bangkok United FC vs Sukhothai 18:00 ngày 03/04 Hilux Revo Thai League", Bangkok United FC vs Sukhothai 18:00 ngày 03/04 Hilux Revo Thai League (Link 3)
 https://cdn-hls.taoxanh.biz/live/69cf922fbeb13_79/index.m3u8?expire=1775815855&sign=ea4f0d27394f857491da2e55d63cd4ac
-#EXTINF:-1 tvg-id="601342084" group-title="Middlesbrough vs Millwall 18:30 ngày 03/04 English Football League Championship", Middlesbrough vs Millwall 18:30 ngày 03/04 English Football League Championship (Link 1)
-https://cdn-hls.taoxanh.biz/live/69cf9c9f2443f_85514/index.m3u8?expire=1775818527&amp;sign=0e247cdf1487bd9767049b37e5bd6ddc
-#EXTINF:-1 tvg-id="601342084" group-title="Middlesbrough vs Millwall 18:30 ngày 03/04 English Football League Championship", Middlesbrough vs Millwall 18:30 ngày 03/04 English Football League Championship (Link 2)
-https://live.alilicloud.com/live/929b7aea7f4d19a3e78a9ec96cf1e2e8/playlist.m3u8
-#EXTINF:-1 tvg-id="601342084" group-title="Middlesbrough vs Millwall 18:30 ngày 03/04 English Football League Championship", Middlesbrough vs Millwall 18:30 ngày 03/04 English Football League Championship (Link 3)
-https://cdn-hls.taoxanh.biz/live/69cf9c9f2443f_85514/index.m3u8?expire=1775818527&sign=0e247cdf1487bd9767049b37e5bd6ddc
 #EXTINF:-1 tvg-id="601342087" group-title="Adana Demirspor vs Manisa Futbol Kulübü 18:30 ngày 03/04 Turkish First League", Adana Demirspor vs Manisa Futbol Kulübü 18:30 ngày 03/04 Turkish First League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69cf9da52443f_103/index.m3u8?expire=1775818789&amp;sign=833fe920e4d9ac5508a9c6006eb26e8c
 #EXTINF:-1 tvg-id="601342087" group-title="Adana Demirspor vs Manisa Futbol Kulübü 18:30 ngày 03/04 Turkish First League", Adana Demirspor vs Manisa Futbol Kulübü 18:30 ngày 03/04 Turkish First League (Link 2)
 https://live.alilicloud.com/live/059cf284d1dd26f3c6a745409c0bcd8f/playlist.m3u8
 #EXTINF:-1 tvg-id="601342087" group-title="Adana Demirspor vs Manisa Futbol Kulübü 18:30 ngày 03/04 Turkish First League", Adana Demirspor vs Manisa Futbol Kulübü 18:30 ngày 03/04 Turkish First League (Link 3)
 https://cdn-hls.taoxanh.biz/live/69cf9da52443f_103/index.m3u8?expire=1775818789&sign=833fe920e4d9ac5508a9c6006eb26e8c
+#EXTINF:-1 tvg-id="601342084" group-title="Middlesbrough vs Millwall 18:30 ngày 03/04 English Football League Championship", Middlesbrough vs Millwall 18:30 ngày 03/04 English Football League Championship (Link 1)
+https://cdn-hls.taoxanh.biz/live/69cf9c9f2443f_85514/index.m3u8?expire=1775818527&amp;sign=0e247cdf1487bd9767049b37e5bd6ddc
+#EXTINF:-1 tvg-id="601342084" group-title="Middlesbrough vs Millwall 18:30 ngày 03/04 English Football League Championship", Middlesbrough vs Millwall 18:30 ngày 03/04 English Football League Championship (Link 2)
+https://live.alilicloud.com/live/929b7aea7f4d19a3e78a9ec96cf1e2e8/playlist.m3u8
+#EXTINF:-1 tvg-id="601342084" group-title="Middlesbrough vs Millwall 18:30 ngày 03/04 English Football League Championship", Middlesbrough vs Millwall 18:30 ngày 03/04 English Football League Championship (Link 3)
+https://cdn-hls.taoxanh.biz/live/69cf9c9f2443f_85514/index.m3u8?expire=1775818527&sign=0e247cdf1487bd9767049b37e5bd6ddc
 #EXTINF:-1 tvg-id="601342099" group-title="Chengdu Rongcheng FC vs Qingdao West Coast FC 18:35 ngày 03/04 Chinese Football Super League", Chengdu Rongcheng FC vs Qingdao West Coast FC 18:35 ngày 03/04 Chinese Football Super League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69cf9e4bbeb13_133172/index.m3u8?expire=1775818955&amp;sign=e385fd4bbf72e019879c12373588fadf
 #EXTINF:-1 tvg-id="601342099" group-title="Chengdu Rongcheng FC vs Qingdao West Coast FC 18:35 ngày 03/04 Chinese Football Super League", Chengdu Rongcheng FC vs Qingdao West Coast FC 18:35 ngày 03/04 Chinese Football Super League (Link 2)
 https://live.alilicloud.com/live/e268249549f555ef88f57f33cd654ed3/playlist.m3u8
 #EXTINF:-1 tvg-id="601342099" group-title="Chengdu Rongcheng FC vs Qingdao West Coast FC 18:35 ngày 03/04 Chinese Football Super League", Chengdu Rongcheng FC vs Qingdao West Coast FC 18:35 ngày 03/04 Chinese Football Super League (Link 3)
 https://cdn-hls.taoxanh.biz/live/69cf9e4bbeb13_133172/index.m3u8?expire=1775818955&sign=e385fd4bbf72e019879c12373588fadf
-#EXTINF:-1 tvg-id="601355218" group-title="Expressway Co W vs GS Caltex W 17:00 ngày 03/04 Volleyball League Women", Expressway Co W vs GS Caltex W 17:00 ngày 03/04 Volleyball League Women (Link 1)
-https://cdn-hls.taoxanh.biz/live/69cf88eebeb13_88642/index.m3u8?expire=1775813486&amp;sign=830b4b017226c451502bb1f8324d1baf
-#EXTINF:-1 tvg-id="601355218" group-title="Expressway Co W vs GS Caltex W 17:00 ngày 03/04 Volleyball League Women", Expressway Co W vs GS Caltex W 17:00 ngày 03/04 Volleyball League Women (Link 2)
-https://cdn-hls.taoxanh.biz/live/69cf88eebeb13_88642/index.m3u8?expire=1775813486&sign=830b4b017226c451502bb1f8324d1baf
-#EXTINF:-1 tvg-id="601347421" group-title="CD Mafra vs UD Santarem 17:00 ngày 03/04 Portuguese Liga 3", CD Mafra vs UD Santarem 17:00 ngày 03/04 Portuguese Liga 3
-https://live.alilicloud.com/live/022e2a04d3634748cd44230bc7ae3c3c/playlist.m3u8
-#EXTINF:-1 tvg-id="601342111" group-title="Kryvbas U21 vs LNZ Cherkasy U21 17:00 ngày 03/04 Ukrainian Youth Team Championship", Kryvbas U21 vs LNZ Cherkasy U21 17:00 ngày 03/04 Ukrainian Youth Team Championship
-https://live.alilicloud.com/live/a0f5a4f26a73744dfbe497dbcef8889c/playlist.m3u8
-#EXTINF:-1 tvg-id="601346209" group-title="Bukovyna 2 vs Niva Vinica 17:30 ngày 03/04 Ukrainian Second League", Bukovyna 2 vs Niva Vinica 17:30 ngày 03/04 Ukrainian Second League
-https://live.alilicloud.com/live/71aad9f912f421a2598bf0d95c5f4adf/playlist.m3u8
-#EXTINF:-1 tvg-id="601342006" group-title="Kolos Kovalivka U21 vs Metalist 1925 Kharkiv(U21) 17:30 ngày 03/04 Ukrainian Youth Team Championship", Kolos Kovalivka U21 vs Metalist 1925 Kharkiv(U21) 17:30 ngày 03/04 Ukrainian Youth Team Championship
-https://live.alilicloud.com/live/eb12161f38365e3cfd51ca049e2b3927/playlist.m3u8
-#EXTINF:-1 tvg-id="601343980" group-title="Kristianstads DFF (w) vs Djurgardens (w) 18:00 ngày 03/04 Sweden Damallsvenskan", Kristianstads DFF (w) vs Djurgardens (w) 18:00 ngày 03/04 Sweden Damallsvenskan
-https://live.alilicloud.com/live/fae5c985c71c8d39385565708049815c/playlist.m3u8
-#EXTINF:-1 tvg-id="601342030" group-title="Dinamo Tbilisi vs Dila Gori 18:00 ngày 03/04 Georgia Erovnuli Liga", Dinamo Tbilisi vs Dila Gori 18:00 ngày 03/04 Georgia Erovnuli Liga
-https://live.alilicloud.com/live/611b0cd946cf78e351e9fef05008d6ce/playlist.m3u8
-#EXTINF:-1 tvg-id="601343992" group-title="Ariana vs Kristianstads FF 18:00 ngày 03/04 Sweden Division 1", Ariana vs Kristianstads FF 18:00 ngày 03/04 Sweden Division 1
-https://live.alilicloud.com/live/411cc731f1eb5f0dad2ca879d2f0b1fc/playlist.m3u8
-#EXTINF:-1 tvg-id="601343989" group-title="Angelholms FF vs Trelleborgs FF 18:00 ngày 03/04 Sweden Division 1", Angelholms FF vs Trelleborgs FF 18:00 ngày 03/04 Sweden Division 1
-https://live.alilicloud.com/live/41a367521cef966208be9692b4131dcf/playlist.m3u8
-#EXTINF:-1 tvg-id="601342108" group-title="Dinamo KyivU21 vs Karpaty U21 18:00 ngày 03/04 Ukrainian Youth Team Championship", Dinamo KyivU21 vs Karpaty U21 18:00 ngày 03/04 Ukrainian Youth Team Championship
-https://live.alilicloud.com/live/bc74b6209d05cf9365a2842e57b8de03/playlist.m3u8
+#EXTINF:-1 tvg-id="601342105" group-title="Dewa United FC vs PSIM Yogyakarta 19:00 ngày 03/04 Indonesian Liga 1", Dewa United FC vs PSIM Yogyakarta 19:00 ngày 03/04 Indonesian Liga 1 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69cf9d262443f_28/index.m3u8?expire=1775818662&amp;sign=c51ec30a39106fa72f21e64054badc98
+#EXTINF:-1 tvg-id="601342105" group-title="Dewa United FC vs PSIM Yogyakarta 19:00 ngày 03/04 Indonesian Liga 1", Dewa United FC vs PSIM Yogyakarta 19:00 ngày 03/04 Indonesian Liga 1 (Link 2)
+https://live.alilicloud.com/live/4ee699fdd9fbc8e888875fca25d0a00a/playlist.m3u8
+#EXTINF:-1 tvg-id="601342105" group-title="Dewa United FC vs PSIM Yogyakarta 19:00 ngày 03/04 Indonesian Liga 1", Dewa United FC vs PSIM Yogyakarta 19:00 ngày 03/04 Indonesian Liga 1 (Link 3)
+https://cdn-hls.taoxanh.biz/live/69cf9d262443f_28/index.m3u8?expire=1775818662&sign=c51ec30a39106fa72f21e64054badc98
+#EXTINF:-1 tvg-id="601342180" group-title="Pattani vs Sisaket United 19:00 ngày 03/04 M-150 Championship", Pattani vs Sisaket United 19:00 ngày 03/04 M-150 Championship (Link 1)
+https://cdn-hls.taoxanh.biz/live/69cfa414beb13_72787/index.m3u8?expire=1775820436&amp;sign=929ffeadf6e7902636a17cb9f7028cbd
+#EXTINF:-1 tvg-id="601342180" group-title="Pattani vs Sisaket United 19:00 ngày 03/04 M-150 Championship", Pattani vs Sisaket United 19:00 ngày 03/04 M-150 Championship (Link 2)
+https://cdn-hls.taoxanh.biz/live/69cfa414beb13_72787/index.m3u8?expire=1775820436&sign=929ffeadf6e7902636a17cb9f7028cbd
+#EXTINF:-1 tvg-id="601342198" group-title="Boldklubben af 1893 vs Hobro 19:00 ngày 03/04 Danish 1st Division", Boldklubben af 1893 vs Hobro 19:00 ngày 03/04 Danish 1st Division (Link 1)
+https://cdn-hls.taoxanh.biz/live/69cfac362443f_74012/index.m3u8?expire=1775822518&amp;sign=cc3ce86cf4aaf83c351afbf94b71f5ce
+#EXTINF:-1 tvg-id="601342198" group-title="Boldklubben af 1893 vs Hobro 19:00 ngày 03/04 Danish 1st Division", Boldklubben af 1893 vs Hobro 19:00 ngày 03/04 Danish 1st Division (Link 2)
+https://live.alilicloud.com/live/4431d5813ac739603fc1a358d2114be3/playlist.m3u8
+#EXTINF:-1 tvg-id="601342198" group-title="Boldklubben af 1893 vs Hobro 19:00 ngày 03/04 Danish 1st Division", Boldklubben af 1893 vs Hobro 19:00 ngày 03/04 Danish 1st Division (Link 3)
+https://cdn-hls.taoxanh.biz/live/69cfac362443f_74012/index.m3u8?expire=1775822518&sign=cc3ce86cf4aaf83c351afbf94b71f5ce
+#EXTINF:-1 tvg-id="601344094" group-title="Kuala Lumpur City FC vs Johor Darul Ta'zim FC 19:15 ngày 03/04 Malaysian Cup", Kuala Lumpur City FC vs Johor Darul Ta'zim FC 19:15 ngày 03/04 Malaysian Cup (Link 1)
+https://cdn-hls.taoxanh.biz/live/69cf9f5fbeb13_124958/index.m3u8?expire=1775819231&amp;sign=4610b438cf6658bad88146f11d542ff6
+#EXTINF:-1 tvg-id="601344094" group-title="Kuala Lumpur City FC vs Johor Darul Ta'zim FC 19:15 ngày 03/04 Malaysian Cup", Kuala Lumpur City FC vs Johor Darul Ta'zim FC 19:15 ngày 03/04 Malaysian Cup (Link 2)
+https://live.alilicloud.com/live/ea3300da996cd74e49ee5619fd7e3ac4/playlist.m3u8
+#EXTINF:-1 tvg-id="601344094" group-title="Kuala Lumpur City FC vs Johor Darul Ta'zim FC 19:15 ngày 03/04 Malaysian Cup", Kuala Lumpur City FC vs Johor Darul Ta'zim FC 19:15 ngày 03/04 Malaysian Cup (Link 3)
+https://cdn-hls.taoxanh.biz/live/69cf9f5fbeb13_124958/index.m3u8?expire=1775819231&sign=4610b438cf6658bad88146f11d542ff6
 #EXTINF:-1 tvg-id="601342603" group-title="Prykarpattya Ivano Frankivsk vs Metalist Kharkiv 18:00 ngày 03/04 Ukrainian First League", Prykarpattya Ivano Frankivsk vs Metalist Kharkiv 18:00 ngày 03/04 Ukrainian First League
 https://live.alilicloud.com/live/3564bc13e0ca7c1ce86d2ecff8cb7732/playlist.m3u8
+#EXTINF:-1 tvg-id="601342108" group-title="Dinamo KyivU21 vs Karpaty U21 18:00 ngày 03/04 Ukrainian Youth Team Championship", Dinamo KyivU21 vs Karpaty U21 18:00 ngày 03/04 Ukrainian Youth Team Championship
+https://live.alilicloud.com/live/bc74b6209d05cf9365a2842e57b8de03/playlist.m3u8
 #EXTINF:-1 tvg-id="601342075" group-title="Kolding FC vs Esbjerg 18:00 ngày 03/04 Danish 1st Division", Kolding FC vs Esbjerg 18:00 ngày 03/04 Danish 1st Division
 https://live.alilicloud.com/live/037306431eb1d03acc0502608a8dc603/playlist.m3u8
 #EXTINF:-1 tvg-id="601342051" group-title="Mlada Boleslav U19 vs MFK Karvina U19 18:00 ngày 03/04 Czech U19 League", Mlada Boleslav U19 vs MFK Karvina U19 18:00 ngày 03/04 Czech U19 League
@@ -67,8 +57,18 @@ https://live.alilicloud.com/live/1b8ed3bb18f94f82607fe392d5961f02/playlist.m3u8
 https://live.alilicloud.com/live/68be500f980acf153e5559ed53e408b3/playlist.m3u8
 #EXTINF:-1 tvg-id="601342033" group-title="Samgurali Tskh vs FC Metalurgi Rustavi 18:00 ngày 03/04 Georgia Erovnuli Liga", Samgurali Tskh vs FC Metalurgi Rustavi 18:00 ngày 03/04 Georgia Erovnuli Liga
 https://live.alilicloud.com/live/9f2dd87d62a1c734808bf9a12141b6b6/playlist.m3u8
+#EXTINF:-1 tvg-id="601342030" group-title="Dinamo Tbilisi vs Dila Gori 18:00 ngày 03/04 Georgia Erovnuli Liga", Dinamo Tbilisi vs Dila Gori 18:00 ngày 03/04 Georgia Erovnuli Liga
+https://live.alilicloud.com/live/611b0cd946cf78e351e9fef05008d6ce/playlist.m3u8
+#EXTINF:-1 tvg-id="601343980" group-title="Kristianstads DFF (w) vs Djurgardens (w) 18:00 ngày 03/04 Sweden Damallsvenskan", Kristianstads DFF (w) vs Djurgardens (w) 18:00 ngày 03/04 Sweden Damallsvenskan
+https://live.alilicloud.com/live/fae5c985c71c8d39385565708049815c/playlist.m3u8
+#EXTINF:-1 tvg-id="601343989" group-title="Angelholms FF vs Trelleborgs FF 18:00 ngày 03/04 Sweden Division 1", Angelholms FF vs Trelleborgs FF 18:00 ngày 03/04 Sweden Division 1
+https://live.alilicloud.com/live/41a367521cef966208be9692b4131dcf/playlist.m3u8
+#EXTINF:-1 tvg-id="601343992" group-title="Ariana vs Kristianstads FF 18:00 ngày 03/04 Sweden Division 1", Ariana vs Kristianstads FF 18:00 ngày 03/04 Sweden Division 1
+https://live.alilicloud.com/live/411cc731f1eb5f0dad2ca879d2f0b1fc/playlist.m3u8
 #EXTINF:-1 tvg-id="601343995" group-title="FC Arlanda vs Vasalunds IF 18:00 ngày 03/04 Sweden Division 1", FC Arlanda vs Vasalunds IF 18:00 ngày 03/04 Sweden Division 1
 https://live.alilicloud.com/live/96529d69b49379789565fe838d9fdf05/playlist.m3u8
+#EXTINF:-1 tvg-id="601347427" group-title="Mingachevir vs FK SAFA 18:30 ngày 03/04 Azerbaijan First Division", Mingachevir vs FK SAFA 18:30 ngày 03/04 Azerbaijan First Division
+https://live.alilicloud.com/live/e1b52d9a8680b1d2467abc4c1181c081/playlist.m3u8
 #EXTINF:-1 tvg-id="601344046" group-title="Southampton (w) vs Sheffield United (w) 18:30 ngày 03/04 English FA Women's Super League 2", Southampton (w) vs Sheffield United (w) 18:30 ngày 03/04 English FA Women's Super League 2
 https://live.alilicloud.com/live/84678a8240993821a6bea011ab3a17e3/playlist.m3u8
 #EXTINF:-1 tvg-id="601342096" group-title="Shahdagh Qusar vs Simal FK 18:30 ngày 03/04 Azerbaijan First Division", Shahdagh Qusar vs Simal FK 18:30 ngày 03/04 Azerbaijan First Division
@@ -77,19 +77,35 @@ https://live.alilicloud.com/live/45c0aae6aee712161315162bdb602f12/playlist.m3u8
 https://live.alilicloud.com/live/53168cbc489626c535d1536e8b699fe0/playlist.m3u8
 #EXTINF:-1 tvg-id="601342090" group-title="Nomme JK Kalju vs Trans Narva 18:30 ngày 03/04 Estonian Premium Liiga", Nomme JK Kalju vs Trans Narva 18:30 ngày 03/04 Estonian Premium Liiga
 https://live.alilicloud.com/live/88808abd7c48ebe7536e0c2f05c22755/playlist.m3u8
-#EXTINF:-1 tvg-id="601347427" group-title="Mingachevir vs FK SAFA 18:30 ngày 03/04 Azerbaijan First Division", Mingachevir vs FK SAFA 18:30 ngày 03/04 Azerbaijan First Division
-https://live.alilicloud.com/live/e1b52d9a8680b1d2467abc4c1181c081/playlist.m3u8
-#EXTINF:-1 tvg-id="601342105" group-title="Dewa United FC vs PSIM Yogyakarta 19:00 ngày 03/04 Indonesian Liga 1", Dewa United FC vs PSIM Yogyakarta 19:00 ngày 03/04 Indonesian Liga 1 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69cf9d262443f_28/index.m3u8?expire=1775818662&amp;sign=c51ec30a39106fa72f21e64054badc98
-#EXTINF:-1 tvg-id="601342105" group-title="Dewa United FC vs PSIM Yogyakarta 19:00 ngày 03/04 Indonesian Liga 1", Dewa United FC vs PSIM Yogyakarta 19:00 ngày 03/04 Indonesian Liga 1 (Link 2)
-https://cdn-hls.taoxanh.biz/live/69cf9d262443f_28/index.m3u8?expire=1775818662&sign=c51ec30a39106fa72f21e64054badc98
-#EXTINF:-1 tvg-id="601342180" group-title="Pattani vs Sisaket United 19:00 ngày 03/04 M-150 Championship", Pattani vs Sisaket United 19:00 ngày 03/04 M-150 Championship (Link 1)
-https://cdn-hls.taoxanh.biz/live/69cfa414beb13_72787/index.m3u8?expire=1775820436&amp;sign=929ffeadf6e7902636a17cb9f7028cbd
-#EXTINF:-1 tvg-id="601342180" group-title="Pattani vs Sisaket United 19:00 ngày 03/04 M-150 Championship", Pattani vs Sisaket United 19:00 ngày 03/04 M-150 Championship (Link 2)
-https://cdn-hls.taoxanh.biz/live/69cfa414beb13_72787/index.m3u8?expire=1775820436&sign=929ffeadf6e7902636a17cb9f7028cbd
-#EXTINF:-1 tvg-id="601344094" group-title="Kuala Lumpur City FC vs Johor Darul Ta'zim FC 19:15 ngày 03/04 Malaysian Cup", Kuala Lumpur City FC vs Johor Darul Ta'zim FC 19:15 ngày 03/04 Malaysian Cup (Link 1)
-https://cdn-hls.taoxanh.biz/live/69cf9f5fbeb13_124958/index.m3u8?expire=1775819231&amp;sign=4610b438cf6658bad88146f11d542ff6
-#EXTINF:-1 tvg-id="601344094" group-title="Kuala Lumpur City FC vs Johor Darul Ta'zim FC 19:15 ngày 03/04 Malaysian Cup", Kuala Lumpur City FC vs Johor Darul Ta'zim FC 19:15 ngày 03/04 Malaysian Cup (Link 2)
-https://live.alilicloud.com/live/ea3300da996cd74e49ee5619fd7e3ac4/playlist.m3u8
-#EXTINF:-1 tvg-id="601344094" group-title="Kuala Lumpur City FC vs Johor Darul Ta'zim FC 19:15 ngày 03/04 Malaysian Cup", Kuala Lumpur City FC vs Johor Darul Ta'zim FC 19:15 ngày 03/04 Malaysian Cup (Link 3)
-https://cdn-hls.taoxanh.biz/live/69cf9f5fbeb13_124958/index.m3u8?expire=1775819231&sign=4610b438cf6658bad88146f11d542ff6
+#EXTINF:-1 tvg-id="601342081" group-title="Doncaster Rovers vs Mansfield Town 18:30 ngày 03/04 English Football League One", Doncaster Rovers vs Mansfield Town 18:30 ngày 03/04 English Football League One
+https://live.alilicloud.com/live/7d5eb50e0ac603c5804888c0b880f5f6/playlist.m3u8
+#EXTINF:-1 tvg-id="601355017" group-title="Taishan Urban Construction vs Yongzhou Football Team 18:35 ngày 03/04 CMG Mass Football Invitational Tournament", Taishan Urban Construction vs Yongzhou Football Team 18:35 ngày 03/04 CMG Mass Football Invitational Tournament
+https://live.alilicloud.com/live/1f83ee0258d65593293ef61e8877f986/playlist.m3u8
+#EXTINF:-1 tvg-id="601342600" group-title="Probiy Horodenka vs Podillya Khmelnytskyi 19:00 ngày 03/04 Ukrainian First League", Probiy Horodenka vs Podillya Khmelnytskyi 19:00 ngày 03/04 Ukrainian First League
+https://live.alilicloud.com/live/4a1e83ac9d11e225a9ab24ebca31a46d/playlist.m3u8
+#EXTINF:-1 tvg-id="601342141" group-title="Maccabi Petah Tikva FC vs  Hapoel Nof HaGalil 19:00 ngày 03/04 Israel Leumit League", Maccabi Petah Tikva FC vs  Hapoel Nof HaGalil 19:00 ngày 03/04 Israel Leumit League
+https://live.alilicloud.com/live/aae1e868a8684e32c410f64c07172afc/playlist.m3u8
+#EXTINF:-1 tvg-id="601342138" group-title="Maccabi Kabilio Jaffa vs Kiryat Yam SC 19:00 ngày 03/04 Israel Leumit League", Maccabi Kabilio Jaffa vs Kiryat Yam SC 19:00 ngày 03/04 Israel Leumit League
+https://live.alilicloud.com/live/91f52ee73e1b071545eedf062c6f1863/playlist.m3u8
+#EXTINF:-1 tvg-id="601342135" group-title="Hapoel Ramat Gan vs Hapoel Kfar Saba 19:00 ngày 03/04 Israel Leumit League", Hapoel Ramat Gan vs Hapoel Kfar Saba 19:00 ngày 03/04 Israel Leumit League
+https://live.alilicloud.com/live/b8ddec6775e1e08b2a2e8f949fa68991/playlist.m3u8
+#EXTINF:-1 tvg-id="601342132" group-title="Hapoel Hadera vs Hapoel Rishon Lezion 19:00 ngày 03/04 Israel Leumit League", Hapoel Hadera vs Hapoel Rishon Lezion 19:00 ngày 03/04 Israel Leumit League
+https://live.alilicloud.com/live/3c0b0eb7c26b5a89fb8bcdc3f1e73e2d/playlist.m3u8
+#EXTINF:-1 tvg-id="601342201" group-title="Viktoria Plzen U19 vs Banik Ostrava U19 19:15 ngày 03/04 Czech U19 League", Viktoria Plzen U19 vs Banik Ostrava U19 19:15 ngày 03/04 Czech U19 League
+https://live.alilicloud.com/live/62070e58fbbf8ef46514d7c7746d0360/playlist.m3u8
+#EXTINF:-1 tvg-id="601342204" group-title="SC Poltava vs FK Oleksandria 19:30 ngày 03/04 Ukrainian Premier League", SC Poltava vs FK Oleksandria 19:30 ngày 03/04 Ukrainian Premier League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69cfaac32443f_73445/index.m3u8?expire=1775822147&amp;sign=96180c3ee16dc191e6cc1cffef714ebe
+#EXTINF:-1 tvg-id="601342204" group-title="SC Poltava vs FK Oleksandria 19:30 ngày 03/04 Ukrainian Premier League", SC Poltava vs FK Oleksandria 19:30 ngày 03/04 Ukrainian Premier League (Link 2)
+https://live.alilicloud.com/live/6279c75a8741ce46caa76bb32f0da3ac/playlist.m3u8
+#EXTINF:-1 tvg-id="601342204" group-title="SC Poltava vs FK Oleksandria 19:30 ngày 03/04 Ukrainian Premier League", SC Poltava vs FK Oleksandria 19:30 ngày 03/04 Ukrainian Premier League (Link 3)
+https://cdn-hls.taoxanh.biz/live/69cfaac32443f_73445/index.m3u8?expire=1775822147&sign=96180c3ee16dc191e6cc1cffef714ebe
+#EXTINF:-1 tvg-id="601340074" group-title="Xorazm Urganch vs Dinamo Samarqand 20:00 ngày 03/04 Uzbekistan Super League", Xorazm Urganch vs Dinamo Samarqand 20:00 ngày 03/04 Uzbekistan Super League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69cfb00dbeb13_136682/index.m3u8?expire=1775823501&amp;sign=75d9941c2c6e55abd3fae8657a1d06f0
+#EXTINF:-1 tvg-id="601340074" group-title="Xorazm Urganch vs Dinamo Samarqand 20:00 ngày 03/04 Uzbekistan Super League", Xorazm Urganch vs Dinamo Samarqand 20:00 ngày 03/04 Uzbekistan Super League (Link 2)
+https://live.alilicloud.com/live/dc106626b69042a126151856c187840e/playlist.m3u8
+#EXTINF:-1 tvg-id="601340074" group-title="Xorazm Urganch vs Dinamo Samarqand 20:00 ngày 03/04 Uzbekistan Super League", Xorazm Urganch vs Dinamo Samarqand 20:00 ngày 03/04 Uzbekistan Super League (Link 3)
+https://cdn-hls.taoxanh.biz/live/69cfb00dbeb13_136682/index.m3u8?expire=1775823501&sign=75d9941c2c6e55abd3fae8657a1d06f0
+#EXTINF:-1 tvg-id="601342321" group-title="Hvidovre IF vs Hillerod Fodbold 20:30 ngày 03/04 Danish 1st Division", Hvidovre IF vs Hillerod Fodbold 20:30 ngày 03/04 Danish 1st Division (Link 1)
+https://cdn-hls.taoxanh.biz/live/69cfb60a2443f_88642/index.m3u8?expire=1775825034&amp;sign=e459fa91fa3c0c46d4845968a5ca54b7
+#EXTINF:-1 tvg-id="601342321" group-title="Hvidovre IF vs Hillerod Fodbold 20:30 ngày 03/04 Danish 1st Division", Hvidovre IF vs Hillerod Fodbold 20:30 ngày 03/04 Danish 1st Division (Link 2)
+https://cdn-hls.taoxanh.biz/live/69cfb60a2443f_88642/index.m3u8?expire=1775825034&sign=e459fa91fa3c0c46d4845968a5ca54b7
