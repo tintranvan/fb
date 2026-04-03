@@ -1,14 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601339723" group-title="Gualaceo SC vs Pottu Via Ho 03:30 ngày 04/04 Ecuadorian Campeonato Serie B", Gualaceo SC vs Pottu Via Ho 03:30 ngày 04/04 Ecuadorian Campeonato Serie B
-https://live.alilicloud.com/live/e9ee7701fa5de9a4abd15fe31adbedef/playlist.m3u8
-#EXTINF:-1 tvg-id="601347451" group-title="Coquimbo Unido vs Cobresal 03:30 ngày 04/04 Chilean Primera Division", Coquimbo Unido vs Cobresal 03:30 ngày 04/04 Chilean Primera Division
-https://live.alilicloud.com/live/4a3a7bf5eee79098776dc3272de4586e/playlist.m3u8
 #EXTINF:-1 tvg-id="601354021" group-title="Independiente Petrolero vs Nacional Potosi 04:15 ngày 04/04 Bolivian Primera Division", Independiente Petrolero vs Nacional Potosi 04:15 ngày 04/04 Bolivian Primera Division
 https://live.alilicloud.com/live/b39b2350d9e47c0dddfc21ec55eace70/playlist.m3u8
-#EXTINF:-1 tvg-id="601348522" group-title="Academia Anzoategui vs Universidad Central de Venezuela 04:30 ngày 04/04 Venezuela Primera Division", Academia Anzoategui vs Universidad Central de Venezuela 04:30 ngày 04/04 Venezuela Primera Division
-https://live.alilicloud.com/live/7ba450fd883a196db21aedb9eea7bf57/playlist.m3u8
 #EXTINF:-1 tvg-id="601347454" group-title="Ituzaingo vs Argentino de Merlo 05:00 ngày 04/04 Argentine Group B Tebolidun League Manchester", Ituzaingo vs Argentino de Merlo 05:00 ngày 04/04 Argentine Group B Tebolidun League Manchester
 https://live.alilicloud.com/live/1eb38c952ce08737e569e9b5d8967528/playlist.m3u8
+#EXTINF:-1 tvg-id="601344625" group-title="San Lorenzo vs Estudiantes La Plata 05:30 ngày 04/04 Argentine Division 1", San Lorenzo vs Estudiantes La Plata 05:30 ngày 04/04 Argentine Division 1
+https://live.alilicloud.com/live/1cca2600fb6b9841d017c69b9e0c2040/playlist.m3u8
+#EXTINF:-1 tvg-id="601344631" group-title="O.Higgins vs Audax Italiano 06:00 ngày 04/04 Chilean Primera Division", O.Higgins vs Audax Italiano 06:00 ngày 04/04 Chilean Primera Division (Link 1)
+https://cdn-hls.taoxanh.biz/live/69d041942443f_74012/index.m3u8?expire=1775860756&amp;sign=d5021840c243d1a42a0d119a1e8222e8
+#EXTINF:-1 tvg-id="601344631" group-title="O.Higgins vs Audax Italiano 06:00 ngày 04/04 Chilean Primera Division", O.Higgins vs Audax Italiano 06:00 ngày 04/04 Chilean Primera Division (Link 2)
+https://cdn-hls.taoxanh.biz/live/69d041942443f_74012/index.m3u8?expire=1775860756&sign=d5021840c243d1a42a0d119a1e8222e8
+#EXTINF:-1 tvg-id="601344655" group-title="Fortaleza F.C vs La Equidad 06:20 ngày 04/04 Categoría Primera A", Fortaleza F.C vs La Equidad 06:20 ngày 04/04 Categoría Primera A (Link 1)
+https://cdn-hls.taoxanh.biz/live/69d042cbbeb14_128756/index.m3u8?expire=1775861067&amp;sign=23d09a8ac9c792af38eb7d91a0416f86
+#EXTINF:-1 tvg-id="601344655" group-title="Fortaleza F.C vs La Equidad 06:20 ngày 04/04 Categoría Primera A", Fortaleza F.C vs La Equidad 06:20 ngày 04/04 Categoría Primera A (Link 2)
+https://cdn-hls.taoxanh.biz/live/69d042cbbeb14_128756/index.m3u8?expire=1775861067&sign=23d09a8ac9c792af38eb7d91a0416f86
 #EXTINF:-1 tvg-id="601345318" group-title="Manchester City vs Liverpool 18:45 ngày 04/04 FA Cup", Manchester City vs Liverpool 18:45 ngày 04/04 FA Cup
 https://live.alilicloud.com/live/31cbe321bfc87e0619076361cdc1fa86/playlist.m3u8
 #EXTINF:-1 tvg-id="601345321" group-title="Real Sociedad vs Levante 19:00 ngày 04/04 Spanish La Liga", Real Sociedad vs Levante 19:00 ngày 04/04 Spanish La Liga
