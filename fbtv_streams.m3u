@@ -1,22 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601344547" group-title="Paris Saint Germain vs Toulouse FC 01:45 ngày 04/04 French Ligue 1", Paris Saint Germain vs Toulouse FC 01:45 ngày 04/04 French Ligue 1 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69d003c819aad_79/index.m3u8?expire=1775844936&amp;sign=270674779eb6b9b163cb112dc10e8208
-#EXTINF:-1 tvg-id="601344547" group-title="Paris Saint Germain vs Toulouse FC 01:45 ngày 04/04 French Ligue 1", Paris Saint Germain vs Toulouse FC 01:45 ngày 04/04 French Ligue 1 (Link 2)
-https://live.alilicloud.com/live/eed070a27178eed6a8d7ccfad29f3bf4/playlist.m3u8
-#EXTINF:-1 tvg-id="601344547" group-title="Paris Saint Germain vs Toulouse FC 01:45 ngày 04/04 French Ligue 1", Paris Saint Germain vs Toulouse FC 01:45 ngày 04/04 French Ligue 1 (Link 3)
-https://cdn-hls.taoxanh.biz/live/69d003c819aad_79/index.m3u8?expire=1775844936&sign=270674779eb6b9b163cb112dc10e8208
-#EXTINF:-1 tvg-id="601344592" group-title="Rayo Vallecano vs Elche 02:00 ngày 04/04 Spanish La Liga", Rayo Vallecano vs Elche 02:00 ngày 04/04 Spanish La Liga (Link 1)
-https://cdn-hls.taoxanh.biz/live/69cffff7beb13_85514/index.m3u8?expire=1775843959&amp;sign=2f4f87ef415b0f334c44c76c82103030
-#EXTINF:-1 tvg-id="601344592" group-title="Rayo Vallecano vs Elche 02:00 ngày 04/04 Spanish La Liga", Rayo Vallecano vs Elche 02:00 ngày 04/04 Spanish La Liga (Link 2)
-https://live.alilicloud.com/live/34f24f16860fbc8cdbfffaab2214c655/playlist.m3u8
-#EXTINF:-1 tvg-id="601344592" group-title="Rayo Vallecano vs Elche 02:00 ngày 04/04 Spanish La Liga", Rayo Vallecano vs Elche 02:00 ngày 04/04 Spanish La Liga (Link 3)
-https://cdn-hls.taoxanh.biz/live/69cffff7beb13_85514/index.m3u8?expire=1775843959&sign=2f4f87ef415b0f334c44c76c82103030
-#EXTINF:-1 tvg-id="601344589" group-title="Coventry City vs Derby County 02:00 ngày 04/04 English Football League Championship", Coventry City vs Derby County 02:00 ngày 04/04 English Football League Championship (Link 1)
-https://cdn-hls.taoxanh.biz/live/69d005abbeb14_128756/index.m3u8?expire=1775845419&amp;sign=6e8071abc620fdb5d8a0efff685a8801
-#EXTINF:-1 tvg-id="601344589" group-title="Coventry City vs Derby County 02:00 ngày 04/04 English Football League Championship", Coventry City vs Derby County 02:00 ngày 04/04 English Football League Championship (Link 2)
-https://live.alilicloud.com/live/eb22c8a4873c6ba3a54c1f780c63c55b/playlist.m3u8
-#EXTINF:-1 tvg-id="601344589" group-title="Coventry City vs Derby County 02:00 ngày 04/04 English Football League Championship", Coventry City vs Derby County 02:00 ngày 04/04 English Football League Championship (Link 3)
-https://cdn-hls.taoxanh.biz/live/69d005abbeb14_128756/index.m3u8?expire=1775845419&sign=6e8071abc620fdb5d8a0efff685a8801
 #EXTINF:-1 tvg-id="601344604" group-title="Sporting CP vs Santa Clara 02:30 ngày 04/04 Portuguese Primera Liga", Sporting CP vs Santa Clara 02:30 ngày 04/04 Portuguese Primera Liga (Link 1)
 https://cdn-hls.taoxanh.biz/live/69cfff2c2443f_88186/index.m3u8?expire=1775843756&amp;sign=7586cffaaf4fd09aefdd5a324423b625
 #EXTINF:-1 tvg-id="601344604" group-title="Sporting CP vs Santa Clara 02:30 ngày 04/04 Portuguese Primera Liga", Sporting CP vs Santa Clara 02:30 ngày 04/04 Portuguese Primera Liga (Link 2)
@@ -33,30 +15,18 @@ https://cdn-hls.taoxanh.biz/live/69d00e29beb14_28/index.m3u8?expire=1775847593&s
 https://cdn-hls.taoxanh.biz/live/69cfbf652202b_103/index.m3u8?expire=1775827429&amp;sign=b2880ee895b06b2aaab06fc14891bfb4
 #EXTINF:-1 tvg-id="601355737" group-title="Joshua Filler vs Emil André Gangfløt 23:00 ngày 03/04 Giải vô địch Pool 8 bi thế giới 2026", Joshua Filler vs Emil André Gangfløt 23:00 ngày 03/04 Giải vô địch Pool 8 bi thế giới 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69cfbf652202b_103/index.m3u8?expire=1775827429&sign=b2880ee895b06b2aaab06fc14891bfb4
-#EXTINF:-1 tvg-id="601344559" group-title="St. Patricks Athletic vs Sligo Rovers 01:45 ngày 04/04 Ireland Premier Division", St. Patricks Athletic vs Sligo Rovers 01:45 ngày 04/04 Ireland Premier Division
-https://live.alilicloud.com/live/34056af872f2963322deede2e92e73b9/playlist.m3u8
-#EXTINF:-1 tvg-id="601355320" group-title="Derby Académie vs Bougouba 01:45 ngày 04/04 Mali Premiere Division", Derby Académie vs Bougouba 01:45 ngày 04/04 Mali Premiere Division
-https://live.alilicloud.com/live/d8f688f5da67711fd80f83c4c386e134/playlist.m3u8
-#EXTINF:-1 tvg-id="601344580" group-title="Royal Antwerp vs Racing Genk 01:45 ngày 04/04 Belgian Pro League", Royal Antwerp vs Racing Genk 01:45 ngày 04/04 Belgian Pro League
-https://live.alilicloud.com/live/420a75f452a053880f6fe897f5ec23f4/playlist.m3u8
-#EXTINF:-1 tvg-id="601344562" group-title="Waterford United vs Shamrock Rovers 01:45 ngày 04/04 Ireland Premier Division", Waterford United vs Shamrock Rovers 01:45 ngày 04/04 Ireland Premier Division
-https://live.alilicloud.com/live/463e9257977821c1d265aae1f406da80/playlist.m3u8
-#EXTINF:-1 tvg-id="601344556" group-title="Shelbourne vs Dundalk 01:45 ngày 04/04 Ireland Premier Division", Shelbourne vs Dundalk 01:45 ngày 04/04 Ireland Premier Division
-https://live.alilicloud.com/live/5e6424617f1b124bd4b512f8d20e3700/playlist.m3u8
-#EXTINF:-1 tvg-id="601344553" group-title="Drogheda United vs Bohemians 01:45 ngày 04/04 Ireland Premier Division", Drogheda United vs Bohemians 01:45 ngày 04/04 Ireland Premier Division
-https://live.alilicloud.com/live/b05cd6eb340dddc59c9a7ee5c11e42f1/playlist.m3u8
-#EXTINF:-1 tvg-id="601344595" group-title="Galway United vs Derry City 02:00 ngày 04/04 Ireland Premier Division", Galway United vs Derry City 02:00 ngày 04/04 Ireland Premier Division
-https://live.alilicloud.com/live/1542c1df7bc4e48c73332826743e90e1/playlist.m3u8
-#EXTINF:-1 tvg-id="601352710" group-title="FUS Rabat vs Wydad Casablanca 02:00 ngày 04/04 The Botola Pro", FUS Rabat vs Wydad Casablanca 02:00 ngày 04/04 The Botola Pro
-https://live.alilicloud.com/live/7d1bb3efcb43e5b06f18f652d15dd411/playlist.m3u8
-#EXTINF:-1 tvg-id="601354018" group-title="Bolivar vs Real Oruro 02:00 ngày 04/04 Bolivian Primera Division", Bolivar vs Real Oruro 02:00 ngày 04/04 Bolivian Primera Division
-https://live.alilicloud.com/live/564b5fcdb3c88a01cc8a72507ca2f331/playlist.m3u8
 #EXTINF:-1 tvg-id="601344607" group-title="Alianza Atletico Sullana vs Atletico Grau 03:00 ngày 04/04 Peruvian Liga 1", Alianza Atletico Sullana vs Atletico Grau 03:00 ngày 04/04 Peruvian Liga 1
 https://live.alilicloud.com/live/a81c630e6a1367378abbd7eca904ff58/playlist.m3u8
-#EXTINF:-1 tvg-id="601344616" group-title="Fortaleza CEIF FC (W) vs America de Cali (w) 03:00 ngày 04/04 Colombian Liga Betplay Femenina", Fortaleza CEIF FC (W) vs America de Cali (w) 03:00 ngày 04/04 Colombian Liga Betplay Femenina
-https://live.alilicloud.com/live/22e05b37aeec7715055a5cc3d85e1d81/playlist.m3u8
+#EXTINF:-1 tvg-id="601344610" group-title="Boston River vs Montevideo Wanderers FC 03:00 ngày 04/04 Uruguay Primera Division", Boston River vs Montevideo Wanderers FC 03:00 ngày 04/04 Uruguay Primera Division
+https://live.alilicloud.com/live/a119928f6f9ef162cde618771f8a4668/playlist.m3u8
 #EXTINF:-1 tvg-id="601344613" group-title="Uruguay U17 vs Chile U17 03:00 ngày 04/04 CONMEBOL U17 Championship", Uruguay U17 vs Chile U17 03:00 ngày 04/04 CONMEBOL U17 Championship
 https://live.alilicloud.com/live/fd83814e2627edbd0bd2df3b2aa23cc3/playlist.m3u8
+#EXTINF:-1 tvg-id="601344616" group-title="Fortaleza CEIF FC (W) vs America de Cali (w) 03:00 ngày 04/04 Colombian Liga Betplay Femenina", Fortaleza CEIF FC (W) vs America de Cali (w) 03:00 ngày 04/04 Colombian Liga Betplay Femenina
+https://live.alilicloud.com/live/22e05b37aeec7715055a5cc3d85e1d81/playlist.m3u8
+#EXTINF:-1 tvg-id="601339723" group-title="Gualaceo SC vs Pottu Via Ho 03:30 ngày 04/04 Ecuadorian Campeonato Serie B", Gualaceo SC vs Pottu Via Ho 03:30 ngày 04/04 Ecuadorian Campeonato Serie B
+https://live.alilicloud.com/live/e9ee7701fa5de9a4abd15fe31adbedef/playlist.m3u8
+#EXTINF:-1 tvg-id="601347451" group-title="Coquimbo Unido vs Cobresal 03:30 ngày 04/04 Chilean Primera Division", Coquimbo Unido vs Cobresal 03:30 ngày 04/04 Chilean Primera Division
+https://live.alilicloud.com/live/4a3a7bf5eee79098776dc3272de4586e/playlist.m3u8
 #EXTINF:-1 tvg-id="601345318" group-title="Manchester City vs Liverpool 18:45 ngày 04/04 FA Cup", Manchester City vs Liverpool 18:45 ngày 04/04 FA Cup
 https://live.alilicloud.com/live/31cbe321bfc87e0619076361cdc1fa86/playlist.m3u8
 #EXTINF:-1 tvg-id="601345321" group-title="Real Sociedad vs Levante 19:00 ngày 04/04 Spanish La Liga", Real Sociedad vs Levante 19:00 ngày 04/04 Spanish La Liga
