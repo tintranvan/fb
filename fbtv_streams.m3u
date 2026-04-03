@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601341967" group-title="Perth Glory Women vs Melbourne Victory (w) 15:00 ngày 03/04 Australia W-League", Perth Glory Women vs Melbourne Victory (w) 15:00 ngày 03/04 Australia W-League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69cf6b372443f_18754/index.m3u8?expire=1775805879&amp;sign=3cbf339d85941e55c4daf475676e4424
-#EXTINF:-1 tvg-id="601341967" group-title="Perth Glory Women vs Melbourne Victory (w) 15:00 ngày 03/04 Australia W-League", Perth Glory Women vs Melbourne Victory (w) 15:00 ngày 03/04 Australia W-League (Link 2)
-https://live.alilicloud.com/live/fbe1de6036e265522f2b6d003852ee19/playlist.m3u8
-#EXTINF:-1 tvg-id="601341967" group-title="Perth Glory Women vs Melbourne Victory (w) 15:00 ngày 03/04 Australia W-League", Perth Glory Women vs Melbourne Victory (w) 15:00 ngày 03/04 Australia W-League (Link 3)
-https://cdn-hls.taoxanh.biz/live/69cf6b372443f_18754/index.m3u8?expire=1775805879&sign=3cbf339d85941e55c4daf475676e4424
-#EXTINF:-1 tvg-id="601341970" group-title="Manly United vs Sydney FC (Youth) 15:10 ngày 03/04 Australia New South Wales Premier League", Manly United vs Sydney FC (Youth) 15:10 ngày 03/04 Australia New South Wales Premier League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69cf6c49beb12_128756/index.m3u8?expire=1775806153&amp;sign=b06a8beb4fe06a3aa8e921067d418972
-#EXTINF:-1 tvg-id="601341970" group-title="Manly United vs Sydney FC (Youth) 15:10 ngày 03/04 Australia New South Wales Premier League", Manly United vs Sydney FC (Youth) 15:10 ngày 03/04 Australia New South Wales Premier League (Link 2)
-https://live.alilicloud.com/live/b52969b6097ca8bad8062bfae1312417/playlist.m3u8
-#EXTINF:-1 tvg-id="601341970" group-title="Manly United vs Sydney FC (Youth) 15:10 ngày 03/04 Australia New South Wales Premier League", Manly United vs Sydney FC (Youth) 15:10 ngày 03/04 Australia New South Wales Premier League (Link 3)
-https://cdn-hls.taoxanh.biz/live/69cf6c49beb12_128756/index.m3u8?expire=1775806153&sign=b06a8beb4fe06a3aa8e921067d418972
 #EXTINF:-1 tvg-id="601341976" group-title="Arema FC vs Malut United 15:30 ngày 03/04 Indonesian Liga 1", Arema FC vs Malut United 15:30 ngày 03/04 Indonesian Liga 1 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69cf700f2443f_72787/index.m3u8?expire=1775807119&amp;sign=237a9196ecd242b76a7bd0d504d23e45
 #EXTINF:-1 tvg-id="601341976" group-title="Arema FC vs Malut United 15:30 ngày 03/04 Indonesian Liga 1", Arema FC vs Malut United 15:30 ngày 03/04 Indonesian Liga 1 (Link 2)
@@ -32,19 +20,21 @@ https://cdn-hls.taoxanh.biz/live/69cf7727d9d5f_136682/index.m3u8?expire=17758089
 #EXTINF:-1 tvg-id="601341991" group-title="Van Hien University vs Than Quang Ninh 16:00 ngày 03/04 Vietnam National First Class League", Van Hien University vs Than Quang Ninh 16:00 ngày 03/04 Vietnam National First Class League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69cf75a12443f_28/index.m3u8?expire=1775808545&amp;sign=2f6bc5af088c84eaabc792e845ab215a
 #EXTINF:-1 tvg-id="601341991" group-title="Van Hien University vs Than Quang Ninh 16:00 ngày 03/04 Vietnam National First Class League", Van Hien University vs Than Quang Ninh 16:00 ngày 03/04 Vietnam National First Class League (Link 2)
-https://live.alilicloud.com/live/0403e7c494aacd7ab99bd823c2b41f93/playlist.m3u8
-#EXTINF:-1 tvg-id="601341991" group-title="Van Hien University vs Than Quang Ninh 16:00 ngày 03/04 Vietnam National First Class League", Van Hien University vs Than Quang Ninh 16:00 ngày 03/04 Vietnam National First Class League (Link 3)
 https://cdn-hls.taoxanh.biz/live/69cf75a12443f_28/index.m3u8?expire=1775808545&sign=2f6bc5af088c84eaabc792e845ab215a
-#EXTINF:-1 tvg-id="601341973" group-title="Pardubice B vs Jiskra Usti nad Orlici 15:15 ngày 03/04 Czech Third League", Pardubice B vs Jiskra Usti nad Orlici 15:15 ngày 03/04 Czech Third League
-https://live.alilicloud.com/live/5bd8edad315198cb6a20f5085b080497/playlist.m3u8
-#EXTINF:-1 tvg-id="601343902" group-title="Admira Praha vs Loko Vltavin 15:15 ngày 03/04 Czech Third League", Admira Praha vs Loko Vltavin 15:15 ngày 03/04 Czech Third League
-https://live.alilicloud.com/live/b48b343c06571bb3380433d3ec1f37ad/playlist.m3u8
-#EXTINF:-1 tvg-id="601343905" group-title="Aritma Praha vs SK Petrin Plzen 15:15 ngày 03/04 Czech Third League", Aritma Praha vs SK Petrin Plzen 15:15 ngày 03/04 Czech Third League
-https://live.alilicloud.com/live/7e670eb6bfbc401ed20b9570cf193a36/playlist.m3u8
-#EXTINF:-1 tvg-id="601343908" group-title="Spolana Neratovice vs Slovan Velvary 15:15 ngày 03/04 Czech Third League", Spolana Neratovice vs Slovan Velvary 15:15 ngày 03/04 Czech Third League
-https://live.alilicloud.com/live/ff69ca9889bc6d0054c21121e003ba69/playlist.m3u8
-#EXTINF:-1 tvg-id="601347415" group-title="Slovan Liberec II vs Mlada Boleslav B 15:15 ngày 03/04 Czech Third League", Slovan Liberec II vs Mlada Boleslav B 15:15 ngày 03/04 Czech Third League
-https://live.alilicloud.com/live/60bbedabe047decc4d098d09ff419535/playlist.m3u8
+#EXTINF:-1 tvg-id="601342012" group-title="Gil Vicente U23 vs Farense U23 17:00 ngày 03/04 Portuguese U23 League", Gil Vicente U23 vs Farense U23 17:00 ngày 03/04 Portuguese U23 League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69cf8a0bbeb13_74012/index.m3u8?expire=1775813771&amp;sign=15f95e40edc7b9eac93fd9aa37269251
+#EXTINF:-1 tvg-id="601342012" group-title="Gil Vicente U23 vs Farense U23 17:00 ngày 03/04 Portuguese U23 League", Gil Vicente U23 vs Farense U23 17:00 ngày 03/04 Portuguese U23 League (Link 2)
+https://live.alilicloud.com/live/a87d898deb33ecb7710254cbdd228c74/playlist.m3u8
+#EXTINF:-1 tvg-id="601342012" group-title="Gil Vicente U23 vs Farense U23 17:00 ngày 03/04 Portuguese U23 League", Gil Vicente U23 vs Farense U23 17:00 ngày 03/04 Portuguese U23 League (Link 3)
+https://cdn-hls.taoxanh.biz/live/69cf8a0bbeb13_74012/index.m3u8?expire=1775813771&sign=15f95e40edc7b9eac93fd9aa37269251
+#EXTINF:-1 tvg-id="601342021" group-title="FK Taraz vs Ekibastuzets 17:00 ngày 03/04 Kazakhstan Division 1", FK Taraz vs Ekibastuzets 17:00 ngày 03/04 Kazakhstan Division 1 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69cf8480beb13_4908/index.m3u8?expire=1775812352&amp;sign=1fc5a8105ac6b7a4347c99a04233a233
+#EXTINF:-1 tvg-id="601342021" group-title="FK Taraz vs Ekibastuzets 17:00 ngày 03/04 Kazakhstan Division 1", FK Taraz vs Ekibastuzets 17:00 ngày 03/04 Kazakhstan Division 1 (Link 2)
+https://cdn-hls.taoxanh.biz/live/69cf8480beb13_4908/index.m3u8?expire=1775812352&sign=1fc5a8105ac6b7a4347c99a04233a233
+#EXTINF:-1 tvg-id="601355218" group-title="Expressway Co W vs GS Caltex W 17:00 ngày 03/04 Volleyball League Women", Expressway Co W vs GS Caltex W 17:00 ngày 03/04 Volleyball League Women (Link 1)
+https://cdn-hls.taoxanh.biz/live/69cf88eebeb13_88642/index.m3u8?expire=1775813486&amp;sign=830b4b017226c451502bb1f8324d1baf
+#EXTINF:-1 tvg-id="601355218" group-title="Expressway Co W vs GS Caltex W 17:00 ngày 03/04 Volleyball League Women", Expressway Co W vs GS Caltex W 17:00 ngày 03/04 Volleyball League Women (Link 2)
+https://cdn-hls.taoxanh.biz/live/69cf88eebeb13_88642/index.m3u8?expire=1775813486&sign=830b4b017226c451502bb1f8324d1baf
 #EXTINF:-1 tvg-id="601341982" group-title="Dukla Praha U19 vs Vysocina Jihlava U19 16:00 ngày 03/04 Czech U19 League", Dukla Praha U19 vs Vysocina Jihlava U19 16:00 ngày 03/04 Czech U19 League
 https://live.alilicloud.com/live/63b65c6bf43f12809539b4ef9633ea29/playlist.m3u8
 #EXTINF:-1 tvg-id="601341985" group-title="Hradec Kralove U19 vs Sigma Olomouc U19 16:00 ngày 03/04 Czech U19 League", Hradec Kralove U19 vs Sigma Olomouc U19 16:00 ngày 03/04 Czech U19 League
@@ -55,11 +45,13 @@ https://live.alilicloud.com/live/6ae5de2bba7dcb1e4e7ae26f0c111e93/playlist.m3u8
 https://live.alilicloud.com/live/f56728e4c9e528e7795f1b5292454b4f/playlist.m3u8
 #EXTINF:-1 tvg-id="601342015" group-title="Brno U19 vs Dynamo Ceske Budejovice U19 16:30 ngày 03/04 Czech U19 League", Brno U19 vs Dynamo Ceske Budejovice U19 16:30 ngày 03/04 Czech U19 League
 https://live.alilicloud.com/live/57979d56ab40146e2cf037bbcd3996fe/playlist.m3u8
-#EXTINF:-1 tvg-id="601342012" group-title="Gil Vicente U23 vs Farense U23 17:00 ngày 03/04 Portuguese U23 League", Gil Vicente U23 vs Farense U23 17:00 ngày 03/04 Portuguese U23 League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69cf8a0bbeb13_74012/index.m3u8?expire=1775813771&amp;sign=15f95e40edc7b9eac93fd9aa37269251
-#EXTINF:-1 tvg-id="601342012" group-title="Gil Vicente U23 vs Farense U23 17:00 ngày 03/04 Portuguese U23 League", Gil Vicente U23 vs Farense U23 17:00 ngày 03/04 Portuguese U23 League (Link 2)
-https://cdn-hls.taoxanh.biz/live/69cf8a0bbeb13_74012/index.m3u8?expire=1775813771&sign=15f95e40edc7b9eac93fd9aa37269251
-#EXTINF:-1 tvg-id="601342021" group-title="FK Taraz vs Ekibastuzets 17:00 ngày 03/04 Kazakhstan Division 1", FK Taraz vs Ekibastuzets 17:00 ngày 03/04 Kazakhstan Division 1 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69cf8480beb13_4908/index.m3u8?expire=1775812352&amp;sign=1fc5a8105ac6b7a4347c99a04233a233
-#EXTINF:-1 tvg-id="601342021" group-title="FK Taraz vs Ekibastuzets 17:00 ngày 03/04 Kazakhstan Division 1", FK Taraz vs Ekibastuzets 17:00 ngày 03/04 Kazakhstan Division 1 (Link 2)
-https://cdn-hls.taoxanh.biz/live/69cf8480beb13_4908/index.m3u8?expire=1775812352&sign=1fc5a8105ac6b7a4347c99a04233a233
+#EXTINF:-1 tvg-id="601346200" group-title="Real Pharma Ovidiopol vs Nyva Ternopil B 16:55 ngày 03/04 Ukrainian Second League", Real Pharma Ovidiopol vs Nyva Ternopil B 16:55 ngày 03/04 Ukrainian Second League
+https://live.alilicloud.com/live/23bd67db2fbf832913be77a8c6725be2/playlist.m3u8
+#EXTINF:-1 tvg-id="601342111" group-title="Kryvbas U21 vs LNZ Cherkasy U21 17:00 ngày 03/04 Ukrainian Youth Team Championship", Kryvbas U21 vs LNZ Cherkasy U21 17:00 ngày 03/04 Ukrainian Youth Team Championship
+https://live.alilicloud.com/live/a0f5a4f26a73744dfbe497dbcef8889c/playlist.m3u8
+#EXTINF:-1 tvg-id="601347421" group-title="CD Mafra vs UD Santarem 17:00 ngày 03/04 Portuguese Liga 3", CD Mafra vs UD Santarem 17:00 ngày 03/04 Portuguese Liga 3
+https://live.alilicloud.com/live/022e2a04d3634748cd44230bc7ae3c3c/playlist.m3u8
+#EXTINF:-1 tvg-id="601343977" group-title="Bangkok United FC vs Sukhothai 18:00 ngày 03/04 Hilux Revo Thai League", Bangkok United FC vs Sukhothai 18:00 ngày 03/04 Hilux Revo Thai League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69cf922fbeb13_79/index.m3u8?expire=1775815855&amp;sign=ea4f0d27394f857491da2e55d63cd4ac
+#EXTINF:-1 tvg-id="601343977" group-title="Bangkok United FC vs Sukhothai 18:00 ngày 03/04 Hilux Revo Thai League", Bangkok United FC vs Sukhothai 18:00 ngày 03/04 Hilux Revo Thai League (Link 2)
+https://cdn-hls.taoxanh.biz/live/69cf922fbeb13_79/index.m3u8?expire=1775815855&sign=ea4f0d27394f857491da2e55d63cd4ac
