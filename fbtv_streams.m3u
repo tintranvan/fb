@@ -5,6 +5,12 @@ https://cdn-hls.taoxanh.biz/live/69d18122beb17_151657/index.m3u8?expire=17759425
 https://live.alilicloud.com/live/57bbbcd49441a20afd1985a907cdb081/playlist.m3u8
 #EXTINF:-1 tvg-id="601348684" group-title="Monterrey vs Atletico San Luis 06:00 ngày 05/04 Mexico Liga MX", Monterrey vs Atletico San Luis 06:00 ngày 05/04 Mexico Liga MX (Link 3)
 https://cdn-hls.taoxanh.biz/live/69d18122beb17_151657/index.m3u8?expire=1775942562&sign=ebcadde1cde2d5d692d1093703cf4c3f
+#EXTINF:-1 tvg-id="601348732" group-title="DC United vs FC Dallas 06:30 ngày 05/04 United States Major League Soccer", DC United vs FC Dallas 06:30 ngày 05/04 United States Major League Soccer (Link 1)
+https://cdn-hls.taoxanh.biz/live/69d195f2beb17_153967/index.m3u8?expire=1775947890&amp;sign=2c964f7591e2927bc383bdc377c0314d
+#EXTINF:-1 tvg-id="601348732" group-title="DC United vs FC Dallas 06:30 ngày 05/04 United States Major League Soccer", DC United vs FC Dallas 06:30 ngày 05/04 United States Major League Soccer (Link 2)
+https://live.alilicloud.com/live/4e78c64db458b3a462d5b1458f31267e/playlist.m3u8
+#EXTINF:-1 tvg-id="601348732" group-title="DC United vs FC Dallas 06:30 ngày 05/04 United States Major League Soccer", DC United vs FC Dallas 06:30 ngày 05/04 United States Major League Soccer (Link 3)
+https://cdn-hls.taoxanh.biz/live/69d195f2beb17_153967/index.m3u8?expire=1775947890&sign=2c964f7591e2927bc383bdc377c0314d
 #EXTINF:-1 tvg-id="601356571" group-title="Easton / Van Boening vs Zlateva / Kasper 03:00 ngày 05/04 Giải vô địch Pool 8 bi thế giới 2026", Easton / Van Boening vs Zlateva / Kasper 03:00 ngày 05/04 Giải vô địch Pool 8 bi thế giới 2026 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69d13d8ebeb16_103/index.m3u8?expire=1775925262&amp;sign=3240295e91499bb0fefa4ac4e8e49cf8
 #EXTINF:-1 tvg-id="601356571" group-title="Easton / Van Boening vs Zlateva / Kasper 03:00 ngày 05/04 Giải vô địch Pool 8 bi thế giới 2026", Easton / Van Boening vs Zlateva / Kasper 03:00 ngày 05/04 Giải vô địch Pool 8 bi thế giới 2026 (Link 2)
@@ -17,56 +23,70 @@ https://cdn-hls.taoxanh.biz/live/69d18b55beb17_42127/index.m3u8?expire=177594517
 https://cdn-hls.taoxanh.biz/live/69d17c64beb17_142210/index.m3u8?expire=1775941348&amp;sign=ae76f45fd0eb9c67cdf1716e72af93c2
 #EXTINF:-1 tvg-id="601361986" group-title="UFC Fight Night: Vòng Loại", UFC Fight Night: Vòng Loại (Link 2)
 https://cdn-hls.taoxanh.biz/live/69d17c64beb17_142210/index.m3u8?expire=1775941348&sign=ae76f45fd0eb9c67cdf1716e72af93c2
-#EXTINF:-1 tvg-id="601348654" group-title="CD Universidad Católica vs Guayaquil City 04:30 ngày 05/04 LigaPro Serie A", CD Universidad Católica vs Guayaquil City 04:30 ngày 05/04 LigaPro Serie A
-https://live.alilicloud.com/live/c4421264308d76225e5aefe4347a4093/playlist.m3u8
-#EXTINF:-1 tvg-id="601348648" group-title="Sao Paulo vs Cruzeiro Esporte Clube 04:30 ngày 05/04 Brazilian Serie A", Sao Paulo vs Cruzeiro Esporte Clube 04:30 ngày 05/04 Brazilian Serie A
-https://live.alilicloud.com/live/9a5a2d03ec45baf74e85b91d86426eb4/playlist.m3u8
-#EXTINF:-1 tvg-id="601348540" group-title="Zamora Barinas vs Monagas SC 04:30 ngày 05/04 Venezuela Primera Division", Zamora Barinas vs Monagas SC 04:30 ngày 05/04 Venezuela Primera Division
-https://live.alilicloud.com/live/f2f60c703b91434ff19216ab308b9a0e/playlist.m3u8
 #EXTINF:-1 tvg-id="601348666" group-title="Club Atletico Progreso vs CA Penarol 04:55 ngày 05/04 Uruguay Primera Division", Club Atletico Progreso vs CA Penarol 04:55 ngày 05/04 Uruguay Primera Division
 https://live.alilicloud.com/live/e6a84c2140c9954dc5b89ab87cb4f6ef/playlist.m3u8
 #EXTINF:-1 tvg-id="601348657" group-title="Colon de Santa Fe vs CA San Miguel 05:00 ngày 05/04 Argentine Division 2", Colon de Santa Fe vs CA San Miguel 05:00 ngày 05/04 Argentine Division 2
 https://live.alilicloud.com/live/8f6828fde9b202347d195d521a829d81/playlist.m3u8
 #EXTINF:-1 tvg-id="601356508" group-title="Cayon FC vs Sandy Point 05:10 ngày 05/04 Saint Kitts Nevis Premier League", Cayon FC vs Sandy Point 05:10 ngày 05/04 Saint Kitts Nevis Premier League
 https://live.alilicloud.com/live/f3a34b9c829575ee3669851327a1bb9a/playlist.m3u8
-#EXTINF:-1 tvg-id="601348681" group-title="Marilia Ac vs EC Sao Bernardo/SP 05:30 ngày 05/04 Brazilian Campeonato Paulista A3", Marilia Ac vs EC Sao Bernardo/SP 05:30 ngày 05/04 Brazilian Campeonato Paulista A3
-https://live.alilicloud.com/live/404236d83bcf51b43989aeacf4c23188/playlist.m3u8
-#EXTINF:-1 tvg-id="601348678" group-title="North Carolina (w) vs Portland Thorns FC (w) 05:30 ngày 05/04 United States Women's National Soccer League", North Carolina (w) vs Portland Thorns FC (w) 05:30 ngày 05/04 United States Women's National Soccer League
-https://live.alilicloud.com/live/61e29eff4cdf7743cb18e46078ed4be5/playlist.m3u8
-#EXTINF:-1 tvg-id="601348675" group-title="Maringa FC vs Ferroviaria SP 05:30 ngày 05/04 Brazilian Serie C", Maringa FC vs Ferroviaria SP 05:30 ngày 05/04 Brazilian Serie C
-https://live.alilicloud.com/live/05c94e356a491c6f1efcb918f2c3c31d/playlist.m3u8
 #EXTINF:-1 tvg-id="601348672" group-title="Botafogo PB vs Barra FC 05:30 ngày 05/04 Brazilian Serie C", Botafogo PB vs Barra FC 05:30 ngày 05/04 Brazilian Serie C
 https://live.alilicloud.com/live/c85d4cdf0b4f266860852ba29f293820/playlist.m3u8
+#EXTINF:-1 tvg-id="601348675" group-title="Maringa FC vs Ferroviaria SP 05:30 ngày 05/04 Brazilian Serie C", Maringa FC vs Ferroviaria SP 05:30 ngày 05/04 Brazilian Serie C
+https://live.alilicloud.com/live/05c94e356a491c6f1efcb918f2c3c31d/playlist.m3u8
+#EXTINF:-1 tvg-id="601348678" group-title="North Carolina (w) vs Portland Thorns FC (w) 05:30 ngày 05/04 United States Women's National Soccer League", North Carolina (w) vs Portland Thorns FC (w) 05:30 ngày 05/04 United States Women's National Soccer League
+https://live.alilicloud.com/live/61e29eff4cdf7743cb18e46078ed4be5/playlist.m3u8
+#EXTINF:-1 tvg-id="601348681" group-title="Marilia Ac vs EC Sao Bernardo/SP 05:30 ngày 05/04 Brazilian Campeonato Paulista A3", Marilia Ac vs EC Sao Bernardo/SP 05:30 ngày 05/04 Brazilian Campeonato Paulista A3
+https://live.alilicloud.com/live/404236d83bcf51b43989aeacf4c23188/playlist.m3u8
 #EXTINF:-1 tvg-id="601356706" group-title="Deportivo Lara vs Barquisimeto 06:00 ngày 05/04 Venezuela Segunda Division", Deportivo Lara vs Barquisimeto 06:00 ngày 05/04 Venezuela Segunda Division
 https://live.alilicloud.com/live/a3ee4ce22f59a20d94837cad83880f95/playlist.m3u8
-#EXTINF:-1 tvg-id="601356592" group-title="FC Inter Wanica vs Voorwaarts T 06:00 ngày 05/04 SML", FC Inter Wanica vs Voorwaarts T 06:00 ngày 05/04 SML
-https://live.alilicloud.com/live/413d726966540e82a5ce36e858b0d723/playlist.m3u8
-#EXTINF:-1 tvg-id="601348717" group-title="Westchester SC vs Corpus Christi FC 06:00 ngày 05/04 USL League One", Westchester SC vs Corpus Christi FC 06:00 ngày 05/04 USL League One
-https://live.alilicloud.com/live/3743ed78b853076f12a205defd267a8c/playlist.m3u8
-#EXTINF:-1 tvg-id="601348714" group-title="FC Naples vs Greenville Triumph 06:00 ngày 05/04 USL League One", FC Naples vs Greenville Triumph 06:00 ngày 05/04 USL League One
-https://live.alilicloud.com/live/dfec3d9bd8b69cd6e7a77e70eddb2622/playlist.m3u8
 #EXTINF:-1 tvg-id="601348705" group-title="Vila Nova vs Atletico Clube Goianiense 06:00 ngày 05/04 Brazilian Serie B", Vila Nova vs Atletico Clube Goianiense 06:00 ngày 05/04 Brazilian Serie B
 https://live.alilicloud.com/live/0cc3a19dfdb513d170a3a3a2187a5002/playlist.m3u8
-#EXTINF:-1 tvg-id="601348702" group-title="Vancouver FC vs HFX Wanderers FC 06:00 ngày 05/04 Canadian Premier League", Vancouver FC vs HFX Wanderers FC 06:00 ngày 05/04 Canadian Premier League
-https://live.alilicloud.com/live/6f8358bffc047f52ec711f1a62757f53/playlist.m3u8
 #EXTINF:-1 tvg-id="601348699" group-title="Everton CD vs Nublense 06:00 ngày 05/04 Chilean Primera Division", Everton CD vs Nublense 06:00 ngày 05/04 Chilean Primera Division
 https://live.alilicloud.com/live/e57d25bd370552528a55bbb4024f3585/playlist.m3u8
-#EXTINF:-1 tvg-id="601348696" group-title="Indy Eleven vs Pittsburgh Riverhounds 06:00 ngày 05/04 USL Championship", Indy Eleven vs Pittsburgh Riverhounds 06:00 ngày 05/04 USL Championship
-https://live.alilicloud.com/live/e713d7fbb898bc1913e17c6301e47920/playlist.m3u8
 #EXTINF:-1 tvg-id="601348693" group-title="Toluca (w) vs Cruz Azul (w) 06:00 ngày 05/04 Mexico Liga MX Femenil", Toluca (w) vs Cruz Azul (w) 06:00 ngày 05/04 Mexico Liga MX Femenil
 https://live.alilicloud.com/live/08db2701c7f9d2033372f995ff25016e/playlist.m3u8
 #EXTINF:-1 tvg-id="601348690" group-title="CF Atlante vs Mineros de Zacatecas 06:00 ngày 05/04 Mexico Ascenso MX", CF Atlante vs Mineros de Zacatecas 06:00 ngày 05/04 Mexico Ascenso MX
 https://live.alilicloud.com/live/9b31701094e313dfec531bf9310403fb/playlist.m3u8
 #EXTINF:-1 tvg-id="601348687" group-title="Queretaro FC vs Toluca 06:00 ngày 05/04 Mexico Liga MX", Queretaro FC vs Toluca 06:00 ngày 05/04 Mexico Liga MX
 https://live.alilicloud.com/live/7364b3550c0d814d63d963f355672648/playlist.m3u8
+#EXTINF:-1 tvg-id="601348696" group-title="Indy Eleven vs Pittsburgh Riverhounds 06:00 ngày 05/04 USL Championship", Indy Eleven vs Pittsburgh Riverhounds 06:00 ngày 05/04 USL Championship
+https://live.alilicloud.com/live/e713d7fbb898bc1913e17c6301e47920/playlist.m3u8
+#EXTINF:-1 tvg-id="601348717" group-title="Westchester SC vs Corpus Christi FC 06:00 ngày 05/04 USL League One", Westchester SC vs Corpus Christi FC 06:00 ngày 05/04 USL League One
+https://live.alilicloud.com/live/3743ed78b853076f12a205defd267a8c/playlist.m3u8
+#EXTINF:-1 tvg-id="601348714" group-title="FC Naples vs Greenville Triumph 06:00 ngày 05/04 USL League One", FC Naples vs Greenville Triumph 06:00 ngày 05/04 USL League One
+https://live.alilicloud.com/live/dfec3d9bd8b69cd6e7a77e70eddb2622/playlist.m3u8
+#EXTINF:-1 tvg-id="601356592" group-title="FC Inter Wanica vs Voorwaarts T 06:10 ngày 05/04 SML", FC Inter Wanica vs Voorwaarts T 06:10 ngày 05/04 SML
+https://live.alilicloud.com/live/413d726966540e82a5ce36e858b0d723/playlist.m3u8
+#EXTINF:-1 tvg-id="601348702" group-title="Vancouver FC vs HFX Wanderers FC 06:10 ngày 05/04 Canadian Premier League", Vancouver FC vs HFX Wanderers FC 06:10 ngày 05/04 Canadian Premier League
+https://live.alilicloud.com/live/6f8358bffc047f52ec711f1a62757f53/playlist.m3u8
+#EXTINF:-1 tvg-id="601354114" group-title="San Antonio Bulo Bulo vs Oriente Petrolero 06:30 ngày 05/04 Bolivian Primera Division", San Antonio Bulo Bulo vs Oriente Petrolero 06:30 ngày 05/04 Bolivian Primera Division
+https://live.alilicloud.com/live/d8b5b5cefba01416e9c0298abcdab344/playlist.m3u8
+#EXTINF:-1 tvg-id="601348759" group-title="Sarasota Paradise vs Knoxville troops 06:30 ngày 05/04 USL League One", Sarasota Paradise vs Knoxville troops 06:30 ngày 05/04 USL League One
+https://live.alilicloud.com/live/9345f3ab40697036155b7c1e1578253e/playlist.m3u8
+#EXTINF:-1 tvg-id="601348756" group-title="Londrina PR vs Sport Club do Recife 06:30 ngày 05/04 Brazilian Serie B", Londrina PR vs Sport Club do Recife 06:30 ngày 05/04 Brazilian Serie B
+https://live.alilicloud.com/live/0ad6b6974076acb78f0f52975cd0bdd0/playlist.m3u8
+#EXTINF:-1 tvg-id="601348753" group-title="Deportivo Recoleta vs Sportivo San Lorenzo 06:30 ngày 05/04 Paraguayan Primera Division", Deportivo Recoleta vs Sportivo San Lorenzo 06:30 ngày 05/04 Paraguayan Primera Division
+https://live.alilicloud.com/live/f1e840cfc151fff17460c8fc293cb59c/playlist.m3u8
+#EXTINF:-1 tvg-id="601348750" group-title="Cerro Porteno vs Club Sportivo 2 de Mayo 06:30 ngày 05/04 Paraguayan Primera Division", Cerro Porteno vs Club Sportivo 2 de Mayo 06:30 ngày 05/04 Paraguayan Primera Division
+https://live.alilicloud.com/live/f5dbee2fc3cb45bf96305f3fd8515794/playlist.m3u8
+#EXTINF:-1 tvg-id="601348744" group-title="Coritiba PR vs Fluminense RJ 06:30 ngày 05/04 Brazilian Serie A", Coritiba PR vs Fluminense RJ 06:30 ngày 05/04 Brazilian Serie A
+https://live.alilicloud.com/live/b4ee60cdf2c47fe3589ed478f5283044/playlist.m3u8
+#EXTINF:-1 tvg-id="601348741" group-title="New York Red Bulls vs FC Cincinnati 06:30 ngày 05/04 United States Major League Soccer", New York Red Bulls vs FC Cincinnati 06:30 ngày 05/04 United States Major League Soccer
+https://live.alilicloud.com/live/0922ceda3097d6f13ec1b25b8fa961d4/playlist.m3u8
+#EXTINF:-1 tvg-id="601348738" group-title="New York City FC vs St. Louis City SC 06:30 ngày 05/04 United States Major League Soccer", New York City FC vs St. Louis City SC 06:30 ngày 05/04 United States Major League Soccer
+https://live.alilicloud.com/live/b4396c9f43332ade00a69c5cfd4a4aba/playlist.m3u8
+#EXTINF:-1 tvg-id="601348729" group-title="Charlotte FC vs Philadelphia Union 06:30 ngày 05/04 United States Major League Soccer", Charlotte FC vs Philadelphia Union 06:30 ngày 05/04 United States Major League Soccer
+https://live.alilicloud.com/live/b94a1fda218a9dfedb1b0fee1929ad9b/playlist.m3u8
+#EXTINF:-1 tvg-id="601348726" group-title="Atlanta United vs Columbus Crew 06:30 ngày 05/04 United States Major League Soccer", Atlanta United vs Columbus Crew 06:30 ngày 05/04 United States Major League Soccer
+https://live.alilicloud.com/live/3fe754df34a1661757592b5e8a70d6be/playlist.m3u8
+#EXTINF:-1 tvg-id="601348534" group-title="Academia Puerto Cabello vs Deportivo Tachira 06:30 ngày 05/04 Venezuela Primera Division", Academia Puerto Cabello vs Deportivo Tachira 06:30 ngày 05/04 Venezuela Primera Division
+https://live.alilicloud.com/live/41e836d534e80ea5e9f3980b14f293cc/playlist.m3u8
 #EXTINF:-1 tvg-id="601348735" group-title="Inter Miami CF vs Austin FC 06:30 ngày 05/04 United States Major League Soccer", Inter Miami CF vs Austin FC 06:30 ngày 05/04 United States Major League Soccer (Link 1)
 https://cdn-hls.taoxanh.biz/live/69d1987abeb17_128756/index.m3u8?expire=1775948538&amp;sign=16a693cab668fd93f1bfd54877952797
 #EXTINF:-1 tvg-id="601348735" group-title="Inter Miami CF vs Austin FC 06:30 ngày 05/04 United States Major League Soccer", Inter Miami CF vs Austin FC 06:30 ngày 05/04 United States Major League Soccer (Link 2)
+https://live.alilicloud.com/live/d4a00a023a43a16ef51c7f41b5d6d362/playlist.m3u8
+#EXTINF:-1 tvg-id="601348735" group-title="Inter Miami CF vs Austin FC 06:30 ngày 05/04 United States Major League Soccer", Inter Miami CF vs Austin FC 06:30 ngày 05/04 United States Major League Soccer (Link 3)
 https://cdn-hls.taoxanh.biz/live/69d1987abeb17_128756/index.m3u8?expire=1775948538&sign=16a693cab668fd93f1bfd54877952797
-#EXTINF:-1 tvg-id="601348732" group-title="DC United vs FC Dallas 06:30 ngày 05/04 United States Major League Soccer", DC United vs FC Dallas 06:30 ngày 05/04 United States Major League Soccer (Link 1)
-https://cdn-hls.taoxanh.biz/live/69d195f2beb17_153967/index.m3u8?expire=1775947890&amp;sign=2c964f7591e2927bc383bdc377c0314d
-#EXTINF:-1 tvg-id="601348732" group-title="DC United vs FC Dallas 06:30 ngày 05/04 United States Major League Soccer", DC United vs FC Dallas 06:30 ngày 05/04 United States Major League Soccer (Link 2)
-https://cdn-hls.taoxanh.biz/live/69d195f2beb17_153967/index.m3u8?expire=1775947890&sign=2c964f7591e2927bc383bdc377c0314d
 #EXTINF:-1 tvg-id="601348765" group-title="Rosario Central vs Atletico Tucuman 07:00 ngày 05/04 Argentine Division 1", Rosario Central vs Atletico Tucuman 07:00 ngày 05/04 Argentine Division 1 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69d19acd24440_88642/index.m3u8?expire=1775949133&amp;sign=9622c57a7dcc7c1e091139d942d99ed8
 #EXTINF:-1 tvg-id="601348765" group-title="Rosario Central vs Atletico Tucuman 07:00 ngày 05/04 Argentine Division 1", Rosario Central vs Atletico Tucuman 07:00 ngày 05/04 Argentine Division 1 (Link 2)
@@ -75,3 +95,7 @@ https://cdn-hls.taoxanh.biz/live/69d19acd24440_88642/index.m3u8?expire=177594913
 https://cdn-hls.taoxanh.biz/live/69d12f27beb16_6308/index.m3u8?expire=1775921575&amp;sign=2f66561be9eb844299e6a82cc75e6a9d
 #EXTINF:-1 tvg-id="601348777" group-title="Chicago Fire vs Nashville 07:30 ngày 05/04 United States Major League Soccer", Chicago Fire vs Nashville 07:30 ngày 05/04 United States Major League Soccer (Link 2)
 https://cdn-hls.taoxanh.biz/live/69d12f27beb16_6308/index.m3u8?expire=1775921575&sign=2f66561be9eb844299e6a82cc75e6a9d
+#EXTINF:-1 tvg-id="601348780" group-title="Houston Dynamo vs Seattle Sounders 07:30 ngày 05/04 United States Major League Soccer", Houston Dynamo vs Seattle Sounders 07:30 ngày 05/04 United States Major League Soccer (Link 1)
+https://cdn-hls.taoxanh.biz/live/69d1a4a824440_133172/index.m3u8?expire=1775951656&amp;sign=188095deb9cce1d4769bd2f650344223
+#EXTINF:-1 tvg-id="601348780" group-title="Houston Dynamo vs Seattle Sounders 07:30 ngày 05/04 United States Major League Soccer", Houston Dynamo vs Seattle Sounders 07:30 ngày 05/04 United States Major League Soccer (Link 2)
+https://cdn-hls.taoxanh.biz/live/69d1a4a824440_133172/index.m3u8?expire=1775951656&sign=188095deb9cce1d4769bd2f650344223
