@@ -19,10 +19,12 @@ https://cdn-hls.taoxanh.biz/live/69d041d8beb14_4733/index.m3u8?expire=1775860824
 https://cdn-hls.taoxanh.biz/live/69d03e9b2443f_42127/index.m3u8?expire=1775859995&amp;sign=f2a6a2996b05bd0d0cf60406690294b8
 #EXTINF:-1 tvg-id="601356130" group-title="Philadelphia 76ers vs Minnesota Timberwolves 06:00 ngày 04/04 NBA", Philadelphia 76ers vs Minnesota Timberwolves 06:00 ngày 04/04 NBA (Link 2)
 https://cdn-hls.taoxanh.biz/live/69d03e9b2443f_42127/index.m3u8?expire=1775859995&sign=f2a6a2996b05bd0d0cf60406690294b8
+#EXTINF:-1 tvg-id="601356136" group-title="Milwaukee Bucks vs Boston Celtics 07:00 ngày 04/04 NBA", Milwaukee Bucks vs Boston Celtics 07:00 ngày 04/04 NBA (Link 1)
+https://cdn-hls.taoxanh.biz/live/69d053c7beb14_112310/index.m3u8?expire=1775865415&amp;sign=e46bd5a204e66663f0e83460f4a380ae
+#EXTINF:-1 tvg-id="601356136" group-title="Milwaukee Bucks vs Boston Celtics 07:00 ngày 04/04 NBA", Milwaukee Bucks vs Boston Celtics 07:00 ngày 04/04 NBA (Link 2)
+https://cdn-hls.taoxanh.biz/live/69d053c7beb14_112310/index.m3u8?expire=1775865415&sign=e46bd5a204e66663f0e83460f4a380ae
 #EXTINF:-1 tvg-id="601347454" group-title="Ituzaingo vs Argentino de Merlo 05:00 ngày 04/04 Argentine Group B Tebolidun League Manchester", Ituzaingo vs Argentino de Merlo 05:00 ngày 04/04 Argentine Group B Tebolidun League Manchester
 https://live.alilicloud.com/live/1eb38c952ce08737e569e9b5d8967528/playlist.m3u8
-#EXTINF:-1 tvg-id="601348525" group-title="Caracas FC vs Metropolitanos FC 05:30 ngày 04/04 Venezuela Primera Division", Caracas FC vs Metropolitanos FC 05:30 ngày 04/04 Venezuela Primera Division
-https://live.alilicloud.com/live/6cece7496e3c468659326b9442415b68/playlist.m3u8
 #EXTINF:-1 tvg-id="601344625" group-title="San Lorenzo vs Estudiantes La Plata 05:30 ngày 04/04 Argentine Division 1", San Lorenzo vs Estudiantes La Plata 05:30 ngày 04/04 Argentine Division 1
 https://live.alilicloud.com/live/1cca2600fb6b9841d017c69b9e0c2040/playlist.m3u8
 #EXTINF:-1 tvg-id="601344628" group-title="Tlaxcala FC vs CSyD Dorados de Sinaloa 06:00 ngày 04/04 Mexico Ascenso MX", Tlaxcala FC vs CSyD Dorados de Sinaloa 06:00 ngày 04/04 Mexico Ascenso MX
@@ -37,6 +39,8 @@ https://live.alilicloud.com/live/3db24736ad34388859f0277b1ef1ea3c/playlist.m3u8
 https://live.alilicloud.com/live/dcd910b5d806a1625c2a50d41ef40f1e/playlist.m3u8
 #EXTINF:-1 tvg-id="601344652" group-title="Cienciano vs AD Tarma 06:15 ngày 04/04 Peruvian Liga 1", Cienciano vs AD Tarma 06:15 ngày 04/04 Peruvian Liga 1
 https://live.alilicloud.com/live/09cdfc592e84baa120e30283330d97a1/playlist.m3u8
+#EXTINF:-1 tvg-id="601348525" group-title="Caracas FC vs Metropolitanos FC 06:30 ngày 04/04 Venezuela Primera Division", Caracas FC vs Metropolitanos FC 06:30 ngày 04/04 Venezuela Primera Division
+https://live.alilicloud.com/live/6cece7496e3c468659326b9442415b68/playlist.m3u8
 #EXTINF:-1 tvg-id="601354024" group-title="Blooming vs Club Guabira 06:30 ngày 04/04 Bolivian Primera Division", Blooming vs Club Guabira 06:30 ngày 04/04 Bolivian Primera Division
 https://live.alilicloud.com/live/3e3e4a80d5a990062187cb500f2c5a62/playlist.m3u8
 #EXTINF:-1 tvg-id="601345318" group-title="Manchester City vs Liverpool 18:45 ngày 04/04 FA Cup", Manchester City vs Liverpool 18:45 ngày 04/04 FA Cup
