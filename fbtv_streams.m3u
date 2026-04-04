@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601344895" group-title="FC Ryukyu Okinawa vs Roasso Kumamoto 15:00 ngày 04/04 J2/J3 100 Year Vision League", FC Ryukyu Okinawa vs Roasso Kumamoto 15:00 ngày 04/04 J2/J3 100 Year Vision League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69d0b1ab24440_73445/index.m3u8?expire=1775889451&amp;sign=27af24a5ba6dfbd49391bf99a7a6aabd
-#EXTINF:-1 tvg-id="601344895" group-title="FC Ryukyu Okinawa vs Roasso Kumamoto 15:00 ngày 04/04 J2/J3 100 Year Vision League", FC Ryukyu Okinawa vs Roasso Kumamoto 15:00 ngày 04/04 J2/J3 100 Year Vision League (Link 2)
-https://live.alilicloud.com/live/3e8a47ef1b0312d8efe259c6deda357d/playlist.m3u8
-#EXTINF:-1 tvg-id="601344895" group-title="FC Ryukyu Okinawa vs Roasso Kumamoto 15:00 ngày 04/04 J2/J3 100 Year Vision League", FC Ryukyu Okinawa vs Roasso Kumamoto 15:00 ngày 04/04 J2/J3 100 Year Vision League (Link 3)
-https://cdn-hls.taoxanh.biz/live/69d0b1ab24440_73445/index.m3u8?expire=1775889451&sign=27af24a5ba6dfbd49391bf99a7a6aabd
 #EXTINF:-1 tvg-id="601344985" group-title="St George City FA vs Blacktown City Demons 15:15 ngày 04/04 Australia New South Wales Premier League", St George City FA vs Blacktown City Demons 15:15 ngày 04/04 Australia New South Wales Premier League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69d0c57324440_28/index.m3u8?expire=1775894515&amp;sign=a73257044698f1eb011329e686b03ba8
 #EXTINF:-1 tvg-id="601344985" group-title="St George City FA vs Blacktown City Demons 15:15 ngày 04/04 Australia New South Wales Premier League", St George City FA vs Blacktown City Demons 15:15 ngày 04/04 Australia New South Wales Premier League (Link 2)
@@ -23,12 +17,10 @@ https://cdn-hls.taoxanh.biz/live/69d0c1a8beb15_88642/index.m3u8?expire=177589354
 https://live.alilicloud.com/live/17a0f587671a311dc77fd1617536111f/playlist.m3u8
 #EXTINF:-1 tvg-id="601345012" group-title="Bangladesh (w) U20 vs China U20(w) 16:00 ngày 04/04 AFC U-20 Women's Asian Cup", Bangladesh (w) U20 vs China U20(w) 16:00 ngày 04/04 AFC U-20 Women's Asian Cup (Link 3)
 https://cdn-hls.taoxanh.biz/live/69d0c1a8beb15_88642/index.m3u8?expire=1775893544&sign=a8a6475ebaff6e0016d769f517da7df9
-#EXTINF:-1 tvg-id="601344955" group-title="Shenzhen Juniors vs Yanbian Longding 15:00 ngày 04/04 Chinese Football League 1", Shenzhen Juniors vs Yanbian Longding 15:00 ngày 04/04 Chinese Football League 1
-https://live.alilicloud.com/live/515d6f87df7144cf7c3beb92078ffb19/playlist.m3u8
-#EXTINF:-1 tvg-id="601344958" group-title="Guangzhou Dandelion Alpha FC vs Chengdu Rongcheng B 15:00 ngày 04/04 Chinese Football League 2", Guangzhou Dandelion Alpha FC vs Chengdu Rongcheng B 15:00 ngày 04/04 Chinese Football League 2
-https://live.alilicloud.com/live/07df540ac1601cb0d0a27f4f551df2aa/playlist.m3u8
-#EXTINF:-1 tvg-id="601344973" group-title="Scolar Resita vs FC Bacau 15:00 ngày 04/04 Romanian Liga II", Scolar Resita vs FC Bacau 15:00 ngày 04/04 Romanian Liga II
-https://live.alilicloud.com/live/5a00c219a7ea9503c0c0ed6299e52a8f/playlist.m3u8
+#EXTINF:-1 tvg-id="601356124" group-title="Xingtong Chen vs Yubin Shin 17:00 ngày 04/04 ITTF Men’s &amp; Women’s World Cup Macao 2026 Presented", Xingtong Chen vs Yubin Shin 17:00 ngày 04/04 ITTF Men’s &amp; Women’s World Cup Macao 2026 Presented (Link 1)
+https://cdn-hls.taoxanh.biz/live/69d07c4cbeb14_112310/index.m3u8?expire=1775875788&amp;sign=a26056e39396a2b77a1d37836db67ee6
+#EXTINF:-1 tvg-id="601356124" group-title="Xingtong Chen vs Yubin Shin 17:00 ngày 04/04 ITTF Men’s &amp; Women’s World Cup Macao 2026 Presented", Xingtong Chen vs Yubin Shin 17:00 ngày 04/04 ITTF Men’s &amp; Women’s World Cup Macao 2026 Presented (Link 2)
+https://cdn-hls.taoxanh.biz/live/69d07c4cbeb14_112310/index.m3u8?expire=1775875788&sign=a26056e39396a2b77a1d37836db67ee6
 #EXTINF:-1 tvg-id="601347487" group-title="Czarni Sosnowiec (w) vs GKS Katowice (w) 15:45 ngày 04/04 Poland Women's Ekstraliga", Czarni Sosnowiec (w) vs GKS Katowice (w) 15:45 ngày 04/04 Poland Women's Ekstraliga
 https://live.alilicloud.com/live/0445daa07d34a0a9b7c992b536cc4706/playlist.m3u8
 #EXTINF:-1 tvg-id="601342114" group-title="Obolon Kiev U21 vs Zorya U21 16:00 ngày 04/04 Ukrainian Youth Team Championship", Obolon Kiev U21 vs Zorya U21 16:00 ngày 04/04 Ukrainian Youth Team Championship
@@ -39,13 +31,21 @@ https://live.alilicloud.com/live/603cb8835ff402b52fec54b81c83478b/playlist.m3u8
 https://live.alilicloud.com/live/2afa0d041b8fe5ab44132081e2fb13c7/playlist.m3u8
 #EXTINF:-1 tvg-id="601345033" group-title="Dong Tam Long An vs TDTT Bac Ninh 16:00 ngày 04/04 Vietnam National First Class League", Dong Tam Long An vs TDTT Bac Ninh 16:00 ngày 04/04 Vietnam National First Class League
 https://live.alilicloud.com/live/719429c122ff9b2991c31238131f655f/playlist.m3u8
-#EXTINF:-1 tvg-id="601345096" group-title="Torpedo Miass vs Volgar-Gazprom Astrachan 16:00 ngày 04/04 RUS D3A", Torpedo Miass vs Volgar-Gazprom Astrachan 16:00 ngày 04/04 RUS D3A
-https://live.alilicloud.com/live/f1437903f495c274e393c554cf271af4/playlist.m3u8
 #EXTINF:-1 tvg-id="601346224" group-title="Hirnyk-Sport vs Chayka Petropavlovsk Borshchagovka 16:00 ngày 04/04 Ukrainian Second League", Hirnyk-Sport vs Chayka Petropavlovsk Borshchagovka 16:00 ngày 04/04 Ukrainian Second League
 https://live.alilicloud.com/live/51a941053708a269646a090f3f10ef7b/playlist.m3u8
+#EXTINF:-1 tvg-id="601345096" group-title="Torpedo Miass vs Volgar-Gazprom Astrachan 16:00 ngày 04/04 RUS D3A", Torpedo Miass vs Volgar-Gazprom Astrachan 16:00 ngày 04/04 RUS D3A
+https://live.alilicloud.com/live/f1437903f495c274e393c554cf271af4/playlist.m3u8
+#EXTINF:-1 tvg-id="601346221" group-title="Chernomorets Odessa II vs Rebel Kyiv 16:30 ngày 04/04 Ukrainian Second League", Chernomorets Odessa II vs Rebel Kyiv 16:30 ngày 04/04 Ukrainian Second League
+https://live.alilicloud.com/live/561c358ffc940aaf502459b26cb7adf6/playlist.m3u8
+#EXTINF:-1 tvg-id="601345099" group-title="Irtysh Pavlodar vs Altay FK 17:00 ngày 04/04 Kazakhstan Premier League", Irtysh Pavlodar vs Altay FK 17:00 ngày 04/04 Kazakhstan Premier League
+https://live.alilicloud.com/live/99e25750e713339d40f6a49c1125cca0/playlist.m3u8
+#EXTINF:-1 tvg-id="601345075" group-title="Inter Turku vs Vaasa VPS 17:00 ngày 04/04 Finnish Veikkausliiga", Inter Turku vs Vaasa VPS 17:00 ngày 04/04 Finnish Veikkausliiga
+https://live.alilicloud.com/live/f87d8b5100ec9dd584b66f6acdf6b380/playlist.m3u8
 #EXTINF:-1 tvg-id="601345054" group-title="Akron Togliatti vs CSKA Moscow 17:00 ngày 04/04 Russian Premier League", Akron Togliatti vs CSKA Moscow 17:00 ngày 04/04 Russian Premier League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69d0d6f824440_79/index.m3u8?expire=1775899000&amp;sign=03afe5a5172929f9b0dbdcbee7360759
 #EXTINF:-1 tvg-id="601345054" group-title="Akron Togliatti vs CSKA Moscow 17:00 ngày 04/04 Russian Premier League", Akron Togliatti vs CSKA Moscow 17:00 ngày 04/04 Russian Premier League (Link 2)
+https://live.alilicloud.com/live/9a1d9aca4c07c1fac196d3d10cc9242c/playlist.m3u8
+#EXTINF:-1 tvg-id="601345054" group-title="Akron Togliatti vs CSKA Moscow 17:00 ngày 04/04 Russian Premier League", Akron Togliatti vs CSKA Moscow 17:00 ngày 04/04 Russian Premier League (Link 3)
 https://cdn-hls.taoxanh.biz/live/69d0d6f824440_79/index.m3u8?expire=1775899000&sign=03afe5a5172929f9b0dbdcbee7360759
 #EXTINF:-1 tvg-id="601345132" group-title="GKS Katowice vs Wisla Plock 17:15 ngày 04/04 PKO Bank Polski EKSTRAKLASA", GKS Katowice vs Wisla Plock 17:15 ngày 04/04 PKO Bank Polski EKSTRAKLASA (Link 1)
 https://cdn-hls.taoxanh.biz/live/69d0d91724440_136682/index.m3u8?expire=1775899543&amp;sign=bc067487792ba1d8c54abf5ac60b5ad4
@@ -55,8 +55,18 @@ https://cdn-hls.taoxanh.biz/live/69d0d91724440_136682/index.m3u8?expire=17758995
 https://cdn-hls.taoxanh.biz/live/69d0d9fc24440_124958/index.m3u8?expire=1775899772&amp;sign=dc9d34b3d99e95221d17e9d36d0c1d36
 #EXTINF:-1 tvg-id="601345159" group-title="1. FC Kaiserslautern vs Fortuna Dusseldorf 18:00 ngày 04/04 German Bundesliga 2", 1. FC Kaiserslautern vs Fortuna Dusseldorf 18:00 ngày 04/04 German Bundesliga 2 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69d0d9fc24440_124958/index.m3u8?expire=1775899772&sign=dc9d34b3d99e95221d17e9d36d0c1d36
-#EXTINF:-1 tvg-id="601345318" group-title="Manchester City vs Liverpool 18:45 ngày 04/04 FA Cup", Manchester City vs Liverpool 18:45 ngày 04/04 FA Cup
+#EXTINF:-1 tvg-id="601345207" group-title="XM Hai Phong FC vs TT Hanoi 18:00 ngày 04/04 Vietnam National Champion League", XM Hai Phong FC vs TT Hanoi 18:00 ngày 04/04 Vietnam National Champion League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69d0dfc224440_133172/index.m3u8?expire=1775901250&amp;sign=c2105564cd40f7a2b000a08a68837809
+#EXTINF:-1 tvg-id="601345207" group-title="XM Hai Phong FC vs TT Hanoi 18:00 ngày 04/04 Vietnam National Champion League", XM Hai Phong FC vs TT Hanoi 18:00 ngày 04/04 Vietnam National Champion League (Link 2)
+https://cdn-hls.taoxanh.biz/live/69d0dfc224440_133172/index.m3u8?expire=1775901250&sign=c2105564cd40f7a2b000a08a68837809
+#EXTINF:-1 tvg-id="601347556" group-title="Arminia Bielefeld vs SV Darmstadt 98 18:00 ngày 04/04 German Bundesliga 2", Arminia Bielefeld vs SV Darmstadt 98 18:00 ngày 04/04 German Bundesliga 2 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69d0e0a0beb15_73445/index.m3u8?expire=1775901472&amp;sign=dabba630e5977055cf993e09a6b802ae
+#EXTINF:-1 tvg-id="601347556" group-title="Arminia Bielefeld vs SV Darmstadt 98 18:00 ngày 04/04 German Bundesliga 2", Arminia Bielefeld vs SV Darmstadt 98 18:00 ngày 04/04 German Bundesliga 2 (Link 2)
+https://cdn-hls.taoxanh.biz/live/69d0e0a0beb15_73445/index.m3u8?expire=1775901472&sign=dabba630e5977055cf993e09a6b802ae
+#EXTINF:-1 tvg-id="601345318" group-title="Manchester City vs Liverpool 18:45 ngày 04/04 FA Cup", Manchester City vs Liverpool 18:45 ngày 04/04 FA Cup (Link 1)
 https://live.alilicloud.com/live/31cbe321bfc87e0619076361cdc1fa86/playlist.m3u8
+#EXTINF:-1 tvg-id="601345318" group-title="Manchester City vs Liverpool 18:45 ngày 04/04 FA Cup", Manchester City vs Liverpool 18:45 ngày 04/04 FA Cup (Link 2)
+https://cdn-hls.taoxanh.biz/live/69d0e140beb15_85514/index.m3u8?expire=1775901632&sign=eac66ef4feff2b4dcbe9ba82b8d882b0
 #EXTINF:-1 tvg-id="601345321" group-title="Real Sociedad vs Levante 19:00 ngày 04/04 Spanish La Liga", Real Sociedad vs Levante 19:00 ngày 04/04 Spanish La Liga
 https://live.alilicloud.com/live/c2ea03de50b14d7b29b58faf9b92fdf6/playlist.m3u8
 #EXTINF:-1 tvg-id="601345618" group-title="Sassuolo vs Cagliari 20:00 ngày 04/04 Italian Serie A", Sassuolo vs Cagliari 20:00 ngày 04/04 Italian Serie A
