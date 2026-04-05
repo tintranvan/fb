@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601348969" group-title="Kawasaki Frontale vs Urawa Red Diamonds 14:00 ngày 05/04 Japanese J1 League", Kawasaki Frontale vs Urawa Red Diamonds 14:00 ngày 05/04 Japanese J1 League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69d20494beb18_85514/index.m3u8?expire=1775976212&amp;sign=4e7862e482e706fca61ab1d396b0902a
-#EXTINF:-1 tvg-id="601348969" group-title="Kawasaki Frontale vs Urawa Red Diamonds 14:00 ngày 05/04 Japanese J1 League", Kawasaki Frontale vs Urawa Red Diamonds 14:00 ngày 05/04 Japanese J1 League (Link 2)
-https://live.alilicloud.com/live/4823bff3dac82a469da6950c301dafaa/playlist.m3u8
-#EXTINF:-1 tvg-id="601348969" group-title="Kawasaki Frontale vs Urawa Red Diamonds 14:00 ngày 05/04 Japanese J1 League", Kawasaki Frontale vs Urawa Red Diamonds 14:00 ngày 05/04 Japanese J1 League (Link 3)
-https://cdn-hls.taoxanh.biz/live/69d20494beb18_85514/index.m3u8?expire=1775976212&sign=4e7862e482e706fca61ab1d396b0902a
-#EXTINF:-1 tvg-id="601348987" group-title="Zhejiang Professional FC vs Chongqing Tongliangloong FC 14:30 ngày 05/04 Chinese Football Super League", Zhejiang Professional FC vs Chongqing Tongliangloong FC 14:30 ngày 05/04 Chinese Football Super League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69d20966beb18_72787/index.m3u8?expire=1775977446&amp;sign=1dd8222d2e1693f3bfdc1d40c04a1362
-#EXTINF:-1 tvg-id="601348987" group-title="Zhejiang Professional FC vs Chongqing Tongliangloong FC 14:30 ngày 05/04 Chinese Football Super League", Zhejiang Professional FC vs Chongqing Tongliangloong FC 14:30 ngày 05/04 Chinese Football Super League (Link 2)
-https://live.alilicloud.com/live/d53752a12c1ab72097fbd1a9bf596a01/playlist.m3u8
-#EXTINF:-1 tvg-id="601348987" group-title="Zhejiang Professional FC vs Chongqing Tongliangloong FC 14:30 ngày 05/04 Chinese Football Super League", Zhejiang Professional FC vs Chongqing Tongliangloong FC 14:30 ngày 05/04 Chinese Football Super League (Link 3)
-https://cdn-hls.taoxanh.biz/live/69d20966beb18_72787/index.m3u8?expire=1775977446&sign=1dd8222d2e1693f3bfdc1d40c04a1362
 #EXTINF:-1 tvg-id="601349041" group-title="Bhayangkara Presisi Indonesia FC vs Persija Jakarta 15:30 ngày 05/04 Indonesian Liga 1", Bhayangkara Presisi Indonesia FC vs Persija Jakarta 15:30 ngày 05/04 Indonesian Liga 1 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69d2174ebeb18_133172/index.m3u8?expire=1775981006&amp;sign=a4a260d98a45805b30753373dfbb4300
 #EXTINF:-1 tvg-id="601349041" group-title="Bhayangkara Presisi Indonesia FC vs Persija Jakarta 15:30 ngày 05/04 Indonesian Liga 1", Bhayangkara Presisi Indonesia FC vs Persija Jakarta 15:30 ngày 05/04 Indonesian Liga 1 (Link 2)
@@ -21,28 +9,6 @@ https://cdn-hls.taoxanh.biz/live/69d2174ebeb18_133172/index.m3u8?expire=17759810
 https://cdn-hls.taoxanh.biz/live/69d218f3beb18_136682/index.m3u8?expire=1775981427&amp;sign=116f6b61baa659e82a770fa4e24b03bb
 #EXTINF:-1 tvg-id="601349047" group-title="PSIS Semarang vs Barito Putera 15:30 ngày 05/04 Indonesian Liga 2", PSIS Semarang vs Barito Putera 15:30 ngày 05/04 Indonesian Liga 2 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69d218f3beb18_136682/index.m3u8?expire=1775981427&sign=116f6b61baa659e82a770fa4e24b03bb
-#EXTINF:-1 tvg-id="601345036" group-title="Fremantle City FC (w) vs Subiaco AFC (w) 14:10 ngày 05/04 Western Australia Women's League", Fremantle City FC (w) vs Subiaco AFC (w) 14:10 ngày 05/04 Western Australia Women's League
-https://live.alilicloud.com/live/4e24598b944a08e45bc02f65eac0d877/playlist.m3u8
-#EXTINF:-1 tvg-id="601348978" group-title="Incheon United Club vs Gimcheon Sangmu Football Club 14:30 ngày 05/04 Korean K League 1", Incheon United Club vs Gimcheon Sangmu Football Club 14:30 ngày 05/04 Korean K League 1
-https://live.alilicloud.com/live/d51fe567827ee6e744a1b910c68b955d/playlist.m3u8
-#EXTINF:-1 tvg-id="601348981" group-title="Ansan Greeners FC vs Chungnam Asan 14:30 ngày 05/04 Korean K League 2", Ansan Greeners FC vs Chungnam Asan 14:30 ngày 05/04 Korean K League 2
-https://live.alilicloud.com/live/9cec4d8c445588b69c6d7574217b4bea/playlist.m3u8
-#EXTINF:-1 tvg-id="601348984" group-title="Paju Citizen FC vs Gimhae City 14:30 ngày 05/04 Korean K League 2", Paju Citizen FC vs Gimhae City 14:30 ngày 05/04 Korean K League 2
-https://live.alilicloud.com/live/95690b42d5a53b997b0a44a7dece3b8a/playlist.m3u8
-#EXTINF:-1 tvg-id="601348990" group-title="Foshan Nanshi vs Meizhou Hakka FC 14:30 ngày 05/04 Chinese Football League 1", Foshan Nanshi vs Meizhou Hakka FC 14:30 ngày 05/04 Chinese Football League 1
-https://live.alilicloud.com/live/ff25026a3dad1420ef33b8b61022c0b4/playlist.m3u8
-#EXTINF:-1 tvg-id="601348993" group-title="Changchun Yatai FC vs Suzhou Dongwu 14:30 ngày 05/04 Chinese Football League 1", Changchun Yatai FC vs Suzhou Dongwu 14:30 ngày 05/04 Chinese Football League 1
-https://live.alilicloud.com/live/42c853df217d66342526e04eaec124e9/playlist.m3u8
-#EXTINF:-1 tvg-id="601348996" group-title="Shanghai Port B vs Haimen Codion 14:30 ngày 05/04 Chinese Football League 2", Shanghai Port B vs Haimen Codion 14:30 ngày 05/04 Chinese Football League 2
-https://live.alilicloud.com/live/8cdbcdf17adacedca3fba4d687e951af/playlist.m3u8
-#EXTINF:-1 tvg-id="601349623" group-title="Irkutsk vs Baltika-BFU Kaliningrad 14:30 ngày 05/04 RUS D3B", Irkutsk vs Baltika-BFU Kaliningrad 14:30 ngày 05/04 RUS D3B
-https://live.alilicloud.com/live/0b8e5f437b67310e233acb14e8f09195/playlist.m3u8
-#EXTINF:-1 tvg-id="601356751" group-title="Garhwal FC vs Delhi FC XI 14:30 ngày 05/04 IND DSD", Garhwal FC vs Delhi FC XI 14:30 ngày 05/04 IND DSD
-https://live.alilicloud.com/live/292e2691150ef598e8856ebee5bb0885/playlist.m3u8
-#EXTINF:-1 tvg-id="601349023" group-title="MUST IPO vs Ching Fung 15:00 ngày 05/04 Chinese Macao Liga de Elite", MUST IPO vs Ching Fung 15:00 ngày 05/04 Chinese Macao Liga de Elite
-https://live.alilicloud.com/live/ee5be14c6c5af63c6990eda8ba83ec57/playlist.m3u8
-#EXTINF:-1 tvg-id="601349053" group-title="Hubei Istar vs Xiamen 1026 15:30 ngày 05/04 Chinese Football League 2", Hubei Istar vs Xiamen 1026 15:30 ngày 05/04 Chinese Football League 2
-https://live.alilicloud.com/live/c07f26c2852fb3ee57b7ca34c1880129/playlist.m3u8
 #EXTINF:-1 tvg-id="601349068" group-title="Jordan (w) U20 vs South Korea Women U20 16:00 ngày 05/04 AFC U-20 Women's Asian Cup", Jordan (w) U20 vs South Korea Women U20 16:00 ngày 05/04 AFC U-20 Women's Asian Cup (Link 1)
 https://cdn-hls.taoxanh.biz/live/69d22487beb18_88186/index.m3u8?expire=1775984391&amp;sign=cfbac3190412db02621e1a0add22084d
 #EXTINF:-1 tvg-id="601349068" group-title="Jordan (w) U20 vs South Korea Women U20 16:00 ngày 05/04 AFC U-20 Women's Asian Cup", Jordan (w) U20 vs South Korea Women U20 16:00 ngày 05/04 AFC U-20 Women's Asian Cup (Link 2)
@@ -58,7 +24,25 @@ https://cdn-hls.taoxanh.biz/live/69d216e824440_79/index.m3u8?expire=1775980904&s
 #EXTINF:-1 tvg-id="601349074" group-title="Ba Ria Vung Tau FC vs Khatoco Khanh Hoa 16:00 ngày 05/04 Vietnam National First Class League", Ba Ria Vung Tau FC vs Khatoco Khanh Hoa 16:00 ngày 05/04 Vietnam National First Class League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69d21fee24440_73445/index.m3u8?expire=1775983214&amp;sign=5a0b7a460cb34330f0c991d63d72c9b5
 #EXTINF:-1 tvg-id="601349074" group-title="Ba Ria Vung Tau FC vs Khatoco Khanh Hoa 16:00 ngày 05/04 Vietnam National First Class League", Ba Ria Vung Tau FC vs Khatoco Khanh Hoa 16:00 ngày 05/04 Vietnam National First Class League (Link 2)
+https://live.alilicloud.com/live/2c20a0b09938e2cb363f377fa070490a/playlist.m3u8
+#EXTINF:-1 tvg-id="601349074" group-title="Ba Ria Vung Tau FC vs Khatoco Khanh Hoa 16:00 ngày 05/04 Vietnam National First Class League", Ba Ria Vung Tau FC vs Khatoco Khanh Hoa 16:00 ngày 05/04 Vietnam National First Class League (Link 3)
 https://cdn-hls.taoxanh.biz/live/69d21fee24440_73445/index.m3u8?expire=1775983214&sign=5a0b7a460cb34330f0c991d63d72c9b5
+#EXTINF:-1 tvg-id="601349023" group-title="MUST IPO vs Ching Fung 15:10 ngày 05/04 Chinese Macao Liga de Elite", MUST IPO vs Ching Fung 15:10 ngày 05/04 Chinese Macao Liga de Elite
+https://live.alilicloud.com/live/ee5be14c6c5af63c6990eda8ba83ec57/playlist.m3u8
+#EXTINF:-1 tvg-id="601349053" group-title="Hubei Istar vs Xiamen 1026 15:30 ngày 05/04 Chinese Football League 2", Hubei Istar vs Xiamen 1026 15:30 ngày 05/04 Chinese Football League 2
+https://live.alilicloud.com/live/c07f26c2852fb3ee57b7ca34c1880129/playlist.m3u8
+#EXTINF:-1 tvg-id="601342123" group-title="Epitsentr U21 vs Kudrivka Nyva U21 16:00 ngày 05/04 Ukrainian Youth Team Championship", Epitsentr U21 vs Kudrivka Nyva U21 16:00 ngày 05/04 Ukrainian Youth Team Championship
+https://live.alilicloud.com/live/0a53a939c0eefb4a42ce11637d9f0760/playlist.m3u8
+#EXTINF:-1 tvg-id="601349056" group-title="Torino U19 vs Cesena U20 16:00 ngày 05/04 Italian Campionato Primavera 1", Torino U19 vs Cesena U20 16:00 ngày 05/04 Italian Campionato Primavera 1
+https://live.alilicloud.com/live/050e71475b1eae59a89edf5be22a6a40/playlist.m3u8
+#EXTINF:-1 tvg-id="601349647" group-title="Krylia Sovetov II vs FK Zenit Izhevsk 16:00 ngày 05/04 RUS D3B", Krylia Sovetov II vs FK Zenit Izhevsk 16:00 ngày 05/04 RUS D3B
+https://live.alilicloud.com/live/7a8834cb40e48fcb44855d7fdb946b80/playlist.m3u8
+#EXTINF:-1 tvg-id="601349089" group-title="FC Flora Tallinn (w) vs Saku Sporting (w) 16:30 ngày 05/04 Estonian Women's Meistri Liiga", FC Flora Tallinn (w) vs Saku Sporting (w) 16:30 ngày 05/04 Estonian Women's Meistri Liiga
+https://live.alilicloud.com/live/3253beb758db155a6c8a62e6eafab47c/playlist.m3u8
+#EXTINF:-1 tvg-id="601349161" group-title="Hoang Anh Gia Lai vs TTBD Phu Dong 17:00 ngày 05/04 Vietnam National Champion League", Hoang Anh Gia Lai vs TTBD Phu Dong 17:00 ngày 05/04 Vietnam National Champion League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69d226a124440_4908/index.m3u8?expire=1775984929&amp;sign=764352cc4c81cccab2fe1b42b48dfe7d
+#EXTINF:-1 tvg-id="601349161" group-title="Hoang Anh Gia Lai vs TTBD Phu Dong 17:00 ngày 05/04 Vietnam National Champion League", Hoang Anh Gia Lai vs TTBD Phu Dong 17:00 ngày 05/04 Vietnam National Champion League (Link 2)
+https://cdn-hls.taoxanh.biz/live/69d226a124440_4908/index.m3u8?expire=1775984929&sign=764352cc4c81cccab2fe1b42b48dfe7d
 #EXTINF:-1 tvg-id="601349305" group-title="Schalke 04 vs Karlsruher SC 18:30 ngày 05/04 German Bundesliga 2", Schalke 04 vs Karlsruher SC 18:30 ngày 05/04 German Bundesliga 2 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69d1d1dd24440_6308/index.m3u8?expire=1775963229&amp;sign=51e1736f01e032c8e9ec731fa4e05fb8
 #EXTINF:-1 tvg-id="601349305" group-title="Schalke 04 vs Karlsruher SC 18:30 ngày 05/04 German Bundesliga 2", Schalke 04 vs Karlsruher SC 18:30 ngày 05/04 German Bundesliga 2 (Link 2)
