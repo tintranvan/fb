@@ -5,8 +5,18 @@ https://cdn-hls.taoxanh.biz/live/69d2c170beb19_124958/index.m3u8?expire=17760245
 https://live.alilicloud.com/live/5ae72fc48f6c8529d813e0bdd8136a64/playlist.m3u8
 #EXTINF:-1 tvg-id="601350958" group-title="CR Flamengo vs Santos 03:30 ngày 06/04 Brazilian Serie A", CR Flamengo vs Santos 03:30 ngày 06/04 Brazilian Serie A (Link 3)
 https://cdn-hls.taoxanh.biz/live/69d2c170beb19_124958/index.m3u8?expire=1776024560&sign=089dce553c462df5623902eade251bbe
-#EXTINF:-1 tvg-id="601351033" group-title="Cucuta Deportivo vs America de Cali 04:00 ngày 06/04 Categoría Primera A", Cucuta Deportivo vs America de Cali 04:00 ngày 06/04 Categoría Primera A
+#EXTINF:-1 tvg-id="601351033" group-title="Cucuta Deportivo vs America de Cali 04:00 ngày 06/04 Categoría Primera A", Cucuta Deportivo vs America de Cali 04:00 ngày 06/04 Categoría Primera A (Link 1)
+https://cdn-hls.taoxanh.biz/live/69d2d41cbeb19_151657/index.m3u8?expire=1776029340&amp;sign=0d414c76e2bc9b1c90a93bffe549d432
+#EXTINF:-1 tvg-id="601351033" group-title="Cucuta Deportivo vs America de Cali 04:00 ngày 06/04 Categoría Primera A", Cucuta Deportivo vs America de Cali 04:00 ngày 06/04 Categoría Primera A (Link 2)
 https://live.alilicloud.com/live/2dd998443c38c89bd5a7b194fc9ddb4d/playlist.m3u8
+#EXTINF:-1 tvg-id="601351033" group-title="Cucuta Deportivo vs America de Cali 04:00 ngày 06/04 Categoría Primera A", Cucuta Deportivo vs America de Cali 04:00 ngày 06/04 Categoría Primera A (Link 3)
+https://cdn-hls.taoxanh.biz/live/69d2d41cbeb19_151657/index.m3u8?expire=1776029340&sign=0d414c76e2bc9b1c90a93bffe549d432
+#EXTINF:-1 tvg-id="601351018" group-title="Sportivo Ameliano vs Sportivo Luqueno 04:30 ngày 06/04 Paraguayan Primera Division", Sportivo Ameliano vs Sportivo Luqueno 04:30 ngày 06/04 Paraguayan Primera Division (Link 1)
+https://cdn-hls.taoxanh.biz/live/69d2d2da24440_73445/index.m3u8?expire=1776029018&amp;sign=597d0946ebe6122a4e50a6032e9acae4
+#EXTINF:-1 tvg-id="601351018" group-title="Sportivo Ameliano vs Sportivo Luqueno 04:30 ngày 06/04 Paraguayan Primera Division", Sportivo Ameliano vs Sportivo Luqueno 04:30 ngày 06/04 Paraguayan Primera Division (Link 2)
+https://live.alilicloud.com/live/60a09124eb34263540c8a1ee566daa21/playlist.m3u8
+#EXTINF:-1 tvg-id="601351018" group-title="Sportivo Ameliano vs Sportivo Luqueno 04:30 ngày 06/04 Paraguayan Primera Division", Sportivo Ameliano vs Sportivo Luqueno 04:30 ngày 06/04 Paraguayan Primera Division (Link 3)
+https://cdn-hls.taoxanh.biz/live/69d2d2da24440_73445/index.m3u8?expire=1776029018&sign=597d0946ebe6122a4e50a6032e9acae4
 #EXTINF:-1 tvg-id="601362388" group-title="Justin Bergman vs Gerson Martinez Boza 01:15 ngày 06/04 Giải vô địch Pool 8 bi thế giới 2026", Justin Bergman vs Gerson Martinez Boza 01:15 ngày 06/04 Giải vô địch Pool 8 bi thế giới 2026 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69d2a057beb19_142246/index.m3u8?expire=1776016087&amp;sign=091f8c228258fcdaa6c38c05b3b8e67f
 #EXTINF:-1 tvg-id="601362388" group-title="Justin Bergman vs Gerson Martinez Boza 01:15 ngày 06/04 Giải vô địch Pool 8 bi thế giới 2026", Justin Bergman vs Gerson Martinez Boza 01:15 ngày 06/04 Giải vô địch Pool 8 bi thế giới 2026 (Link 2)
@@ -19,34 +29,28 @@ https://cdn-hls.taoxanh.biz/live/69d25dfa24440_103/index.m3u8?expire=1775999098&
 https://cdn-hls.taoxanh.biz/live/69d2b41724440_42127/index.m3u8?expire=1776021143&amp;sign=97312d9df2ec9d7f71080e1aa8d74912
 #EXTINF:-1 tvg-id="601362235" group-title="Boston Celtics vs Toronto Raptors 02:30 ngày 06/04 NBA", Boston Celtics vs Toronto Raptors 02:30 ngày 06/04 NBA (Link 2)
 https://cdn-hls.taoxanh.biz/live/69d2b41724440_42127/index.m3u8?expire=1776021143&sign=97312d9df2ec9d7f71080e1aa8d74912
-#EXTINF:-1 tvg-id="601350835" group-title="D. Concepcion vs Colo Colo 02:30 ngày 06/04 Chilean Primera Division", D. Concepcion vs Colo Colo 02:30 ngày 06/04 Chilean Primera Division
-https://live.alilicloud.com/live/760710e41a732c8e94fc164771da1a74/playlist.m3u8
 #EXTINF:-1 tvg-id="601357060" group-title="TGE Dieppe Bay Eagles vs SLH St Pauls Utd 03:00 ngày 06/04 Saint Kitts Nevis Premier League", TGE Dieppe Bay Eagles vs SLH St Pauls Utd 03:00 ngày 06/04 Saint Kitts Nevis Premier League
 https://live.alilicloud.com/live/accdec13b173f73977e610b7975ec08e/playlist.m3u8
 #EXTINF:-1 tvg-id="601350886" group-title="Racing de Cordoba vs Club Ciudad de Bolivar 03:00 ngày 06/04 Argentine Division 2", Racing de Cordoba vs Club Ciudad de Bolivar 03:00 ngày 06/04 Argentine Division 2
 https://live.alilicloud.com/live/83409849da88efbc71a6cbb314017f1f/playlist.m3u8
 #EXTINF:-1 tvg-id="601350883" group-title="Quilmes vs Deportivo Maipu 03:00 ngày 06/04 Argentine Division 2", Quilmes vs Deportivo Maipu 03:00 ngày 06/04 Argentine Division 2
 https://live.alilicloud.com/live/d978ce34d750522f6404aa092a7823f0/playlist.m3u8
-#EXTINF:-1 tvg-id="601350880" group-title="Gimnasia Jujuy vs Patronato Parana 03:00 ngày 06/04 Argentine Division 2", Gimnasia Jujuy vs Patronato Parana 03:00 ngày 06/04 Argentine Division 2
-https://live.alilicloud.com/live/a7f3d6faf54a9dc29b7dd27732f82681/playlist.m3u8
 #EXTINF:-1 tvg-id="601350859" group-title="AD Cariari Pococi vs Futbol Consultants Moravia 03:00 ngày 06/04 Costa Rica 2.Liga", AD Cariari Pococi vs Futbol Consultants Moravia 03:00 ngày 06/04 Costa Rica 2.Liga
 https://live.alilicloud.com/live/12927878793785774aee7e9b9d425a93/playlist.m3u8
-#EXTINF:-1 tvg-id="601350838" group-title="Deportivo Miranda vs Monagas B 03:00 ngày 06/04 Venezuela Segunda Division", Deportivo Miranda vs Monagas B 03:00 ngày 06/04 Venezuela Segunda Division
-https://live.alilicloud.com/live/c0fb037264703a035665ee325deeef7a/playlist.m3u8
-#EXTINF:-1 tvg-id="601348576" group-title="Ituano  SP vs Anapolis FC 03:00 ngày 06/04 Brazilian Serie C", Ituano  SP vs Anapolis FC 03:00 ngày 06/04 Brazilian Serie C
-https://live.alilicloud.com/live/f1cc39d691f139c87f26720c30a863ee/playlist.m3u8
-#EXTINF:-1 tvg-id="601350961" group-title="Atletico Mineiro vs Athletico Paranaense 03:30 ngày 06/04 Brazilian Serie A", Atletico Mineiro vs Athletico Paranaense 03:30 ngày 06/04 Brazilian Serie A
-https://live.alilicloud.com/live/d4bb07eb9bfc83abe91574f5368796fb/playlist.m3u8
+#EXTINF:-1 tvg-id="601350880" group-title="Gimnasia Jujuy vs Patronato Parana 03:00 ngày 06/04 Argentine Division 2", Gimnasia Jujuy vs Patronato Parana 03:00 ngày 06/04 Argentine Division 2
+https://live.alilicloud.com/live/a7f3d6faf54a9dc29b7dd27732f82681/playlist.m3u8
 #EXTINF:-1 tvg-id="601357066" group-title="SV Flora vs SV Transvaal 03:30 ngày 06/04 SML", SV Flora vs SV Transvaal 03:30 ngày 06/04 SML
 https://live.alilicloud.com/live/42c24649f1ee6bbd14826d70395b1f81/playlist.m3u8
 #EXTINF:-1 tvg-id="601350967" group-title="Manta FC vs Tecnico Universitario 03:30 ngày 06/04 LigaPro Serie A", Manta FC vs Tecnico Universitario 03:30 ngày 06/04 LigaPro Serie A
 https://live.alilicloud.com/live/2c47f0b7ce43ef59a78e2c2ec7bf56c7/playlist.m3u8
 #EXTINF:-1 tvg-id="601350964" group-title="Juan Pablo II vs UTC Cajamarca 03:30 ngày 06/04 Peruvian Liga 1", Juan Pablo II vs UTC Cajamarca 03:30 ngày 06/04 Peruvian Liga 1
 https://live.alilicloud.com/live/01c825f554da4d79721dbfc246339d04/playlist.m3u8
+#EXTINF:-1 tvg-id="601350961" group-title="Atletico Mineiro vs Athletico Paranaense 03:30 ngày 06/04 Brazilian Serie A", Atletico Mineiro vs Athletico Paranaense 03:30 ngày 06/04 Brazilian Serie A
+https://live.alilicloud.com/live/d4bb07eb9bfc83abe91574f5368796fb/playlist.m3u8
 #EXTINF:-1 tvg-id="601339735" group-title="Spanish Town Police vs Dunbeholden FC 03:55 ngày 06/04 Jamaica Premier League", Spanish Town Police vs Dunbeholden FC 03:55 ngày 06/04 Jamaica Premier League
 https://live.alilicloud.com/live/9115617be9908a511cb36623c6d7b56b/playlist.m3u8
-#EXTINF:-1 tvg-id="601351006" group-title="Bay FC (w) vs Washington Spirit (w) 04:00 ngày 06/04 United States Women's National Soccer League", Bay FC (w) vs Washington Spirit (w) 04:00 ngày 06/04 United States Women's National Soccer League
-https://live.alilicloud.com/live/1a157282df5efd191835fef580f4af32/playlist.m3u8
+#EXTINF:-1 tvg-id="601350988" group-title="Gremio Novorizontino vs CRB AL 04:00 ngày 06/04 Brazilian Serie B", Gremio Novorizontino vs CRB AL 04:00 ngày 06/04 Brazilian Serie B
+https://live.alilicloud.com/live/e437f9e97b88bee98315827fabf2b11e/playlist.m3u8
 #EXTINF:-1 tvg-id="601350976" group-title="River Plate vs Belgrano 04:00 ngày 06/04 Argentine Division 1", River Plate vs Belgrano 04:00 ngày 06/04 Argentine Division 1
 https://live.alilicloud.com/live/dc78d02720ef1cc9aba84c07f3c47bab/playlist.m3u8
 #EXTINF:-1 tvg-id="601350973" group-title="Deportivo Saprissa vs Perez Zeledon 04:00 ngày 06/04 Costa Rica Primera Division", Deportivo Saprissa vs Perez Zeledon 04:00 ngày 06/04 Costa Rica Primera Division
@@ -55,12 +59,10 @@ https://live.alilicloud.com/live/af3246bebbc99a2611d0c3be0d0f4b63/playlist.m3u8
 https://live.alilicloud.com/live/569071383c04af9d358df156d21e239d/playlist.m3u8
 #EXTINF:-1 tvg-id="601348528" group-title="Estudiantes Merida FC vs Portuguesa FC 04:00 ngày 06/04 Venezuela Primera Division", Estudiantes Merida FC vs Portuguesa FC 04:00 ngày 06/04 Venezuela Primera Division
 https://live.alilicloud.com/live/59c8cf5ddf20c7d5b5add58065734fb8/playlist.m3u8
+#EXTINF:-1 tvg-id="601351006" group-title="Bay FC (w) vs Washington Spirit (w) 04:00 ngày 06/04 United States Women's National Soccer League", Bay FC (w) vs Washington Spirit (w) 04:00 ngày 06/04 United States Women's National Soccer League
+https://live.alilicloud.com/live/1a157282df5efd191835fef580f4af32/playlist.m3u8
 #EXTINF:-1 tvg-id="601354138" group-title="Universitario De Vinto vs The Strongest 04:15 ngày 06/04 Bolivian Primera Division", Universitario De Vinto vs The Strongest 04:15 ngày 06/04 Bolivian Primera Division
 https://live.alilicloud.com/live/f6ce03bff83fbf3edc851c1e460fc699/playlist.m3u8
-#EXTINF:-1 tvg-id="601351018" group-title="Sportivo Ameliano vs Sportivo Luqueno 04:30 ngày 06/04 Paraguayan Primera Division", Sportivo Ameliano vs Sportivo Luqueno 04:30 ngày 06/04 Paraguayan Primera Division (Link 1)
-https://cdn-hls.taoxanh.biz/live/69d2d2da24440_73445/index.m3u8?expire=1776029018&amp;sign=597d0946ebe6122a4e50a6032e9acae4
-#EXTINF:-1 tvg-id="601351018" group-title="Sportivo Ameliano vs Sportivo Luqueno 04:30 ngày 06/04 Paraguayan Primera Division", Sportivo Ameliano vs Sportivo Luqueno 04:30 ngày 06/04 Paraguayan Primera Division (Link 2)
-https://cdn-hls.taoxanh.biz/live/69d2d2da24440_73445/index.m3u8?expire=1776029018&sign=597d0946ebe6122a4e50a6032e9acae4
 #EXTINF:-1 tvg-id="601351030" group-title="Universidad de Chile vs Deportes La Serena 05:00 ngày 06/04 Chilean Primera Division", Universidad de Chile vs Deportes La Serena 05:00 ngày 06/04 Chilean Primera Division (Link 1)
 https://cdn-hls.taoxanh.biz/live/69d2d31536f92_88642/index.m3u8?expire=1776029077&amp;sign=a77bb71d26cd6b4aae5e9ca19cc66936
 #EXTINF:-1 tvg-id="601351030" group-title="Universidad de Chile vs Deportes La Serena 05:00 ngày 06/04 Chilean Primera Division", Universidad de Chile vs Deportes La Serena 05:00 ngày 06/04 Chilean Primera Division (Link 2)
