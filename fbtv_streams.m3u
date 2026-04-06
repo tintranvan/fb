@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601353001" group-title="FC Arouca vs Estoril 00:45 ngày 07/04 Portuguese Primera Liga", FC Arouca vs Estoril 00:45 ngày 07/04 Portuguese Primera Liga (Link 1)
-https://cdn-hls.taoxanh.biz/live/69d3eadebeb1b_133172/index.m3u8?expire=1776100702&amp;sign=6e53f6fe8dcfa48dabb494aca92a9608
-#EXTINF:-1 tvg-id="601353001" group-title="FC Arouca vs Estoril 00:45 ngày 07/04 Portuguese Primera Liga", FC Arouca vs Estoril 00:45 ngày 07/04 Portuguese Primera Liga (Link 2)
-https://live.alilicloud.com/live/f3e326ae1e836937d54b1c0d6f8c9d2f/playlist.m3u8
-#EXTINF:-1 tvg-id="601353001" group-title="FC Arouca vs Estoril 00:45 ngày 07/04 Portuguese Primera Liga", FC Arouca vs Estoril 00:45 ngày 07/04 Portuguese Primera Liga (Link 3)
-https://cdn-hls.taoxanh.biz/live/69d3eadebeb1b_133172/index.m3u8?expire=1776100702&sign=6e53f6fe8dcfa48dabb494aca92a9608
 #EXTINF:-1 tvg-id="601353025" group-title="Sporting Gijon vs Real Sociedad B 01:30 ngày 07/04 Spanish Segunda Division", Sporting Gijon vs Real Sociedad B 01:30 ngày 07/04 Spanish Segunda Division (Link 1)
 https://cdn-hls.taoxanh.biz/live/69d3d91824440_88186/index.m3u8?expire=1776096152&amp;sign=1557005b387dd543d65122922c54bedd
 #EXTINF:-1 tvg-id="601353025" group-title="Sporting Gijon vs Real Sociedad B 01:30 ngày 07/04 Spanish Segunda Division", Sporting Gijon vs Real Sociedad B 01:30 ngày 07/04 Spanish Segunda Division (Link 2)
@@ -31,19 +25,23 @@ https://cdn-hls.taoxanh.biz/live/69d3f92324440_79/index.m3u8?expire=1776104355&a
 https://live.alilicloud.com/live/b1efcc4ccd49b25d197668c8f2266f9f/playlist.m3u8
 #EXTINF:-1 tvg-id="601353049" group-title="Girona FC vs Villarreal CF 02:00 ngày 07/04 Spanish La Liga", Girona FC vs Villarreal CF 02:00 ngày 07/04 Spanish La Liga (Link 4)
 https://cdn-hls.taoxanh.biz/live/69d3fbb624440_4908/index.m3u8?expire=1776105014&sign=1bdc1f5f0ae9d60f389cb837c9f7039b
+#EXTINF:-1 tvg-id="601353052" group-title="Casa Pia AC vs Benfica 02:45 ngày 07/04 Portuguese Primera Liga", Casa Pia AC vs Benfica 02:45 ngày 07/04 Portuguese Primera Liga (Link 1)
+https://cdn-hls.taoxanh.biz/live/69d409f024440_124958/index.m3u8?expire=1776108656&amp;sign=58f09d4d5c906aca11ad865a85816c63
+#EXTINF:-1 tvg-id="601353052" group-title="Casa Pia AC vs Benfica 02:45 ngày 07/04 Portuguese Primera Liga", Casa Pia AC vs Benfica 02:45 ngày 07/04 Portuguese Primera Liga (Link 2)
+https://live.alilicloud.com/live/d2b4dff56ae6ab6449308cbaf50cabac/playlist.m3u8
+#EXTINF:-1 tvg-id="601353052" group-title="Casa Pia AC vs Benfica 02:45 ngày 07/04 Portuguese Primera Liga", Casa Pia AC vs Benfica 02:45 ngày 07/04 Portuguese Primera Liga (Link 3)
+https://cdn-hls.taoxanh.biz/live/69d409f024440_124958/index.m3u8?expire=1776108656&sign=58f09d4d5c906aca11ad865a85816c63
 #EXTINF:-1 tvg-id="601362616" group-title="Naoyuki Oi vs Albin Ouschan 23:00 ngày 06/04 Giải vô địch Pool 8 bi thế giới 2026", Naoyuki Oi vs Albin Ouschan 23:00 ngày 06/04 Giải vô địch Pool 8 bi thế giới 2026 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69d3b853beb1a_103/index.m3u8?expire=1776087763&amp;sign=eff82b12260607c484500206bdd745c9
 #EXTINF:-1 tvg-id="601362616" group-title="Naoyuki Oi vs Albin Ouschan 23:00 ngày 06/04 Giải vô địch Pool 8 bi thế giới 2026", Naoyuki Oi vs Albin Ouschan 23:00 ngày 06/04 Giải vô địch Pool 8 bi thế giới 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69d3b853beb1a_103/index.m3u8?expire=1776087763&sign=eff82b12260607c484500206bdd745c9
-#EXTINF:-1 tvg-id="601353007" group-title="Jong PSV Eindhoven (Youth) vs VVV Venlo 01:00 ngày 07/04 Netherlands Eerste Divisie", Jong PSV Eindhoven (Youth) vs VVV Venlo 01:00 ngày 07/04 Netherlands Eerste Divisie
-https://live.alilicloud.com/live/b2dfc96bf146b0d01be15af61325ebac/playlist.m3u8
-#EXTINF:-1 tvg-id="601353019" group-title="ZED FC vs El Mokawloon El Arab 01:00 ngày 07/04 Egyptian Premier League", ZED FC vs El Mokawloon El Arab 01:00 ngày 07/04 Egyptian Premier League
-https://live.alilicloud.com/live/22075bb8593b4c45b4f3d5cf4dcbceda/playlist.m3u8
-#EXTINF:-1 tvg-id="601353022" group-title="Lechia Gdansk vs Korona Kielce 01:15 ngày 07/04 PKO Bank Polski EKSTRAKLASA", Lechia Gdansk vs Korona Kielce 01:15 ngày 07/04 PKO Bank Polski EKSTRAKLASA
-https://live.alilicloud.com/live/617d9e3876f5a8ec703a8ca633fa624f/playlist.m3u8
 #EXTINF:-1 tvg-id="601353034" group-title="Sacachispas vs Puerto Nuevo 01:30 ngày 07/04 Argentine Group C Tebolidun League Manchester", Sacachispas vs Puerto Nuevo 01:30 ngày 07/04 Argentine Group C Tebolidun League Manchester
 https://live.alilicloud.com/live/26e348196d926ca8b24abe4d2652c05e/playlist.m3u8
-#EXTINF:-1 tvg-id="601353052" group-title="Casa Pia AC vs Benfica 02:45 ngày 07/04 Portuguese Primera Liga", Casa Pia AC vs Benfica 02:45 ngày 07/04 Portuguese Primera Liga (Link 1)
-https://cdn-hls.taoxanh.biz/live/69d409f024440_124958/index.m3u8?expire=1776108656&amp;sign=58f09d4d5c906aca11ad865a85816c63
-#EXTINF:-1 tvg-id="601353052" group-title="Casa Pia AC vs Benfica 02:45 ngày 07/04 Portuguese Primera Liga", Casa Pia AC vs Benfica 02:45 ngày 07/04 Portuguese Primera Liga (Link 2)
-https://cdn-hls.taoxanh.biz/live/69d409f024440_124958/index.m3u8?expire=1776108656&sign=58f09d4d5c906aca11ad865a85816c63
+#EXTINF:-1 tvg-id="601353055" group-title="FC Cajamarca vs Los Chankas 03:00 ngày 07/04 Peruvian Liga 1", FC Cajamarca vs Los Chankas 03:00 ngày 07/04 Peruvian Liga 1
+https://live.alilicloud.com/live/cd85eb8e5c36bad648d3e60d499b3539/playlist.m3u8
+#EXTINF:-1 tvg-id="601353058" group-title="Bolivia U17 vs Venezuela U17 03:00 ngày 07/04 CONMEBOL U17 Championship", Bolivia U17 vs Venezuela U17 03:00 ngày 07/04 CONMEBOL U17 Championship
+https://live.alilicloud.com/live/b59c926f4fc0e601a6e28970b6373c8f/playlist.m3u8
+#EXTINF:-1 tvg-id="601353064" group-title="Deportivo Pereira vs Alianza Fútbol Club 03:30 ngày 07/04 Categoría Primera A", Deportivo Pereira vs Alianza Fútbol Club 03:30 ngày 07/04 Categoría Primera A (Link 1)
+https://cdn-hls.taoxanh.biz/live/69d40f3924440_128756/index.m3u8?expire=1776110009&amp;sign=d5eb773b67c6c2e13887787522abb999
+#EXTINF:-1 tvg-id="601353064" group-title="Deportivo Pereira vs Alianza Fútbol Club 03:30 ngày 07/04 Categoría Primera A", Deportivo Pereira vs Alianza Fútbol Club 03:30 ngày 07/04 Categoría Primera A (Link 2)
+https://cdn-hls.taoxanh.biz/live/69d40f3924440_128756/index.m3u8?expire=1776110009&sign=d5eb773b67c6c2e13887787522abb999
