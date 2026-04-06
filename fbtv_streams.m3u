@@ -1,19 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601351126" group-title="Chivas Guadalajara vs Pumas U.N.A.M. 09:07 ngày 06/04 Mexico Liga MX", Chivas Guadalajara vs Pumas U.N.A.M. 09:07 ngày 06/04 Mexico Liga MX (Link 1)
-https://cdn-hls.taoxanh.biz/live/69d2fb2324440_124958/index.m3u8?expire=1776039331&amp;sign=742ee443f4374e5714702a794e5ac643
-#EXTINF:-1 tvg-id="601351126" group-title="Chivas Guadalajara vs Pumas U.N.A.M. 09:07 ngày 06/04 Mexico Liga MX", Chivas Guadalajara vs Pumas U.N.A.M. 09:07 ngày 06/04 Mexico Liga MX (Link 2)
-https://live.alilicloud.com/live/3a058bd3f9b6ac9e722dac71412d8c66/playlist.m3u8
-#EXTINF:-1 tvg-id="601351126" group-title="Chivas Guadalajara vs Pumas U.N.A.M. 09:07 ngày 06/04 Mexico Liga MX", Chivas Guadalajara vs Pumas U.N.A.M. 09:07 ngày 06/04 Mexico Liga MX (Link 3)
-https://cdn-hls.taoxanh.biz/live/69d2fb2324440_124958/index.m3u8?expire=1776039331&sign=742ee443f4374e5714702a794e5ac643
-#EXTINF:-1 tvg-id="601351120" group-title="Xelaju MC vs Malacateco 09:00 ngày 06/04 Guatemala Liga Nacional", Xelaju MC vs Malacateco 09:00 ngày 06/04 Guatemala Liga Nacional
-https://live.alilicloud.com/live/98a5c84286f02d4cf067b36d58803ecf/playlist.m3u8
-#EXTINF:-1 tvg-id="601362265" group-title="Golden State Warriors vs Houston Rockets 09:00 ngày 06/04 NBA", Golden State Warriors vs Houston Rockets 09:00 ngày 06/04 NBA (Link 1)
-https://cdn-hls.taoxanh.biz/live/69d30e7924440_4733/index.m3u8?expire=1776044281&amp;sign=f85de1f3959b30442bd930133317a0a7
-#EXTINF:-1 tvg-id="601362265" group-title="Golden State Warriors vs Houston Rockets 09:00 ngày 06/04 NBA", Golden State Warriors vs Houston Rockets 09:00 ngày 06/04 NBA (Link 2)
-https://cdn-hls.taoxanh.biz/live/69d30e7924440_4733/index.m3u8?expire=1776044281&sign=f85de1f3959b30442bd930133317a0a7
-#EXTINF:-1 tvg-id="601351132" group-title="Auckland United vs Auckland City 10:00 ngày 06/04 New Zealand Northern Premier League", Auckland United vs Auckland City 10:00 ngày 06/04 New Zealand Northern Premier League
-https://live.alilicloud.com/live/ba0457aabed1c3a2d5aaaac2717d05d9/playlist.m3u8
-#EXTINF:-1 tvg-id="601351138" group-title="Melville United vs Eastern Suburbs AFC 10:00 ngày 06/04 New Zealand Northern Premier League", Melville United vs Eastern Suburbs AFC 10:00 ngày 06/04 New Zealand Northern Premier League
-https://live.alilicloud.com/live/034713780003f5d6794e23a6f1379397/playlist.m3u8
-#EXTINF:-1 tvg-id="601351141" group-title="Mazatlan FC (w) vs Saint Louis Athletica (w) 10:10 ngày 06/04 Mexico Liga MX Femenil", Mazatlan FC (w) vs Saint Louis Athletica (w) 10:10 ngày 06/04 Mexico Liga MX Femenil
-https://live.alilicloud.com/live/033a938b7fbaa754b783f52d38792823/playlist.m3u8
+#EXTINF:-1 tvg-id="601362379" group-title="Indonesia vs Brunei 12:30 ngày 06/04 Futsal Champions League 2026", Indonesia vs Brunei 12:30 ngày 06/04 Futsal Champions League 2026 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69d33e6624440_72787/index.m3u8?expire=1776056550&amp;sign=ac805a6c232eaefec44b5db0df294865
+#EXTINF:-1 tvg-id="601362379" group-title="Indonesia vs Brunei 12:30 ngày 06/04 Futsal Champions League 2026", Indonesia vs Brunei 12:30 ngày 06/04 Futsal Champions League 2026 (Link 2)
+https://cdn-hls.taoxanh.biz/live/69d33e6624440_72787/index.m3u8?expire=1776056550&sign=ac805a6c232eaefec44b5db0df294865
+#EXTINF:-1 tvg-id="601362355" group-title="Hà Nội Tasco Auto vs BC Thông tin BĐ19 12:00 ngày 06/04 Giải bóng chuyền VĐQG 2026", Hà Nội Tasco Auto vs BC Thông tin BĐ19 12:00 ngày 06/04 Giải bóng chuyền VĐQG 2026 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69d3338fbeb1a_88642/index.m3u8?expire=1776053775&amp;sign=a1699c6e34ffa0e380f552df369b019c
+#EXTINF:-1 tvg-id="601362355" group-title="Hà Nội Tasco Auto vs BC Thông tin BĐ19 12:00 ngày 06/04 Giải bóng chuyền VĐQG 2026", Hà Nội Tasco Auto vs BC Thông tin BĐ19 12:00 ngày 06/04 Giải bóng chuyền VĐQG 2026 (Link 2)
+https://cdn-hls.taoxanh.biz/live/69d3338fbeb1a_88642/index.m3u8?expire=1776053775&sign=a1699c6e34ffa0e380f552df369b019c
+#EXTINF:-1 tvg-id="601351147" group-title="Chengdu Top Shine Jincheng vs Suining Team 12:00 ngày 06/04 Chinese Football Association Member Association Champions League", Chengdu Top Shine Jincheng vs Suining Team 12:00 ngày 06/04 Chinese Football Association Member Association Champions League
+https://live.alilicloud.com/live/4f586e3f897b9ae27a0ee01fe946d685/playlist.m3u8
+#EXTINF:-1 tvg-id="601351150" group-title="Shenzhen Jixiang vs Guizhou Open University 12:00 ngày 06/04 Chinese Football Association Member Association Champions League", Shenzhen Jixiang vs Guizhou Open University 12:00 ngày 06/04 Chinese Football Association Member Association Champions League
+https://live.alilicloud.com/live/47859b9753907cd9a95ab4d7210ca810/playlist.m3u8
+#EXTINF:-1 tvg-id="601351144" group-title="Sydney United 58 FC vs Marconi Stallions 12:10 ngày 06/04 Australia New South Wales Premier League", Sydney United 58 FC vs Marconi Stallions 12:10 ngày 06/04 Australia New South Wales Premier League
+https://live.alilicloud.com/live/dfdac0c3f6db943e519cebd828a14079/playlist.m3u8
