@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601352146" group-title="Juventus vs Genoa 23:00 ngày 06/04 Italian Serie A", Juventus vs Genoa 23:00 ngày 06/04 Italian Serie A (Link 1)
-https://cdn-hls.taoxanh.biz/live/69d3d1f224440_85514/index.m3u8?expire=1776094322&amp;sign=86de370dc83ad9c4e233b27495105171
-#EXTINF:-1 tvg-id="601352146" group-title="Juventus vs Genoa 23:00 ngày 06/04 Italian Serie A", Juventus vs Genoa 23:00 ngày 06/04 Italian Serie A (Link 2)
-https://cdn-hls.taoxanh.biz/live/69d3d8d724440_28/index.m3u8?expire=1776096087&amp;sign=54f89f0308f3b27f65bf5234540a4244
-#EXTINF:-1 tvg-id="601352146" group-title="Juventus vs Genoa 23:00 ngày 06/04 Italian Serie A", Juventus vs Genoa 23:00 ngày 06/04 Italian Serie A (Link 3)
-https://live.alilicloud.com/live/4e332447f8376c2ca0b2d54710391953/playlist.m3u8
-#EXTINF:-1 tvg-id="601352146" group-title="Juventus vs Genoa 23:00 ngày 06/04 Italian Serie A", Juventus vs Genoa 23:00 ngày 06/04 Italian Serie A (Link 4)
-https://cdn-hls.taoxanh.biz/live/69d3d1f224440_85514/index.m3u8?expire=1776094322&sign=86de370dc83ad9c4e233b27495105171
-#EXTINF:-1 tvg-id="601352212" group-title="Swansea City vs Middlesbrough 23:30 ngày 06/04 English Football League Championship", Swansea City vs Middlesbrough 23:30 ngày 06/04 English Football League Championship (Link 1)
-https://cdn-hls.taoxanh.biz/live/69d3d48e24440_4908/index.m3u8?expire=1776094990&amp;sign=7bc9826089e9f9ebfac71e88c8cff7a6
-#EXTINF:-1 tvg-id="601352212" group-title="Swansea City vs Middlesbrough 23:30 ngày 06/04 English Football League Championship", Swansea City vs Middlesbrough 23:30 ngày 06/04 English Football League Championship (Link 2)
-https://live.alilicloud.com/live/1c76e93bbd429e8019f77fdf7719ac41/playlist.m3u8
-#EXTINF:-1 tvg-id="601352212" group-title="Swansea City vs Middlesbrough 23:30 ngày 06/04 English Football League Championship", Swansea City vs Middlesbrough 23:30 ngày 06/04 English Football League Championship (Link 3)
-https://cdn-hls.taoxanh.biz/live/69d3d48e24440_4908/index.m3u8?expire=1776094990&sign=7bc9826089e9f9ebfac71e88c8cff7a6
 #EXTINF:-1 tvg-id="601352974" group-title="Castellon vs Granada CF 00:00 ngày 07/04 Spanish Segunda Division", Castellon vs Granada CF 00:00 ngày 07/04 Spanish Segunda Division (Link 1)
 https://cdn-hls.taoxanh.biz/live/69d3de18beb1a_151255/index.m3u8?expire=1776097432&amp;sign=a3edddc94a18db692637c3037da6489f
 #EXTINF:-1 tvg-id="601352974" group-title="Castellon vs Granada CF 00:00 ngày 07/04 Spanish Segunda Division", Castellon vs Granada CF 00:00 ngày 07/04 Spanish Segunda Division (Link 2)
@@ -43,61 +29,61 @@ https://cdn-hls.taoxanh.biz/live/69d3e5c4beb1b_124958/index.m3u8?expire=17760993
 https://live.alilicloud.com/live/3034bf45aaf1e4a92f57c8e7a795f794/playlist.m3u8
 #EXTINF:-1 tvg-id="601352992" group-title="Carrarese vs Spezia 00:30 ngày 07/04 Italian Serie B", Carrarese vs Spezia 00:30 ngày 07/04 Italian Serie B (Link 3)
 https://cdn-hls.taoxanh.biz/live/69d3e5c4beb1b_124958/index.m3u8?expire=1776099396&sign=30d03c70a1dda4b7a677b4a316bcb3d9
-#EXTINF:-1 tvg-id="601346644" group-title="Porto B vs GD Chaves 00:00 ngày 07/04 Liga Portugal 2", Porto B vs GD Chaves 00:00 ngày 07/04 Liga Portugal 2
-https://live.alilicloud.com/live/094d0d551ea22738d0ef8cd91eda1c90/playlist.m3u8
+#EXTINF:-1 tvg-id="601353001" group-title="FC Arouca vs Estoril 00:45 ngày 07/04 Portuguese Primera Liga", FC Arouca vs Estoril 00:45 ngày 07/04 Portuguese Primera Liga (Link 1)
+https://cdn-hls.taoxanh.biz/live/69d3eadebeb1b_133172/index.m3u8?expire=1776100702&amp;sign=6e53f6fe8dcfa48dabb494aca92a9608
+#EXTINF:-1 tvg-id="601353001" group-title="FC Arouca vs Estoril 00:45 ngày 07/04 Portuguese Primera Liga", FC Arouca vs Estoril 00:45 ngày 07/04 Portuguese Primera Liga (Link 2)
+https://live.alilicloud.com/live/f3e326ae1e836937d54b1c0d6f8c9d2f/playlist.m3u8
+#EXTINF:-1 tvg-id="601353001" group-title="FC Arouca vs Estoril 00:45 ngày 07/04 Portuguese Primera Liga", FC Arouca vs Estoril 00:45 ngày 07/04 Portuguese Primera Liga (Link 3)
+https://cdn-hls.taoxanh.biz/live/69d3eadebeb1b_133172/index.m3u8?expire=1776100702&sign=6e53f6fe8dcfa48dabb494aca92a9608
+#EXTINF:-1 tvg-id="601353025" group-title="Sporting Gijon vs Real Sociedad B 01:30 ngày 07/04 Spanish Segunda Division", Sporting Gijon vs Real Sociedad B 01:30 ngày 07/04 Spanish Segunda Division (Link 1)
+https://cdn-hls.taoxanh.biz/live/69d3d91824440_88186/index.m3u8?expire=1776096152&amp;sign=1557005b387dd543d65122922c54bedd
+#EXTINF:-1 tvg-id="601353025" group-title="Sporting Gijon vs Real Sociedad B 01:30 ngày 07/04 Spanish Segunda Division", Sporting Gijon vs Real Sociedad B 01:30 ngày 07/04 Spanish Segunda Division (Link 2)
+https://live.alilicloud.com/live/0104b899cd4184b52a0a57c62a5bf3de/playlist.m3u8
+#EXTINF:-1 tvg-id="601353025" group-title="Sporting Gijon vs Real Sociedad B 01:30 ngày 07/04 Spanish Segunda Division", Sporting Gijon vs Real Sociedad B 01:30 ngày 07/04 Spanish Segunda Division (Link 3)
+https://cdn-hls.taoxanh.biz/live/69d3d91824440_88186/index.m3u8?expire=1776096152&sign=1557005b387dd543d65122922c54bedd
 #EXTINF:-1 tvg-id="601352983" group-title="HB Torshavn vs B36 Torshavn 00:00 ngày 07/04 Faroe Islands Premier League", HB Torshavn vs B36 Torshavn 00:00 ngày 07/04 Faroe Islands Premier League
 https://live.alilicloud.com/live/61f4849beb276b9e47dd68e3884400d6/playlist.m3u8
-#EXTINF:-1 tvg-id="601362616" group-title="Xiaofang Fu vs Kelly Fisher 23:00 ngày 06/04 Giải vô địch Pool 8 bi thế giới 2026", Xiaofang Fu vs Kelly Fisher 23:00 ngày 06/04 Giải vô địch Pool 8 bi thế giới 2026 (Link 1)
+#EXTINF:-1 tvg-id="601346644" group-title="Porto B vs GD Chaves 00:00 ngày 07/04 Liga Portugal 2", Porto B vs GD Chaves 00:00 ngày 07/04 Liga Portugal 2
+https://live.alilicloud.com/live/094d0d551ea22738d0ef8cd91eda1c90/playlist.m3u8
+#EXTINF:-1 tvg-id="601362616" group-title="Naoyuki Oi vs Albin Ouschan 23:00 ngày 06/04 Giải vô địch Pool 8 bi thế giới 2026", Naoyuki Oi vs Albin Ouschan 23:00 ngày 06/04 Giải vô địch Pool 8 bi thế giới 2026 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69d3b853beb1a_103/index.m3u8?expire=1776087763&amp;sign=eff82b12260607c484500206bdd745c9
-#EXTINF:-1 tvg-id="601362616" group-title="Xiaofang Fu vs Kelly Fisher 23:00 ngày 06/04 Giải vô địch Pool 8 bi thế giới 2026", Xiaofang Fu vs Kelly Fisher 23:00 ngày 06/04 Giải vô địch Pool 8 bi thế giới 2026 (Link 2)
+#EXTINF:-1 tvg-id="601362616" group-title="Naoyuki Oi vs Albin Ouschan 23:00 ngày 06/04 Giải vô địch Pool 8 bi thế giới 2026", Naoyuki Oi vs Albin Ouschan 23:00 ngày 06/04 Giải vô địch Pool 8 bi thế giới 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69d3b853beb1a_103/index.m3u8?expire=1776087763&sign=eff82b12260607c484500206bdd745c9
 #EXTINF:-1 tvg-id="601362424" group-title="Valentin Vacherot vs Juan Manuel Cerundolo 22:00 ngày 06/04 ATP Monte Carlo", Valentin Vacherot vs Juan Manuel Cerundolo 22:00 ngày 06/04 ATP Monte Carlo (Link 1)
 https://cdn-hls.taoxanh.biz/live/69d3cd4c24440_4733/index.m3u8?expire=1776093132&amp;sign=04f40b42f9b7dd7ec2d0f297629799d2
 #EXTINF:-1 tvg-id="601362424" group-title="Valentin Vacherot vs Juan Manuel Cerundolo 22:00 ngày 06/04 ATP Monte Carlo", Valentin Vacherot vs Juan Manuel Cerundolo 22:00 ngày 06/04 ATP Monte Carlo (Link 2)
 https://cdn-hls.taoxanh.biz/live/69d3cd4c24440_4733/index.m3u8?expire=1776093132&sign=04f40b42f9b7dd7ec2d0f297629799d2
-#EXTINF:-1 tvg-id="601352170" group-title="Shamrock Rovers vs Shelbourne 23:00 ngày 06/04 Ireland Premier Division", Shamrock Rovers vs Shelbourne 23:00 ngày 06/04 Ireland Premier Division
-https://live.alilicloud.com/live/78d055a76f8224659ec78fe72b4711b4/playlist.m3u8
-#EXTINF:-1 tvg-id="601352197" group-title="Birmingham (w) vs Manchester City (w) 23:00 ngày 06/04 English FA Women's Cup", Birmingham (w) vs Manchester City (w) 23:00 ngày 06/04 English FA Women's Cup
-https://live.alilicloud.com/live/6d895fafaec7bc1ff495d963f02e9445/playlist.m3u8
-#EXTINF:-1 tvg-id="601352194" group-title="Asker vs Konnerud 23:00 ngày 06/04 Norwegian 3.Divisjon", Asker vs Konnerud 23:00 ngày 06/04 Norwegian 3.Divisjon
-https://live.alilicloud.com/live/f6c882bf8de354a0d73d42ceef81c5ef/playlist.m3u8
-#EXTINF:-1 tvg-id="601352191" group-title="Viborg vs Aarhus AGF 23:00 ngày 06/04 Danish Superliga", Viborg vs Aarhus AGF 23:00 ngày 06/04 Danish Superliga
-https://live.alilicloud.com/live/c48ce404463b4312ec3d2e3f25757e7b/playlist.m3u8
-#EXTINF:-1 tvg-id="601352173" group-title="Sligo Rovers vs Derry City 23:00 ngày 06/04 Ireland Premier Division", Sligo Rovers vs Derry City 23:00 ngày 06/04 Ireland Premier Division
-https://live.alilicloud.com/live/12d475f1ea0f1da5331d7f0056c04da4/playlist.m3u8
-#EXTINF:-1 tvg-id="601352167" group-title="Dundalk vs St. Patricks Athletic 23:00 ngày 06/04 Ireland Premier Division", Dundalk vs St. Patricks Athletic 23:00 ngày 06/04 Ireland Premier Division
-https://live.alilicloud.com/live/a184d2cb3f8da189af1d649c4be0e17d/playlist.m3u8
-#EXTINF:-1 tvg-id="601352164" group-title="Drogheda United vs Galway United 23:00 ngày 06/04 Ireland Premier Division", Drogheda United vs Galway United 23:00 ngày 06/04 Ireland Premier Division
-https://live.alilicloud.com/live/a310e57a0ef82d1ffd7d2fb38e7981da/playlist.m3u8
-#EXTINF:-1 tvg-id="601352161" group-title="Bohemians vs Waterford United 23:00 ngày 06/04 Ireland Premier Division", Bohemians vs Waterford United 23:00 ngày 06/04 Ireland Premier Division
-https://live.alilicloud.com/live/192be0e0527d57e5e400b6d46edafe59/playlist.m3u8
-#EXTINF:-1 tvg-id="601352203" group-title="Celtic (w) vs Glasgow Rangers (w) 23:10 ngày 06/04 Scottish Women's Premier League", Celtic (w) vs Glasgow Rangers (w) 23:10 ngày 06/04 Scottish Women's Premier League
-https://live.alilicloud.com/live/ad4b85c2acb6dd091861a3edcbe6bc94/playlist.m3u8
-#EXTINF:-1 tvg-id="601352206" group-title="Skala Itrottarfelag vs EB Streymur 23:15 ngày 06/04 Faroe Islands Premier League", Skala Itrottarfelag vs EB Streymur 23:15 ngày 06/04 Faroe Islands Premier League
-https://live.alilicloud.com/live/5e825f646de29e51b3914dd1303d0310/playlist.m3u8
-#EXTINF:-1 tvg-id="601352215" group-title="FC Sochi vs Rubin Kazan 23:30 ngày 06/04 Russian Premier League", FC Sochi vs Rubin Kazan 23:30 ngày 06/04 Russian Premier League
-https://live.alilicloud.com/live/f8c35e45b564cb2e270b3c1e2ccc0cb5/playlist.m3u8
-#EXTINF:-1 tvg-id="601352218" group-title="KAA Gent vs KV Mechelen 23:30 ngày 06/04 Belgian Pro League", KAA Gent vs KV Mechelen 23:30 ngày 06/04 Belgian Pro League
-https://live.alilicloud.com/live/ac872b36110bb9144d1c382544473401/playlist.m3u8
 #EXTINF:-1 tvg-id="601352971" group-title="Barcelona (w) vs Badalona Women 00:00 ngày 07/04 Spanish Primera División de la Liga de Fútbol Femenino", Barcelona (w) vs Badalona Women 00:00 ngày 07/04 Spanish Primera División de la Liga de Fútbol Femenino
 https://live.alilicloud.com/live/ebe1f1daea242e463843aa95fda7d7d4/playlist.m3u8
 #EXTINF:-1 tvg-id="601352980" group-title="Sporting CP U23 vs Braga U23 00:00 ngày 07/04 Portuguese U23 League", Sporting CP U23 vs Braga U23 00:00 ngày 07/04 Portuguese U23 League
 https://live.alilicloud.com/live/3af565ede39604b28b909a9700cc8681/playlist.m3u8
-#EXTINF:-1 tvg-id="601352989" group-title="Hapoel Tel Aviv vs Maccabi Haifa 00:30 ngày 07/04 Israel Premier League", Hapoel Tel Aviv vs Maccabi Haifa 00:30 ngày 07/04 Israel Premier League
-https://live.alilicloud.com/live/579222f0c684fe3d7b0aaf9d3d28974d/playlist.m3u8
 #EXTINF:-1 tvg-id="601352998" group-title="Valerenga B vs Grei 00:30 ngày 07/04 Norwegian 3.Divisjon", Valerenga B vs Grei 00:30 ngày 07/04 Norwegian 3.Divisjon
 https://live.alilicloud.com/live/99923033468216cf484a7514018b21ae/playlist.m3u8
+#EXTINF:-1 tvg-id="601352989" group-title="Hapoel Tel Aviv vs Maccabi Haifa 00:30 ngày 07/04 Israel Premier League", Hapoel Tel Aviv vs Maccabi Haifa 00:30 ngày 07/04 Israel Premier League
+https://live.alilicloud.com/live/579222f0c684fe3d7b0aaf9d3d28974d/playlist.m3u8
 #EXTINF:-1 tvg-id="601346344" group-title="Pogon Grodzisk Mazowiecki vs Stal Mielec 00:30 ngày 07/04 Poland Liga 1", Pogon Grodzisk Mazowiecki vs Stal Mielec 00:30 ngày 07/04 Poland Liga 1
 https://live.alilicloud.com/live/b5d8cff4e4983f7ce2daa6eea13f8198/playlist.m3u8
-#EXTINF:-1 tvg-id="601353001" group-title="FC Arouca vs Estoril 00:45 ngày 07/04 Portuguese Primera Liga", FC Arouca vs Estoril 00:45 ngày 07/04 Portuguese Primera Liga (Link 1)
-https://cdn-hls.taoxanh.biz/live/69d3eadebeb1b_133172/index.m3u8?expire=1776100702&amp;sign=6e53f6fe8dcfa48dabb494aca92a9608
-#EXTINF:-1 tvg-id="601353001" group-title="FC Arouca vs Estoril 00:45 ngày 07/04 Portuguese Primera Liga", FC Arouca vs Estoril 00:45 ngày 07/04 Portuguese Primera Liga (Link 2)
-https://cdn-hls.taoxanh.biz/live/69d3eadebeb1b_133172/index.m3u8?expire=1776100702&sign=6e53f6fe8dcfa48dabb494aca92a9608
-#EXTINF:-1 tvg-id="601353025" group-title="Sporting Gijon vs Real Sociedad B 01:30 ngày 07/04 Spanish Segunda Division", Sporting Gijon vs Real Sociedad B 01:30 ngày 07/04 Spanish Segunda Division (Link 1)
-https://cdn-hls.taoxanh.biz/live/69d3d91824440_88186/index.m3u8?expire=1776096152&amp;sign=1557005b387dd543d65122922c54bedd
-#EXTINF:-1 tvg-id="601353025" group-title="Sporting Gijon vs Real Sociedad B 01:30 ngày 07/04 Spanish Segunda Division", Sporting Gijon vs Real Sociedad B 01:30 ngày 07/04 Spanish Segunda Division (Link 2)
-https://cdn-hls.taoxanh.biz/live/69d3d91824440_88186/index.m3u8?expire=1776096152&sign=1557005b387dd543d65122922c54bedd
-#EXTINF:-1 tvg-id="601353037" group-title="Napoli vs AC Milan 01:45 ngày 07/04 Italian Serie A", Napoli vs AC Milan 01:45 ngày 07/04 Italian Serie A
-https://live.alilicloud.com/live/b54fae7e089acbf89b8e69edc542ce1e/playlist.m3u8
-#EXTINF:-1 tvg-id="601353049" group-title="Girona FC vs Villarreal CF 02:00 ngày 07/04 Spanish La Liga", Girona FC vs Villarreal CF 02:00 ngày 07/04 Spanish La Liga
-https://live.alilicloud.com/live/b1efcc4ccd49b25d197668c8f2266f9f/playlist.m3u8
+#EXTINF:-1 tvg-id="601353019" group-title="ZED FC vs El Mokawloon El Arab 01:00 ngày 07/04 Egyptian Premier League", ZED FC vs El Mokawloon El Arab 01:00 ngày 07/04 Egyptian Premier League
+https://live.alilicloud.com/live/22075bb8593b4c45b4f3d5cf4dcbceda/playlist.m3u8
+#EXTINF:-1 tvg-id="601353007" group-title="Jong PSV Eindhoven (Youth) vs VVV Venlo 01:00 ngày 07/04 Netherlands Eerste Divisie", Jong PSV Eindhoven (Youth) vs VVV Venlo 01:00 ngày 07/04 Netherlands Eerste Divisie
+https://live.alilicloud.com/live/b2dfc96bf146b0d01be15af61325ebac/playlist.m3u8
+#EXTINF:-1 tvg-id="601353022" group-title="Lechia Gdansk vs Korona Kielce 01:15 ngày 07/04 PKO Bank Polski EKSTRAKLASA", Lechia Gdansk vs Korona Kielce 01:15 ngày 07/04 PKO Bank Polski EKSTRAKLASA
+https://live.alilicloud.com/live/617d9e3876f5a8ec703a8ca633fa624f/playlist.m3u8
+#EXTINF:-1 tvg-id="601353034" group-title="Sacachispas vs Puerto Nuevo 01:30 ngày 07/04 Argentine Group C Tebolidun League Manchester", Sacachispas vs Puerto Nuevo 01:30 ngày 07/04 Argentine Group C Tebolidun League Manchester
+https://live.alilicloud.com/live/26e348196d926ca8b24abe4d2652c05e/playlist.m3u8
+#EXTINF:-1 tvg-id="601353040" group-title="Le Mans vs Pau FC 01:45 ngày 07/04 French Ligue 2", Le Mans vs Pau FC 01:45 ngày 07/04 French Ligue 2 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69d3f5ff24440_88642/index.m3u8?expire=1776103551&amp;sign=2c4f88c7c664445d78cd914b8924012b
+#EXTINF:-1 tvg-id="601353040" group-title="Le Mans vs Pau FC 01:45 ngày 07/04 French Ligue 2", Le Mans vs Pau FC 01:45 ngày 07/04 French Ligue 2 (Link 2)
+https://cdn-hls.taoxanh.biz/live/69d3f5ff24440_88642/index.m3u8?expire=1776103551&sign=2c4f88c7c664445d78cd914b8924012b
+#EXTINF:-1 tvg-id="601353037" group-title="Napoli vs AC Milan 01:45 ngày 07/04 Italian Serie A", Napoli vs AC Milan 01:45 ngày 07/04 Italian Serie A (Link 1)
+https://cdn-hls.taoxanh.biz/live/69d3f3d6beb1b_28/index.m3u8?expire=1776102998&amp;sign=37cbe13d51fbcca341fc9adffda11b1e
+#EXTINF:-1 tvg-id="601353037" group-title="Napoli vs AC Milan 01:45 ngày 07/04 Italian Serie A", Napoli vs AC Milan 01:45 ngày 07/04 Italian Serie A (Link 2)
+https://cdn-hls.taoxanh.biz/live/69d3f1f024440_85514/index.m3u8?expire=1776102512&amp;sign=1480c96ec3d52c465e73c9c7058493c1
+#EXTINF:-1 tvg-id="601353037" group-title="Napoli vs AC Milan 01:45 ngày 07/04 Italian Serie A", Napoli vs AC Milan 01:45 ngày 07/04 Italian Serie A (Link 3)
+https://cdn-hls.taoxanh.biz/live/69d3f3d6beb1b_28/index.m3u8?expire=1776102998&sign=37cbe13d51fbcca341fc9adffda11b1e
+#EXTINF:-1 tvg-id="601353049" group-title="Girona FC vs Villarreal CF 02:00 ngày 07/04 Spanish La Liga", Girona FC vs Villarreal CF 02:00 ngày 07/04 Spanish La Liga (Link 1)
+https://cdn-hls.taoxanh.biz/live/69d3fbb624440_4908/index.m3u8?expire=1776105014&amp;sign=1bdc1f5f0ae9d60f389cb837c9f7039b
+#EXTINF:-1 tvg-id="601353049" group-title="Girona FC vs Villarreal CF 02:00 ngày 07/04 Spanish La Liga", Girona FC vs Villarreal CF 02:00 ngày 07/04 Spanish La Liga (Link 2)
+https://cdn-hls.taoxanh.biz/live/69d3f92324440_79/index.m3u8?expire=1776104355&amp;sign=7b7d679e9bbe3c5616b2c518eec198cd
+#EXTINF:-1 tvg-id="601353049" group-title="Girona FC vs Villarreal CF 02:00 ngày 07/04 Spanish La Liga", Girona FC vs Villarreal CF 02:00 ngày 07/04 Spanish La Liga (Link 3)
+https://cdn-hls.taoxanh.biz/live/69d3fbb624440_4908/index.m3u8?expire=1776105014&sign=1bdc1f5f0ae9d60f389cb837c9f7039b
