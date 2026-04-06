@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601351030" group-title="Universidad de Chile vs Deportes La Serena 05:00 ngày 06/04 Chilean Primera Division", Universidad de Chile vs Deportes La Serena 05:00 ngày 06/04 Chilean Primera Division (Link 1)
-https://cdn-hls.taoxanh.biz/live/69d2d31536f92_88642/index.m3u8?expire=1776029077&amp;sign=a77bb71d26cd6b4aae5e9ca19cc66936
-#EXTINF:-1 tvg-id="601351030" group-title="Universidad de Chile vs Deportes La Serena 05:00 ngày 06/04 Chilean Primera Division", Universidad de Chile vs Deportes La Serena 05:00 ngày 06/04 Chilean Primera Division (Link 2)
-https://live.alilicloud.com/live/99741fd4226f77332fbc855a3ad4d2b9/playlist.m3u8
-#EXTINF:-1 tvg-id="601351030" group-title="Universidad de Chile vs Deportes La Serena 05:00 ngày 06/04 Chilean Primera Division", Universidad de Chile vs Deportes La Serena 05:00 ngày 06/04 Chilean Primera Division (Link 3)
-https://cdn-hls.taoxanh.biz/live/69d2d31536f92_88642/index.m3u8?expire=1776029077&sign=a77bb71d26cd6b4aae5e9ca19cc66936
 #EXTINF:-1 tvg-id="601351039" group-title="Pacific FC vs Cavalry FC 05:10 ngày 06/04 Canadian Premier League", Pacific FC vs Cavalry FC 05:10 ngày 06/04 Canadian Premier League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69d2d39a24440_124958/index.m3u8?expire=1776029210&amp;sign=b5a6e8015c70133cfaef606e7f82a8ff
 #EXTINF:-1 tvg-id="601351039" group-title="Pacific FC vs Cavalry FC 05:10 ngày 06/04 Canadian Premier League", Pacific FC vs Cavalry FC 05:10 ngày 06/04 Canadian Premier League (Link 2)
@@ -17,18 +11,16 @@ https://cdn-hls.taoxanh.biz/live/69d2dc8424440_74012/index.m3u8?expire=177603149
 https://live.alilicloud.com/live/73de858553142da58557b98dc3210f9c/playlist.m3u8
 #EXTINF:-1 tvg-id="601351054" group-title="Bahia vs Palmeiras 05:30 ngày 06/04 Brazilian Serie A", Bahia vs Palmeiras 05:30 ngày 06/04 Brazilian Serie A (Link 3)
 https://cdn-hls.taoxanh.biz/live/69d2dc8424440_74012/index.m3u8?expire=1776031492&sign=d674f345aa3784126ece7a728a47f4b2
-#EXTINF:-1 tvg-id="601351060" group-title="Mirassol vs Red Bull Bragantino 06:00 ngày 06/04 Brazilian Serie A", Mirassol vs Red Bull Bragantino 06:00 ngày 06/04 Brazilian Serie A
+#EXTINF:-1 tvg-id="601351060" group-title="Mirassol vs Red Bull Bragantino 06:00 ngày 06/04 Brazilian Serie A", Mirassol vs Red Bull Bragantino 06:00 ngày 06/04 Brazilian Serie A (Link 1)
+https://cdn-hls.taoxanh.biz/live/69d2f28bbeb19_128756/index.m3u8?expire=1776037131&amp;sign=a64b603bf58d0e49f640f502b8aa6318
+#EXTINF:-1 tvg-id="601351060" group-title="Mirassol vs Red Bull Bragantino 06:00 ngày 06/04 Brazilian Serie A", Mirassol vs Red Bull Bragantino 06:00 ngày 06/04 Brazilian Serie A (Link 2)
 https://live.alilicloud.com/live/1a0b921355468370a373bfe2d6fb19f8/playlist.m3u8
+#EXTINF:-1 tvg-id="601351060" group-title="Mirassol vs Red Bull Bragantino 06:00 ngày 06/04 Brazilian Serie A", Mirassol vs Red Bull Bragantino 06:00 ngày 06/04 Brazilian Serie A (Link 3)
+https://cdn-hls.taoxanh.biz/live/69d2f28bbeb19_128756/index.m3u8?expire=1776037131&sign=a64b603bf58d0e49f640f502b8aa6318
 #EXTINF:-1 tvg-id="601351087" group-title="CD Motagua vs Genesis 06:15 ngày 06/04 Honduras Primera Division", CD Motagua vs Genesis 06:15 ngày 06/04 Honduras Primera Division (Link 1)
 https://cdn-hls.taoxanh.biz/live/69d2e66624440_133172/index.m3u8?expire=1776034022&amp;sign=48d75835e08d77ac7196e9b962744ee9
 #EXTINF:-1 tvg-id="601351087" group-title="CD Motagua vs Genesis 06:15 ngày 06/04 Honduras Primera Division", CD Motagua vs Genesis 06:15 ngày 06/04 Honduras Primera Division (Link 2)
 https://cdn-hls.taoxanh.biz/live/69d2e66624440_133172/index.m3u8?expire=1776034022&sign=48d75835e08d77ac7196e9b962744ee9
-#EXTINF:-1 tvg-id="601351090" group-title="Central Cordoba SDE vs Club Atlético Newell's Old Boys 06:30 ngày 06/04 Argentine Division 1", Central Cordoba SDE vs Club Atlético Newell's Old Boys 06:30 ngày 06/04 Argentine Division 1 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69d2ee90beb19_6308/index.m3u8?expire=1776036112&amp;sign=e0d093973c516bb6a26d87099b979101
-#EXTINF:-1 tvg-id="601351090" group-title="Central Cordoba SDE vs Club Atlético Newell's Old Boys 06:30 ngày 06/04 Argentine Division 1", Central Cordoba SDE vs Club Atlético Newell's Old Boys 06:30 ngày 06/04 Argentine Division 1 (Link 2)
-https://live.alilicloud.com/live/11ec07907cf13c2987e091c6a6cb906f/playlist.m3u8
-#EXTINF:-1 tvg-id="601351090" group-title="Central Cordoba SDE vs Club Atlético Newell's Old Boys 06:30 ngày 06/04 Argentine Division 1", Central Cordoba SDE vs Club Atlético Newell's Old Boys 06:30 ngày 06/04 Argentine Division 1 (Link 3)
-https://cdn-hls.taoxanh.biz/live/69d2ee90beb19_6308/index.m3u8?expire=1776036112&sign=e0d093973c516bb6a26d87099b979101
 #EXTINF:-1 tvg-id="601351093" group-title="Gremio (RS) vs Remo Belem (PA) 06:30 ngày 06/04 Brazilian Serie A", Gremio (RS) vs Remo Belem (PA) 06:30 ngày 06/04 Brazilian Serie A (Link 1)
 https://cdn-hls.taoxanh.biz/live/69d2e30224440_136682/index.m3u8?expire=1776033154&amp;sign=2b280db7e2b13df0a1ae450e5b58c6c8
 #EXTINF:-1 tvg-id="601351093" group-title="Gremio (RS) vs Remo Belem (PA) 06:30 ngày 06/04 Brazilian Serie A", Gremio (RS) vs Remo Belem (PA) 06:30 ngày 06/04 Brazilian Serie A (Link 2)
@@ -38,7 +30,15 @@ https://cdn-hls.taoxanh.biz/live/69d2e30224440_136682/index.m3u8?expire=17760331
 #EXTINF:-1 tvg-id="601351099" group-title="Botafogo SP vs Sao Bernardo 06:30 ngày 06/04 Brazilian Serie B", Botafogo SP vs Sao Bernardo 06:30 ngày 06/04 Brazilian Serie B (Link 1)
 https://cdn-hls.taoxanh.biz/live/69d2ef49beb19_73445/index.m3u8?expire=1776036297&amp;sign=d4bc793e0eff433cdb106f5c8313090b
 #EXTINF:-1 tvg-id="601351099" group-title="Botafogo SP vs Sao Bernardo 06:30 ngày 06/04 Brazilian Serie B", Botafogo SP vs Sao Bernardo 06:30 ngày 06/04 Brazilian Serie B (Link 2)
+https://live.alilicloud.com/live/6fadef4b67a7ed7e2412fdfc2d348bd3/playlist.m3u8
+#EXTINF:-1 tvg-id="601351099" group-title="Botafogo SP vs Sao Bernardo 06:30 ngày 06/04 Brazilian Serie B", Botafogo SP vs Sao Bernardo 06:30 ngày 06/04 Brazilian Serie B (Link 3)
 https://cdn-hls.taoxanh.biz/live/69d2ef49beb19_73445/index.m3u8?expire=1776036297&sign=d4bc793e0eff433cdb106f5c8313090b
+#EXTINF:-1 tvg-id="601351090" group-title="Central Cordoba SDE vs Club Atlético Newell's Old Boys 06:30 ngày 06/04 Argentine Division 1", Central Cordoba SDE vs Club Atlético Newell's Old Boys 06:30 ngày 06/04 Argentine Division 1 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69d2ee90beb19_6308/index.m3u8?expire=1776036112&amp;sign=e0d093973c516bb6a26d87099b979101
+#EXTINF:-1 tvg-id="601351090" group-title="Central Cordoba SDE vs Club Atlético Newell's Old Boys 06:30 ngày 06/04 Argentine Division 1", Central Cordoba SDE vs Club Atlético Newell's Old Boys 06:30 ngày 06/04 Argentine Division 1 (Link 2)
+https://live.alilicloud.com/live/11ec07907cf13c2987e091c6a6cb906f/playlist.m3u8
+#EXTINF:-1 tvg-id="601351090" group-title="Central Cordoba SDE vs Club Atlético Newell's Old Boys 06:30 ngày 06/04 Argentine Division 1", Central Cordoba SDE vs Club Atlético Newell's Old Boys 06:30 ngày 06/04 Argentine Division 1 (Link 3)
+https://cdn-hls.taoxanh.biz/live/69d2ee90beb19_6308/index.m3u8?expire=1776036112&sign=e0d093973c516bb6a26d87099b979101
 #EXTINF:-1 tvg-id="601351075" group-title="Athletic Club vs America MG 06:00 ngày 06/04 Brazilian Serie B", Athletic Club vs America MG 06:00 ngày 06/04 Brazilian Serie B
 https://live.alilicloud.com/live/e117bb45701f12d93ef82122b717a52e/playlist.m3u8
 #EXTINF:-1 tvg-id="601362136" group-title="Bryant / Woodward vs Amit / Biad 02:48 ngày 06/04 Giải vô địch Pool 8 bi thế giới 2026", Bryant / Woodward vs Amit / Biad 02:48 ngày 06/04 Giải vô địch Pool 8 bi thế giới 2026 (Link 1)
@@ -61,24 +61,20 @@ https://cdn-hls.taoxanh.biz/live/69d2e78c24440_4733/index.m3u8?expire=1776034316
 https://cdn-hls.taoxanh.biz/live/69d2eb59beb19_153967/index.m3u8?expire=1776035289&amp;sign=f3b4906eedcc0e5a25938fcd4db4a719
 #EXTINF:-1 tvg-id="601362259" group-title="Dallas Mavericks vs Los Angeles Lakers 06:30 ngày 06/04 NBA", Dallas Mavericks vs Los Angeles Lakers 06:30 ngày 06/04 NBA (Link 2)
 https://cdn-hls.taoxanh.biz/live/69d2eb59beb19_153967/index.m3u8?expire=1776035289&sign=f3b4906eedcc0e5a25938fcd4db4a719
-#EXTINF:-1 tvg-id="601348585" group-title="Volta Redonda vs SC Paysandu Para 05:00 ngày 06/04 Brazilian Serie C", Volta Redonda vs SC Paysandu Para 05:00 ngày 06/04 Brazilian Serie C
-https://live.alilicloud.com/live/24e27882c6d293a3e948c06e7e8a82d0/playlist.m3u8
-#EXTINF:-1 tvg-id="601351024" group-title="Club Necaxa (w) vs Tijuana (w) 05:00 ngày 06/04 Mexico Liga MX Femenil", Club Necaxa (w) vs Tijuana (w) 05:00 ngày 06/04 Mexico Liga MX Femenil
-https://live.alilicloud.com/live/ac4ec68aa949234e103d6bfc966204d8/playlist.m3u8
-#EXTINF:-1 tvg-id="601351027" group-title="Atletico Mitre de Santiago del Estero vs Deportivo Madryn 05:00 ngày 06/04 Argentine Division 2", Atletico Mitre de Santiago del Estero vs Deportivo Madryn 05:00 ngày 06/04 Argentine Division 2
-https://live.alilicloud.com/live/bb42cddd0f8c87106011147ec0018e17/playlist.m3u8
 #EXTINF:-1 tvg-id="601351051" group-title="Corinthians Paulista (SP) vs Internacional RS 05:30 ngày 06/04 Brazilian Serie A", Corinthians Paulista (SP) vs Internacional RS 05:30 ngày 06/04 Brazilian Serie A
 https://live.alilicloud.com/live/0d26f4e417188f264ca3d8c8abfb6f37/playlist.m3u8
-#EXTINF:-1 tvg-id="601362076" group-title="Broki vs SV Robinhood 06:00 ngày 06/04 SML", Broki vs SV Robinhood 06:00 ngày 06/04 SML
-https://live.alilicloud.com/live/945cdc0220a9cce683019f5246eb66dc/playlist.m3u8
-#EXTINF:-1 tvg-id="601351072" group-title="Atletico Rafaela vs Club Atletico Guemes 06:00 ngày 06/04 Argentine Division 2", Atletico Rafaela vs Club Atletico Guemes 06:00 ngày 06/04 Argentine Division 2
-https://live.alilicloud.com/live/f0b793a7b86dcc3a44639924432d083c/playlist.m3u8
-#EXTINF:-1 tvg-id="601351069" group-title="Juarez FC (w) vs Monterrey (w) 06:00 ngày 06/04 Mexico Liga MX Femenil", Juarez FC (w) vs Monterrey (w) 06:00 ngày 06/04 Mexico Liga MX Femenil
-https://live.alilicloud.com/live/0ac306d94bb2ae36876089b7102bbcc6/playlist.m3u8
 #EXTINF:-1 tvg-id="601351063" group-title="Tampico Madero vs Venados FC 06:00 ngày 06/04 Mexico Ascenso MX", Tampico Madero vs Venados FC 06:00 ngày 06/04 Mexico Ascenso MX
 https://live.alilicloud.com/live/0f44ffb2d836384efd404e9f82f99f88/playlist.m3u8
+#EXTINF:-1 tvg-id="601351069" group-title="Juarez FC (w) vs Monterrey (w) 06:00 ngày 06/04 Mexico Liga MX Femenil", Juarez FC (w) vs Monterrey (w) 06:00 ngày 06/04 Mexico Liga MX Femenil
+https://live.alilicloud.com/live/0ac306d94bb2ae36876089b7102bbcc6/playlist.m3u8
+#EXTINF:-1 tvg-id="601351072" group-title="Atletico Rafaela vs Club Atletico Guemes 06:00 ngày 06/04 Argentine Division 2", Atletico Rafaela vs Club Atletico Guemes 06:00 ngày 06/04 Argentine Division 2
+https://live.alilicloud.com/live/f0b793a7b86dcc3a44639924432d083c/playlist.m3u8
+#EXTINF:-1 tvg-id="601362076" group-title="Broki vs SV Robinhood 06:00 ngày 06/04 SML", Broki vs SV Robinhood 06:00 ngày 06/04 SML
+https://live.alilicloud.com/live/945cdc0220a9cce683019f5246eb66dc/playlist.m3u8
 #EXTINF:-1 tvg-id="601351081" group-title="Macara vs Sociedad Deportiva Aucas 06:10 ngày 06/04 LigaPro Serie A", Macara vs Sociedad Deportiva Aucas 06:10 ngày 06/04 LigaPro Serie A
 https://live.alilicloud.com/live/595da0da24ac70cdc4ede99529e3687b/playlist.m3u8
+#EXTINF:-1 tvg-id="601351096" group-title="Club Guaraní vs Club Libertad Asunción 06:30 ngày 06/04 Paraguayan Primera Division", Club Guaraní vs Club Libertad Asunción 06:30 ngày 06/04 Paraguayan Primera Division
+https://live.alilicloud.com/live/9479015ac0c449c711593e5b84f7090b/playlist.m3u8
 #EXTINF:-1 tvg-id="601351111" group-title="Alajuelense vs Guadalupe FC 08:00 ngày 06/04 Costa Rica Primera Division", Alajuelense vs Guadalupe FC 08:00 ngày 06/04 Costa Rica Primera Division (Link 1)
 https://cdn-hls.taoxanh.biz/live/69d2a116beb19_128756/index.m3u8?expire=1776016278&amp;sign=e10eb0437d4bbe1ed3fbed5a14144a25
 #EXTINF:-1 tvg-id="601351111" group-title="Alajuelense vs Guadalupe FC 08:00 ngày 06/04 Costa Rica Primera Division", Alajuelense vs Guadalupe FC 08:00 ngày 06/04 Costa Rica Primera Division (Link 2)
