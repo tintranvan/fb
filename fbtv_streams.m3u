@@ -15,16 +15,14 @@ https://cdn-hls.taoxanh.biz/live/69d57ecebeb1d_72787/index.m3u8?expire=177620411
 https://cdn-hls.taoxanh.biz/live/69d57f4ebeb1d_42127/index.m3u8?expire=1776204238&amp;sign=27111091d17ce1fe28c9ccb33982f00b
 #EXTINF:-1 tvg-id="601362499" group-title="Washington Wizards vs Chicago Bulls 06:00 ngày 08/04 NBA", Washington Wizards vs Chicago Bulls 06:00 ngày 08/04 NBA (Link 2)
 https://cdn-hls.taoxanh.biz/live/69d57f4ebeb1d_42127/index.m3u8?expire=1776204238&sign=27111091d17ce1fe28c9ccb33982f00b
+#EXTINF:-1 tvg-id="601362502" group-title="Brooklyn Nets vs Milwaukee Bucks 06:30 ngày 08/04 NBA", Brooklyn Nets vs Milwaukee Bucks 06:30 ngày 08/04 NBA (Link 1)
+https://cdn-hls.taoxanh.biz/live/69d58c54beb1d_153967/index.m3u8?expire=1776207572&amp;sign=b4e8cb9802fecf9233c47f87d1ead773
+#EXTINF:-1 tvg-id="601362502" group-title="Brooklyn Nets vs Milwaukee Bucks 06:30 ngày 08/04 NBA", Brooklyn Nets vs Milwaukee Bucks 06:30 ngày 08/04 NBA (Link 2)
+https://cdn-hls.taoxanh.biz/live/69d58c54beb1d_153967/index.m3u8?expire=1776207572&sign=b4e8cb9802fecf9233c47f87d1ead773
 #EXTINF:-1 tvg-id="601354393" group-title="America FC Natal RN vs ABC RN 05:00 ngày 08/04 Brazilian Copa do Nordeste", America FC Natal RN vs ABC RN 05:00 ngày 08/04 Brazilian Copa do Nordeste
 https://live.alilicloud.com/live/f5b0182737302727c888ffa3f194c9ac/playlist.m3u8
 #EXTINF:-1 tvg-id="601354396" group-title="Independiente Petrolero vs Racing Club de Avellaneda 05:00 ngày 08/04 CONMEBOL Copa Sudamericana", Independiente Petrolero vs Racing Club de Avellaneda 05:00 ngày 08/04 CONMEBOL Copa Sudamericana
 https://live.alilicloud.com/live/967cd6b72bd98cf4f4a1897528f06f7e/playlist.m3u8
-#EXTINF:-1 tvg-id="601354399" group-title="Barracas Central vs Clube de Regatas Vasco da Gama 05:00 ngày 08/04 CONMEBOL Copa Sudamericana", Barracas Central vs Clube de Regatas Vasco da Gama 05:00 ngày 08/04 CONMEBOL Copa Sudamericana
-https://live.alilicloud.com/live/60204f5df619182b470281727f80fda1/playlist.m3u8
-#EXTINF:-1 tvg-id="601354402" group-title="Independiente Rivadavia vs Bolivar 05:00 ngày 08/04 CONMEBOL Copa Libertadores", Independiente Rivadavia vs Bolivar 05:00 ngày 08/04 CONMEBOL Copa Libertadores
-https://live.alilicloud.com/live/2db205d444622e0fa9ed4f83665c5920/playlist.m3u8
-#EXTINF:-1 tvg-id="601354405" group-title="Deportivo La Guaira vs Fluminense RJ 05:00 ngày 08/04 CONMEBOL Copa Libertadores", Deportivo La Guaira vs Fluminense RJ 05:00 ngày 08/04 CONMEBOL Copa Libertadores
-https://live.alilicloud.com/live/1bfe7f327806bea482de6086440bd414/playlist.m3u8
 #EXTINF:-1 tvg-id="601357111" group-title="Ferroviario CE vs EC Jacuipense 05:30 ngày 08/04 Brazilian Copa do Nordeste", Ferroviario CE vs EC Jacuipense 05:30 ngày 08/04 Brazilian Copa do Nordeste
 https://live.alilicloud.com/live/cbbfbe325d40cbdeff4d69a4d528910a/playlist.m3u8
 #EXTINF:-1 tvg-id="601354411" group-title="Club Chivas Tapatio vs Tlaxcala FC 06:00 ngày 08/04 Mexico Ascenso MX", Club Chivas Tapatio vs Tlaxcala FC 06:00 ngày 08/04 Mexico Ascenso MX
@@ -33,5 +31,13 @@ https://live.alilicloud.com/live/0b8a4e3cf2f26c389813073a0c68182f/playlist.m3u8
 https://live.alilicloud.com/live/d5acf7a32007a8bfb6f7ad4715dc8db8/playlist.m3u8
 #EXTINF:-1 tvg-id="601367776" group-title="Ellerton FC vs Kickstart Barbados FC 06:00 ngày 08/04 Barbados Premier League", Ellerton FC vs Kickstart Barbados FC 06:00 ngày 08/04 Barbados Premier League
 https://live.alilicloud.com/live/7cc6cbd64be0d8b774e93f53ae99d9af/playlist.m3u8
-#EXTINF:-1 tvg-id="601354369" group-title="Velez Sarsfield vs Deportivo Armenio 04:30 ngày 08/04 Copa Argentina", Velez Sarsfield vs Deportivo Armenio 04:30 ngày 08/04 Copa Argentina
-https://live.alilicloud.com/live/247ad03394e86afe7a25b43cf5528fc8/playlist.m3u8
+#EXTINF:-1 tvg-id="601354417" group-title="Atletico Clube Goianiense vs Cuiaba 06:30 ngày 08/04 Brazilian Copa Verde", Atletico Clube Goianiense vs Cuiaba 06:30 ngày 08/04 Brazilian Copa Verde
+https://live.alilicloud.com/live/9bc73d343fc48d15e6fbd8f78778bd02/playlist.m3u8
+#EXTINF:-1 tvg-id="601354426" group-title="Nashville vs Club America 07:00 ngày 08/04 CNCF CHL", Nashville vs Club America 07:00 ngày 08/04 CNCF CHL (Link 1)
+https://cdn-hls.taoxanh.biz/live/69d59431beb1d_133172/index.m3u8?expire=1776209585&amp;sign=717e24df0677b00f7ca1ff10010c5a50
+#EXTINF:-1 tvg-id="601354426" group-title="Nashville vs Club America 07:00 ngày 08/04 CNCF CHL", Nashville vs Club America 07:00 ngày 08/04 CNCF CHL (Link 2)
+https://cdn-hls.taoxanh.biz/live/69d59431beb1d_133172/index.m3u8?expire=1776209585&sign=717e24df0677b00f7ca1ff10010c5a50
+#EXTINF:-1 tvg-id="601354420" group-title="Queretaro FC vs FC Juarez 07:00 ngày 08/04 Mexico Liga MX", Queretaro FC vs FC Juarez 07:00 ngày 08/04 Mexico Liga MX (Link 1)
+https://cdn-hls.taoxanh.biz/live/69d593dfbeb1d_128756/index.m3u8?expire=1776209503&amp;sign=c38bce7899420c5050c352cecd8cd779
+#EXTINF:-1 tvg-id="601354420" group-title="Queretaro FC vs FC Juarez 07:00 ngày 08/04 Mexico Liga MX", Queretaro FC vs FC Juarez 07:00 ngày 08/04 Mexico Liga MX (Link 2)
+https://cdn-hls.taoxanh.biz/live/69d593dfbeb1d_128756/index.m3u8?expire=1776209503&sign=c38bce7899420c5050c352cecd8cd779
