@@ -3,21 +3,55 @@
 https://cdn-hls.taoxanh.biz/live/69d6b8e524440_128756/index.m3u8?expire=1776284517&amp;sign=7beed0c4c383a2ef5c7ffe2e2037e8d2
 #EXTINF:-1 tvg-id="601357399" group-title="Platense vs Genesis 04:00 ngày 09/04 Honduras Primera Division", Platense vs Genesis 04:00 ngày 09/04 Honduras Primera Division (Link 2)
 https://cdn-hls.taoxanh.biz/live/69d6b8e524440_128756/index.m3u8?expire=1776284517&sign=7beed0c4c383a2ef5c7ffe2e2037e8d2
+#EXTINF:-1 tvg-id="601357420" group-title="Deportivo Cuenca vs Santos 05:00 ngày 09/04 CONMEBOL Copa Sudamericana", Deportivo Cuenca vs Santos 05:00 ngày 09/04 CONMEBOL Copa Sudamericana (Link 1)
+https://cdn-hls.taoxanh.biz/live/69d6c42924440_151657/index.m3u8?expire=1776287401&amp;sign=e133d3c3edf69c3a1607dd3f1ee7b154
+#EXTINF:-1 tvg-id="601357420" group-title="Deportivo Cuenca vs Santos 05:00 ngày 09/04 CONMEBOL Copa Sudamericana", Deportivo Cuenca vs Santos 05:00 ngày 09/04 CONMEBOL Copa Sudamericana (Link 2)
+https://live.alilicloud.com/live/33a19c32f0f0f0e97def6d08f7c4bdb6/playlist.m3u8
+#EXTINF:-1 tvg-id="601357420" group-title="Deportivo Cuenca vs Santos 05:00 ngày 09/04 CONMEBOL Copa Sudamericana", Deportivo Cuenca vs Santos 05:00 ngày 09/04 CONMEBOL Copa Sudamericana (Link 3)
+https://cdn-hls.taoxanh.biz/live/69d6c42924440_151657/index.m3u8?expire=1776287401&sign=e133d3c3edf69c3a1607dd3f1ee7b154
+#EXTINF:-1 tvg-id="601357429" group-title="Mirassol vs Club Atlético Lanús 05:00 ngày 09/04 CONMEBOL Copa Libertadores", Mirassol vs Club Atlético Lanús 05:00 ngày 09/04 CONMEBOL Copa Libertadores (Link 1)
+https://cdn-hls.taoxanh.biz/live/69d6cfe524440_74012/index.m3u8?expire=1776290405&amp;sign=1c08c11dc5cc4da19bee3e4fa9fa5370
+#EXTINF:-1 tvg-id="601357429" group-title="Mirassol vs Club Atlético Lanús 05:00 ngày 09/04 CONMEBOL Copa Libertadores", Mirassol vs Club Atlético Lanús 05:00 ngày 09/04 CONMEBOL Copa Libertadores (Link 2)
+https://live.alilicloud.com/live/5f8087fb17c9be3a5b7678b63a1bbbbb/playlist.m3u8
+#EXTINF:-1 tvg-id="601357429" group-title="Mirassol vs Club Atlético Lanús 05:00 ngày 09/04 CONMEBOL Copa Libertadores", Mirassol vs Club Atlético Lanús 05:00 ngày 09/04 CONMEBOL Copa Libertadores (Link 3)
+https://cdn-hls.taoxanh.biz/live/69d6cfe524440_74012/index.m3u8?expire=1776290405&sign=1c08c11dc5cc4da19bee3e4fa9fa5370
 #EXTINF:-1 tvg-id="601369111" group-title="Jasmin OUSCHAN vs Xiaofang Fu 02:00 ngày 09/04 Giải vô địch Pool 8 bi thế giới 2026", Jasmin OUSCHAN vs Xiaofang Fu 02:00 ngày 09/04 Giải vô địch Pool 8 bi thế giới 2026 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69d668ea24440_103/index.m3u8?expire=1776264042&amp;sign=a2fa068339cb82bf174e2c877cec9495
 #EXTINF:-1 tvg-id="601369111" group-title="Jasmin OUSCHAN vs Xiaofang Fu 02:00 ngày 09/04 Giải vô địch Pool 8 bi thế giới 2026", Jasmin OUSCHAN vs Xiaofang Fu 02:00 ngày 09/04 Giải vô địch Pool 8 bi thế giới 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69d668ea24440_103/index.m3u8?expire=1776264042&sign=a2fa068339cb82bf174e2c877cec9495
-#EXTINF:-1 tvg-id="601370383" group-title="Lukas STAMM vs Volkan CETIN 03:30 ngày 09/04 BOGOTA WORLDCUP 2026", Lukas STAMM vs Volkan CETIN 03:30 ngày 09/04 BOGOTA WORLDCUP 2026 (Link 1)
+#EXTINF:-1 tvg-id="601370383" group-title="Sam VAN ETTEN vs Camilo MONTOYA 05:00 ngày 09/04 BOGOTA WORLDCUP 2026", Sam VAN ETTEN vs Camilo MONTOYA 05:00 ngày 09/04 BOGOTA WORLDCUP 2026 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69d69e6abeb1f_142246/index.m3u8?expire=1776277738&amp;sign=95af458addd402549edb58cba9a4f88f
-#EXTINF:-1 tvg-id="601370383" group-title="Lukas STAMM vs Volkan CETIN 03:30 ngày 09/04 BOGOTA WORLDCUP 2026", Lukas STAMM vs Volkan CETIN 03:30 ngày 09/04 BOGOTA WORLDCUP 2026 (Link 2)
+#EXTINF:-1 tvg-id="601370383" group-title="Sam VAN ETTEN vs Camilo MONTOYA 05:00 ngày 09/04 BOGOTA WORLDCUP 2026", Sam VAN ETTEN vs Camilo MONTOYA 05:00 ngày 09/04 BOGOTA WORLDCUP 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69d69e6abeb1f_142246/index.m3u8?expire=1776277738&sign=95af458addd402549edb58cba9a4f88f
+#EXTINF:-1 tvg-id="601369054" group-title="Maxime PANAIA vs Andres LIZARAZO 05:00 ngày 09/04 BOGOTA WORLDCUP 2026", Maxime PANAIA vs Andres LIZARAZO 05:00 ngày 09/04 BOGOTA WORLDCUP 2026 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69d690ac24440_144313/index.m3u8?expire=1776274220&amp;sign=2e982462cef6e76f9813e6c613f1d466
+#EXTINF:-1 tvg-id="601369054" group-title="Maxime PANAIA vs Andres LIZARAZO 05:00 ngày 09/04 BOGOTA WORLDCUP 2026", Maxime PANAIA vs Andres LIZARAZO 05:00 ngày 09/04 BOGOTA WORLDCUP 2026 (Link 2)
+https://cdn-hls.taoxanh.biz/live/69d690ac24440_144313/index.m3u8?expire=1776274220&sign=2e982462cef6e76f9813e6c613f1d466
 #EXTINF:-1 tvg-id="601357396" group-title="Caxias RS vs Juventude 04:00 ngày 09/04 Copa Sul-Sudeste", Caxias RS vs Juventude 04:00 ngày 09/04 Copa Sul-Sudeste
 https://live.alilicloud.com/live/d078e8d87761c5722e3f1f68d269c3d8/playlist.m3u8
-#EXTINF:-1 tvg-id="601357420" group-title="Deportivo Cuenca vs Santos 05:00 ngày 09/04 CONMEBOL Copa Sudamericana", Deportivo Cuenca vs Santos 05:00 ngày 09/04 CONMEBOL Copa Sudamericana (Link 1)
-https://cdn-hls.taoxanh.biz/live/69d6c42924440_151657/index.m3u8?expire=1776287401&amp;sign=e133d3c3edf69c3a1607dd3f1ee7b154
-#EXTINF:-1 tvg-id="601357420" group-title="Deportivo Cuenca vs Santos 05:00 ngày 09/04 CONMEBOL Copa Sudamericana", Deportivo Cuenca vs Santos 05:00 ngày 09/04 CONMEBOL Copa Sudamericana (Link 2)
-https://cdn-hls.taoxanh.biz/live/69d6c42924440_151657/index.m3u8?expire=1776287401&sign=e133d3c3edf69c3a1607dd3f1ee7b154
-#EXTINF:-1 tvg-id="601369027" group-title="Universidad O&amp;M vs Salcedo FC 02:00 ngày 09/04 Liga Dominicana de Fútbol", Universidad O&amp;M vs Salcedo FC 02:00 ngày 09/04 Liga Dominicana de Fútbol (Link 1)
-https://cdn-hls.taoxanh.biz/live/696696515baca_86314/index.m3u8?expire=1768935633&amp;sign=e6b93d55f16d4968abd412736b5f713c
-#EXTINF:-1 tvg-id="601369027" group-title="Universidad O&amp;M vs Salcedo FC 02:00 ngày 09/04 Liga Dominicana de Fútbol", Universidad O&amp;M vs Salcedo FC 02:00 ngày 09/04 Liga Dominicana de Fútbol (Link 2)
-https://cdn-hls.taoxanh.biz/live/696696515baca_86314/index.m3u8?expire=1768935633&sign=e6b93d55f16d4968abd412736b5f713c
+#EXTINF:-1 tvg-id="601357426" group-title="Coquimbo Unido vs Nacional Montevideo 05:00 ngày 09/04 CONMEBOL Copa Libertadores", Coquimbo Unido vs Nacional Montevideo 05:00 ngày 09/04 CONMEBOL Copa Libertadores
+https://live.alilicloud.com/live/d45f07ac74161839bda09821aab930a4/playlist.m3u8
+#EXTINF:-1 tvg-id="601357435" group-title="UNAN Managua vs Jalapa 05:00 ngày 09/04 Nicaragua Liga Primera", UNAN Managua vs Jalapa 05:00 ngày 09/04 Nicaragua Liga Primera
+https://live.alilicloud.com/live/e9836f31248b07aa81ad95906bf0ee01/playlist.m3u8
+#EXTINF:-1 tvg-id="601357432" group-title="Boca Juniors Reserve vs Platense Reserves 05:00 ngày 09/04 Argentine Reserve League", Boca Juniors Reserve vs Platense Reserves 05:00 ngày 09/04 Argentine Reserve League
+https://live.alilicloud.com/live/2cfb6210dd951ef9c878cb9a8ee4130f/playlist.m3u8
+#EXTINF:-1 tvg-id="601357423" group-title="Deportivo Riestra vs Palestino 05:00 ngày 09/04 CONMEBOL Copa Sudamericana", Deportivo Riestra vs Palestino 05:00 ngày 09/04 CONMEBOL Copa Sudamericana
+https://live.alilicloud.com/live/53a31fe27ba1f5e4bedaee51e21d2c4d/playlist.m3u8
+#EXTINF:-1 tvg-id="601357417" group-title="Deportivo Recoleta vs San Lorenzo 05:00 ngày 09/04 CONMEBOL Copa Sudamericana", Deportivo Recoleta vs San Lorenzo 05:00 ngày 09/04 CONMEBOL Copa Sudamericana
+https://live.alilicloud.com/live/3d0f63fbb027cb1e6b09759c3beee1ea/playlist.m3u8
+#EXTINF:-1 tvg-id="601357414" group-title="Sampaio Correa (RJ) vs Volta Redonda 05:00 ngày 09/04 Copa Sul-Sudeste", Sampaio Correa (RJ) vs Volta Redonda 05:00 ngày 09/04 Copa Sul-Sudeste
+https://live.alilicloud.com/live/eb342c4045e296c724a77fe243635ea2/playlist.m3u8
+#EXTINF:-1 tvg-id="601357411" group-title="Chapecoense SC vs Avaí FC 05:00 ngày 09/04 Copa Sul-Sudeste", Chapecoense SC vs Avaí FC 05:00 ngày 09/04 Copa Sul-Sudeste
+https://live.alilicloud.com/live/126adb8f78e36df56257cd0b97765ec4/playlist.m3u8
+#EXTINF:-1 tvg-id="601357408" group-title="Sertaozinho vs Ferroviaria SP 05:00 ngày 09/04 Brazilian Campeonato Paulista A2", Sertaozinho vs Ferroviaria SP 05:00 ngày 09/04 Brazilian Campeonato Paulista A2
+https://live.alilicloud.com/live/ddc3097e3baaefd32c9936557dbd0ab4/playlist.m3u8
+#EXTINF:-1 tvg-id="601357405" group-title="Vitoria BA vs Juazeirense 05:00 ngày 09/04 Brazilian Copa do Nordeste", Vitoria BA vs Juazeirense 05:00 ngày 09/04 Brazilian Copa do Nordeste
+https://live.alilicloud.com/live/8cbc57af62fdaf263c73e007204a2640/playlist.m3u8
+#EXTINF:-1 tvg-id="601357402" group-title="Sousa PB vs Botafogo PB 05:00 ngày 09/04 Brazilian Copa do Nordeste", Sousa PB vs Botafogo PB 05:00 ngày 09/04 Brazilian Copa do Nordeste
+https://live.alilicloud.com/live/9ff7dbe07cb5bd0ae334afd0d941c8ee/playlist.m3u8
+#EXTINF:-1 tvg-id="601354348" group-title="Primavera AC vs Vila Nova 05:00 ngày 09/04 Brazilian Copa Verde", Primavera AC vs Vila Nova 05:00 ngày 09/04 Brazilian Copa Verde
+https://live.alilicloud.com/live/8579f844b0c01f7db0624550c02ea28c/playlist.m3u8
+#EXTINF:-1 tvg-id="601354330" group-title="Anapolis FC vs Porto Vitoria 05:30 ngày 09/04 Brazilian Copa Verde", Anapolis FC vs Porto Vitoria 05:30 ngày 09/04 Brazilian Copa Verde
+https://live.alilicloud.com/live/d8dea418fdf9aa499ba30ec90dfbea4d/playlist.m3u8
+#EXTINF:-1 tvg-id="601357447" group-title="CA Votuporanguense SP vs Ah so Santa SP 05:30 ngày 09/04 Brazilian Campeonato Paulista A2", CA Votuporanguense SP vs Ah so Santa SP 05:30 ngày 09/04 Brazilian Campeonato Paulista A2
+https://live.alilicloud.com/live/9d0deb07ea6174542d856e70f4dba54e/playlist.m3u8
