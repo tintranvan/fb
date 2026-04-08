@@ -1,37 +1,35 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601354456" group-title="Los Angeles FC vs Cruz Azul 09:00 ngày 08/04 CNCF CHL", Los Angeles FC vs Cruz Azul 09:00 ngày 08/04 CNCF CHL (Link 1)
-https://cdn-hls.taoxanh.biz/live/69d5a9b424440_6308/index.m3u8?expire=1776215092&amp;sign=88604a8a40c002eef4b3b447f0e92b07
-#EXTINF:-1 tvg-id="601354456" group-title="Los Angeles FC vs Cruz Azul 09:00 ngày 08/04 CNCF CHL", Los Angeles FC vs Cruz Azul 09:00 ngày 08/04 CNCF CHL (Link 2)
-https://live.alilicloud.com/live/d5df7a9d22e9ffcc86c8648f00be43d5/playlist.m3u8
-#EXTINF:-1 tvg-id="601354456" group-title="Los Angeles FC vs Cruz Azul 09:00 ngày 08/04 CNCF CHL", Los Angeles FC vs Cruz Azul 09:00 ngày 08/04 CNCF CHL (Link 3)
-https://cdn-hls.taoxanh.biz/live/69d5a9b424440_6308/index.m3u8?expire=1776215092&sign=88604a8a40c002eef4b3b447f0e92b07
 #EXTINF:-1 tvg-id="601368922" group-title="Sân 3 - BANK OF NINGBO Badminton Asia Championships 2026", Sân 3 - BANK OF NINGBO Badminton Asia Championships 2026 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69d5a6f924440_142210/index.m3u8?expire=1776214393&amp;sign=46253722e7855d4304a3dc73ac8798b0
 #EXTINF:-1 tvg-id="601368922" group-title="Sân 3 - BANK OF NINGBO Badminton Asia Championships 2026", Sân 3 - BANK OF NINGBO Badminton Asia Championships 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69d5a6f924440_142210/index.m3u8?expire=1776214393&sign=46253722e7855d4304a3dc73ac8798b0
-#EXTINF:-1 tvg-id="601368067" group-title="KIM G E vs INTANON 09:32 ngày 08/04 Sân 1 - BANK OF NINGBO Badminton Asia Championships 2026", KIM G E vs INTANON 09:32 ngày 08/04 Sân 1 - BANK OF NINGBO Badminton Asia Championships 2026 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69d5a7b0beb1d_4439/index.m3u8?expire=1776214576&amp;sign=b552662347812bbcfa3dc090d04ef350
-#EXTINF:-1 tvg-id="601368067" group-title="KIM G E vs INTANON 09:32 ngày 08/04 Sân 1 - BANK OF NINGBO Badminton Asia Championships 2026", KIM G E vs INTANON 09:32 ngày 08/04 Sân 1 - BANK OF NINGBO Badminton Asia Championships 2026 (Link 2)
-https://cdn-hls.taoxanh.biz/live/69d5a7b0beb1d_4439/index.m3u8?expire=1776214576&sign=b552662347812bbcfa3dc090d04ef350
-#EXTINF:-1 tvg-id="601368070" group-title="SUNG Shuo Yun vs GAO Fang Jie 09:48 ngày 08/04 Sân 2 - BANK OF NINGBO Badminton Asia Championships 2026", SUNG Shuo Yun vs GAO Fang Jie 09:48 ngày 08/04 Sân 2 - BANK OF NINGBO Badminton Asia Championships 2026 (Link 1)
+#EXTINF:-1 tvg-id="601369006" group-title="Sân 4 - BANK OF NINGBO Badminton Asia Championships 2026", Sân 4 - BANK OF NINGBO Badminton Asia Championships 2026 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69d5c48924440_85714/index.m3u8?expire=1776221961&amp;sign=2f14cd8933ecb187f736f6df009e3c01
+#EXTINF:-1 tvg-id="601369006" group-title="Sân 4 - BANK OF NINGBO Badminton Asia Championships 2026", Sân 4 - BANK OF NINGBO Badminton Asia Championships 2026 (Link 2)
+https://cdn-hls.taoxanh.biz/live/69d5c48924440_85714/index.m3u8?expire=1776221961&sign=2f14cd8933ecb187f736f6df009e3c01
+#EXTINF:-1 tvg-id="601368070" group-title="Hirokami R. / Hobara S. vs Phatcharaphisutsin P.Sukklad N. 11:33 ngày 08/04 Sân 2 - BANK OF NINGBO Badminton Asia Championships 2026", Hirokami R. / Hobara S. vs Phatcharaphisutsin P.Sukklad N. 11:33 ngày 08/04 Sân 2 - BANK OF NINGBO Badminton Asia Championships 2026 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69d5a2c3beb1d_18754/index.m3u8?expire=1776213315&amp;sign=cf650f5b202b4c9d96204c8ae7c4f387
-#EXTINF:-1 tvg-id="601368070" group-title="SUNG Shuo Yun vs GAO Fang Jie 09:48 ngày 08/04 Sân 2 - BANK OF NINGBO Badminton Asia Championships 2026", SUNG Shuo Yun vs GAO Fang Jie 09:48 ngày 08/04 Sân 2 - BANK OF NINGBO Badminton Asia Championships 2026 (Link 2)
+#EXTINF:-1 tvg-id="601368070" group-title="Hirokami R. / Hobara S. vs Phatcharaphisutsin P.Sukklad N. 11:33 ngày 08/04 Sân 2 - BANK OF NINGBO Badminton Asia Championships 2026", Hirokami R. / Hobara S. vs Phatcharaphisutsin P.Sukklad N. 11:33 ngày 08/04 Sân 2 - BANK OF NINGBO Badminton Asia Championships 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69d5a2c3beb1d_18754/index.m3u8?expire=1776213315&sign=cf650f5b202b4c9d96204c8ae7c4f387
-#EXTINF:-1 tvg-id="601362517" group-title="Golden State Warriors vs Sacramento Kings 09:00 ngày 08/04 NBA", Golden State Warriors vs Sacramento Kings 09:00 ngày 08/04 NBA (Link 1)
-https://cdn-hls.taoxanh.biz/live/69d5af28beb1d_42127/index.m3u8?expire=1776216488&amp;sign=aea82ef7046119ec577b14559ebd45bf
-#EXTINF:-1 tvg-id="601362517" group-title="Golden State Warriors vs Sacramento Kings 09:00 ngày 08/04 NBA", Golden State Warriors vs Sacramento Kings 09:00 ngày 08/04 NBA (Link 2)
-https://cdn-hls.taoxanh.biz/live/69d5af28beb1d_42127/index.m3u8?expire=1776216488&sign=aea82ef7046119ec577b14559ebd45bf
-#EXTINF:-1 tvg-id="601362523" group-title="Los Angeles Lakers vs Oklahoma City Thunder 09:30 ngày 08/04 NBA", Los Angeles Lakers vs Oklahoma City Thunder 09:30 ngày 08/04 NBA (Link 1)
-https://cdn-hls.taoxanh.biz/live/69d5bd13beb1e_4733/index.m3u8?expire=1776220051&amp;sign=59aeff858ea8ffa0a6fd0b81986bf9cd
-#EXTINF:-1 tvg-id="601362523" group-title="Los Angeles Lakers vs Oklahoma City Thunder 09:30 ngày 08/04 NBA", Los Angeles Lakers vs Oklahoma City Thunder 09:30 ngày 08/04 NBA (Link 2)
-https://cdn-hls.taoxanh.biz/live/69d5bd13beb1e_4733/index.m3u8?expire=1776220051&sign=59aeff858ea8ffa0a6fd0b81986bf9cd
-#EXTINF:-1 tvg-id="601354453" group-title="Spokane Velocity vs AV Alta 08:00 ngày 08/04 USL League One", Spokane Velocity vs AV Alta 08:00 ngày 08/04 USL League One
-https://live.alilicloud.com/live/48c8fc3b9ea2be1d79efc5f8df65b056/playlist.m3u8
-#EXTINF:-1 tvg-id="601367815" group-title="Bagatelle SS vs St Andrew Lions 08:00 ngày 08/04 Barbados Premier League", Bagatelle SS vs St Andrew Lions 08:00 ngày 08/04 Barbados Premier League
-https://live.alilicloud.com/live/d561454b000016f62806daf8eab939aa/playlist.m3u8
-#EXTINF:-1 tvg-id="601354459" group-title="Alianza Atletico Sullana vs Club Atletico Tigre 09:00 ngày 08/04 CONMEBOL Copa Sudamericana", Alianza Atletico Sullana vs Club Atletico Tigre 09:00 ngày 08/04 CONMEBOL Copa Sudamericana
-https://live.alilicloud.com/live/978e25d9f65e7c8d03626c690e18fead/playlist.m3u8
-#EXTINF:-1 tvg-id="601354462" group-title="Deportes Tolima vs Universitario De Deportes 09:00 ngày 08/04 CONMEBOL Copa Libertadores", Deportes Tolima vs Universitario De Deportes 09:00 ngày 08/04 CONMEBOL Copa Libertadores
-https://live.alilicloud.com/live/82cdabf0a3592f5d45389126f0118653/playlist.m3u8
+#EXTINF:-1 tvg-id="601368067" group-title="C LEE vs SHI Y Q 11:55 ngày 08/04 Sân 1 - BANK OF NINGBO Badminton Asia Championships 2026", C LEE vs SHI Y Q 11:55 ngày 08/04 Sân 1 - BANK OF NINGBO Badminton Asia Championships 2026 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69d5a7b0beb1d_4439/index.m3u8?expire=1776214576&amp;sign=b552662347812bbcfa3dc090d04ef350
+#EXTINF:-1 tvg-id="601368067" group-title="C LEE vs SHI Y Q 11:55 ngày 08/04 Sân 1 - BANK OF NINGBO Badminton Asia Championships 2026", C LEE vs SHI Y Q 11:55 ngày 08/04 Sân 1 - BANK OF NINGBO Badminton Asia Championships 2026 (Link 2)
+https://cdn-hls.taoxanh.biz/live/69d5a7b0beb1d_4439/index.m3u8?expire=1776214576&sign=b552662347812bbcfa3dc090d04ef350
+#EXTINF:-1 tvg-id="601362526" group-title="Phoenix Suns vs Houston Rockets 10:00 ngày 08/04 NBA", Phoenix Suns vs Houston Rockets 10:00 ngày 08/04 NBA (Link 1)
+https://cdn-hls.taoxanh.biz/live/69d5b9eebeb1d_153967/index.m3u8?expire=1776219246&amp;sign=5302a677aec7733a5a3f100d19028263
+#EXTINF:-1 tvg-id="601362526" group-title="Phoenix Suns vs Houston Rockets 10:00 ngày 08/04 NBA", Phoenix Suns vs Houston Rockets 10:00 ngày 08/04 NBA (Link 2)
+https://cdn-hls.taoxanh.biz/live/69d5b9eebeb1d_153967/index.m3u8?expire=1776219246&sign=5302a677aec7733a5a3f100d19028263
+#EXTINF:-1 tvg-id="601368814" group-title="Hà Nội Tasco Auto vs HCĐG Lào Cai 12:00 ngày 08/04 Giải bóng chuyền VĐQG 2026", Hà Nội Tasco Auto vs HCĐG Lào Cai 12:00 ngày 08/04 Giải bóng chuyền VĐQG 2026 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69d5d8e6beb1e_88642/index.m3u8?expire=1776227174&amp;sign=008db91edd3a4a0da361f3a0fc5d76eb
+#EXTINF:-1 tvg-id="601368814" group-title="Hà Nội Tasco Auto vs HCĐG Lào Cai 12:00 ngày 08/04 Giải bóng chuyền VĐQG 2026", Hà Nội Tasco Auto vs HCĐG Lào Cai 12:00 ngày 08/04 Giải bóng chuyền VĐQG 2026 (Link 2)
+https://cdn-hls.taoxanh.biz/live/69d5d8e6beb1e_88642/index.m3u8?expire=1776227174&sign=008db91edd3a4a0da361f3a0fc5d76eb
+#EXTINF:-1 tvg-id="601368061" group-title="Hwan BAE / SU Tsz Tung vs Luka MLADENOVIC / Xia Lian NI 10:00 ngày 08/04 ITTF Men’s &amp; Women’s World Cup Macao 2026 Presented", Hwan BAE / SU Tsz Tung vs Luka MLADENOVIC / Xia Lian NI 10:00 ngày 08/04 ITTF Men’s &amp; Women’s World Cup Macao 2026 Presented (Link 1)
+https://cdn-hls.taoxanh.biz/live/69d5c54224440_85706/index.m3u8?expire=1776222146&amp;sign=5d4a40a09e1661dae3087160660f4eec
+#EXTINF:-1 tvg-id="601368061" group-title="Hwan BAE / SU Tsz Tung vs Luka MLADENOVIC / Xia Lian NI 10:00 ngày 08/04 ITTF Men’s &amp; Women’s World Cup Macao 2026 Presented", Hwan BAE / SU Tsz Tung vs Luka MLADENOVIC / Xia Lian NI 10:00 ngày 08/04 ITTF Men’s &amp; Women’s World Cup Macao 2026 Presented (Link 2)
+https://cdn-hls.taoxanh.biz/live/69d5c54224440_85706/index.m3u8?expire=1776222146&sign=5d4a40a09e1661dae3087160660f4eec
 #EXTINF:-1 tvg-id="601354507" group-title="Gamba Osaka vs Bangkok United FC 17:00 ngày 08/04 AFC Champions League 2", Gamba Osaka vs Bangkok United FC 17:00 ngày 08/04 AFC Champions League 2
 https://live.alilicloud.com/live/a829f47fe447326cffa988953dd407a0/playlist.m3u8
+#EXTINF:-1 tvg-id="601354843" group-title="Parnu JK Vaprus vs Levadia Tallinn 23:00 ngày 08/04 Estonian Premium Liiga", Parnu JK Vaprus vs Levadia Tallinn 23:00 ngày 08/04 Estonian Premium Liiga (Link 1)
+https://cdn-hls.taoxanh.biz/live/69d5d27324440_6308/index.m3u8?expire=1776225523&amp;sign=533dbaabe6481e6629e3111ee1103897
+#EXTINF:-1 tvg-id="601354843" group-title="Parnu JK Vaprus vs Levadia Tallinn 23:00 ngày 08/04 Estonian Premium Liiga", Parnu JK Vaprus vs Levadia Tallinn 23:00 ngày 08/04 Estonian Premium Liiga (Link 2)
+https://cdn-hls.taoxanh.biz/live/69d5d27324440_6308/index.m3u8?expire=1776225523&sign=533dbaabe6481e6629e3111ee1103897
