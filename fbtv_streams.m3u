@@ -1,33 +1,41 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="601357561" group-title="Negele Arsi vs Ethiopian Insurance 17:00 ngày 09/04 Ethiopia Premier League", Negele Arsi vs Ethiopian Insurance 17:00 ngày 09/04 Ethiopia Premier League
 https://cdn-hls.taoxanh.biz/live/69d76fd724440_95554/index.m3u8?expire=1776331351&amp;sign=147b9854da7b825e02c7052582b9aabc
+#EXTINF:-1 tvg-id="601357576" group-title="Simal FK vs Mingachevir 18:30 ngày 09/04 Azerbaijan First Division", Simal FK vs Mingachevir 18:30 ngày 09/04 Azerbaijan First Division
+https://cdn-hls.taoxanh.biz/live/69d7890424440_73445/index.m3u8?expire=1776337796&amp;sign=36df57159ef2e28df080b59b427b2176
 #EXTINF:-1 tvg-id="601369006" group-title="Sân 4 - BANK OF NINGBO Badminton Asia Championships 2026", Sân 4 - BANK OF NINGBO Badminton Asia Championships 2026
 https://cdn-hls.taoxanh.biz/live/69d5c48924440_85714/index.m3u8?expire=1776221961&amp;sign=2f14cd8933ecb187f736f6df009e3c01
 #EXTINF:-1 tvg-id="601370407" group-title="Rose R. A. / Setianingrum F. vs JIA Yi Fan / ZHANG Shu Xian 16:50 ngày 09/04 Sân 1 - BANK OF NINGBO Badminton Asia Championships 2026", Rose R. A. / Setianingrum F. vs JIA Yi Fan / ZHANG Shu Xian 16:50 ngày 09/04 Sân 1 - BANK OF NINGBO Badminton Asia Championships 2026
 https://cdn-hls.taoxanh.biz/live/69d7136b24440_18754/index.m3u8?expire=1776307691&amp;sign=cb779393ffccda598a1eb4470270e2f9
+#EXTINF:-1 tvg-id="601370464" group-title="Machac T. vs Sinner J. 17:30 ngày 09/04 ATP Monte Carlo", Machac T. vs Sinner J. 17:30 ngày 09/04 ATP Monte Carlo
+https://cdn-hls.taoxanh.biz/live/69d77b83beb20_4733/index.m3u8?expire=1776334339&amp;sign=53865267dd00b637c33fabf359df5efb
+#EXTINF:-1 tvg-id="601370473" group-title="Auger-Aliassime F. vs Ruud C. 17:30 ngày 09/04 ATP Monte Carlo", Auger-Aliassime F. vs Ruud C. 17:30 ngày 09/04 ATP Monte Carlo
+https://cdn-hls.taoxanh.biz/live/69d77e9824440_42127/index.m3u8?expire=1776335128&amp;sign=268ed2ccd81bf069df9a8984a51b0fd2
 #EXTINF:-1 tvg-id="601370398" group-title="VTV BĐ Long An vs XMLS Thanh Hoá 17:00 ngày 09/04 Giải bóng chuyền VĐQG 2026", VTV BĐ Long An vs XMLS Thanh Hoá 17:00 ngày 09/04 Giải bóng chuyền VĐQG 2026
 https://cdn-hls.taoxanh.biz/live/69d770bcbeb20_88642/index.m3u8?expire=1776331580&amp;sign=d166af7496ebfc2cb09401071ab43de1
-#EXTINF:-1 tvg-id="601357537" group-title="Chromtau vs Zhenis 16:00 ngày 09/04 Kazakhstan Cup", Chromtau vs Zhenis 16:00 ngày 09/04 Kazakhstan Cup
-https://live.alilicloud.com/live/7af5a5c00d2b6ed9a4d70d4e76bb9412/playlist.m3u8
-#EXTINF:-1 tvg-id="601357540" group-title="Jelaev Nan vs Altay FK 16:00 ngày 09/04 Kazakhstan Cup", Jelaev Nan vs Altay FK 16:00 ngày 09/04 Kazakhstan Cup
-https://live.alilicloud.com/live/c19ef5911e75efd1fbe3a0767d2408ab/playlist.m3u8
-#EXTINF:-1 tvg-id="601357543" group-title="Tajikistan U17 vs Kyrgyzstan U17 16:00 ngày 09/04 CA U17 C", Tajikistan U17 vs Kyrgyzstan U17 16:00 ngày 09/04 CA U17 C
-https://live.alilicloud.com/live/7cffe698688e49536a220867656ba649/playlist.m3u8
-#EXTINF:-1 tvg-id="601357582" group-title="Rukh Vynnyky U21 vs Kolos Kovalivka U21 16:00 ngày 09/04 Ukrainian Youth Team Championship", Rukh Vynnyky U21 vs Kolos Kovalivka U21 16:00 ngày 09/04 Ukrainian Youth Team Championship
-https://live.alilicloud.com/live/2e7a5cfeea81e89965df94dd2ee8b8ad/playlist.m3u8
-#EXTINF:-1 tvg-id="601357585" group-title="SC Poltava U21 vs Polissya Zhytomyr U21 16:00 ngày 09/04 Ukrainian Youth Team Championship", SC Poltava U21 vs Polissya Zhytomyr U21 16:00 ngày 09/04 Ukrainian Youth Team Championship
-https://live.alilicloud.com/live/91689a5150e1c33c83ab2be25c1281a3/playlist.m3u8
 #EXTINF:-1 tvg-id="601354702" group-title="Atlet Kiev vs FC Vilkhivtsi 16:45 ngày 09/04 Ukrainian Second League", Atlet Kiev vs FC Vilkhivtsi 16:45 ngày 09/04 Ukrainian Second League
 https://live.alilicloud.com/live/92132de0d0063238ddccb361eca001fd/playlist.m3u8
-#EXTINF:-1 tvg-id="601357549" group-title="FK Arys vs FK Aktobe Lento 17:00 ngày 09/04 Kazakhstan Cup", FK Arys vs FK Aktobe Lento 17:00 ngày 09/04 Kazakhstan Cup
-https://live.alilicloud.com/live/ebbd816d596cd53f773bb899e857de0d/playlist.m3u8
-#EXTINF:-1 tvg-id="601357552" group-title="Ekibastuzets vs FK Kaspyi Aktau 17:00 ngày 09/04 Kazakhstan Cup", Ekibastuzets vs FK Kaspyi Aktau 17:00 ngày 09/04 Kazakhstan Cup
-https://live.alilicloud.com/live/9f353958e0de21e1d3d9c6b46764b8c8/playlist.m3u8
-#EXTINF:-1 tvg-id="601357555" group-title="FC Shakhtyor Karagandy vs Okzhetpes 17:00 ngày 09/04 Kazakhstan Cup", FC Shakhtyor Karagandy vs Okzhetpes 17:00 ngày 09/04 Kazakhstan Cup
-https://live.alilicloud.com/live/a5ae84c49f67037a96e4f4bd6ca6e25b/playlist.m3u8
-#EXTINF:-1 tvg-id="601357558" group-title="Krylia Sovetov II vs Dinamo Barnaul 17:00 ngày 09/04 RUS D3B", Krylia Sovetov II vs Dinamo Barnaul 17:00 ngày 09/04 RUS D3B
-https://live.alilicloud.com/live/35d5da4da603442fb48998d7c5a9161a/playlist.m3u8
 #EXTINF:-1 tvg-id="601357594" group-title="FK Taraz vs Ulytau Zhezkazgan 17:00 ngày 09/04 Kazakhstan Cup", FK Taraz vs Ulytau Zhezkazgan 17:00 ngày 09/04 Kazakhstan Cup
 https://live.alilicloud.com/live/4ec6480fa1e626307bb23663d42a90dd/playlist.m3u8
+#EXTINF:-1 tvg-id="601357558" group-title="Krylia Sovetov II vs Dinamo Barnaul 17:00 ngày 09/04 RUS D3B", Krylia Sovetov II vs Dinamo Barnaul 17:00 ngày 09/04 RUS D3B
+https://live.alilicloud.com/live/35d5da4da603442fb48998d7c5a9161a/playlist.m3u8
+#EXTINF:-1 tvg-id="601357555" group-title="FC Shakhtyor Karagandy vs Okzhetpes 17:00 ngày 09/04 Kazakhstan Cup", FC Shakhtyor Karagandy vs Okzhetpes 17:00 ngày 09/04 Kazakhstan Cup
+https://live.alilicloud.com/live/a5ae84c49f67037a96e4f4bd6ca6e25b/playlist.m3u8
+#EXTINF:-1 tvg-id="601357552" group-title="Ekibastuzets vs FK Kaspyi Aktau 17:00 ngày 09/04 Kazakhstan Cup", Ekibastuzets vs FK Kaspyi Aktau 17:00 ngày 09/04 Kazakhstan Cup
+https://live.alilicloud.com/live/9f353958e0de21e1d3d9c6b46764b8c8/playlist.m3u8
+#EXTINF:-1 tvg-id="601357549" group-title="FK Arys vs FK Aktobe Lento 17:00 ngày 09/04 Kazakhstan Cup", FK Arys vs FK Aktobe Lento 17:00 ngày 09/04 Kazakhstan Cup
+https://live.alilicloud.com/live/ebbd816d596cd53f773bb899e857de0d/playlist.m3u8
+#EXTINF:-1 tvg-id="601369195" group-title="Noida City FC vs Hindustan Aeronautics Limited 17:30 ngày 09/04 IND DSD", Noida City FC vs Hindustan Aeronautics Limited 17:30 ngày 09/04 IND DSD
+https://live.alilicloud.com/live/37140ec882f33aba0d03d5cba6445bbf/playlist.m3u8
+#EXTINF:-1 tvg-id="601357570" group-title="GMSC vs Neroca FC 18:00 ngày 09/04 Indian I-League 2nd Division", GMSC vs Neroca FC 18:00 ngày 09/04 Indian I-League 2nd Division
+https://live.alilicloud.com/live/1c2048a2c4f298f1c15068f976eec37d/playlist.m3u8
+#EXTINF:-1 tvg-id="601357567" group-title="Khan Tengri FC vs Kyzylzhar Petropavlovsk 18:00 ngày 09/04 Kazakhstan Cup", Khan Tengri FC vs Kyzylzhar Petropavlovsk 18:00 ngày 09/04 Kazakhstan Cup
+https://live.alilicloud.com/live/47343224185ac03e2e2d0e4672ac6e11/playlist.m3u8
+#EXTINF:-1 tvg-id="601354606" group-title="FK SAFA vs Sabail FC 18:00 ngày 09/04 Azerbaijan First Division", FK SAFA vs Sabail FC 18:00 ngày 09/04 Azerbaijan First Division
+https://live.alilicloud.com/live/8fb5b98361914a1be8597a56d56fcd56/playlist.m3u8
+#EXTINF:-1 tvg-id="601354708" group-title="Skala 1911 Stryi vs Bukovyna 2 18:15 ngày 09/04 Ukrainian Second League", Skala 1911 Stryi vs Bukovyna 2 18:15 ngày 09/04 Ukrainian Second League
+https://live.alilicloud.com/live/53f2f2c5989363e0940e8db17ff031b1/playlist.m3u8
+#EXTINF:-1 tvg-id="601357573" group-title="Difai Agsu FK vs Shahdagh Qusar 18:30 ngày 09/04 Azerbaijan First Division", Difai Agsu FK vs Shahdagh Qusar 18:30 ngày 09/04 Azerbaijan First Division
+https://cdn-hls.taoxanh.biz/live/69d77ffcbeb20_136682/index.m3u8?expire=1776335484&amp;sign=1a55b00ac203e99abc160d67389d0402
 #EXTINF:-1 tvg-id="601357771" group-title="Caykur Rizespor vs Samsunspor 00:00 ngày 10/04 Turkish Super League", Caykur Rizespor vs Samsunspor 00:00 ngày 10/04 Turkish Super League
 https://cdn-hls.taoxanh.biz/live/69d76eb524440_124958/index.m3u8?expire=1776331061&amp;sign=f5d1505fb0eb661b17294d35fc87f186
