@@ -1,27 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601370431" group-title="Busanan ONGBAMRUNGPHAN vs YAMAUCHI 14:20 ngày 09/04 Sân 3 - BANK OF NINGBO Badminton Asia Championships 2026", Busanan ONGBAMRUNGPHAN vs YAMAUCHI 14:20 ngày 09/04 Sân 3 - BANK OF NINGBO Badminton Asia Championships 2026
-https://cdn-hls.taoxanh.biz/live/69d6f81b24440_42127/index.m3u8?expire=1776300699&amp;sign=1371b3e62c4e67fabaa7ad3c95cf7022
-#EXTINF:-1 tvg-id="601369006" group-title="Sân 4 - BANK OF NINGBO Badminton Asia Championships 2026", Sân 4 - BANK OF NINGBO Badminton Asia Championships 2026 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69d5c48924440_85714/index.m3u8?expire=1776221961&amp;sign=2f14cd8933ecb187f736f6df009e3c01
-#EXTINF:-1 tvg-id="601369006" group-title="Sân 4 - BANK OF NINGBO Badminton Asia Championships 2026", Sân 4 - BANK OF NINGBO Badminton Asia Championships 2026 (Link 2)
-https://cdn-hls.taoxanh.biz/live/69d5c48924440_85714/index.m3u8?expire=1776221961&sign=2f14cd8933ecb187f736f6df009e3c01
 #EXTINF:-1 tvg-id="601370407" group-title="Charoenkitamorn C. / Thongsa-Nga W. vs Rayhan A. F. / Wahyudi D. A. 14:25 ngày 09/04 Sân 1 - BANK OF NINGBO Badminton Asia Championships 2026", Charoenkitamorn C. / Thongsa-Nga W. vs Rayhan A. F. / Wahyudi D. A. 14:25 ngày 09/04 Sân 1 - BANK OF NINGBO Badminton Asia Championships 2026
 https://cdn-hls.taoxanh.biz/live/69d7136b24440_18754/index.m3u8?expire=1776307691&amp;sign=cb779393ffccda598a1eb4470270e2f9
 #EXTINF:-1 tvg-id="601370410" group-title="CHEN B Y/ LIU Y vs F ALFIAN/ FIKRI 14:30 ngày 09/04 Sân 2 - BANK OF NINGBO Badminton Asia Championships 2026", CHEN B Y/ LIU Y vs F ALFIAN/ FIKRI 14:30 ngày 09/04 Sân 2 - BANK OF NINGBO Badminton Asia Championships 2026
 https://cdn-hls.taoxanh.biz/live/69d7120abeb1f_4439/index.m3u8?expire=1776307338&amp;sign=06d724e49b880d9c754cf6108ead15f9
-#EXTINF:-1 tvg-id="601370395" group-title="Sanest Khánh Hoà vs Công An TP HCM 14:30 ngày 09/04 Giải bóng chuyền VĐQG 2026", Sanest Khánh Hoà vs Công An TP HCM 14:30 ngày 09/04 Giải bóng chuyền VĐQG 2026
-https://cdn-hls.taoxanh.biz/live/69d7458424440_128756/index.m3u8?expire=1776320516&amp;sign=d24d2e6e494cdea5e7318680cc56a446
-#EXTINF:-1 tvg-id="601370404" group-title="SÂN 1 WTT Contender Taiyuan 2026", SÂN 1 WTT Contender Taiyuan 2026
-https://cdn-hls.taoxanh.biz/live/69d73ac424440_142210/index.m3u8?expire=1776317764&amp;sign=6495e185a43eca61639d40de94331a0a
-#EXTINF:-1 tvg-id="601370536" group-title="SÂN 2  WTT Contender Taiyuan 2026", SÂN 2  WTT Contender Taiyuan 2026
-https://cdn-hls.taoxanh.biz/live/69d740e3beb20_85706/index.m3u8?expire=1776319331&amp;sign=ed14fc824191f133f60af51b0081dbc6
 #EXTINF:-1 tvg-id="601370539" group-title="SÂN 3 WTT Contender Taiyuan 2026", SÂN 3 WTT Contender Taiyuan 2026
 https://cdn-hls.taoxanh.biz/live/69d741ce24440_138846/index.m3u8?expire=1776319566&amp;sign=022b7af40edf35f1cbc0de6a51459162
 #EXTINF:-1 tvg-id="601370542" group-title="SÂN 4 WTT Contender Taiyuan 2026", SÂN 4 WTT Contender Taiyuan 2026
 https://cdn-hls.taoxanh.biz/live/69d7428abeb20_141847/index.m3u8?expire=1776319754&amp;sign=14ea39656ee851f8eb0f96b87d65bde0
-#EXTINF:-1 tvg-id="601370545" group-title="Harin FC vs Sams SC 13:00 ngày 09/04 Indo D4", Harin FC vs Sams SC 13:00 ngày 09/04 Indo D4
-https://live.alilicloud.com/live/f0d161b741398f7a015dc6e044ce6831/playlist.m3u8
-#EXTINF:-1 tvg-id="601370575" group-title="Gumarang FC vs Batubara United 13:35 ngày 09/04 Indo D4", Gumarang FC vs Batubara United 13:35 ngày 09/04 Indo D4
-https://live.alilicloud.com/live/0b6d9da952e28c923664e98624d72016/playlist.m3u8
 #EXTINF:-1 tvg-id="601369192" group-title="Vatika FC vs CISF 14:30 ngày 09/04 IND DSD", Vatika FC vs CISF 14:30 ngày 09/04 IND DSD
 https://live.alilicloud.com/live/c2c2bb136f087d89fe46adfa8ce4d0e5/playlist.m3u8
+#EXTINF:-1 tvg-id="601357522" group-title="Dalian Tornadoes vs Liaocheng legend 15:00 ngày 09/04 Chinese Football Association Member Association Champions League", Dalian Tornadoes vs Liaocheng legend 15:00 ngày 09/04 Chinese Football Association Member Association Champions League
+https://live.alilicloud.com/live/2d4049f1af48478b9da3f04f9ed0294c/playlist.m3u8
+#EXTINF:-1 tvg-id="601357525" group-title="Shanxi Xiangyu FC vs Linyi Red Arrow 15:00 ngày 09/04 Chinese Football Association Member Association Champions League", Shanxi Xiangyu FC vs Linyi Red Arrow 15:00 ngày 09/04 Chinese Football Association Member Association Champions League
+https://live.alilicloud.com/live/c921aef553a7bb8798d6231acd7e9641/playlist.m3u8
+#EXTINF:-1 tvg-id="601370506" group-title="Hoai Duc vs Kon Tum 15:00 ngày 09/04 Vietnam National Second Class League", Hoai Duc vs Kon Tum 15:00 ngày 09/04 Vietnam National Second Class League
+https://live.alilicloud.com/live/ca7a0ef45c005bef8102b9a60700d771/playlist.m3u8
