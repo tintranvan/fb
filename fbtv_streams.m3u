@@ -7,12 +7,18 @@ https://live.alilicloud.com/live/a3d8eee46a05f89cc07cd9d21f1cc17d/playlist.m3u8
 https://cdn-hls.taoxanh.biz/live/69d8213e24440_74012/index.m3u8?expire=1776376766&amp;sign=f82f9e6e398578fe0790e36929cd3b21
 #EXTINF:-1 tvg-id="601357870" group-title="Universidad Central de Venezuela vs Club Libertad Asunción 05:00 ngày 10/04 CONMEBOL Copa Libertadores", Universidad Central de Venezuela vs Club Libertad Asunción 05:00 ngày 10/04 CONMEBOL Copa Libertadores (Link 2)
 https://live.alilicloud.com/live/d88dbc33fad05768b32f04aa2991a688/playlist.m3u8
-#EXTINF:-1 tvg-id="601370551" group-title="Phuong Vinh BAO vs Sam VAN ETTEN 04:00 ngày 10/04 BOGOTA WORLDCUP 2026", Phuong Vinh BAO vs Sam VAN ETTEN 04:00 ngày 10/04 BOGOTA WORLDCUP 2026
-https://cdn-hls.taoxanh.biz/live/69d7d8dd24440_144313/index.m3u8?expire=1776358237&amp;sign=3b4048bb21e6703977bebcda0609d0a1
+#EXTINF:-1 tvg-id="601357882" group-title="Atletico Choloma vs Real Espana 06:15 ngày 10/04 Honduras Primera Division", Atletico Choloma vs Real Espana 06:15 ngày 10/04 Honduras Primera Division
+https://cdn-hls.taoxanh.biz/live/69d7f957beb21_6308/index.m3u8?expire=1776366551&amp;sign=7beb75d597467b0bc35c83739fcbc315
 #EXTINF:-1 tvg-id="601370905" group-title="Chiêm Hồng Thái vs Muammer RAHMET 04:00 ngày 10/04 BOGOTA WORLDCUP 2026", Chiêm Hồng Thái vs Muammer RAHMET 04:00 ngày 10/04 BOGOTA WORLDCUP 2026
 https://cdn-hls.taoxanh.biz/live/69d7dee524440_142246/index.m3u8?expire=1776359781&amp;sign=bc7cde59fe429532820d1ad80eef7f8a
+#EXTINF:-1 tvg-id="601370551" group-title="Sergio JIMENEZ vs Jean Paul DE BRUIJN 06:00 ngày 10/04 BOGOTA WORLDCUP 2026", Sergio JIMENEZ vs Jean Paul DE BRUIJN 06:00 ngày 10/04 BOGOTA WORLDCUP 2026
+https://cdn-hls.taoxanh.biz/live/69d7d8dd24440_144313/index.m3u8?expire=1776358237&amp;sign=3b4048bb21e6703977bebcda0609d0a1
 #EXTINF:-1 tvg-id="601362550" group-title="Toronto Raptors vs Miami Heat 06:00 ngày 10/04 NBA", Toronto Raptors vs Miami Heat 06:00 ngày 10/04 NBA
 https://cdn-hls.taoxanh.biz/live/69d82e3924440_4733/index.m3u8?expire=1776380089&amp;sign=4a39d22158e7b0ee76ae515650544157
+#EXTINF:-1 tvg-id="601362556" group-title="Brooklyn Nets vs Indiana Pacers 06:30 ngày 10/04 NBA", Brooklyn Nets vs Indiana Pacers 06:30 ngày 10/04 NBA
+https://cdn-hls.taoxanh.biz/live/69d8316424440_72787/index.m3u8?expire=1776380900&amp;sign=f7ed8ebd30c71612f5eb80b606f445cc
+#EXTINF:-1 tvg-id="601362559" group-title="New York Knicks vs Boston Celtics 06:30 ngày 10/04 NBA", New York Knicks vs Boston Celtics 06:30 ngày 10/04 NBA
+https://cdn-hls.taoxanh.biz/live/69d82f8324440_42127/index.m3u8?expire=1776380419&amp;sign=05c7a4df039451dd1f88a5aeada68515
 #EXTINF:-1 tvg-id="601357858" group-title="Agremiação Sportiva Arapiraquense vs CRB AL 05:00 ngày 10/04 Brazilian Copa do Nordeste", Agremiação Sportiva Arapiraquense vs CRB AL 05:00 ngày 10/04 Brazilian Copa do Nordeste
 https://live.alilicloud.com/live/18ccbaedbc8136d9d2ee6e2583a14c7e/playlist.m3u8
 #EXTINF:-1 tvg-id="601357861" group-title="Itabaiana(SE) vs AD Confiança 05:00 ngày 10/04 Brazilian Copa do Nordeste", Itabaiana(SE) vs AD Confiança 05:00 ngày 10/04 Brazilian Copa do Nordeste
@@ -23,7 +29,9 @@ https://live.alilicloud.com/live/e0ef521f5c4f376a99e6dfdb0b3b2006/playlist.m3u8
 https://live.alilicloud.com/live/0d50180626494cadb45c25658db05ecb/playlist.m3u8
 #EXTINF:-1 tvg-id="601357879" group-title="Chile U17 vs Paraguay U17 06:00 ngày 10/04 CONMEBOL U17 Championship", Chile U17 vs Paraguay U17 06:00 ngày 10/04 CONMEBOL U17 Championship
 https://live.alilicloud.com/live/713007454043cd66973fe38dac274ea7/playlist.m3u8
-#EXTINF:-1 tvg-id="601357882" group-title="Atletico Choloma vs Real Espana 06:15 ngày 10/04 Honduras Primera Division", Atletico Choloma vs Real Espana 06:15 ngày 10/04 Honduras Primera Division
-https://cdn-hls.taoxanh.biz/live/69d7f957beb21_6308/index.m3u8?expire=1776366551&amp;sign=7beb75d597467b0bc35c83739fcbc315
+#EXTINF:-1 tvg-id="601357900" group-title="Macara vs America de Cali 07:30 ngày 10/04 CONMEBOL Copa Sudamericana", Macara vs America de Cali 07:30 ngày 10/04 CONMEBOL Copa Sudamericana
+https://cdn-hls.taoxanh.biz/live/69d838c524440_88642/index.m3u8?expire=1776382789&amp;sign=31aa9cc419bcd1eabbddd067a2d93e76
+#EXTINF:-1 tvg-id="601357903" group-title="Carabobo vs Red Bull Bragantino 07:30 ngày 10/04 CONMEBOL Copa Sudamericana", Carabobo vs Red Bull Bragantino 07:30 ngày 10/04 CONMEBOL Copa Sudamericana
+https://cdn-hls.taoxanh.biz/live/69d838f5beb21_151657/index.m3u8?expire=1776382837&amp;sign=b3acdbd3c9418ee665bc92d1baa423ad
 #EXTINF:-1 tvg-id="601358110" group-title="Karvan Evlakh vs FK Kapaz Ganca 18:30 ngày 10/04 Azerbaijan Premier League", Karvan Evlakh vs FK Kapaz Ganca 18:30 ngày 10/04 Azerbaijan Premier League
 https://cdn-hls.taoxanh.biz/live/69d7136b24440_18754/index.m3u8?expire=1776307691&amp;sign=cb779393ffccda598a1eb4470270e2f9
