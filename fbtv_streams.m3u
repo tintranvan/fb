@@ -1,71 +1,59 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601362829" group-title="Rakow Czestochowa vs GKS Katowice 23:30 ngày 09/04 Polish Cup", Rakow Czestochowa vs GKS Katowice 23:30 ngày 09/04 Polish Cup (Link 1)
-https://cdn-hls.taoxanh.biz/live/69d7cb79beb20_95554/index.m3u8?expire=1776354809&amp;sign=7efe0b9dad584a254983eebfa07a23e6
-#EXTINF:-1 tvg-id="601362829" group-title="Rakow Czestochowa vs GKS Katowice 23:30 ngày 09/04 Polish Cup", Rakow Czestochowa vs GKS Katowice 23:30 ngày 09/04 Polish Cup (Link 2)
-https://live.alilicloud.com/live/f939f0815a2037b13231fa5e0b05f2aa/playlist.m3u8
-#EXTINF:-1 tvg-id="601357759" group-title="Al-Baq's vs Al Wehda 23:30 ngày 09/04 Jordan Premier League", Al-Baq's vs Al Wehda 23:30 ngày 09/04 Jordan Premier League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69d7d1bebeb20_151255/index.m3u8?expire=1776356414&amp;sign=c647938fabe20ce84049cc3150529af0
-#EXTINF:-1 tvg-id="601357759" group-title="Al-Baq's vs Al Wehda 23:30 ngày 09/04 Jordan Premier League", Al-Baq's vs Al Wehda 23:30 ngày 09/04 Jordan Premier League (Link 2)
-https://live.alilicloud.com/live/e6628f99937be345f8fcabefa7f91ce1/playlist.m3u8
-#EXTINF:-1 tvg-id="601357768" group-title="Rayo Vallecano vs AEK Athens 23:45 ngày 09/04 UEFA Europa Conference League", Rayo Vallecano vs AEK Athens 23:45 ngày 09/04 UEFA Europa Conference League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69d7cccfbeb20_73445/index.m3u8?expire=1776355151&amp;sign=6364f85ca863de6b6ae6eab4d2041578
-#EXTINF:-1 tvg-id="601357768" group-title="Rayo Vallecano vs AEK Athens 23:45 ngày 09/04 UEFA Europa Conference League", Rayo Vallecano vs AEK Athens 23:45 ngày 09/04 UEFA Europa Conference League (Link 2)
-https://live.alilicloud.com/live/cf975c84f7fd73df7f332261231ddf59/playlist.m3u8
-#EXTINF:-1 tvg-id="601357771" group-title="Caykur Rizespor vs Samsunspor 00:00 ngày 10/04 Turkish Super League", Caykur Rizespor vs Samsunspor 00:00 ngày 10/04 Turkish Super League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69d76eb524440_124958/index.m3u8?expire=1776331061&amp;sign=f5d1505fb0eb661b17294d35fc87f186
-#EXTINF:-1 tvg-id="601357771" group-title="Caykur Rizespor vs Samsunspor 00:00 ngày 10/04 Turkish Super League", Caykur Rizespor vs Samsunspor 00:00 ngày 10/04 Turkish Super League (Link 2)
-https://live.alilicloud.com/live/9f459170032624f65dc8553f8cc653be/playlist.m3u8
-#EXTINF:-1 tvg-id="601357780" group-title="Levski Sofia vs Arda 00:30 ngày 10/04 Bulgarian First League", Levski Sofia vs Arda 00:30 ngày 10/04 Bulgarian First League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69d7d80124440_88642/index.m3u8?expire=1776358017&amp;sign=cf7df23553cd1bcde1fa52f68b3b43cd
-#EXTINF:-1 tvg-id="601357780" group-title="Levski Sofia vs Arda 00:30 ngày 10/04 Bulgarian First League", Levski Sofia vs Arda 00:30 ngày 10/04 Bulgarian First League (Link 2)
-https://live.alilicloud.com/live/629cb0a88c4b2e02cb77cfceaa8c2fcc/playlist.m3u8
-#EXTINF:-1 tvg-id="601370551" group-title="Nguyễn Trần T.Tự vs Mikael DEVOGELAERE 23:40 ngày 09/04 BOGOTA WORLDCUP 2026", Nguyễn Trần T.Tự vs Mikael DEVOGELAERE 23:40 ngày 09/04 BOGOTA WORLDCUP 2026
-https://cdn-hls.taoxanh.biz/live/69d7d8dd24440_144313/index.m3u8?expire=1776358237&amp;sign=3b4048bb21e6703977bebcda0609d0a1
-#EXTINF:-1 tvg-id="601370905" group-title="Lukas STAMM vs Volkan CETIN 00:15 ngày 10/04 BOGOTA WORLDCUP 2026", Lukas STAMM vs Volkan CETIN 00:15 ngày 10/04 BOGOTA WORLDCUP 2026
-https://cdn-hls.taoxanh.biz/live/69d7dee524440_142246/index.m3u8?expire=1776359781&amp;sign=bc7cde59fe429532820d1ad80eef7f8a
-#EXTINF:-1 tvg-id="601357750" group-title="Al Ula FC vs Abha 23:20 ngày 09/04 Saudi Arabia Division 1", Al Ula FC vs Abha 23:20 ngày 09/04 Saudi Arabia Division 1
-https://live.alilicloud.com/live/7d4e1443a9bc114f1bcd1a2191e891c8/playlist.m3u8
-#EXTINF:-1 tvg-id="601362826" group-title="Al Quwa Al Jawiya vs Al Qasim SC 23:30 ngày 09/04 Iraq Stars League", Al Quwa Al Jawiya vs Al Qasim SC 23:30 ngày 09/04 Iraq Stars League
-https://live.alilicloud.com/live/a1ff78fd9d458bfda0741dcadca6a073/playlist.m3u8
-#EXTINF:-1 tvg-id="601362823" group-title="Al-Naft SC vs Al Gharraf 23:30 ngày 09/04 Iraq Stars League", Al-Naft SC vs Al Gharraf 23:30 ngày 09/04 Iraq Stars League
-https://live.alilicloud.com/live/f6cbcae57f1f81e335122f247cbf1791/playlist.m3u8
-#EXTINF:-1 tvg-id="601357762" group-title="Argentinos Jrs Reserves vs Racing Club Reserves 23:30 ngày 09/04 Argentine Reserve League", Argentinos Jrs Reserves vs Racing Club Reserves 23:30 ngày 09/04 Argentine Reserve League
-https://live.alilicloud.com/live/e2beff0f9e51983a412f4028243d79c5/playlist.m3u8
-#EXTINF:-1 tvg-id="601357756" group-title="Hapoel Beer Sheva vs Bnei Yehuda Tel Aviv 23:30 ngày 09/04 Israel Cup", Hapoel Beer Sheva vs Bnei Yehuda Tel Aviv 23:30 ngày 09/04 Israel Cup
-https://live.alilicloud.com/live/4a75e67f79168a78b2b04f596cf95b11/playlist.m3u8
-#EXTINF:-1 tvg-id="601369222" group-title="AS Pompiers vs FC Inter Nouakchott 23:45 ngày 09/04 Mauritania Ligue 1", AS Pompiers vs FC Inter Nouakchott 23:45 ngày 09/04 Mauritania Ligue 1
-https://live.alilicloud.com/live/d840f56ebd09f091ef203c0c6dbd6b26/playlist.m3u8
-#EXTINF:-1 tvg-id="601357777" group-title="Istanbulspor vs Erzurum BB 00:00 ngày 10/04 Turkish First League", Istanbulspor vs Erzurum BB 00:00 ngày 10/04 Turkish First League
-https://live.alilicloud.com/live/012afd3630595cdef6478ff5c4e9c2c0/playlist.m3u8
-#EXTINF:-1 tvg-id="601357774" group-title="Erokspor vs Amedspor 00:00 ngày 10/04 Turkish First League", Erokspor vs Amedspor 00:00 ngày 10/04 Turkish First League
-https://live.alilicloud.com/live/f3fd4fe5497dc516b07b972ad0dd5e45/playlist.m3u8
-#EXTINF:-1 tvg-id="601354756" group-title="OFK Beograd vs Radnik Surdulica 00:00 ngày 10/04 Serbian Super liga", OFK Beograd vs Radnik Surdulica 00:00 ngày 10/04 Serbian Super liga
-https://live.alilicloud.com/live/6e1febc2aac110531c83cb92d698914b/playlist.m3u8
-#EXTINF:-1 tvg-id="601354744" group-title="FK Čukarički vs Radnicki 1923 Kragujevac 00:00 ngày 10/04 Serbian Super liga", FK Čukarički vs Radnicki 1923 Kragujevac 00:00 ngày 10/04 Serbian Super liga
-https://live.alilicloud.com/live/bd93e9fda7d9b5771b210e82638675b5/playlist.m3u8
-#EXTINF:-1 tvg-id="601354741" group-title="Crvena Zvezda vs FK Spartak Zlatibor Voda 00:00 ngày 10/04 Serbian Super liga", Crvena Zvezda vs FK Spartak Zlatibor Voda 00:00 ngày 10/04 Serbian Super liga
-https://live.alilicloud.com/live/90622f2872032028797e5b5f9fdb3980/playlist.m3u8
-#EXTINF:-1 tvg-id="601357783" group-title="Al-Adalah vs Al-Batin 00:40 ngày 10/04 Saudi Arabia Division 1", Al-Adalah vs Al-Batin 00:40 ngày 10/04 Saudi Arabia Division 1
-https://live.alilicloud.com/live/4f29020e584c10d178eb9e87ad1c1ecd/playlist.m3u8
-#EXTINF:-1 tvg-id="601357807" group-title="Sarmiento Junin Reserve vs Instituto AC Cordoba II 01:00 ngày 10/04 Argentine Reserve League", Sarmiento Junin Reserve vs Instituto AC Cordoba II 01:00 ngày 10/04 Argentine Reserve League
-https://live.alilicloud.com/live/6659e5eb6f74e7d01240ebfe3972d043/playlist.m3u8
-#EXTINF:-1 tvg-id="601357831" group-title="Bologna vs Aston Villa 02:00 ngày 10/04 UEFA Europa League", Bologna vs Aston Villa 02:00 ngày 10/04 UEFA Europa League
+#EXTINF:-1 tvg-id="601357831" group-title="Bologna vs Aston Villa 02:00 ngày 10/04 UEFA Europa League", Bologna vs Aston Villa 02:00 ngày 10/04 UEFA Europa League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69d7ef05beb21_28/index.m3u8?expire=1776363909&amp;sign=203e6911dd08fd06cf1ae4506cee71d9
+#EXTINF:-1 tvg-id="601357831" group-title="Bologna vs Aston Villa 02:00 ngày 10/04 UEFA Europa League", Bologna vs Aston Villa 02:00 ngày 10/04 UEFA Europa League (Link 2)
 https://live.alilicloud.com/live/8242d26cb6cad132cfc2c7b79e3641c6/playlist.m3u8
 #EXTINF:-1 tvg-id="601357816" group-title="SC Freiburg vs RC Celta 02:00 ngày 10/04 UEFA Europa League", SC Freiburg vs RC Celta 02:00 ngày 10/04 UEFA Europa League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69d7dac824440_88186/index.m3u8?expire=1776358728&amp;sign=8a0e27edc130d726773fa5eb1c8d7c73
 #EXTINF:-1 tvg-id="601357816" group-title="SC Freiburg vs RC Celta 02:00 ngày 10/04 UEFA Europa League", SC Freiburg vs RC Celta 02:00 ngày 10/04 UEFA Europa League (Link 2)
+https://cdn-hls.taoxanh.biz/live/69d7f470beb21_124958/index.m3u8?expire=1776365296&amp;sign=eaf363a0ae7325ab4cb038003ed4e9d3
+#EXTINF:-1 tvg-id="601357816" group-title="SC Freiburg vs RC Celta 02:00 ngày 10/04 UEFA Europa League", SC Freiburg vs RC Celta 02:00 ngày 10/04 UEFA Europa League (Link 3)
 https://live.alilicloud.com/live/38372c01facbaff8c11115561a8a8452/playlist.m3u8
-#EXTINF:-1 tvg-id="601357822" group-title="FC Porto vs Nottingham Forest 02:00 ngày 10/04 UEFA Europa League", FC Porto vs Nottingham Forest 02:00 ngày 10/04 UEFA Europa League
+#EXTINF:-1 tvg-id="601357822" group-title="FC Porto vs Nottingham Forest 02:00 ngày 10/04 UEFA Europa League", FC Porto vs Nottingham Forest 02:00 ngày 10/04 UEFA Europa League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69d7ea3924440_79/index.m3u8?expire=1776362681&amp;sign=6cf5896ca77fd0b777a9374e2e3fe7be
+#EXTINF:-1 tvg-id="601357822" group-title="FC Porto vs Nottingham Forest 02:00 ngày 10/04 UEFA Europa League", FC Porto vs Nottingham Forest 02:00 ngày 10/04 UEFA Europa League (Link 2)
+https://cdn-hls.taoxanh.biz/live/69d7f4e024440_73445/index.m3u8?expire=1776365408&amp;sign=6cf04d7a987b6c726ef360c8409c1551
+#EXTINF:-1 tvg-id="601357822" group-title="FC Porto vs Nottingham Forest 02:00 ngày 10/04 UEFA Europa League", FC Porto vs Nottingham Forest 02:00 ngày 10/04 UEFA Europa League (Link 3)
 https://live.alilicloud.com/live/d4a2c9627d8995b50cf6d69c8854f83e/playlist.m3u8
-#EXTINF:-1 tvg-id="601357819" group-title="Crystal Palace vs Fiorentina 02:00 ngày 10/04 UEFA Europa Conference League", Crystal Palace vs Fiorentina 02:00 ngày 10/04 UEFA Europa Conference League
+#EXTINF:-1 tvg-id="601357819" group-title="Crystal Palace vs Fiorentina 02:00 ngày 10/04 UEFA Europa Conference League", Crystal Palace vs Fiorentina 02:00 ngày 10/04 UEFA Europa Conference League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69d7edbbbeb21_4908/index.m3u8?expire=1776363579&amp;sign=209d513e3a65bf0fa9cb986867194c34
+#EXTINF:-1 tvg-id="601357819" group-title="Crystal Palace vs Fiorentina 02:00 ngày 10/04 UEFA Europa Conference League", Crystal Palace vs Fiorentina 02:00 ngày 10/04 UEFA Europa Conference League (Link 2)
 https://live.alilicloud.com/live/ff46d7266cb28a397d1f86fc34c5ff70/playlist.m3u8
-#EXTINF:-1 tvg-id="601357825" group-title="FC Shakhtar Donetsk vs AZ Alkmaar 02:00 ngày 10/04 UEFA Europa Conference League", FC Shakhtar Donetsk vs AZ Alkmaar 02:00 ngày 10/04 UEFA Europa Conference League
+#EXTINF:-1 tvg-id="601357825" group-title="FC Shakhtar Donetsk vs AZ Alkmaar 02:00 ngày 10/04 UEFA Europa Conference League", FC Shakhtar Donetsk vs AZ Alkmaar 02:00 ngày 10/04 UEFA Europa Conference League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69d7ed03beb21_128756/index.m3u8?expire=1776363395&amp;sign=38a7914f3e860d9ef00ff2df46a9459d
+#EXTINF:-1 tvg-id="601357825" group-title="FC Shakhtar Donetsk vs AZ Alkmaar 02:00 ngày 10/04 UEFA Europa Conference League", FC Shakhtar Donetsk vs AZ Alkmaar 02:00 ngày 10/04 UEFA Europa Conference League (Link 2)
 https://live.alilicloud.com/live/ca59580337fa8229a4927dae410a984b/playlist.m3u8
-#EXTINF:-1 tvg-id="601357828" group-title="1. FSV Mainz 05 vs RC Strasbourg Alsace 02:00 ngày 10/04 UEFA Europa Conference League", 1. FSV Mainz 05 vs RC Strasbourg Alsace 02:00 ngày 10/04 UEFA Europa Conference League
+#EXTINF:-1 tvg-id="601357828" group-title="1. FSV Mainz 05 vs RC Strasbourg Alsace 02:00 ngày 10/04 UEFA Europa Conference League", 1. FSV Mainz 05 vs RC Strasbourg Alsace 02:00 ngày 10/04 UEFA Europa Conference League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69d7f079beb21_85514/index.m3u8?expire=1776364281&amp;sign=5df87fbe813aa5449d2ebc41cdc7f6aa
+#EXTINF:-1 tvg-id="601357828" group-title="1. FSV Mainz 05 vs RC Strasbourg Alsace 02:00 ngày 10/04 UEFA Europa Conference League", 1. FSV Mainz 05 vs RC Strasbourg Alsace 02:00 ngày 10/04 UEFA Europa Conference League (Link 2)
 https://live.alilicloud.com/live/b708bc5a12629b50e101bb32413db464/playlist.m3u8
 #EXTINF:-1 tvg-id="601357786" group-title="Al-Ettifaq FC vs Al-Riyadh 01:00 ngày 10/04 Saudi Professional League", Al-Ettifaq FC vs Al-Riyadh 01:00 ngày 10/04 Saudi Professional League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69d7e1d6beb21_44731/index.m3u8?expire=1776360534&amp;sign=8199a0ad47792480db27017a5bf0fbc3
 #EXTINF:-1 tvg-id="601357786" group-title="Al-Ettifaq FC vs Al-Riyadh 01:00 ngày 10/04 Saudi Professional League", Al-Ettifaq FC vs Al-Riyadh 01:00 ngày 10/04 Saudi Professional League (Link 2)
 https://live.alilicloud.com/live/ebae882749688e0bb58c53dbb46fa61c/playlist.m3u8
+#EXTINF:-1 tvg-id="601370905" group-title="Chiêm Hồng Thái vs Rui Manuel COSTA 01:00 ngày 10/04 BOGOTA WORLDCUP 2026", Chiêm Hồng Thái vs Rui Manuel COSTA 01:00 ngày 10/04 BOGOTA WORLDCUP 2026
+https://cdn-hls.taoxanh.biz/live/69d7dee524440_142246/index.m3u8?expire=1776359781&amp;sign=bc7cde59fe429532820d1ad80eef7f8a
+#EXTINF:-1 tvg-id="601370551" group-title="Phuong Vinh BAO vs Alejandro SANTIAGO 02:00 ngày 10/04 BOGOTA WORLDCUP 2026", Phuong Vinh BAO vs Alejandro SANTIAGO 02:00 ngày 10/04 BOGOTA WORLDCUP 2026
+https://cdn-hls.taoxanh.biz/live/69d7d8dd24440_144313/index.m3u8?expire=1776358237&amp;sign=3b4048bb21e6703977bebcda0609d0a1
+#EXTINF:-1 tvg-id="601357783" group-title="Al-Adalah vs Al-Batin 00:40 ngày 10/04 Saudi Arabia Division 1", Al-Adalah vs Al-Batin 00:40 ngày 10/04 Saudi Arabia Division 1
+https://live.alilicloud.com/live/4f29020e584c10d178eb9e87ad1c1ecd/playlist.m3u8
+#EXTINF:-1 tvg-id="601357792" group-title="El Mokawloon El Arab vs Ismaily SC 01:00 ngày 10/04 Egyptian Premier League", El Mokawloon El Arab vs Ismaily SC 01:00 ngày 10/04 Egyptian Premier League
+https://live.alilicloud.com/live/b4e6deb2f2dac5896ec1533acfb789ad/playlist.m3u8
+#EXTINF:-1 tvg-id="601357795" group-title="Petrojet vs ZED FC 01:00 ngày 10/04 Egyptian Premier League", Petrojet vs ZED FC 01:00 ngày 10/04 Egyptian Premier League
+https://live.alilicloud.com/live/1a307fa5617087fa6472a8427598a8bc/playlist.m3u8
+#EXTINF:-1 tvg-id="601357798" group-title="CA Aldosivi Reserves vs River Plate R 01:00 ngày 10/04 Argentine Reserve League", CA Aldosivi Reserves vs River Plate R 01:00 ngày 10/04 Argentine Reserve League
+https://live.alilicloud.com/live/a079b2c239d1b4184c2afa0d0d889692/playlist.m3u8
+#EXTINF:-1 tvg-id="601357801" group-title="Barracas Central Reserves vs Talleres Cordoba Reserve 01:00 ngày 10/04 Argentine Reserve League", Barracas Central Reserves vs Talleres Cordoba Reserve 01:00 ngày 10/04 Argentine Reserve League
+https://live.alilicloud.com/live/2127b4a160085864b91c9b74eeaf48d9/playlist.m3u8
+#EXTINF:-1 tvg-id="601357804" group-title="Estudiantes Rio Cuarto Reserves vs Central Cordoba SdE Reserves 01:00 ngày 10/04 Argentine Reserve League", Estudiantes Rio Cuarto Reserves vs Central Cordoba SdE Reserves 01:00 ngày 10/04 Argentine Reserve League
+https://live.alilicloud.com/live/ce470ada54a3d5caab1d8e383e529e31/playlist.m3u8
+#EXTINF:-1 tvg-id="601357807" group-title="Sarmiento Junin Reserve vs Instituto AC Cordoba II 01:00 ngày 10/04 Argentine Reserve League", Sarmiento Junin Reserve vs Instituto AC Cordoba II 01:00 ngày 10/04 Argentine Reserve League
+https://live.alilicloud.com/live/6659e5eb6f74e7d01240ebfe3972d043/playlist.m3u8
+#EXTINF:-1 tvg-id="601357810" group-title="Huracan Reserves vs Estudiantes LP Reserves 01:00 ngày 10/04 Argentine Reserve League", Huracan Reserves vs Estudiantes LP Reserves 01:00 ngày 10/04 Argentine Reserve League
+https://live.alilicloud.com/live/ac2b9a4e03ddf9d5cd703fbcf05a4136/playlist.m3u8
+#EXTINF:-1 tvg-id="601369048" group-title="Cote d'Ivoire (w) vs Mauritania (w) 02:30 ngày 10/04 FIFA W Series", Cote d'Ivoire (w) vs Mauritania (w) 02:30 ngày 10/04 FIFA W Series
+https://live.alilicloud.com/live/5ad6e20698f828dc924452a017392d7e/playlist.m3u8
+#EXTINF:-1 tvg-id="601357882" group-title="Atletico Choloma vs Real Espana 06:15 ngày 10/04 Honduras Primera Division", Atletico Choloma vs Real Espana 06:15 ngày 10/04 Honduras Primera Division
+https://cdn-hls.taoxanh.biz/live/69d7f957beb21_6308/index.m3u8?expire=1776366551&amp;sign=7beb75d597467b0bc35c83739fcbc315
 #EXTINF:-1 tvg-id="601358110" group-title="Karvan Evlakh vs FK Kapaz Ganca 18:30 ngày 10/04 Azerbaijan Premier League", Karvan Evlakh vs FK Kapaz Ganca 18:30 ngày 10/04 Azerbaijan Premier League
 https://cdn-hls.taoxanh.biz/live/69d7136b24440_18754/index.m3u8?expire=1776307691&amp;sign=cb779393ffccda598a1eb4470270e2f9
