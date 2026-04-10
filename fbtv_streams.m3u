@@ -1,10 +1,24 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601371481" group-title="Trần Quyết Chiến vs Mikael DEVOGELAERE 04:00 ngày 11/04 BOGOTA WORLDCUP 2026", Trần Quyết Chiến vs Mikael DEVOGELAERE 04:00 ngày 11/04 BOGOTA WORLDCUP 2026
+#EXTINF:-1 tvg-id="601371481" group-title="Huberney CATANO vs Chiêm Hồng Thái 06:00 ngày 11/04 BOGOTA WORLDCUP 2026", Huberney CATANO vs Chiêm Hồng Thái 06:00 ngày 11/04 BOGOTA WORLDCUP 2026
 https://cdn-hls.taoxanh.biz/live/69d90e27beb22_142246/index.m3u8?expire=1776437415&amp;sign=5ebfaea4c810b5b73601233ae59b966c
-#EXTINF:-1 tvg-id="601358959" group-title="Peru (w) vs Uruguay (w) 04:00 ngày 11/04 CNL W", Peru (w) vs Uruguay (w) 04:00 ngày 11/04 CNL W
-https://live.alilicloud.com/live/fb4e1bcb6e2900bbbf059f61118e1188/playlist.m3u8
+#EXTINF:-1 tvg-id="601362574" group-title="Washington Wizards vs Miami Heat 06:00 ngày 11/04 NBA", Washington Wizards vs Miami Heat 06:00 ngày 11/04 NBA
+https://cdn-hls.taoxanh.biz/live/69d97e6d24440_72787/index.m3u8?expire=1776466157&amp;sign=79557c7a1c5c3d5fcad42e94f0483165
+#EXTINF:-1 tvg-id="601362589" group-title="Charlotte Hornets vs Detroit Pistons 06:00 ngày 11/04 NBA", Charlotte Hornets vs Detroit Pistons 06:00 ngày 11/04 NBA
+https://cdn-hls.taoxanh.biz/live/69d97dac24440_153967/index.m3u8?expire=1776465964&amp;sign=e73c515119bb397b5c8f7336b52b58bf
 #EXTINF:-1 tvg-id="601363000" group-title="Club Sportivo 2 de Mayo vs Sportivo Ameliano 04:15 ngày 11/04 Paraguayan Primera Division", Club Sportivo 2 de Mayo vs Sportivo Ameliano 04:15 ngày 11/04 Paraguayan Primera Division
 https://live.alilicloud.com/live/0349a829519f6bda57396c73ab576114/playlist.m3u8
+#EXTINF:-1 tvg-id="601358980" group-title="Loudoun United vs Louisville City FC 05:30 ngày 11/04 USL Championship", Loudoun United vs Louisville City FC 05:30 ngày 11/04 USL Championship
+https://live.alilicloud.com/live/b556538e84a5ea53268b2514eb3c282f/playlist.m3u8
+#EXTINF:-1 tvg-id="601363966" group-title="Deportivo Tachira vs Deportivo La Guaira 05:30 ngày 11/04 Venezuela Primera Division", Deportivo Tachira vs Deportivo La Guaira 05:30 ngày 11/04 Venezuela Primera Division
+https://live.alilicloud.com/live/a3d4fec1c6cf8fe36df374874eeee455/playlist.m3u8
+#EXTINF:-1 tvg-id="601358986" group-title="Paraguay (w) vs Ecuador (w) 06:00 ngày 11/04 CNL W", Paraguay (w) vs Ecuador (w) 06:00 ngày 11/04 CNL W
+https://live.alilicloud.com/live/52b4c4fa4f27535c06ab90ba066a8323/playlist.m3u8
+#EXTINF:-1 tvg-id="601358998" group-title="Argentina U17 vs Brazil U17 06:00 ngày 11/04 CONMEBOL U17 Championship", Argentina U17 vs Brazil U17 06:00 ngày 11/04 CONMEBOL U17 Championship
+https://live.alilicloud.com/live/5102f7b00c1510461d8344da1349cc07/playlist.m3u8
+#EXTINF:-1 tvg-id="601363009" group-title="International Miami B vs Atlanta United FC II 06:00 ngày 11/04 MLS Next PL", International Miami B vs Atlanta United FC II 06:00 ngày 11/04 MLS Next PL (Link 1)
+https://cdn-hls.taoxanh.biz/live/69d97adfbeb23_133172/index.m3u8?expire=1776465247&amp;sign=e09925db1aac75a5ae1cf0c0b12c331f
+#EXTINF:-1 tvg-id="601363009" group-title="International Miami B vs Atlanta United FC II 06:00 ngày 11/04 MLS Next PL", International Miami B vs Atlanta United FC II 06:00 ngày 11/04 MLS Next PL (Link 2)
+https://live.alilicloud.com/live/51bc47b4b2a73327fdc5330078b830fd/playlist.m3u8
 #EXTINF:-1 tvg-id="601361389" group-title="Elche vs Valencia CF 21:15 ngày 11/04 Spanish La Liga", Elche vs Valencia CF 21:15 ngày 11/04 Spanish La Liga
 https://live.alilicloud.com/live/4bfc40bb094ae4c05c72759744946881/playlist.m3u8
 #EXTINF:-1 tvg-id="601361776" group-title="AC Milan vs Udinese 23:00 ngày 11/04 Italian Serie A", AC Milan vs Udinese 23:00 ngày 11/04 Italian Serie A
