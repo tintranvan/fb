@@ -1,55 +1,35 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601358104" group-title="Tanjong Pagar Utd vs Young Lions 18:30 ngày 10/04 Singapore Premier League", Tanjong Pagar Utd vs Young Lions 18:30 ngày 10/04 Singapore Premier League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69d8d3a324440_136682/index.m3u8?expire=1776422435&amp;sign=e826f3b2cbcdc101c16b908f99f6d90d
-#EXTINF:-1 tvg-id="601358104" group-title="Tanjong Pagar Utd vs Young Lions 18:30 ngày 10/04 Singapore Premier League", Tanjong Pagar Utd vs Young Lions 18:30 ngày 10/04 Singapore Premier League (Link 2)
-https://live.alilicloud.com/live/34ac300239515460669122b2a8f10115/playlist.m3u8
-#EXTINF:-1 tvg-id="601358110" group-title="Karvan Evlakh vs FK Kapaz Ganca 18:30 ngày 10/04 Azerbaijan Premier League", Karvan Evlakh vs FK Kapaz Ganca 18:30 ngày 10/04 Azerbaijan Premier League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69d8d75824440_133172/index.m3u8?expire=1776423384&amp;sign=8b6a12ff7c6c4356dc653e6228954ba6
-#EXTINF:-1 tvg-id="601358110" group-title="Karvan Evlakh vs FK Kapaz Ganca 18:30 ngày 10/04 Azerbaijan Premier League", Karvan Evlakh vs FK Kapaz Ganca 18:30 ngày 10/04 Azerbaijan Premier League (Link 2)
-https://live.alilicloud.com/live/1bf829e3016ce785899dfad453b64efe/playlist.m3u8
-#EXTINF:-1 tvg-id="601358128" group-title="Dalian Yingbo FC vs Zhejiang Professional FC 18:35 ngày 10/04 Chinese Football Super League", Dalian Yingbo FC vs Zhejiang Professional FC 18:35 ngày 10/04 Chinese Football Super League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69d8d6f324440_4908/index.m3u8?expire=1776423283&amp;sign=69f1a4924424a9ef09b6a74c54893a7e
-#EXTINF:-1 tvg-id="601358128" group-title="Dalian Yingbo FC vs Zhejiang Professional FC 18:35 ngày 10/04 Chinese Football Super League", Dalian Yingbo FC vs Zhejiang Professional FC 18:35 ngày 10/04 Chinese Football Super League (Link 2)
-https://live.alilicloud.com/live/14a02526ffc1c76870fca1c1e56e9514/playlist.m3u8
-#EXTINF:-1 tvg-id="601358131" group-title="Persita Tangerang vs Arema FC 19:00 ngày 10/04 Indonesian Liga 1", Persita Tangerang vs Arema FC 19:00 ngày 10/04 Indonesian Liga 1 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69d8d94bbeb22_85514/index.m3u8?expire=1776423883&amp;sign=640812889b7777185d6a2a5e95faa211
-#EXTINF:-1 tvg-id="601358131" group-title="Persita Tangerang vs Arema FC 19:00 ngày 10/04 Indonesian Liga 1", Persita Tangerang vs Arema FC 19:00 ngày 10/04 Indonesian Liga 1 (Link 2)
-https://live.alilicloud.com/live/4d2f3b76af2ec2b5fef553c7942f0f09/playlist.m3u8
+#EXTINF:-1 tvg-id="601370920" group-title="Thái Lan vs Australia 20:00 ngày 10/04 Futsal Champions League 2026", Thái Lan vs Australia 20:00 ngày 10/04 Futsal Champions League 2026
+https://cdn-hls.taoxanh.biz/live/69d8e9ea24440_72787/index.m3u8?expire=1776428138&amp;sign=24376e9bd2ce75ab5259a1e55dfc34ae
 #EXTINF:-1 tvg-id="601358242" group-title="Viettel FC vs CLB Thanh Hoa 19:15 ngày 10/04 Vietnam National Champion League", Viettel FC vs CLB Thanh Hoa 19:15 ngày 10/04 Vietnam National Champion League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69d8e552beb22_79/index.m3u8?expire=1776426962&amp;sign=5d8bfeb3ac8f414e1613d31ef3d6cd5e
 #EXTINF:-1 tvg-id="601358242" group-title="Viettel FC vs CLB Thanh Hoa 19:15 ngày 10/04 Vietnam National Champion League", Viettel FC vs CLB Thanh Hoa 19:15 ngày 10/04 Vietnam National Champion League (Link 2)
 https://live.alilicloud.com/live/fee3c560287c5cf5a3f3f31ea3d26760/playlist.m3u8
-#EXTINF:-1 tvg-id="601370911" group-title="Auger-Aliassime F. vs Sinner J. 18:30 ngày 10/04 ATP Monte Carlo", Auger-Aliassime F. vs Sinner J. 18:30 ngày 10/04 ATP Monte Carlo
-https://cdn-hls.taoxanh.biz/live/69d8e59fbeb22_4733/index.m3u8?expire=1776427039&amp;sign=8cbb247d50d4293c338432d437d56a2d
-#EXTINF:-1 tvg-id="601370746" group-title="Hà Nội vs Công An TP HCM 19:30 ngày 10/04 Giải bóng chuyền VĐQG 2026", Hà Nội vs Công An TP HCM 19:30 ngày 10/04 Giải bóng chuyền VĐQG 2026
-https://cdn-hls.taoxanh.biz/live/69d8e5e8beb22_88642/index.m3u8?expire=1776427112&amp;sign=703f11e871a1a6d56bbe5cbfb2eb256d
-#EXTINF:-1 tvg-id="601358101" group-title="Perth SC (w) vs Fremantle City FC (w) 18:00 ngày 10/04 Western Australia Women's League", Perth SC (w) vs Fremantle City FC (w) 18:00 ngày 10/04 Western Australia Women's League
-https://live.alilicloud.com/live/86cb7481031f298fca835d759335de15/playlist.m3u8
-#EXTINF:-1 tvg-id="601358098" group-title="West Torrens Birkalla vs Metrostars SC 18:00 ngày 10/04 South Australia National Premier Leagues", West Torrens Birkalla vs Metrostars SC 18:00 ngày 10/04 South Australia National Premier Leagues
-https://live.alilicloud.com/live/befec972ba91d671fe9c4bffcc0aaa89/playlist.m3u8
-#EXTINF:-1 tvg-id="601358107" group-title="Northeast United vs Hyderabad FC 18:30 ngày 10/04 Indian Super League", Northeast United vs Hyderabad FC 18:30 ngày 10/04 Indian Super League
-https://live.alilicloud.com/live/b7a5e68b669f64f72a50bf4e90be6143/playlist.m3u8
-#EXTINF:-1 tvg-id="601358122" group-title="FK Van Charentsavan vs Urartu 18:30 ngày 10/04 Armenian Premier League", FK Van Charentsavan vs Urartu 18:30 ngày 10/04 Armenian Premier League
-https://live.alilicloud.com/live/844eee0659c93a3389e77edd7ea97e24/playlist.m3u8
-#EXTINF:-1 tvg-id="601358125" group-title="Taizhou Team vs Jinhua Team 18:30 ngày 10/04 Wuyue Cup", Taizhou Team vs Jinhua Team 18:30 ngày 10/04 Wuyue Cup
-https://live.alilicloud.com/live/2aa728762e23e0c6ee5de3248a058830/playlist.m3u8
-#EXTINF:-1 tvg-id="601358116" group-title="Ganzhou Ruishi vs Wenzhou Professional Football Club 18:30 ngày 10/04 Chinese Football League 2", Ganzhou Ruishi vs Wenzhou Professional Football Club 18:30 ngày 10/04 Chinese Football League 2
-https://live.alilicloud.com/live/8383cdb9029b50eb2118a4960647f0bb/playlist.m3u8
-#EXTINF:-1 tvg-id="601358113" group-title="Haimen Codion vs Changchun Xidu 18:30 ngày 10/04 Chinese Football League 2", Haimen Codion vs Changchun Xidu 18:30 ngày 10/04 Chinese Football League 2
-https://live.alilicloud.com/live/b220b08d13afb10439b46f937af3cb47/playlist.m3u8
-#EXTINF:-1 tvg-id="601358167" group-title="Kiryat Yam SC vs Maccabi Petah Tikva FC 19:00 ngày 10/04 Israel Leumit League", Kiryat Yam SC vs Maccabi Petah Tikva FC 19:00 ngày 10/04 Israel Leumit League
-https://live.alilicloud.com/live/422f64af150ee1045cdd5fb1eaf1f0d5/playlist.m3u8
-#EXTINF:-1 tvg-id="601358158" group-title="Hapoel Rishon Lezion vs Hapoel Acre FC 19:00 ngày 10/04 Israel Leumit League", Hapoel Rishon Lezion vs Hapoel Acre FC 19:00 ngày 10/04 Israel Leumit League
-https://live.alilicloud.com/live/e2c508ae9ab68d32b7e232bc8779e28a/playlist.m3u8
-#EXTINF:-1 tvg-id="601358155" group-title="Hapoel Kfar Shalem vs Hapoel Hadera 19:00 ngày 10/04 Israel Leumit League", Hapoel Kfar Shalem vs Hapoel Hadera 19:00 ngày 10/04 Israel Leumit League
-https://live.alilicloud.com/live/9d93f59992b3a47038e04a4c4258e508/playlist.m3u8
-#EXTINF:-1 tvg-id="601358254" group-title="Balcatta (w) vs Subiaco AFC (w) 19:30 ngày 10/04 Western Australia Women's League", Balcatta (w) vs Subiaco AFC (w) 19:30 ngày 10/04 Western Australia Women's League
-https://live.alilicloud.com/live/bbee050155ef1b0cfec62c3bad6afe4e/playlist.m3u8
-#EXTINF:-1 tvg-id="601370920" group-title="Thái Lan vs Australia 20:00 ngày 10/04 Futsal Champions League 2026", Thái Lan vs Australia 20:00 ngày 10/04 Futsal Champions League 2026
-https://cdn-hls.taoxanh.biz/live/69d8e9ea24440_72787/index.m3u8?expire=1776428138&amp;sign=24376e9bd2ce75ab5259a1e55dfc34ae
 #EXTINF:-1 tvg-id="601358248" group-title="CSKA 1948 Sofia vs Botev Vratsa 19:30 ngày 10/04 Bulgarian First League", CSKA 1948 Sofia vs Botev Vratsa 19:30 ngày 10/04 Bulgarian First League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69d8e84dbeb22_103/index.m3u8?expire=1776427725&amp;sign=8cec9d435fa5beb9791265f0897388ca
 #EXTINF:-1 tvg-id="601358248" group-title="CSKA 1948 Sofia vs Botev Vratsa 19:30 ngày 10/04 Bulgarian First League", CSKA 1948 Sofia vs Botev Vratsa 19:30 ngày 10/04 Bulgarian First League (Link 2)
 https://live.alilicloud.com/live/8332cdfa6e5ba3d46ae891964fa7e488/playlist.m3u8
-#EXTINF:-1 tvg-id="601358299" group-title="Naftan Novopolock vs FC Gomel 20:00 ngày 10/04 Belarusian Premier League", Naftan Novopolock vs FC Gomel 20:00 ngày 10/04 Belarusian Premier League
+#EXTINF:-1 tvg-id="601358257" group-title="Kelantan Darul Naim vs Kuala Lumpur City FC 20:00 ngày 10/04 Malaysian Super League", Kelantan Darul Naim vs Kuala Lumpur City FC 20:00 ngày 10/04 Malaysian Super League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69d8eed524440_88186/index.m3u8?expire=1776429397&amp;sign=f4eda16a06afafb51c9bd445c7903608
+#EXTINF:-1 tvg-id="601358257" group-title="Kelantan Darul Naim vs Kuala Lumpur City FC 20:00 ngày 10/04 Malaysian Super League", Kelantan Darul Naim vs Kuala Lumpur City FC 20:00 ngày 10/04 Malaysian Super League (Link 2)
+https://live.alilicloud.com/live/fe3d7673480af9138cb70bc8a20b9aaa/playlist.m3u8
+#EXTINF:-1 tvg-id="601358299" group-title="Naftan Novopolock vs FC Gomel 20:00 ngày 10/04 Belarusian Premier League", Naftan Novopolock vs FC Gomel 20:00 ngày 10/04 Belarusian Premier League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69d8e6b724440_95554/index.m3u8?expire=1776427319&amp;sign=b294723d7961e5f7f705cc4f567000f0
+#EXTINF:-1 tvg-id="601358299" group-title="Naftan Novopolock vs FC Gomel 20:00 ngày 10/04 Belarusian Premier League", Naftan Novopolock vs FC Gomel 20:00 ngày 10/04 Belarusian Premier League (Link 2)
+https://live.alilicloud.com/live/a81d7506e4933a831a6ee175f1e5b618/playlist.m3u8
+#EXTINF:-1 tvg-id="601358356" group-title="Al-Nasr(OMA) vs Al Khaboura SC 20:55 ngày 10/04 Oman Professional League", Al-Nasr(OMA) vs Al Khaboura SC 20:55 ngày 10/04 Oman Professional League
+https://cdn-hls.taoxanh.biz/live/69d8fa9324440_74012/index.m3u8?expire=1776432403&amp;sign=a7152c54a5886fac46a9e870df8a322a
+#EXTINF:-1 tvg-id="601358416" group-title="FC Goa vs Odisha FC 21:00 ngày 10/04 Indian Super League", FC Goa vs Odisha FC 21:00 ngày 10/04 Indian Super League
+https://cdn-hls.taoxanh.biz/live/69d8fa1f24440_133172/index.m3u8?expire=1776432287&amp;sign=4c4fa30c09159cd844b9bfdaba683ce0
+#EXTINF:-1 tvg-id="601370914" group-title="Alcaraz C. vs Bublik A. 20:00 ngày 10/04 ATP Monte Carlo", Alcaraz C. vs Bublik A. 20:00 ngày 10/04 ATP Monte Carlo
+https://cdn-hls.taoxanh.biz/live/69d9007f24440_4733/index.m3u8?expire=1776433919&amp;sign=77406932b79c9dbff8040baf5d043291
+#EXTINF:-1 tvg-id="601370746" group-title="Hà Nội vs Công An TP HCM 19:30 ngày 10/04 Giải bóng chuyền VĐQG 2026", Hà Nội vs Công An TP HCM 19:30 ngày 10/04 Giải bóng chuyền VĐQG 2026
+https://cdn-hls.taoxanh.biz/live/69d8e5e8beb22_88642/index.m3u8?expire=1776427112&amp;sign=703f11e871a1a6d56bbe5cbfb2eb256d
+#EXTINF:-1 tvg-id="601358254" group-title="Balcatta (w) vs Subiaco AFC (w) 19:30 ngày 10/04 Western Australia Women's League", Balcatta (w) vs Subiaco AFC (w) 19:30 ngày 10/04 Western Australia Women's League
+https://live.alilicloud.com/live/bbee050155ef1b0cfec62c3bad6afe4e/playlist.m3u8
+#EXTINF:-1 tvg-id="601358338" group-title="Metallurg Bekobod vs Respublika FA 20:00 ngày 10/04 Uzbekistan Pro League", Metallurg Bekobod vs Respublika FA 20:00 ngày 10/04 Uzbekistan Pro League
+https://live.alilicloud.com/live/f4f6b09ddf8a7e663e78cf586c7ffe27/playlist.m3u8
+#EXTINF:-1 tvg-id="601358341" group-title="FK Olympic Tashkent B vs FK Gazalkent 20:00 ngày 10/04 Uzbekistan Pro League", FK Olympic Tashkent B vs FK Gazalkent 20:00 ngày 10/04 Uzbekistan Pro League
+https://live.alilicloud.com/live/9f378c5d659010685b01be19c0ebe016/playlist.m3u8
+#EXTINF:-1 tvg-id="601362895" group-title="Smail vs Al Shabab SC 22:00 ngày 10/04 Oman Professional League", Smail vs Al Shabab SC 22:00 ngày 10/04 Oman Professional League
+https://cdn-hls.taoxanh.biz/live/69d8feb324440_6308/index.m3u8?expire=1776433459&amp;sign=c2f3b3a94a4c8d6ee480ba6209df53c6
