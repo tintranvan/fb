@@ -1,12 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="601363009" group-title="International Miami B vs Atlanta United FC II 06:00 ngày 11/04 MLS Next PL", International Miami B vs Atlanta United FC II 06:00 ngày 11/04 MLS Next PL (Link 1)
+https://cdn-hls.taoxanh.biz/live/69d97adfbeb23_133172/index.m3u8?expire=1776465247&amp;sign=e09925db1aac75a5ae1cf0c0b12c331f
+#EXTINF:-1 tvg-id="601363009" group-title="International Miami B vs Atlanta United FC II 06:00 ngày 11/04 MLS Next PL", International Miami B vs Atlanta United FC II 06:00 ngày 11/04 MLS Next PL (Link 2)
+https://live.alilicloud.com/live/51bc47b4b2a73327fdc5330078b830fd/playlist.m3u8
 #EXTINF:-1 tvg-id="601371481" group-title="Huberney CATANO vs Chiêm Hồng Thái 06:00 ngày 11/04 BOGOTA WORLDCUP 2026", Huberney CATANO vs Chiêm Hồng Thái 06:00 ngày 11/04 BOGOTA WORLDCUP 2026
 https://cdn-hls.taoxanh.biz/live/69d90e27beb22_142246/index.m3u8?expire=1776437415&amp;sign=5ebfaea4c810b5b73601233ae59b966c
 #EXTINF:-1 tvg-id="601362574" group-title="Washington Wizards vs Miami Heat 06:00 ngày 11/04 NBA", Washington Wizards vs Miami Heat 06:00 ngày 11/04 NBA
 https://cdn-hls.taoxanh.biz/live/69d97e6d24440_72787/index.m3u8?expire=1776466157&amp;sign=79557c7a1c5c3d5fcad42e94f0483165
 #EXTINF:-1 tvg-id="601362589" group-title="Charlotte Hornets vs Detroit Pistons 06:00 ngày 11/04 NBA", Charlotte Hornets vs Detroit Pistons 06:00 ngày 11/04 NBA
 https://cdn-hls.taoxanh.biz/live/69d97dac24440_153967/index.m3u8?expire=1776465964&amp;sign=e73c515119bb397b5c8f7336b52b58bf
-#EXTINF:-1 tvg-id="601363000" group-title="Club Sportivo 2 de Mayo vs Sportivo Ameliano 04:15 ngày 11/04 Paraguayan Primera Division", Club Sportivo 2 de Mayo vs Sportivo Ameliano 04:15 ngày 11/04 Paraguayan Primera Division
-https://live.alilicloud.com/live/0349a829519f6bda57396c73ab576114/playlist.m3u8
+#EXTINF:-1 tvg-id="601362583" group-title="New York Knicks vs Toronto Raptors 06:30 ngày 11/04 NBA", New York Knicks vs Toronto Raptors 06:30 ngày 11/04 NBA
+https://cdn-hls.taoxanh.biz/live/69d97d40beb23_4733/index.m3u8?expire=1776465856&amp;sign=566a030302f0a5873049cbc5f9104f30
 #EXTINF:-1 tvg-id="601358980" group-title="Loudoun United vs Louisville City FC 05:30 ngày 11/04 USL Championship", Loudoun United vs Louisville City FC 05:30 ngày 11/04 USL Championship
 https://live.alilicloud.com/live/b556538e84a5ea53268b2514eb3c282f/playlist.m3u8
 #EXTINF:-1 tvg-id="601363966" group-title="Deportivo Tachira vs Deportivo La Guaira 05:30 ngày 11/04 Venezuela Primera Division", Deportivo Tachira vs Deportivo La Guaira 05:30 ngày 11/04 Venezuela Primera Division
@@ -15,10 +19,22 @@ https://live.alilicloud.com/live/a3d4fec1c6cf8fe36df374874eeee455/playlist.m3u8
 https://live.alilicloud.com/live/52b4c4fa4f27535c06ab90ba066a8323/playlist.m3u8
 #EXTINF:-1 tvg-id="601358998" group-title="Argentina U17 vs Brazil U17 06:00 ngày 11/04 CONMEBOL U17 Championship", Argentina U17 vs Brazil U17 06:00 ngày 11/04 CONMEBOL U17 Championship
 https://live.alilicloud.com/live/5102f7b00c1510461d8344da1349cc07/playlist.m3u8
-#EXTINF:-1 tvg-id="601363009" group-title="International Miami B vs Atlanta United FC II 06:00 ngày 11/04 MLS Next PL", International Miami B vs Atlanta United FC II 06:00 ngày 11/04 MLS Next PL (Link 1)
-https://cdn-hls.taoxanh.biz/live/69d97adfbeb23_133172/index.m3u8?expire=1776465247&amp;sign=e09925db1aac75a5ae1cf0c0b12c331f
-#EXTINF:-1 tvg-id="601363009" group-title="International Miami B vs Atlanta United FC II 06:00 ngày 11/04 MLS Next PL", International Miami B vs Atlanta United FC II 06:00 ngày 11/04 MLS Next PL (Link 2)
-https://live.alilicloud.com/live/51bc47b4b2a73327fdc5330078b830fd/playlist.m3u8
+#EXTINF:-1 tvg-id="601359001" group-title="Cerro Largo vs Cerro Montevideo 06:00 ngày 11/04 Uruguay Primera Division", Cerro Largo vs Cerro Montevideo 06:00 ngày 11/04 Uruguay Primera Division
+https://live.alilicloud.com/live/171eedc2c912e9d842ba77043fa733f5/playlist.m3u8
+#EXTINF:-1 tvg-id="601371181" group-title="Parana PR vs Toledo Colonia Work PR 06:00 ngày 11/04 Campeonato Paranaense Segunda Divisão", Parana PR vs Toledo Colonia Work PR 06:00 ngày 11/04 Campeonato Paranaense Segunda Divisão
+https://live.alilicloud.com/live/c2daa23003a55154b93c92f612ed41e5/playlist.m3u8
+#EXTINF:-1 tvg-id="601359004" group-title="Criciuma vs Botafogo SP 06:30 ngày 11/04 Brazilian Serie B", Criciuma vs Botafogo SP 06:30 ngày 11/04 Brazilian Serie B
+https://live.alilicloud.com/live/aaca2b3ca098616bfc14840bfde3b7e4/playlist.m3u8
+#EXTINF:-1 tvg-id="601359007" group-title="Auckland FC Reserves vs Tauranga City United 06:30 ngày 11/04 New Zealand Northern Premier League", Auckland FC Reserves vs Tauranga City United 06:30 ngày 11/04 New Zealand Northern Premier League
+https://live.alilicloud.com/live/0e5ce1139aa8fcbcb60064ab92601cca/playlist.m3u8
+#EXTINF:-1 tvg-id="601363012" group-title="Sportivo San Lorenzo vs Club Guaraní 06:30 ngày 11/04 Paraguayan Primera Division", Sportivo San Lorenzo vs Club Guaraní 06:30 ngày 11/04 Paraguayan Primera Division
+https://live.alilicloud.com/live/89083a0a344310e4b21b93f3a1a04813/playlist.m3u8
+#EXTINF:-1 tvg-id="601359019" group-title="Belgrano vs Aldosivi Mar del Plata 07:00 ngày 11/04 Argentine Division 1", Belgrano vs Aldosivi Mar del Plata 07:00 ngày 11/04 Argentine Division 1
+https://cdn-hls.taoxanh.biz/live/69d985e8beb23_151657/index.m3u8?expire=1776468072&amp;sign=ed6d4dce6ea0e77f69d393dae651d71e
+#EXTINF:-1 tvg-id="601363015" group-title="Saint Louis City B vs Colorado Rapids II 07:00 ngày 11/04 MLS Next PL", Saint Louis City B vs Colorado Rapids II 07:00 ngày 11/04 MLS Next PL
+https://cdn-hls.taoxanh.biz/live/69d9879724440_74012/index.m3u8?expire=1776468503&amp;sign=598558d237333d246152a04314236c0d
+#EXTINF:-1 tvg-id="601359904" group-title="Arsenal vs Bournemouth AFC 18:30 ngày 11/04 English Premier League", Arsenal vs Bournemouth AFC 18:30 ngày 11/04 English Premier League
+https://live.alilicloud.com/live/118a0fed00067680ccf7c9b4b4fd3f6c/playlist.m3u8
 #EXTINF:-1 tvg-id="601361389" group-title="Elche vs Valencia CF 21:15 ngày 11/04 Spanish La Liga", Elche vs Valencia CF 21:15 ngày 11/04 Spanish La Liga
 https://live.alilicloud.com/live/4bfc40bb094ae4c05c72759744946881/playlist.m3u8
 #EXTINF:-1 tvg-id="601361776" group-title="AC Milan vs Udinese 23:00 ngày 11/04 Italian Serie A", AC Milan vs Udinese 23:00 ngày 11/04 Italian Serie A
