@@ -1,48 +1,32 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601359292" group-title="Yokohama F. Marinos vs FC Tokyo 13:00 ngày 11/04 Japanese J1 League", Yokohama F. Marinos vs FC Tokyo 13:00 ngày 11/04 Japanese J1 League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69d9da3224441_133172/index.m3u8?expire=1776489650&amp;sign=ce389888b843835b0aca2a446e8d0828
-#EXTINF:-1 tvg-id="601359292" group-title="Yokohama F. Marinos vs FC Tokyo 13:00 ngày 11/04 Japanese J1 League", Yokohama F. Marinos vs FC Tokyo 13:00 ngày 11/04 Japanese J1 League (Link 2)
-https://live.alilicloud.com/live/2fe33c4566eed9eb88394753d53c60e2/playlist.m3u8
-#EXTINF:-1 tvg-id="601359334" group-title="Newcastle Jets vs Adelaide United 14:00 ngày 11/04 Australia A-League", Newcastle Jets vs Adelaide United 14:00 ngày 11/04 Australia A-League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69d9e844beb23_136682/index.m3u8?expire=1776493252&amp;sign=20320f8e134fa4a4e499e04a605b2738
-#EXTINF:-1 tvg-id="601359334" group-title="Newcastle Jets vs Adelaide United 14:00 ngày 11/04 Australia A-League", Newcastle Jets vs Adelaide United 14:00 ngày 11/04 Australia A-League (Link 2)
-https://live.alilicloud.com/live/cbb57fc2ad6ea7dd5519037a77c3682a/playlist.m3u8
-#EXTINF:-1 tvg-id="601359340" group-title="Gamba Osaka vs Cerezo Osaka 14:00 ngày 11/04 Japanese J1 League", Gamba Osaka vs Cerezo Osaka 14:00 ngày 11/04 Japanese J1 League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69d9e9a5beb24_128756/index.m3u8?expire=1776493605&amp;sign=4545eaee448ec4c72a45ec22b678010e
-#EXTINF:-1 tvg-id="601359340" group-title="Gamba Osaka vs Cerezo Osaka 14:00 ngày 11/04 Japanese J1 League", Gamba Osaka vs Cerezo Osaka 14:00 ngày 11/04 Japanese J1 League (Link 2)
-https://live.alilicloud.com/live/86f8931d3da4b90f14fa6d80017d1acb/playlist.m3u8
 #EXTINF:-1 tvg-id="601359343" group-title="Kyoto Sanga vs Fagiano Okayama 14:00 ngày 11/04 Japanese J1 League", Kyoto Sanga vs Fagiano Okayama 14:00 ngày 11/04 Japanese J1 League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69d9ec1024441_103/index.m3u8?expire=1776494224&amp;sign=584568620a02fba7bf36e130bf1e2852
 #EXTINF:-1 tvg-id="601359343" group-title="Kyoto Sanga vs Fagiano Okayama 14:00 ngày 11/04 Japanese J1 League", Kyoto Sanga vs Fagiano Okayama 14:00 ngày 11/04 Japanese J1 League (Link 2)
 https://live.alilicloud.com/live/a90ad49235515497393cb958c8b6ad3a/playlist.m3u8
+#EXTINF:-1 tvg-id="601359340" group-title="Gamba Osaka vs Cerezo Osaka 14:00 ngày 11/04 Japanese J1 League", Gamba Osaka vs Cerezo Osaka 14:00 ngày 11/04 Japanese J1 League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69d9e9a5beb24_128756/index.m3u8?expire=1776493605&amp;sign=4545eaee448ec4c72a45ec22b678010e
+#EXTINF:-1 tvg-id="601359340" group-title="Gamba Osaka vs Cerezo Osaka 14:00 ngày 11/04 Japanese J1 League", Gamba Osaka vs Cerezo Osaka 14:00 ngày 11/04 Japanese J1 League (Link 2)
+https://live.alilicloud.com/live/86f8931d3da4b90f14fa6d80017d1acb/playlist.m3u8
+#EXTINF:-1 tvg-id="601359334" group-title="Newcastle Jets vs Adelaide United 14:00 ngày 11/04 Australia A-League", Newcastle Jets vs Adelaide United 14:00 ngày 11/04 Australia A-League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69d9e844beb23_136682/index.m3u8?expire=1776493252&amp;sign=20320f8e134fa4a4e499e04a605b2738
+#EXTINF:-1 tvg-id="601359334" group-title="Newcastle Jets vs Adelaide United 14:00 ngày 11/04 Australia A-League", Newcastle Jets vs Adelaide United 14:00 ngày 11/04 Australia A-League (Link 2)
+https://live.alilicloud.com/live/cbb57fc2ad6ea7dd5519037a77c3682a/playlist.m3u8
+#EXTINF:-1 tvg-id="601359403" group-title="Gwangju Football Club vs Bucheon FC 1995 14:30 ngày 11/04 Korean K League 1", Gwangju Football Club vs Bucheon FC 1995 14:30 ngày 11/04 Korean K League 1 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69d9f3bc24441_124958/index.m3u8?expire=1776496188&amp;sign=ecf436747db71bf9b79bde344489d034
+#EXTINF:-1 tvg-id="601359403" group-title="Gwangju Football Club vs Bucheon FC 1995 14:30 ngày 11/04 Korean K League 1", Gwangju Football Club vs Bucheon FC 1995 14:30 ngày 11/04 Korean K League 1 (Link 2)
+https://live.alilicloud.com/live/0ca6a2f7d1f2ed9d50b739c38b630e06/playlist.m3u8
 #EXTINF:-1 tvg-id="601359400" group-title="Incheon United Club vs Ulsan HD FC 14:30 ngày 11/04 Korean K League 1", Incheon United Club vs Ulsan HD FC 14:30 ngày 11/04 Korean K League 1 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69d9f27fbeb24_73445/index.m3u8?expire=1776495871&amp;sign=1c4f801481b51c48bf990a1f6a4b188a
 #EXTINF:-1 tvg-id="601359400" group-title="Incheon United Club vs Ulsan HD FC 14:30 ngày 11/04 Korean K League 1", Incheon United Club vs Ulsan HD FC 14:30 ngày 11/04 Korean K League 1 (Link 2)
 https://live.alilicloud.com/live/f9d8496739f58458c04b348f566e5889/playlist.m3u8
-#EXTINF:-1 tvg-id="601359403" group-title="Gwangju Football Club vs Bucheon FC 1995 14:30 ngày 11/04 Korean K League 1", Gwangju Football Club vs Bucheon FC 1995 14:30 ngày 11/04 Korean K League 1
-https://cdn-hls.taoxanh.biz/live/69d9f3bc24441_124958/index.m3u8?expire=1776496188&amp;sign=ecf436747db71bf9b79bde344489d034
-#EXTINF:-1 tvg-id="601373149" group-title="Yuki FUKUSHIMA / Mayu MATSUMOTO vs LI Yi Jing / LUO Xu Min 13:40 ngày 11/04 Sân 1 - BANK OF NINGBO Badminton Asia Championships 2026", Yuki FUKUSHIMA / Mayu MATSUMOTO vs LI Yi Jing / LUO Xu Min 13:40 ngày 11/04 Sân 1 - BANK OF NINGBO Badminton Asia Championships 2026 (Link 1)
+#EXTINF:-1 tvg-id="601373149" group-title="Akane YAMAGUCHI vs WANG Z Y 14:55 ngày 11/04 Sân 1 - BANK OF NINGBO Badminton Asia Championships 2026", Akane YAMAGUCHI vs WANG Z Y 14:55 ngày 11/04 Sân 1 - BANK OF NINGBO Badminton Asia Championships 2026 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69d9a4ad24441_4439/index.m3u8?expire=1776475949&amp;sign=0f316e926d282ee5e4562e1d2f0a58f8
-#EXTINF:-1 tvg-id="601373149" group-title="Yuki FUKUSHIMA / Mayu MATSUMOTO vs LI Yi Jing / LUO Xu Min 13:40 ngày 11/04 Sân 1 - BANK OF NINGBO Badminton Asia Championships 2026", Yuki FUKUSHIMA / Mayu MATSUMOTO vs LI Yi Jing / LUO Xu Min 13:40 ngày 11/04 Sân 1 - BANK OF NINGBO Badminton Asia Championships 2026 (Link 2)
+#EXTINF:-1 tvg-id="601373149" group-title="Akane YAMAGUCHI vs WANG Z Y 14:55 ngày 11/04 Sân 1 - BANK OF NINGBO Badminton Asia Championships 2026", Akane YAMAGUCHI vs WANG Z Y 14:55 ngày 11/04 Sân 1 - BANK OF NINGBO Badminton Asia Championships 2026 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69d9df4dbeb23_142210/index.m3u8?expire=1776490957&amp;sign=0151eecfd4fc2415e83db9f16057e365
 #EXTINF:-1 tvg-id="601359406" group-title="Hwaseong FC vs Jeonnam Dragons 14:30 ngày 11/04 Korean K League 2", Hwaseong FC vs Jeonnam Dragons 14:30 ngày 11/04 Korean K League 2
 https://live.alilicloud.com/live/dd144b077a44e82f46254c1ce1f8d619/playlist.m3u8
 #EXTINF:-1 tvg-id="601370935" group-title="LB Bank Ninh Bình vs TP Hồ Chí Minh 14:30 ngày 11/04 Giải bóng chuyền VĐQG 2026", LB Bank Ninh Bình vs TP Hồ Chí Minh 14:30 ngày 11/04 Giải bóng chuyền VĐQG 2026
 https://cdn-hls.taoxanh.biz/live/69d9c14724441_88642/index.m3u8?expire=1776483271&amp;sign=891f5b280e983f3bf39938bed4313716
-#EXTINF:-1 tvg-id="601359316" group-title="Shao Jiang vs S.L. Benfica de Macau 13:00 ngày 11/04 Chinese Macao Liga de Elite", Shao Jiang vs S.L. Benfica de Macau 13:00 ngày 11/04 Chinese Macao Liga de Elite
-https://live.alilicloud.com/live/abffdb0d77384f8eaab89d00d47e219e/playlist.m3u8
-#EXTINF:-1 tvg-id="601359301" group-title="Daejeon Korail vs Siheung City 13:00 ngày 11/04 Korean K League 3", Daejeon Korail vs Siheung City 13:00 ngày 11/04 Korean K League 3
-https://live.alilicloud.com/live/73d86e21331cfebd1d057ec15673cf23/playlist.m3u8
-#EXTINF:-1 tvg-id="601359298" group-title="Sutherland Sharks vs Rockdale City Suns 13:00 ngày 11/04 Australia New South Wales Premier League", Sutherland Sharks vs Rockdale City Suns 13:00 ngày 11/04 Australia New South Wales Premier League
-https://live.alilicloud.com/live/0383d34daa1185743b92ad77958b50cb/playlist.m3u8
-#EXTINF:-1 tvg-id="601359289" group-title="Robina City Blue vs St George Willawong FC 13:00 ngày 11/04 Australia Queensland State League 1", Robina City Blue vs St George Willawong FC 13:00 ngày 11/04 Australia Queensland State League 1
-https://live.alilicloud.com/live/f1f7b1b4f2eac2359c2ffce175f6e0ac/playlist.m3u8
-#EXTINF:-1 tvg-id="601370842" group-title="Adamstown Rosebud Reserves vs Maitland FC Reserves 13:00 ngày 11/04 Australia Northern New South Wales Reserves League", Adamstown Rosebud Reserves vs Maitland FC Reserves 13:00 ngày 11/04 Australia Northern New South Wales Reserves League
-https://live.alilicloud.com/live/3a45e5bf60b8920c27ba3f00120ea0da/playlist.m3u8
-#EXTINF:-1 tvg-id="601359319" group-title="Brisbane Olympic United FC vs Eastern Suburbs Brisbane 13:15 ngày 11/04 Australia National Premier Leagues Queensland", Brisbane Olympic United FC vs Eastern Suburbs Brisbane 13:15 ngày 11/04 Australia National Premier Leagues Queensland
-https://live.alilicloud.com/live/0a13ba94c6f56ac7226ee34819035760/playlist.m3u8
-#EXTINF:-1 tvg-id="601359322" group-title="Oakleigh Cannons vs Hume City 13:30 ngày 11/04 National Premier Leagues Victoria", Oakleigh Cannons vs Hume City 13:30 ngày 11/04 National Premier Leagues Victoria
-https://live.alilicloud.com/live/142f69a06db5bb26e4896da77e38044f/playlist.m3u8
 #EXTINF:-1 tvg-id="601369327" group-title="New Lambton FC (w) vs Newcastle Olympic FC (w) 13:30 ngày 11/04 Australia New South Wales Women's Premier League", New Lambton FC (w) vs Newcastle Olympic FC (w) 13:30 ngày 11/04 Australia New South Wales Women's Premier League
 https://live.alilicloud.com/live/0af7d183110d9fafe117fa025372f237/playlist.m3u8
 #EXTINF:-1 tvg-id="601359328" group-title="Riverside Olympic vs Devonport City 13:45 ngày 11/04 Australia Tasmania National Premier League", Riverside Olympic vs Devonport City 13:45 ngày 11/04 Australia Tasmania National Premier League
@@ -51,52 +35,80 @@ https://live.alilicloud.com/live/6138c5a53090082402ee06f615b75717/playlist.m3u8
 https://live.alilicloud.com/live/8daa52d8504e32df013419bb4241828b/playlist.m3u8
 #EXTINF:-1 tvg-id="601359331" group-title="Eastern District SA vs Tai Po 14:00 ngày 11/04 Chinese Hong Kong Premier League", Eastern District SA vs Tai Po 14:00 ngày 11/04 Chinese Hong Kong Premier League
 https://live.alilicloud.com/live/52b96b8c7df781512f6b92cd7a41b150/playlist.m3u8
-#EXTINF:-1 tvg-id="601370854" group-title="Palm Beach Women vs Mitchelton (w) 14:00 ngày 11/04 Australia Queensland State Women's League", Palm Beach Women vs Mitchelton (w) 14:00 ngày 11/04 Australia Queensland State Women's League
-https://live.alilicloud.com/live/d645830a145fb6706ee7b8250ca3d36d/playlist.m3u8
-#EXTINF:-1 tvg-id="601370851" group-title="The Gap NPL (w) vs Logan Lightning (w) 14:00 ngày 11/04 Australia Queensland State Women's League", The Gap NPL (w) vs Logan Lightning (w) 14:00 ngày 11/04 Australia Queensland State Women's League
-https://live.alilicloud.com/live/30944f169f0a58628f711ed8ab4bee0b/playlist.m3u8
-#EXTINF:-1 tvg-id="601359442" group-title="Moreton Bay United Reserves vs SWQ Thunder 14:00 ngày 11/04 QLD D2", Moreton Bay United Reserves vs SWQ Thunder 14:00 ngày 11/04 QLD D2
-https://live.alilicloud.com/live/6c3b21401ab509584f4f26cbf5b6bc95/playlist.m3u8
-#EXTINF:-1 tvg-id="601359439" group-title="Grange Thistle SC vs Virginia United 14:00 ngày 11/04 QLD D2", Grange Thistle SC vs Virginia United 14:00 ngày 11/04 QLD D2
-https://live.alilicloud.com/live/e998dd76bf9531991dfb0778ce4e5069/playlist.m3u8
-#EXTINF:-1 tvg-id="601359382" group-title="Hangzhou Team vs Jiaxing Team 14:00 ngày 11/04 Wuyue Cup", Hangzhou Team vs Jiaxing Team 14:00 ngày 11/04 Wuyue Cup
-https://live.alilicloud.com/live/cd8a9c8312adc70c4c8d500db5057d82/playlist.m3u8
-#EXTINF:-1 tvg-id="601359337" group-title="Brisbane Strikers vs Sunshine Coast Wanderers FC 14:00 ngày 11/04 Australia Queensland State League 1", Brisbane Strikers vs Sunshine Coast Wanderers FC 14:00 ngày 11/04 Australia Queensland State League 1
-https://live.alilicloud.com/live/56bdaef271f3c5d193faa01389ef5265/playlist.m3u8
 #EXTINF:-1 tvg-id="601359349" group-title="Tahiti United FC vs Solomon Kings FC 14:00 ngày 11/04 OFC P L", Tahiti United FC vs Solomon Kings FC 14:00 ngày 11/04 OFC P L
 https://live.alilicloud.com/live/e0a0b6581d7fd543aab37268c981859e/playlist.m3u8
 #EXTINF:-1 tvg-id="601359361" group-title="Lijiang Team vs Kunming Team 14:00 ngày 11/04 Yunnan City Football League", Lijiang Team vs Kunming Team 14:00 ngày 11/04 Yunnan City Football League
 https://live.alilicloud.com/live/2b578baf5857bdf81f379080da697f76/playlist.m3u8
 #EXTINF:-1 tvg-id="601359364" group-title="Zhaotong Team vs Baoshan Team 14:00 ngày 11/04 Yunnan City Football League", Zhaotong Team vs Baoshan Team 14:00 ngày 11/04 Yunnan City Football League
 https://live.alilicloud.com/live/d34cd3f68b790742fee04ee4fc67d1f1/playlist.m3u8
+#EXTINF:-1 tvg-id="601359337" group-title="Brisbane Strikers vs Sunshine Coast Wanderers FC 14:00 ngày 11/04 Australia Queensland State League 1", Brisbane Strikers vs Sunshine Coast Wanderers FC 14:00 ngày 11/04 Australia Queensland State League 1
+https://live.alilicloud.com/live/56bdaef271f3c5d193faa01389ef5265/playlist.m3u8
 #EXTINF:-1 tvg-id="601359367" group-title="Diqing Team vs Yuxi Team 14:00 ngày 11/04 Yunnan City Football League", Diqing Team vs Yuxi Team 14:00 ngày 11/04 Yunnan City Football League
 https://live.alilicloud.com/live/7a00a424f9fb4589108e5767df8c9c0e/playlist.m3u8
+#EXTINF:-1 tvg-id="601370854" group-title="Palm Beach Women vs Mitchelton (w) 14:00 ngày 11/04 Australia Queensland State Women's League", Palm Beach Women vs Mitchelton (w) 14:00 ngày 11/04 Australia Queensland State Women's League
+https://live.alilicloud.com/live/d645830a145fb6706ee7b8250ca3d36d/playlist.m3u8
 #EXTINF:-1 tvg-id="601359370" group-title="Lincang Team vs Dali Team 14:00 ngày 11/04 Yunnan City Football League", Lincang Team vs Dali Team 14:00 ngày 11/04 Yunnan City Football League
 https://live.alilicloud.com/live/83a44d8ec6c45531e1bb3187b65e163d/playlist.m3u8
 #EXTINF:-1 tvg-id="601359373" group-title="Wenshan Team vs Dehong Team 14:00 ngày 11/04 Yunnan City Football League", Wenshan Team vs Dehong Team 14:00 ngày 11/04 Yunnan City Football League
 https://live.alilicloud.com/live/0520e2e2d94371bdd68aaf921c8a00f0/playlist.m3u8
 #EXTINF:-1 tvg-id="601359379" group-title="Shanxi Chongde Ronghai vs Shandong Taishan B 14:00 ngày 11/04 Chinese Football League 2", Shanxi Chongde Ronghai vs Shandong Taishan B 14:00 ngày 11/04 Chinese Football League 2
 https://live.alilicloud.com/live/5e08c48658f11a8f721a053e54d5184d/playlist.m3u8
+#EXTINF:-1 tvg-id="601359382" group-title="Hangzhou Team vs Jiaxing Team 14:00 ngày 11/04 Wuyue Cup", Hangzhou Team vs Jiaxing Team 14:00 ngày 11/04 Wuyue Cup
+https://live.alilicloud.com/live/cd8a9c8312adc70c4c8d500db5057d82/playlist.m3u8
 #EXTINF:-1 tvg-id="601359385" group-title="Zhoushan Team vs Lishui Team 14:00 ngày 11/04 Wuyue Cup", Zhoushan Team vs Lishui Team 14:00 ngày 11/04 Wuyue Cup
 https://live.alilicloud.com/live/8ad921f789fb27d54076878dd7700c92/playlist.m3u8
+#EXTINF:-1 tvg-id="601359439" group-title="Grange Thistle SC vs Virginia United 14:00 ngày 11/04 QLD D2", Grange Thistle SC vs Virginia United 14:00 ngày 11/04 QLD D2
+https://live.alilicloud.com/live/e998dd76bf9531991dfb0778ce4e5069/playlist.m3u8
+#EXTINF:-1 tvg-id="601359442" group-title="Moreton Bay United Reserves vs SWQ Thunder 14:00 ngày 11/04 QLD D2", Moreton Bay United Reserves vs SWQ Thunder 14:00 ngày 11/04 QLD D2
+https://live.alilicloud.com/live/6c3b21401ab509584f4f26cbf5b6bc95/playlist.m3u8
+#EXTINF:-1 tvg-id="601370851" group-title="The Gap NPL (w) vs Logan Lightning (w) 14:00 ngày 11/04 Australia Queensland State Women's League", The Gap NPL (w) vs Logan Lightning (w) 14:00 ngày 11/04 Australia Queensland State Women's League
+https://live.alilicloud.com/live/30944f169f0a58628f711ed8ab4bee0b/playlist.m3u8
 #EXTINF:-1 tvg-id="601359394" group-title="University NSW vs A.P.I.A. Leichhardt Tigers 14:15 ngày 11/04 Australia New South Wales Premier League", University NSW vs A.P.I.A. Leichhardt Tigers 14:15 ngày 11/04 Australia New South Wales Premier League
 https://live.alilicloud.com/live/dc0094b808ab955e4c1f360d76acf733/playlist.m3u8
 #EXTINF:-1 tvg-id="601359397" group-title="Dandenong City SC vs Bentleigh greens 14:15 ngày 11/04 National Premier Leagues Victoria", Dandenong City SC vs Bentleigh greens 14:15 ngày 11/04 National Premier Leagues Victoria
 https://live.alilicloud.com/live/0aefa27b96a9837009f0190d1ea162b9/playlist.m3u8
 #EXTINF:-1 tvg-id="601359424" group-title="Qingdao Red Lions vs Shanghai Second 14:30 ngày 11/04 Chinese Football League 2", Qingdao Red Lions vs Shanghai Second 14:30 ngày 11/04 Chinese Football League 2
 https://live.alilicloud.com/live/61beab3f6b9b14471e08b352327aafec/playlist.m3u8
-#EXTINF:-1 tvg-id="601359409" group-title="Paju Citizen FC vs Seoul E-Land FC 14:30 ngày 11/04 Korean K League 2", Paju Citizen FC vs Seoul E-Land FC 14:30 ngày 11/04 Korean K League 2
-https://live.alilicloud.com/live/2bec448ced595956697459a616904b06/playlist.m3u8
-#EXTINF:-1 tvg-id="601359415" group-title="Changchun Yatai FC vs Shaanxi Union 14:30 ngày 11/04 Chinese Football League 1", Changchun Yatai FC vs Shaanxi Union 14:30 ngày 11/04 Chinese Football League 1
-https://live.alilicloud.com/live/cded73652cddd1bb53ef66ce89fc0425/playlist.m3u8
-#EXTINF:-1 tvg-id="601359418" group-title="Shanghai Jiading Huilong vs Shenzhen Juniors 14:30 ngày 11/04 Chinese Football League 1", Shanghai Jiading Huilong vs Shenzhen Juniors 14:30 ngày 11/04 Chinese Football League 1
-https://live.alilicloud.com/live/197b117232501e966cd652e97fb2f664/playlist.m3u8
 #EXTINF:-1 tvg-id="601359421" group-title="Nanchong Team vs Dazhou Team 14:30 ngày 11/04 Sichuan City Football League", Nanchong Team vs Dazhou Team 14:30 ngày 11/04 Sichuan City Football League
 https://live.alilicloud.com/live/50a3756a761b316517dba3b9829dfbfe/playlist.m3u8
-#EXTINF:-1 tvg-id="601359496" group-title="Borneo FC vs PSBS Biak Numfor  15:30 ngày 11/04 Indonesian Liga 1", Borneo FC vs PSBS Biak Numfor  15:30 ngày 11/04 Indonesian Liga 1
-https://cdn-hls.taoxanh.biz/live/69d9f849beb24_85514/index.m3u8?expire=1776497353&amp;sign=8639181169a23c922cd63e8aeafeb7d1
+#EXTINF:-1 tvg-id="601359418" group-title="Shanghai Jiading Huilong vs Shenzhen Juniors 14:30 ngày 11/04 Chinese Football League 1", Shanghai Jiading Huilong vs Shenzhen Juniors 14:30 ngày 11/04 Chinese Football League 1
+https://live.alilicloud.com/live/197b117232501e966cd652e97fb2f664/playlist.m3u8
+#EXTINF:-1 tvg-id="601359415" group-title="Changchun Yatai FC vs Shaanxi Union 14:30 ngày 11/04 Chinese Football League 1", Changchun Yatai FC vs Shaanxi Union 14:30 ngày 11/04 Chinese Football League 1
+https://live.alilicloud.com/live/cded73652cddd1bb53ef66ce89fc0425/playlist.m3u8
+#EXTINF:-1 tvg-id="601359409" group-title="Paju Citizen FC vs Seoul E-Land FC 14:30 ngày 11/04 Korean K League 2", Paju Citizen FC vs Seoul E-Land FC 14:30 ngày 11/04 Korean K League 2
+https://live.alilicloud.com/live/2bec448ced595956697459a616904b06/playlist.m3u8
+#EXTINF:-1 tvg-id="601358143" group-title="Kudrivka Nyva U21 vs Kryvbas U21 15:00 ngày 11/04 Ukrainian Youth Team Championship", Kudrivka Nyva U21 vs Kryvbas U21 15:00 ngày 11/04 Ukrainian Youth Team Championship
+https://live.alilicloud.com/live/7a9a49e58c6475aae0835610e465a877/playlist.m3u8
+#EXTINF:-1 tvg-id="601359475" group-title="Dalian Tornadoes vs Qingdao Quick Boy 15:00 ngày 11/04 Chinese Football Association Member Association Champions League", Dalian Tornadoes vs Qingdao Quick Boy 15:00 ngày 11/04 Chinese Football Association Member Association Champions League
+https://live.alilicloud.com/live/ccf18cdfa5d07f0c6c6286795b434dc7/playlist.m3u8
+#EXTINF:-1 tvg-id="601359472" group-title="Liaocheng legend vs Shanxi TYUT 15:00 ngày 11/04 Chinese Football Association Member Association Champions League", Liaocheng legend vs Shanxi TYUT 15:00 ngày 11/04 Chinese Football Association Member Association Champions League
+https://live.alilicloud.com/live/4dfd5bbdbc4f6bf499800a05215ce891/playlist.m3u8
+#EXTINF:-1 tvg-id="601359448" group-title="Pine Hills vs Southside Eagles 15:00 ngày 11/04 QLD D2", Pine Hills vs Southside Eagles 15:00 ngày 11/04 QLD D2
+https://live.alilicloud.com/live/c012f63d1da17248553a2de81afd5a98/playlist.m3u8
+#EXTINF:-1 tvg-id="601359436" group-title="Cooma Tigers vs Canberra White Eagles 15:00 ngày 11/04 Australia National Premier Leagues Capital Football 1", Cooma Tigers vs Canberra White Eagles 15:00 ngày 11/04 Australia National Premier Leagues Capital Football 1
+https://live.alilicloud.com/live/ebd0d265bc226559c14a688d471e30b5/playlist.m3u8
+#EXTINF:-1 tvg-id="601363063" group-title="Trinec vs Hranice KUNZ 15:15 ngày 11/04 Czech Third League", Trinec vs Hranice KUNZ 15:15 ngày 11/04 Czech Third League
+https://live.alilicloud.com/live/29c3edaee2856978d96921e593905297/playlist.m3u8
+#EXTINF:-1 tvg-id="601363060" group-title="Frydek-Mistek vs Vrchovina 15:15 ngày 11/04 Czech Third League", Frydek-Mistek vs Vrchovina 15:15 ngày 11/04 Czech Third League
+https://live.alilicloud.com/live/800824ab0ec019029b14245980d75d53/playlist.m3u8
+#EXTINF:-1 tvg-id="601359493" group-title="Mlada Boleslav B vs Jablonec B 15:15 ngày 11/04 Czech Third League", Mlada Boleslav B vs Jablonec B 15:15 ngày 11/04 Czech Third League
+https://live.alilicloud.com/live/d50b5654e1818c725f2cb6b2a2c6a217/playlist.m3u8
+#EXTINF:-1 tvg-id="601359490" group-title="FC Pisek vs Admira Praha 15:15 ngày 11/04 Czech Third League", FC Pisek vs Admira Praha 15:15 ngày 11/04 Czech Third League
+https://live.alilicloud.com/live/81454fa0005744309d869e3a54bdcbbd/playlist.m3u8
+#EXTINF:-1 tvg-id="601359484" group-title="SK Motorlet Praha vs Sokol Hostoun 15:15 ngày 11/04 Czech Third League", SK Motorlet Praha vs Sokol Hostoun 15:15 ngày 11/04 Czech Third League
+https://live.alilicloud.com/live/55bd56bda35e2d6d972319d3171daa88/playlist.m3u8
+#EXTINF:-1 tvg-id="601359481" group-title="Loko Vltavin vs Domazlice 15:15 ngày 11/04 Czech Third League", Loko Vltavin vs Domazlice 15:15 ngày 11/04 Czech Third League
+https://live.alilicloud.com/live/e4446fff57143e17e8b70f1b5b3fa365/playlist.m3u8
 #EXTINF:-1 tvg-id="601359904" group-title="Arsenal vs Bournemouth AFC 18:30 ngày 11/04 English Premier League", Arsenal vs Bournemouth AFC 18:30 ngày 11/04 English Premier League
 https://live.alilicloud.com/live/118a0fed00067680ccf7c9b4b4fd3f6c/playlist.m3u8
+#EXTINF:-1 tvg-id="601361953" group-title="FC Barcelona vs RCD Espanyol de Barcelona 23:30 ngày 11/04 Spanish La Liga", FC Barcelona vs RCD Espanyol de Barcelona 23:30 ngày 11/04 Spanish La Liga
+https://live.alilicloud.com/live/cef3214b8ce25e3139780a8bbc94ac39/playlist.m3u8
+#EXTINF:-1 tvg-id="601361941" group-title="Liverpool vs Fulham 23:30 ngày 11/04 English Premier League", Liverpool vs Fulham 23:30 ngày 11/04 English Premier League
+https://live.alilicloud.com/live/344c7ca542cb944663987eee8c2d3a4c/playlist.m3u8
+#EXTINF:-1 tvg-id="601359496" group-title="Borneo FC vs PSBS Biak Numfor  15:30 ngày 11/04 Indonesian Liga 1", Borneo FC vs PSBS Biak Numfor  15:30 ngày 11/04 Indonesian Liga 1
+https://cdn-hls.taoxanh.biz/live/69d9f849beb24_85514/index.m3u8?expire=1776497353&amp;sign=8639181169a23c922cd63e8aeafeb7d1
+#EXTINF:-1 tvg-id="601359625" group-title="Dong Tam Long An vs Van Hien University 16:00 ngày 11/04 Vietnam National First Class League", Dong Tam Long An vs Van Hien University 16:00 ngày 11/04 Vietnam National First Class League
+https://cdn-hls.taoxanh.biz/live/69da012424441_79/index.m3u8?expire=1776499620&amp;sign=a51af86cedb7267af22374155b13451b
 #EXTINF:-1 tvg-id="601360027" group-title="Real Sociedad vs Deportivo Alavés 19:00 ngày 11/04 Spanish La Liga", Real Sociedad vs Deportivo Alavés 19:00 ngày 11/04 Spanish La Liga
 https://live.alilicloud.com/live/8abe59732e0836549c03014746bdd451/playlist.m3u8
 #EXTINF:-1 tvg-id="601360372" group-title="Cagliari vs Cremonese 20:00 ngày 11/04 Italian Serie A", Cagliari vs Cremonese 20:00 ngày 11/04 Italian Serie A
@@ -115,9 +127,5 @@ https://live.alilicloud.com/live/03d34291b2e8bc294fac44e07d52b1ae/playlist.m3u8
 https://live.alilicloud.com/live/4bfc40bb094ae4c05c72759744946881/playlist.m3u8
 #EXTINF:-1 tvg-id="601361776" group-title="AC Milan vs Udinese 23:00 ngày 11/04 Italian Serie A", AC Milan vs Udinese 23:00 ngày 11/04 Italian Serie A
 https://live.alilicloud.com/live/4681e6e6b771fd95d6dee87f75705c58/playlist.m3u8
-#EXTINF:-1 tvg-id="601361941" group-title="Liverpool vs Fulham 23:30 ngày 11/04 English Premier League", Liverpool vs Fulham 23:30 ngày 11/04 English Premier League
-https://live.alilicloud.com/live/344c7ca542cb944663987eee8c2d3a4c/playlist.m3u8
 #EXTINF:-1 tvg-id="601361944" group-title="FC St. Pauli vs FC Bayern Munich 23:30 ngày 11/04 Bundesliga", FC St. Pauli vs FC Bayern Munich 23:30 ngày 11/04 Bundesliga
 https://live.alilicloud.com/live/da223ba5e5445b14484c2c5c5934f49a/playlist.m3u8
-#EXTINF:-1 tvg-id="601361953" group-title="FC Barcelona vs RCD Espanyol de Barcelona 23:30 ngày 11/04 Spanish La Liga", FC Barcelona vs RCD Espanyol de Barcelona 23:30 ngày 11/04 Spanish La Liga
-https://live.alilicloud.com/live/cef3214b8ce25e3139780a8bbc94ac39/playlist.m3u8
