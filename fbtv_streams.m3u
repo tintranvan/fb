@@ -1,68 +1,56 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601363657" group-title="AJ Auxerre vs FC Nantes 00:00 ngày 12/04 French Ligue 1", AJ Auxerre vs FC Nantes 00:00 ngày 12/04 French Ligue 1 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69da725a24441_88186/index.m3u8?expire=1776528602&amp;sign=49e4081eb5a80d2b0236aae222d743b8
-#EXTINF:-1 tvg-id="601363657" group-title="AJ Auxerre vs FC Nantes 00:00 ngày 12/04 French Ligue 1", AJ Auxerre vs FC Nantes 00:00 ngày 12/04 French Ligue 1 (Link 2)
-https://live.alilicloud.com/live/963d1e1804e2f614bbfaa3463c30d289/playlist.m3u8
+#EXTINF:-1 tvg-id="601363813" group-title="Enppi vs Ceramica Cleopatra FC 01:00 ngày 12/04 Egyptian Premier League", Enppi vs Ceramica Cleopatra FC 01:00 ngày 12/04 Egyptian Premier League
+https://cdn-hls.taoxanh.biz/live/69da8550beb25_136682/index.m3u8?expire=1776533456&amp;sign=40649efde57f971b70710da96295a629
 #EXTINF:-1 tvg-id="601363780" group-title="Al-Okhdood vs Al Nassr FC 01:00 ngày 12/04 Saudi Professional League", Al-Okhdood vs Al Nassr FC 01:00 ngày 12/04 Saudi Professional League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69da835ebeb25_73445/index.m3u8?expire=1776532958&amp;sign=07ae37909d2cff87820e50f7d55f2f6f
 #EXTINF:-1 tvg-id="601363780" group-title="Al-Okhdood vs Al Nassr FC 01:00 ngày 12/04 Saudi Professional League", Al-Okhdood vs Al Nassr FC 01:00 ngày 12/04 Saudi Professional League (Link 2)
 https://live.alilicloud.com/live/8d54ae73932c29257a8c784df14ba3b2/playlist.m3u8
-#EXTINF:-1 tvg-id="601363813" group-title="Enppi vs Ceramica Cleopatra FC 01:00 ngày 12/04 Egyptian Premier League", Enppi vs Ceramica Cleopatra FC 01:00 ngày 12/04 Egyptian Premier League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69da8550beb25_136682/index.m3u8?expire=1776533456&amp;sign=40649efde57f971b70710da96295a629
-#EXTINF:-1 tvg-id="601363813" group-title="Enppi vs Ceramica Cleopatra FC 01:00 ngày 12/04 Egyptian Premier League", Enppi vs Ceramica Cleopatra FC 01:00 ngày 12/04 Egyptian Premier League (Link 2)
-https://live.alilicloud.com/live/c93189509a4bd4d05d0d9dd922196720/playlist.m3u8
-#EXTINF:-1 tvg-id="601373644" group-title="Jeremy BURY vs Chiêm Hồng Thái 00:00 ngày 12/04 BOGOTA WORLDCUP 2026", Jeremy BURY vs Chiêm Hồng Thái 00:00 ngày 12/04 BOGOTA WORLDCUP 2026
-https://cdn-hls.taoxanh.biz/live/69da7a26beb25_144313/index.m3u8?expire=1776530598&amp;sign=f614838e4bd78d4d52ad7fea83b598c5
+#EXTINF:-1 tvg-id="601363882" group-title="Atalanta vs Juventus 01:45 ngày 12/04 Italian Serie A", Atalanta vs Juventus 01:45 ngày 12/04 Italian Serie A (Link 1)
+https://cdn-hls.taoxanh.biz/live/69da936a24441_151255/index.m3u8?expire=1776537066&amp;sign=765828360173b10081420d47f650ff99
+#EXTINF:-1 tvg-id="601363882" group-title="Atalanta vs Juventus 01:45 ngày 12/04 Italian Serie A", Atalanta vs Juventus 01:45 ngày 12/04 Italian Serie A (Link 2)
+https://live.alilicloud.com/live/c37e5c42e35596ee455065f662faf20c/playlist.m3u8
+#EXTINF:-1 tvg-id="601363888" group-title="Heracles Almelo vs AFC Ajax 02:00 ngày 12/04 Netherlands Eredivisie", Heracles Almelo vs AFC Ajax 02:00 ngày 12/04 Netherlands Eredivisie (Link 1)
+https://cdn-hls.taoxanh.biz/live/69da923324441_44731/index.m3u8?expire=1776536755&amp;sign=a0bf9423c99c60ef2df90c99d0b9f05f
+#EXTINF:-1 tvg-id="601363888" group-title="Heracles Almelo vs AFC Ajax 02:00 ngày 12/04 Netherlands Eredivisie", Heracles Almelo vs AFC Ajax 02:00 ngày 12/04 Netherlands Eredivisie (Link 2)
+https://live.alilicloud.com/live/f9fc5884b81a6c4bd4bfb997ac20196e/playlist.m3u8
+#EXTINF:-1 tvg-id="601363891" group-title="Sevilla FC vs Atletico Madrid 02:00 ngày 12/04 Spanish La Liga", Sevilla FC vs Atletico Madrid 02:00 ngày 12/04 Spanish La Liga (Link 1)
+https://cdn-hls.taoxanh.biz/live/69da938cbeb25_79/index.m3u8?expire=1776537100&amp;sign=f96195f0e9f5d25973ed4961816f1329
+#EXTINF:-1 tvg-id="601363891" group-title="Sevilla FC vs Atletico Madrid 02:00 ngày 12/04 Spanish La Liga", Sevilla FC vs Atletico Madrid 02:00 ngày 12/04 Spanish La Liga (Link 2)
+https://cdn-hls.taoxanh.biz/live/69da916024441_4908/index.m3u8?expire=1776536544&amp;sign=5c94d5fec5b52f1a429fcbadd7453a89
+#EXTINF:-1 tvg-id="601363891" group-title="Sevilla FC vs Atletico Madrid 02:00 ngày 12/04 Spanish La Liga", Sevilla FC vs Atletico Madrid 02:00 ngày 12/04 Spanish La Liga (Link 3)
+https://live.alilicloud.com/live/eb96d80a952d570245847baade2996f3/playlist.m3u8
+#EXTINF:-1 tvg-id="601363942" group-title="Stade Rennais FC vs Angers SCO 02:05 ngày 12/04 French Ligue 1", Stade Rennais FC vs Angers SCO 02:05 ngày 12/04 French Ligue 1 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69da96cdbeb25_88186/index.m3u8?expire=1776537933&amp;sign=965da052ffb2305ab778f20041efb39c
+#EXTINF:-1 tvg-id="601363942" group-title="Stade Rennais FC vs Angers SCO 02:05 ngày 12/04 French Ligue 1", Stade Rennais FC vs Angers SCO 02:05 ngày 12/04 French Ligue 1 (Link 2)
+https://live.alilicloud.com/live/2b2018d51c13e20480fc50d1c4df93bb/playlist.m3u8
 #EXTINF:-1 tvg-id="601373575" group-title="Tyson Fury vs Arslanbek Makhmudov 21:00 ngày 11/04 Netflix", Tyson Fury vs Arslanbek Makhmudov 21:00 ngày 11/04 Netflix
 https://cdn-hls.taoxanh.biz/live/69da591d24441_85706/index.m3u8?expire=1776522141&amp;sign=e10191e8a3903ff68269ad07b6e1016e
-#EXTINF:-1 tvg-id="601363690" group-title="SL Benfica B vs Uniao Leiria 00:00 ngày 12/04 Liga Portugal 2", SL Benfica B vs Uniao Leiria 00:00 ngày 12/04 Liga Portugal 2 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69da683924441_124958/index.m3u8?expire=1776526009&amp;sign=c26ffca4d8e834df17224ffccb258d0a
-#EXTINF:-1 tvg-id="601363690" group-title="SL Benfica B vs Uniao Leiria 00:00 ngày 12/04 Liga Portugal 2", SL Benfica B vs Uniao Leiria 00:00 ngày 12/04 Liga Portugal 2 (Link 2)
-https://live.alilicloud.com/live/83da013cadda1227bcb16dae8076e6ee/playlist.m3u8
-#EXTINF:-1 tvg-id="601373809" group-title="Marco Zanetti vs Tayfun Taşdemir 00:00 ngày 12/04 BOGOTA WORLDCUP 2026", Marco Zanetti vs Tayfun Taşdemir 00:00 ngày 12/04 BOGOTA WORLDCUP 2026
-https://cdn-hls.taoxanh.biz/live/69da7aac24441_142246/index.m3u8?expire=1776530732&amp;sign=ec0f753da0f729cba1496356c8c7a65d
-#EXTINF:-1 tvg-id="601373815" group-title="Luis MARTINEZ vs Myung Woo CHO 00:00 ngày 12/04 BOGOTA WORLDCUP 2026", Luis MARTINEZ vs Myung Woo CHO 00:00 ngày 12/04 BOGOTA WORLDCUP 2026
+#EXTINF:-1 tvg-id="601373815" group-title="Dick Jaspers vs W.Y. CHOI 02:00 ngày 12/04 BOGOTA WORLDCUP 2026", Dick Jaspers vs W.Y. CHOI 02:00 ngày 12/04 BOGOTA WORLDCUP 2026
 https://cdn-hls.taoxanh.biz/live/69da8240beb25_142210/index.m3u8?expire=1776532672&amp;sign=ca821b7dc2639c5009edca6535f73383
-#EXTINF:-1 tvg-id="601361980" group-title="Sparta Rotterdam vs PSV Eindhoven 23:45 ngày 11/04 Netherlands Eredivisie", Sparta Rotterdam vs PSV Eindhoven 23:45 ngày 11/04 Netherlands Eredivisie
-https://live.alilicloud.com/live/38cefb3f887ecd82e669efc71d9716f6/playlist.m3u8
-#EXTINF:-1 tvg-id="601363669" group-title="Ironi Tiberias vs Ashdod MS 00:00 ngày 12/04 Israel Premier League", Ironi Tiberias vs Ashdod MS 00:00 ngày 12/04 Israel Premier League
-https://live.alilicloud.com/live/a7ba191dafabecddb994e610757cb6d9/playlist.m3u8
-#EXTINF:-1 tvg-id="601363666" group-title="Hapoel Petah Tikva vs Hapoel Tel Aviv 00:00 ngày 12/04 Israel Premier League", Hapoel Petah Tikva vs Hapoel Tel Aviv 00:00 ngày 12/04 Israel Premier League
-https://live.alilicloud.com/live/efac2db5e197ae58ded7a31e9f87830b/playlist.m3u8
-#EXTINF:-1 tvg-id="601363708" group-title="Fotbal Club FCSB vs FC Otelul Galati 00:00 ngày 12/04 Romanian Liga I", Fotbal Club FCSB vs FC Otelul Galati 00:00 ngày 12/04 Romanian Liga I
-https://live.alilicloud.com/live/557f544f232d170680b52aefa01d429c/playlist.m3u8
-#EXTINF:-1 tvg-id="601363672" group-title="Maccabi Netanya vs Hapoel Haifa 00:00 ngày 12/04 Israel Premier League", Maccabi Netanya vs Hapoel Haifa 00:00 ngày 12/04 Israel Premier League
-https://live.alilicloud.com/live/a0006065eb9a3cdf96eaf6a5b306bfed/playlist.m3u8
-#EXTINF:-1 tvg-id="601363675" group-title="Hapoel Bnei Sakhnin FC vs Maccabi Bnei Reineh 00:00 ngày 12/04 Israel Premier League", Hapoel Bnei Sakhnin FC vs Maccabi Bnei Reineh 00:00 ngày 12/04 Israel Premier League
-https://live.alilicloud.com/live/09e47b1547d4d0585322861a8289552b/playlist.m3u8
-#EXTINF:-1 tvg-id="601363684" group-title="Kayserispor vs Fenerbahce 00:00 ngày 12/04 Turkish Super League", Kayserispor vs Fenerbahce 00:00 ngày 12/04 Turkish Super League
-https://live.alilicloud.com/live/9c48336d9ba2a6a922ee5eb037af6dcb/playlist.m3u8
-#EXTINF:-1 tvg-id="601363693" group-title="GD Chaves vs SCU Torreense 00:00 ngày 12/04 Liga Portugal 2", GD Chaves vs SCU Torreense 00:00 ngày 12/04 Liga Portugal 2
-https://live.alilicloud.com/live/fcd1a855a169340726268ba80b4e143e/playlist.m3u8
-#EXTINF:-1 tvg-id="601363696" group-title="Santa Clara vs Rio Ave 00:00 ngày 12/04 Portuguese Primera Liga", Santa Clara vs Rio Ave 00:00 ngày 12/04 Portuguese Primera Liga
-https://live.alilicloud.com/live/c643200a72f6eb299a7c0b2d9ff6e852/playlist.m3u8
-#EXTINF:-1 tvg-id="601363705" group-title="FC Torpedo Zhodino vs Dinamo Minsk 00:00 ngày 12/04 Belarusian Premier League", FC Torpedo Zhodino vs Dinamo Minsk 00:00 ngày 12/04 Belarusian Premier League
-https://live.alilicloud.com/live/b329e4210697b2f3e3780c1922c03bce/playlist.m3u8
-#EXTINF:-1 tvg-id="601363702" group-title="Toronto FC vs FC Cincinnati 00:10 ngày 12/04 United States Major League Soccer", Toronto FC vs FC Cincinnati 00:10 ngày 12/04 United States Major League Soccer
-https://live.alilicloud.com/live/baca0982fbb772a3f6218e6244df8839/playlist.m3u8
-#EXTINF:-1 tvg-id="601363720" group-title="Gornik Leczna vs Chrobry Glogow 00:30 ngày 12/04 Poland Liga 1", Gornik Leczna vs Chrobry Glogow 00:30 ngày 12/04 Poland Liga 1
-https://live.alilicloud.com/live/185d332187f16cc7560646a16e6ea85d/playlist.m3u8
-#EXTINF:-1 tvg-id="601363723" group-title="Ruch Chorzow vs KS Wieczysta Krakow 00:30 ngày 12/04 Poland Liga 1", Ruch Chorzow vs KS Wieczysta Krakow 00:30 ngày 12/04 Poland Liga 1
-https://live.alilicloud.com/live/e5ae5e6ce4fb0e2dd98dce80a0a32a0a/playlist.m3u8
-#EXTINF:-1 tvg-id="601363726" group-title="Stal Mielec vs Stal Rzeszow 00:30 ngày 12/04 Poland Liga 1", Stal Mielec vs Stal Rzeszow 00:30 ngày 12/04 Poland Liga 1
-https://live.alilicloud.com/live/bcad7e9e5cf5fd2e470f9dcfb612c265/playlist.m3u8
+#EXTINF:-1 tvg-id="601373809" group-title="Frederic CAUDRON vs Martin HORN 02:00 ngày 12/04 BOGOTA WORLDCUP 2026", Frederic CAUDRON vs Martin HORN 02:00 ngày 12/04 BOGOTA WORLDCUP 2026
+https://cdn-hls.taoxanh.biz/live/69da7aac24441_142246/index.m3u8?expire=1776530732&amp;sign=ec0f753da0f729cba1496356c8c7a65d
 #EXTINF:-1 tvg-id="601363735" group-title="FC Ordino vs CE Carroi 00:30 ngày 12/04 Andorran Primera Divisio", FC Ordino vs CE Carroi 00:30 ngày 12/04 Andorran Primera Divisio
 https://live.alilicloud.com/live/3d2e68ccf668568033ee86acaa3f3b1c/playlist.m3u8
+#EXTINF:-1 tvg-id="601363726" group-title="Stal Mielec vs Stal Rzeszow 00:30 ngày 12/04 Poland Liga 1", Stal Mielec vs Stal Rzeszow 00:30 ngày 12/04 Poland Liga 1
+https://live.alilicloud.com/live/bcad7e9e5cf5fd2e470f9dcfb612c265/playlist.m3u8
+#EXTINF:-1 tvg-id="601363723" group-title="Ruch Chorzow vs KS Wieczysta Krakow 00:30 ngày 12/04 Poland Liga 1", Ruch Chorzow vs KS Wieczysta Krakow 00:30 ngày 12/04 Poland Liga 1
+https://live.alilicloud.com/live/e5ae5e6ce4fb0e2dd98dce80a0a32a0a/playlist.m3u8
+#EXTINF:-1 tvg-id="601363720" group-title="Gornik Leczna vs Chrobry Glogow 00:30 ngày 12/04 Poland Liga 1", Gornik Leczna vs Chrobry Glogow 00:30 ngày 12/04 Poland Liga 1
+https://live.alilicloud.com/live/185d332187f16cc7560646a16e6ea85d/playlist.m3u8
 #EXTINF:-1 tvg-id="601363744" group-title="Monza vs Bari 00:30 ngày 12/04 Italian Serie B", Monza vs Bari 00:30 ngày 12/04 Italian Serie B
 https://live.alilicloud.com/live/469db3e2b10f8a780af95d8ff6e74eff/playlist.m3u8
 #EXTINF:-1 tvg-id="601363750" group-title="FC Blau Weiss Linz vs WSG Tirol 00:30 ngày 12/04 Austrian Bundesliga", FC Blau Weiss Linz vs WSG Tirol 00:30 ngày 12/04 Austrian Bundesliga
 https://live.alilicloud.com/live/d091270c5631bf9ec2c99dd7c311b54b/playlist.m3u8
+#EXTINF:-1 tvg-id="601363777" group-title="AS Saint-Étienne vs USL Dunkerque 01:00 ngày 12/04 French Ligue 2", AS Saint-Étienne vs USL Dunkerque 01:00 ngày 12/04 French Ligue 2
+https://live.alilicloud.com/live/9e988aad80fb41416b3d85c88f5b779e/playlist.m3u8
 #EXTINF:-1 tvg-id="601363786" group-title="SK Beveren vs KV Kortrijk 01:00 ngày 12/04 Belgian Second Division", SK Beveren vs KV Kortrijk 01:00 ngày 12/04 Belgian Second Division
 https://live.alilicloud.com/live/95279a37204045591d7d635620ad44d3/playlist.m3u8
 #EXTINF:-1 tvg-id="601363789" group-title="Francs Borains vs Genk U23 01:00 ngày 12/04 Belgian Second Division", Francs Borains vs Genk U23 01:00 ngày 12/04 Belgian Second Division
 https://live.alilicloud.com/live/174011fcbcf87d17d7d1a23c2a057a0a/playlist.m3u8
 #EXTINF:-1 tvg-id="601363792" group-title="KVSK Lommel vs Club Brugge KV U23 01:00 ngày 12/04 Belgian Second Division", KVSK Lommel vs Club Brugge KV U23 01:00 ngày 12/04 Belgian Second Division
 https://live.alilicloud.com/live/2ebe4f313ef64f93eca9454f0684ccb3/playlist.m3u8
+#EXTINF:-1 tvg-id="601363759" group-title="Nyiregyhaza vs Paksi FC 01:00 ngày 12/04 OTP Bank Liga", Nyiregyhaza vs Paksi FC 01:00 ngày 12/04 OTP Bank Liga
+https://live.alilicloud.com/live/b7780ed4c3f85df91305b16d1fb3d13d/playlist.m3u8
 #EXTINF:-1 tvg-id="601363795" group-title="Olympic Charleroi vs Lierse Kempenzonen 01:00 ngày 12/04 Belgian Second Division", Olympic Charleroi vs Lierse Kempenzonen 01:00 ngày 12/04 Belgian Second Division
 https://live.alilicloud.com/live/850cbb32e921775153b57fd0b7f710fa/playlist.m3u8
 #EXTINF:-1 tvg-id="601363798" group-title="Deportivo Riestra vs Instituto de Córdoba 01:00 ngày 12/04 Argentine Division 1", Deportivo Riestra vs Instituto de Córdoba 01:00 ngày 12/04 Argentine Division 1
@@ -71,31 +59,43 @@ https://live.alilicloud.com/live/d70b693eabc874e39b6fde38f4f367b6/playlist.m3u8
 https://live.alilicloud.com/live/dab482b5d7e4b58e51c471d44ec6aedf/playlist.m3u8
 #EXTINF:-1 tvg-id="601363810" group-title="Al Ahly FC vs Smouha SC 01:00 ngày 12/04 Egyptian Premier League", Al Ahly FC vs Smouha SC 01:00 ngày 12/04 Egyptian Premier League
 https://live.alilicloud.com/live/6b0ede70f0e623c8a27ca6b064537b71/playlist.m3u8
-#EXTINF:-1 tvg-id="601363777" group-title="AS Saint-Étienne vs USL Dunkerque 01:00 ngày 12/04 French Ligue 2", AS Saint-Étienne vs USL Dunkerque 01:00 ngày 12/04 French Ligue 2
-https://live.alilicloud.com/live/9e988aad80fb41416b3d85c88f5b779e/playlist.m3u8
-#EXTINF:-1 tvg-id="601363759" group-title="Nyiregyhaza vs Paksi FC 01:00 ngày 12/04 OTP Bank Liga", Nyiregyhaza vs Paksi FC 01:00 ngày 12/04 OTP Bank Liga
-https://live.alilicloud.com/live/b7780ed4c3f85df91305b16d1fb3d13d/playlist.m3u8
 #EXTINF:-1 tvg-id="601363756" group-title="Groningen vs Go Ahead Eagles 01:10 ngày 12/04 Netherlands Eredivisie", Groningen vs Go Ahead Eagles 01:10 ngày 12/04 Netherlands Eredivisie
 https://live.alilicloud.com/live/73934e7af38177ea064ff78792b0065e/playlist.m3u8
-#EXTINF:-1 tvg-id="601363825" group-title="Legia Warszawa vs Gornik Zabrze 01:15 ngày 12/04 PKO Bank Polski EKSTRAKLASA", Legia Warszawa vs Gornik Zabrze 01:15 ngày 12/04 PKO Bank Polski EKSTRAKLASA
-https://live.alilicloud.com/live/d17b269611c159f90e256ab040a7898b/playlist.m3u8
 #EXTINF:-1 tvg-id="601363828" group-title="Radomlje vs NK Publikum Celje 01:15 ngày 12/04 Slovenia 1.Liga", Radomlje vs NK Publikum Celje 01:15 ngày 12/04 Slovenia 1.Liga
 https://live.alilicloud.com/live/71f8c884f2d2e462a48f8c9cdf500f29/playlist.m3u8
-#EXTINF:-1 tvg-id="601363831" group-title="SV Darmstadt 98 vs Hannover 96 01:30 ngày 12/04 German Bundesliga 2", SV Darmstadt 98 vs Hannover 96 01:30 ngày 12/04 German Bundesliga 2
-https://live.alilicloud.com/live/8be7eaec5ff1ba7b1a95a0bab23fe6ed/playlist.m3u8
+#EXTINF:-1 tvg-id="601363825" group-title="Legia Warszawa vs Gornik Zabrze 01:15 ngày 12/04 PKO Bank Polski EKSTRAKLASA", Legia Warszawa vs Gornik Zabrze 01:15 ngày 12/04 PKO Bank Polski EKSTRAKLASA
+https://live.alilicloud.com/live/d17b269611c159f90e256ab040a7898b/playlist.m3u8
+#EXTINF:-1 tvg-id="601363849" group-title="Almagro vs Patronato Parana 01:30 ngày 12/04 Argentine Division 2", Almagro vs Patronato Parana 01:30 ngày 12/04 Argentine Division 2
+https://live.alilicloud.com/live/1db394d0b8023317cf2e4f9295805757/playlist.m3u8
+#EXTINF:-1 tvg-id="601363879" group-title="Defensor Sporting Montevideo vs Boston River 01:30 ngày 12/04 Uruguay Primera Division", Defensor Sporting Montevideo vs Boston River 01:30 ngày 12/04 Uruguay Primera Division
+https://live.alilicloud.com/live/3028d2fae6dfac58ceed4208ab9c1f73/playlist.m3u8
 #EXTINF:-1 tvg-id="601363852" group-title="CA San Miguel vs Deportivo Moron 01:30 ngày 12/04 Argentine Division 2", CA San Miguel vs Deportivo Moron 01:30 ngày 12/04 Argentine Division 2
 https://live.alilicloud.com/live/6fd76d3c4ae6c1a612a6f6ddb46aa249/playlist.m3u8
-#EXTINF:-1 tvg-id="601363882" group-title="Atalanta vs Juventus 01:45 ngày 12/04 Italian Serie A", Atalanta vs Juventus 01:45 ngày 12/04 Italian Serie A
-https://cdn-hls.taoxanh.biz/live/69da936a24441_151255/index.m3u8?expire=1776537066&amp;sign=765828360173b10081420d47f650ff99
-#EXTINF:-1 tvg-id="601363888" group-title="Heracles Almelo vs AFC Ajax 02:00 ngày 12/04 Netherlands Eredivisie", Heracles Almelo vs AFC Ajax 02:00 ngày 12/04 Netherlands Eredivisie
-https://cdn-hls.taoxanh.biz/live/69da923324441_44731/index.m3u8?expire=1776536755&amp;sign=a0bf9423c99c60ef2df90c99d0b9f05f
-#EXTINF:-1 tvg-id="601363891" group-title="Sevilla FC vs Atletico Madrid 02:00 ngày 12/04 Spanish La Liga", Sevilla FC vs Atletico Madrid 02:00 ngày 12/04 Spanish La Liga (Link 1)
-https://cdn-hls.taoxanh.biz/live/69da938cbeb25_79/index.m3u8?expire=1776537100&amp;sign=f96195f0e9f5d25973ed4961816f1329
-#EXTINF:-1 tvg-id="601363891" group-title="Sevilla FC vs Atletico Madrid 02:00 ngày 12/04 Spanish La Liga", Sevilla FC vs Atletico Madrid 02:00 ngày 12/04 Spanish La Liga (Link 2)
-https://cdn-hls.taoxanh.biz/live/69da916024441_4908/index.m3u8?expire=1776536544&amp;sign=5c94d5fec5b52f1a429fcbadd7453a89
-#EXTINF:-1 tvg-id="601363891" group-title="Sevilla FC vs Atletico Madrid 02:00 ngày 12/04 Spanish La Liga", Sevilla FC vs Atletico Madrid 02:00 ngày 12/04 Spanish La Liga (Link 3)
-https://live.alilicloud.com/live/eb96d80a952d570245847baade2996f3/playlist.m3u8
-#EXTINF:-1 tvg-id="601363921" group-title="AS FAR Rabat vs Renaissance de Berkane 02:00 ngày 12/04 CAF Champions League", AS FAR Rabat vs Renaissance de Berkane 02:00 ngày 12/04 CAF Champions League
-https://cdn-hls.taoxanh.biz/live/69da935424441_85514/index.m3u8?expire=1776537044&amp;sign=89d617e2123a9df972496ff6cf109fe1
-#EXTINF:-1 tvg-id="601363942" group-title="Stade Rennais FC vs Angers SCO 02:05 ngày 12/04 French Ligue 1", Stade Rennais FC vs Angers SCO 02:05 ngày 12/04 French Ligue 1
-https://live.alilicloud.com/live/2b2018d51c13e20480fc50d1c4df93bb/playlist.m3u8
+#EXTINF:-1 tvg-id="601363831" group-title="SV Darmstadt 98 vs Hannover 96 01:30 ngày 12/04 German Bundesliga 2", SV Darmstadt 98 vs Hannover 96 01:30 ngày 12/04 German Bundesliga 2
+https://live.alilicloud.com/live/8be7eaec5ff1ba7b1a95a0bab23fe6ed/playlist.m3u8
+#EXTINF:-1 tvg-id="601364047" group-title="Independiente Rivadavia vs Argentinos Juniors 01:30 ngày 12/04 Argentine Division 1", Independiente Rivadavia vs Argentinos Juniors 01:30 ngày 12/04 Argentine Division 1
+https://live.alilicloud.com/live/3b1632d66188cffc97a31761db57abef/playlist.m3u8
+#EXTINF:-1 tvg-id="601363855" group-title="San Telmo vs Godoy Cruz Antonio Tomba 01:30 ngày 12/04 Argentine Division 2", San Telmo vs Godoy Cruz Antonio Tomba 01:30 ngày 12/04 Argentine Division 2
+https://live.alilicloud.com/live/2bf67758d7d4bcc20fdffb20e4304880/playlist.m3u8
+#EXTINF:-1 tvg-id="601363843" group-title="Austin FC vs Los Angeles Galaxy 01:40 ngày 12/04 United States Major League Soccer", Austin FC vs Los Angeles Galaxy 01:40 ngày 12/04 United States Major League Soccer
+https://live.alilicloud.com/live/7ef278b77be3fed0d5ade60a8497ee82/playlist.m3u8
+#EXTINF:-1 tvg-id="601363846" group-title="Montreal Impact vs Philadelphia Union 01:40 ngày 12/04 United States Major League Soccer", Montreal Impact vs Philadelphia Union 01:40 ngày 12/04 United States Major League Soccer
+https://live.alilicloud.com/live/fdcb0c30bb5c98f4c330bcecfcac6beb/playlist.m3u8
+#EXTINF:-1 tvg-id="601363885" group-title="Sint-Truidense vs Club Brugge 01:45 ngày 12/04 Belgian Pro League", Sint-Truidense vs Club Brugge 01:45 ngày 12/04 Belgian Pro League
+https://live.alilicloud.com/live/65c85c84c30d00f556c7313fa0c50a80/playlist.m3u8
+#EXTINF:-1 tvg-id="601369522" group-title="Canada Women vs Zambia Women 02:00 ngày 12/04 FIFA W Series", Canada Women vs Zambia Women 02:00 ngày 12/04 FIFA W Series
+https://live.alilicloud.com/live/f030f51745c572c3a81a300e5857f4d8/playlist.m3u8
+#EXTINF:-1 tvg-id="601363924" group-title="AcademiaDB vs Bolivar 02:00 ngày 12/04 Bolivian Primera Division", AcademiaDB vs Bolivar 02:00 ngày 12/04 Bolivian Primera Division
+https://live.alilicloud.com/live/910f9a36a1b5dd758a67ac01c9a256b1/playlist.m3u8
+#EXTINF:-1 tvg-id="601363915" group-title="Juventude vs Goiás EC 02:00 ngày 12/04 Brazilian Serie B", Juventude vs Goiás EC 02:00 ngày 12/04 Brazilian Serie B
+https://live.alilicloud.com/live/2724b68ff070912b01c63af9af57a479/playlist.m3u8
+#EXTINF:-1 tvg-id="601363912" group-title="Mushuc Runa vs Manta FC 02:00 ngày 12/04 LigaPro Serie A", Mushuc Runa vs Manta FC 02:00 ngày 12/04 LigaPro Serie A
+https://live.alilicloud.com/live/5b91a8a8e5549e9bb2b20802467f013e/playlist.m3u8
+#EXTINF:-1 tvg-id="601363906" group-title="Real Soacha Cundinamarca vs Tigres Zipaquira 02:00 ngày 12/04 Colombian Torneo BetPlay Dimayor", Real Soacha Cundinamarca vs Tigres Zipaquira 02:00 ngày 12/04 Colombian Torneo BetPlay Dimayor
+https://live.alilicloud.com/live/11220822d03945393fd73fff06ee50e0/playlist.m3u8
+#EXTINF:-1 tvg-id="601363900" group-title="Deportes La Serena vs Everton CD 02:00 ngày 12/04 Chilean Primera Division", Deportes La Serena vs Everton CD 02:00 ngày 12/04 Chilean Primera Division
+https://live.alilicloud.com/live/262dc80533bebfa9fdc5032872e0ffec/playlist.m3u8
+#EXTINF:-1 tvg-id="601363894" group-title="Cordoba vs Real Zaragoza 02:00 ngày 12/04 Spanish Segunda Division", Cordoba vs Real Zaragoza 02:00 ngày 12/04 Spanish Segunda Division
+https://live.alilicloud.com/live/437b73ef6d795d5087f6e979a75d7676/playlist.m3u8
+#EXTINF:-1 tvg-id="601363945" group-title="CF Estrela Amadora SAD vs Sporting CP 02:30 ngày 12/04 Portuguese Primera Liga", CF Estrela Amadora SAD vs Sporting CP 02:30 ngày 12/04 Portuguese Primera Liga
+https://cdn-hls.taoxanh.biz/live/69da9839beb25_128756/index.m3u8?expire=1776538297&amp;sign=cf9369996274c7d3d4b18f1e382ad3d2
