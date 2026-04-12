@@ -1,70 +1,44 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601367224" group-title="Athletic Club vs Villarreal CF 02:00 ngày 13/04 Spanish La Liga", Athletic Club vs Villarreal CF 02:00 ngày 13/04 Spanish La Liga (Link 1)
-https://cdn-hls.taoxanh.biz/live/69dbdc83beb28_151255/index.m3u8?expire=1776621315&amp;sign=f64d6eec9683e9aa873420850da32930
-#EXTINF:-1 tvg-id="601367224" group-title="Athletic Club vs Villarreal CF 02:00 ngày 13/04 Spanish La Liga", Athletic Club vs Villarreal CF 02:00 ngày 13/04 Spanish La Liga (Link 2)
-https://cdn-hls.taoxanh.biz/live/69dbeb9cbeb28_73445/index.m3u8?expire=1776625180&amp;sign=6c45dc7778cc7dc6f211487f422dc531
-#EXTINF:-1 tvg-id="601367224" group-title="Athletic Club vs Villarreal CF 02:00 ngày 13/04 Spanish La Liga", Athletic Club vs Villarreal CF 02:00 ngày 13/04 Spanish La Liga (Link 3)
-https://live.alilicloud.com/live/69ba18d0236c9f52148955b27838bc94/playlist.m3u8
 #EXTINF:-1 tvg-id="601367299" group-title="Estoril vs FC Porto 02:30 ngày 13/04 Portuguese Primera Liga", Estoril vs FC Porto 02:30 ngày 13/04 Portuguese Primera Liga (Link 1)
 https://cdn-hls.taoxanh.biz/live/69dbeaa0beb28_44731/index.m3u8?expire=1776624928&amp;sign=311be42fbee8809a6910a25dbd1a88d7
 #EXTINF:-1 tvg-id="601367299" group-title="Estoril vs FC Porto 02:30 ngày 13/04 Portuguese Primera Liga", Estoril vs FC Porto 02:30 ngày 13/04 Portuguese Primera Liga (Link 2)
 https://live.alilicloud.com/live/8ffaf43e6235d4972e736627ffd58bfe/playlist.m3u8
+#EXTINF:-1 tvg-id="601364113" group-title="Fluminense RJ vs CR Flamengo 04:00 ngày 13/04 Brazilian Serie A", Fluminense RJ vs CR Flamengo 04:00 ngày 13/04 Brazilian Serie A (Link 1)
+https://cdn-hls.taoxanh.biz/live/69dc0977beb28_74012/index.m3u8?expire=1776632823&amp;sign=d8ef4f1a73db7faf387ccc97ea8925e0
+#EXTINF:-1 tvg-id="601364113" group-title="Fluminense RJ vs CR Flamengo 04:00 ngày 13/04 Brazilian Serie A", Fluminense RJ vs CR Flamengo 04:00 ngày 13/04 Brazilian Serie A (Link 2)
+https://live.alilicloud.com/live/ef9f81ee3eac859e1eacc8e9cf50383b/playlist.m3u8
 #EXTINF:-1 tvg-id="601377958" group-title="Trần Thanh Lực vs Martin HORN 01:30 ngày 13/04 Table 1 -  BOGOTA World Cup 3-Cushion 2026", Trần Thanh Lực vs Martin HORN 01:30 ngày 13/04 Table 1 -  BOGOTA World Cup 3-Cushion 2026
 https://cdn-hls.taoxanh.biz/live/69dbd3edbeb27_144313/index.m3u8?expire=1776619117&amp;sign=58c43cec664e937fee901c80b76f3850
-#EXTINF:-1 tvg-id="601367296" group-title="Philadelphia Union II vs Carolina Core 02:00 ngày 13/04 MLS Next PL", Philadelphia Union II vs Carolina Core 02:00 ngày 13/04 MLS Next PL
-https://live.alilicloud.com/live/2140565ffb47332598631d2f11aff2aa/playlist.m3u8
-#EXTINF:-1 tvg-id="601367227" group-title="Racing Santander vs Almeria 02:00 ngày 13/04 Spanish Segunda Division", Racing Santander vs Almeria 02:00 ngày 13/04 Spanish Segunda Division
-https://live.alilicloud.com/live/5839b8ab46c4171c04886ee382ba2a1f/playlist.m3u8
-#EXTINF:-1 tvg-id="601367233" group-title="Botafogo RJ vs Coritiba PR 02:00 ngày 13/04 Brazilian Serie A", Botafogo RJ vs Coritiba PR 02:00 ngày 13/04 Brazilian Serie A
-https://live.alilicloud.com/live/70257b1e4e3f307969ddc1f885e09ae3/playlist.m3u8
-#EXTINF:-1 tvg-id="601367236" group-title="Agropecuario de Carlos Casares vs Gimnasia Jujuy 02:00 ngày 13/04 Argentine Division 2", Agropecuario de Carlos Casares vs Gimnasia Jujuy 02:00 ngày 13/04 Argentine Division 2
-https://live.alilicloud.com/live/48a0bb01ba307fc004dc1e88c6d7ec6f/playlist.m3u8
-#EXTINF:-1 tvg-id="601367239" group-title="Deportivo Madryn vs Almirante Brown 02:00 ngày 13/04 Argentine Division 2", Deportivo Madryn vs Almirante Brown 02:00 ngày 13/04 Argentine Division 2
-https://live.alilicloud.com/live/2e131725bee308584ff740144e8a7718/playlist.m3u8
-#EXTINF:-1 tvg-id="601367242" group-title="Millonarios vs Independiente Santa Fe 02:00 ngày 13/04 Categoría Primera A", Millonarios vs Independiente Santa Fe 02:00 ngày 13/04 Categoría Primera A
-https://live.alilicloud.com/live/4832c6f78cf423bdc6c461af5972cfdb/playlist.m3u8
-#EXTINF:-1 tvg-id="601367248" group-title="Esperance Sportive de Tunis vs Mamelodi Sundowns 02:00 ngày 13/04 CAF Champions League", Esperance Sportive de Tunis vs Mamelodi Sundowns 02:00 ngày 13/04 CAF Champions League
-https://live.alilicloud.com/live/a8322f69064613655a8f7c51c8cac630/playlist.m3u8
-#EXTINF:-1 tvg-id="601367251" group-title="Real Oruro vs Blooming 02:00 ngày 13/04 Bolivian Primera Division", Real Oruro vs Blooming 02:00 ngày 13/04 Bolivian Primera Division
-https://live.alilicloud.com/live/ea5c9608104fd158acccd268694376a9/playlist.m3u8
-#EXTINF:-1 tvg-id="601367314" group-title="AD Sarchi vs AD Grecia 02:00 ngày 13/04 Costa Rica 2.Liga", AD Sarchi vs AD Grecia 02:00 ngày 13/04 Costa Rica 2.Liga
-https://live.alilicloud.com/live/44b7ff399ceeea582526ace9094c0054/playlist.m3u8
-#EXTINF:-1 tvg-id="601367323" group-title="Futbol Consultants Moravia vs Pitbulls 02:00 ngày 13/04 Costa Rica 2.Liga", Futbol Consultants Moravia vs Pitbulls 02:00 ngày 13/04 Costa Rica 2.Liga
-https://live.alilicloud.com/live/d74a5f1ee459d8edf5b5b26744f15bec/playlist.m3u8
-#EXTINF:-1 tvg-id="601367302" group-title="Fram Reykjavik vs Akranes 02:30 ngày 13/04 Iceland Besta-deild karla", Fram Reykjavik vs Akranes 02:30 ngày 13/04 Iceland Besta-deild karla
-https://live.alilicloud.com/live/a2c8eca140335023061f8bf1762da439/playlist.m3u8
-#EXTINF:-1 tvg-id="601369621" group-title="Cote d'Ivoire (w) vs Turks and Caicos Islands Women 02:30 ngày 13/04 FIFA W Series", Cote d'Ivoire (w) vs Turks and Caicos Islands Women 02:30 ngày 13/04 FIFA W Series
-https://live.alilicloud.com/live/c2d5c3b2450a9325202b26e03fcd1411/playlist.m3u8
-#EXTINF:-1 tvg-id="601371802" group-title="Monagas B vs Aragua FC 02:30 ngày 13/04 Venezuela Segunda Division", Monagas B vs Aragua FC 02:30 ngày 13/04 Venezuela Segunda Division
-https://live.alilicloud.com/live/699c9c1923464dc836620187e7599c6c/playlist.m3u8
-#EXTINF:-1 tvg-id="601377862" group-title="Atletico Barinas vs Yaracuyanos 02:30 ngày 13/04 Venezuela Segunda Division", Atletico Barinas vs Yaracuyanos 02:30 ngày 13/04 Venezuela Segunda Division
-https://live.alilicloud.com/live/7e0b9e58857e46833735c9b9ed208214/playlist.m3u8
 #EXTINF:-1 tvg-id="601377865" group-title="Urena SC vs Deportivo Lara 02:30 ngày 13/04 Venezuela Segunda Division", Urena SC vs Deportivo Lara 02:30 ngày 13/04 Venezuela Segunda Division
 https://live.alilicloud.com/live/46c035a108f13eb982b4d736a3e3564e/playlist.m3u8
-#EXTINF:-1 tvg-id="601377682" group-title="Delfines Del Este vs Universidad O&amp;M 03:00 ngày 13/04 Liga Dominicana de Fútbol", Delfines Del Este vs Universidad O&amp;M 03:00 ngày 13/04 Liga Dominicana de Fútbol
-https://live.alilicloud.com/live/813d8d9287033c39b5c505dbc2d2ae06/playlist.m3u8
-#EXTINF:-1 tvg-id="601371808" group-title="Dynamo Puerto FC vs Maritimo de La Guaira 03:00 ngày 13/04 Venezuela Segunda Division", Dynamo Puerto FC vs Maritimo de La Guaira 03:00 ngày 13/04 Venezuela Segunda Division
-https://live.alilicloud.com/live/85c64af08c4798f08e1eb0b283ba9128/playlist.m3u8
-#EXTINF:-1 tvg-id="601367335" group-title="Club Atletico Guemes vs San Martin Tucuman 03:00 ngày 13/04 Argentine Division 2", Club Atletico Guemes vs San Martin Tucuman 03:00 ngày 13/04 Argentine Division 2
-https://live.alilicloud.com/live/bb96616ffe0f1b53330335b98e46321f/playlist.m3u8
-#EXTINF:-1 tvg-id="601367353" group-title="Argentina U17 vs Bolivia U17 03:00 ngày 13/04 CONMEBOL U17 Championship", Argentina U17 vs Bolivia U17 03:00 ngày 13/04 CONMEBOL U17 Championship
-https://live.alilicloud.com/live/a6051c1d800cdf16e308c3eb4540c10f/playlist.m3u8
-#EXTINF:-1 tvg-id="601367356" group-title="Brazil U17 vs Venezuela U17 03:00 ngày 13/04 CONMEBOL U17 Championship", Brazil U17 vs Venezuela U17 03:00 ngày 13/04 CONMEBOL U17 Championship
-https://live.alilicloud.com/live/699f76ad1e7704136b9e89ee8bdc3dac/playlist.m3u8
-#EXTINF:-1 tvg-id="601368292" group-title="SC Paysandu Para vs Brusque FC 03:00 ngày 13/04 Brazilian Serie C", SC Paysandu Para vs Brusque FC 03:00 ngày 13/04 Brazilian Serie C
-https://live.alilicloud.com/live/cb496c1ff41f114a7c0e2bd648e14bcf/playlist.m3u8
-#EXTINF:-1 tvg-id="601371805" group-title="Deportivo Miranda vs Bolívar SC VEN 03:00 ngày 13/04 Venezuela Segunda Division", Deportivo Miranda vs Bolívar SC VEN 03:00 ngày 13/04 Venezuela Segunda Division
-https://live.alilicloud.com/live/12bf6236f3b31604e1869da65a4d2d14/playlist.m3u8
-#EXTINF:-1 tvg-id="601373980" group-title="Paradise FC vs Bagatelle SS 03:00 ngày 13/04 Barbados Premier League", Paradise FC vs Bagatelle SS 03:00 ngày 13/04 Barbados Premier League
-https://live.alilicloud.com/live/e416ab39ce566a9f3ea98664957e5c59/playlist.m3u8
-#EXTINF:-1 tvg-id="601367332" group-title="Chaco For Ever vs All Boys 03:00 ngày 13/04 Argentine Division 2", Chaco For Ever vs All Boys 03:00 ngày 13/04 Argentine Division 2
-https://live.alilicloud.com/live/717683e96f394b83ba60f4c8d05522e5/playlist.m3u8
-#EXTINF:-1 tvg-id="601367347" group-title="Anapolis FC vs Inter de Limeira 03:00 ngày 13/04 Brazilian Serie C", Anapolis FC vs Inter de Limeira 03:00 ngày 13/04 Brazilian Serie C
-https://live.alilicloud.com/live/ccd6d3fea4967c1e53d87b7e97cbae1b/playlist.m3u8
-#EXTINF:-1 tvg-id="601367350" group-title="Caxias RS vs AD Confiança 03:00 ngày 13/04 Brazilian Serie C", Caxias RS vs AD Confiança 03:00 ngày 13/04 Brazilian Serie C
-https://live.alilicloud.com/live/8495a650cb45616ee3b93879058046e0/playlist.m3u8
+#EXTINF:-1 tvg-id="601377862" group-title="Atletico Barinas vs Yaracuyanos 02:30 ngày 13/04 Venezuela Segunda Division", Atletico Barinas vs Yaracuyanos 02:30 ngày 13/04 Venezuela Segunda Division
+https://live.alilicloud.com/live/7e0b9e58857e46833735c9b9ed208214/playlist.m3u8
+#EXTINF:-1 tvg-id="601369621" group-title="Cote d'Ivoire (w) vs Turks and Caicos Islands Women 02:30 ngày 13/04 FIFA W Series", Cote d'Ivoire (w) vs Turks and Caicos Islands Women 02:30 ngày 13/04 FIFA W Series
+https://live.alilicloud.com/live/c2d5c3b2450a9325202b26e03fcd1411/playlist.m3u8
 #EXTINF:-1 tvg-id="601367329" group-title="Central Norte Salta vs Atletico Mitre de Santiago del Estero 03:00 ngày 13/04 Argentine Division 2", Central Norte Salta vs Atletico Mitre de Santiago del Estero 03:00 ngày 13/04 Argentine Division 2
 https://live.alilicloud.com/live/84c1c9a83b98cc148bef2a7dd184d411/playlist.m3u8
+#EXTINF:-1 tvg-id="601371805" group-title="Deportivo Miranda vs Bolívar SC VEN 03:00 ngày 13/04 Venezuela Segunda Division", Deportivo Miranda vs Bolívar SC VEN 03:00 ngày 13/04 Venezuela Segunda Division
+https://live.alilicloud.com/live/12bf6236f3b31604e1869da65a4d2d14/playlist.m3u8
+#EXTINF:-1 tvg-id="601368292" group-title="SC Paysandu Para vs Brusque FC 03:00 ngày 13/04 Brazilian Serie C", SC Paysandu Para vs Brusque FC 03:00 ngày 13/04 Brazilian Serie C
+https://live.alilicloud.com/live/cb496c1ff41f114a7c0e2bd648e14bcf/playlist.m3u8
+#EXTINF:-1 tvg-id="601367356" group-title="Brazil U17 vs Venezuela U17 03:00 ngày 13/04 CONMEBOL U17 Championship", Brazil U17 vs Venezuela U17 03:00 ngày 13/04 CONMEBOL U17 Championship
+https://live.alilicloud.com/live/699f76ad1e7704136b9e89ee8bdc3dac/playlist.m3u8
+#EXTINF:-1 tvg-id="601367353" group-title="Argentina U17 vs Bolivia U17 03:00 ngày 13/04 CONMEBOL U17 Championship", Argentina U17 vs Bolivia U17 03:00 ngày 13/04 CONMEBOL U17 Championship
+https://live.alilicloud.com/live/a6051c1d800cdf16e308c3eb4540c10f/playlist.m3u8
+#EXTINF:-1 tvg-id="601367350" group-title="Caxias RS vs AD Confiança 03:00 ngày 13/04 Brazilian Serie C", Caxias RS vs AD Confiança 03:00 ngày 13/04 Brazilian Serie C
+https://live.alilicloud.com/live/8495a650cb45616ee3b93879058046e0/playlist.m3u8
+#EXTINF:-1 tvg-id="601367347" group-title="Anapolis FC vs Inter de Limeira 03:00 ngày 13/04 Brazilian Serie C", Anapolis FC vs Inter de Limeira 03:00 ngày 13/04 Brazilian Serie C
+https://live.alilicloud.com/live/ccd6d3fea4967c1e53d87b7e97cbae1b/playlist.m3u8
+#EXTINF:-1 tvg-id="601367335" group-title="Club Atletico Guemes vs San Martin Tucuman 03:00 ngày 13/04 Argentine Division 2", Club Atletico Guemes vs San Martin Tucuman 03:00 ngày 13/04 Argentine Division 2
+https://live.alilicloud.com/live/bb96616ffe0f1b53330335b98e46321f/playlist.m3u8
+#EXTINF:-1 tvg-id="601367332" group-title="Chaco For Ever vs All Boys 03:00 ngày 13/04 Argentine Division 2", Chaco For Ever vs All Boys 03:00 ngày 13/04 Argentine Division 2
+https://live.alilicloud.com/live/717683e96f394b83ba60f4c8d05522e5/playlist.m3u8
+#EXTINF:-1 tvg-id="601371808" group-title="Dynamo Puerto FC vs Maritimo de La Guaira 03:00 ngày 13/04 Venezuela Segunda Division", Dynamo Puerto FC vs Maritimo de La Guaira 03:00 ngày 13/04 Venezuela Segunda Division
+https://live.alilicloud.com/live/85c64af08c4798f08e1eb0b283ba9128/playlist.m3u8
+#EXTINF:-1 tvg-id="601373980" group-title="Paradise FC vs Bagatelle SS 03:00 ngày 13/04 Barbados Premier League", Paradise FC vs Bagatelle SS 03:00 ngày 13/04 Barbados Premier League
+https://live.alilicloud.com/live/e416ab39ce566a9f3ea98664957e5c59/playlist.m3u8
+#EXTINF:-1 tvg-id="601377682" group-title="Delfines Del Este vs Universidad O&amp;M 03:00 ngày 13/04 Liga Dominicana de Fútbol", Delfines Del Este vs Universidad O&amp;M 03:00 ngày 13/04 Liga Dominicana de Fútbol
+https://live.alilicloud.com/live/813d8d9287033c39b5c505dbc2d2ae06/playlist.m3u8
 #EXTINF:-1 tvg-id="601367344" group-title="Cavalry FC vs Atletico Ottawa 03:10 ngày 13/04 Canadian Premier League", Cavalry FC vs Atletico Ottawa 03:10 ngày 13/04 Canadian Premier League
 https://live.alilicloud.com/live/c722523ad22a8d14dedd6b3f7f3367a3/playlist.m3u8
 #EXTINF:-1 tvg-id="601367440" group-title="Llaneros Women vs Inter Palmira (W) 03:30 ngày 13/04 Colombian Liga Betplay Femenina", Llaneros Women vs Inter Palmira (W) 03:30 ngày 13/04 Colombian Liga Betplay Femenina
@@ -73,7 +47,25 @@ https://live.alilicloud.com/live/9d5427cfe925282570817df0fdf9f651/playlist.m3u8
 https://live.alilicloud.com/live/69179cc7134fa70cb59174535d413a2f/playlist.m3u8
 #EXTINF:-1 tvg-id="601367431" group-title="Guayaquil City vs Macara 03:30 ngày 13/04 LigaPro Serie A", Guayaquil City vs Macara 03:30 ngày 13/04 LigaPro Serie A
 https://live.alilicloud.com/live/231510141d8dece7071ace3f45b1c543/playlist.m3u8
-#EXTINF:-1 tvg-id="601367428" group-title="Atletico Tucuman vs Club Atletico Tigre 03:30 ngày 13/04 Argentine Division 1", Atletico Tucuman vs Club Atletico Tigre 03:30 ngày 13/04 Argentine Division 1
-https://live.alilicloud.com/live/5158370fb55fc9a9e3ffd1fa1455e707/playlist.m3u8
 #EXTINF:-1 tvg-id="601367425" group-title="CA Huracan vs Rosario Central 03:30 ngày 13/04 Argentine Division 1", CA Huracan vs Rosario Central 03:30 ngày 13/04 Argentine Division 1
 https://live.alilicloud.com/live/1c11bba9e15f42ad0722f0f374fa9fb5/playlist.m3u8
+#EXTINF:-1 tvg-id="601367428" group-title="Atletico Tucuman vs Club Atletico Tigre 03:30 ngày 13/04 Argentine Division 1", Atletico Tucuman vs Club Atletico Tigre 03:30 ngày 13/04 Argentine Division 1
+https://live.alilicloud.com/live/5158370fb55fc9a9e3ffd1fa1455e707/playlist.m3u8
+#EXTINF:-1 tvg-id="601363960" group-title="Carabobo vs Universidad Central de Venezuela 04:00 ngày 13/04 Venezuela Primera Division", Carabobo vs Universidad Central de Venezuela 04:00 ngày 13/04 Venezuela Primera Division
+https://live.alilicloud.com/live/c7eca4fb2d2d2e965ca67bc17d0a2a4b/playlist.m3u8
+#EXTINF:-1 tvg-id="601367455" group-title="Operario Ferroviario PR vs Cuiaba 04:00 ngày 13/04 Brazilian Serie B", Operario Ferroviario PR vs Cuiaba 04:00 ngày 13/04 Brazilian Serie B
+https://live.alilicloud.com/live/2b26487759e7c5a17fa511c9600248f1/playlist.m3u8
+#EXTINF:-1 tvg-id="601367443" group-title="Deportivo Saprissa vs Municipal Liberia 04:00 ngày 13/04 Costa Rica Primera Division", Deportivo Saprissa vs Municipal Liberia 04:00 ngày 13/04 Costa Rica Primera Division
+https://live.alilicloud.com/live/50f0682e6dc79f7da88b62bf6412ea15/playlist.m3u8
+#EXTINF:-1 tvg-id="601367446" group-title="Birmingham Legion vs Pittsburgh Riverhounds 04:00 ngày 13/04 USL Championship", Birmingham Legion vs Pittsburgh Riverhounds 04:00 ngày 13/04 USL Championship
+https://live.alilicloud.com/live/37c33b6a9088f3c811682ddaac6bae5b/playlist.m3u8
+#EXTINF:-1 tvg-id="601367452" group-title="America MG vs Gremio Novorizontino 04:00 ngày 13/04 Brazilian Serie B", America MG vs Gremio Novorizontino 04:00 ngày 13/04 Brazilian Serie B
+https://live.alilicloud.com/live/3b81309ebaaebcf7ad567bed6b8118d7/playlist.m3u8
+#EXTINF:-1 tvg-id="601367473" group-title="Deportivo Cali vs Llaneros FC 04:10 ngày 13/04 Categoría Primera A", Deportivo Cali vs Llaneros FC 04:10 ngày 13/04 Categoría Primera A
+https://live.alilicloud.com/live/4e3c167655b31d7770babfc68218eccc/playlist.m3u8
+#EXTINF:-1 tvg-id="601368295" group-title="Rubio nu vs Olimpia Asuncion 04:15 ngày 13/04 Paraguayan Primera Division", Rubio nu vs Olimpia Asuncion 04:15 ngày 13/04 Paraguayan Primera Division
+https://live.alilicloud.com/live/173c97dcc90555f0513f95b3ea74ef48/playlist.m3u8
+#EXTINF:-1 tvg-id="601367476" group-title="The Strongest vs San Antonio Bulo Bulo 04:15 ngày 13/04 Bolivian Primera Division", The Strongest vs San Antonio Bulo Bulo 04:15 ngày 13/04 Bolivian Primera Division
+https://live.alilicloud.com/live/5d1ed0d020446c0419bab052d968aa9e/playlist.m3u8
+#EXTINF:-1 tvg-id="601367479" group-title="Cruzeiro Esporte Clube vs Red Bull Bragantino 04:30 ngày 13/04 Brazilian Serie A", Cruzeiro Esporte Clube vs Red Bull Bragantino 04:30 ngày 13/04 Brazilian Serie A
+https://cdn-hls.taoxanh.biz/live/69dc067a24441_128756/index.m3u8?expire=1776632058&amp;sign=a74f6cc1b3c30fb270c63bf2210f9a1a
