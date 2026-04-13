@@ -1,21 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601367581" group-title="Toluca vs Atletico San Luis 08:00 ngày 13/04 Mexico Liga MX", Toluca vs Atletico San Luis 08:00 ngày 13/04 Mexico Liga MX (Link 1)
-https://cdn-hls.taoxanh.biz/live/69dc379b24441_124958/index.m3u8?expire=1776644635&amp;sign=8fab6f3979f5ba6b4e0d6aa17bef1c4d
-#EXTINF:-1 tvg-id="601367581" group-title="Toluca vs Atletico San Luis 08:00 ngày 13/04 Mexico Liga MX", Toluca vs Atletico San Luis 08:00 ngày 13/04 Mexico Liga MX (Link 2)
-https://live.alilicloud.com/live/d401e87d89d3cc65a2dc8d26e0bb139d/playlist.m3u8
-#EXTINF:-1 tvg-id="601367587" group-title="La Equidad vs Alianza Fútbol Club 08:30 ngày 13/04 Categoría Primera A", La Equidad vs Alianza Fútbol Club 08:30 ngày 13/04 Categoría Primera A (Link 1)
-https://cdn-hls.taoxanh.biz/live/69dc4040beb29_6308/index.m3u8?expire=1776646848&amp;sign=8f8bc0977cbce0ccaaa354ce7a060d28
-#EXTINF:-1 tvg-id="601367587" group-title="La Equidad vs Alianza Fútbol Club 08:30 ngày 13/04 Categoría Primera A", La Equidad vs Alianza Fútbol Club 08:30 ngày 13/04 Categoría Primera A (Link 2)
-https://live.alilicloud.com/live/ac6a7af68e9b53fc76d73c50198ce587/playlist.m3u8
-#EXTINF:-1 tvg-id="601373284" group-title="Los Angeles Clippers vs Golden State Warriors 07:30 ngày 13/04 NBA", Los Angeles Clippers vs Golden State Warriors 07:30 ngày 13/04 NBA
-https://cdn-hls.taoxanh.biz/live/69dc372324441_72787/index.m3u8?expire=1776644515&amp;sign=a158ae0964203b3591b6674408b1a3d5
-#EXTINF:-1 tvg-id="601373287" group-title="Los Angeles Lakers vs Utah Jazz 07:30 ngày 13/04 NBA", Los Angeles Lakers vs Utah Jazz 07:30 ngày 13/04 NBA
-https://cdn-hls.taoxanh.biz/live/69dc38b2beb28_4439/index.m3u8?expire=1776644914&amp;sign=2a8384507a6769d6ff31431d11574cae
-#EXTINF:-1 tvg-id="601373296" group-title="Oklahoma City Thunder vs Phoenix Suns 07:30 ngày 13/04 NBA", Oklahoma City Thunder vs Phoenix Suns 07:30 ngày 13/04 NBA
-https://cdn-hls.taoxanh.biz/live/69dc384cbeb28_153967/index.m3u8?expire=1776644812&amp;sign=9066dddf2fefccab2f741df4ee749306
-#EXTINF:-1 tvg-id="601373299" group-title="San Antonio Spurs vs Denver Nuggets 07:30 ngày 13/04 NBA", San Antonio Spurs vs Denver Nuggets 07:30 ngày 13/04 NBA
-https://cdn-hls.taoxanh.biz/live/69dc365624441_4733/index.m3u8?expire=1776644310&amp;sign=e0bc73ad76f30a22908b906f3b99d290
-#EXTINF:-1 tvg-id="601369630" group-title="Austin FC II vs Houston Dynamo B 07:30 ngày 13/04 MLS Next PL", Austin FC II vs Houston Dynamo B 07:30 ngày 13/04 MLS Next PL
-https://live.alilicloud.com/live/2019754e0c32e8bcc9943a40b961d73a/playlist.m3u8
-#EXTINF:-1 tvg-id="601367584" group-title="Managua FC vs Walter Ferretti 08:00 ngày 13/04 Nicaragua Liga Primera", Managua FC vs Walter Ferretti 08:00 ngày 13/04 Nicaragua Liga Primera
-https://live.alilicloud.com/live/1d3fa5aa8c15b2e3ab981b552904ff73/playlist.m3u8
+#EXTINF:-1 tvg-id="601370956" group-title="HCĐG Lào Cai vs VTV BĐ Long An 12:00 ngày 13/04 Giải bóng chuyền VĐQG 2026", HCĐG Lào Cai vs VTV BĐ Long An 12:00 ngày 13/04 Giải bóng chuyền VĐQG 2026
+https://cdn-hls.taoxanh.biz/live/69dc6d04beb29_88642/index.m3u8?expire=1776658308&amp;sign=f61e23a0711508bc40d318e0721b1ac0
+#EXTINF:-1 tvg-id="601374007" group-title="Hubei Super Mr vs Chengdu Yuhui Rende 12:00 ngày 13/04 Chinese Football Association Member Association Champions League", Hubei Super Mr vs Chengdu Yuhui Rende 12:00 ngày 13/04 Chinese Football Association Member Association Champions League
+https://live.alilicloud.com/live/c2b7e38cde0dfbfad0ec4ab53414ec1c/playlist.m3u8
+#EXTINF:-1 tvg-id="601374010" group-title="Dalian Tornadoes vs Linyi Red Arrow 12:00 ngày 13/04 Chinese Football Association Member Association Champions League", Dalian Tornadoes vs Linyi Red Arrow 12:00 ngày 13/04 Chinese Football Association Member Association Champions League
+https://live.alilicloud.com/live/a73f4031a1602e0fc2c2352b5b48715b/playlist.m3u8
