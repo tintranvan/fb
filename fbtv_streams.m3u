@@ -1,19 +1,27 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601369636" group-title="Vietnam U17 vs Malaysia U17 15:30 ngày 13/04 AFF U17 Youth Championship", Vietnam U17 vs Malaysia U17 15:30 ngày 13/04 AFF U17 Youth Championship (Link 1)
-https://cdn-hls.taoxanh.biz/live/69dca472beb29_73445/index.m3u8?expire=1776672498&amp;sign=e3eee191df9dd5a233c9332ea6a83297
-#EXTINF:-1 tvg-id="601369636" group-title="Vietnam U17 vs Malaysia U17 15:30 ngày 13/04 AFF U17 Youth Championship", Vietnam U17 vs Malaysia U17 15:30 ngày 13/04 AFF U17 Youth Championship (Link 2)
-https://live.alilicloud.com/live/af35ad58fbcc45d55b80a2b0cca60ff0/playlist.m3u8
-#EXTINF:-1 tvg-id="601379284" group-title="Arthur Rinderknech vs Alex Michelsen 16:00 ngày 13/04 ATP Munich, Germany Men Singles", Arthur Rinderknech vs Alex Michelsen 16:00 ngày 13/04 ATP Munich, Germany Men Singles
-https://cdn-hls.taoxanh.biz/live/69dcae7abeb29_4439/index.m3u8?expire=1776675066&amp;sign=dc0178d9582d3ea5f294375703b609b3
-#EXTINF:-1 tvg-id="601379290" group-title="Ignacio Buse vs Corentin Moutet 16:00 ngày 13/04 ATP Barcelona, Spain Men Singles", Ignacio Buse vs Corentin Moutet 16:00 ngày 13/04 ATP Barcelona, Spain Men Singles
-https://cdn-hls.taoxanh.biz/live/69dcac35beb29_153967/index.m3u8?expire=1776674485&amp;sign=b52ee3ff5e7bbb4c27e91d3a9216fc98
-#EXTINF:-1 tvg-id="601385566" group-title="CISF vs National United SC 14:30 ngày 13/04 IND DSD", CISF vs National United SC 14:30 ngày 13/04 IND DSD
-https://live.alilicloud.com/live/b7bebb1fa557e578c7d14c401b627ea2/playlist.m3u8
-#EXTINF:-1 tvg-id="601374013" group-title="Shenzhen Jixiang vs Qianxinan Xufengtang 15:00 ngày 13/04 Chinese Football Association Member Association Champions League", Shenzhen Jixiang vs Qianxinan Xufengtang 15:00 ngày 13/04 Chinese Football Association Member Association Champions League
-https://live.alilicloud.com/live/33e31037118ff0bb714eb9de90b499be/playlist.m3u8
-#EXTINF:-1 tvg-id="601374016" group-title="Shanxi Xiangyu FC vs Liaocheng legend 15:00 ngày 13/04 Chinese Football Association Member Association Champions League", Shanxi Xiangyu FC vs Liaocheng legend 15:00 ngày 13/04 Chinese Football Association Member Association Champions League
-https://live.alilicloud.com/live/ffa3888c73e6284a6b41e895cc7a5f5d/playlist.m3u8
-#EXTINF:-1 tvg-id="601366330" group-title="Penuel Kryvyi Rih vs Rebel Kyiv 16:00 ngày 13/04 Ukrainian Second League", Penuel Kryvyi Rih vs Rebel Kyiv 16:00 ngày 13/04 Ukrainian Second League
-https://live.alilicloud.com/live/4f50c0cf95ff16499530c6b1434be599/playlist.m3u8
-#EXTINF:-1 tvg-id="601367593" group-title="Kyrgyzstan U17 vs Turkmenistan U17 16:00 ngày 13/04 CA U17 C", Kyrgyzstan U17 vs Turkmenistan U17 16:00 ngày 13/04 CA U17 C
-https://live.alilicloud.com/live/c3a2c513736468016fcf4cce2b238263/playlist.m3u8
+#EXTINF:-1 tvg-id="601361659" group-title="Etar vs FC Dunav Ruse 16:45 ngày 13/04 Bulgarian Second League", Etar vs FC Dunav Ruse 16:45 ngày 13/04 Bulgarian Second League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69dcb9b5beb29_79/index.m3u8?expire=1776677941&amp;sign=dcea4a97f0672a861ed64893ca36546f
+#EXTINF:-1 tvg-id="601361659" group-title="Etar vs FC Dunav Ruse 16:45 ngày 13/04 Bulgarian Second League", Etar vs FC Dunav Ruse 16:45 ngày 13/04 Bulgarian Second League (Link 2)
+https://live.alilicloud.com/live/a4e246a905297a784912d75a83980dee/playlist.m3u8
+#EXTINF:-1 tvg-id="601367599" group-title="LNZ Cherkasy vs FC Shakhtar Donetsk 17:00 ngày 13/04 Ukrainian Premier League", LNZ Cherkasy vs FC Shakhtar Donetsk 17:00 ngày 13/04 Ukrainian Premier League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69dcb5e8beb29_85514/index.m3u8?expire=1776676968&amp;sign=421d36037beec1ec2212edb31271e862
+#EXTINF:-1 tvg-id="601367599" group-title="LNZ Cherkasy vs FC Shakhtar Donetsk 17:00 ngày 13/04 Ukrainian Premier League", LNZ Cherkasy vs FC Shakhtar Donetsk 17:00 ngày 13/04 Ukrainian Premier League (Link 2)
+https://live.alilicloud.com/live/a6d352225b4b2f9fafbe93f2ec1c83f9/playlist.m3u8
+#EXTINF:-1 tvg-id="601370962" group-title="BC Thông tin BĐ19 vs Geleximco Hưng Yên 17:30 ngày 13/04 Giải bóng chuyền VĐQG 2026", BC Thông tin BĐ19 vs Geleximco Hưng Yên 17:30 ngày 13/04 Giải bóng chuyền VĐQG 2026
+https://cdn-hls.taoxanh.biz/live/69dcbd75beb29_128756/index.m3u8?expire=1776678901&amp;sign=fd7f123cfe0424ce74b2299f73cb4181
+#EXTINF:-1 tvg-id="601366318" group-title="Bukovyna 2 vs Atlet Kiev 16:30 ngày 13/04 Ukrainian Second League", Bukovyna 2 vs Atlet Kiev 16:30 ngày 13/04 Ukrainian Second League
+https://live.alilicloud.com/live/23ddccab205ed52c3385a989c2c32438/playlist.m3u8
+#EXTINF:-1 tvg-id="601367611" group-title="Sheger Ketema vs Negele Arsi 17:00 ngày 13/04 Ethiopia Premier League", Sheger Ketema vs Negele Arsi 17:00 ngày 13/04 Ethiopia Premier League
+https://live.alilicloud.com/live/769a0f2de8f5f59c1191fe7801fb2e54/playlist.m3u8
+#EXTINF:-1 tvg-id="601366324" group-title="Real Pharma Ovidiopol vs Skala 1911 Stryi 17:15 ngày 13/04 Ukrainian Second League", Real Pharma Ovidiopol vs Skala 1911 Stryi 17:15 ngày 13/04 Ukrainian Second League
+https://live.alilicloud.com/live/dac33cdced3a32eac0f9c94a3b656298/playlist.m3u8
+#EXTINF:-1 tvg-id="601367614" group-title="Norway (w) U19 vs Austria (w) U19 17:30 ngày 13/04 UEFA European U19 Women's Championship", Norway (w) U19 vs Austria (w) U19 17:30 ngày 13/04 UEFA European U19 Women's Championship
+https://live.alilicloud.com/live/5ca8167fe9ecab9e180f283a4974fa77/playlist.m3u8
+#EXTINF:-1 tvg-id="601379446" group-title="Gabriel Diallo vs Vitaliy Sachko 17:50 ngày 13/04 ATP Munich, Germany Men Singles", Gabriel Diallo vs Vitaliy Sachko 17:50 ngày 13/04 ATP Munich, Germany Men Singles
+https://cdn-hls.taoxanh.biz/live/69dcc879beb29_42127/index.m3u8?expire=1776681721&amp;sign=c023336b02f18d970b8367879e03d89a
+#EXTINF:-1 tvg-id="601379440" group-title="Tomas Martin Etcheverry vs Jack Draper 17:50 ngày 13/04 ATP Barcelona, Spain Men Singles", Tomas Martin Etcheverry vs Jack Draper 17:50 ngày 13/04 ATP Barcelona, Spain Men Singles
+https://cdn-hls.taoxanh.biz/live/69dccb44beb29_153967/index.m3u8?expire=1776682436&amp;sign=0e0028f4d451b79b8b0a485e17316647
+#EXTINF:-1 tvg-id="601367617" group-title="Verona U20 vs Lazio Youth 18:00 ngày 13/04 Italian Campionato Primavera 1", Verona U20 vs Lazio Youth 18:00 ngày 13/04 Italian Campionato Primavera 1
+https://cdn-hls.taoxanh.biz/live/69dcc58024441_133172/index.m3u8?expire=1776680960&amp;sign=039214358032e8a9ec7eaf45f0b63b59
+#EXTINF:-1 tvg-id="601367620" group-title="Balestier Khalsa FC vs Albirex Niigata FC 18:30 ngày 13/04 Singapore Premier League", Balestier Khalsa FC vs Albirex Niigata FC 18:30 ngày 13/04 Singapore Premier League
+https://cdn-hls.taoxanh.biz/live/69dcc8cebeb29_95554/index.m3u8?expire=1776681806&amp;sign=aeecf4385a00eba0f1ebd4a57402262a
