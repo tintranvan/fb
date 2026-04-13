@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="601370956" group-title="HCĐG Lào Cai vs VTV BĐ Long An 12:00 ngày 13/04 Giải bóng chuyền VĐQG 2026", HCĐG Lào Cai vs VTV BĐ Long An 12:00 ngày 13/04 Giải bóng chuyền VĐQG 2026
 https://cdn-hls.taoxanh.biz/live/69dc6d04beb29_88642/index.m3u8?expire=1776658308&amp;sign=f61e23a0711508bc40d318e0721b1ac0
-#EXTINF:-1 tvg-id="601374007" group-title="Hubei Super Mr vs Chengdu Yuhui Rende 12:00 ngày 13/04 Chinese Football Association Member Association Champions League", Hubei Super Mr vs Chengdu Yuhui Rende 12:00 ngày 13/04 Chinese Football Association Member Association Champions League
-https://live.alilicloud.com/live/c2b7e38cde0dfbfad0ec4ab53414ec1c/playlist.m3u8
-#EXTINF:-1 tvg-id="601374010" group-title="Dalian Tornadoes vs Linyi Red Arrow 12:00 ngày 13/04 Chinese Football Association Member Association Champions League", Dalian Tornadoes vs Linyi Red Arrow 12:00 ngày 13/04 Chinese Football Association Member Association Champions League
-https://live.alilicloud.com/live/a73f4031a1602e0fc2c2352b5b48715b/playlist.m3u8
+#EXTINF:-1 tvg-id="601365766" group-title="FK Orenburg-2 vs FK Ural-2 14:00 ngày 13/04 RUS D3B", FK Orenburg-2 vs FK Ural-2 14:00 ngày 13/04 RUS D3B
+https://live.alilicloud.com/live/1df55d8833ad00ad199ee2c9d97956c9/playlist.m3u8
