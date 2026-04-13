@@ -1,13 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601368433" group-title="Defensa Y Justicia vs Talleres Cordoba 02:30 ngày 14/04 Argentine Division 1", Defensa Y Justicia vs Talleres Cordoba 02:30 ngày 14/04 Argentine Division 1 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69dd39d524441_103/index.m3u8?expire=1776710741&amp;sign=b6368103f22a7068b6a7f0c884cbd7ac
-#EXTINF:-1 tvg-id="601368433" group-title="Defensa Y Justicia vs Talleres Cordoba 02:30 ngày 14/04 Argentine Division 1", Defensa Y Justicia vs Talleres Cordoba 02:30 ngày 14/04 Argentine Division 1 (Link 2)
-https://live.alilicloud.com/live/5b579cfde0a8262cf79eb657ca1ff944/playlist.m3u8
-#EXTINF:-1 tvg-id="601368436" group-title="Sarmiento Junin vs Gimnasia La Plata 02:30 ngày 14/04 Argentine Division 1", Sarmiento Junin vs Gimnasia La Plata 02:30 ngày 14/04 Argentine Division 1
-https://live.alilicloud.com/live/b04b5786c1e064d676034eee3bb29a1f/playlist.m3u8
-#EXTINF:-1 tvg-id="601367341" group-title="Bogota FC vs Orsomarso 03:00 ngày 14/04 Colombian Torneo BetPlay Dimayor", Bogota FC vs Orsomarso 03:00 ngày 14/04 Colombian Torneo BetPlay Dimayor
-https://live.alilicloud.com/live/25402789611f58f41c608d316a76d2e8/playlist.m3u8
 #EXTINF:-1 tvg-id="601368442" group-title="Union Magdalena vs Inter Palmira 04:00 ngày 14/04 Colombian Torneo BetPlay Dimayor", Union Magdalena vs Inter Palmira 04:00 ngày 14/04 Colombian Torneo BetPlay Dimayor
 https://live.alilicloud.com/live/af7d3c7e5551b3bf30e071ab0639f26b/playlist.m3u8
-#EXTINF:-1 tvg-id="601368430" group-title="CD Tondela vs Gil Vicente 02:15 ngày 14/04 Portuguese Primera Liga", CD Tondela vs Gil Vicente 02:15 ngày 14/04 Portuguese Primera Liga
-https://live.alilicloud.com/live/e20a4b0238bca9324e0204800580d561/playlist.m3u8
+#EXTINF:-1 tvg-id="601380076" group-title="Costa Rica (w) U20 vs Canada (w) U20 04:00 ngày 14/04 International Friendly", Costa Rica (w) U20 vs Canada (w) U20 04:00 ngày 14/04 International Friendly
+https://live.alilicloud.com/live/6b3a1c7549dcd003cbd9f42ceecf8f13/playlist.m3u8
