@@ -1,5 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601370968" group-title="Hà Nội Tasco Auto vs XMLS Thanh Hoá 12:00 ngày 14/04 Giải bóng chuyền VĐQG 2026", Hà Nội Tasco Auto vs XMLS Thanh Hoá 12:00 ngày 14/04 Giải bóng chuyền VĐQG 2026
-https://cdn-hls.taoxanh.biz/live/69ddbff724441_88642/index.m3u8?expire=1776745079&amp;sign=1cd8767bc2cc999c3b8efbac2abbeddc
+#EXTINF:-1 tvg-id="601368496" group-title="Beijing IT vs Shanghai Port B 14:00 ngày 14/04 Chinese Football League 2", Beijing IT vs Shanghai Port B 14:00 ngày 14/04 Chinese Football League 2 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69ddd88dbeb2b_28/index.m3u8?expire=1776751373&amp;sign=4253e8d7393ce307798dfa82fc5f066b
+#EXTINF:-1 tvg-id="601368496" group-title="Beijing IT vs Shanghai Port B 14:00 ngày 14/04 Chinese Football League 2", Beijing IT vs Shanghai Port B 14:00 ngày 14/04 Chinese Football League 2 (Link 2)
+https://live.alilicloud.com/live/03d24e6e70e7b245d722158232c27630/playlist.m3u8
+#EXTINF:-1 tvg-id="601368499" group-title="Dalian Kewei vs Haimen Codion 14:00 ngày 14/04 Chinese Football League 2", Dalian Kewei vs Haimen Codion 14:00 ngày 14/04 Chinese Football League 2 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69dddde2beb2b_72787/index.m3u8?expire=1776752738&amp;sign=0645711571f1e356e53cc1df15b647c8
+#EXTINF:-1 tvg-id="601368499" group-title="Dalian Kewei vs Haimen Codion 14:00 ngày 14/04 Chinese Football League 2", Dalian Kewei vs Haimen Codion 14:00 ngày 14/04 Chinese Football League 2 (Link 2)
+https://live.alilicloud.com/live/586949b4308ba18eb607d48e0e2499bb/playlist.m3u8
+#EXTINF:-1 tvg-id="601368502" group-title="Jiangxi Lushan vs Guizhou Zhucheng Athletic FC 14:30 ngày 14/04 Chinese Football League 2", Jiangxi Lushan vs Guizhou Zhucheng Athletic FC 14:30 ngày 14/04 Chinese Football League 2
+https://cdn-hls.taoxanh.biz/live/69dde35324441_44731/index.m3u8?expire=1776754131&amp;sign=267741d299c260cdab9ff140b6303f54
 #EXTINF:-1 tvg-id="601368508" group-title="Hubei Istar vs Ganzhou Ruishi 15:30 ngày 14/04 Chinese Football League 2", Hubei Istar vs Ganzhou Ruishi 15:30 ngày 14/04 Chinese Football League 2
 https://cdn-hls.taoxanh.biz/live/69ddaf0e24441_6308/index.m3u8?expire=1776740750&amp;sign=04220009165bb7a75cb6b98a678c1523
