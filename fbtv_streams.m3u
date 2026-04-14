@@ -1,51 +1,39 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601368508" group-title="Hubei Istar vs Ganzhou Ruishi 15:30 ngày 14/04 Chinese Football League 2", Hubei Istar vs Ganzhou Ruishi 15:30 ngày 14/04 Chinese Football League 2 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69ddaf0e24441_6308/index.m3u8?expire=1776740750&amp;sign=04220009165bb7a75cb6b98a678c1523
-#EXTINF:-1 tvg-id="601368508" group-title="Hubei Istar vs Ganzhou Ruishi 15:30 ngày 14/04 Chinese Football League 2", Hubei Istar vs Ganzhou Ruishi 15:30 ngày 14/04 Chinese Football League 2 (Link 2)
-https://live.alilicloud.com/live/be0695836cf43fe536b42f53a896a60b/playlist.m3u8
-#EXTINF:-1 tvg-id="601372288" group-title="Brunei Darussalam U17 vs Cambodia U17 15:30 ngày 14/04 AFF U17 Youth Championship", Brunei Darussalam U17 vs Cambodia U17 15:30 ngày 14/04 AFF U17 Youth Championship (Link 1)
-https://cdn-hls.taoxanh.biz/live/69ddf1bcbeb2b_95554/index.m3u8?expire=1776757820&amp;sign=4756cf001033bcac0d6daa9e63959388
-#EXTINF:-1 tvg-id="601372288" group-title="Brunei Darussalam U17 vs Cambodia U17 15:30 ngày 14/04 AFF U17 Youth Championship", Brunei Darussalam U17 vs Cambodia U17 15:30 ngày 14/04 AFF U17 Youth Championship (Link 2)
-https://live.alilicloud.com/live/8e8e8929478fe8364201e23d2ef3b124/playlist.m3u8
 #EXTINF:-1 tvg-id="601368520" group-title="Maritimo U23 vs Farense U23 17:00 ngày 14/04 Portuguese U23 League", Maritimo U23 vs Farense U23 17:00 ngày 14/04 Portuguese U23 League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69de07f424441_85514/index.m3u8?expire=1776763508&amp;sign=130f11542464334238e1dfcdaf56ae15
 #EXTINF:-1 tvg-id="601368520" group-title="Maritimo U23 vs Farense U23 17:00 ngày 14/04 Portuguese U23 League", Maritimo U23 vs Farense U23 17:00 ngày 14/04 Portuguese U23 League (Link 2)
 https://live.alilicloud.com/live/356df39ece6e985ff78ce423f5bf3a51/playlist.m3u8
-#EXTINF:-1 tvg-id="601379275" group-title="Alex de Minaur vs Sebastian Ofner 16:00 ngày 14/04 ATP Barcelona, Spain Men Singles", Alex de Minaur vs Sebastian Ofner 16:00 ngày 14/04 ATP Barcelona, Spain Men Singles
-https://cdn-hls.taoxanh.biz/live/69ddfbae24441_4733/index.m3u8?expire=1776760366&amp;sign=a9fc434480e1e7fa1af7cc98e290bba3
-#EXTINF:-1 tvg-id="601379281" group-title="Tallon Griekspoor vs Denis Shapovalov 16:00 ngày 14/04 ATP Munich, Germany Men Singles", Tallon Griekspoor vs Denis Shapovalov 16:00 ngày 14/04 ATP Munich, Germany Men Singles
-https://cdn-hls.taoxanh.biz/live/69ddfc11beb2b_153967/index.m3u8?expire=1776760465&amp;sign=79fdcbfe5b6e43c8365cd463e1a466db
-#EXTINF:-1 tvg-id="601380106" group-title="Paraguay (W) U18 vs Uzbekistan (w) U18 15:30 ngày 14/04 International Friendly", Paraguay (W) U18 vs Uzbekistan (w) U18 15:30 ngày 14/04 International Friendly
-https://live.alilicloud.com/live/b950633c22ce381be0c8cb6ed20dfa16/playlist.m3u8
-#EXTINF:-1 tvg-id="601380109" group-title="Turkiye (w) U18 vs Morocco (w) football U17 15:30 ngày 14/04 International Friendly", Turkiye (w) U18 vs Morocco (w) football U17 15:30 ngày 14/04 International Friendly
-https://live.alilicloud.com/live/d5e737c0ebedbec1379154e0d50d5beb/playlist.m3u8
-#EXTINF:-1 tvg-id="601388428" group-title="Huda Hue vs Tre Phu Dong 15:30 ngày 14/04 Vietnam National Second Class League", Huda Hue vs Tre Phu Dong 15:30 ngày 14/04 Vietnam National Second Class League
-https://live.alilicloud.com/live/679779210c0760a60f36d486622a46e4/playlist.m3u8
-#EXTINF:-1 tvg-id="601388431" group-title="Tay Ninh vs Kon Tum 15:30 ngày 14/04 Vietnam National Second Class League", Tay Ninh vs Kon Tum 15:30 ngày 14/04 Vietnam National Second Class League
-https://live.alilicloud.com/live/64527a9424bef8f4d7c0705c8c13b2eb/playlist.m3u8
-#EXTINF:-1 tvg-id="601388434" group-title="Da Nang II vs T T Hanoi B 15:30 ngày 14/04 Vietnam National Second Class League", Da Nang II vs T T Hanoi B 15:30 ngày 14/04 Vietnam National Second Class League
-https://live.alilicloud.com/live/2467d2e84966b27af52515fd15c17e2e/playlist.m3u8
-#EXTINF:-1 tvg-id="601368514" group-title="PWD Sports Club vs Rahmatgonj MFS 15:45 ngày 14/04 Bangladesh Federation Cup", PWD Sports Club vs Rahmatgonj MFS 15:45 ngày 14/04 Bangladesh Federation Cup
-https://live.alilicloud.com/live/5a6be5a8b9409b8af6b00e06a9d451d3/playlist.m3u8
-#EXTINF:-1 tvg-id="601380112" group-title="Russia Women U17 vs India (w) U17 16:00 ngày 14/04 International Friendly", Russia Women U17 vs India (w) U17 16:00 ngày 14/04 International Friendly
-https://live.alilicloud.com/live/3c971445d61ed19e8fab8c5a50c3df6c/playlist.m3u8
-#EXTINF:-1 tvg-id="601385731" group-title="US Biskra Women vs Afak Relizane(w) 16:00 ngày 14/04 Algeria Women's League", US Biskra Women vs Afak Relizane(w) 16:00 ngày 14/04 Algeria Women's League
-https://live.alilicloud.com/live/859c1372586d58078e40f287c1954020/playlist.m3u8
+#EXTINF:-1 tvg-id="601368529" group-title="Santa Clara U23 vs Academico Viseu U23 17:30 ngày 14/04 Portuguese U23 League", Santa Clara U23 vs Academico Viseu U23 17:30 ngày 14/04 Portuguese U23 League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69de10bbbeb2b_4908/index.m3u8?expire=1776765755&amp;sign=c97cc9fab170398410ebc4ab370f8086
+#EXTINF:-1 tvg-id="601368529" group-title="Santa Clara U23 vs Academico Viseu U23 17:30 ngày 14/04 Portuguese U23 League", Santa Clara U23 vs Academico Viseu U23 17:30 ngày 14/04 Portuguese U23 League (Link 2)
+https://live.alilicloud.com/live/e46c265cd9d8907fac8eb4c00f43bc77/playlist.m3u8
+#EXTINF:-1 tvg-id="601359892" group-title="Alashkert vs Ararat Yerevan 18:00 ngày 14/04 Armenian Premier League", Alashkert vs Ararat Yerevan 18:00 ngày 14/04 Armenian Premier League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69de1870beb2b_79/index.m3u8?expire=1776767728&amp;sign=9d7ec1955cee006537732d9626cefcc7
+#EXTINF:-1 tvg-id="601359892" group-title="Alashkert vs Ararat Yerevan 18:00 ngày 14/04 Armenian Premier League", Alashkert vs Ararat Yerevan 18:00 ngày 14/04 Armenian Premier League (Link 2)
+https://live.alilicloud.com/live/f61327ec33157cfbb330098bcc4454c9/playlist.m3u8
+#EXTINF:-1 tvg-id="601379755" group-title="Alexander Zverev vs Miomir Kecmanovic 17:50 ngày 14/04 ATP Munich, Germany Men Singles", Alexander Zverev vs Miomir Kecmanovic 17:50 ngày 14/04 ATP Munich, Germany Men Singles
+https://cdn-hls.taoxanh.biz/live/69de2137beb2b_153967/index.m3u8?expire=1776769975&amp;sign=f4a4fd3b9b7ea7c8e713aa51acbeb8f3
+#EXTINF:-1 tvg-id="601379449" group-title="Martin Landaluce vs Lorenzo Musetti 18:10 ngày 14/04 ATP Barcelona, Spain Men Singles", Martin Landaluce vs Lorenzo Musetti 18:10 ngày 14/04 ATP Barcelona, Spain Men Singles
+https://cdn-hls.taoxanh.biz/live/69de1d6124441_4733/index.m3u8?expire=1776768993&amp;sign=981ea799ba0f1901db59973225e46e8a
+#EXTINF:-1 tvg-id="601370974" group-title="LB Bank Ninh Bình vs VTV BĐ Long An 17:30 ngày 14/04 Giải bóng chuyền VĐQG 2026", LB Bank Ninh Bình vs VTV BĐ Long An 17:30 ngày 14/04 Giải bóng chuyền VĐQG 2026
+https://cdn-hls.taoxanh.biz/live/69de0e1dbeb2b_128756/index.m3u8?expire=1776765085&amp;sign=ebd266f99488c0299e8cd399545e129d
 #EXTINF:-1 tvg-id="601368511" group-title="Fakirerpool Young Mens Club vs Brothers Union 16:35 ngày 14/04 Bangladesh Federation Cup", Fakirerpool Young Mens Club vs Brothers Union 16:35 ngày 14/04 Bangladesh Federation Cup
 https://live.alilicloud.com/live/981080a81c004b3d32e9c9a443b51faf/playlist.m3u8
 #EXTINF:-1 tvg-id="601358140" group-title="Karpaty U21 vs PFC Oleksandria U21 17:00 ngày 14/04 Ukrainian Youth Team Championship", Karpaty U21 vs PFC Oleksandria U21 17:00 ngày 14/04 Ukrainian Youth Team Championship
 https://live.alilicloud.com/live/926138c638a90a2070542d63e5d4a3a2/playlist.m3u8
 #EXTINF:-1 tvg-id="601388599" group-title="PVF Vietnam vs Hong Linh Ha Tinh II 17:00 ngày 14/04 Vietnam National Second Class League", PVF Vietnam vs Hong Linh Ha Tinh II 17:00 ngày 14/04 Vietnam National Second Class League
 https://live.alilicloud.com/live/b48e3c2a98003c432cb4e39915e56632/playlist.m3u8
-#EXTINF:-1 tvg-id="601370974" group-title="LB Bank Ninh Bình vs VTV BĐ Long An 17:30 ngày 14/04 Giải bóng chuyền VĐQG 2026", LB Bank Ninh Bình vs VTV BĐ Long An 17:30 ngày 14/04 Giải bóng chuyền VĐQG 2026
-https://cdn-hls.taoxanh.biz/live/69de0e1dbeb2b_128756/index.m3u8?expire=1776765085&amp;sign=ebd266f99488c0299e8cd399545e129d
-#EXTINF:-1 tvg-id="601368529" group-title="Santa Clara U23 vs Academico Viseu U23 17:30 ngày 14/04 Portuguese U23 League", Santa Clara U23 vs Academico Viseu U23 17:30 ngày 14/04 Portuguese U23 League
-https://cdn-hls.taoxanh.biz/live/69de10bbbeb2b_4908/index.m3u8?expire=1776765755&amp;sign=c97cc9fab170398410ebc4ab370f8086
+#EXTINF:-1 tvg-id="601388623" group-title="Northern United FC vs Sudeva Delhi 17:25 ngày 14/04 IND DSD", Northern United FC vs Sudeva Delhi 17:25 ngày 14/04 IND DSD
+https://live.alilicloud.com/live/bee6c5f19458502687dfcd9db47e5360/playlist.m3u8
+#EXTINF:-1 tvg-id="601369684" group-title="SC Bengaluru vs Prayag United SC 17:30 ngày 14/04 Indian I-League 2nd Division", SC Bengaluru vs Prayag United SC 17:30 ngày 14/04 Indian I-League 2nd Division
+https://live.alilicloud.com/live/a9ecaa004f140e9da94805c4467012e0/playlist.m3u8
+#EXTINF:-1 tvg-id="601357948" group-title="Brisbane Knights vs Taringa Rovers 17:30 ngày 14/04 QLD D2", Brisbane Knights vs Taringa Rovers 17:30 ngày 14/04 QLD D2
+https://live.alilicloud.com/live/b27992c4f262a941044ed078a8e38411/playlist.m3u8
+#EXTINF:-1 tvg-id="601368535" group-title="Rio Ave U23 vs Estoril U23 18:00 ngày 14/04 Portuguese U23 League", Rio Ave U23 vs Estoril U23 18:00 ngày 14/04 Portuguese U23 League
+https://live.alilicloud.com/live/c395eaf745c77c290d6c2be23c2ee4bd/playlist.m3u8
+#EXTINF:-1 tvg-id="601368544" group-title="Guangdong Mingtu vs Guangzhou Dandelion Alpha FC 18:30 ngày 14/04 Chinese Football League 2", Guangdong Mingtu vs Guangzhou Dandelion Alpha FC 18:30 ngày 14/04 Chinese Football League 2
+https://cdn-hls.taoxanh.biz/live/69de194d24441_18754/index.m3u8?expire=1776767949&amp;sign=44c89e7c388f638b487ff371decdc1e4
 #EXTINF:-1 tvg-id="601372327" group-title="Australia U17 vs Singapore U17 19:30 ngày 14/04 AFF U17 Youth Championship", Australia U17 vs Singapore U17 19:30 ngày 14/04 AFF U17 Youth Championship
-https://live.alilicloud.com/live/6c123c7b2b5528e16a792a2ebcc99437/playlist.m3u8
-#EXTINF:-1 tvg-id="601368616" group-title="Al-Jandal vs Al Ula FC 20:15 ngày 14/04 Saudi Arabia Division 1", Al-Jandal vs Al Ula FC 20:15 ngày 14/04 Saudi Arabia Division 1
-https://live.alilicloud.com/live/fb9eb19b28d694ec7abe0c1d142f5822/playlist.m3u8
-#EXTINF:-1 tvg-id="601368631" group-title="Portimonense U23 vs Vizela U23 21:00 ngày 14/04 Portuguese U23 League", Portimonense U23 vs Vizela U23 21:00 ngày 14/04 Portuguese U23 League
-https://live.alilicloud.com/live/dc15deada2c4bb58d4e3258fa313dfe6/playlist.m3u8
-#EXTINF:-1 tvg-id="601368646" group-title="Sama Al Sarhan vs Al-Ahly 21:00 ngày 14/04 Jordan Premier League", Sama Al Sarhan vs Al-Ahly 21:00 ngày 14/04 Jordan Premier League
-https://live.alilicloud.com/live/ac7e59f6c00b895bbbc3b0771dc8dba7/playlist.m3u8
+https://cdn-hls.taoxanh.biz/live/69de22aabeb2b_28/index.m3u8?expire=1776770346&amp;sign=bda46fd1c9694529089e55b4b5b7253d
+#EXTINF:-1 tvg-id="601369753" group-title="Andorra (w) vs Azerbaijan (w) 00:00 ngày 15/04 FIFA Women's World Cup qualification(UEFA)", Andorra (w) vs Azerbaijan (w) 00:00 ngày 15/04 FIFA Women's World Cup qualification(UEFA)
+https://cdn-hls.taoxanh.biz/live/69de139024441_6308/index.m3u8?expire=1776766480&amp;sign=fdceb1cdb9b0e94992f19399559f3def
