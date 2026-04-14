@@ -1,22 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601368799" group-title="Al Wehda Mecca vs Al-Adalah 23:20 ngày 14/04 Saudi Arabia Division 1", Al Wehda Mecca vs Al-Adalah 23:20 ngày 14/04 Saudi Arabia Division 1 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69de5f6a24441_133172/index.m3u8?expire=1776785898&amp;sign=229385184eb03f2185aa00bf25dee79a
-#EXTINF:-1 tvg-id="601368799" group-title="Al Wehda Mecca vs Al-Adalah 23:20 ngày 14/04 Saudi Arabia Division 1", Al Wehda Mecca vs Al-Adalah 23:20 ngày 14/04 Saudi Arabia Division 1 (Link 2)
-https://live.alilicloud.com/live/d32c385e5e2badbc854e61e8c64affca/playlist.m3u8
-#EXTINF:-1 tvg-id="601369750" group-title="Gibraltar (w) vs Croatia (w) 00:00 ngày 15/04 FIFA Women's World Cup qualification(UEFA)", Gibraltar (w) vs Croatia (w) 00:00 ngày 15/04 FIFA Women's World Cup qualification(UEFA)
-https://cdn-hls.taoxanh.biz/live/69de6941beb2c_128756/index.m3u8?expire=1776788417&amp;sign=6dbbf284989862300697494eab88b543
-#EXTINF:-1 tvg-id="601369753" group-title="Andorra (w) vs Azerbaijan (w) 00:00 ngày 15/04 FIFA Women's World Cup qualification(UEFA)", Andorra (w) vs Azerbaijan (w) 00:00 ngày 15/04 FIFA Women's World Cup qualification(UEFA) (Link 1)
-https://cdn-hls.taoxanh.biz/live/69de48c724441_6308/index.m3u8?expire=1776780103&amp;sign=7ffbaf9e9e0b0ae5aef6d3521478be45
-#EXTINF:-1 tvg-id="601369753" group-title="Andorra (w) vs Azerbaijan (w) 00:00 ngày 15/04 FIFA Women's World Cup qualification(UEFA)", Andorra (w) vs Azerbaijan (w) 00:00 ngày 15/04 FIFA Women's World Cup qualification(UEFA) (Link 2)
-https://live.alilicloud.com/live/e1e21cfc02496c7d2c56db660594d5b9/playlist.m3u8
-#EXTINF:-1 tvg-id="601369747" group-title="Latvia (w) vs Portugal Women 00:00 ngày 15/04 FIFA Women's World Cup qualification(UEFA)", Latvia (w) vs Portugal Women 00:00 ngày 15/04 FIFA Women's World Cup qualification(UEFA) (Link 1)
-https://cdn-hls.taoxanh.biz/live/69de6fb324441_85514/index.m3u8?expire=1776790067&amp;sign=40c2db9b83fd04e0691d11e8ab061c28
-#EXTINF:-1 tvg-id="601369747" group-title="Latvia (w) vs Portugal Women 00:00 ngày 15/04 FIFA Women's World Cup qualification(UEFA)", Latvia (w) vs Portugal Women 00:00 ngày 15/04 FIFA Women's World Cup qualification(UEFA) (Link 2)
-https://live.alilicloud.com/live/3a10da790f8e5e0af1dcf08e7ad87518/playlist.m3u8
-#EXTINF:-1 tvg-id="601369741" group-title="Sweden Women vs Denmark Women 00:00 ngày 15/04 FIFA Women's World Cup qualification(UEFA)", Sweden Women vs Denmark Women 00:00 ngày 15/04 FIFA Women's World Cup qualification(UEFA) (Link 1)
-https://cdn-hls.taoxanh.biz/live/69de5bb5beb2c_72787/index.m3u8?expire=1776784949&amp;sign=f556aa80a1c28c7103229bfc8f5d729a
-#EXTINF:-1 tvg-id="601369741" group-title="Sweden Women vs Denmark Women 00:00 ngày 15/04 FIFA Women's World Cup qualification(UEFA)", Sweden Women vs Denmark Women 00:00 ngày 15/04 FIFA Women's World Cup qualification(UEFA) (Link 2)
-https://live.alilicloud.com/live/695664ff5647f8a7935272f57aa61b3a/playlist.m3u8
+#EXTINF:-1 tvg-id="601369975" group-title="Atletico Madrid vs FC Barcelona 02:00 ngày 15/04 UEFA Champions League", Atletico Madrid vs FC Barcelona 02:00 ngày 15/04 UEFA Champions League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69de870c24441_151255/index.m3u8?expire=1776796044&amp;sign=8242d7ddbf32f50eefc6ef3d747c90b5
+#EXTINF:-1 tvg-id="601369975" group-title="Atletico Madrid vs FC Barcelona 02:00 ngày 15/04 UEFA Champions League", Atletico Madrid vs FC Barcelona 02:00 ngày 15/04 UEFA Champions League (Link 2)
+https://cdn-hls.taoxanh.biz/live/69de844a24441_79/index.m3u8?expire=1776795338&amp;sign=39ddb71ecb01b95e2e00947d7735c348
+#EXTINF:-1 tvg-id="601369975" group-title="Atletico Madrid vs FC Barcelona 02:00 ngày 15/04 UEFA Champions League", Atletico Madrid vs FC Barcelona 02:00 ngày 15/04 UEFA Champions League (Link 3)
+https://cdn-hls.taoxanh.biz/live/69de844224441_4908/index.m3u8?expire=1776795330&amp;sign=2f2a18e91e89a3396e4d20a0f83d4008
+#EXTINF:-1 tvg-id="601369975" group-title="Atletico Madrid vs FC Barcelona 02:00 ngày 15/04 UEFA Champions League", Atletico Madrid vs FC Barcelona 02:00 ngày 15/04 UEFA Champions League (Link 4)
+https://live.alilicloud.com/live/c38c31c58d1166bc10eea10cc6f409f0/playlist.m3u8
 #EXTINF:-1 tvg-id="601369783" group-title="Israel (w) vs Luxembourg (w) 00:15 ngày 15/04 FIFA Women's World Cup qualification(UEFA)", Israel (w) vs Luxembourg (w) 00:15 ngày 15/04 FIFA Women's World Cup qualification(UEFA) (Link 1)
 https://cdn-hls.taoxanh.biz/live/69de6e0824441_88642/index.m3u8?expire=1776789640&amp;sign=f9b9a9cb00da15dcc1bb7c5f55bfc1b3
 #EXTINF:-1 tvg-id="601369783" group-title="Israel (w) vs Luxembourg (w) 00:15 ngày 15/04 FIFA Women's World Cup qualification(UEFA)", Israel (w) vs Luxembourg (w) 00:15 ngày 15/04 FIFA Women's World Cup qualification(UEFA) (Link 2)
@@ -25,35 +15,55 @@ https://live.alilicloud.com/live/93e3e3f349051ad124137eb16334f214/playlist.m3u8
 https://cdn-hls.taoxanh.biz/live/69de6503beb2c_95554/index.m3u8?expire=1776787331&amp;sign=e472db8068e129070f54987c1e86a3cd
 #EXTINF:-1 tvg-id="601369813" group-title="FC Dobrudzha vs Botev Plovdiv 00:30 ngày 15/04 Bulgarian First League", FC Dobrudzha vs Botev Plovdiv 00:30 ngày 15/04 Bulgarian First League (Link 2)
 https://live.alilicloud.com/live/d72b026710022444b64939747707f2b1/playlist.m3u8
+#EXTINF:-1 tvg-id="601369843" group-title="Al-Ittihad Club vs Al-Wahda FC 01:00 ngày 15/04 AFC Champions League Elite", Al-Ittihad Club vs Al-Wahda FC 01:00 ngày 15/04 AFC Champions League Elite (Link 1)
+https://cdn-hls.taoxanh.biz/live/69de7610beb2c_88186/index.m3u8?expire=1776791696&amp;sign=2c359351cc8334dbf395d346ff59b80d
+#EXTINF:-1 tvg-id="601369843" group-title="Al-Ittihad Club vs Al-Wahda FC 01:00 ngày 15/04 AFC Champions League Elite", Al-Ittihad Club vs Al-Wahda FC 01:00 ngày 15/04 AFC Champions League Elite (Link 2)
+https://live.alilicloud.com/live/96bc72f0e1f603c1872ea32544b05676/playlist.m3u8
+#EXTINF:-1 tvg-id="601369825" group-title="England Women vs Spain Women 01:00 ngày 15/04 FIFA Women's World Cup qualification(UEFA)", England Women vs Spain Women 01:00 ngày 15/04 FIFA Women's World Cup qualification(UEFA) (Link 1)
+https://cdn-hls.taoxanh.biz/live/69de6ab4beb2c_73445/index.m3u8?expire=1776788788&amp;sign=c1fa5f7c7609b0005600cebc02c6827d
+#EXTINF:-1 tvg-id="601369825" group-title="England Women vs Spain Women 01:00 ngày 15/04 FIFA Women's World Cup qualification(UEFA)", England Women vs Spain Women 01:00 ngày 15/04 FIFA Women's World Cup qualification(UEFA) (Link 2)
+https://live.alilicloud.com/live/dcda5016c87e04022133b3998a2132b6/playlist.m3u8
+#EXTINF:-1 tvg-id="601369822" group-title="Al-Qadsiah vs Al-Shabab FC 01:00 ngày 15/04 Saudi Professional League", Al-Qadsiah vs Al-Shabab FC 01:00 ngày 15/04 Saudi Professional League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69de7191beb2c_124958/index.m3u8?expire=1776790545&amp;sign=a70d5335453d947fe77fb5164870c3d2
+#EXTINF:-1 tvg-id="601369822" group-title="Al-Qadsiah vs Al-Shabab FC 01:00 ngày 15/04 Saudi Professional League", Al-Qadsiah vs Al-Shabab FC 01:00 ngày 15/04 Saudi Professional League (Link 2)
+https://live.alilicloud.com/live/e2c746402d880b2d4a8581e900fc71d6/playlist.m3u8
+#EXTINF:-1 tvg-id="601369870" group-title="Scotland (w) vs Belgium (w) 01:30 ngày 15/04 FIFA Women's World Cup qualification(UEFA)", Scotland (w) vs Belgium (w) 01:30 ngày 15/04 FIFA Women's World Cup qualification(UEFA) (Link 1)
+https://cdn-hls.taoxanh.biz/live/69de7547beb2c_103/index.m3u8?expire=1776791495&amp;sign=f7b1b7ca9f45c962ce2deafeb5cbcfa5
+#EXTINF:-1 tvg-id="601369870" group-title="Scotland (w) vs Belgium (w) 01:30 ngày 15/04 FIFA Women's World Cup qualification(UEFA)", Scotland (w) vs Belgium (w) 01:30 ngày 15/04 FIFA Women's World Cup qualification(UEFA) (Link 2)
+https://live.alilicloud.com/live/23c62b0fb88dfc99e777febf0bc35860/playlist.m3u8
+#EXTINF:-1 tvg-id="601369960" group-title="Netherlands Women vs France Women 01:45 ngày 15/04 FIFA Women's World Cup qualification(UEFA)", Netherlands Women vs France Women 01:45 ngày 15/04 FIFA Women's World Cup qualification(UEFA) (Link 1)
+https://cdn-hls.taoxanh.biz/live/69de811524441_18754/index.m3u8?expire=1776794517&amp;sign=7e55ae3557ae8cdfbb6cc8534510cf89
+#EXTINF:-1 tvg-id="601369960" group-title="Netherlands Women vs France Women 01:45 ngày 15/04 FIFA Women's World Cup qualification(UEFA)", Netherlands Women vs France Women 01:45 ngày 15/04 FIFA Women's World Cup qualification(UEFA) (Link 2)
+https://live.alilicloud.com/live/69076e18e36ad971f3b8e217400499ea/playlist.m3u8
+#EXTINF:-1 tvg-id="601369963" group-title="Portsmouth vs Ipswich Town 02:00 ngày 15/04 English Football League Championship", Portsmouth vs Ipswich Town 02:00 ngày 15/04 English Football League Championship (Link 1)
+https://cdn-hls.taoxanh.biz/live/69de85cbbeb2c_133172/index.m3u8?expire=1776795723&amp;sign=f1b443f71b97e8b358504e95a61dc449
+#EXTINF:-1 tvg-id="601369963" group-title="Portsmouth vs Ipswich Town 02:00 ngày 15/04 English Football League Championship", Portsmouth vs Ipswich Town 02:00 ngày 15/04 English Football League Championship (Link 2)
+https://live.alilicloud.com/live/9a07ee8d58b43657ab8508a138849c38/playlist.m3u8
 #EXTINF:-1 tvg-id="601379788" group-title="Arthur Fils vs Terence Atmane 00:30 ngày 15/04 ATP Barcelona, Spain Men Singles", Arthur Fils vs Terence Atmane 00:30 ngày 15/04 ATP Barcelona, Spain Men Singles
 https://cdn-hls.taoxanh.biz/live/69de7988beb2c_42127/index.m3u8?expire=1776792584&amp;sign=4774d66ebbd0066f90823730e5c50bfa
-#EXTINF:-1 tvg-id="601368742" group-title="Poland (w) vs Ireland Women 23:00 ngày 14/04 FIFA Women's World Cup qualification(UEFA)", Poland (w) vs Ireland Women 23:00 ngày 14/04 FIFA Women's World Cup qualification(UEFA)
-https://live.alilicloud.com/live/bf30493b2c4e254cf75b9484bf6b10a5/playlist.m3u8
-#EXTINF:-1 tvg-id="601368745" group-title="Norway Women vs Slovenia (w) 23:00 ngày 14/04 FIFA Women's World Cup qualification(UEFA)", Norway Women vs Slovenia (w) 23:00 ngày 14/04 FIFA Women's World Cup qualification(UEFA)
-https://live.alilicloud.com/live/4947e70e2555c2a8ac4283955c325397/playlist.m3u8
-#EXTINF:-1 tvg-id="601368748" group-title="Faroe Islands (w) vs Greece (w) 23:00 ngày 14/04 FIFA Women's World Cup qualification(UEFA)", Faroe Islands (w) vs Greece (w) 23:00 ngày 14/04 FIFA Women's World Cup qualification(UEFA)
-https://live.alilicloud.com/live/69756a943af5b4916cb0bb9d84331444/playlist.m3u8
-#EXTINF:-1 tvg-id="601369708" group-title="FC Koper vs Maribor 23:00 ngày 14/04 Slovenia 1.Liga", FC Koper vs Maribor 23:00 ngày 14/04 Slovenia 1.Liga
-https://live.alilicloud.com/live/15f9283156093ce92a644c86595abcea/playlist.m3u8
-#EXTINF:-1 tvg-id="601368787" group-title="Serbia (w) vs Italy Women 23:15 ngày 14/04 FIFA Women's World Cup qualification(UEFA)", Serbia (w) vs Italy Women 23:15 ngày 14/04 FIFA Women's World Cup qualification(UEFA)
-https://live.alilicloud.com/live/6c6986c38ae218ec5d040fcb4cb164be/playlist.m3u8
-#EXTINF:-1 tvg-id="601368790" group-title="Germany Women vs Austria (w) 23:15 ngày 14/04 FIFA Women's World Cup qualification(UEFA)", Germany Women vs Austria (w) 23:15 ngày 14/04 FIFA Women's World Cup qualification(UEFA)
-https://live.alilicloud.com/live/257a65c586283da7120d597879da47ce/playlist.m3u8
-#EXTINF:-1 tvg-id="601380139" group-title="Abacha City vs Wusum Stars 23:30 ngày 14/04 Sierra Leone Premier League", Abacha City vs Wusum Stars 23:30 ngày 14/04 Sierra Leone Premier League
-https://live.alilicloud.com/live/42604a3341d57364f73076285656839c/playlist.m3u8
-#EXTINF:-1 tvg-id="601369756" group-title="IFK Varnamo vs GIF Sundsvall 00:00 ngày 15/04 Sweden Superettan", IFK Varnamo vs GIF Sundsvall 00:00 ngày 15/04 Sweden Superettan
-https://live.alilicloud.com/live/d5a9799853d3cb81ae36add86cb1366f/playlist.m3u8
-#EXTINF:-1 tvg-id="601369738" group-title="Catanzaro vs Modena 00:00 ngày 15/04 Italian Serie B", Catanzaro vs Modena 00:00 ngày 15/04 Italian Serie B
-https://live.alilicloud.com/live/081c8d89c96d2ed93e4644a2e99d3d66/playlist.m3u8
-#EXTINF:-1 tvg-id="601369975" group-title="Atletico Madrid vs FC Barcelona 02:00 ngày 15/04 UEFA Champions League", Atletico Madrid vs FC Barcelona 02:00 ngày 15/04 UEFA Champions League
-https://live.alilicloud.com/live/c38c31c58d1166bc10eea10cc6f409f0/playlist.m3u8
-#EXTINF:-1 tvg-id="601369978" group-title="Liverpool vs Paris Saint Germain 02:00 ngày 15/04 UEFA Champions League", Liverpool vs Paris Saint Germain 02:00 ngày 15/04 UEFA Champions League
+#EXTINF:-1 tvg-id="601369828" group-title="Northern Ireland (w) vs malta (w) 01:00 ngày 15/04 FIFA Women's World Cup qualification(UEFA)", Northern Ireland (w) vs malta (w) 01:00 ngày 15/04 FIFA Women's World Cup qualification(UEFA)
+https://live.alilicloud.com/live/d476207ad7f7680c5920cf943de7c634/playlist.m3u8
+#EXTINF:-1 tvg-id="601369834" group-title="Bragantino RB Youth vs Cruzeiro (Youth) 01:00 ngày 15/04 Brazilian Youth League", Bragantino RB Youth vs Cruzeiro (Youth) 01:00 ngày 15/04 Brazilian Youth League
+https://live.alilicloud.com/live/ed77574284a937d1c2ec33171b933029/playlist.m3u8
+#EXTINF:-1 tvg-id="601369837" group-title="Ittihad Alexandria SC vs ZED FC 01:00 ngày 15/04 Egyptian Premier League", Ittihad Alexandria SC vs ZED FC 01:00 ngày 15/04 Egyptian Premier League
+https://live.alilicloud.com/live/45233a52e49be85e15f33c9d2252ab76/playlist.m3u8
+#EXTINF:-1 tvg-id="601369840" group-title="Kahraba Ismailia vs Ismaily SC 01:00 ngày 15/04 Egyptian Premier League", Kahraba Ismailia vs Ismaily SC 01:00 ngày 15/04 Egyptian Premier League
+https://live.alilicloud.com/live/16b0b0005f8cb2aa18bd7cde9ebff504/playlist.m3u8
+#EXTINF:-1 tvg-id="601369864" group-title="Wales (w) vs Albania (w) 01:15 ngày 15/04 FIFA Women's World Cup qualification(UEFA)", Wales (w) vs Albania (w) 01:15 ngày 15/04 FIFA Women's World Cup qualification(UEFA)
+https://live.alilicloud.com/live/bdff3dbdef4b19e9de1a45f6ae237c39/playlist.m3u8
+#EXTINF:-1 tvg-id="601369927" group-title="Aldershot Town vs Southend United 01:45 ngày 15/04 English National League", Aldershot Town vs Southend United 01:45 ngày 15/04 English National League
+https://live.alilicloud.com/live/15ca0447cf8b5e86fb2f4d5a53649544/playlist.m3u8
+#EXTINF:-1 tvg-id="601369924" group-title="Queen's Park vs Raith Rovers 01:45 ngày 15/04 Scottish Championship", Queen's Park vs Raith Rovers 01:45 ngày 15/04 Scottish Championship
+https://live.alilicloud.com/live/6f53facf4d272986b758bfabf02acc84/playlist.m3u8
+#EXTINF:-1 tvg-id="601369921" group-title="Airdrie United vs Dunfermline Athletic 01:45 ngày 15/04 Scottish Championship", Airdrie United vs Dunfermline Athletic 01:45 ngày 15/04 Scottish Championship
+https://live.alilicloud.com/live/e8e8a84e5e7337bd26e9e8b97ee50856/playlist.m3u8
+#EXTINF:-1 tvg-id="601369906" group-title="Peterhead vs Inverness 01:45 ngày 15/04 Scottish League One", Peterhead vs Inverness 01:45 ngày 15/04 Scottish League One
+https://live.alilicloud.com/live/a160cf65e6f5cb946d80f980b7f71123/playlist.m3u8
+#EXTINF:-1 tvg-id="601369978" group-title="Liverpool vs Paris Saint Germain 02:00 ngày 15/04 UEFA Champions League", Liverpool vs Paris Saint Germain 02:00 ngày 15/04 UEFA Champions League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69de8aa2beb2c_85514/index.m3u8?expire=1776796962&amp;sign=0bad0b6ea12ede796c17c087408a3241
+#EXTINF:-1 tvg-id="601369978" group-title="Liverpool vs Paris Saint Germain 02:00 ngày 15/04 UEFA Champions League", Liverpool vs Paris Saint Germain 02:00 ngày 15/04 UEFA Champions League (Link 2)
+https://cdn-hls.taoxanh.biz/live/69de872824441_44731/index.m3u8?expire=1776796072&amp;sign=e51d98a21b6e7c7a5fe2489817ac2e0f
+#EXTINF:-1 tvg-id="601369978" group-title="Liverpool vs Paris Saint Germain 02:00 ngày 15/04 UEFA Champions League", Liverpool vs Paris Saint Germain 02:00 ngày 15/04 UEFA Champions League (Link 3)
+https://cdn-hls.taoxanh.biz/live/69de8460beb2c_28/index.m3u8?expire=1776795360&amp;sign=935c8890cb522b436c4f8a3cfad42fb2
+#EXTINF:-1 tvg-id="601369978" group-title="Liverpool vs Paris Saint Germain 02:00 ngày 15/04 UEFA Champions League", Liverpool vs Paris Saint Germain 02:00 ngày 15/04 UEFA Champions League (Link 4)
 https://live.alilicloud.com/live/8818651c59a7bc7415f5a01609f54870/playlist.m3u8
-#EXTINF:-1 tvg-id="601369822" group-title="Al-Qadsiah vs Al-Shabab FC 01:00 ngày 15/04 Saudi Professional League", Al-Qadsiah vs Al-Shabab FC 01:00 ngày 15/04 Saudi Professional League
-https://cdn-hls.taoxanh.biz/live/69de7191beb2c_124958/index.m3u8?expire=1776790545&amp;sign=a70d5335453d947fe77fb5164870c3d2
-#EXTINF:-1 tvg-id="601369843" group-title="Al-Ittihad Club vs Al-Wahda FC 01:00 ngày 15/04 AFC Champions League Elite", Al-Ittihad Club vs Al-Wahda FC 01:00 ngày 15/04 AFC Champions League Elite
-https://cdn-hls.taoxanh.biz/live/69de7610beb2c_88186/index.m3u8?expire=1776791696&amp;sign=2c359351cc8334dbf395d346ff59b80d
-#EXTINF:-1 tvg-id="601369825" group-title="England Women vs Spain Women 01:00 ngày 15/04 FIFA Women's World Cup qualification(UEFA)", England Women vs Spain Women 01:00 ngày 15/04 FIFA Women's World Cup qualification(UEFA)
-https://cdn-hls.taoxanh.biz/live/69de6ab4beb2c_73445/index.m3u8?expire=1776788788&amp;sign=c1fa5f7c7609b0005600cebc02c6827d
-#EXTINF:-1 tvg-id="601369870" group-title="Scotland (w) vs Belgium (w) 01:30 ngày 15/04 FIFA Women's World Cup qualification(UEFA)", Scotland (w) vs Belgium (w) 01:30 ngày 15/04 FIFA Women's World Cup qualification(UEFA)
-https://cdn-hls.taoxanh.biz/live/69de7547beb2c_103/index.m3u8?expire=1776791495&amp;sign=f7b1b7ca9f45c962ce2deafeb5cbcfa5
