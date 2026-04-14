@@ -1,13 +1,51 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601368496" group-title="Beijing IT vs Shanghai Port B 14:00 ngày 14/04 Chinese Football League 2", Beijing IT vs Shanghai Port B 14:00 ngày 14/04 Chinese Football League 2 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69ddd88dbeb2b_28/index.m3u8?expire=1776751373&amp;sign=4253e8d7393ce307798dfa82fc5f066b
-#EXTINF:-1 tvg-id="601368496" group-title="Beijing IT vs Shanghai Port B 14:00 ngày 14/04 Chinese Football League 2", Beijing IT vs Shanghai Port B 14:00 ngày 14/04 Chinese Football League 2 (Link 2)
-https://live.alilicloud.com/live/03d24e6e70e7b245d722158232c27630/playlist.m3u8
 #EXTINF:-1 tvg-id="601368499" group-title="Dalian Kewei vs Haimen Codion 14:00 ngày 14/04 Chinese Football League 2", Dalian Kewei vs Haimen Codion 14:00 ngày 14/04 Chinese Football League 2 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69dddde2beb2b_72787/index.m3u8?expire=1776752738&amp;sign=0645711571f1e356e53cc1df15b647c8
 #EXTINF:-1 tvg-id="601368499" group-title="Dalian Kewei vs Haimen Codion 14:00 ngày 14/04 Chinese Football League 2", Dalian Kewei vs Haimen Codion 14:00 ngày 14/04 Chinese Football League 2 (Link 2)
 https://live.alilicloud.com/live/586949b4308ba18eb607d48e0e2499bb/playlist.m3u8
-#EXTINF:-1 tvg-id="601368502" group-title="Jiangxi Lushan vs Guizhou Zhucheng Athletic FC 14:30 ngày 14/04 Chinese Football League 2", Jiangxi Lushan vs Guizhou Zhucheng Athletic FC 14:30 ngày 14/04 Chinese Football League 2
+#EXTINF:-1 tvg-id="601368496" group-title="Beijing IT vs Shanghai Port B 14:00 ngày 14/04 Chinese Football League 2", Beijing IT vs Shanghai Port B 14:00 ngày 14/04 Chinese Football League 2 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69ddd88dbeb2b_28/index.m3u8?expire=1776751373&amp;sign=4253e8d7393ce307798dfa82fc5f066b
+#EXTINF:-1 tvg-id="601368496" group-title="Beijing IT vs Shanghai Port B 14:00 ngày 14/04 Chinese Football League 2", Beijing IT vs Shanghai Port B 14:00 ngày 14/04 Chinese Football League 2 (Link 2)
+https://live.alilicloud.com/live/03d24e6e70e7b245d722158232c27630/playlist.m3u8
+#EXTINF:-1 tvg-id="601368502" group-title="Jiangxi Lushan vs Guizhou Zhucheng Athletic FC 14:30 ngày 14/04 Chinese Football League 2", Jiangxi Lushan vs Guizhou Zhucheng Athletic FC 14:30 ngày 14/04 Chinese Football League 2 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69dde35324441_44731/index.m3u8?expire=1776754131&amp;sign=267741d299c260cdab9ff140b6303f54
-#EXTINF:-1 tvg-id="601368508" group-title="Hubei Istar vs Ganzhou Ruishi 15:30 ngày 14/04 Chinese Football League 2", Hubei Istar vs Ganzhou Ruishi 15:30 ngày 14/04 Chinese Football League 2
+#EXTINF:-1 tvg-id="601368502" group-title="Jiangxi Lushan vs Guizhou Zhucheng Athletic FC 14:30 ngày 14/04 Chinese Football League 2", Jiangxi Lushan vs Guizhou Zhucheng Athletic FC 14:30 ngày 14/04 Chinese Football League 2 (Link 2)
+https://live.alilicloud.com/live/c86cb6348633f843c31857c3bd86facb/playlist.m3u8
+#EXTINF:-1 tvg-id="601372288" group-title="Brunei Darussalam U17 vs Cambodia U17 15:30 ngày 14/04 AFF U17 Youth Championship", Brunei Darussalam U17 vs Cambodia U17 15:30 ngày 14/04 AFF U17 Youth Championship (Link 1)
+https://cdn-hls.taoxanh.biz/live/69ddf1bcbeb2b_95554/index.m3u8?expire=1776757820&amp;sign=4756cf001033bcac0d6daa9e63959388
+#EXTINF:-1 tvg-id="601372288" group-title="Brunei Darussalam U17 vs Cambodia U17 15:30 ngày 14/04 AFF U17 Youth Championship", Brunei Darussalam U17 vs Cambodia U17 15:30 ngày 14/04 AFF U17 Youth Championship (Link 2)
+https://live.alilicloud.com/live/8e8e8929478fe8364201e23d2ef3b124/playlist.m3u8
+#EXTINF:-1 tvg-id="601368508" group-title="Hubei Istar vs Ganzhou Ruishi 15:30 ngày 14/04 Chinese Football League 2", Hubei Istar vs Ganzhou Ruishi 15:30 ngày 14/04 Chinese Football League 2 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69ddaf0e24441_6308/index.m3u8?expire=1776740750&amp;sign=04220009165bb7a75cb6b98a678c1523
+#EXTINF:-1 tvg-id="601368508" group-title="Hubei Istar vs Ganzhou Ruishi 15:30 ngày 14/04 Chinese Football League 2", Hubei Istar vs Ganzhou Ruishi 15:30 ngày 14/04 Chinese Football League 2 (Link 2)
+https://live.alilicloud.com/live/be0695836cf43fe536b42f53a896a60b/playlist.m3u8
+#EXTINF:-1 tvg-id="601370971" group-title="Thể Công Tân Cảng vs TP Hồ Chí Minh 14:30 ngày 14/04 Giải bóng chuyền VĐQG 2026", Thể Công Tân Cảng vs TP Hồ Chí Minh 14:30 ngày 14/04 Giải bóng chuyền VĐQG 2026
+https://cdn-hls.taoxanh.biz/live/69dde24f24441_88642/index.m3u8?expire=1776753871&amp;sign=327ee5e1a68d59931252018b4404930a
+#EXTINF:-1 tvg-id="601380094" group-title="Zhejiang Hangzhou Bank(W) vs Guangdong(W) 14:00 ngày 14/04 Chinese National Women's Football Championship", Zhejiang Hangzhou Bank(W) vs Guangdong(W) 14:00 ngày 14/04 Chinese National Women's Football Championship
+https://live.alilicloud.com/live/4042bff46838ff9f1a4a957f9c4cbe28/playlist.m3u8
+#EXTINF:-1 tvg-id="601380091" group-title="Sichuan (w) vs Wuhan Jianghan(W) 14:00 ngày 14/04 Chinese National Women's Football Championship", Sichuan (w) vs Wuhan Jianghan(W) 14:00 ngày 14/04 Chinese National Women's Football Championship
+https://live.alilicloud.com/live/d82eece381ee8e117d04e5a1b7952a9c/playlist.m3u8
+#EXTINF:-1 tvg-id="601380088" group-title="Beijing(W) vs Changchun Dazhongzhuoyue(W) 14:00 ngày 14/04 Chinese National Women's Football Championship", Beijing(W) vs Changchun Dazhongzhuoyue(W) 14:00 ngày 14/04 Chinese National Women's Football Championship
+https://live.alilicloud.com/live/5aa4274293d1e19d3d5a0dea2a09ab63/playlist.m3u8
+#EXTINF:-1 tvg-id="601368493" group-title="Solomon Kings FC vs Vanuatu United FC 14:00 ngày 14/04 OFC P L", Solomon Kings FC vs Vanuatu United FC 14:00 ngày 14/04 OFC P L
+https://live.alilicloud.com/live/6c024aaa032b3d81a5d982bcd1de24a3/playlist.m3u8
+#EXTINF:-1 tvg-id="601380103" group-title="Shanghai RCB(W) vs Jiangsu Wuxi(W) 14:30 ngày 14/04 Chinese National Women's Football Championship", Shanghai RCB(W) vs Jiangsu Wuxi(W) 14:30 ngày 14/04 Chinese National Women's Football Championship
+https://live.alilicloud.com/live/624be84efeca7e4549277a9cac3d0820/playlist.m3u8
+#EXTINF:-1 tvg-id="601388416" group-title="Lam Dong vs Vinh Long 15:00 ngày 14/04 Vietnam National Second Class League", Lam Dong vs Vinh Long 15:00 ngày 14/04 Vietnam National Second Class League
+https://live.alilicloud.com/live/3d2388ea2d7aaa0b7ae78c2533c16520/playlist.m3u8
+#EXTINF:-1 tvg-id="601385605" group-title="Shanxi TYUT vs Dalian Juxing Shengheng 15:00 ngày 14/04 Chinese Football Association Member Association Champions League", Shanxi TYUT vs Dalian Juxing Shengheng 15:00 ngày 14/04 Chinese Football Association Member Association Champions League
+https://live.alilicloud.com/live/22f7955e69b3eb1f9f9485135ae5dd64/playlist.m3u8
+#EXTINF:-1 tvg-id="601385602" group-title="Qingdao Fuli vs Qingdao Quick Boy 15:00 ngày 14/04 Chinese Football Association Member Association Champions League", Qingdao Fuli vs Qingdao Quick Boy 15:00 ngày 14/04 Chinese Football Association Member Association Champions League
+https://live.alilicloud.com/live/bd250aec23cebf8f3149d5bc8df4c299/playlist.m3u8
+#EXTINF:-1 tvg-id="601388434" group-title="Da Nang II vs T T Hanoi B 15:30 ngày 14/04 Vietnam National Second Class League", Da Nang II vs T T Hanoi B 15:30 ngày 14/04 Vietnam National Second Class League
+https://live.alilicloud.com/live/2467d2e84966b27af52515fd15c17e2e/playlist.m3u8
+#EXTINF:-1 tvg-id="601388428" group-title="Huda Hue vs Tre Phu Dong 15:30 ngày 14/04 Vietnam National Second Class League", Huda Hue vs Tre Phu Dong 15:30 ngày 14/04 Vietnam National Second Class League
+https://live.alilicloud.com/live/679779210c0760a60f36d486622a46e4/playlist.m3u8
+#EXTINF:-1 tvg-id="601380109" group-title="Turkiye (w) U18 vs Morocco (w) football U17 15:30 ngày 14/04 International Friendly", Turkiye (w) U18 vs Morocco (w) football U17 15:30 ngày 14/04 International Friendly
+https://live.alilicloud.com/live/d5e737c0ebedbec1379154e0d50d5beb/playlist.m3u8
+#EXTINF:-1 tvg-id="601380106" group-title="Paraguay (W) U18 vs Uzbekistan (w) U18 15:30 ngày 14/04 International Friendly", Paraguay (W) U18 vs Uzbekistan (w) U18 15:30 ngày 14/04 International Friendly
+https://live.alilicloud.com/live/b950633c22ce381be0c8cb6ed20dfa16/playlist.m3u8
+#EXTINF:-1 tvg-id="601379275" group-title="Alex de Minaur vs Sebastian Ofner 16:00 ngày 14/04 ATP Barcelona, Spain Men Singles", Alex de Minaur vs Sebastian Ofner 16:00 ngày 14/04 ATP Barcelona, Spain Men Singles
+https://cdn-hls.taoxanh.biz/live/69ddfbae24441_4733/index.m3u8?expire=1776760366&amp;sign=a9fc434480e1e7fa1af7cc98e290bba3
+#EXTINF:-1 tvg-id="601379281" group-title="Tallon Griekspoor vs Denis Shapovalov 16:00 ngày 14/04 ATP Munich, Germany Men Singles", Tallon Griekspoor vs Denis Shapovalov 16:00 ngày 14/04 ATP Munich, Germany Men Singles
+https://cdn-hls.taoxanh.biz/live/69ddfc11beb2b_153967/index.m3u8?expire=1776760465&amp;sign=79fdcbfe5b6e43c8365cd463e1a466db
