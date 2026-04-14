@@ -1,55 +1,69 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601372327" group-title="Australia U17 vs Singapore U17 19:30 ngày 14/04 AFF U17 Youth Championship", Australia U17 vs Singapore U17 19:30 ngày 14/04 AFF U17 Youth Championship (Link 1)
-https://cdn-hls.taoxanh.biz/live/69de22aabeb2b_28/index.m3u8?expire=1776770346&amp;sign=bda46fd1c9694529089e55b4b5b7253d
-#EXTINF:-1 tvg-id="601372327" group-title="Australia U17 vs Singapore U17 19:30 ngày 14/04 AFF U17 Youth Championship", Australia U17 vs Singapore U17 19:30 ngày 14/04 AFF U17 Youth Championship (Link 2)
-https://live.alilicloud.com/live/6c123c7b2b5528e16a792a2ebcc99437/playlist.m3u8
-#EXTINF:-1 tvg-id="601368616" group-title="Al-Jandal vs Al Ula FC 20:15 ngày 14/04 Saudi Arabia Division 1", Al-Jandal vs Al Ula FC 20:15 ngày 14/04 Saudi Arabia Division 1 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69de328024441_72787/index.m3u8?expire=1776774400&amp;sign=f8d535e3f003618e1d7f79775aa5607a
-#EXTINF:-1 tvg-id="601368616" group-title="Al-Jandal vs Al Ula FC 20:15 ngày 14/04 Saudi Arabia Division 1", Al-Jandal vs Al Ula FC 20:15 ngày 14/04 Saudi Arabia Division 1 (Link 2)
-https://live.alilicloud.com/live/fb9eb19b28d694ec7abe0c1d142f5822/playlist.m3u8
-#EXTINF:-1 tvg-id="601368631" group-title="Portimonense U23 vs Vizela U23 21:00 ngày 14/04 Portuguese U23 League", Portimonense U23 vs Vizela U23 21:00 ngày 14/04 Portuguese U23 League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69de3e3fbeb2b_44731/index.m3u8?expire=1776777407&amp;sign=bd7fe112af80e7400de5141dacabc514
-#EXTINF:-1 tvg-id="601368631" group-title="Portimonense U23 vs Vizela U23 21:00 ngày 14/04 Portuguese U23 League", Portimonense U23 vs Vizela U23 21:00 ngày 14/04 Portuguese U23 League (Link 2)
-https://live.alilicloud.com/live/dc15deada2c4bb58d4e3258fa313dfe6/playlist.m3u8
-#EXTINF:-1 tvg-id="601368634" group-title="Braga U23 vs Famalicao U23 21:00 ngày 14/04 Portuguese U23 League", Braga U23 vs Famalicao U23 21:00 ngày 14/04 Portuguese U23 League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69de3f6f24441_95554/index.m3u8?expire=1776777711&amp;sign=af3d2b45ef2eacd388557f86b8500fe2
-#EXTINF:-1 tvg-id="601368634" group-title="Braga U23 vs Famalicao U23 21:00 ngày 14/04 Portuguese U23 League", Braga U23 vs Famalicao U23 21:00 ngày 14/04 Portuguese U23 League (Link 2)
-https://live.alilicloud.com/live/0518cc2bc7d5b6c6cfc1d3f4f084bec5/playlist.m3u8
+#EXTINF:-1 tvg-id="601368646" group-title="Sama Al Sarhan vs Al-Ahly 21:00 ngày 14/04 Jordan Premier League", Sama Al Sarhan vs Al-Ahly 21:00 ngày 14/04 Jordan Premier League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69de3f4c24441_74012/index.m3u8?expire=1776777676&amp;sign=55ed45c240669cf51a43c5bde14fb0ec
+#EXTINF:-1 tvg-id="601368646" group-title="Sama Al Sarhan vs Al-Ahly 21:00 ngày 14/04 Jordan Premier League", Sama Al Sarhan vs Al-Ahly 21:00 ngày 14/04 Jordan Premier League (Link 2)
+https://live.alilicloud.com/live/ac7e59f6c00b895bbbc3b0771dc8dba7/playlist.m3u8
 #EXTINF:-1 tvg-id="601368637" group-title="Torreense U23 vs Sporting CP U23 21:00 ngày 14/04 Portuguese U23 League", Torreense U23 vs Sporting CP U23 21:00 ngày 14/04 Portuguese U23 League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69de477bbeb2c_73445/index.m3u8?expire=1776779771&amp;sign=2d047209be4ae5c5bc0c53eabc78615d
 #EXTINF:-1 tvg-id="601368637" group-title="Torreense U23 vs Sporting CP U23 21:00 ngày 14/04 Portuguese U23 League", Torreense U23 vs Sporting CP U23 21:00 ngày 14/04 Portuguese U23 League (Link 2)
 https://live.alilicloud.com/live/b9bc4635d1d1c64275012fbd1481261b/playlist.m3u8
-#EXTINF:-1 tvg-id="601368646" group-title="Sama Al Sarhan vs Al-Ahly 21:00 ngày 14/04 Jordan Premier League", Sama Al Sarhan vs Al-Ahly 21:00 ngày 14/04 Jordan Premier League
-https://cdn-hls.taoxanh.biz/live/69de3f4c24441_74012/index.m3u8?expire=1776777676&amp;sign=55ed45c240669cf51a43c5bde14fb0ec
-#EXTINF:-1 tvg-id="601379758" group-title="Marin Cilic vs Daniel Altmaier 20:00 ngày 14/04 ATP Munich, Germany Men Singles", Marin Cilic vs Daniel Altmaier 20:00 ngày 14/04 ATP Munich, Germany Men Singles
-https://cdn-hls.taoxanh.biz/live/69de2e3424441_4439/index.m3u8?expire=1776773300&amp;sign=bbbe88dd840be91fb293ef7c36f886d9
-#EXTINF:-1 tvg-id="601370977" group-title="Công An TP HCM vs Biên Phòng MB 20:00 ngày 14/04 Giải bóng chuyền VĐQG 2026", Công An TP HCM vs Biên Phòng MB 20:00 ngày 14/04 Giải bóng chuyền VĐQG 2026
-https://cdn-hls.taoxanh.biz/live/69de2bbdbeb2b_128756/index.m3u8?expire=1776772669&amp;sign=8f349c6eb8e2651f40daf7c02b05f586
-#EXTINF:-1 tvg-id="601366774" group-title="Xorazm Urganch vs FK Kokand 1912 20:00 ngày 14/04 Uzbekistan Super League", Xorazm Urganch vs FK Kokand 1912 20:00 ngày 14/04 Uzbekistan Super League
-https://live.alilicloud.com/live/dae1031f9dd3a1f5aa326b138875fba6/playlist.m3u8
-#EXTINF:-1 tvg-id="601380124" group-title="Uruguay (W)U18 vs Costa Rica (W)U18 20:30 ngày 14/04 International Friendly", Uruguay (W)U18 vs Costa Rica (W)U18 20:30 ngày 14/04 International Friendly
-https://live.alilicloud.com/live/a55196f6826d27cd6039eac3df0db0c6/playlist.m3u8
-#EXTINF:-1 tvg-id="601380127" group-title="Ethiopia U18 Women vs Norway (w) U18 20:30 ngày 14/04 International Friendly", Ethiopia U18 Women vs Norway (w) U18 20:30 ngày 14/04 International Friendly
-https://live.alilicloud.com/live/baae2289489c97e7bf6ac999fe8cc57c/playlist.m3u8
-#EXTINF:-1 tvg-id="601368622" group-title="Bulgaria (w) vs Kosovo (w) 21:00 ngày 14/04 FIFA Women's World Cup qualification(UEFA)", Bulgaria (w) vs Kosovo (w) 21:00 ngày 14/04 FIFA Women's World Cup qualification(UEFA)
-https://live.alilicloud.com/live/5463f0b8b6d110975db6f1db0baf47cd/playlist.m3u8
-#EXTINF:-1 tvg-id="601368628" group-title="Moldova (w) vs Cyprus (w) 21:00 ngày 14/04 FIFA Women's World Cup qualification(UEFA)", Moldova (w) vs Cyprus (w) 21:00 ngày 14/04 FIFA Women's World Cup qualification(UEFA)
-https://live.alilicloud.com/live/5d00c65313ed545afe374b235d091701/playlist.m3u8
-#EXTINF:-1 tvg-id="601371841" group-title="Al-Naft SC vs Erbil SC 21:00 ngày 14/04 Iraq Stars League", Al-Naft SC vs Erbil SC 21:00 ngày 14/04 Iraq Stars League
-https://live.alilicloud.com/live/13d88c9d1399a7f628f12ca767d9114d/playlist.m3u8
-#EXTINF:-1 tvg-id="601388452" group-title="Gil Vicente U23 vs Estrela FC U23 21:00 ngày 14/04 Portuguese U23 League", Gil Vicente U23 vs Estrela FC U23 21:00 ngày 14/04 Portuguese U23 League
-https://live.alilicloud.com/live/2f8d80b4bce5b847fd727713220c0484/playlist.m3u8
-#EXTINF:-1 tvg-id="601379278" group-title="Carlos Alcaraz Garfia vs Otto Virtanen 21:00 ngày 14/04 ATP Barcelona, Spain Men Singles", Carlos Alcaraz Garfia vs Otto Virtanen 21:00 ngày 14/04 ATP Barcelona, Spain Men Singles
-https://cdn-hls.taoxanh.biz/live/69de410cbeb2b_4733/index.m3u8?expire=1776778124&amp;sign=6e27a8ff651749f2d38637acd1c38d29
-#EXTINF:-1 tvg-id="601379269" group-title="Brandon Nakashima vs Juan Manuel Cerundolo 21:40 ngày 14/04 ATP Barcelona, Spain Men Singles", Brandon Nakashima vs Juan Manuel Cerundolo 21:40 ngày 14/04 ATP Barcelona, Spain Men Singles
-https://cdn-hls.taoxanh.biz/live/69de4a02beb2c_42127/index.m3u8?expire=1776780418&amp;sign=f80974d8a88bfea97750c43b2b42af87
+#EXTINF:-1 tvg-id="601368634" group-title="Braga U23 vs Famalicao U23 21:00 ngày 14/04 Portuguese U23 League", Braga U23 vs Famalicao U23 21:00 ngày 14/04 Portuguese U23 League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69de3f6f24441_95554/index.m3u8?expire=1776777711&amp;sign=af3d2b45ef2eacd388557f86b8500fe2
+#EXTINF:-1 tvg-id="601368634" group-title="Braga U23 vs Famalicao U23 21:00 ngày 14/04 Portuguese U23 League", Braga U23 vs Famalicao U23 21:00 ngày 14/04 Portuguese U23 League (Link 2)
+https://live.alilicloud.com/live/0518cc2bc7d5b6c6cfc1d3f4f084bec5/playlist.m3u8
+#EXTINF:-1 tvg-id="601368631" group-title="Portimonense U23 vs Vizela U23 21:00 ngày 14/04 Portuguese U23 League", Portimonense U23 vs Vizela U23 21:00 ngày 14/04 Portuguese U23 League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69de3e3fbeb2b_44731/index.m3u8?expire=1776777407&amp;sign=bd7fe112af80e7400de5141dacabc514
+#EXTINF:-1 tvg-id="601368631" group-title="Portimonense U23 vs Vizela U23 21:00 ngày 14/04 Portuguese U23 League", Portimonense U23 vs Vizela U23 21:00 ngày 14/04 Portuguese U23 League (Link 2)
+https://live.alilicloud.com/live/dc15deada2c4bb58d4e3258fa313dfe6/playlist.m3u8
 #EXTINF:-1 tvg-id="601368667" group-title="Tractor S.C. vs Shabab AlAhli 21:45 ngày 14/04 AFC Champions League Elite", Tractor S.C. vs Shabab AlAhli 21:45 ngày 14/04 AFC Champions League Elite (Link 1)
 https://cdn-hls.taoxanh.biz/live/69de3d6fbeb2b_85514/index.m3u8?expire=1776777199&amp;sign=2d3cb6b6bff294718ad552d64551a18e
 #EXTINF:-1 tvg-id="601368667" group-title="Tractor S.C. vs Shabab AlAhli 21:45 ngày 14/04 AFC Champions League Elite", Tractor S.C. vs Shabab AlAhli 21:45 ngày 14/04 AFC Champions League Elite (Link 2)
 https://cdn-hls.taoxanh.biz/live/69de37babeb2b_88642/index.m3u8?expire=1776775738&amp;sign=b5a18c14f310167ff304cc19557b9357
-#EXTINF:-1 tvg-id="601368673" group-title="Botev Vratsa vs Lokomotiv Sofia 22:00 ngày 14/04 Bulgarian First League", Botev Vratsa vs Lokomotiv Sofia 22:00 ngày 14/04 Bulgarian First League
+#EXTINF:-1 tvg-id="601368667" group-title="Tractor S.C. vs Shabab AlAhli 21:45 ngày 14/04 AFC Champions League Elite", Tractor S.C. vs Shabab AlAhli 21:45 ngày 14/04 AFC Champions League Elite (Link 3)
+https://live.alilicloud.com/live/bbc3722ad9900ae01ff792d415c33bf1/playlist.m3u8
+#EXTINF:-1 tvg-id="601368712" group-title="Modern Sport FC vs El Gounah 22:00 ngày 14/04 Egyptian Premier League", Modern Sport FC vs El Gounah 22:00 ngày 14/04 Egyptian Premier League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69de4e91beb2c_103/index.m3u8?expire=1776781585&amp;sign=7054ecc46c5ce973623a1182bed737ca
+#EXTINF:-1 tvg-id="601368712" group-title="Modern Sport FC vs El Gounah 22:00 ngày 14/04 Egyptian Premier League", Modern Sport FC vs El Gounah 22:00 ngày 14/04 Egyptian Premier League (Link 2)
+https://live.alilicloud.com/live/7498b3ca48e9a658a8a675c349310575/playlist.m3u8
+#EXTINF:-1 tvg-id="601368673" group-title="Botev Vratsa vs Lokomotiv Sofia 22:00 ngày 14/04 Bulgarian First League", Botev Vratsa vs Lokomotiv Sofia 22:00 ngày 14/04 Bulgarian First League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69de3e6fbeb2b_124958/index.m3u8?expire=1776777455&amp;sign=dc7d402e0836dc9521c7a6df3fcbf041
+#EXTINF:-1 tvg-id="601368673" group-title="Botev Vratsa vs Lokomotiv Sofia 22:00 ngày 14/04 Bulgarian First League", Botev Vratsa vs Lokomotiv Sofia 22:00 ngày 14/04 Bulgarian First League (Link 2)
+https://live.alilicloud.com/live/109afdd48857681fda441d518e8b6ccf/playlist.m3u8
+#EXTINF:-1 tvg-id="601379761" group-title="Fabian Marozsan vs Stefanos Tsitsipas 22:05 ngày 14/04 ATP Munich, Germany Men Singles", Fabian Marozsan vs Stefanos Tsitsipas 22:05 ngày 14/04 ATP Munich, Germany Men Singles (Link 1)
+https://cdn-hls.taoxanh.biz/live/69de4eb824441_4439/index.m3u8?expire=1776781624&amp;sign=bb02224f13ebad35b8b3add151fc8a09
+#EXTINF:-1 tvg-id="601379761" group-title="Fabian Marozsan vs Stefanos Tsitsipas 22:05 ngày 14/04 ATP Munich, Germany Men Singles", Fabian Marozsan vs Stefanos Tsitsipas 22:05 ngày 14/04 ATP Munich, Germany Men Singles (Link 2)
+https://cdn-hls.taoxanh.biz/live/69de4eb824441_4439/index.m3u8?expire=1776781624&sign=bb02224f13ebad35b8b3add151fc8a09
+#EXTINF:-1 tvg-id="601388452" group-title="Gil Vicente U23 vs Estrela FC U23 21:00 ngày 14/04 Portuguese U23 League", Gil Vicente U23 vs Estrela FC U23 21:00 ngày 14/04 Portuguese U23 League
+https://live.alilicloud.com/live/2f8d80b4bce5b847fd727713220c0484/playlist.m3u8
+#EXTINF:-1 tvg-id="601371841" group-title="Al-Naft SC vs Erbil SC 21:00 ngày 14/04 Iraq Stars League", Al-Naft SC vs Erbil SC 21:00 ngày 14/04 Iraq Stars League
+https://live.alilicloud.com/live/13d88c9d1399a7f628f12ca767d9114d/playlist.m3u8
+#EXTINF:-1 tvg-id="601368622" group-title="Bulgaria (w) vs Kosovo (w) 21:00 ngày 14/04 FIFA Women's World Cup qualification(UEFA)", Bulgaria (w) vs Kosovo (w) 21:00 ngày 14/04 FIFA Women's World Cup qualification(UEFA)
+https://live.alilicloud.com/live/5463f0b8b6d110975db6f1db0baf47cd/playlist.m3u8
+#EXTINF:-1 tvg-id="601368628" group-title="Moldova (w) vs Cyprus (w) 21:00 ngày 14/04 FIFA Women's World Cup qualification(UEFA)", Moldova (w) vs Cyprus (w) 21:00 ngày 14/04 FIFA Women's World Cup qualification(UEFA)
+https://live.alilicloud.com/live/5d00c65313ed545afe374b235d091701/playlist.m3u8
+#EXTINF:-1 tvg-id="601385800" group-title="SK Zdirec Nad Doubravou vs Zdar nad Sazavou 22:00 ngày 14/04 Czech Fourth Division", SK Zdirec Nad Doubravou vs Zdar nad Sazavou 22:00 ngày 14/04 Czech Fourth Division
+https://live.alilicloud.com/live/cd34fe37d2ec758fefeec95168ebbb79/playlist.m3u8
+#EXTINF:-1 tvg-id="601368721" group-title="JIPPO vs Mikkelin Palloilijat 22:00 ngày 14/04 Finland Suomen Cup", JIPPO vs Mikkelin Palloilijat 22:00 ngày 14/04 Finland Suomen Cup
+https://live.alilicloud.com/live/f5fbaacabcc262e45e1bf9dce30ca46b/playlist.m3u8
+#EXTINF:-1 tvg-id="601368709" group-title="Super Nova vs Riga FC 22:00 ngày 14/04 Latvian Higher League", Super Nova vs Riga FC 22:00 ngày 14/04 Latvian Higher League
+https://live.alilicloud.com/live/8306e1156709ea75e175682d8b9636f0/playlist.m3u8
+#EXTINF:-1 tvg-id="601368706" group-title="Lithuania (w) vs Bosnia and Herzegovina (w) 22:00 ngày 14/04 FIFA Women's World Cup qualification(UEFA)", Lithuania (w) vs Bosnia and Herzegovina (w) 22:00 ngày 14/04 FIFA Women's World Cup qualification(UEFA)
+https://live.alilicloud.com/live/717252f5b2ac1fdc86166623b74989ee/playlist.m3u8
+#EXTINF:-1 tvg-id="601368703" group-title="Estonia (w) vs Liechtenstein (w) 22:00 ngày 14/04 FIFA Women's World Cup qualification(UEFA)", Estonia (w) vs Liechtenstein (w) 22:00 ngày 14/04 FIFA Women's World Cup qualification(UEFA)
+https://live.alilicloud.com/live/ee0a2880db62d28c93ae42ed1d42d1ba/playlist.m3u8
+#EXTINF:-1 tvg-id="601368730" group-title="Finland (w) vs Slovakia (w) 22:30 ngày 14/04 FIFA Women's World Cup qualification(UEFA)", Finland (w) vs Slovakia (w) 22:30 ngày 14/04 FIFA Women's World Cup qualification(UEFA)
+https://live.alilicloud.com/live/ba22860329f5ffcc2c17bfd7d6b6c0a9/playlist.m3u8
+#EXTINF:-1 tvg-id="601368727" group-title="Czech (w) vs Montenegro (w) 22:30 ngày 14/04 FIFA Women's World Cup qualification(UEFA)", Czech (w) vs Montenegro (w) 22:30 ngày 14/04 FIFA Women's World Cup qualification(UEFA)
+https://live.alilicloud.com/live/48da8a0394ab3437f380508a716f18f9/playlist.m3u8
+#EXTINF:-1 tvg-id="601379269" group-title="Brandon Nakashima vs Juan Manuel Cerundolo 22:30 ngày 14/04 ATP Barcelona, Spain Men Singles", Brandon Nakashima vs Juan Manuel Cerundolo 22:30 ngày 14/04 ATP Barcelona, Spain Men Singles
+https://cdn-hls.taoxanh.biz/live/69de4a02beb2c_42127/index.m3u8?expire=1776780418&amp;sign=f80974d8a88bfea97750c43b2b42af87
+#EXTINF:-1 tvg-id="601368799" group-title="Al Wehda Mecca vs Al-Adalah 23:20 ngày 14/04 Saudi Arabia Division 1", Al Wehda Mecca vs Al-Adalah 23:20 ngày 14/04 Saudi Arabia Division 1 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69de5f6a24441_133172/index.m3u8?expire=1776785898&amp;sign=229385184eb03f2185aa00bf25dee79a
+#EXTINF:-1 tvg-id="601368799" group-title="Al Wehda Mecca vs Al-Adalah 23:20 ngày 14/04 Saudi Arabia Division 1", Al Wehda Mecca vs Al-Adalah 23:20 ngày 14/04 Saudi Arabia Division 1 (Link 2)
+https://live.alilicloud.com/live/d32c385e5e2badbc854e61e8c64affca/playlist.m3u8
 #EXTINF:-1 tvg-id="601369753" group-title="Andorra (w) vs Azerbaijan (w) 00:00 ngày 15/04 FIFA Women's World Cup qualification(UEFA)", Andorra (w) vs Azerbaijan (w) 00:00 ngày 15/04 FIFA Women's World Cup qualification(UEFA)
 https://cdn-hls.taoxanh.biz/live/69de139024441_6308/index.m3u8?expire=1776766480&amp;sign=fdceb1cdb9b0e94992f19399559f3def
+#EXTINF:-1 tvg-id="601369741" group-title="Sweden Women vs Denmark Women 00:00 ngày 15/04 FIFA Women's World Cup qualification(UEFA)", Sweden Women vs Denmark Women 00:00 ngày 15/04 FIFA Women's World Cup qualification(UEFA)
+https://cdn-hls.taoxanh.biz/live/69de5bb5beb2c_72787/index.m3u8?expire=1776784949&amp;sign=f556aa80a1c28c7103229bfc8f5d729a
 #EXTINF:-1 tvg-id="601369966" group-title="Southampton vs Blackburn Rovers 02:00 ngày 15/04 English Football League Championship", Southampton vs Blackburn Rovers 02:00 ngày 15/04 English Football League Championship
 https://cdn-hls.taoxanh.biz/live/69de48c724441_6308/index.m3u8?expire=1776780103&amp;sign=7ffbaf9e9e0b0ae5aef6d3521478be45
