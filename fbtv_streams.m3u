@@ -1,22 +1,24 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601370017" group-title="Nacional Montevideo vs Deportes Tolima 05:00 ngày 15/04 CONMEBOL Copa Libertadores", Nacional Montevideo vs Deportes Tolima 05:00 ngày 15/04 CONMEBOL Copa Libertadores (Link 1)
-https://cdn-hls.taoxanh.biz/live/69deab0824441_128756/index.m3u8?expire=1776805256&amp;sign=67f8fb6e9705389063cbe74ed5d0bdf5
-#EXTINF:-1 tvg-id="601370017" group-title="Nacional Montevideo vs Deportes Tolima 05:00 ngày 15/04 CONMEBOL Copa Libertadores", Nacional Montevideo vs Deportes Tolima 05:00 ngày 15/04 CONMEBOL Copa Libertadores (Link 2)
-https://live.alilicloud.com/live/b30cc2fd397c8d7162585cdbc68d32b1/playlist.m3u8
-#EXTINF:-1 tvg-id="601370020" group-title="Cerro Porteno vs Atletico Junior Barranquilla 05:00 ngày 15/04 CONMEBOL Copa Libertadores", Cerro Porteno vs Atletico Junior Barranquilla 05:00 ngày 15/04 CONMEBOL Copa Libertadores (Link 1)
-https://cdn-hls.taoxanh.biz/live/69deb45224441_74012/index.m3u8?expire=1776807634&amp;sign=c211dfe3ec912b65100b3a869e367236
-#EXTINF:-1 tvg-id="601370020" group-title="Cerro Porteno vs Atletico Junior Barranquilla 05:00 ngày 15/04 CONMEBOL Copa Libertadores", Cerro Porteno vs Atletico Junior Barranquilla 05:00 ngày 15/04 CONMEBOL Copa Libertadores (Link 2)
-https://live.alilicloud.com/live/b0a6637c52419c6cc39ad26c298528f6/playlist.m3u8
-#EXTINF:-1 tvg-id="601370005" group-title="Grenada Women vs Cayman Islands (w) 04:30 ngày 15/04 FIFA Women's World Cup qualification(CONCACAF)", Grenada Women vs Cayman Islands (w) 04:30 ngày 15/04 FIFA Women's World Cup qualification(CONCACAF)
-https://live.alilicloud.com/live/a2bae486f7b8d19bc767cfb496573580/playlist.m3u8
+#EXTINF:-1 tvg-id="601383328" group-title="Charlotte Hornets vs Miami Heat 06:30 ngày 15/04 National Basketball Association", Charlotte Hornets vs Miami Heat 06:30 ngày 15/04 National Basketball Association (Link 1)
+https://cdn-hls.taoxanh.biz/live/69decca9beb2d_153967/index.m3u8?expire=1776813865&amp;sign=b098a774357c32b154cee4fb9da3a129
+#EXTINF:-1 tvg-id="601383328" group-title="Charlotte Hornets vs Miami Heat 06:30 ngày 15/04 National Basketball Association", Charlotte Hornets vs Miami Heat 06:30 ngày 15/04 National Basketball Association (Link 2)
+https://cdn-hls.taoxanh.biz/live/69dec9b124441_4733/index.m3u8?expire=1776813105&amp;sign=df4a06d842297f56ac36880b986ec5c0
 #EXTINF:-1 tvg-id="601370008" group-title="Sao Paulo vs O.Higgins 05:00 ngày 15/04 CONMEBOL Copa Sudamericana", Sao Paulo vs O.Higgins 05:00 ngày 15/04 CONMEBOL Copa Sudamericana
 https://live.alilicloud.com/live/c09ccb253b6ec9c46ac842f7caa9a940/playlist.m3u8
 #EXTINF:-1 tvg-id="601370011" group-title="Gremio (RS) vs Deportivo Riestra 05:00 ngày 15/04 CONMEBOL Copa Sudamericana", Gremio (RS) vs Deportivo Riestra 05:00 ngày 15/04 CONMEBOL Copa Sudamericana
 https://live.alilicloud.com/live/4873e8bf82a9254a4c47d7af34463565/playlist.m3u8
-#EXTINF:-1 tvg-id="601370014" group-title="Estudiantes La Plata vs Cusco FC 05:00 ngày 15/04 CONMEBOL Copa Libertadores", Estudiantes La Plata vs Cusco FC 05:00 ngày 15/04 CONMEBOL Copa Libertadores
-https://live.alilicloud.com/live/0345716148765e9e06edb4f6eb9c65b0/playlist.m3u8
 #EXTINF:-1 tvg-id="601370023" group-title="Venezuela (w) vs Argentina Women 06:00 ngày 15/04 CNL W", Venezuela (w) vs Argentina Women 06:00 ngày 15/04 CNL W
 https://live.alilicloud.com/live/c6c4036094724ea00e4b22a6e1661f89/playlist.m3u8
+#EXTINF:-1 tvg-id="601370032" group-title="Louisville City FC vs Austin FC 06:00 ngày 15/04 United States Open Cup", Louisville City FC vs Austin FC 06:00 ngày 15/04 United States Open Cup
+https://live.alilicloud.com/live/864c6a1541ed0ce337d8a1c9bb9dedf4/playlist.m3u8
+#EXTINF:-1 tvg-id="601388449" group-title="Wotton FC vs Kickstart Barbados FC 06:00 ngày 15/04 Barbados Premier League", Wotton FC vs Kickstart Barbados FC 06:00 ngày 15/04 Barbados Premier League
+https://live.alilicloud.com/live/f92b6fe9ef63753a429fe782a1c0667e/playlist.m3u8
+#EXTINF:-1 tvg-id="601370038" group-title="Detroit City vs Chicago Fire 06:30 ngày 15/04 United States Open Cup", Detroit City vs Chicago Fire 06:30 ngày 15/04 United States Open Cup
+https://live.alilicloud.com/live/444c9881d1606548f9ba67f8d559d404/playlist.m3u8
+#EXTINF:-1 tvg-id="601370059" group-title="Santos vs Deportivo Recoleta 07:30 ngày 15/04 CONMEBOL Copa Sudamericana", Santos vs Deportivo Recoleta 07:30 ngày 15/04 CONMEBOL Copa Sudamericana
+https://cdn-hls.taoxanh.biz/live/69ded46024441_74012/index.m3u8?expire=1776815840&amp;sign=740c4dfda8b18c04bd40f30511c45d10
+#EXTINF:-1 tvg-id="601370071" group-title="Cruz Azul vs Los Angeles FC 08:00 ngày 15/04 CNCF CHL", Cruz Azul vs Los Angeles FC 08:00 ngày 15/04 CNCF CHL
+https://cdn-hls.taoxanh.biz/live/69ded3bf24441_128756/index.m3u8?expire=1776815679&amp;sign=3579664c85d26e3aeef491c21ae7a8dc
 #EXTINF:-1 tvg-id="601370212" group-title="Bangkok United FC vs Gamba Osaka 19:15 ngày 15/04 AFC Champions League 2", Bangkok United FC vs Gamba Osaka 19:15 ngày 15/04 AFC Champions League 2
 https://live.alilicloud.com/live/03930c7bfb8d857bb00e977d13198c3a/playlist.m3u8
 #EXTINF:-1 tvg-id="601371874" group-title="China U20(w) vs Japan (w) U20 20:00 ngày 15/04 AFC U-20 Women's Asian Cup", China U20(w) vs Japan (w) U20 20:00 ngày 15/04 AFC U-20 Women's Asian Cup
