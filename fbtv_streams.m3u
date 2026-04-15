@@ -1,29 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601372096" group-title="Arsenal vs Sporting CP 02:00 ngày 16/04 UEFA Champions League", Arsenal vs Sporting CP 02:00 ngày 16/04 UEFA Champions League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69dfd772beb2e_151255/index.m3u8?expire=1776882162&amp;sign=c3e731aec47f51557f2296a0e649c3b1
-#EXTINF:-1 tvg-id="601372096" group-title="Arsenal vs Sporting CP 02:00 ngày 16/04 UEFA Champions League", Arsenal vs Sporting CP 02:00 ngày 16/04 UEFA Champions League (Link 2)
-https://cdn-hls.taoxanh.biz/live/69dfd33324441_88186/index.m3u8?expire=1776881075&amp;sign=62f08f49fb2c2b315cdb61ed9e1eb05d
-#EXTINF:-1 tvg-id="601372096" group-title="Arsenal vs Sporting CP 02:00 ngày 16/04 UEFA Champions League", Arsenal vs Sporting CP 02:00 ngày 16/04 UEFA Champions League (Link 3)
-https://cdn-hls.taoxanh.biz/live/69dfd9cf24441_85514/index.m3u8?expire=1776882767&amp;sign=837b78e646f6a04eb64b14eec177edf6
-#EXTINF:-1 tvg-id="601372096" group-title="Arsenal vs Sporting CP 02:00 ngày 16/04 UEFA Champions League", Arsenal vs Sporting CP 02:00 ngày 16/04 UEFA Champions League (Link 4)
-https://live.alilicloud.com/live/d30b3953e932983424f9d970d163f6c9/playlist.m3u8
-#EXTINF:-1 tvg-id="601372099" group-title="FC Bayern Munich vs Real Madrid 02:00 ngày 16/04 UEFA Champions League", FC Bayern Munich vs Real Madrid 02:00 ngày 16/04 UEFA Champions League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69dfd5edbeb2e_79/index.m3u8?expire=1776881773&amp;sign=fe2181df22226f96b6765c6cdc2a004c
-#EXTINF:-1 tvg-id="601372099" group-title="FC Bayern Munich vs Real Madrid 02:00 ngày 16/04 UEFA Champions League", FC Bayern Munich vs Real Madrid 02:00 ngày 16/04 UEFA Champions League (Link 2)
-https://cdn-hls.taoxanh.biz/live/69dfd1e5beb2e_28/index.m3u8?expire=1776880741&amp;sign=91d904ffa37f5d5bd8c371fe95d20ac4
-#EXTINF:-1 tvg-id="601372099" group-title="FC Bayern Munich vs Real Madrid 02:00 ngày 16/04 UEFA Champions League", FC Bayern Munich vs Real Madrid 02:00 ngày 16/04 UEFA Champions League (Link 3)
-https://live.alilicloud.com/live/7d830708cc22438121bbbabccc06b7bf/playlist.m3u8
-#EXTINF:-1 tvg-id="601372078" group-title="Deportivo Armenio vs Liniers 01:30 ngày 16/04 Argentine Group B Tebolidun League Manchester", Deportivo Armenio vs Liniers 01:30 ngày 16/04 Argentine Group B Tebolidun League Manchester
-https://live.alilicloud.com/live/725bc7148b9af850050e28f2304b92f7/playlist.m3u8
-#EXTINF:-1 tvg-id="601372168" group-title="Talleres Cordoba Reserve vs Gimnasia Mendoza Reserves 01:30 ngày 16/04 Argentine Reserve League", Talleres Cordoba Reserve vs Gimnasia Mendoza Reserves 01:30 ngày 16/04 Argentine Reserve League
-https://live.alilicloud.com/live/63324729127943a59b839dc402055c95/playlist.m3u8
-#EXTINF:-1 tvg-id="601385980" group-title="Binga vs Derby Académie 01:30 ngày 16/04 Mali Premiere Division", Binga vs Derby Académie 01:30 ngày 16/04 Mali Premiere Division
-https://live.alilicloud.com/live/261b5d3d02a474b883d455d450a21895/playlist.m3u8
-#EXTINF:-1 tvg-id="601372090" group-title="Luton Town vs Northampton Town 01:45 ngày 16/04 English Football League One", Luton Town vs Northampton Town 01:45 ngày 16/04 English Football League One
-https://live.alilicloud.com/live/0bced2cb62513cd2ceddeb556911cdef/playlist.m3u8
-#EXTINF:-1 tvg-id="601372105" group-title="UTC Cajamarca vs Sport Huancayo 03:00 ngày 16/04 Peruvian Liga 1", UTC Cajamarca vs Sport Huancayo 03:00 ngày 16/04 Peruvian Liga 1
-https://live.alilicloud.com/live/dc6b996c9bb35041c443f21700fa97db/playlist.m3u8
 #EXTINF:-1 tvg-id="601372117" group-title="Once Caldas (w) vs Deportivo Cali (w) 03:00 ngày 16/04 Colombian Liga Betplay Femenina", Once Caldas (w) vs Deportivo Cali (w) 03:00 ngày 16/04 Colombian Liga Betplay Femenina
 https://live.alilicloud.com/live/4245f44978df7a7304f3eedeb954bf33/playlist.m3u8
+#EXTINF:-1 tvg-id="601372105" group-title="UTC Cajamarca vs Sport Huancayo 03:00 ngày 16/04 Peruvian Liga 1", UTC Cajamarca vs Sport Huancayo 03:00 ngày 16/04 Peruvian Liga 1
+https://live.alilicloud.com/live/dc6b996c9bb35041c443f21700fa97db/playlist.m3u8
 #EXTINF:-1 tvg-id="601372363" group-title="East Bengal FC vs Bengaluru 21:00 ngày 16/04 Indian Super League", East Bengal FC vs Bengaluru 21:00 ngày 16/04 Indian Super League
 https://cdn-hls.taoxanh.biz/live/69dfd21e24441_6308/index.m3u8?expire=1776880798&amp;sign=aad09400cd3ff0c11fdabb5db9dfa758
