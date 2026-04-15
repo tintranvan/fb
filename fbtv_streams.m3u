@@ -1,7 +1,31 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="601370107" group-title="Shenzhen 2028 vs Xiamen 1026 15:00 ngày 15/04 Chinese Football League 2", Shenzhen 2028 vs Xiamen 1026 15:00 ngày 15/04 Chinese Football League 2 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69df3f0fbeb2d_85514/index.m3u8?expire=1776843151&amp;sign=34c9c4cb65b8f14f1bbc7b9745bd874b
+#EXTINF:-1 tvg-id="601370107" group-title="Shenzhen 2028 vs Xiamen 1026 15:00 ngày 15/04 Chinese Football League 2", Shenzhen 2028 vs Xiamen 1026 15:00 ngày 15/04 Chinese Football League 2 (Link 2)
+https://live.alilicloud.com/live/d28ae5fd7964b763ab13b9b0e4664e31/playlist.m3u8
+#EXTINF:-1 tvg-id="601370110" group-title="Philippines U17 vs Laos U17 15:30 ngày 15/04 AFF U17 Youth Championship", Philippines U17 vs Laos U17 15:30 ngày 15/04 AFF U17 Youth Championship (Link 1)
+https://cdn-hls.taoxanh.biz/live/69df50e224441_72787/index.m3u8?expire=1776847714&amp;sign=16ef51fa0361e011ce113ef58369ff9d
+#EXTINF:-1 tvg-id="601370110" group-title="Philippines U17 vs Laos U17 15:30 ngày 15/04 AFF U17 Youth Championship", Philippines U17 vs Laos U17 15:30 ngày 15/04 AFF U17 Youth Championship (Link 2)
+https://live.alilicloud.com/live/1cde57427441591484457fbba3ac5414/playlist.m3u8
+#EXTINF:-1 tvg-id="601370095" group-title="South Melbourne vs Bula FC 14:00 ngày 15/04 OFC P L", South Melbourne vs Bula FC 14:00 ngày 15/04 OFC P L
+https://live.alilicloud.com/live/baffc248d5eac08d3c6c7adea6d7f8bd/playlist.m3u8
 #EXTINF:-1 tvg-id="601370098" group-title="Changchun Xidu vs Tai'an Tiankuang 14:00 ngày 15/04 Chinese Football League 2", Changchun Xidu vs Tai'an Tiankuang 14:00 ngày 15/04 Chinese Football League 2
 https://live.alilicloud.com/live/3d55c9726b1b9eb06893bd4a68eac38e/playlist.m3u8
-#EXTINF:-1 tvg-id="601371847" group-title="North Korea Women U20 vs South Korea Women U20 16:00 ngày 15/04 AFC U-20 Women's Asian Cup", North Korea Women U20 vs South Korea Women U20 16:00 ngày 15/04 AFC U-20 Women's Asian Cup
+#EXTINF:-1 tvg-id="601385881" group-title="New Zealand Women vs Papua New Guinea (w) 14:10 ngày 15/04 WC Qualifying", New Zealand Women vs Papua New Guinea (w) 14:10 ngày 15/04 WC Qualifying
+https://live.alilicloud.com/live/8aa466f13a3e268f4696b64673741ed6/playlist.m3u8
+#EXTINF:-1 tvg-id="601370101" group-title="Shanghai Second vs Shanxi Chongde Ronghai 14:30 ngày 15/04 Chinese Football League 2", Shanghai Second vs Shanxi Chongde Ronghai 14:30 ngày 15/04 Chinese Football League 2
+https://live.alilicloud.com/live/562debd443cf6a4f7b64531a6766668a/playlist.m3u8
+#EXTINF:-1 tvg-id="601370104" group-title="Qingdao Red Lions vs Dalian Yingbo B 14:30 ngày 15/04 Chinese Football League 2", Qingdao Red Lions vs Dalian Yingbo B 14:30 ngày 15/04 Chinese Football League 2
+https://live.alilicloud.com/live/7c56270ff3ba8600419fba92cedfeb9a/playlist.m3u8
+#EXTINF:-1 tvg-id="601388542" group-title="Tuggeranong United U23 vs OConnor Knights U23 14:30 ngày 15/04 Australia Capital Territory U23 League", Tuggeranong United U23 vs OConnor Knights U23 14:30 ngày 15/04 Australia Capital Territory U23 League
+https://live.alilicloud.com/live/863a571af625663a40ce8088d5d667f7/playlist.m3u8
+#EXTINF:-1 tvg-id="601388545" group-title="Belconnen United U23 vs Brindabella Blues FC U23 14:30 ngày 15/04 Australia Capital Territory U23 League", Belconnen United U23 vs Brindabella Blues FC U23 14:30 ngày 15/04 Australia Capital Territory U23 League
+https://live.alilicloud.com/live/b73697e47beb028148b2352d4a6a3f8b/playlist.m3u8
+#EXTINF:-1 tvg-id="601388551" group-title="Cooma Tigers U23 vs Canberra Juventus U23 14:30 ngày 15/04 Australia Capital Territory U23 League", Cooma Tigers U23 vs Canberra Juventus U23 14:30 ngày 15/04 Australia Capital Territory U23 League
+https://live.alilicloud.com/live/9499da5ddd61cdbf104749d082f063d8/playlist.m3u8
+#EXTINF:-1 tvg-id="601371847" group-title="North Korea Women U20 vs South Korea Women U20 16:00 ngày 15/04 AFC U-20 Women's Asian Cup", North Korea Women U20 vs South Korea Women U20 16:00 ngày 15/04 AFC U-20 Women's Asian Cup (Link 1)
+https://cdn-hls.taoxanh.biz/live/69df48fd24441_44731/index.m3u8?expire=1776845693&amp;sign=3d4aa9745af326b0e4091af236910dcf
+#EXTINF:-1 tvg-id="601371847" group-title="North Korea Women U20 vs South Korea Women U20 16:00 ngày 15/04 AFC U-20 Women's Asian Cup", North Korea Women U20 vs South Korea Women U20 16:00 ngày 15/04 AFC U-20 Women's Asian Cup (Link 2)
 https://live.alilicloud.com/live/af016a0f1cfd4e53af9f76a1cbe19304/playlist.m3u8
 #EXTINF:-1 tvg-id="601370212" group-title="Bangkok United FC vs Gamba Osaka 19:15 ngày 15/04 AFC Champions League 2", Bangkok United FC vs Gamba Osaka 19:15 ngày 15/04 AFC Champions League 2
 https://live.alilicloud.com/live/03930c7bfb8d857bb00e977d13198c3a/playlist.m3u8
