@@ -1,22 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601370110" group-title="Philippines U17 vs Laos U17 15:30 ngày 15/04 AFF U17 Youth Championship", Philippines U17 vs Laos U17 15:30 ngày 15/04 AFF U17 Youth Championship (Link 1)
-https://cdn-hls.taoxanh.biz/live/69df50e224441_72787/index.m3u8?expire=1776847714&amp;sign=16ef51fa0361e011ce113ef58369ff9d
-#EXTINF:-1 tvg-id="601370110" group-title="Philippines U17 vs Laos U17 15:30 ngày 15/04 AFF U17 Youth Championship", Philippines U17 vs Laos U17 15:30 ngày 15/04 AFF U17 Youth Championship (Link 2)
-https://live.alilicloud.com/live/1cde57427441591484457fbba3ac5414/playlist.m3u8
-#EXTINF:-1 tvg-id="601371847" group-title="North Korea Women U20 vs South Korea Women U20 16:00 ngày 15/04 AFC U-20 Women's Asian Cup", North Korea Women U20 vs South Korea Women U20 16:00 ngày 15/04 AFC U-20 Women's Asian Cup (Link 1)
-https://cdn-hls.taoxanh.biz/live/69df48fd24441_44731/index.m3u8?expire=1776845693&amp;sign=3d4aa9745af326b0e4091af236910dcf
-#EXTINF:-1 tvg-id="601371847" group-title="North Korea Women U20 vs South Korea Women U20 16:00 ngày 15/04 AFC U-20 Women's Asian Cup", North Korea Women U20 vs South Korea Women U20 16:00 ngày 15/04 AFC U-20 Women's Asian Cup (Link 2)
-https://live.alilicloud.com/live/af016a0f1cfd4e53af9f76a1cbe19304/playlist.m3u8
 #EXTINF:-1 tvg-id="601372297" group-title="Canberra FC vs Canberra White Eagles 16:40 ngày 15/04 Australia National Premier Leagues Capital Football 1", Canberra FC vs Canberra White Eagles 16:40 ngày 15/04 Australia National Premier Leagues Capital Football 1
 https://live.alilicloud.com/live/2b0f1aff25fbbbebdb5a688c12feaf24/playlist.m3u8
-#EXTINF:-1 tvg-id="601379875" group-title="Nuno Borges vs Tomas Martin Etcheverry 16:00 ngày 15/04 ATP Barcelona, Spain Men Singles", Nuno Borges vs Tomas Martin Etcheverry 16:00 ngày 15/04 ATP Barcelona, Spain Men Singles
-https://cdn-hls.taoxanh.biz/live/69df4d7abeb2d_42127/index.m3u8?expire=1776846842&amp;sign=bb9bf8ef553f85f77c75c98f6c2acda8
-#EXTINF:-1 tvg-id="601370116" group-title="Faroe Islands Women U19 vs Moldova U19 Women 16:00 ngày 15/04 UEFA European U19 Women's Championship", Faroe Islands Women U19 vs Moldova U19 Women 16:00 ngày 15/04 UEFA European U19 Women's Championship
-https://live.alilicloud.com/live/f993d62015b49350dab361f8cc33ad71/playlist.m3u8
-#EXTINF:-1 tvg-id="601370122" group-title="Kazakhstan (w) U19 vs Malta U19 Women 16:00 ngày 15/04 UEFA European U19 Women's Championship", Kazakhstan (w) U19 vs Malta U19 Women 16:00 ngày 15/04 UEFA European U19 Women's Championship
-https://live.alilicloud.com/live/b32f82b8d0df5e3422a171de6eed182f/playlist.m3u8
-#EXTINF:-1 tvg-id="601388554" group-title="Indonesia Women vs New Caledonia Women 16:00 ngày 15/04 FIFA W Series", Indonesia Women vs New Caledonia Women 16:00 ngày 15/04 FIFA W Series
-https://live.alilicloud.com/live/16b476604293c69b2c202a6ff4faf679/playlist.m3u8
+#EXTINF:-1 tvg-id="601370149" group-title="Ulsan HD FC vs Football Club Seoul 17:30 ngày 15/04 Korean K League 1", Ulsan HD FC vs Football Club Seoul 17:30 ngày 15/04 Korean K League 1 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69df5cf4beb2d_73445/index.m3u8?expire=1776850804&amp;sign=532bea0a23e91b4920926ec7241008fc
+#EXTINF:-1 tvg-id="601370149" group-title="Ulsan HD FC vs Football Club Seoul 17:30 ngày 15/04 Korean K League 1", Ulsan HD FC vs Football Club Seoul 17:30 ngày 15/04 Korean K League 1 (Link 2)
+https://live.alilicloud.com/live/1a248766aaa79a9296854fad54b81ff3/playlist.m3u8
+#EXTINF:-1 tvg-id="601370158" group-title="FK MOIK Baku vs Zaqatala FK 18:00 ngày 15/04 Azerbaijan First Division", FK MOIK Baku vs Zaqatala FK 18:00 ngày 15/04 Azerbaijan First Division (Link 1)
+https://cdn-hls.taoxanh.biz/live/69df6859beb2d_88186/index.m3u8?expire=1776853721&amp;sign=147cdd227097c8886b8db1a2644f65ce
+#EXTINF:-1 tvg-id="601370158" group-title="FK MOIK Baku vs Zaqatala FK 18:00 ngày 15/04 Azerbaijan First Division", FK MOIK Baku vs Zaqatala FK 18:00 ngày 15/04 Azerbaijan First Division (Link 2)
+https://live.alilicloud.com/live/6402f094a197847efed8dd19bdffddb8/playlist.m3u8
+#EXTINF:-1 tvg-id="601388461" group-title="HCĐG Lào Cai vs BC Thông tin BĐ19 17:30 ngày 15/04 Giải bóng chuyền VĐQG 2026", HCĐG Lào Cai vs BC Thông tin BĐ19 17:30 ngày 15/04 Giải bóng chuyền VĐQG 2026
+https://cdn-hls.taoxanh.biz/live/69df5d4f24441_128756/index.m3u8?expire=1776850895&amp;sign=56d71e1b82d98c47d0b88a7eeba30802
 #EXTINF:-1 tvg-id="601370125" group-title="Belconnen United vs Brindabella Blues FC 16:30 ngày 15/04 Australia National Premier Leagues Capital Football 1", Belconnen United vs Brindabella Blues FC 16:30 ngày 15/04 Australia National Premier Leagues Capital Football 1
 https://live.alilicloud.com/live/b7682f92af60a64ff55f2b9d1cbea18b/playlist.m3u8
 #EXTINF:-1 tvg-id="601370128" group-title="Cooma Tigers vs Canberra Juventus 16:30 ngày 15/04 Australia National Premier Leagues Capital Football 1", Cooma Tigers vs Canberra Juventus 16:30 ngày 15/04 Australia National Premier Leagues Capital Football 1
@@ -25,12 +19,8 @@ https://live.alilicloud.com/live/f4c9b78766a08acc2b401e30eb099c8a/playlist.m3u8
 https://live.alilicloud.com/live/0ed54ad34f810b6a6180437e15e3ce71/playlist.m3u8
 #EXTINF:-1 tvg-id="601389847" group-title="Wari Club vs Shuktara Jubo Sangsad 16:30 ngày 15/04 Bangladesh Champions League", Wari Club vs Shuktara Jubo Sangsad 16:30 ngày 15/04 Bangladesh Champions League
 https://live.alilicloud.com/live/4554182d7ed3eedc67847c97c79b4bac/playlist.m3u8
-#EXTINF:-1 tvg-id="601370149" group-title="Ulsan HD FC vs Football Club Seoul 17:30 ngày 15/04 Korean K League 1", Ulsan HD FC vs Football Club Seoul 17:30 ngày 15/04 Korean K League 1 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69df5cf4beb2d_73445/index.m3u8?expire=1776850804&amp;sign=532bea0a23e91b4920926ec7241008fc
-#EXTINF:-1 tvg-id="601370149" group-title="Ulsan HD FC vs Football Club Seoul 17:30 ngày 15/04 Korean K League 1", Ulsan HD FC vs Football Club Seoul 17:30 ngày 15/04 Korean K League 1 (Link 2)
-https://live.alilicloud.com/live/1a248766aaa79a9296854fad54b81ff3/playlist.m3u8
-#EXTINF:-1 tvg-id="601388461" group-title="HCĐG Lào Cai vs BC Thông tin BĐ19 17:30 ngày 15/04 Giải bóng chuyền VĐQG 2026", HCĐG Lào Cai vs BC Thông tin BĐ19 17:30 ngày 15/04 Giải bóng chuyền VĐQG 2026
-https://cdn-hls.taoxanh.biz/live/69df5d4f24441_128756/index.m3u8?expire=1776850895&amp;sign=56d71e1b82d98c47d0b88a7eeba30802
+#EXTINF:-1 tvg-id="601388557" group-title="India (w) vs Malawi (w) 18:00 ngày 15/04 FIFA W Series", India (w) vs Malawi (w) 18:00 ngày 15/04 FIFA W Series
+https://live.alilicloud.com/live/f0afc395461817d070ebba3299cc60cf/playlist.m3u8
 #EXTINF:-1 tvg-id="601370212" group-title="Bangkok United FC vs Gamba Osaka 19:15 ngày 15/04 AFC Champions League 2", Bangkok United FC vs Gamba Osaka 19:15 ngày 15/04 AFC Champions League 2
 https://live.alilicloud.com/live/03930c7bfb8d857bb00e977d13198c3a/playlist.m3u8
 #EXTINF:-1 tvg-id="601371874" group-title="China U20(w) vs Japan (w) U20 20:00 ngày 15/04 AFC U-20 Women's Asian Cup", China U20(w) vs Japan (w) U20 20:00 ngày 15/04 AFC U-20 Women's Asian Cup
