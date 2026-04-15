@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601370089" group-title="Club America vs Nashville 10:30 ngày 15/04 CNCF CHL", Club America vs Nashville 10:30 ngày 15/04 CNCF CHL (Link 1)
-https://cdn-hls.taoxanh.biz/live/69df030824441_133172/index.m3u8?expire=1776827784&amp;sign=a578ec11d779e2cc7f8a42ffb6a3385e
-#EXTINF:-1 tvg-id="601370089" group-title="Club America vs Nashville 10:30 ngày 15/04 CNCF CHL", Club America vs Nashville 10:30 ngày 15/04 CNCF CHL (Link 2)
-https://live.alilicloud.com/live/416e5fd876aab65ceed5b653154f4e28/playlist.m3u8
-#EXTINF:-1 tvg-id="601388455" group-title="Vietinbank vs Geleximco Hưng Yên 12:00 ngày 15/04 Giải bóng chuyền VĐQG 2026", Vietinbank vs Geleximco Hưng Yên 12:00 ngày 15/04 Giải bóng chuyền VĐQG 2026
-https://cdn-hls.taoxanh.biz/live/69df1102beb2d_88642/index.m3u8?expire=1776831362&amp;sign=a7afa00661db6cd5141937fa5dda1569
+#EXTINF:-1 tvg-id="601370098" group-title="Changchun Xidu vs Tai'an Tiankuang 14:00 ngày 15/04 Chinese Football League 2", Changchun Xidu vs Tai'an Tiankuang 14:00 ngày 15/04 Chinese Football League 2
+https://live.alilicloud.com/live/3d55c9726b1b9eb06893bd4a68eac38e/playlist.m3u8
 #EXTINF:-1 tvg-id="601371847" group-title="North Korea Women U20 vs South Korea Women U20 16:00 ngày 15/04 AFC U-20 Women's Asian Cup", North Korea Women U20 vs South Korea Women U20 16:00 ngày 15/04 AFC U-20 Women's Asian Cup
 https://live.alilicloud.com/live/af016a0f1cfd4e53af9f76a1cbe19304/playlist.m3u8
 #EXTINF:-1 tvg-id="601370212" group-title="Bangkok United FC vs Gamba Osaka 19:15 ngày 15/04 AFC Champions League 2", Bangkok United FC vs Gamba Osaka 19:15 ngày 15/04 AFC Champions League 2
