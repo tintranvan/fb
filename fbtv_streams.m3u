@@ -13,26 +13,6 @@ https://cdn-hls.taoxanh.biz/live/69dfd5edbeb2e_79/index.m3u8?expire=1776881773&a
 https://cdn-hls.taoxanh.biz/live/69dfd1e5beb2e_28/index.m3u8?expire=1776880741&amp;sign=91d904ffa37f5d5bd8c371fe95d20ac4
 #EXTINF:-1 tvg-id="601372099" group-title="FC Bayern Munich vs Real Madrid 02:00 ngày 16/04 UEFA Champions League", FC Bayern Munich vs Real Madrid 02:00 ngày 16/04 UEFA Champions League (Link 3)
 https://live.alilicloud.com/live/7d830708cc22438121bbbabccc06b7bf/playlist.m3u8
-#EXTINF:-1 tvg-id="601372024" group-title="Al Nassr FC vs Al-Ettifaq FC 01:00 ngày 16/04 Saudi Professional League", Al Nassr FC vs Al-Ettifaq FC 01:00 ngày 16/04 Saudi Professional League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69dfd0dbbeb2e_44731/index.m3u8?expire=1776880475&amp;sign=596c21c968eef335495f856a3ff1b145
-#EXTINF:-1 tvg-id="601372024" group-title="Al Nassr FC vs Al-Ettifaq FC 01:00 ngày 16/04 Saudi Professional League", Al Nassr FC vs Al-Ettifaq FC 01:00 ngày 16/04 Saudi Professional League (Link 2)
-https://cdn-hls.taoxanh.biz/live/69dfcdf024441_73445/index.m3u8?expire=1776879728&amp;sign=eab867d6bed80a0ab720e43b4ec51bae
-#EXTINF:-1 tvg-id="601372024" group-title="Al Nassr FC vs Al-Ettifaq FC 01:00 ngày 16/04 Saudi Professional League", Al Nassr FC vs Al-Ettifaq FC 01:00 ngày 16/04 Saudi Professional League (Link 3)
-https://live.alilicloud.com/live/6fee7863c975e1568569e042d88e9f74/playlist.m3u8
-#EXTINF:-1 tvg-id="601374040" group-title="Gimnasia y Esgrima de Mendoza vs Gimnasia yTiro 00:10 ngày 16/04 Copa Argentina", Gimnasia y Esgrima de Mendoza vs Gimnasia yTiro 00:10 ngày 16/04 Copa Argentina
-https://live.alilicloud.com/live/59617e1dc376aa94acd90a644e950639/playlist.m3u8
-#EXTINF:-1 tvg-id="601371994" group-title="Arda vs Ludogorets Razgrad 00:30 ngày 16/04 Bulgarian First League", Arda vs Ludogorets Razgrad 00:30 ngày 16/04 Bulgarian First League
-https://live.alilicloud.com/live/2e5da62f9a565e8bf6536b507a47c0f4/playlist.m3u8
-#EXTINF:-1 tvg-id="601372063" group-title="Banfield Reserves vs Godoy Cruz Reserves 01:00 ngày 16/04 Argentine Reserve League", Banfield Reserves vs Godoy Cruz Reserves 01:00 ngày 16/04 Argentine Reserve League
-https://live.alilicloud.com/live/794ef64845e84cfb6f0f5e274f332e39/playlist.m3u8
-#EXTINF:-1 tvg-id="601372066" group-title="Deportivo Riestra Reserves vs Belgrano Reserves 01:00 ngày 16/04 Argentine Reserve League", Deportivo Riestra Reserves vs Belgrano Reserves 01:00 ngày 16/04 Argentine Reserve League
-https://live.alilicloud.com/live/81e7f8663722304455dfc7b7bc5d16e1/playlist.m3u8
-#EXTINF:-1 tvg-id="601372072" group-title="Quilmes Reserves vs Huracan Reserves 01:00 ngày 16/04 Argentine Reserve League", Quilmes Reserves vs Huracan Reserves 01:00 ngày 16/04 Argentine Reserve League
-https://live.alilicloud.com/live/8ef640d5a999375021ef0712055c9b01/playlist.m3u8
-#EXTINF:-1 tvg-id="601372069" group-title="Platense Reserves vs Ferro Carril Oeste Reserves 01:00 ngày 16/04 Argentine Reserve League", Platense Reserves vs Ferro Carril Oeste Reserves 01:00 ngày 16/04 Argentine Reserve League
-https://live.alilicloud.com/live/6709130e5fdd4ead36a852695d6f7d2d/playlist.m3u8
-#EXTINF:-1 tvg-id="601372075" group-title="Velez Sarsfield Reserves vs CA Aldosivi Reserves 01:00 ngày 16/04 Argentine Reserve League", Velez Sarsfield Reserves vs CA Aldosivi Reserves 01:00 ngày 16/04 Argentine Reserve League
-https://live.alilicloud.com/live/ba09d6229b4c8ef2ea5fc43654022739/playlist.m3u8
 #EXTINF:-1 tvg-id="601372078" group-title="Deportivo Armenio vs Liniers 01:30 ngày 16/04 Argentine Group B Tebolidun League Manchester", Deportivo Armenio vs Liniers 01:30 ngày 16/04 Argentine Group B Tebolidun League Manchester
 https://live.alilicloud.com/live/725bc7148b9af850050e28f2304b92f7/playlist.m3u8
 #EXTINF:-1 tvg-id="601372168" group-title="Talleres Cordoba Reserve vs Gimnasia Mendoza Reserves 01:30 ngày 16/04 Argentine Reserve League", Talleres Cordoba Reserve vs Gimnasia Mendoza Reserves 01:30 ngày 16/04 Argentine Reserve League
@@ -41,5 +21,9 @@ https://live.alilicloud.com/live/63324729127943a59b839dc402055c95/playlist.m3u8
 https://live.alilicloud.com/live/261b5d3d02a474b883d455d450a21895/playlist.m3u8
 #EXTINF:-1 tvg-id="601372090" group-title="Luton Town vs Northampton Town 01:45 ngày 16/04 English Football League One", Luton Town vs Northampton Town 01:45 ngày 16/04 English Football League One
 https://live.alilicloud.com/live/0bced2cb62513cd2ceddeb556911cdef/playlist.m3u8
+#EXTINF:-1 tvg-id="601372105" group-title="UTC Cajamarca vs Sport Huancayo 03:00 ngày 16/04 Peruvian Liga 1", UTC Cajamarca vs Sport Huancayo 03:00 ngày 16/04 Peruvian Liga 1
+https://live.alilicloud.com/live/dc6b996c9bb35041c443f21700fa97db/playlist.m3u8
+#EXTINF:-1 tvg-id="601372117" group-title="Once Caldas (w) vs Deportivo Cali (w) 03:00 ngày 16/04 Colombian Liga Betplay Femenina", Once Caldas (w) vs Deportivo Cali (w) 03:00 ngày 16/04 Colombian Liga Betplay Femenina
+https://live.alilicloud.com/live/4245f44978df7a7304f3eedeb954bf33/playlist.m3u8
 #EXTINF:-1 tvg-id="601372363" group-title="East Bengal FC vs Bengaluru 21:00 ngày 16/04 Indian Super League", East Bengal FC vs Bengaluru 21:00 ngày 16/04 Indian Super League
 https://cdn-hls.taoxanh.biz/live/69dfd21e24441_6308/index.m3u8?expire=1776880798&amp;sign=aad09400cd3ff0c11fdabb5db9dfa758
