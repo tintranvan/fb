@@ -1,29 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601372261" group-title="Los Angeles Galaxy vs Toluca 08:00 ngày 16/04 CNCF CHL", Los Angeles Galaxy vs Toluca 08:00 ngày 16/04 CNCF CHL (Link 1)
-https://cdn-hls.taoxanh.biz/live/69e02aca24441_124958/index.m3u8?expire=1776903498&amp;sign=e9479cf434c27fc12256475e1533d56d
-#EXTINF:-1 tvg-id="601372261" group-title="Los Angeles Galaxy vs Toluca 08:00 ngày 16/04 CNCF CHL", Los Angeles Galaxy vs Toluca 08:00 ngày 16/04 CNCF CHL (Link 2)
-https://live.alilicloud.com/live/80e95fd2a10b12ce9bcade78abab7497/playlist.m3u8
-#EXTINF:-1 tvg-id="601372264" group-title="Juticalpa vs Platense 08:00 ngày 16/04 Honduras Primera Division", Juticalpa vs Platense 08:00 ngày 16/04 Honduras Primera Division
-https://cdn-hls.taoxanh.biz/live/69e02c6924441_95554/index.m3u8?expire=1776903913&amp;sign=0cfd6022d0d40d815809b63a482718b7
-#EXTINF:-1 tvg-id="601372273" group-title="Millonarios vs Boston River 09:00 ngày 16/04 CONMEBOL Copa Sudamericana", Millonarios vs Boston River 09:00 ngày 16/04 CONMEBOL Copa Sudamericana (Link 1)
-https://cdn-hls.taoxanh.biz/live/69e0406b24441_88186/index.m3u8?expire=1776909035&amp;sign=eb978628b40fd7b2dd3e635025d7d39e
-#EXTINF:-1 tvg-id="601372273" group-title="Millonarios vs Boston River 09:00 ngày 16/04 CONMEBOL Copa Sudamericana", Millonarios vs Boston River 09:00 ngày 16/04 CONMEBOL Copa Sudamericana (Link 2)
-https://live.alilicloud.com/live/9895c09e8363c3ac423e613f6724f47e/playlist.m3u8
-#EXTINF:-1 tvg-id="601383355" group-title="Los Angeles Clippers vs Golden State Warriors 09:00 ngày 16/04 National Basketball Association", Los Angeles Clippers vs Golden State Warriors 09:00 ngày 16/04 National Basketball Association (Link 1)
-https://cdn-hls.taoxanh.biz/live/69e03d95beb2e_42127/index.m3u8?expire=1776908309&amp;sign=548ee6edafc64d4fdaedafac22af14b8
-#EXTINF:-1 tvg-id="601383355" group-title="Los Angeles Clippers vs Golden State Warriors 09:00 ngày 16/04 National Basketball Association", Los Angeles Clippers vs Golden State Warriors 09:00 ngày 16/04 National Basketball Association (Link 2)
-https://cdn-hls.taoxanh.biz/live/69e040ff24441_153967/index.m3u8?expire=1776909183&amp;sign=36181ec74af615f2e1f6e3100fe4cf4d
-#EXTINF:-1 tvg-id="601386022" group-title="Real Esteli vs Walter Ferretti 08:00 ngày 16/04 Nicaragua Liga Primera", Real Esteli vs Walter Ferretti 08:00 ngày 16/04 Nicaragua Liga Primera
-https://live.alilicloud.com/live/20df08c26585762396ca01ad9bb9d070/playlist.m3u8
-#EXTINF:-1 tvg-id="601372270" group-title="America de Cali vs Alianza Atletico Sullana 09:00 ngày 16/04 CONMEBOL Copa Sudamericana", America de Cali vs Alianza Atletico Sullana 09:00 ngày 16/04 CONMEBOL Copa Sudamericana
-https://live.alilicloud.com/live/8a4037b8571c8d294c883485d6480347/playlist.m3u8
-#EXTINF:-1 tvg-id="601372276" group-title="Independiente del Valle vs Universidad Central de Venezuela 09:00 ngày 16/04 CONMEBOL Copa Libertadores", Independiente del Valle vs Universidad Central de Venezuela 09:00 ngày 16/04 CONMEBOL Copa Libertadores
-https://live.alilicloud.com/live/c0879425415687ec0607692c2700b4e3/playlist.m3u8
-#EXTINF:-1 tvg-id="601372279" group-title="San Jose Earthquakes vs Phoenix Rising FC 09:00 ngày 16/04 United States Open Cup", San Jose Earthquakes vs Phoenix Rising FC 09:00 ngày 16/04 United States Open Cup
-https://live.alilicloud.com/live/9bd48fb4407915b71e7a6083d36deaff/playlist.m3u8
-#EXTINF:-1 tvg-id="601386028" group-title="Los Angeles FC II vs Portland Timbers Reserve 09:00 ngày 16/04 MLS Next PL", Los Angeles FC II vs Portland Timbers Reserve 09:00 ngày 16/04 MLS Next PL
-https://live.alilicloud.com/live/c35dfe020f36fb39cde78700c22a381b/playlist.m3u8
-#EXTINF:-1 tvg-id="601372282" group-title="Seattle Sounders vs Tigres UANL 10:30 ngày 16/04 CNCF CHL", Seattle Sounders vs Tigres UANL 10:30 ngày 16/04 CNCF CHL
+#EXTINF:-1 tvg-id="601372282" group-title="Seattle Sounders vs Tigres UANL 10:30 ngày 16/04 CNCF CHL", Seattle Sounders vs Tigres UANL 10:30 ngày 16/04 CNCF CHL (Link 1)
 https://cdn-hls.taoxanh.biz/live/69e0463ebeb2e_72787/index.m3u8?expire=1776910526&amp;sign=104b804c15d365f0f7594570a3f5e060
+#EXTINF:-1 tvg-id="601372282" group-title="Seattle Sounders vs Tigres UANL 10:30 ngày 16/04 CNCF CHL", Seattle Sounders vs Tigres UANL 10:30 ngày 16/04 CNCF CHL (Link 2)
+https://live.alilicloud.com/live/2a0fc64d13ef3408f7edba522bb9b315/playlist.m3u8
+#EXTINF:-1 tvg-id="601388467" group-title="Hà Nội Tasco Auto vs VTV BĐ Long An 12:00 ngày 16/04 Giải bóng chuyền VĐQG 2026", Hà Nội Tasco Auto vs VTV BĐ Long An 12:00 ngày 16/04 Giải bóng chuyền VĐQG 2026
+https://cdn-hls.taoxanh.biz/live/69e06551beb2e_128756/index.m3u8?expire=1776918481&amp;sign=5d4eafa87420cfea70608ea807ea8271
 #EXTINF:-1 tvg-id="601372363" group-title="East Bengal FC vs Bengaluru 21:00 ngày 16/04 Indian Super League", East Bengal FC vs Bengaluru 21:00 ngày 16/04 Indian Super League
 https://cdn-hls.taoxanh.biz/live/69dfd21e24441_6308/index.m3u8?expire=1776880798&amp;sign=aad09400cd3ff0c11fdabb5db9dfa758
