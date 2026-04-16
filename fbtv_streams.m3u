@@ -7,8 +7,6 @@ https://live.alilicloud.com/live/9ce83a105135890ccb1e6f0888b01fa9/playlist.m3u8
 https://cdn-hls.taoxanh.biz/live/69e147a6162ed_88186/index.m3u8?expire=1776976422&amp;sign=cfa927721a5ec8ed7b0e01b381ce41db
 #EXTINF:-1 tvg-id="601372519" group-title="Club Atletico Tigre vs Macara 05:00 ngày 17/04 CONMEBOL Copa Sudamericana", Club Atletico Tigre vs Macara 05:00 ngày 17/04 CONMEBOL Copa Sudamericana (Link 2)
 https://live.alilicloud.com/live/88086d2401c3d0f8a685bc9ee64153fb/playlist.m3u8
-#EXTINF:-1 tvg-id="601386058" group-title="HYH Export Sebaco FC vs Diriangen 04:00 ngày 17/04 Nicaragua Liga Primera", HYH Export Sebaco FC vs Diriangen 04:00 ngày 17/04 Nicaragua Liga Primera
-https://live.alilicloud.com/live/bdd4c340c994aa4848c96841c4e8c67a/playlist.m3u8
 #EXTINF:-1 tvg-id="601388989" group-title="ArgentinaU16 vs Mexico U16 04:00 ngày 17/04 International Friendly", ArgentinaU16 vs Mexico U16 04:00 ngày 17/04 International Friendly
 https://live.alilicloud.com/live/4aa085742718b3c4b1f1cb5c00887c21/playlist.m3u8
 #EXTINF:-1 tvg-id="601372516" group-title="Imperatriz(MA) vs ABC RN 05:00 ngày 17/04 Brazilian Copa do Nordeste", Imperatriz(MA) vs ABC RN 05:00 ngày 17/04 Brazilian Copa do Nordeste
@@ -25,5 +23,13 @@ https://live.alilicloud.com/live/0ff6b0ea05d39d276351e47e0ae064c6/playlist.m3u8
 https://live.alilicloud.com/live/eb1c09b6732f2322e5d26497dc8491fb/playlist.m3u8
 #EXTINF:-1 tvg-id="601383490" group-title="Cruzeiro vs Fortaleza B. C. 05:00 ngày 17/04 Novo Basquete Brasil", Cruzeiro vs Fortaleza B. C. 05:00 ngày 17/04 Novo Basquete Brasil
 https://live.alilicloud.com/live/7863662d433209e000f1f74d9e476bc8/playlist.m3u8
-#EXTINF:-1 tvg-id="601372543" group-title="Red Bull Bragantino vs Blooming 07:30 ngày 17/04 CONMEBOL Copa Sudamericana", Red Bull Bragantino vs Blooming 07:30 ngày 17/04 CONMEBOL Copa Sudamericana
+#EXTINF:-1 tvg-id="601385089" group-title="Cleeve Harper/David Stevenson vs Juan Jose Bianchi/Joshua Sheehy 05:00 ngày 17/04 ATP Challenger Tallahassee, USA Men Double", Cleeve Harper/David Stevenson vs Juan Jose Bianchi/Joshua Sheehy 05:00 ngày 17/04 ATP Challenger Tallahassee, USA Men Double
+https://live.alilicloud.com/live/501b9250863edabbd7c5515c48a87661/playlist.m3u8
+#EXTINF:-1 tvg-id="601385095" group-title="Valerio Aboian vs Thiago Seyboth Wild 05:00 ngày 17/04 ATP Challenger Santa Cruz, Bolivia Men Singles", Valerio Aboian vs Thiago Seyboth Wild 05:00 ngày 17/04 ATP Challenger Santa Cruz, Bolivia Men Singles
+https://live.alilicloud.com/live/d1aac8cf4565fce187cd252a9d425e71/playlist.m3u8
+#EXTINF:-1 tvg-id="601386064" group-title="Deportivo Mictlan vs Deportivo Mixco 06:00 ngày 17/04 Guatemala Liga Nacional", Deportivo Mictlan vs Deportivo Mixco 06:00 ngày 17/04 Guatemala Liga Nacional
+https://cdn-hls.taoxanh.biz/live/69e160d5512e0_124958/index.m3u8?expire=1776982869&amp;sign=311593bdacd137033bdfeccd72c37547
+#EXTINF:-1 tvg-id="601372543" group-title="Red Bull Bragantino vs Blooming 07:30 ngày 17/04 CONMEBOL Copa Sudamericana", Red Bull Bragantino vs Blooming 07:30 ngày 17/04 CONMEBOL Copa Sudamericana (Link 1)
 https://cdn-hls.taoxanh.biz/live/69e106852a612_6308/index.m3u8?expire=1776959749&amp;sign=b7b3bded48029923b87ac85efc91732d
+#EXTINF:-1 tvg-id="601372543" group-title="Red Bull Bragantino vs Blooming 07:30 ngày 17/04 CONMEBOL Copa Sudamericana", Red Bull Bragantino vs Blooming 07:30 ngày 17/04 CONMEBOL Copa Sudamericana (Link 2)
+https://cdn-hls.taoxanh.biz/live/69e106852a612_6308/index.m3u8?expire=1776959749&sign=b7b3bded48029923b87ac85efc91732d
