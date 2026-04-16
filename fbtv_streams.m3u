@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601372282" group-title="Seattle Sounders vs Tigres UANL 10:30 ngày 16/04 CNCF CHL", Seattle Sounders vs Tigres UANL 10:30 ngày 16/04 CNCF CHL (Link 1)
-https://cdn-hls.taoxanh.biz/live/69e0463ebeb2e_72787/index.m3u8?expire=1776910526&amp;sign=104b804c15d365f0f7594570a3f5e060
-#EXTINF:-1 tvg-id="601372282" group-title="Seattle Sounders vs Tigres UANL 10:30 ngày 16/04 CNCF CHL", Seattle Sounders vs Tigres UANL 10:30 ngày 16/04 CNCF CHL (Link 2)
-https://live.alilicloud.com/live/2a0fc64d13ef3408f7edba522bb9b315/playlist.m3u8
-#EXTINF:-1 tvg-id="601388467" group-title="Hà Nội Tasco Auto vs VTV BĐ Long An 12:00 ngày 16/04 Giải bóng chuyền VĐQG 2026", Hà Nội Tasco Auto vs VTV BĐ Long An 12:00 ngày 16/04 Giải bóng chuyền VĐQG 2026
-https://cdn-hls.taoxanh.biz/live/69e06551beb2e_128756/index.m3u8?expire=1776918481&amp;sign=5d4eafa87420cfea70608ea807ea8271
+#EXTINF:-1 tvg-id="601391512" group-title="Putra Telbin vs Ransiki 12:10 ngày 16/04 Indo D4", Putra Telbin vs Ransiki 12:10 ngày 16/04 Indo D4
+https://live.alilicloud.com/live/cdd9e2e7a7e8f50ae8a873a662199741/playlist.m3u8
+#EXTINF:-1 tvg-id="601389949" group-title="Debre Birhan Ketema vs Soloda Adwa 14:00 ngày 16/04 Ethiopian Higher League", Debre Birhan Ketema vs Soloda Adwa 14:00 ngày 16/04 Ethiopian Higher League
+https://live.alilicloud.com/live/6fc6d68baca20c98b2d0031f40eeb2f7/playlist.m3u8
 #EXTINF:-1 tvg-id="601372363" group-title="East Bengal FC vs Bengaluru 21:00 ngày 16/04 Indian Super League", East Bengal FC vs Bengaluru 21:00 ngày 16/04 Indian Super League
 https://cdn-hls.taoxanh.biz/live/69dfd21e24441_6308/index.m3u8?expire=1776880798&amp;sign=aad09400cd3ff0c11fdabb5db9dfa758
