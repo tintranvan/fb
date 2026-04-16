@@ -1,17 +1,29 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601372495" group-title="Cote d'Ivoire (w) vs Pakistan(w) 02:30 ngày 17/04 FIFA W Series", Cote d'Ivoire (w) vs Pakistan(w) 02:30 ngày 17/04 FIFA W Series
-https://live.alilicloud.com/live/7da929f21e85af279e2b0e920d9ddcd5/playlist.m3u8
-#EXTINF:-1 tvg-id="601388893" group-title="Uruguay U17 vs Venezuela U17 03:00 ngày 17/04 CONMEBOL U17 Championship", Uruguay U17 vs Venezuela U17 03:00 ngày 17/04 CONMEBOL U17 Championship
-https://live.alilicloud.com/live/15ffb0015fcbb691a2cd531e129ecb14/playlist.m3u8
-#EXTINF:-1 tvg-id="601388992" group-title="Brazil U17 vs Colombia U17 03:00 ngày 17/04 CONMEBOL U17 Championship", Brazil U17 vs Colombia U17 03:00 ngày 17/04 CONMEBOL U17 Championship
-https://live.alilicloud.com/live/6da587eae9466a70181c5765f34b68d1/playlist.m3u8
+#EXTINF:-1 tvg-id="601372513" group-title="America FC Natal RN vs Fortaleza 05:00 ngày 17/04 Brazilian Copa do Nordeste", America FC Natal RN vs Fortaleza 05:00 ngày 17/04 Brazilian Copa do Nordeste (Link 1)
+https://cdn-hls.taoxanh.biz/live/69e1522346051_128756/index.m3u8?expire=1776979107&amp;sign=e2a7529ee64c0bd4be537e8ef1ce77d2
+#EXTINF:-1 tvg-id="601372513" group-title="America FC Natal RN vs Fortaleza 05:00 ngày 17/04 Brazilian Copa do Nordeste", America FC Natal RN vs Fortaleza 05:00 ngày 17/04 Brazilian Copa do Nordeste (Link 2)
+https://live.alilicloud.com/live/9ce83a105135890ccb1e6f0888b01fa9/playlist.m3u8
+#EXTINF:-1 tvg-id="601372519" group-title="Club Atletico Tigre vs Macara 05:00 ngày 17/04 CONMEBOL Copa Sudamericana", Club Atletico Tigre vs Macara 05:00 ngày 17/04 CONMEBOL Copa Sudamericana (Link 1)
+https://cdn-hls.taoxanh.biz/live/69e147a6162ed_88186/index.m3u8?expire=1776976422&amp;sign=cfa927721a5ec8ed7b0e01b381ce41db
+#EXTINF:-1 tvg-id="601372519" group-title="Club Atletico Tigre vs Macara 05:00 ngày 17/04 CONMEBOL Copa Sudamericana", Club Atletico Tigre vs Macara 05:00 ngày 17/04 CONMEBOL Copa Sudamericana (Link 2)
+https://live.alilicloud.com/live/88086d2401c3d0f8a685bc9ee64153fb/playlist.m3u8
 #EXTINF:-1 tvg-id="601386058" group-title="HYH Export Sebaco FC vs Diriangen 04:00 ngày 17/04 Nicaragua Liga Primera", HYH Export Sebaco FC vs Diriangen 04:00 ngày 17/04 Nicaragua Liga Primera
 https://live.alilicloud.com/live/bdd4c340c994aa4848c96841c4e8c67a/playlist.m3u8
 #EXTINF:-1 tvg-id="601388989" group-title="ArgentinaU16 vs Mexico U16 04:00 ngày 17/04 International Friendly", ArgentinaU16 vs Mexico U16 04:00 ngày 17/04 International Friendly
 https://live.alilicloud.com/live/4aa085742718b3c4b1f1cb5c00887c21/playlist.m3u8
-#EXTINF:-1 tvg-id="601372513" group-title="America FC Natal RN vs Fortaleza 05:00 ngày 17/04 Brazilian Copa do Nordeste", America FC Natal RN vs Fortaleza 05:00 ngày 17/04 Brazilian Copa do Nordeste
-https://cdn-hls.taoxanh.biz/live/69e1522346051_128756/index.m3u8?expire=1776979107&amp;sign=e2a7529ee64c0bd4be537e8ef1ce77d2
-#EXTINF:-1 tvg-id="601372519" group-title="Club Atletico Tigre vs Macara 05:00 ngày 17/04 CONMEBOL Copa Sudamericana", Club Atletico Tigre vs Macara 05:00 ngày 17/04 CONMEBOL Copa Sudamericana
-https://cdn-hls.taoxanh.biz/live/69e147a6162ed_88186/index.m3u8?expire=1776976422&amp;sign=cfa927721a5ec8ed7b0e01b381ce41db
+#EXTINF:-1 tvg-id="601372516" group-title="Imperatriz(MA) vs ABC RN 05:00 ngày 17/04 Brazilian Copa do Nordeste", Imperatriz(MA) vs ABC RN 05:00 ngày 17/04 Brazilian Copa do Nordeste
+https://live.alilicloud.com/live/146f4d7f54288025268e49ff243f729a/playlist.m3u8
+#EXTINF:-1 tvg-id="601372522" group-title="Atletico Mineiro vs CA Juventud 05:00 ngày 17/04 CONMEBOL Copa Sudamericana", Atletico Mineiro vs CA Juventud 05:00 ngày 17/04 CONMEBOL Copa Sudamericana
+https://live.alilicloud.com/live/7d0456f6a4516c109387e505a1d21224/playlist.m3u8
+#EXTINF:-1 tvg-id="601372525" group-title="Palmeiras vs Sporting Cristal 05:00 ngày 17/04 CONMEBOL Copa Libertadores", Palmeiras vs Sporting Cristal 05:00 ngày 17/04 CONMEBOL Copa Libertadores
+https://live.alilicloud.com/live/da741e1ca41c6ddac7bedc23efbf77c9/playlist.m3u8
+#EXTINF:-1 tvg-id="601372528" group-title="Club Atlético Lanús vs Always Ready 05:00 ngày 17/04 CONMEBOL Copa Libertadores", Club Atlético Lanús vs Always Ready 05:00 ngày 17/04 CONMEBOL Copa Libertadores
+https://live.alilicloud.com/live/b558763615e8b7cb9280ac718da9143b/playlist.m3u8
+#EXTINF:-1 tvg-id="601386061" group-title="Jalapa vs Real Madriz FC 05:00 ngày 17/04 Nicaragua Liga Primera", Jalapa vs Real Madriz FC 05:00 ngày 17/04 Nicaragua Liga Primera
+https://live.alilicloud.com/live/0ff6b0ea05d39d276351e47e0ae064c6/playlist.m3u8
+#EXTINF:-1 tvg-id="601383487" group-title="Rio Claro Basquete vs GRSA Itabom Bauru 04:30 ngày 17/04 Novo Basquete Brasil", Rio Claro Basquete vs GRSA Itabom Bauru 04:30 ngày 17/04 Novo Basquete Brasil
+https://live.alilicloud.com/live/eb1c09b6732f2322e5d26497dc8491fb/playlist.m3u8
+#EXTINF:-1 tvg-id="601383490" group-title="Cruzeiro vs Fortaleza B. C. 05:00 ngày 17/04 Novo Basquete Brasil", Cruzeiro vs Fortaleza B. C. 05:00 ngày 17/04 Novo Basquete Brasil
+https://live.alilicloud.com/live/7863662d433209e000f1f74d9e476bc8/playlist.m3u8
 #EXTINF:-1 tvg-id="601372543" group-title="Red Bull Bragantino vs Blooming 07:30 ngày 17/04 CONMEBOL Copa Sudamericana", Red Bull Bragantino vs Blooming 07:30 ngày 17/04 CONMEBOL Copa Sudamericana
 https://cdn-hls.taoxanh.biz/live/69e106852a612_6308/index.m3u8?expire=1776959749&amp;sign=b7b3bded48029923b87ac85efc91732d
