@@ -1,47 +1,61 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601372141" group-title="Esporte Clube Sao Jose SP vs Sertaozinho 05:00 ngày 16/04 Brazilian Campeonato Paulista A2", Esporte Clube Sao Jose SP vs Sertaozinho 05:00 ngày 16/04 Brazilian Campeonato Paulista A2
-https://live.alilicloud.com/live/3916cacbe457e39d5f84abb13061effd/playlist.m3u8
+#EXTINF:-1 tvg-id="601372216" group-title="New York Red Bulls vs Pittsburgh Riverhounds 06:30 ngày 16/04 United States Open Cup", New York Red Bulls vs Pittsburgh Riverhounds 06:30 ngày 16/04 United States Open Cup (Link 1)
+https://cdn-hls.taoxanh.biz/live/69e0180bbeb2e_128756/index.m3u8?expire=1776898699&amp;sign=f7b3fd1217d13a682b0c05d746e7efdb
+#EXTINF:-1 tvg-id="601372216" group-title="New York Red Bulls vs Pittsburgh Riverhounds 06:30 ngày 16/04 United States Open Cup", New York Red Bulls vs Pittsburgh Riverhounds 06:30 ngày 16/04 United States Open Cup (Link 2)
+https://live.alilicloud.com/live/12d567ca181744e6da01c9e08aa6a86d/playlist.m3u8
+#EXTINF:-1 tvg-id="601378909" group-title="Philadelphia 76ers vs Orlando Magic 06:30 ngày 16/04 National Basketball Association", Philadelphia 76ers vs Orlando Magic 06:30 ngày 16/04 National Basketball Association (Link 1)
+https://cdn-hls.taoxanh.biz/live/69e0234a24441_4733/index.m3u8?expire=1776901578&amp;sign=90f8177143878cddc7a52527736c21a5
+#EXTINF:-1 tvg-id="601378909" group-title="Philadelphia 76ers vs Orlando Magic 06:30 ngày 16/04 National Basketball Association", Philadelphia 76ers vs Orlando Magic 06:30 ngày 16/04 National Basketball Association (Link 2)
+https://cdn-hls.taoxanh.biz/live/69e0192624441_72787/index.m3u8?expire=1776898982&amp;sign=3ec44a80552924856b47d92a7af37405
 #EXTINF:-1 tvg-id="601386004" group-title="UNAN Managua vs Rancho Santana FC 05:00 ngày 16/04 Nicaragua Liga Primera", UNAN Managua vs Rancho Santana FC 05:00 ngày 16/04 Nicaragua Liga Primera
 https://live.alilicloud.com/live/3b5c69a1c22b2943fe50e5548789b6b0/playlist.m3u8
-#EXTINF:-1 tvg-id="601372171" group-title="Junior (w) vs Independiente Medellin (w) 05:00 ngày 16/04 Colombian Liga Betplay Femenina", Junior (w) vs Independiente Medellin (w) 05:00 ngày 16/04 Colombian Liga Betplay Femenina
-https://live.alilicloud.com/live/a6fbb00e1d35af18c9d6f07fd796abc7/playlist.m3u8
-#EXTINF:-1 tvg-id="601372165" group-title="Central Cordoba SdE Reserves vs Defensa y Justicia Reserves 05:00 ngày 16/04 Argentine Reserve League", Central Cordoba SdE Reserves vs Defensa y Justicia Reserves 05:00 ngày 16/04 Argentine Reserve League
-https://live.alilicloud.com/live/3aa95a2b3c2d3a5cf8afaa74d0601969/playlist.m3u8
 #EXTINF:-1 tvg-id="601372162" group-title="SC Paysandu Para vs Independencia 05:00 ngày 16/04 Brazilian Copa Verde", SC Paysandu Para vs Independencia 05:00 ngày 16/04 Brazilian Copa Verde
 https://live.alilicloud.com/live/33c01e8a19baf54ed851d36c8b683a04/playlist.m3u8
 #EXTINF:-1 tvg-id="601372159" group-title="Club Libertad Asunción vs Rosario Central 05:00 ngày 16/04 CONMEBOL Copa Libertadores", Club Libertad Asunción vs Rosario Central 05:00 ngày 16/04 CONMEBOL Copa Libertadores
 https://live.alilicloud.com/live/b22774bec06b48e9c166b366dfad43cb/playlist.m3u8
 #EXTINF:-1 tvg-id="601372156" group-title="Cruzeiro Esporte Clube vs Univ Catolica 05:00 ngày 16/04 CONMEBOL Copa Libertadores", Cruzeiro Esporte Clube vs Univ Catolica 05:00 ngày 16/04 CONMEBOL Copa Libertadores
 https://live.alilicloud.com/live/112798755c58b3c23f342d53e623f5c5/playlist.m3u8
-#EXTINF:-1 tvg-id="601372153" group-title="Racing Club de Avellaneda vs Botafogo RJ 05:00 ngày 16/04 CONMEBOL Copa Sudamericana", Racing Club de Avellaneda vs Botafogo RJ 05:00 ngày 16/04 CONMEBOL Copa Sudamericana
-https://live.alilicloud.com/live/33266223d2cbccf14a8aa0253198dd82/playlist.m3u8
-#EXTINF:-1 tvg-id="601372150" group-title="Caracas FC vs Independiente Petrolero 05:00 ngày 16/04 CONMEBOL Copa Sudamericana", Caracas FC vs Independiente Petrolero 05:00 ngày 16/04 CONMEBOL Copa Sudamericana
-https://live.alilicloud.com/live/a9dbceca153be0f019d7a11ef1fcd3ca/playlist.m3u8
-#EXTINF:-1 tvg-id="601372147" group-title="Sao Bernardo vs Cianorte PR 05:00 ngày 16/04 Copa Sul-Sudeste", Sao Bernardo vs Cianorte PR 05:00 ngày 16/04 Copa Sul-Sudeste
-https://live.alilicloud.com/live/1bec732f7aab7522ed6625c505406e34/playlist.m3u8
-#EXTINF:-1 tvg-id="601372144" group-title="Operario Ferroviario PR vs Gremio Novorizontino 05:00 ngày 16/04 Copa Sul-Sudeste", Operario Ferroviario PR vs Gremio Novorizontino 05:00 ngày 16/04 Copa Sul-Sudeste
-https://live.alilicloud.com/live/a4dca7f25fc009c152d6c84f71548341/playlist.m3u8
+#EXTINF:-1 tvg-id="601372141" group-title="Esporte Clube Sao Jose SP vs Sertaozinho 05:00 ngày 16/04 Brazilian Campeonato Paulista A2", Esporte Clube Sao Jose SP vs Sertaozinho 05:00 ngày 16/04 Brazilian Campeonato Paulista A2
+https://live.alilicloud.com/live/3916cacbe457e39d5f84abb13061effd/playlist.m3u8
 #EXTINF:-1 tvg-id="601372138" group-title="Ferroviaria SP vs Juventus SP 05:00 ngày 16/04 Brazilian Campeonato Paulista A2", Ferroviaria SP vs Juventus SP 05:00 ngày 16/04 Brazilian Campeonato Paulista A2
 https://live.alilicloud.com/live/b244b545c467716f0ff43ed506ffc67b/playlist.m3u8
-#EXTINF:-1 tvg-id="601372135" group-title="Ituano  SP vs CA Votuporanguense SP 05:00 ngày 16/04 Brazilian Campeonato Paulista A2", Ituano  SP vs CA Votuporanguense SP 05:00 ngày 16/04 Brazilian Campeonato Paulista A2
-https://live.alilicloud.com/live/9e7a69a5f504e19799063f973082a85f/playlist.m3u8
 #EXTINF:-1 tvg-id="601372132" group-title="Ah so Santa SP vs XV de Piracicaba 05:00 ngày 16/04 Brazilian Campeonato Paulista A2", Ah so Santa SP vs XV de Piracicaba 05:00 ngày 16/04 Brazilian Campeonato Paulista A2
 https://live.alilicloud.com/live/010850ef3d3243e773be9360f20b37dc/playlist.m3u8
-#EXTINF:-1 tvg-id="601372174" group-title="Agremiação Sportiva Arapiraquense vs AD Confiança 05:30 ngày 16/04 Brazilian Copa do Nordeste", Agremiação Sportiva Arapiraquense vs AD Confiança 05:30 ngày 16/04 Brazilian Copa do Nordeste
-https://live.alilicloud.com/live/dec9a976dfafab8d03c9928ecfb72a08/playlist.m3u8
+#EXTINF:-1 tvg-id="601372135" group-title="Ituano  SP vs CA Votuporanguense SP 05:00 ngày 16/04 Brazilian Campeonato Paulista A2", Ituano  SP vs CA Votuporanguense SP 05:00 ngày 16/04 Brazilian Campeonato Paulista A2
+https://live.alilicloud.com/live/9e7a69a5f504e19799063f973082a85f/playlist.m3u8
 #EXTINF:-1 tvg-id="601372183" group-title="Rio Branco-ES vs Araguaina 05:30 ngày 16/04 Brazilian Copa Verde", Rio Branco-ES vs Araguaina 05:30 ngày 16/04 Brazilian Copa Verde
 https://live.alilicloud.com/live/7117f73c654a7025eaa3dd6490699c5d/playlist.m3u8
 #EXTINF:-1 tvg-id="601372180" group-title="Sousa PB vs Juazeirense 05:30 ngày 16/04 Brazilian Copa do Nordeste", Sousa PB vs Juazeirense 05:30 ngày 16/04 Brazilian Copa do Nordeste
 https://live.alilicloud.com/live/78c732d9e14f7fe0da5e8db1421e95a4/playlist.m3u8
 #EXTINF:-1 tvg-id="601372177" group-title="Ferroviario CE vs Retro FC Brasil 05:30 ngày 16/04 Brazilian Copa do Nordeste", Ferroviario CE vs Retro FC Brasil 05:30 ngày 16/04 Brazilian Copa do Nordeste
 https://live.alilicloud.com/live/53f22b5a0226981b92acc84a0b4f5ecc/playlist.m3u8
+#EXTINF:-1 tvg-id="601372174" group-title="Agremiação Sportiva Arapiraquense vs AD Confiança 05:30 ngày 16/04 Brazilian Copa do Nordeste", Agremiação Sportiva Arapiraquense vs AD Confiança 05:30 ngày 16/04 Brazilian Copa do Nordeste
+https://live.alilicloud.com/live/dec9a976dfafab8d03c9928ecfb72a08/playlist.m3u8
+#EXTINF:-1 tvg-id="601372201" group-title="FC Naples vs Orlando City 06:00 ngày 16/04 United States Open Cup", FC Naples vs Orlando City 06:00 ngày 16/04 United States Open Cup
+https://live.alilicloud.com/live/d9783e64ebfd297feb54ebc19092ab6c/playlist.m3u8
 #EXTINF:-1 tvg-id="601372195" group-title="Cuiaba vs Porto Vitoria 06:00 ngày 16/04 Brazilian Copa Verde", Cuiaba vs Porto Vitoria 06:00 ngày 16/04 Brazilian Copa Verde
 https://live.alilicloud.com/live/b39184c81d787e3e990b209b6a05f889/playlist.m3u8
 #EXTINF:-1 tvg-id="601372192" group-title="America MG vs Sampaio Correa (RJ) 06:00 ngày 16/04 Copa Sul-Sudeste", America MG vs Sampaio Correa (RJ) 06:00 ngày 16/04 Copa Sul-Sudeste
 https://live.alilicloud.com/live/155ab4d79015bd3526b035a59da537cb/playlist.m3u8
 #EXTINF:-1 tvg-id="601372189" group-title="Volta Redonda vs Tombense 06:00 ngày 16/04 Copa Sul-Sudeste", Volta Redonda vs Tombense 06:00 ngày 16/04 Copa Sul-Sudeste
 https://live.alilicloud.com/live/c12f7974b2e790a2ed6872b8e49d37cb/playlist.m3u8
-#EXTINF:-1 tvg-id="601372216" group-title="New York Red Bulls vs Pittsburgh Riverhounds 06:30 ngày 16/04 United States Open Cup", New York Red Bulls vs Pittsburgh Riverhounds 06:30 ngày 16/04 United States Open Cup
-https://cdn-hls.taoxanh.biz/live/69e0180bbeb2e_128756/index.m3u8?expire=1776898699&amp;sign=f7b3fd1217d13a682b0c05d746e7efdb
+#EXTINF:-1 tvg-id="601372186" group-title="Argentino de Quilmes vs San Martin Burzaco 06:00 ngày 16/04 Argentine Group B Tebolidun League Manchester", Argentino de Quilmes vs San Martin Burzaco 06:00 ngày 16/04 Argentine Group B Tebolidun League Manchester
+https://live.alilicloud.com/live/8c06679c5c600fb2a9f17ff78ddc7b90/playlist.m3u8
+#EXTINF:-1 tvg-id="601372204" group-title="Ag. Maraba vs Remo Belem (PA) 06:30 ngày 16/04 Brazilian Copa Verde", Ag. Maraba vs Remo Belem (PA) 06:30 ngày 16/04 Brazilian Copa Verde
+https://live.alilicloud.com/live/1bbcbaff9a03cf7a9951278f2ae26212/playlist.m3u8
+#EXTINF:-1 tvg-id="601372222" group-title="Charlotte FC vs Charlotte Independence 06:30 ngày 16/04 United States Open Cup", Charlotte FC vs Charlotte Independence 06:30 ngày 16/04 United States Open Cup
+https://live.alilicloud.com/live/e2369433d557eeab35e41099fa915ade/playlist.m3u8
+#EXTINF:-1 tvg-id="601372219" group-title="Richmond Kickers vs Columbus Crew 06:30 ngày 16/04 United States Open Cup", Richmond Kickers vs Columbus Crew 06:30 ngày 16/04 United States Open Cup
+https://live.alilicloud.com/live/5cb11ba3549263349fdcf55d6cdd9df2/playlist.m3u8
+#EXTINF:-1 tvg-id="601372213" group-title="DC United vs Knoxville troops 06:30 ngày 16/04 United States Open Cup", DC United vs Knoxville troops 06:30 ngày 16/04 United States Open Cup
+https://live.alilicloud.com/live/41eb53852410b2d50a938673d9904dcd/playlist.m3u8
+#EXTINF:-1 tvg-id="601372210" group-title="Chattanooga vs Atlanta United 06:30 ngày 16/04 United States Open Cup", Chattanooga vs Atlanta United 06:30 ngày 16/04 United States Open Cup
+https://live.alilicloud.com/live/fcc8b19130f7bbefd01e6e7e5ebd3fd5/playlist.m3u8
+#EXTINF:-1 tvg-id="601372207" group-title="Amazonas FC vs Porto Velho EC 06:30 ngày 16/04 Brazilian Copa Verde", Amazonas FC vs Porto Velho EC 06:30 ngày 16/04 Brazilian Copa Verde
+https://live.alilicloud.com/live/e735f3121779e7d4302ea05979f778ad/playlist.m3u8
+#EXTINF:-1 tvg-id="601372228" group-title="Olimpia Asuncion vs Barracas Central 07:00 ngày 16/04 CONMEBOL Copa Sudamericana", Olimpia Asuncion vs Barracas Central 07:00 ngày 16/04 CONMEBOL Copa Sudamericana (Link 1)
+https://cdn-hls.taoxanh.biz/live/69e01bcebeb2e_88186/index.m3u8?expire=1776899662&amp;sign=ec1db5287f59839a4663a4f76cb87cd9
+#EXTINF:-1 tvg-id="601372228" group-title="Olimpia Asuncion vs Barracas Central 07:00 ngày 16/04 CONMEBOL Copa Sudamericana", Olimpia Asuncion vs Barracas Central 07:00 ngày 16/04 CONMEBOL Copa Sudamericana (Link 2)
+https://live.alilicloud.com/live/ab322dc7b0a2854f63aec969553f9fae/playlist.m3u8
 #EXTINF:-1 tvg-id="601372363" group-title="East Bengal FC vs Bengaluru 21:00 ngày 16/04 Indian Super League", East Bengal FC vs Bengaluru 21:00 ngày 16/04 Indian Super League
 https://cdn-hls.taoxanh.biz/live/69dfd21e24441_6308/index.m3u8?expire=1776880798&amp;sign=aad09400cd3ff0c11fdabb5db9dfa758
