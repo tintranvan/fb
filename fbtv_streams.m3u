@@ -1,45 +1,63 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601372285" group-title="East Timor U17 vs Vietnam U17 15:30 ngày 16/04 AFF U17 Youth Championship", East Timor U17 vs Vietnam U17 15:30 ngày 16/04 AFF U17 Youth Championship (Link 1)
-https://cdn-hls.taoxanh.biz/live/69e0966458c53_151255/index.m3u8?expire=1776931044&amp;sign=54f8bfcc5c29d5da0d26eaa925c3265b
-#EXTINF:-1 tvg-id="601372285" group-title="East Timor U17 vs Vietnam U17 15:30 ngày 16/04 AFF U17 Youth Championship", East Timor U17 vs Vietnam U17 15:30 ngày 16/04 AFF U17 Youth Championship (Link 2)
-https://live.alilicloud.com/live/e4698410357a992f492d7fb39661c0fa/playlist.m3u8
-#EXTINF:-1 tvg-id="601379929" group-title="Botic van de Zandschulp vs Francisco Cerundolo 16:00 ngày 16/04 ATP Munich, Germany Men Singles", Botic van de Zandschulp vs Francisco Cerundolo 16:00 ngày 16/04 ATP Munich, Germany Men Singles (Link 1)
-https://cdn-hls.taoxanh.biz/live/69e09b114f122_4439/index.m3u8?expire=1776932241&amp;sign=4a44454129e4818de6e98082b86812bc
-#EXTINF:-1 tvg-id="601379929" group-title="Botic van de Zandschulp vs Francisco Cerundolo 16:00 ngày 16/04 ATP Munich, Germany Men Singles", Botic van de Zandschulp vs Francisco Cerundolo 16:00 ngày 16/04 ATP Munich, Germany Men Singles (Link 2)
-https://live.alilicloud.com/live/11a6a3f37ce35bc38803c1dc07a5ea8e/playlist.m3u8
-#EXTINF:-1 tvg-id="601374049" group-title="Chengdu Yuhui Rende vs Qianxinan Xufengtang 15:00 ngày 16/04 Chinese Football Association Member Association Champions League", Chengdu Yuhui Rende vs Qianxinan Xufengtang 15:00 ngày 16/04 Chinese Football Association Member Association Champions League
-https://live.alilicloud.com/live/884bafb4a0ab3cf6eb37f5a6462cd0b7/playlist.m3u8
+#EXTINF:-1 tvg-id="601388476" group-title="XMLS Thanh Hoá vs Geleximco Hưng Yên 17:30 ngày 16/04 Giải bóng chuyền VĐQG 2026", XMLS Thanh Hoá vs Geleximco Hưng Yên 17:30 ngày 16/04 Giải bóng chuyền VĐQG 2026
+https://cdn-hls.taoxanh.biz/live/69e0aa62203f2_88642/index.m3u8?expire=1776936162&amp;sign=62dd880aeff1136fb1549df6c42925e5
 #EXTINF:-1 tvg-id="601391530" group-title="Sululta Ketema vs Nifas Silk Lafto Sub City 16:30 ngày 16/04 Ethiopian Higher League", Sululta Ketema vs Nifas Silk Lafto Sub City 16:30 ngày 16/04 Ethiopian Higher League
 https://live.alilicloud.com/live/fd199ab34244617559bd182b3cb3bef8/playlist.m3u8
-#EXTINF:-1 tvg-id="601389952" group-title="Dhaka Rangers FC vs MSPCC City Club 16:30 ngày 16/04 Bangladesh Champions League", Dhaka Rangers FC vs MSPCC City Club 16:30 ngày 16/04 Bangladesh Champions League
-https://live.alilicloud.com/live/51ce7b4cb758a8cf1767d0055504b42e/playlist.m3u8
 #EXTINF:-1 tvg-id="601372306" group-title="Obolon Kiev U21 vs SC Poltava U21 17:00 ngày 16/04 Ukrainian Youth Team Championship", Obolon Kiev U21 vs SC Poltava U21 17:00 ngày 16/04 Ukrainian Youth Team Championship
 https://live.alilicloud.com/live/ad1fbaaf193ea0216dfe046e98384c2a/playlist.m3u8
 #EXTINF:-1 tvg-id="601372738" group-title="Dinamo KyivU21 vs Zorya U21 17:00 ngày 16/04 Ukrainian Youth Team Championship", Dinamo KyivU21 vs Zorya U21 17:00 ngày 16/04 Ukrainian Youth Team Championship
 https://live.alilicloud.com/live/c86b04b4a4272885021ebb2d9ae9161f/playlist.m3u8
 #EXTINF:-1 tvg-id="601372300" group-title="FK Kaspiy Aktau B vs Kairat Almaty II 17:00 ngày 16/04 Kazakhstan Division 1", FK Kaspiy Aktau B vs Kairat Almaty II 17:00 ngày 16/04 Kazakhstan Division 1
 https://live.alilicloud.com/live/7673eaf7fb779dacf85288496c9731d8/playlist.m3u8
-#EXTINF:-1 tvg-id="601383373" group-title="Bank of Taiwan vs Keelung Black Kites 16:00 ngày 16/04 China Taiwan Super Basketball League", Bank of Taiwan vs Keelung Black Kites 16:00 ngày 16/04 China Taiwan Super Basketball League
-https://live.alilicloud.com/live/3fee6cb3520fed0f61f47c239517b54e/playlist.m3u8
-#EXTINF:-1 tvg-id="601383376" group-title="Goyang Sono Skygunners vs Seoul SK Knights 17:00 ngày 16/04 Korean Basketball League", Goyang Sono Skygunners vs Seoul SK Knights 17:00 ngày 16/04 Korean Basketball League
-https://live.alilicloud.com/live/c1342c9c6c4c27964bea084b69a96c04/playlist.m3u8
+#EXTINF:-1 tvg-id="601372303" group-title="Jaiyq vs Astana B 18:00 ngày 16/04 Kazakhstan Division 1", Jaiyq vs Astana B 18:00 ngày 16/04 Kazakhstan Division 1
+https://live.alilicloud.com/live/167ef48c4c72e3090687f4bc81f948a3/playlist.m3u8
+#EXTINF:-1 tvg-id="601391389" group-title="Can Tho Catfish vs Phong Khong Khong Quan 17:00 ngày 16/04 Vietnamese national Basketball League", Can Tho Catfish vs Phong Khong Khong Quan 17:00 ngày 16/04 Vietnamese national Basketball League
+https://live.alilicloud.com/live/f567eb171660ab993b961ccb15c2e399/playlist.m3u8
 #EXTINF:-1 tvg-id="601391524" group-title="Earth Friends Tokyo Z vs Tokyo United 17:00 ngày 16/04 Japan League B3", Earth Friends Tokyo Z vs Tokyo United 17:00 ngày 16/04 Japan League B3
 https://live.alilicloud.com/live/0867696d1690e1ac2aa9cd3d5b961c22/playlist.m3u8
-#EXTINF:-1 tvg-id="601379857" group-title="Keegan Smith vs Li Tu 14:15 ngày 16/04 ATP Challenger Wuning 2, China Men Singles", Keegan Smith vs Li Tu 14:15 ngày 16/04 ATP Challenger Wuning 2, China Men Singles
-https://live.alilicloud.com/live/f91c98267964d02bd0e58bee94d6a553/playlist.m3u8
-#EXTINF:-1 tvg-id="601379791" group-title="Daniel Rincon/Oriol Roca Batalla vs Austin Krajicek/Nikola Mektic 16:00 ngày 16/04 ATP Barcelona, Spain Men Doubles", Daniel Rincon/Oriol Roca Batalla vs Austin Krajicek/Nikola Mektic 16:00 ngày 16/04 ATP Barcelona, Spain Men Doubles
-https://live.alilicloud.com/live/a2dc25bc36dc046ce55a725e5c00016b/playlist.m3u8
-#EXTINF:-1 tvg-id="601379953" group-title="Petr Nouza/Bart Stevens vs Jakob Schnaitter/Mark Wallner 16:00 ngày 16/04 ATP Munich, Germany Men Double", Petr Nouza/Bart Stevens vs Jakob Schnaitter/Mark Wallner 16:00 ngày 16/04 ATP Munich, Germany Men Double
-https://live.alilicloud.com/live/1d6e3d781b505e905e3a7f4c5c57ed25/playlist.m3u8
-#EXTINF:-1 tvg-id="601379989" group-title="Dominika Salkova vs Tatjana Maria 16:30 ngày 16/04 WTA Rouen, France Women Singles", Dominika Salkova vs Tatjana Maria 16:30 ngày 16/04 WTA Rouen, France Women Singles
-https://live.alilicloud.com/live/ce919554cb1be76524598b786cf9d5cd/playlist.m3u8
+#EXTINF:-1 tvg-id="601383379" group-title="Biñan Tatak Gel vs Quezon City Galeries Taipan 17:00 ngày 16/04 Philippines MPBL", Biñan Tatak Gel vs Quezon City Galeries Taipan 17:00 ngày 16/04 Philippines MPBL
+https://live.alilicloud.com/live/c3fa8c794d977339d527f6e0c3ed2d04/playlist.m3u8
+#EXTINF:-1 tvg-id="601383376" group-title="Goyang Sono Skygunners vs Seoul SK Knights 17:00 ngày 16/04 Korean Basketball League", Goyang Sono Skygunners vs Seoul SK Knights 17:00 ngày 16/04 Korean Basketball League
+https://live.alilicloud.com/live/c1342c9c6c4c27964bea084b69a96c04/playlist.m3u8
+#EXTINF:-1 tvg-id="601383382" group-title="Sandringham Sabres vs Melbourne Tigers 17:30 ngày 16/04 National Basketball League1 South", Sandringham Sabres vs Melbourne Tigers 17:30 ngày 16/04 National Basketball League1 South
+https://live.alilicloud.com/live/0d39ae160420a33264e91da448202408/playlist.m3u8
+#EXTINF:-1 tvg-id="601383385" group-title="Kilsyth Cobras vs Waverley Falcons 17:30 ngày 16/04 National Basketball League1 South", Kilsyth Cobras vs Waverley Falcons 17:30 ngày 16/04 National Basketball League1 South
+https://live.alilicloud.com/live/0f0cc812cb91aaabf171145835836d62/playlist.m3u8
+#EXTINF:-1 tvg-id="601383394" group-title="Taoyuan Pilots vs South China AA 18:00 ngày 16/04 Basketball Champions League Asia", Taoyuan Pilots vs South China AA 18:00 ngày 16/04 Basketball Champions League Asia
+https://live.alilicloud.com/live/62dba7ab1b7c784f2598e10774ecca46/playlist.m3u8
+#EXTINF:-1 tvg-id="601383388" group-title="Yulon Dinosaurs vs Taiwan Beer 18:00 ngày 16/04 China Taiwan Super Basketball League", Yulon Dinosaurs vs Taiwan Beer 18:00 ngày 16/04 China Taiwan Super Basketball League
+https://live.alilicloud.com/live/9e81bd58f62fd0a13e60a9b0e87fcca1/playlist.m3u8
 #EXTINF:-1 tvg-id="601379977" group-title="Rebeka Masarova vs Simona Waltert 16:30 ngày 16/04 WTA 125K Oeiras 3, Portugal Women Singles", Rebeka Masarova vs Simona Waltert 16:30 ngày 16/04 WTA 125K Oeiras 3, Portugal Women Singles
 https://live.alilicloud.com/live/a57f46ea33a77a44a6efa3f9b15afc4a/playlist.m3u8
-#EXTINF:-1 tvg-id="601385068" group-title="F.Duda/M.Vrbensky vs Nicolas Barrientos/Ariel Behar 17:00 ngày 16/04 ATP Challenger Oeiras 3, Portugal Men Doubles", F.Duda/M.Vrbensky vs Nicolas Barrientos/Ariel Behar 17:00 ngày 16/04 ATP Challenger Oeiras 3, Portugal Men Doubles
-https://live.alilicloud.com/live/783dc14ca300bccbb1009d4e33311bcf/playlist.m3u8
-#EXTINF:-1 tvg-id="601379971" group-title="Whitney Osuigwe vs Sinja Kraus 17:00 ngày 16/04 WTA 125K Oeiras 3, Portugal Women Singles", Whitney Osuigwe vs Sinja Kraus 17:00 ngày 16/04 WTA 125K Oeiras 3, Portugal Women Singles
-https://live.alilicloud.com/live/829a70a97efb469474b9e04aae11fdca/playlist.m3u8
+#EXTINF:-1 tvg-id="601385215" group-title="Liang En-shuo/Tang Qianhui vs Feng Shuo/Nika Radisic 17:00 ngày 16/04 WTA Rouen, France Women Doubles", Liang En-shuo/Tang Qianhui vs Feng Shuo/Nika Radisic 17:00 ngày 16/04 WTA Rouen, France Women Doubles
+https://live.alilicloud.com/live/ec039de7ab5515aa158b2b7f0a953ad1/playlist.m3u8
 #EXTINF:-1 tvg-id="601379968" group-title="Darja Semenistaja vs Tessa Johanna Brockmann 17:00 ngày 16/04 WTA 125K Oeiras 3, Portugal Women Singles", Darja Semenistaja vs Tessa Johanna Brockmann 17:00 ngày 16/04 WTA 125K Oeiras 3, Portugal Women Singles
 https://live.alilicloud.com/live/45257398caf7b289e3ba43a914292c15/playlist.m3u8
+#EXTINF:-1 tvg-id="601379971" group-title="Whitney Osuigwe vs Sinja Kraus 17:00 ngày 16/04 WTA 125K Oeiras 3, Portugal Women Singles", Whitney Osuigwe vs Sinja Kraus 17:00 ngày 16/04 WTA 125K Oeiras 3, Portugal Women Singles
+https://live.alilicloud.com/live/829a70a97efb469474b9e04aae11fdca/playlist.m3u8
+#EXTINF:-1 tvg-id="601385068" group-title="F.Duda/M.Vrbensky vs Nicolas Barrientos/Ariel Behar 17:00 ngày 16/04 ATP Challenger Oeiras 3, Portugal Men Doubles", F.Duda/M.Vrbensky vs Nicolas Barrientos/Ariel Behar 17:00 ngày 16/04 ATP Challenger Oeiras 3, Portugal Men Doubles
+https://live.alilicloud.com/live/783dc14ca300bccbb1009d4e33311bcf/playlist.m3u8
+#EXTINF:-1 tvg-id="601379677" group-title="Buvaysar Gadamauri/Giles Hussey vs Francis Casey Alcantara/Maximus Jones 17:20 ngày 16/04 ATP Challenger Wuning 2, China Men Doubles", Buvaysar Gadamauri/Giles Hussey vs Francis Casey Alcantara/Maximus Jones 17:20 ngày 16/04 ATP Challenger Wuning 2, China Men Doubles
+https://live.alilicloud.com/live/177cd05f354e9850d74adefe7230d40b/playlist.m3u8
+#EXTINF:-1 tvg-id="601380019" group-title="Karolina Muchova vs Elise Mertens 17:30 ngày 16/04 WTA Stuttgart, Germany Women Singles", Karolina Muchova vs Elise Mertens 17:30 ngày 16/04 WTA Stuttgart, Germany Women Singles
+https://live.alilicloud.com/live/08f3416db059ed4fb7859151b6ba017d/playlist.m3u8
+#EXTINF:-1 tvg-id="601385242" group-title="Alexandra Panova/Yang Zhaoxuan vs Ellen Perez/Demi Schuurs 17:30 ngày 16/04 WTA Stuttgart, Germany Women Double", Alexandra Panova/Yang Zhaoxuan vs Ellen Perez/Demi Schuurs 17:30 ngày 16/04 WTA Stuttgart, Germany Women Double
+https://live.alilicloud.com/live/74ba454c576393a264cce867ad4f3ada/playlist.m3u8
+#EXTINF:-1 tvg-id="601379797" group-title="Hugo Nys/Edouard Roger-Vasselin vs Francisco Cabral/Joe Salisbury 17:30 ngày 16/04 ATP Barcelona, Spain Men Doubles", Hugo Nys/Edouard Roger-Vasselin vs Francisco Cabral/Joe Salisbury 17:30 ngày 16/04 ATP Barcelona, Spain Men Doubles
+https://live.alilicloud.com/live/2fe5d55a3a4d626898ec211222354bc6/playlist.m3u8
+#EXTINF:-1 tvg-id="601385059" group-title="Arthur Reymond/Luca Sanchez vs Gonzalo Escobar/Nino Serdarusic 18:00 ngày 16/04 ATP Challenger Oeiras 3, Portugal Men Doubles", Arthur Reymond/Luca Sanchez vs Gonzalo Escobar/Nino Serdarusic 18:00 ngày 16/04 ATP Challenger Oeiras 3, Portugal Men Doubles
+https://live.alilicloud.com/live/73129579a9af84360b8d3bca688f07bc/playlist.m3u8
+#EXTINF:-1 tvg-id="601379986" group-title="Hailey Baptiste vs Iryna Shymanovich 18:00 ngày 16/04 WTA Rouen, France Women Singles", Hailey Baptiste vs Iryna Shymanovich 18:00 ngày 16/04 WTA Rouen, France Women Singles
+https://live.alilicloud.com/live/3e26d4451a1acd8414563143c01c573f/playlist.m3u8
+#EXTINF:-1 tvg-id="601379947" group-title="Orlando Luz/Rafael Matos vs Luke Johnson/Jan Zielinski 18:05 ngày 16/04 ATP Munich, Germany Men Double", Orlando Luz/Rafael Matos vs Luke Johnson/Jan Zielinski 18:05 ngày 16/04 ATP Munich, Germany Men Double
+https://live.alilicloud.com/live/1a13ac19ee6dee2f375f91b3548a1179/playlist.m3u8
+#EXTINF:-1 tvg-id="601379890" group-title="Lorenzo Sonego vs Andrey Rublev 18:30 ngày 16/04 ATP Barcelona, Spain Men Singles", Lorenzo Sonego vs Andrey Rublev 18:30 ngày 16/04 ATP Barcelona, Spain Men Singles
+https://cdn-hls.taoxanh.biz/live/69e0c05d6409e_42127/index.m3u8?expire=1776941789&amp;sign=f74f8ae200f3655b8232db9dd425b082
+#EXTINF:-1 tvg-id="601379938" group-title="Alexander Zverev vs Gabriel Diallo 18:35 ngày 16/04 ATP Munich, Germany Men Singles", Alexander Zverev vs Gabriel Diallo 18:35 ngày 16/04 ATP Munich, Germany Men Singles
+https://cdn-hls.taoxanh.biz/live/69e0b7c3203f2_4439/index.m3u8?expire=1776939587&amp;sign=f64533960b06687de074e2b887854212
+#EXTINF:-1 tvg-id="601372321" group-title="Manila Digger FC vs Svay Rieng FC 19:00 ngày 16/04 AFC Challenge League", Manila Digger FC vs Svay Rieng FC 19:00 ngày 16/04 AFC Challenge League
+https://cdn-hls.taoxanh.biz/live/69e0bdbdacca0_72787/index.m3u8?expire=1776941117&amp;sign=d673f0e80d42e1aea88d5b726656a7dd
+#EXTINF:-1 tvg-id="601372324" group-title="Indonesia U17 vs Malaysia U17 19:30 ngày 16/04 AFF U17 Youth Championship", Indonesia U17 vs Malaysia U17 19:30 ngày 16/04 AFF U17 Youth Championship
+https://cdn-hls.taoxanh.biz/live/69e0c2b8acca0_85514/index.m3u8?expire=1776942392&amp;sign=45c46723ab7403fa5a6ef4b2609d638a
 #EXTINF:-1 tvg-id="601372363" group-title="East Bengal FC vs Bengaluru 21:00 ngày 16/04 Indian Super League", East Bengal FC vs Bengaluru 21:00 ngày 16/04 Indian Super League
 https://cdn-hls.taoxanh.biz/live/69dfd21e24441_6308/index.m3u8?expire=1776880798&amp;sign=aad09400cd3ff0c11fdabb5db9dfa758
