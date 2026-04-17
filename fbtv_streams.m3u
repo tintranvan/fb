@@ -1,18 +1,28 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601374529" group-title="Jaguares de Cordoba vs Deportivo Pasto 04:00 ngày 18/04 Categoría Primera A", Jaguares de Cordoba vs Deportivo Pasto 04:00 ngày 18/04 Categoría Primera A (Link 1)
-https://cdn-hls.taoxanh.biz/live/69e29378203f2_128756/index.m3u8?expire=1777061368&amp;sign=68184b4171f3473e6fc0b7f9a8596c6a
-#EXTINF:-1 tvg-id="601374529" group-title="Jaguares de Cordoba vs Deportivo Pasto 04:00 ngày 18/04 Categoría Primera A", Jaguares de Cordoba vs Deportivo Pasto 04:00 ngày 18/04 Categoría Primera A (Link 2)
-https://live.alilicloud.com/live/0fb894767d4bd707576170f17f70b6f3/playlist.m3u8
-#EXTINF:-1 tvg-id="601374502" group-title="Suriname (w) vs Belize Women 04:00 ngày 18/04 FIFA Women's World Cup qualification(CONCACAF)", Suriname (w) vs Belize Women 04:00 ngày 18/04 FIFA Women's World Cup qualification(CONCACAF)
-https://live.alilicloud.com/live/faa73278262d2fafc91fc4b93774e3f7/playlist.m3u8
+#EXTINF:-1 tvg-id="601383877" group-title="Orlando Magic vs Charlotte Hornets 06:30 ngày 18/04 National Basketball Association", Orlando Magic vs Charlotte Hornets 06:30 ngày 18/04 National Basketball Association (Link 1)
+https://cdn-hls.taoxanh.biz/live/69e2baf842280_72787/index.m3u8?expire=1777071480&amp;sign=eb69c75cbd1f8da0e7c5deb96d2a98d9
+#EXTINF:-1 tvg-id="601383877" group-title="Orlando Magic vs Charlotte Hornets 06:30 ngày 18/04 National Basketball Association", Orlando Magic vs Charlotte Hornets 06:30 ngày 18/04 National Basketball Association (Link 2)
+https://live.alilicloud.com/live/72b9594ef38056d11a59218955fa5b95/playlist.m3u8
 #EXTINF:-1 tvg-id="601374505" group-title="Trinidad Tobago Women vs El Salvador Women 05:00 ngày 18/04 FIFA Women's World Cup qualification(CONCACAF)", Trinidad Tobago Women vs El Salvador Women 05:00 ngày 18/04 FIFA Women's World Cup qualification(CONCACAF)
 https://live.alilicloud.com/live/b5308859c7c72dd2820421660d793ea6/playlist.m3u8
 #EXTINF:-1 tvg-id="601374508" group-title="Club Leones del Norte vs Sociedad Deportiva Aucas 05:00 ngày 18/04 LigaPro Serie A", Club Leones del Norte vs Sociedad Deportiva Aucas 05:00 ngày 18/04 LigaPro Serie A
 https://live.alilicloud.com/live/a89e6c23152a91f08bba951da6152d2c/playlist.m3u8
+#EXTINF:-1 tvg-id="601374514" group-title="St. Kitts and Nevis Women vs Curacao Women 06:00 ngày 18/04 FIFA Women's World Cup qualification(CONCACAF)", St. Kitts and Nevis Women vs Curacao Women 06:00 ngày 18/04 FIFA Women's World Cup qualification(CONCACAF)
+https://live.alilicloud.com/live/813cb93bdddc5b964b527d262023feb4/playlist.m3u8
+#EXTINF:-1 tvg-id="601374526" group-title="Albion FC vs Central Espanol 06:00 ngày 18/04 Uruguay Primera Division", Albion FC vs Central Espanol 06:00 ngày 18/04 Uruguay Primera Division
+https://live.alilicloud.com/live/65b14d241fa08f9d23fcd6c960f76ee9/playlist.m3u8
+#EXTINF:-1 tvg-id="601386229" group-title="Toronto FC II vs Philadelphia Union II 06:00 ngày 18/04 MLS Next PL", Toronto FC II vs Philadelphia Union II 06:00 ngày 18/04 MLS Next PL
+https://live.alilicloud.com/live/f8d1a76735f619f58ac6c2089d356673/playlist.m3u8
+#EXTINF:-1 tvg-id="601390762" group-title="Barquisimeto vs Academia Puerto Cabello B 06:00 ngày 18/04 Venezuela Segunda Division", Barquisimeto vs Academia Puerto Cabello B 06:00 ngày 18/04 Venezuela Segunda Division
+https://live.alilicloud.com/live/34ecb0b14326f6c0aa72a714162db6bd/playlist.m3u8
+#EXTINF:-1 tvg-id="601374532" group-title="Club Atlético Unión vs Club Atlético Newell's Old Boys 06:30 ngày 18/04 Argentine Division 1", Club Atlético Unión vs Club Atlético Newell's Old Boys 06:30 ngày 18/04 Argentine Division 1
+https://live.alilicloud.com/live/bea19e496e753038c2db6fffc0c7879a/playlist.m3u8
 #EXTINF:-1 tvg-id="601383853" group-title="Caxias do Sul vs Corinthians 05:30 ngày 18/04 Novo Basquete Brasil", Caxias do Sul vs Corinthians 05:30 ngày 18/04 Novo Basquete Brasil
 https://live.alilicloud.com/live/bf21b7ae6fc6d20fb96de23400f58da0/playlist.m3u8
-#EXTINF:-1 tvg-id="601383877" group-title="Orlando Magic vs Charlotte Hornets 06:30 ngày 18/04 National Basketball Association", Orlando Magic vs Charlotte Hornets 06:30 ngày 18/04 National Basketball Association
-https://live.alilicloud.com/live/72b9594ef38056d11a59218955fa5b95/playlist.m3u8
+#EXTINF:-1 tvg-id="601383859" group-title="Mogi das Cruzes vs Osasco Basket 06:00 ngày 18/04 Novo Basquete Brasil", Mogi das Cruzes vs Osasco Basket 06:00 ngày 18/04 Novo Basquete Brasil
+https://live.alilicloud.com/live/68220c953d68ae4f00a19e9d759b390c/playlist.m3u8
+#EXTINF:-1 tvg-id="601385275" group-title="Matias Soto vs Juan Carlos Prado Angelo 05:25 ngày 18/04 ATP Challenger Santa Cruz, Bolivia Men Singles", Matias Soto vs Juan Carlos Prado Angelo 05:25 ngày 18/04 ATP Challenger Santa Cruz, Bolivia Men Singles
+https://live.alilicloud.com/live/621ed1edf260d4c634d5c1d7e557f7c4/playlist.m3u8
 #EXTINF:-1 tvg-id="601375390" group-title="Brentford vs Fulham 18:30 ngày 18/04 English Premier League", Brentford vs Fulham 18:30 ngày 18/04 English Premier League
 https://live.alilicloud.com/live/61626f64c99af9468f99a5729d3fa299/playlist.m3u8
 #EXTINF:-1 tvg-id="601375846" group-title="Udinese vs Parma 20:00 ngày 18/04 Italian Serie A", Udinese vs Parma 20:00 ngày 18/04 Italian Serie A
