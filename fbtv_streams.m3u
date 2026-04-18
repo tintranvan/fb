@@ -1,54 +1,28 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601380793" group-title="Atletico Madrid vs Real Sociedad 02:00 ngày 19/04 Copa del Rey", Atletico Madrid vs Real Sociedad 02:00 ngày 19/04 Copa del Rey (Link 1)
-https://cdn-hls.taoxanh.biz/live/69e3c589203f2_4908/index.m3u8?expire=1777139721&amp;sign=79a8155c855dd595141e86eded7fd174
-#EXTINF:-1 tvg-id="601380793" group-title="Atletico Madrid vs Real Sociedad 02:00 ngày 19/04 Copa del Rey", Atletico Madrid vs Real Sociedad 02:00 ngày 19/04 Copa del Rey (Link 2)
-https://live.alilicloud.com/live/1015624024df78ec0e7ebba0ec4673c2/playlist.m3u8
 #EXTINF:-1 tvg-id="601380970" group-title="Colorado Rapids vs Inter Miami CF 03:40 ngày 19/04 United States Major League Soccer", Colorado Rapids vs Inter Miami CF 03:40 ngày 19/04 United States Major League Soccer (Link 1)
 https://cdn-hls.taoxanh.biz/live/69e3e8cc42281_95554/index.m3u8?expire=1777148748&amp;sign=791ec44be4647fdecd652276b6130fde
 #EXTINF:-1 tvg-id="601380970" group-title="Colorado Rapids vs Inter Miami CF 03:40 ngày 19/04 United States Major League Soccer", Colorado Rapids vs Inter Miami CF 03:40 ngày 19/04 United States Major League Soccer (Link 2)
 https://live.alilicloud.com/live/92c35e5ad158bc8bd5b3959335e2f232/playlist.m3u8
-#EXTINF:-1 tvg-id="601388083" group-title="Denver Nuggets vs Minnesota Timberwolves 02:30 ngày 19/04 National Basketball Association", Denver Nuggets vs Minnesota Timberwolves 02:30 ngày 19/04 National Basketball Association (Link 1)
-https://cdn-hls.taoxanh.biz/live/69e3db6842281_42127/index.m3u8?expire=1777145320&amp;sign=1eddb49917ee6d0c258807cee1edf500
-#EXTINF:-1 tvg-id="601388083" group-title="Denver Nuggets vs Minnesota Timberwolves 02:30 ngày 19/04 National Basketball Association", Denver Nuggets vs Minnesota Timberwolves 02:30 ngày 19/04 National Basketball Association (Link 2)
-https://cdn-hls.taoxanh.biz/live/69e3df70203f3_4733/index.m3u8?expire=1777146352&amp;sign=f0599eced55e55533b07dc287a5ff73f
-#EXTINF:-1 tvg-id="601388083" group-title="Denver Nuggets vs Minnesota Timberwolves 02:30 ngày 19/04 National Basketball Association", Denver Nuggets vs Minnesota Timberwolves 02:30 ngày 19/04 National Basketball Association (Link 3)
-https://live.alilicloud.com/live/57bcff5f5fa176e96e9550bb696469bf/playlist.m3u8
+#EXTINF:-1 tvg-id="601388086" group-title="New York Knicks vs Atlanta Hawks 05:00 ngày 19/04 National Basketball Association", New York Knicks vs Atlanta Hawks 05:00 ngày 19/04 National Basketball Association (Link 1)
+https://cdn-hls.taoxanh.biz/live/69e4013d203f3_42127/index.m3u8?expire=1777155005&amp;sign=aa841090d5593ad71d85d9dec5bc8ea0
+#EXTINF:-1 tvg-id="601388086" group-title="New York Knicks vs Atlanta Hawks 05:00 ngày 19/04 National Basketball Association", New York Knicks vs Atlanta Hawks 05:00 ngày 19/04 National Basketball Association (Link 2)
+https://live.alilicloud.com/live/62c8c6d4030a99326604d56ee04fb0ba/playlist.m3u8
 #EXTINF:-1 tvg-id="601393723" group-title="UFC Fight Night: Burns vs. Malott", UFC Fight Night: Burns vs. Malott
 https://cdn-hls.taoxanh.biz/live/69e3f145203f3_142210/index.m3u8?expire=1777150917&amp;sign=5ca162f24dcbedda0527b6b05291bf23
-#EXTINF:-1 tvg-id="601394986" group-title="Salcedo FC vs Atletico Pantoja 03:00 ngày 19/04 Liga Dominicana de Fútbol", Salcedo FC vs Atletico Pantoja 03:00 ngày 19/04 Liga Dominicana de Fútbol
-https://live.alilicloud.com/live/fa3d4ae9a3eea5e50762843086d272ae/playlist.m3u8
-#EXTINF:-1 tvg-id="601386835" group-title="Chicago flame B vs Atlanta United FC II 03:00 ngày 19/04 MLS Next PL", Chicago flame B vs Atlanta United FC II 03:00 ngày 19/04 MLS Next PL
-https://live.alilicloud.com/live/48405cad15a5e513e2a89643936fb115/playlist.m3u8
-#EXTINF:-1 tvg-id="601380946" group-title="Inter de Limeira vs Ituano  SP 03:00 ngày 19/04 Brazilian Serie C", Inter de Limeira vs Ituano  SP 03:00 ngày 19/04 Brazilian Serie C
-https://live.alilicloud.com/live/3cf1a64c359ca58039e699fbba3ad29e/playlist.m3u8
-#EXTINF:-1 tvg-id="601380943" group-title="Forge FC vs Cavalry FC 03:00 ngày 19/04 Canadian Premier League", Forge FC vs Cavalry FC 03:00 ngày 19/04 Canadian Premier League
-https://live.alilicloud.com/live/60d4c7214bebf62a3204cf68769e75f0/playlist.m3u8
-#EXTINF:-1 tvg-id="601380967" group-title="Juan Pablo II vs Comerciantes Unidos 03:15 ngày 19/04 Peruvian Liga 1", Juan Pablo II vs Comerciantes Unidos 03:15 ngày 19/04 Peruvian Liga 1
-https://live.alilicloud.com/live/785f451548860eb6af06b83188011c0a/playlist.m3u8
-#EXTINF:-1 tvg-id="601380964" group-title="Instituto de Córdoba vs Estudiantes La Plata 03:15 ngày 19/04 Argentine Division 1", Instituto de Córdoba vs Estudiantes La Plata 03:15 ngày 19/04 Argentine Division 1
-https://live.alilicloud.com/live/fff3bd883757c4ae3c3b8bdc16f184a0/playlist.m3u8
 #EXTINF:-1 tvg-id="601380994" group-title="Atletico FC vs Union Magdalena 03:30 ngày 19/04 Colombian Torneo BetPlay Dimayor", Atletico FC vs Union Magdalena 03:30 ngày 19/04 Colombian Torneo BetPlay Dimayor
 https://live.alilicloud.com/live/aeb451f6418c0ae9526a71c96eeef436/playlist.m3u8
-#EXTINF:-1 tvg-id="601380991" group-title="Envigado FC vs Patriotas FC 03:30 ngày 19/04 Colombian Torneo BetPlay Dimayor", Envigado FC vs Patriotas FC 03:30 ngày 19/04 Colombian Torneo BetPlay Dimayor
-https://live.alilicloud.com/live/6f74045c261228d6f4b1c924bc70b65f/playlist.m3u8
 #EXTINF:-1 tvg-id="601380985" group-title="Independiente Yumbo vs Real Soacha Cundinamarca 03:30 ngày 19/04 Colombian Torneo BetPlay Dimayor", Independiente Yumbo vs Real Soacha Cundinamarca 03:30 ngày 19/04 Colombian Torneo BetPlay Dimayor
 https://live.alilicloud.com/live/6fe0bbcf9b23dac44e02ef0f7ba5100b/playlist.m3u8
-#EXTINF:-1 tvg-id="601380982" group-title="Tigres Zipaquira vs Deportes Quindio 03:30 ngày 19/04 Colombian Torneo BetPlay Dimayor", Tigres Zipaquira vs Deportes Quindio 03:30 ngày 19/04 Colombian Torneo BetPlay Dimayor
-https://live.alilicloud.com/live/36aaf2f8b1b7de10a8a890097b5b6f69/playlist.m3u8
-#EXTINF:-1 tvg-id="601380979" group-title="Real Cartagena vs Barranquilla FC 03:30 ngày 19/04 Colombian Torneo BetPlay Dimayor", Real Cartagena vs Barranquilla FC 03:30 ngày 19/04 Colombian Torneo BetPlay Dimayor
-https://live.alilicloud.com/live/8bd46f54c8b5714c6c27e2d1c511b98f/playlist.m3u8
-#EXTINF:-1 tvg-id="601380976" group-title="Real Santander vs Bogota FC 03:30 ngày 19/04 Colombian Torneo BetPlay Dimayor", Real Santander vs Bogota FC 03:30 ngày 19/04 Colombian Torneo BetPlay Dimayor
-https://live.alilicloud.com/live/74eeb761f3d2e99dd31d63e64fa4bb7e/playlist.m3u8
 #EXTINF:-1 tvg-id="601380973" group-title="Orsomarso vs Leones 03:30 ngày 19/04 Colombian Torneo BetPlay Dimayor", Orsomarso vs Leones 03:30 ngày 19/04 Colombian Torneo BetPlay Dimayor
 https://live.alilicloud.com/live/2716f4d0274bc26e7c5ef83729bb0a04/playlist.m3u8
-#EXTINF:-1 tvg-id="601381003" group-title="Ecuador (w) vs Peru (w) 04:00 ngày 19/04 CNL W", Ecuador (w) vs Peru (w) 04:00 ngày 19/04 CNL W
-https://live.alilicloud.com/live/96ffa29dcabe4d9ee2583da4c8e8e197/playlist.m3u8
 #EXTINF:-1 tvg-id="601381015" group-title="America MG vs Sport Club do Recife 04:00 ngày 19/04 Brazilian Serie B", America MG vs Sport Club do Recife 04:00 ngày 19/04 Brazilian Serie B
 https://live.alilicloud.com/live/e3a06ddb93909df9aa59f202a8caf312/playlist.m3u8
 #EXTINF:-1 tvg-id="601381012" group-title="Colorado Springs Switchbacks FC vs Monterey Bay FC 04:00 ngày 19/04 USL Championship", Colorado Springs Switchbacks FC vs Monterey Bay FC 04:00 ngày 19/04 USL Championship
 https://live.alilicloud.com/live/afdf424accadd2e6b5cf43e5308ce51d/playlist.m3u8
 #EXTINF:-1 tvg-id="601381009" group-title="Louisville City FC vs Sporting Jax 04:00 ngày 19/04 USL Championship", Louisville City FC vs Sporting Jax 04:00 ngày 19/04 USL Championship
 https://live.alilicloud.com/live/95aaa2d2da6344d47584af13636a98f6/playlist.m3u8
+#EXTINF:-1 tvg-id="601381003" group-title="Ecuador (w) vs Peru (w) 04:00 ngày 19/04 CNL W", Ecuador (w) vs Peru (w) 04:00 ngày 19/04 CNL W
+https://live.alilicloud.com/live/96ffa29dcabe4d9ee2583da4c8e8e197/playlist.m3u8
 #EXTINF:-1 tvg-id="601381000" group-title="Uruguay (w) vs Chile (w) 04:00 ngày 19/04 CNL W", Uruguay (w) vs Chile (w) 04:00 ngày 19/04 CNL W
 https://live.alilicloud.com/live/2f6fa32187439acea112f59f6316c8c1/playlist.m3u8
 #EXTINF:-1 tvg-id="601389118" group-title="Club Guaraní vs Sportivo Luqueno 04:15 ngày 19/04 Paraguayan Primera Division", Club Guaraní vs Sportivo Luqueno 04:15 ngày 19/04 Paraguayan Primera Division
@@ -67,7 +41,9 @@ https://live.alilicloud.com/live/053c23d42aa27ec3a77af385ca02635b/playlist.m3u8
 https://live.alilicloud.com/live/90b6770e5d2412f32c36284d65fec6a0/playlist.m3u8
 #EXTINF:-1 tvg-id="601381036" group-title="Clube de Regatas Vasco da Gama vs Sao Paulo 04:30 ngày 19/04 Brazilian Serie A", Clube de Regatas Vasco da Gama vs Sao Paulo 04:30 ngày 19/04 Brazilian Serie A
 https://live.alilicloud.com/live/12a46b686e7c39b776a2db3401ba1481/playlist.m3u8
-#EXTINF:-1 tvg-id="601396783" group-title="Gdessa Barreiro Women vs Quinta Dos Lombos Women 03:00 ngày 19/04 Liga Feminina de Basquetebol", Gdessa Barreiro Women vs Quinta Dos Lombos Women 03:00 ngày 19/04 Liga Feminina de Basquetebol
-https://live.alilicloud.com/live/7335602e186f03ff6d217b21580ecc6e/playlist.m3u8
-#EXTINF:-1 tvg-id="601396975" group-title="Nacional Montevideo vs Flamengo 03:40 ngày 19/04 Champions League Americas", Nacional Montevideo vs Flamengo 03:40 ngày 19/04 Champions League Americas
-https://live.alilicloud.com/live/c77901e0bfd88f7ac6e89770379d2ec6/playlist.m3u8
+#EXTINF:-1 tvg-id="601381063" group-title="Richmond Kickers vs Omaha 05:00 ngày 19/04 USL League One", Richmond Kickers vs Omaha 05:00 ngày 19/04 USL League One
+https://live.alilicloud.com/live/f4d1895830e73dfdd2cc670e4a049351/playlist.m3u8
+#EXTINF:-1 tvg-id="601381060" group-title="Guadalupe FC vs Perez Zeledon 05:00 ngày 19/04 Costa Rica Primera Division", Guadalupe FC vs Perez Zeledon 05:00 ngày 19/04 Costa Rica Primera Division
+https://live.alilicloud.com/live/e767681af96dfb2899a153f13b661654/playlist.m3u8
+#EXTINF:-1 tvg-id="601381057" group-title="Bermuda (w) vs Grenada Women 05:00 ngày 19/04 FIFA Women's World Cup qualification(CONCACAF)", Bermuda (w) vs Grenada Women 05:00 ngày 19/04 FIFA Women's World Cup qualification(CONCACAF)
+https://live.alilicloud.com/live/5b4310d6ec053b0e95861c198bb72a94/playlist.m3u8
