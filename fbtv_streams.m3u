@@ -11,14 +11,6 @@ https://live.alilicloud.com/live/b89a45419ebca8adf6d0c454682acb57/playlist.m3u8
 https://cdn-hls.taoxanh.biz/live/69e3c589203f2_4908/index.m3u8?expire=1777139721&amp;sign=79a8155c855dd595141e86eded7fd174
 #EXTINF:-1 tvg-id="601380793" group-title="Atletico Madrid vs Real Sociedad 02:00 ngày 19/04 Copa del Rey", Atletico Madrid vs Real Sociedad 02:00 ngày 19/04 Copa del Rey (Link 2)
 https://live.alilicloud.com/live/1015624024df78ec0e7ebba0ec4673c2/playlist.m3u8
-#EXTINF:-1 tvg-id="601380727" group-title="Hannover 96 vs SC Paderborn 07 01:30 ngày 19/04 German Bundesliga 2", Hannover 96 vs SC Paderborn 07 01:30 ngày 19/04 German Bundesliga 2 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69e3a2c4203f2_124958/index.m3u8?expire=1777130820&amp;sign=303513a93982092806196aa0657eec07
-#EXTINF:-1 tvg-id="601380727" group-title="Hannover 96 vs SC Paderborn 07 01:30 ngày 19/04 German Bundesliga 2", Hannover 96 vs SC Paderborn 07 01:30 ngày 19/04 German Bundesliga 2 (Link 2)
-https://live.alilicloud.com/live/3e90ff655c3a6f25223b24aa9cd8504b/playlist.m3u8
-#EXTINF:-1 tvg-id="601380757" group-title="Belgium (w) vs Scotland (w) 01:30 ngày 19/04 FIFA Women's World Cup qualification(UEFA)", Belgium (w) vs Scotland (w) 01:30 ngày 19/04 FIFA Women's World Cup qualification(UEFA) (Link 1)
-https://cdn-hls.taoxanh.biz/live/69e3ccb0203f3_73445/index.m3u8?expire=1777141552&amp;sign=6b3e75542c51a3b3cf0c36518be60c34
-#EXTINF:-1 tvg-id="601380757" group-title="Belgium (w) vs Scotland (w) 01:30 ngày 19/04 FIFA Women's World Cup qualification(UEFA)", Belgium (w) vs Scotland (w) 01:30 ngày 19/04 FIFA Women's World Cup qualification(UEFA) (Link 2)
-https://cdn-hls.taoxanh.biz/live/69e3c5b0203f3_95554/index.m3u8?expire=1777139760&amp;sign=c1e8cb678f6e750aafdcd77a3d95be21
 #EXTINF:-1 tvg-id="601380769" group-title="AS Roma vs Atalanta 01:45 ngày 19/04 Italian Serie A", AS Roma vs Atalanta 01:45 ngày 19/04 Italian Serie A (Link 1)
 https://cdn-hls.taoxanh.biz/live/69e3b84f262ae_88186/index.m3u8?expire=1777136335&amp;sign=4ebc903d77e12757b824c0f992692738
 #EXTINF:-1 tvg-id="601380769" group-title="AS Roma vs Atalanta 01:45 ngày 19/04 Italian Serie A", AS Roma vs Atalanta 01:45 ngày 19/04 Italian Serie A (Link 2)
@@ -41,103 +33,89 @@ https://cdn-hls.taoxanh.biz/live/69e3db6842281_42127/index.m3u8?expire=177714532
 https://cdn-hls.taoxanh.biz/live/69e3df70203f3_4733/index.m3u8?expire=1777146352&amp;sign=f0599eced55e55533b07dc287a5ff73f
 #EXTINF:-1 tvg-id="601388083" group-title="Denver Nuggets vs Minnesota Timberwolves 02:30 ngày 19/04 National Basketball Association", Denver Nuggets vs Minnesota Timberwolves 02:30 ngày 19/04 National Basketball Association (Link 3)
 https://live.alilicloud.com/live/57bcff5f5fa176e96e9550bb696469bf/playlist.m3u8
-#EXTINF:-1 tvg-id="601387474" group-title="Ferrocarril Midland vs San Martin San Juan 01:00 ngày 19/04 Argentine Division 2", Ferrocarril Midland vs San Martin San Juan 01:00 ngày 19/04 Argentine Division 2
-https://live.alilicloud.com/live/d77c8b235c1b6bc152d1c8040f46a0a8/playlist.m3u8
-#EXTINF:-1 tvg-id="601380682" group-title="Gimnasia La Plata vs Estudiantes Rio Cuarto 01:00 ngày 19/04 Argentine Division 1", Gimnasia La Plata vs Estudiantes Rio Cuarto 01:00 ngày 19/04 Argentine Division 1
-https://live.alilicloud.com/live/3871907727b24576aa890e341b700ce9/playlist.m3u8
-#EXTINF:-1 tvg-id="601380706" group-title="Wadi Degla SC vs Bank El Ahly 01:00 ngày 19/04 Egyptian Premier League", Wadi Degla SC vs Bank El Ahly 01:00 ngày 19/04 Egyptian Premier League
-https://live.alilicloud.com/live/1716a13277f997aefa71433b9b4bdefb/playlist.m3u8
-#EXTINF:-1 tvg-id="601380703" group-title="El Mokawloon El Arab vs Tala'ea El Gaish 01:00 ngày 19/04 Egyptian Premier League", El Mokawloon El Arab vs Tala'ea El Gaish 01:00 ngày 19/04 Egyptian Premier League
-https://live.alilicloud.com/live/3d7b9e6fba5b4bdb1f3ff0177a54553c/playlist.m3u8
-#EXTINF:-1 tvg-id="601380700" group-title="FC Dinamo 1948 vs FC Universitatea Cluj 01:00 ngày 19/04 Romanian Liga I", FC Dinamo 1948 vs FC Universitatea Cluj 01:00 ngày 19/04 Romanian Liga I
-https://live.alilicloud.com/live/bed80c82af9b06a4797a1164afaf0ff6/playlist.m3u8
-#EXTINF:-1 tvg-id="601380688" group-title="FC Cajamarca vs AD Tarma 01:00 ngày 19/04 Peruvian Liga 1", FC Cajamarca vs AD Tarma 01:00 ngày 19/04 Peruvian Liga 1
-https://live.alilicloud.com/live/94cdcb0daccf87409292a95e0d15a355/playlist.m3u8
-#EXTINF:-1 tvg-id="601380685" group-title="Los Andes vs San Telmo 01:00 ngày 19/04 Argentine Division 2", Los Andes vs San Telmo 01:00 ngày 19/04 Argentine Division 2
-https://live.alilicloud.com/live/99923124558bbe365b0dcc73fc9fe922/playlist.m3u8
-#EXTINF:-1 tvg-id="601380679" group-title="Bastia vs AS Saint-Étienne 01:00 ngày 19/04 French Ligue 2", Bastia vs AS Saint-Étienne 01:00 ngày 19/04 French Ligue 2
-https://live.alilicloud.com/live/d2adf2555674c1a4cda49837af8a1abe/playlist.m3u8
-#EXTINF:-1 tvg-id="601396927" group-title="Clube Desportivo Trofense vs Varzim 01:00 ngày 19/04 Portuguese Liga 3", Clube Desportivo Trofense vs Varzim 01:00 ngày 19/04 Portuguese Liga 3
-https://live.alilicloud.com/live/92726f7ee36166a4250ce1ec4c661ac1/playlist.m3u8
-#EXTINF:-1 tvg-id="601380721" group-title="Maribor vs ND Primorje 01:15 ngày 19/04 Slovenia 1.Liga", Maribor vs ND Primorje 01:15 ngày 19/04 Slovenia 1.Liga
-https://live.alilicloud.com/live/c3d169bcc10b15e356be364141d099fb/playlist.m3u8
-#EXTINF:-1 tvg-id="601380718" group-title="Pogon Szczecin vs Lech Poznan 01:15 ngày 19/04 PKO Bank Polski EKSTRAKLASA", Pogon Szczecin vs Lech Poznan 01:15 ngày 19/04 PKO Bank Polski EKSTRAKLASA
-https://live.alilicloud.com/live/109a50c844303cd68148b3d17bb7d366/playlist.m3u8
+#EXTINF:-1 tvg-id="601402621" group-title="Ben Whittaker vs Braian Nahuel Suarez 03:20 ngày 19/04 Boxing Schedule", Ben Whittaker vs Braian Nahuel Suarez 03:20 ngày 19/04 Boxing Schedule
+https://cdn-hls.taoxanh.biz/live/69e3e57d54779_142210/index.m3u8?expire=1777147901&amp;sign=f5011aa5c43ec97712d3b92549d15660
 #EXTINF:-1 tvg-id="601380763" group-title="All Boys vs Club Atletico Acassuso 01:30 ngày 19/04 Argentine Division 2", All Boys vs Club Atletico Acassuso 01:30 ngày 19/04 Argentine Division 2
 https://live.alilicloud.com/live/32e3b393e59bc9bf13fb327df54beaf9/playlist.m3u8
 #EXTINF:-1 tvg-id="601380739" group-title="Perugia vs Nuovo Campobasso 01:30 ngày 19/04 Italian Serie C", Perugia vs Nuovo Campobasso 01:30 ngày 19/04 Italian Serie C
 https://live.alilicloud.com/live/860470cb12a24e6d613645621dab47fc/playlist.m3u8
-#EXTINF:-1 tvg-id="601380742" group-title="US Pianese vs JuventusU23 01:30 ngày 19/04 Italian Serie C", US Pianese vs JuventusU23 01:30 ngày 19/04 Italian Serie C
-https://live.alilicloud.com/live/27fe614307192bd6adf786a6852da8f9/playlist.m3u8
-#EXTINF:-1 tvg-id="601380745" group-title="Asd Pineto Calcio vs Arezzo 01:30 ngày 19/04 Italian Serie C", Asd Pineto Calcio vs Arezzo 01:30 ngày 19/04 Italian Serie C
-https://live.alilicloud.com/live/dbc6d5e03709ef0354371213b0b72b6f/playlist.m3u8
-#EXTINF:-1 tvg-id="601380748" group-title="Ravenna vs Vis Pesaro 01:30 ngày 19/04 Italian Serie C", Ravenna vs Vis Pesaro 01:30 ngày 19/04 Italian Serie C
-https://live.alilicloud.com/live/5c4e870e42eddae05285b67246248eb6/playlist.m3u8
-#EXTINF:-1 tvg-id="601380751" group-title="US Sambenedettese vs Pontedera 01:30 ngày 19/04 Italian Serie C", US Sambenedettese vs Pontedera 01:30 ngày 19/04 Italian Serie C
-https://live.alilicloud.com/live/cb51d9d9fe7a24c5281fbe515bb7c9c9/playlist.m3u8
-#EXTINF:-1 tvg-id="601380754" group-title="Sassari Torres vs Gubbio 01:30 ngày 19/04 Italian Serie C", Sassari Torres vs Gubbio 01:30 ngày 19/04 Italian Serie C
-https://live.alilicloud.com/live/ac7374c4928be0d086933caf5bf2e5ab/playlist.m3u8
-#EXTINF:-1 tvg-id="601363873" group-title="Thun vs FC Basel 1893 01:30 ngày 19/04 Switzerland Super League", Thun vs FC Basel 1893 01:30 ngày 19/04 Switzerland Super League
-https://live.alilicloud.com/live/7e0910ab4acfc953a92bf539d7a2f3c2/playlist.m3u8
-#EXTINF:-1 tvg-id="601380766" group-title="Deportivo Moron vs Colon de Santa Fe 01:30 ngày 19/04 Argentine Division 2", Deportivo Moron vs Colon de Santa Fe 01:30 ngày 19/04 Argentine Division 2
-https://live.alilicloud.com/live/bd90fcea0d21411f39016d8357e7054c/playlist.m3u8
-#EXTINF:-1 tvg-id="601380895" group-title="Sportivo Italiano vs Argentino de Quilmes 01:30 ngày 19/04 Argentine Group B Tebolidun League Manchester", Sportivo Italiano vs Argentino de Quilmes 01:30 ngày 19/04 Argentine Group B Tebolidun League Manchester
-https://live.alilicloud.com/live/447a8ba6aa2f7c74230458c5e80f43b1/playlist.m3u8
-#EXTINF:-1 tvg-id="601380898" group-title="UAI Urquiza vs Talleres Rem de Escalada 01:30 ngày 19/04 Argentine Group B Tebolidun League Manchester", UAI Urquiza vs Talleres Rem de Escalada 01:30 ngày 19/04 Argentine Group B Tebolidun League Manchester
-https://live.alilicloud.com/live/fbf0a93cc2e79a9340e2f2b7c5d3cbca/playlist.m3u8
-#EXTINF:-1 tvg-id="601380907" group-title="Argentino de Rosario vs CA Atlas 01:30 ngày 19/04 Argentine Group C Tebolidun League Manchester", Argentino de Rosario vs CA Atlas 01:30 ngày 19/04 Argentine Group C Tebolidun League Manchester
-https://live.alilicloud.com/live/fb6ed8bddef5b72350c6a8799275b204/playlist.m3u8
 #EXTINF:-1 tvg-id="601380736" group-title="Carpi vs Forli 01:30 ngày 19/04 Italian Serie C", Carpi vs Forli 01:30 ngày 19/04 Italian Serie C
 https://live.alilicloud.com/live/0a90f5f643a91521ef47e451dc6c1d27/playlist.m3u8
 #EXTINF:-1 tvg-id="601380730" group-title="Ascoli vs Guidonia 01:30 ngày 19/04 Italian Serie C", Ascoli vs Guidonia 01:30 ngày 19/04 Italian Serie C
 https://live.alilicloud.com/live/efc8eaa26fa64c4b93d340250ddeac11/playlist.m3u8
+#EXTINF:-1 tvg-id="601380751" group-title="US Sambenedettese vs Pontedera 01:30 ngày 19/04 Italian Serie C", US Sambenedettese vs Pontedera 01:30 ngày 19/04 Italian Serie C
+https://live.alilicloud.com/live/cb51d9d9fe7a24c5281fbe515bb7c9c9/playlist.m3u8
+#EXTINF:-1 tvg-id="601380754" group-title="Sassari Torres vs Gubbio 01:30 ngày 19/04 Italian Serie C", Sassari Torres vs Gubbio 01:30 ngày 19/04 Italian Serie C
+https://live.alilicloud.com/live/ac7374c4928be0d086933caf5bf2e5ab/playlist.m3u8
+#EXTINF:-1 tvg-id="601380742" group-title="US Pianese vs JuventusU23 01:30 ngày 19/04 Italian Serie C", US Pianese vs JuventusU23 01:30 ngày 19/04 Italian Serie C
+https://live.alilicloud.com/live/27fe614307192bd6adf786a6852da8f9/playlist.m3u8
+#EXTINF:-1 tvg-id="601380766" group-title="Deportivo Moron vs Colon de Santa Fe 01:30 ngày 19/04 Argentine Division 2", Deportivo Moron vs Colon de Santa Fe 01:30 ngày 19/04 Argentine Division 2
+https://live.alilicloud.com/live/bd90fcea0d21411f39016d8357e7054c/playlist.m3u8
+#EXTINF:-1 tvg-id="601380895" group-title="Sportivo Italiano vs Argentino de Quilmes 01:30 ngày 19/04 Argentine Group B Tebolidun League Manchester", Sportivo Italiano vs Argentino de Quilmes 01:30 ngày 19/04 Argentine Group B Tebolidun League Manchester
+https://live.alilicloud.com/live/447a8ba6aa2f7c74230458c5e80f43b1/playlist.m3u8
+#EXTINF:-1 tvg-id="601380907" group-title="Argentino de Rosario vs CA Atlas 01:30 ngày 19/04 Argentine Group C Tebolidun League Manchester", Argentino de Rosario vs CA Atlas 01:30 ngày 19/04 Argentine Group C Tebolidun League Manchester
+https://live.alilicloud.com/live/fb6ed8bddef5b72350c6a8799275b204/playlist.m3u8
+#EXTINF:-1 tvg-id="601380745" group-title="Asd Pineto Calcio vs Arezzo 01:30 ngày 19/04 Italian Serie C", Asd Pineto Calcio vs Arezzo 01:30 ngày 19/04 Italian Serie C
+https://live.alilicloud.com/live/dbc6d5e03709ef0354371213b0b72b6f/playlist.m3u8
+#EXTINF:-1 tvg-id="601380748" group-title="Ravenna vs Vis Pesaro 01:30 ngày 19/04 Italian Serie C", Ravenna vs Vis Pesaro 01:30 ngày 19/04 Italian Serie C
+https://live.alilicloud.com/live/5c4e870e42eddae05285b67246248eb6/playlist.m3u8
 #EXTINF:-1 tvg-id="601380760" group-title="Montreal Impact vs New York Red Bulls 01:40 ngày 19/04 United States Major League Soccer", Montreal Impact vs New York Red Bulls 01:40 ngày 19/04 United States Major League Soccer
 https://live.alilicloud.com/live/663090da68641dafa61ee712cdf39140/playlist.m3u8
 #EXTINF:-1 tvg-id="601380772" group-title="Sligo Rovers vs Waterford United 01:45 ngày 19/04 Ireland Premier Division", Sligo Rovers vs Waterford United 01:45 ngày 19/04 Ireland Premier Division
 https://live.alilicloud.com/live/db812b0b7a1fd3b13e20ad4744f03db7/playlist.m3u8
 #EXTINF:-1 tvg-id="601380775" group-title="KV Mechelen vs Anderlecht 01:45 ngày 19/04 Belgian Pro League", KV Mechelen vs Anderlecht 01:45 ngày 19/04 Belgian Pro League
 https://live.alilicloud.com/live/e9e78f022d1214c32421a1ad886b5a6f/playlist.m3u8
-#EXTINF:-1 tvg-id="601380784" group-title="Charleston Battery vs Tampa Bay Rowdies 02:00 ngày 19/04 USL Championship", Charleston Battery vs Tampa Bay Rowdies 02:00 ngày 19/04 USL Championship
-https://live.alilicloud.com/live/749009def0adbd8dd743f2d793884a27/playlist.m3u8
-#EXTINF:-1 tvg-id="601390738" group-title="Columbus Crew B vs New England Revolution B 02:00 ngày 19/04 MLS Next PL", Columbus Crew B vs New England Revolution B 02:00 ngày 19/04 MLS Next PL
-https://live.alilicloud.com/live/97fb726eb149c0071e9e2269fb41f898/playlist.m3u8
-#EXTINF:-1 tvg-id="601386814" group-title="AD Confiança vs Santa Cruz  02:00 ngày 19/04 Brazilian Serie C", AD Confiança vs Santa Cruz  02:00 ngày 19/04 Brazilian Serie C
-https://live.alilicloud.com/live/d8508b3ceb3ec39643a2ce75803f03ec/playlist.m3u8
 #EXTINF:-1 tvg-id="601380781" group-title="Saint Lucia Women vs St. Vincent   Grenadines Women 02:00 ngày 19/04 FIFA Women's World Cup qualification(CONCACAF)", Saint Lucia Women vs St. Vincent   Grenadines Women 02:00 ngày 19/04 FIFA Women's World Cup qualification(CONCACAF)
 https://live.alilicloud.com/live/ed35751195be8ef1fdae2d70829da72b/playlist.m3u8
-#EXTINF:-1 tvg-id="601389115" group-title="Santa Cruz Costa Rica vs Escorpiones Belen 02:00 ngày 19/04 Costa Rica 2.Liga", Santa Cruz Costa Rica vs Escorpiones Belen 02:00 ngày 19/04 Costa Rica 2.Liga
-https://live.alilicloud.com/live/15766212d86e0a726be8067b60c82a66/playlist.m3u8
-#EXTINF:-1 tvg-id="601380832" group-title="Racing Club Montevideo vs Defensor Sporting Montevideo 02:00 ngày 19/04 Uruguay Primera Division", Racing Club Montevideo vs Defensor Sporting Montevideo 02:00 ngày 19/04 Uruguay Primera Division
-https://live.alilicloud.com/live/a69988d3e1815406bdddee30587fc173/playlist.m3u8
-#EXTINF:-1 tvg-id="601380829" group-title="South Korea Women vs Zambia Women 02:00 ngày 19/04 FIFA W Series", South Korea Women vs Zambia Women 02:00 ngày 19/04 FIFA W Series
-https://live.alilicloud.com/live/3f02365d6dbc0e7283a76f7744e0161e/playlist.m3u8
-#EXTINF:-1 tvg-id="601380796" group-title="Renaissance de Berkane vs AS FAR Rabat 02:00 ngày 19/04 CAF Champions League", Renaissance de Berkane vs AS FAR Rabat 02:00 ngày 19/04 CAF Champions League
-https://live.alilicloud.com/live/9b2de02320e0e3a595fbb5cb8eb9733f/playlist.m3u8
+#EXTINF:-1 tvg-id="601390738" group-title="Columbus Crew B vs New England Revolution B 02:00 ngày 19/04 MLS Next PL", Columbus Crew B vs New England Revolution B 02:00 ngày 19/04 MLS Next PL
+https://live.alilicloud.com/live/97fb726eb149c0071e9e2269fb41f898/playlist.m3u8
+#EXTINF:-1 tvg-id="601380784" group-title="Charleston Battery vs Tampa Bay Rowdies 02:00 ngày 19/04 USL Championship", Charleston Battery vs Tampa Bay Rowdies 02:00 ngày 19/04 USL Championship
+https://live.alilicloud.com/live/749009def0adbd8dd743f2d793884a27/playlist.m3u8
 #EXTINF:-1 tvg-id="601380787" group-title="Mushuc Runa vs Tecnico Universitario 02:00 ngày 19/04 LigaPro Serie A", Mushuc Runa vs Tecnico Universitario 02:00 ngày 19/04 LigaPro Serie A
 https://live.alilicloud.com/live/383c2d07bfdc36de877fb0081c8401ea/playlist.m3u8
+#EXTINF:-1 tvg-id="601380796" group-title="Renaissance de Berkane vs AS FAR Rabat 02:00 ngày 19/04 CAF Champions League", Renaissance de Berkane vs AS FAR Rabat 02:00 ngày 19/04 CAF Champions League
+https://live.alilicloud.com/live/9b2de02320e0e3a595fbb5cb8eb9733f/playlist.m3u8
+#EXTINF:-1 tvg-id="601380829" group-title="South Korea Women vs Zambia Women 02:00 ngày 19/04 FIFA W Series", South Korea Women vs Zambia Women 02:00 ngày 19/04 FIFA W Series
+https://live.alilicloud.com/live/3f02365d6dbc0e7283a76f7744e0161e/playlist.m3u8
+#EXTINF:-1 tvg-id="601380832" group-title="Racing Club Montevideo vs Defensor Sporting Montevideo 02:00 ngày 19/04 Uruguay Primera Division", Racing Club Montevideo vs Defensor Sporting Montevideo 02:00 ngày 19/04 Uruguay Primera Division
+https://live.alilicloud.com/live/a69988d3e1815406bdddee30587fc173/playlist.m3u8
+#EXTINF:-1 tvg-id="601386814" group-title="AD Confiança vs Santa Cruz  02:00 ngày 19/04 Brazilian Serie C", AD Confiança vs Santa Cruz  02:00 ngày 19/04 Brazilian Serie C
+https://live.alilicloud.com/live/d8508b3ceb3ec39643a2ce75803f03ec/playlist.m3u8
+#EXTINF:-1 tvg-id="601389115" group-title="Santa Cruz Costa Rica vs Escorpiones Belen 02:00 ngày 19/04 Costa Rica 2.Liga", Santa Cruz Costa Rica vs Escorpiones Belen 02:00 ngày 19/04 Costa Rica 2.Liga
+https://live.alilicloud.com/live/15766212d86e0a726be8067b60c82a66/playlist.m3u8
 #EXTINF:-1 tvg-id="601380910" group-title="Central Cordoba De Rosario vs Centro Espanol 02:05 ngày 19/04 Argentine Group C Tebolidun League Manchester", Central Cordoba De Rosario vs Centro Espanol 02:05 ngày 19/04 Argentine Group C Tebolidun League Manchester
 https://live.alilicloud.com/live/e8e7a21cc2148d2e4d448544ac73ea49/playlist.m3u8
-#EXTINF:-1 tvg-id="601380844" group-title="Godoy Cruz Antonio Tomba vs CA San Miguel 02:30 ngày 19/04 Argentine Division 2", Godoy Cruz Antonio Tomba vs CA San Miguel 02:30 ngày 19/04 Argentine Division 2
-https://live.alilicloud.com/live/32551e37718d24d4e297499165126e50/playlist.m3u8
 #EXTINF:-1 tvg-id="601387576" group-title="Quilmes vs Nueva Chicago 02:30 ngày 19/04 Argentine Division 2", Quilmes vs Nueva Chicago 02:30 ngày 19/04 Argentine Division 2
 https://live.alilicloud.com/live/0188cb3f111ae5fb91b3aae0c86e3c4a/playlist.m3u8
-#EXTINF:-1 tvg-id="601384552" group-title="Dreamland Gran Canaria vs Casademont Zaragoza 01:00 ngày 19/04 Liga Asociación de Clubs de Baloncesto", Dreamland Gran Canaria vs Casademont Zaragoza 01:00 ngày 19/04 Liga Asociación de Clubs de Baloncesto
-https://live.alilicloud.com/live/196f4505134c9f5ed96fff3d41af2da3/playlist.m3u8
-#EXTINF:-1 tvg-id="601384558" group-title="Gemini Mestre vs Libertas Livorno 01:00 ngày 19/04 Lega Nazionale Pallacanestro Serie A2", Gemini Mestre vs Libertas Livorno 01:00 ngày 19/04 Lega Nazionale Pallacanestro Serie A2
-https://live.alilicloud.com/live/23606d29403ea65b3c879b7f0872611b/playlist.m3u8
-#EXTINF:-1 tvg-id="601384549" group-title="Elizzur Maccabi Netanya vs Rishon Le Zion Maccabi 01:00 ngày 19/04 Ligat HaAl", Elizzur Maccabi Netanya vs Rishon Le Zion Maccabi 01:00 ngày 19/04 Ligat HaAl
-https://live.alilicloud.com/live/1d96969e9642a19c223a9229498d2bef/playlist.m3u8
-#EXTINF:-1 tvg-id="601384537" group-title="Benetton Treviso vs Snaidero Cucine Udine 01:00 ngày 19/04 Lega Basket Serie A", Benetton Treviso vs Snaidero Cucine Udine 01:00 ngày 19/04 Lega Basket Serie A
-https://live.alilicloud.com/live/9383284d3ba1f84cac5e39aecedff440/playlist.m3u8
-#EXTINF:-1 tvg-id="601396744" group-title="Aurora Desio vs Alberti Santi Fiorenzuola 1972 01:30 ngày 19/04 Serie B Basket", Aurora Desio vs Alberti Santi Fiorenzuola 1972 01:30 ngày 19/04 Serie B Basket
-https://live.alilicloud.com/live/6e9b7011f675a0fd27a54ab6bad51d3a/playlist.m3u8
-#EXTINF:-1 tvg-id="601384567" group-title="Urania Milano vs Real Sebastiani Rieti 01:30 ngày 19/04 Lega Nazionale Pallacanestro Serie A2", Urania Milano vs Real Sebastiani Rieti 01:30 ngày 19/04 Lega Nazionale Pallacanestro Serie A2
-https://live.alilicloud.com/live/a1a7184b236960d724db994f636e2974/playlist.m3u8
+#EXTINF:-1 tvg-id="601380844" group-title="Godoy Cruz Antonio Tomba vs CA San Miguel 02:30 ngày 19/04 Argentine Division 2", Godoy Cruz Antonio Tomba vs CA San Miguel 02:30 ngày 19/04 Argentine Division 2
+https://live.alilicloud.com/live/32551e37718d24d4e297499165126e50/playlist.m3u8
+#EXTINF:-1 tvg-id="601394986" group-title="Salcedo FC vs Atletico Pantoja 03:00 ngày 19/04 Liga Dominicana de Fútbol", Salcedo FC vs Atletico Pantoja 03:00 ngày 19/04 Liga Dominicana de Fútbol
+https://live.alilicloud.com/live/fa3d4ae9a3eea5e50762843086d272ae/playlist.m3u8
+#EXTINF:-1 tvg-id="601386835" group-title="Chicago flame B vs Atlanta United FC II 03:00 ngày 19/04 MLS Next PL", Chicago flame B vs Atlanta United FC II 03:00 ngày 19/04 MLS Next PL
+https://live.alilicloud.com/live/48405cad15a5e513e2a89643936fb115/playlist.m3u8
+#EXTINF:-1 tvg-id="601380946" group-title="Inter de Limeira vs Ituano  SP 03:00 ngày 19/04 Brazilian Serie C", Inter de Limeira vs Ituano  SP 03:00 ngày 19/04 Brazilian Serie C
+https://live.alilicloud.com/live/3cf1a64c359ca58039e699fbba3ad29e/playlist.m3u8
+#EXTINF:-1 tvg-id="601380943" group-title="Forge FC vs Cavalry FC 03:10 ngày 19/04 Canadian Premier League", Forge FC vs Cavalry FC 03:10 ngày 19/04 Canadian Premier League
+https://live.alilicloud.com/live/60d4c7214bebf62a3204cf68769e75f0/playlist.m3u8
+#EXTINF:-1 tvg-id="601380967" group-title="Juan Pablo II vs Comerciantes Unidos 03:15 ngày 19/04 Peruvian Liga 1", Juan Pablo II vs Comerciantes Unidos 03:15 ngày 19/04 Peruvian Liga 1
+https://live.alilicloud.com/live/785f451548860eb6af06b83188011c0a/playlist.m3u8
+#EXTINF:-1 tvg-id="601380964" group-title="Instituto de Córdoba vs Estudiantes La Plata 03:15 ngày 19/04 Argentine Division 1", Instituto de Córdoba vs Estudiantes La Plata 03:15 ngày 19/04 Argentine Division 1
+https://live.alilicloud.com/live/fff3bd883757c4ae3c3b8bdc16f184a0/playlist.m3u8
 #EXTINF:-1 tvg-id="601384564" group-title="Chalon/SaÔne vs JL Bourg-en-Bresse 01:30 ngày 19/04 Ligue Nationale de Basket Pro A", Chalon/SaÔne vs JL Bourg-en-Bresse 01:30 ngày 19/04 Ligue Nationale de Basket Pro A
 https://live.alilicloud.com/live/8398cfb5db50d155aba4598e4892ef83/playlist.m3u8
+#EXTINF:-1 tvg-id="601396756" group-title="Paffoni Fulgor Omegna vs Siaz Basket 02:00 ngày 19/04 Serie B Basket", Paffoni Fulgor Omegna vs Siaz Basket 02:00 ngày 19/04 Serie B Basket
+https://live.alilicloud.com/live/6ba4c391a5cf3bb8ef477611d4cd535c/playlist.m3u8
 #EXTINF:-1 tvg-id="601396753" group-title="Dany Basket Quarrata vs Asd Loreto Basket 02:00 ngày 19/04 Serie B Basket", Dany Basket Quarrata vs Asd Loreto Basket 02:00 ngày 19/04 Serie B Basket
 https://live.alilicloud.com/live/73b59da5a7a9072fbb99260dd1c0a6c6/playlist.m3u8
-#EXTINF:-1 tvg-id="601385365" group-title="Joao Lucas Reis Da Silva vs Jack Kennedy 01:00 ngày 19/04 ATP Challenger Tallahassee, USA Men Singles", Joao Lucas Reis Da Silva vs Jack Kennedy 01:00 ngày 19/04 ATP Challenger Tallahassee, USA Men Singles
-https://live.alilicloud.com/live/10387eeabaa22dcbace48db93ab866b4/playlist.m3u8
+#EXTINF:-1 tvg-id="601396783" group-title="Gdessa Barreiro Women vs Quinta Dos Lombos Women 03:00 ngày 19/04 Liga Feminina de Basquetebol", Gdessa Barreiro Women vs Quinta Dos Lombos Women 03:00 ngày 19/04 Liga Feminina de Basquetebol
+https://live.alilicloud.com/live/7335602e186f03ff6d217b21580ecc6e/playlist.m3u8
+#EXTINF:-1 tvg-id="601384576" group-title="Paulistano Amil vs Pato 03:00 ngày 19/04 Novo Basquete Brasil", Paulistano Amil vs Pato 03:00 ngày 19/04 Novo Basquete Brasil
+https://live.alilicloud.com/live/32fff68d583ba0fb33ef6175a5e65f91/playlist.m3u8
+#EXTINF:-1 tvg-id="601384573" group-title="Esgueira vs Lisboa e Benfica 03:00 ngày 19/04 Liga Portuguesa de Basquetebol", Esgueira vs Lisboa e Benfica 03:00 ngày 19/04 Liga Portuguesa de Basquetebol
+https://live.alilicloud.com/live/2cb8445c69003fba75f76a1e5ee93df8/playlist.m3u8
+#EXTINF:-1 tvg-id="601385371" group-title="Kestelboim M / Zeballos F vs Hernan Casanova/Santiago Rodriguez Taverna 02:00 ngày 19/04 ATP Challenger Santa Cruz, Bolivia Men Doubles", Kestelboim M / Zeballos F vs Hernan Casanova/Santiago Rodriguez Taverna 02:00 ngày 19/04 ATP Challenger Santa Cruz, Bolivia Men Doubles
+https://live.alilicloud.com/live/a34afd653192324fb6503f1cfc3f00d9/playlist.m3u8
+#EXTINF:-1 tvg-id="601380970" group-title="Colorado Rapids vs Inter Miami CF 03:30 ngày 19/04 United States Major League Soccer", Colorado Rapids vs Inter Miami CF 03:30 ngày 19/04 United States Major League Soccer
+https://cdn-hls.taoxanh.biz/live/69e3e8cc42281_95554/index.m3u8?expire=1777148748&amp;sign=791ec44be4647fdecd652276b6130fde
 #EXTINF:-1 tvg-id="601388086" group-title="New York Knicks vs Atlanta Hawks 05:00 ngày 19/04 National Basketball Association", New York Knicks vs Atlanta Hawks 05:00 ngày 19/04 National Basketball Association
 https://live.alilicloud.com/live/62c8c6d4030a99326604d56ee04fb0ba/playlist.m3u8
