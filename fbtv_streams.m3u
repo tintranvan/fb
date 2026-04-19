@@ -1,35 +1,27 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601387642" group-title="Sporting Braga vs FC Famalicao 02:30 ngày 20/04 Portuguese Primera Liga", Sporting Braga vs FC Famalicao 02:30 ngày 20/04 Portuguese Primera Liga (Link 1)
-https://cdn-hls.taoxanh.biz/live/69e5203142281_124958/index.m3u8?expire=1777228465&amp;sign=9ad4f612fed90edecb5aa4f3d634ce48
-#EXTINF:-1 tvg-id="601387642" group-title="Sporting Braga vs FC Famalicao 02:30 ngày 20/04 Portuguese Primera Liga", Sporting Braga vs FC Famalicao 02:30 ngày 20/04 Portuguese Primera Liga (Link 2)
-https://live.alilicloud.com/live/55ab699c11c555b65dc03e41070e550b/playlist.m3u8
-#EXTINF:-1 tvg-id="601387645" group-title="FC Porto vs CD Tondela 02:30 ngày 20/04 Portuguese Primera Liga", FC Porto vs CD Tondela 02:30 ngày 20/04 Portuguese Primera Liga (Link 1)
-https://cdn-hls.taoxanh.biz/live/69e51fe6203f3_44731/index.m3u8?expire=1777228390&amp;sign=b6952fe964c9f390efaf1bd58b300d7f
-#EXTINF:-1 tvg-id="601387645" group-title="FC Porto vs CD Tondela 02:30 ngày 20/04 Portuguese Primera Liga", FC Porto vs CD Tondela 02:30 ngày 20/04 Portuguese Primera Liga (Link 2)
-https://live.alilicloud.com/live/60b7a2d145f22ed45b8afeb05a944725/playlist.m3u8
+#EXTINF:-1 tvg-id="601387828" group-title="Red Bull Bragantino vs Remo Belem (PA) 04:30 ngày 20/04 Brazilian Serie A", Red Bull Bragantino vs Remo Belem (PA) 04:30 ngày 20/04 Brazilian Serie A (Link 1)
+https://cdn-hls.taoxanh.biz/live/69e541c6203f3_128756/index.m3u8?expire=1777237062&amp;sign=59374f18537b2eba3a22e0a055b191f4
+#EXTINF:-1 tvg-id="601387828" group-title="Red Bull Bragantino vs Remo Belem (PA) 04:30 ngày 20/04 Brazilian Serie A", Red Bull Bragantino vs Remo Belem (PA) 04:30 ngày 20/04 Brazilian Serie A (Link 2)
+https://live.alilicloud.com/live/85cd50db19d0a9c700dbb8b3992dc56a/playlist.m3u8
 #EXTINF:-1 tvg-id="601388119" group-title="Oklahoma City Thunder vs Phoenix Suns 02:30 ngày 20/04 National Basketball Association", Oklahoma City Thunder vs Phoenix Suns 02:30 ngày 20/04 National Basketball Association (Link 1)
 https://cdn-hls.taoxanh.biz/live/69e526e442281_42127/index.m3u8?expire=1777230180&amp;sign=e2a338e219885a3844cdaf76545fad87
 #EXTINF:-1 tvg-id="601388119" group-title="Oklahoma City Thunder vs Phoenix Suns 02:30 ngày 20/04 National Basketball Association", Oklahoma City Thunder vs Phoenix Suns 02:30 ngày 20/04 National Basketball Association (Link 2)
 https://live.alilicloud.com/live/704988c34b2eaf251fb8f4063f907c28/playlist.m3u8
-#EXTINF:-1 tvg-id="601387648" group-title="Cobresal vs O.Higgins 02:30 ngày 20/04 Chilean Primera Division", Cobresal vs O.Higgins 02:30 ngày 20/04 Chilean Primera Division
-https://live.alilicloud.com/live/da28cca17e73a59fc778162071416b22/playlist.m3u8
-#EXTINF:-1 tvg-id="601387651" group-title="Guarani SP vs Itabaiana(SE) 02:30 ngày 20/04 Brazilian Serie C", Guarani SP vs Itabaiana(SE) 02:30 ngày 20/04 Brazilian Serie C
-https://live.alilicloud.com/live/2901f860b9bab07e1cc4b498adbd292e/playlist.m3u8
 #EXTINF:-1 tvg-id="601387654" group-title="River Plate vs Boca Juniors 03:00 ngày 20/04 Argentine Division 1", River Plate vs Boca Juniors 03:00 ngày 20/04 Argentine Division 1
 https://live.alilicloud.com/live/1f3c1d864ae1cdd0dc103dee71c76093/playlist.m3u8
 #EXTINF:-1 tvg-id="601387714" group-title="New York City Team B vs Connecticut United FC 03:00 ngày 20/04 MLS Next PL", New York City Team B vs Connecticut United FC 03:00 ngày 20/04 MLS Next PL
 https://live.alilicloud.com/live/d39301f1c3d4b5207a9e517bad89ba89/playlist.m3u8
 #EXTINF:-1 tvg-id="601387717" group-title="Portland Timbers Reserve vs North Texas SC 03:00 ngày 20/04 MLS Next PL", Portland Timbers Reserve vs North Texas SC 03:00 ngày 20/04 MLS Next PL
 https://live.alilicloud.com/live/161af59f4a3c45d7a9c8fc891741ef30/playlist.m3u8
-#EXTINF:-1 tvg-id="601387720" group-title="Los Angeles FC II vs San Jose Earthquakes Reserve 03:00 ngày 20/04 MLS Next PL", Los Angeles FC II vs San Jose Earthquakes Reserve 03:00 ngày 20/04 MLS Next PL
-https://live.alilicloud.com/live/340b595b77ce3672301a5be42527c879/playlist.m3u8
-#EXTINF:-1 tvg-id="601389166" group-title="Olimpia Asuncion vs Cerro Porteno 03:30 ngày 20/04 Paraguayan Primera Division", Olimpia Asuncion vs Cerro Porteno 03:30 ngày 20/04 Paraguayan Primera Division
-https://live.alilicloud.com/live/39e1fe59687634102197ad3fc73906e5/playlist.m3u8
+#EXTINF:-1 tvg-id="601387798" group-title="Birmingham Legion vs Indy Eleven 04:00 ngày 20/04 USL Championship", Birmingham Legion vs Indy Eleven 04:00 ngày 20/04 USL Championship
+https://live.alilicloud.com/live/c9076a09177800f370564e8101a261b0/playlist.m3u8
 #EXTINF:-1 tvg-id="601387807" group-title="Goiás EC vs Cuiaba 04:00 ngày 20/04 Brazilian Serie B", Goiás EC vs Cuiaba 04:00 ngày 20/04 Brazilian Serie B
 https://live.alilicloud.com/live/4def9c24e63f6da6ba95956cec16a06e/playlist.m3u8
 #EXTINF:-1 tvg-id="601387822" group-title="New York Red Bulls B vs Cincinnati II 04:00 ngày 20/04 MLS Next PL", New York Red Bulls B vs Cincinnati II 04:00 ngày 20/04 MLS Next PL
 https://live.alilicloud.com/live/2bb7a09198d40879b9b314670c2393dc/playlist.m3u8
-#EXTINF:-1 tvg-id="601403254" group-title="KW Titans vs Sudbury 5 02:00 ngày 20/04 Canada Basketball Super League", KW Titans vs Sudbury 5 02:00 ngày 20/04 Canada Basketball Super League
-https://live.alilicloud.com/live/1fbd5a97c0d707a248aef213a62c2c68/playlist.m3u8
-#EXTINF:-1 tvg-id="601387828" group-title="Red Bull Bragantino vs Remo Belem (PA) 04:30 ngày 20/04 Brazilian Serie A", Red Bull Bragantino vs Remo Belem (PA) 04:30 ngày 20/04 Brazilian Serie A
-https://cdn-hls.taoxanh.biz/live/69e541c6203f3_128756/index.m3u8?expire=1777237062&amp;sign=59374f18537b2eba3a22e0a055b191f4
+#EXTINF:-1 tvg-id="601387825" group-title="Alianza Fútbol Club vs Dep.Independiente Medellin 04:10 ngày 20/04 Categoría Primera A", Alianza Fútbol Club vs Dep.Independiente Medellin 04:10 ngày 20/04 Categoría Primera A
+https://live.alilicloud.com/live/c44398a2fa764b39f973607820adead4/playlist.m3u8
+#EXTINF:-1 tvg-id="601387834" group-title="Figueirense vs Botafogo PB 04:30 ngày 20/04 Brazilian Serie C", Figueirense vs Botafogo PB 04:30 ngày 20/04 Brazilian Serie C
+https://live.alilicloud.com/live/c2209b227737a2bff050e9a40c595366/playlist.m3u8
+#EXTINF:-1 tvg-id="601387837" group-title="Real Monarchs vs Houston Dynamo B 04:30 ngày 20/04 MLS Next PL", Real Monarchs vs Houston Dynamo B 04:30 ngày 20/04 MLS Next PL
+https://live.alilicloud.com/live/e9e6ba6a99305b378346f0755269b1a1/playlist.m3u8
