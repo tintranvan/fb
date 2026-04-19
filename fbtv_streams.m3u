@@ -1,66 +1,34 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601387558" group-title="Paris Saint Germain vs Lyon 01:45 ngày 20/04 French Ligue 1", Paris Saint Germain vs Lyon 01:45 ngày 20/04 French Ligue 1 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69e510be42281_79/index.m3u8?expire=1777224510&amp;sign=ad4f9701e9e735f409a8abfeb902b066
-#EXTINF:-1 tvg-id="601387558" group-title="Paris Saint Germain vs Lyon 01:45 ngày 20/04 French Ligue 1", Paris Saint Germain vs Lyon 01:45 ngày 20/04 French Ligue 1 (Link 2)
-https://cdn-hls.taoxanh.biz/live/69e5152e203f3_28/index.m3u8?expire=1777225646&amp;sign=b189c178b45e3e97f642c3572f1b8f15
-#EXTINF:-1 tvg-id="601387558" group-title="Paris Saint Germain vs Lyon 01:45 ngày 20/04 French Ligue 1", Paris Saint Germain vs Lyon 01:45 ngày 20/04 French Ligue 1 (Link 3)
-https://live.alilicloud.com/live/2b58b5c897421579fb0e16d8c586fb4a/playlist.m3u8
-#EXTINF:-1 tvg-id="601387555" group-title="Juventus vs Bologna 01:45 ngày 20/04 Italian Serie A", Juventus vs Bologna 01:45 ngày 20/04 Italian Serie A (Link 1)
-https://cdn-hls.taoxanh.biz/live/69e5177f42281_85514/index.m3u8?expire=1777226239&amp;sign=32552fcbd11cc9b5ac126a1eef351ed4
-#EXTINF:-1 tvg-id="601387555" group-title="Juventus vs Bologna 01:45 ngày 20/04 Italian Serie A", Juventus vs Bologna 01:45 ngày 20/04 Italian Serie A (Link 2)
-https://live.alilicloud.com/live/9edb60e32940c7beecb50fbc0c9b7395/playlist.m3u8
 #EXTINF:-1 tvg-id="601387594" group-title="Al-Ahli Doha vs Al Hussein Irbid 02:00 ngày 20/04 AFC Champions League 2", Al-Ahli Doha vs Al Hussein Irbid 02:00 ngày 20/04 AFC Champions League 2 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69e5157c203f3_88186/index.m3u8?expire=1777225724&amp;sign=30d853c28c0001b46352be605da98a96
 #EXTINF:-1 tvg-id="601387594" group-title="Al-Ahli Doha vs Al Hussein Irbid 02:00 ngày 20/04 AFC Champions League 2", Al-Ahli Doha vs Al Hussein Irbid 02:00 ngày 20/04 AFC Champions League 2 (Link 2)
 https://live.alilicloud.com/live/1d9bc6c7d4b18ddfd01bbf25a5990476/playlist.m3u8
-#EXTINF:-1 tvg-id="601387642" group-title="Sporting Braga vs FC Famalicao 02:30 ngày 20/04 Portuguese Primera Liga", Sporting Braga vs FC Famalicao 02:30 ngày 20/04 Portuguese Primera Liga (Link 1)
-https://cdn-hls.taoxanh.biz/live/69e5203142281_124958/index.m3u8?expire=1777228465&amp;sign=9ad4f612fed90edecb5aa4f3d634ce48
-#EXTINF:-1 tvg-id="601387642" group-title="Sporting Braga vs FC Famalicao 02:30 ngày 20/04 Portuguese Primera Liga", Sporting Braga vs FC Famalicao 02:30 ngày 20/04 Portuguese Primera Liga (Link 2)
-https://live.alilicloud.com/live/55ab699c11c555b65dc03e41070e550b/playlist.m3u8
 #EXTINF:-1 tvg-id="601387645" group-title="FC Porto vs CD Tondela 02:30 ngày 20/04 Portuguese Primera Liga", FC Porto vs CD Tondela 02:30 ngày 20/04 Portuguese Primera Liga (Link 1)
 https://cdn-hls.taoxanh.biz/live/69e51fe6203f3_44731/index.m3u8?expire=1777228390&amp;sign=b6952fe964c9f390efaf1bd58b300d7f
 #EXTINF:-1 tvg-id="601387645" group-title="FC Porto vs CD Tondela 02:30 ngày 20/04 Portuguese Primera Liga", FC Porto vs CD Tondela 02:30 ngày 20/04 Portuguese Primera Liga (Link 2)
 https://live.alilicloud.com/live/60b7a2d145f22ed45b8afeb05a944725/playlist.m3u8
+#EXTINF:-1 tvg-id="601387642" group-title="Sporting Braga vs FC Famalicao 02:30 ngày 20/04 Portuguese Primera Liga", Sporting Braga vs FC Famalicao 02:30 ngày 20/04 Portuguese Primera Liga (Link 1)
+https://cdn-hls.taoxanh.biz/live/69e5203142281_124958/index.m3u8?expire=1777228465&amp;sign=9ad4f612fed90edecb5aa4f3d634ce48
+#EXTINF:-1 tvg-id="601387642" group-title="Sporting Braga vs FC Famalicao 02:30 ngày 20/04 Portuguese Primera Liga", Sporting Braga vs FC Famalicao 02:30 ngày 20/04 Portuguese Primera Liga (Link 2)
+https://live.alilicloud.com/live/55ab699c11c555b65dc03e41070e550b/playlist.m3u8
 #EXTINF:-1 tvg-id="601388119" group-title="Oklahoma City Thunder vs Phoenix Suns 02:30 ngày 20/04 National Basketball Association", Oklahoma City Thunder vs Phoenix Suns 02:30 ngày 20/04 National Basketball Association (Link 1)
 https://cdn-hls.taoxanh.biz/live/69e526e442281_42127/index.m3u8?expire=1777230180&amp;sign=e2a338e219885a3844cdaf76545fad87
 #EXTINF:-1 tvg-id="601388119" group-title="Oklahoma City Thunder vs Phoenix Suns 02:30 ngày 20/04 National Basketball Association", Oklahoma City Thunder vs Phoenix Suns 02:30 ngày 20/04 National Basketball Association (Link 2)
 https://live.alilicloud.com/live/704988c34b2eaf251fb8f4063f907c28/playlist.m3u8
-#EXTINF:-1 tvg-id="601387513" group-title="Giugliano vs Benevento 01:30 ngày 20/04 Italian Serie C", Giugliano vs Benevento 01:30 ngày 20/04 Italian Serie C
-https://live.alilicloud.com/live/3b5906b20534214dadc24e160f7ad138/playlist.m3u8
-#EXTINF:-1 tvg-id="601387510" group-title="Latina Calcio 1932 vs US Casertana 1908 01:30 ngày 20/04 Italian Serie C", Latina Calcio 1932 vs US Casertana 1908 01:30 ngày 20/04 Italian Serie C
-https://live.alilicloud.com/live/a79e1a153bfca7f1e67ad7588109516c/playlist.m3u8
-#EXTINF:-1 tvg-id="601387516" group-title="Salernitana vs AZ Picerno ASD 01:30 ngày 20/04 Italian Serie C", Salernitana vs AZ Picerno ASD 01:30 ngày 20/04 Italian Serie C
-https://live.alilicloud.com/live/1532d42d456b7bbcc96d9a624b7d501a/playlist.m3u8
-#EXTINF:-1 tvg-id="601387519" group-title="Casarano vs Crotone 01:30 ngày 20/04 Italian Serie C", Casarano vs Crotone 01:30 ngày 20/04 Italian Serie C
-https://live.alilicloud.com/live/a06449a4dbe02267091895b824f4bf6a/playlist.m3u8
-#EXTINF:-1 tvg-id="601387522" group-title="Audace Cerignola vs Team Altamura 01:30 ngày 20/04 Italian Serie C", Audace Cerignola vs Team Altamura 01:30 ngày 20/04 Italian Serie C
-https://live.alilicloud.com/live/267a1a793f05cad60bb2a365caf71dc4/playlist.m3u8
-#EXTINF:-1 tvg-id="601387525" group-title="AS Sorrento Calcio vs Atalanta U23 01:30 ngày 20/04 Italian Serie C", AS Sorrento Calcio vs Atalanta U23 01:30 ngày 20/04 Italian Serie C
-https://live.alilicloud.com/live/5b60d077515025109317411406258d51/playlist.m3u8
-#EXTINF:-1 tvg-id="601387528" group-title="Catania FC vs Potenza 01:30 ngày 20/04 Italian Serie C", Catania FC vs Potenza 01:30 ngày 20/04 Italian Serie C
-https://live.alilicloud.com/live/5b265255f1881bad135822cea81b9713/playlist.m3u8
-#EXTINF:-1 tvg-id="601387531" group-title="Cosenza Calcio 1914 vs Trapani 01:30 ngày 20/04 Italian Serie C", Cosenza Calcio 1914 vs Trapani 01:30 ngày 20/04 Italian Serie C
-https://live.alilicloud.com/live/da128b54fbf7e67c02f006a09ad4ac00/playlist.m3u8
-#EXTINF:-1 tvg-id="601387534" group-title="AC Monopoli vs Foggia 01:30 ngày 20/04 Italian Serie C", AC Monopoli vs Foggia 01:30 ngày 20/04 Italian Serie C
-https://live.alilicloud.com/live/ea7096f6a4443a051b1339843d751466/playlist.m3u8
-#EXTINF:-1 tvg-id="601387537" group-title="US Siracusa vs Cavese 01:30 ngày 20/04 Italian Serie C", US Siracusa vs Cavese 01:30 ngày 20/04 Italian Serie C
-https://live.alilicloud.com/live/4f896d111443f4c0986a63935f4019cf/playlist.m3u8
-#EXTINF:-1 tvg-id="601387570" group-title="Gimnasia Jujuy vs Almagro 01:30 ngày 20/04 Argentine Division 2", Gimnasia Jujuy vs Almagro 01:30 ngày 20/04 Argentine Division 2
-https://live.alilicloud.com/live/c486aefff7e575e059fe54c34a679107/playlist.m3u8
 #EXTINF:-1 tvg-id="601387561" group-title="Almeria vs Malaga 02:00 ngày 20/04 Spanish Segunda Division", Almeria vs Malaga 02:00 ngày 20/04 Spanish Segunda Division
 https://live.alilicloud.com/live/b2650fbeefc87dad8a6acbdf0796a0a1/playlist.m3u8
-#EXTINF:-1 tvg-id="601387636" group-title="Danubio FC vs Deportivo Maldonado 02:00 ngày 20/04 Uruguay Primera Division", Danubio FC vs Deportivo Maldonado 02:00 ngày 20/04 Uruguay Primera Division
-https://live.alilicloud.com/live/20503143017141f2bdc9d5c237210858/playlist.m3u8
-#EXTINF:-1 tvg-id="601387585" group-title="Londrina PR vs Ceara 02:00 ngày 20/04 Brazilian Serie B", Londrina PR vs Ceara 02:00 ngày 20/04 Brazilian Serie B
-https://live.alilicloud.com/live/2d710d5450515467f5c152317aed2328/playlist.m3u8
-#EXTINF:-1 tvg-id="601387582" group-title="Botafogo SP vs Atletico Clube Goianiense 02:00 ngày 20/04 Brazilian Serie B", Botafogo SP vs Atletico Clube Goianiense 02:00 ngày 20/04 Brazilian Serie B
-https://live.alilicloud.com/live/8781beacace8badfbc96cc8726ada094/playlist.m3u8
-#EXTINF:-1 tvg-id="601387579" group-title="Independiente Santa Fe vs Cucuta Deportivo 02:00 ngày 20/04 Categoría Primera A", Independiente Santa Fe vs Cucuta Deportivo 02:00 ngày 20/04 Categoría Primera A
-https://live.alilicloud.com/live/911b045f9eae172e474b9775f622c57f/playlist.m3u8
-#EXTINF:-1 tvg-id="601387567" group-title="Coritiba PR vs Atletico Mineiro 02:00 ngày 20/04 Brazilian Serie A", Coritiba PR vs Atletico Mineiro 02:00 ngày 20/04 Brazilian Serie A
-https://live.alilicloud.com/live/03a6de6ab657d9935dd9946a079c95bf/playlist.m3u8
 #EXTINF:-1 tvg-id="601387564" group-title="Santos vs Fluminense RJ 02:00 ngày 20/04 Brazilian Serie A", Santos vs Fluminense RJ 02:00 ngày 20/04 Brazilian Serie A
 https://live.alilicloud.com/live/b264413aaa81a17acdef63d4353c9256/playlist.m3u8
+#EXTINF:-1 tvg-id="601387567" group-title="Coritiba PR vs Atletico Mineiro 02:00 ngày 20/04 Brazilian Serie A", Coritiba PR vs Atletico Mineiro 02:00 ngày 20/04 Brazilian Serie A
+https://live.alilicloud.com/live/03a6de6ab657d9935dd9946a079c95bf/playlist.m3u8
+#EXTINF:-1 tvg-id="601387579" group-title="Independiente Santa Fe vs Cucuta Deportivo 02:00 ngày 20/04 Categoría Primera A", Independiente Santa Fe vs Cucuta Deportivo 02:00 ngày 20/04 Categoría Primera A
+https://live.alilicloud.com/live/911b045f9eae172e474b9775f622c57f/playlist.m3u8
+#EXTINF:-1 tvg-id="601387582" group-title="Botafogo SP vs Atletico Clube Goianiense 02:00 ngày 20/04 Brazilian Serie B", Botafogo SP vs Atletico Clube Goianiense 02:00 ngày 20/04 Brazilian Serie B
+https://live.alilicloud.com/live/8781beacace8badfbc96cc8726ada094/playlist.m3u8
+#EXTINF:-1 tvg-id="601387585" group-title="Londrina PR vs Ceara 02:00 ngày 20/04 Brazilian Serie B", Londrina PR vs Ceara 02:00 ngày 20/04 Brazilian Serie B
+https://live.alilicloud.com/live/2d710d5450515467f5c152317aed2328/playlist.m3u8
+#EXTINF:-1 tvg-id="601387636" group-title="Danubio FC vs Deportivo Maldonado 02:00 ngày 20/04 Uruguay Primera Division", Danubio FC vs Deportivo Maldonado 02:00 ngày 20/04 Uruguay Primera Division
+https://live.alilicloud.com/live/20503143017141f2bdc9d5c237210858/playlist.m3u8
 #EXTINF:-1 tvg-id="601390894" group-title="Atletico Barinas vs Deportivo Lara 02:30 ngày 20/04 Venezuela Segunda Division", Atletico Barinas vs Deportivo Lara 02:30 ngày 20/04 Venezuela Segunda Division
 https://live.alilicloud.com/live/d3ac84676aabf3d2056b0cdefbe3c2ff/playlist.m3u8
 #EXTINF:-1 tvg-id="601390891" group-title="Atletico El Vigia vs Yaracuyanos 02:30 ngày 20/04 Venezuela Segunda Division", Atletico El Vigia vs Yaracuyanos 02:30 ngày 20/04 Venezuela Segunda Division
@@ -73,9 +41,13 @@ https://live.alilicloud.com/live/da28cca17e73a59fc778162071416b22/playlist.m3u8
 https://live.alilicloud.com/live/03e44539725361a1d6c40d28fa632503/playlist.m3u8
 #EXTINF:-1 tvg-id="601387720" group-title="Los Angeles FC II vs San Jose Earthquakes Reserve 03:00 ngày 20/04 MLS Next PL", Los Angeles FC II vs San Jose Earthquakes Reserve 03:00 ngày 20/04 MLS Next PL
 https://live.alilicloud.com/live/340b595b77ce3672301a5be42527c879/playlist.m3u8
-#EXTINF:-1 tvg-id="601387717" group-title="Portland Timbers Reserve vs North Texas SC 03:00 ngày 20/04 MLS Next PL", Portland Timbers Reserve vs North Texas SC 03:00 ngày 20/04 MLS Next PL
-https://live.alilicloud.com/live/161af59f4a3c45d7a9c8fc891741ef30/playlist.m3u8
 #EXTINF:-1 tvg-id="601387654" group-title="River Plate vs Boca Juniors 03:00 ngày 20/04 Argentine Division 1", River Plate vs Boca Juniors 03:00 ngày 20/04 Argentine Division 1
 https://live.alilicloud.com/live/1f3c1d864ae1cdd0dc103dee71c76093/playlist.m3u8
+#EXTINF:-1 tvg-id="601387717" group-title="Portland Timbers Reserve vs North Texas SC 03:00 ngày 20/04 MLS Next PL", Portland Timbers Reserve vs North Texas SC 03:00 ngày 20/04 MLS Next PL
+https://live.alilicloud.com/live/161af59f4a3c45d7a9c8fc891741ef30/playlist.m3u8
+#EXTINF:-1 tvg-id="601387714" group-title="New York City Team B vs Connecticut United FC 03:00 ngày 20/04 MLS Next PL", New York City Team B vs Connecticut United FC 03:00 ngày 20/04 MLS Next PL
+https://live.alilicloud.com/live/d39301f1c3d4b5207a9e517bad89ba89/playlist.m3u8
+#EXTINF:-1 tvg-id="601387591" group-title="Olympique de Safi vs USM Alger 03:20 ngày 20/04 CAF Confederation Cup", Olympique de Safi vs USM Alger 03:20 ngày 20/04 CAF Confederation Cup
+https://live.alilicloud.com/live/24e0f0296b62e4dc6b710bacae2510d0/playlist.m3u8
 #EXTINF:-1 tvg-id="601403254" group-title="KW Titans vs Sudbury 5 02:00 ngày 20/04 Canada Basketball Super League", KW Titans vs Sudbury 5 02:00 ngày 20/04 Canada Basketball Super League
 https://live.alilicloud.com/live/1fbd5a97c0d707a248aef213a62c2c68/playlist.m3u8
