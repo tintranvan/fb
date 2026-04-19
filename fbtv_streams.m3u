@@ -1,53 +1,35 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601387594" group-title="Al-Ahli Doha vs Al Hussein Irbid 02:00 ngày 20/04 AFC Champions League 2", Al-Ahli Doha vs Al Hussein Irbid 02:00 ngày 20/04 AFC Champions League 2 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69e5157c203f3_88186/index.m3u8?expire=1777225724&amp;sign=30d853c28c0001b46352be605da98a96
-#EXTINF:-1 tvg-id="601387594" group-title="Al-Ahli Doha vs Al Hussein Irbid 02:00 ngày 20/04 AFC Champions League 2", Al-Ahli Doha vs Al Hussein Irbid 02:00 ngày 20/04 AFC Champions League 2 (Link 2)
-https://live.alilicloud.com/live/1d9bc6c7d4b18ddfd01bbf25a5990476/playlist.m3u8
-#EXTINF:-1 tvg-id="601387645" group-title="FC Porto vs CD Tondela 02:30 ngày 20/04 Portuguese Primera Liga", FC Porto vs CD Tondela 02:30 ngày 20/04 Portuguese Primera Liga (Link 1)
-https://cdn-hls.taoxanh.biz/live/69e51fe6203f3_44731/index.m3u8?expire=1777228390&amp;sign=b6952fe964c9f390efaf1bd58b300d7f
-#EXTINF:-1 tvg-id="601387645" group-title="FC Porto vs CD Tondela 02:30 ngày 20/04 Portuguese Primera Liga", FC Porto vs CD Tondela 02:30 ngày 20/04 Portuguese Primera Liga (Link 2)
-https://live.alilicloud.com/live/60b7a2d145f22ed45b8afeb05a944725/playlist.m3u8
 #EXTINF:-1 tvg-id="601387642" group-title="Sporting Braga vs FC Famalicao 02:30 ngày 20/04 Portuguese Primera Liga", Sporting Braga vs FC Famalicao 02:30 ngày 20/04 Portuguese Primera Liga (Link 1)
 https://cdn-hls.taoxanh.biz/live/69e5203142281_124958/index.m3u8?expire=1777228465&amp;sign=9ad4f612fed90edecb5aa4f3d634ce48
 #EXTINF:-1 tvg-id="601387642" group-title="Sporting Braga vs FC Famalicao 02:30 ngày 20/04 Portuguese Primera Liga", Sporting Braga vs FC Famalicao 02:30 ngày 20/04 Portuguese Primera Liga (Link 2)
 https://live.alilicloud.com/live/55ab699c11c555b65dc03e41070e550b/playlist.m3u8
+#EXTINF:-1 tvg-id="601387645" group-title="FC Porto vs CD Tondela 02:30 ngày 20/04 Portuguese Primera Liga", FC Porto vs CD Tondela 02:30 ngày 20/04 Portuguese Primera Liga (Link 1)
+https://cdn-hls.taoxanh.biz/live/69e51fe6203f3_44731/index.m3u8?expire=1777228390&amp;sign=b6952fe964c9f390efaf1bd58b300d7f
+#EXTINF:-1 tvg-id="601387645" group-title="FC Porto vs CD Tondela 02:30 ngày 20/04 Portuguese Primera Liga", FC Porto vs CD Tondela 02:30 ngày 20/04 Portuguese Primera Liga (Link 2)
+https://live.alilicloud.com/live/60b7a2d145f22ed45b8afeb05a944725/playlist.m3u8
 #EXTINF:-1 tvg-id="601388119" group-title="Oklahoma City Thunder vs Phoenix Suns 02:30 ngày 20/04 National Basketball Association", Oklahoma City Thunder vs Phoenix Suns 02:30 ngày 20/04 National Basketball Association (Link 1)
 https://cdn-hls.taoxanh.biz/live/69e526e442281_42127/index.m3u8?expire=1777230180&amp;sign=e2a338e219885a3844cdaf76545fad87
 #EXTINF:-1 tvg-id="601388119" group-title="Oklahoma City Thunder vs Phoenix Suns 02:30 ngày 20/04 National Basketball Association", Oklahoma City Thunder vs Phoenix Suns 02:30 ngày 20/04 National Basketball Association (Link 2)
 https://live.alilicloud.com/live/704988c34b2eaf251fb8f4063f907c28/playlist.m3u8
-#EXTINF:-1 tvg-id="601387561" group-title="Almeria vs Malaga 02:00 ngày 20/04 Spanish Segunda Division", Almeria vs Malaga 02:00 ngày 20/04 Spanish Segunda Division
-https://live.alilicloud.com/live/b2650fbeefc87dad8a6acbdf0796a0a1/playlist.m3u8
-#EXTINF:-1 tvg-id="601387564" group-title="Santos vs Fluminense RJ 02:00 ngày 20/04 Brazilian Serie A", Santos vs Fluminense RJ 02:00 ngày 20/04 Brazilian Serie A
-https://live.alilicloud.com/live/b264413aaa81a17acdef63d4353c9256/playlist.m3u8
-#EXTINF:-1 tvg-id="601387567" group-title="Coritiba PR vs Atletico Mineiro 02:00 ngày 20/04 Brazilian Serie A", Coritiba PR vs Atletico Mineiro 02:00 ngày 20/04 Brazilian Serie A
-https://live.alilicloud.com/live/03a6de6ab657d9935dd9946a079c95bf/playlist.m3u8
-#EXTINF:-1 tvg-id="601387579" group-title="Independiente Santa Fe vs Cucuta Deportivo 02:00 ngày 20/04 Categoría Primera A", Independiente Santa Fe vs Cucuta Deportivo 02:00 ngày 20/04 Categoría Primera A
-https://live.alilicloud.com/live/911b045f9eae172e474b9775f622c57f/playlist.m3u8
-#EXTINF:-1 tvg-id="601387582" group-title="Botafogo SP vs Atletico Clube Goianiense 02:00 ngày 20/04 Brazilian Serie B", Botafogo SP vs Atletico Clube Goianiense 02:00 ngày 20/04 Brazilian Serie B
-https://live.alilicloud.com/live/8781beacace8badfbc96cc8726ada094/playlist.m3u8
-#EXTINF:-1 tvg-id="601387585" group-title="Londrina PR vs Ceara 02:00 ngày 20/04 Brazilian Serie B", Londrina PR vs Ceara 02:00 ngày 20/04 Brazilian Serie B
-https://live.alilicloud.com/live/2d710d5450515467f5c152317aed2328/playlist.m3u8
-#EXTINF:-1 tvg-id="601387636" group-title="Danubio FC vs Deportivo Maldonado 02:00 ngày 20/04 Uruguay Primera Division", Danubio FC vs Deportivo Maldonado 02:00 ngày 20/04 Uruguay Primera Division
-https://live.alilicloud.com/live/20503143017141f2bdc9d5c237210858/playlist.m3u8
-#EXTINF:-1 tvg-id="601390894" group-title="Atletico Barinas vs Deportivo Lara 02:30 ngày 20/04 Venezuela Segunda Division", Atletico Barinas vs Deportivo Lara 02:30 ngày 20/04 Venezuela Segunda Division
-https://live.alilicloud.com/live/d3ac84676aabf3d2056b0cdefbe3c2ff/playlist.m3u8
-#EXTINF:-1 tvg-id="601390891" group-title="Atletico El Vigia vs Yaracuyanos 02:30 ngày 20/04 Venezuela Segunda Division", Atletico El Vigia vs Yaracuyanos 02:30 ngày 20/04 Venezuela Segunda Division
-https://live.alilicloud.com/live/d642b7af6bee49c0ddb893fb0aa1d415/playlist.m3u8
-#EXTINF:-1 tvg-id="601387651" group-title="Guarani SP vs Itabaiana(SE) 02:30 ngày 20/04 Brazilian Serie C", Guarani SP vs Itabaiana(SE) 02:30 ngày 20/04 Brazilian Serie C
-https://live.alilicloud.com/live/2901f860b9bab07e1cc4b498adbd292e/playlist.m3u8
 #EXTINF:-1 tvg-id="601387648" group-title="Cobresal vs O.Higgins 02:30 ngày 20/04 Chilean Primera Division", Cobresal vs O.Higgins 02:30 ngày 20/04 Chilean Primera Division
 https://live.alilicloud.com/live/da28cca17e73a59fc778162071416b22/playlist.m3u8
-#EXTINF:-1 tvg-id="601387588" group-title="Portland Hearts of Pine vs FC Naples 02:45 ngày 20/04 USL League One", Portland Hearts of Pine vs FC Naples 02:45 ngày 20/04 USL League One
-https://live.alilicloud.com/live/03e44539725361a1d6c40d28fa632503/playlist.m3u8
-#EXTINF:-1 tvg-id="601387720" group-title="Los Angeles FC II vs San Jose Earthquakes Reserve 03:00 ngày 20/04 MLS Next PL", Los Angeles FC II vs San Jose Earthquakes Reserve 03:00 ngày 20/04 MLS Next PL
-https://live.alilicloud.com/live/340b595b77ce3672301a5be42527c879/playlist.m3u8
+#EXTINF:-1 tvg-id="601387651" group-title="Guarani SP vs Itabaiana(SE) 02:30 ngày 20/04 Brazilian Serie C", Guarani SP vs Itabaiana(SE) 02:30 ngày 20/04 Brazilian Serie C
+https://live.alilicloud.com/live/2901f860b9bab07e1cc4b498adbd292e/playlist.m3u8
 #EXTINF:-1 tvg-id="601387654" group-title="River Plate vs Boca Juniors 03:00 ngày 20/04 Argentine Division 1", River Plate vs Boca Juniors 03:00 ngày 20/04 Argentine Division 1
 https://live.alilicloud.com/live/1f3c1d864ae1cdd0dc103dee71c76093/playlist.m3u8
-#EXTINF:-1 tvg-id="601387717" group-title="Portland Timbers Reserve vs North Texas SC 03:00 ngày 20/04 MLS Next PL", Portland Timbers Reserve vs North Texas SC 03:00 ngày 20/04 MLS Next PL
-https://live.alilicloud.com/live/161af59f4a3c45d7a9c8fc891741ef30/playlist.m3u8
 #EXTINF:-1 tvg-id="601387714" group-title="New York City Team B vs Connecticut United FC 03:00 ngày 20/04 MLS Next PL", New York City Team B vs Connecticut United FC 03:00 ngày 20/04 MLS Next PL
 https://live.alilicloud.com/live/d39301f1c3d4b5207a9e517bad89ba89/playlist.m3u8
-#EXTINF:-1 tvg-id="601387591" group-title="Olympique de Safi vs USM Alger 03:20 ngày 20/04 CAF Confederation Cup", Olympique de Safi vs USM Alger 03:20 ngày 20/04 CAF Confederation Cup
-https://live.alilicloud.com/live/24e0f0296b62e4dc6b710bacae2510d0/playlist.m3u8
+#EXTINF:-1 tvg-id="601387717" group-title="Portland Timbers Reserve vs North Texas SC 03:00 ngày 20/04 MLS Next PL", Portland Timbers Reserve vs North Texas SC 03:00 ngày 20/04 MLS Next PL
+https://live.alilicloud.com/live/161af59f4a3c45d7a9c8fc891741ef30/playlist.m3u8
+#EXTINF:-1 tvg-id="601387720" group-title="Los Angeles FC II vs San Jose Earthquakes Reserve 03:00 ngày 20/04 MLS Next PL", Los Angeles FC II vs San Jose Earthquakes Reserve 03:00 ngày 20/04 MLS Next PL
+https://live.alilicloud.com/live/340b595b77ce3672301a5be42527c879/playlist.m3u8
+#EXTINF:-1 tvg-id="601389166" group-title="Olimpia Asuncion vs Cerro Porteno 03:30 ngày 20/04 Paraguayan Primera Division", Olimpia Asuncion vs Cerro Porteno 03:30 ngày 20/04 Paraguayan Primera Division
+https://live.alilicloud.com/live/39e1fe59687634102197ad3fc73906e5/playlist.m3u8
+#EXTINF:-1 tvg-id="601387807" group-title="Goiás EC vs Cuiaba 04:00 ngày 20/04 Brazilian Serie B", Goiás EC vs Cuiaba 04:00 ngày 20/04 Brazilian Serie B
+https://live.alilicloud.com/live/4def9c24e63f6da6ba95956cec16a06e/playlist.m3u8
+#EXTINF:-1 tvg-id="601387822" group-title="New York Red Bulls B vs Cincinnati II 04:00 ngày 20/04 MLS Next PL", New York Red Bulls B vs Cincinnati II 04:00 ngày 20/04 MLS Next PL
+https://live.alilicloud.com/live/2bb7a09198d40879b9b314670c2393dc/playlist.m3u8
 #EXTINF:-1 tvg-id="601403254" group-title="KW Titans vs Sudbury 5 02:00 ngày 20/04 Canada Basketball Super League", KW Titans vs Sudbury 5 02:00 ngày 20/04 Canada Basketball Super League
 https://live.alilicloud.com/live/1fbd5a97c0d707a248aef213a62c2c68/playlist.m3u8
+#EXTINF:-1 tvg-id="601387828" group-title="Red Bull Bragantino vs Remo Belem (PA) 04:30 ngày 20/04 Brazilian Serie A", Red Bull Bragantino vs Remo Belem (PA) 04:30 ngày 20/04 Brazilian Serie A
+https://cdn-hls.taoxanh.biz/live/69e541c6203f3_128756/index.m3u8?expire=1777237062&amp;sign=59374f18537b2eba3a22e0a055b191f4
