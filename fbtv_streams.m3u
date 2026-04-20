@@ -1,18 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601389259" group-title="Moreirense vs Estoril 02:15 ngày 21/04 Portuguese Primera Liga", Moreirense vs Estoril 02:15 ngày 21/04 Portuguese Primera Liga (Link 1)
-https://cdn-hls.taoxanh.biz/live/69e66f32203f3_44731/index.m3u8?expire=1777314226&amp;sign=24dc5babf43bd286263bf9204f3698fc
-#EXTINF:-1 tvg-id="601389259" group-title="Moreirense vs Estoril 02:15 ngày 21/04 Portuguese Primera Liga", Moreirense vs Estoril 02:15 ngày 21/04 Portuguese Primera Liga (Link 2)
-https://live.alilicloud.com/live/f09039f913e28ce776367b47fffcfe6c/playlist.m3u8
 #EXTINF:-1 tvg-id="601389271" group-title="Central Cordoba SDE vs CA Platense 03:15 ngày 21/04 Argentine Division 1", Central Cordoba SDE vs CA Platense 03:15 ngày 21/04 Argentine Division 1 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69e68148203f3_73445/index.m3u8?expire=1777318856&amp;sign=b4f3ca744be0e070d0303e86efe73779
 #EXTINF:-1 tvg-id="601389271" group-title="Central Cordoba SDE vs CA Platense 03:15 ngày 21/04 Argentine Division 1", Central Cordoba SDE vs CA Platense 03:15 ngày 21/04 Argentine Division 1 (Link 2)
 https://live.alilicloud.com/live/ffc46a07e04525666f2eada7e176439f/playlist.m3u8
-#EXTINF:-1 tvg-id="601389262" group-title="EM Deportivo Binacional vs CD Estudiantil CNI 03:00 ngày 21/04 Peruvian Liga 2", EM Deportivo Binacional vs CD Estudiantil CNI 03:00 ngày 21/04 Peruvian Liga 2
-https://live.alilicloud.com/live/ea0a5ac3e640264ced8626e24d3b4dac/playlist.m3u8
-#EXTINF:-1 tvg-id="601389265" group-title="Boston River vs Cerro Largo 03:00 ngày 21/04 Uruguay Primera Division", Boston River vs Cerro Largo 03:00 ngày 21/04 Uruguay Primera Division
-https://live.alilicloud.com/live/da5d6d6711daeb30f5dd3d52fcdd7ed9/playlist.m3u8
 #EXTINF:-1 tvg-id="601389274" group-title="Banfield vs Independiente Rivadavia 03:15 ngày 21/04 Argentine Division 1", Banfield vs Independiente Rivadavia 03:15 ngày 21/04 Argentine Division 1
 https://live.alilicloud.com/live/6b4b671d108c5b0d0342e519f46f4231/playlist.m3u8
+#EXTINF:-1 tvg-id="601389277" group-title="Rentistas vs Oriental 04:00 ngày 21/04 Uruguay Segunda League", Rentistas vs Oriental 04:00 ngày 21/04 Uruguay Segunda League
+https://live.alilicloud.com/live/4c3e46133a35ff7bf1c3152481ac1403/playlist.m3u8
 #EXTINF:-1 tvg-id="601389691" group-title="Cleveland Cavaliers vs Toronto Raptors 06:00 ngày 21/04 National Basketball Association", Cleveland Cavaliers vs Toronto Raptors 06:00 ngày 21/04 National Basketball Association
 https://live.alilicloud.com/live/f96136f32b13f65f599de27d83353198/playlist.m3u8
 #EXTINF:-1 tvg-id="601389703" group-title="New York Knicks vs Atlanta Hawks 07:00 ngày 21/04 National Basketball Association", New York Knicks vs Atlanta Hawks 07:00 ngày 21/04 National Basketball Association
