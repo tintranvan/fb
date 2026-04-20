@@ -1,30 +1,34 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601388008" group-title="Punjab FC vs Inter Kashi 21:00 ngày 20/04 Indian Super League", Punjab FC vs Inter Kashi 21:00 ngày 20/04 Indian Super League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69e626a1203f3_136682/index.m3u8?expire=1777295649&amp;sign=da52a6233a7295043946ca018d85e73a
-#EXTINF:-1 tvg-id="601388008" group-title="Punjab FC vs Inter Kashi 21:00 ngày 20/04 Indian Super League", Punjab FC vs Inter Kashi 21:00 ngày 20/04 Indian Super League (Link 2)
-https://live.alilicloud.com/live/9102527abf5da3abebfe652c98031ae5/playlist.m3u8
-#EXTINF:-1 tvg-id="601388014" group-title="FC Botosani vs Metaloglobus 21:30 ngày 20/04 Romanian Liga I", FC Botosani vs Metaloglobus 21:30 ngày 20/04 Romanian Liga I (Link 1)
-https://cdn-hls.taoxanh.biz/live/69e631f642281_88186/index.m3u8?expire=1777298550&amp;sign=f922d91b00cffe6b184e82860993f43f
-#EXTINF:-1 tvg-id="601388014" group-title="FC Botosani vs Metaloglobus 21:30 ngày 20/04 Romanian Liga I", FC Botosani vs Metaloglobus 21:30 ngày 20/04 Romanian Liga I (Link 2)
-https://live.alilicloud.com/live/532a8815556d094e9338d94b1663eace/playlist.m3u8
-#EXTINF:-1 tvg-id="601388038" group-title="Shirak vs Ararat-Armenia FC 22:00 ngày 20/04 Armenian Premier League", Shirak vs Ararat-Armenia FC 22:00 ngày 20/04 Armenian Premier League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69e62c9b203f3_88642/index.m3u8?expire=1777297179&amp;sign=1564e547aa0d6205df325b8eab74cbaa
-#EXTINF:-1 tvg-id="601388038" group-title="Shirak vs Ararat-Armenia FC 22:00 ngày 20/04 Armenian Premier League", Shirak vs Ararat-Armenia FC 22:00 ngày 20/04 Armenian Premier League (Link 2)
-https://live.alilicloud.com/live/1e3eb19a70b83d71bf55f05e0b358bec/playlist.m3u8
-#EXTINF:-1 tvg-id="601388032" group-title="FC Shakhtar Donetsk vs Polissya Zhytomyr 22:00 ngày 20/04 Ukrainian Premier League", FC Shakhtar Donetsk vs Polissya Zhytomyr 22:00 ngày 20/04 Ukrainian Premier League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69e64109203f3_6308/index.m3u8?expire=1777302409&amp;sign=fe727438e0367bf9af661481a56ef0e7
-#EXTINF:-1 tvg-id="601388032" group-title="FC Shakhtar Donetsk vs Polissya Zhytomyr 22:00 ngày 20/04 Ukrainian Premier League", FC Shakhtar Donetsk vs Polissya Zhytomyr 22:00 ngày 20/04 Ukrainian Premier League (Link 2)
-https://live.alilicloud.com/live/e26efabbb506880145c9a6970fb88c0f/playlist.m3u8
-#EXTINF:-1 tvg-id="601388047" group-title="Jubail vs Al Wehda Mecca 22:45 ngày 20/04 Saudi Arabia Division 1", Jubail vs Al Wehda Mecca 22:45 ngày 20/04 Saudi Arabia Division 1
+#EXTINF:-1 tvg-id="601388047" group-title="Jubail vs Al Wehda Mecca 22:45 ngày 20/04 Saudi Arabia Division 1", Jubail vs Al Wehda Mecca 22:45 ngày 20/04 Saudi Arabia Division 1 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69e6432d42281_73445/index.m3u8?expire=1777302957&amp;sign=40c5446f5a28d5581081fadda1a2fc53
-#EXTINF:-1 tvg-id="601388044" group-title="Al-Adalah vs Al-Jandal 22:45 ngày 20/04 Saudi Arabia Division 1", Al-Adalah vs Al-Jandal 22:45 ngày 20/04 Saudi Arabia Division 1
+#EXTINF:-1 tvg-id="601388047" group-title="Jubail vs Al Wehda Mecca 22:45 ngày 20/04 Saudi Arabia Division 1", Jubail vs Al Wehda Mecca 22:45 ngày 20/04 Saudi Arabia Division 1 (Link 2)
+https://live.alilicloud.com/live/1d4bf47fd8d0727a0e10e8a5ee443145/playlist.m3u8
+#EXTINF:-1 tvg-id="601388044" group-title="Al-Adalah vs Al-Jandal 22:45 ngày 20/04 Saudi Arabia Division 1", Al-Adalah vs Al-Jandal 22:45 ngày 20/04 Saudi Arabia Division 1 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69e63aa3203f3_124958/index.m3u8?expire=1777300771&amp;sign=4f778510266be8f0366b4a1876c366bf
+#EXTINF:-1 tvg-id="601388044" group-title="Al-Adalah vs Al-Jandal 22:45 ngày 20/04 Saudi Arabia Division 1", Al-Adalah vs Al-Jandal 22:45 ngày 20/04 Saudi Arabia Division 1 (Link 2)
+https://live.alilicloud.com/live/3643ef969216276964d8a081d96610ec/playlist.m3u8
+#EXTINF:-1 tvg-id="601377133" group-title="Miedz Legnica vs Gornik Leczna 23:00 ngày 20/04 Poland Liga 1", Miedz Legnica vs Gornik Leczna 23:00 ngày 20/04 Poland Liga 1 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69e648c142281_44731/index.m3u8?expire=1777304385&amp;sign=9a46be1290cac7f102dce04884664988
+#EXTINF:-1 tvg-id="601377133" group-title="Miedz Legnica vs Gornik Leczna 23:00 ngày 20/04 Poland Liga 1", Miedz Legnica vs Gornik Leczna 23:00 ngày 20/04 Poland Liga 1 (Link 2)
+https://cdn-hls.taoxanh.biz/live/69e63538203f3_85514/index.m3u8?expire=1777299384&amp;sign=29ddb0f07e604b30c5f53bdc0b8dd9e2
+#EXTINF:-1 tvg-id="601377133" group-title="Miedz Legnica vs Gornik Leczna 23:00 ngày 20/04 Poland Liga 1", Miedz Legnica vs Gornik Leczna 23:00 ngày 20/04 Poland Liga 1 (Link 3)
+https://live.alilicloud.com/live/117760d01f3ba616776dad7acf6e23e5/playlist.m3u8
+#EXTINF:-1 tvg-id="601402789" group-title="Vissel Kobe vs Al-Ahli SFC 23:15 ngày 20/04 AFC Champions League Elite", Vissel Kobe vs Al-Ahli SFC 23:15 ngày 20/04 AFC Champions League Elite (Link 1)
+https://cdn-hls.taoxanh.biz/live/69e645dc203f3_4908/index.m3u8?expire=1777303644&amp;sign=113017e1fce9b5cbff7f406b4d864166
+#EXTINF:-1 tvg-id="601402789" group-title="Vissel Kobe vs Al-Ahli SFC 23:15 ngày 20/04 AFC Champions League Elite", Vissel Kobe vs Al-Ahli SFC 23:15 ngày 20/04 AFC Champions League Elite (Link 2)
+https://live.alilicloud.com/live/39d7e56045fadf1aa6c7c176c92c7ee0/playlist.m3u8
 #EXTINF:-1 tvg-id="601408333" group-title="Olsztyn vs Belchatow 22:30 ngày 20/04 PlusLiga", Olsztyn vs Belchatow 22:30 ngày 20/04 PlusLiga
 https://cdn-hls.taoxanh.biz/live/69e641f6203f3_42127/index.m3u8?expire=1777302646&amp;sign=09fe6a77572e1c0180d4d31f756a1f5c
-#EXTINF:-1 tvg-id="601388005" group-title="Atalanta U19 vs Parma U20 21:00 ngày 20/04 Italian Campionato Primavera 1", Atalanta U19 vs Parma U20 21:00 ngày 20/04 Italian Campionato Primavera 1
-https://live.alilicloud.com/live/3f9f9ef572326ab22519b794aa4e4416/playlist.m3u8
-#EXTINF:-1 tvg-id="601388035" group-title="Viking B vs Odd Grenland 2 22:00 ngày 20/04 Norwegian 3.Divisjon", Viking B vs Odd Grenland 2 22:00 ngày 20/04 Norwegian 3.Divisjon
-https://live.alilicloud.com/live/8c2018b96716e12c1eeb9dc73dd82ec8/playlist.m3u8
+#EXTINF:-1 tvg-id="601408336" group-title="Zenit St. Petersburg vs Novosibirsk 23:00 ngày 20/04 Superleague", Zenit St. Petersburg vs Novosibirsk 23:00 ngày 20/04 Superleague
+https://cdn-hls.taoxanh.biz/live/69e63aff42281_4439/index.m3u8?expire=1777300863&amp;sign=d7624e98613925f5dd665de555c0a3f0
+#EXTINF:-1 tvg-id="601376986" group-title="Raelingen vs Sparta Sarpsborg B 23:00 ngày 20/04 Norwegian 3.Divisjon", Raelingen vs Sparta Sarpsborg B 23:00 ngày 20/04 Norwegian 3.Divisjon
+https://live.alilicloud.com/live/19d832923002f9ca4d2f68a5d5d28ea2/playlist.m3u8
+#EXTINF:-1 tvg-id="601388050" group-title="Sogndal B vs Asane Fotball B 23:00 ngày 20/04 Norwegian 3.Divisjon", Sogndal B vs Asane Fotball B 23:00 ngày 20/04 Norwegian 3.Divisjon
+https://live.alilicloud.com/live/9dabbf226dae114abc59a5414976f11c/playlist.m3u8
+#EXTINF:-1 tvg-id="601383253" group-title="Bombada FC vs Greater Tomorrow FC 23:30 ngày 20/04 Gambia League First Division", Bombada FC vs Greater Tomorrow FC 23:30 ngày 20/04 Gambia League First Division
+https://live.alilicloud.com/live/31c307ea752ba7925db7ff14e2867fdc/playlist.m3u8
+#EXTINF:-1 tvg-id="601402792" group-title="Club Brugge U19 vs Real Madrid U19 23:45 ngày 20/04 UEFA Youth League", Club Brugge U19 vs Real Madrid U19 23:45 ngày 20/04 UEFA Youth League
+https://live.alilicloud.com/live/da773fcb8689acf5c198e0e1f4f6ea4c/playlist.m3u8
 #EXTINF:-1 tvg-id="601388236" group-title="FMP Beograd vs Basket Club Vienna 22:00 ngày 20/04 Adriatic Basketball Association League", FMP Beograd vs Basket Club Vienna 22:00 ngày 20/04 Adriatic Basketball Association League
 https://live.alilicloud.com/live/3d60b9ff63dc8ab275004b672df766ef/playlist.m3u8
 #EXTINF:-1 tvg-id="601388248" group-title="Nika-Luzales Syktyvkar Women vs Nadezhda Orenburg Oblast Women 22:30 ngày 20/04 Russian Women's Basketball Premier League", Nika-Luzales Syktyvkar Women vs Nadezhda Orenburg Oblast Women 22:30 ngày 20/04 Russian Women's Basketball Premier League
@@ -33,25 +37,31 @@ https://live.alilicloud.com/live/ba23cddc0154b946f7b9e8d578b3af68/playlist.m3u8
 https://live.alilicloud.com/live/1b55d0cce5a2fe08a1e92c21ef4432b0/playlist.m3u8
 #EXTINF:-1 tvg-id="601388242" group-title="Podcetrtek vs Zlatorog Lasko 22:30 ngày 20/04 Liga Nova KBM", Podcetrtek vs Zlatorog Lasko 22:30 ngày 20/04 Liga Nova KBM
 https://live.alilicloud.com/live/514e35ad175caf7c034184d8d24183a1/playlist.m3u8
-#EXTINF:-1 tvg-id="601403662" group-title="Aleksandar Kovacevic vs Moez Echargui 21:05 ngày 20/04 ATP Madrid, Spain Men Singles", Aleksandar Kovacevic vs Moez Echargui 21:05 ngày 20/04 ATP Madrid, Spain Men Singles
-https://live.alilicloud.com/live/dc797b4ce6d453d34a3892a805078757/playlist.m3u8
-#EXTINF:-1 tvg-id="601403800" group-title="Madeleine Brooks/Ivana Corley vs Akli A / Voloshchuk A 21:20 ngày 20/04 WTA 125K Oeiras 4, Portugal Women Doubles", Madeleine Brooks/Ivana Corley vs Akli A / Voloshchuk A 21:20 ngày 20/04 WTA 125K Oeiras 4, Portugal Women Doubles
-https://live.alilicloud.com/live/2f08c7556a6d01485349abb98f4ac75e/playlist.m3u8
-#EXTINF:-1 tvg-id="601403638" group-title="Rinky Hijikata vs Chris Rodesch 21:35 ngày 20/04 ATP Madrid, Spain Men Singles", Rinky Hijikata vs Chris Rodesch 21:35 ngày 20/04 ATP Madrid, Spain Men Singles
-https://live.alilicloud.com/live/7324c17ef40da4216d0932fc67fa2fbd/playlist.m3u8
-#EXTINF:-1 tvg-id="601403737" group-title="Dalma Galfi vs Leyre Romero Gormaz 21:35 ngày 20/04 WTA Madrid, Spain Women Singles", Dalma Galfi vs Leyre Romero Gormaz 21:35 ngày 20/04 WTA Madrid, Spain Women Singles
-https://live.alilicloud.com/live/bb323907ad4ef55197136183408ccecf/playlist.m3u8
-#EXTINF:-1 tvg-id="601403710" group-title="Diane Parry vs Sloane Stephens 22:20 ngày 20/04 WTA Madrid, Spain Women Singles", Diane Parry vs Sloane Stephens 22:20 ngày 20/04 WTA Madrid, Spain Women Singles
+#EXTINF:-1 tvg-id="601388263" group-title="Minyor 2015 vs SHUM 23:00 ngày 20/04 Bulgaria National Basketball League", Minyor 2015 vs SHUM 23:00 ngày 20/04 Bulgaria National Basketball League
+https://live.alilicloud.com/live/5464f5fd9f47154222cbf6f385829251/playlist.m3u8
+#EXTINF:-1 tvg-id="601388266" group-title="Beroe vs Balkan Botevgrad 23:00 ngày 20/04 Bulgaria National Basketball League", Beroe vs Balkan Botevgrad 23:00 ngày 20/04 Bulgaria National Basketball League
+https://live.alilicloud.com/live/873eb004ec97f1ad343befb11c30f39e/playlist.m3u8
+#EXTINF:-1 tvg-id="601388269" group-title="Galatasaray S.K. vs Anadolu Efes Istanbul 23:00 ngày 20/04 Basketbol Super Ligi", Galatasaray S.K. vs Anadolu Efes Istanbul 23:00 ngày 20/04 Basketbol Super Ligi
+https://live.alilicloud.com/live/721929c72c0a023bdebe5419318e0f3c/playlist.m3u8
+#EXTINF:-1 tvg-id="601393591" group-title="ZVVZ USK Prague Women vs Zabiny Brno Women 23:00 ngày 20/04 Zenska Basketbalova Liga", ZVVZ USK Prague Women vs Zabiny Brno Women 23:00 ngày 20/04 Zenska Basketbalova Liga
+https://live.alilicloud.com/live/b00a02592df66ff550f82095d66bc326/playlist.m3u8
+#EXTINF:-1 tvg-id="601388272" group-title="Lokomotiv Plovdiv vs Spartak Pleven 23:15 ngày 20/04 Bulgaria National Basketball League", Lokomotiv Plovdiv vs Spartak Pleven 23:15 ngày 20/04 Bulgaria National Basketball League
+https://live.alilicloud.com/live/337e7f5593935d0cc1a239d0295e5634/playlist.m3u8
+#EXTINF:-1 tvg-id="601403710" group-title="Diane Parry vs Sloane Stephens 22:30 ngày 20/04 WTA Madrid, Spain Women Singles", Diane Parry vs Sloane Stephens 22:30 ngày 20/04 WTA Madrid, Spain Women Singles
 https://live.alilicloud.com/live/3ec7af5bb5d6ab6a2033a8b88da4195d/playlist.m3u8
-#EXTINF:-1 tvg-id="601403716" group-title="Nauhany Vitoria Leme Da Silva vs Daria Snigur 22:30 ngày 20/04 WTA Madrid, Spain Women Singles", Nauhany Vitoria Leme Da Silva vs Daria Snigur 22:30 ngày 20/04 WTA Madrid, Spain Women Singles
-https://live.alilicloud.com/live/7f4ce9b1a6291941e814ac243fb262d1/playlist.m3u8
-#EXTINF:-1 tvg-id="601403803" group-title="Barnett A / Feng S vs Karamoko N / Semenistaja D 22:30 ngày 20/04 WTA 125K Oeiras 4, Portugal Women Doubles", Barnett A / Feng S vs Karamoko N / Semenistaja D 22:30 ngày 20/04 WTA 125K Oeiras 4, Portugal Women Doubles
-https://live.alilicloud.com/live/4dd5baa053915c5632f946040a0df826/playlist.m3u8
-#EXTINF:-1 tvg-id="601377133" group-title="Miedz Legnica vs Gornik Leczna 23:00 ngày 20/04 Poland Liga 1", Miedz Legnica vs Gornik Leczna 23:00 ngày 20/04 Poland Liga 1 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69e648c142281_44731/index.m3u8?expire=1777304385&amp;sign=9a46be1290cac7f102dce04884664988
-#EXTINF:-1 tvg-id="601377133" group-title="Miedz Legnica vs Gornik Leczna 23:00 ngày 20/04 Poland Liga 1", Miedz Legnica vs Gornik Leczna 23:00 ngày 20/04 Poland Liga 1 (Link 2)
-https://cdn-hls.taoxanh.biz/live/69e63538203f3_85514/index.m3u8?expire=1777299384&amp;sign=29ddb0f07e604b30c5f53bdc0b8dd9e2
-#EXTINF:-1 tvg-id="601402789" group-title="Vissel Kobe vs Al-Ahli SFC 23:15 ngày 20/04 AFC Champions League Elite", Vissel Kobe vs Al-Ahli SFC 23:15 ngày 20/04 AFC Champions League Elite
-https://cdn-hls.taoxanh.biz/live/69e645dc203f3_4908/index.m3u8?expire=1777303644&amp;sign=113017e1fce9b5cbff7f406b4d864166
+#EXTINF:-1 tvg-id="601403719" group-title="Hanne Vandewinkel vs Linda Fruhvirtova 22:45 ngày 20/04 WTA Madrid, Spain Women Singles", Hanne Vandewinkel vs Linda Fruhvirtova 22:45 ngày 20/04 WTA Madrid, Spain Women Singles
+https://live.alilicloud.com/live/8e9dac9ee65e134ed0bb3b7b99835c72/playlist.m3u8
+#EXTINF:-1 tvg-id="601403809" group-title="Kudermetova P / Osuigwe W vs Ivantsiv M / Medvedeva M 22:50 ngày 20/04 WTA 125K Oeiras 4, Portugal Women Doubles", Kudermetova P / Osuigwe W vs Ivantsiv M / Medvedeva M 22:50 ngày 20/04 WTA 125K Oeiras 4, Portugal Women Doubles
+https://live.alilicloud.com/live/18261f08a1140d2fb070518eedbc156a/playlist.m3u8
+#EXTINF:-1 tvg-id="601403698" group-title="Dino Prizmic vs Christopher O'Connell 23:05 ngày 20/04 ATP Madrid, Spain Men Singles", Dino Prizmic vs Christopher O'Connell 23:05 ngày 20/04 ATP Madrid, Spain Men Singles
+https://live.alilicloud.com/live/3813ebb8593fd5c03e5ab0e84aaba000/playlist.m3u8
+#EXTINF:-1 tvg-id="601403725" group-title="Alycia Parks vs Elina Avanesyan 23:30 ngày 20/04 WTA Madrid, Spain Women Singles", Alycia Parks vs Elina Avanesyan 23:30 ngày 20/04 WTA Madrid, Spain Women Singles
+https://live.alilicloud.com/live/a1e62abd165507a3c51dbbd0db81301f/playlist.m3u8
+#EXTINF:-1 tvg-id="601389193" group-title="Lechia Gdansk vs Piast Gliwice 00:00 ngày 21/04 PKO Bank Polski EKSTRAKLASA", Lechia Gdansk vs Piast Gliwice 00:00 ngày 21/04 PKO Bank Polski EKSTRAKLASA
+https://cdn-hls.taoxanh.biz/live/69e655ba42281_136682/index.m3u8?expire=1777307706&amp;sign=4d2f1a2f49d6cd41baa2c73fe15231a5
+#EXTINF:-1 tvg-id="601389202" group-title="Midtjylland vs Aarhus AGF 00:00 ngày 21/04 Danish Superliga", Midtjylland vs Aarhus AGF 00:00 ngày 21/04 Danish Superliga
+https://cdn-hls.taoxanh.biz/live/69e6519f42281_133172/index.m3u8?expire=1777306655&amp;sign=1bacaa235be0e0a8655ae9601b0523f3
+#EXTINF:-1 tvg-id="601389226" group-title="Farul Constanta vs Fotbal Club FCSB 00:30 ngày 21/04 Romanian Liga I", Farul Constanta vs Fotbal Club FCSB 00:30 ngày 21/04 Romanian Liga I
+https://cdn-hls.taoxanh.biz/live/69e65604203f3_88186/index.m3u8?expire=1777307780&amp;sign=1f37c17ecd76f129fbb284d687e9d6af
 #EXTINF:-1 tvg-id="601389229" group-title="Porto B vs Leixoes 00:45 ngày 21/04 Liga Portugal 2", Porto B vs Leixoes 00:45 ngày 21/04 Liga Portugal 2
 https://cdn-hls.taoxanh.biz/live/69e63aed42281_6308/index.m3u8?expire=1777300845&amp;sign=160853229dba8c06777e13a8c6f31788
