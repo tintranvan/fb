@@ -1,43 +1,69 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601387945" group-title="Semen Padang vs Persijap Jepara 15:30 ngày 20/04 Indonesian Liga 1", Semen Padang vs Persijap Jepara 15:30 ngày 20/04 Indonesian Liga 1 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69e5de4342281_72787/index.m3u8?expire=1777277123&amp;sign=1cc9df7acb8afb6d45c0bdf5c41fd66e
-#EXTINF:-1 tvg-id="601387945" group-title="Semen Padang vs Persijap Jepara 15:30 ngày 20/04 Indonesian Liga 1", Semen Padang vs Persijap Jepara 15:30 ngày 20/04 Indonesian Liga 1 (Link 2)
-https://live.alilicloud.com/live/4e222c8cd4efe472015a706c8bd45a9c/playlist.m3u8
 #EXTINF:-1 tvg-id="601387948" group-title="FK Oleksandria vs Veres 17:00 ngày 20/04 Ukrainian Premier League", FK Oleksandria vs Veres 17:00 ngày 20/04 Ukrainian Premier League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69e5f30242281_6308/index.m3u8?expire=1777282434&amp;sign=1d708299b42b2a3f05fedc825ffa83b3
 #EXTINF:-1 tvg-id="601387948" group-title="FK Oleksandria vs Veres 17:00 ngày 20/04 Ukrainian Premier League", FK Oleksandria vs Veres 17:00 ngày 20/04 Ukrainian Premier League (Link 2)
 https://live.alilicloud.com/live/901ce3ecf3f310288d1b91f5d586bb32/playlist.m3u8
-#EXTINF:-1 tvg-id="601408393" group-title="JING YI vs Lương Chí Dũng 15:00 ngày 20/04 Duya Legends Golden Nine International Classic", JING YI vs Lương Chí Dũng 15:00 ngày 20/04 Duya Legends Golden Nine International Classic
+#EXTINF:-1 tvg-id="601377316" group-title="Dnepr Mogilev vs FC Torpedo Zhodino 18:00 ngày 20/04 Belarusian Premier League", Dnepr Mogilev vs FC Torpedo Zhodino 18:00 ngày 20/04 Belarusian Premier League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69e600bf42281_133172/index.m3u8?expire=1777285951&amp;sign=4f6e5b10eddf6a87157c39d405558182
+#EXTINF:-1 tvg-id="601377316" group-title="Dnepr Mogilev vs FC Torpedo Zhodino 18:00 ngày 20/04 Belarusian Premier League", Dnepr Mogilev vs FC Torpedo Zhodino 18:00 ngày 20/04 Belarusian Premier League (Link 2)
+https://live.alilicloud.com/live/d6819e1d5aee1c3cf3c878fdd59e887f/playlist.m3u8
+#EXTINF:-1 tvg-id="601387957" group-title="Lion City Sailors vs Young Lions 18:30 ngày 20/04 Singapore Premier League", Lion City Sailors vs Young Lions 18:30 ngày 20/04 Singapore Premier League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69e60364203f3_18754/index.m3u8?expire=1777286628&amp;sign=8189cf588a798bf1f208bd866f19ef1c
+#EXTINF:-1 tvg-id="601387957" group-title="Lion City Sailors vs Young Lions 18:30 ngày 20/04 Singapore Premier League", Lion City Sailors vs Young Lions 18:30 ngày 20/04 Singapore Premier League (Link 2)
+https://live.alilicloud.com/live/09185466de48bc3942fdef885a28da08/playlist.m3u8
+#EXTINF:-1 tvg-id="601408393" group-title="QIAN JUN JIE vs DAI YONG 17:20 ngày 20/04 Duya Legends Golden Nine International Classic", QIAN JUN JIE vs DAI YONG 17:20 ngày 20/04 Duya Legends Golden Nine International Classic
 https://cdn-hls.taoxanh.biz/live/69e59258203f3_103/index.m3u8?expire=1777257688&amp;sign=6fa953138705dd299674f3b1f0c4f814
+#EXTINF:-1 tvg-id="601408564" group-title="Ding  Junhui vs Gilbert 16:00 ngày 20/04 Halo World Championship 2026", Ding  Junhui vs Gilbert 16:00 ngày 20/04 Halo World Championship 2026
+https://cdn-hls.taoxanh.biz/live/69e60cb6203f3_85706/index.m3u8?expire=1777289014&amp;sign=3620599db1393ca94d2b8924857c1aa7
+#EXTINF:-1 tvg-id="601408513" group-title="Kyren Wilson vs Moody 16:00 ngày 20/04 Halo World Championship 2026", Kyren Wilson vs Moody 16:00 ngày 20/04 Halo World Championship 2026
+https://cdn-hls.taoxanh.biz/live/69e6063d203f3_142210/index.m3u8?expire=1777287357&amp;sign=96a07fec550a1215a781c6dcc9a2d199
 #EXTINF:-1 tvg-id="601408321" group-title="Hisamitsu Springs W vs PFU Blue Cats Women 17:05 ngày 20/04 SV.League Women", Hisamitsu Springs W vs PFU Blue Cats Women 17:05 ngày 20/04 SV.League Women
 https://cdn-hls.taoxanh.biz/live/69e5efff42281_88642/index.m3u8?expire=1777281663&amp;sign=d0e2061e251816954fe5ecbcf2fa47a9
-#EXTINF:-1 tvg-id="601392079" group-title="Northern Ireland U16 vs Uzbekistan U16 16:00 ngày 20/04 International Friendly", Northern Ireland U16 vs Uzbekistan U16 16:00 ngày 20/04 International Friendly
-https://live.alilicloud.com/live/1384eea2e32f07541c8de57d98ef0129/playlist.m3u8
-#EXTINF:-1 tvg-id="601392076" group-title="North Macedonia U16 vs Turkey U16 16:00 ngày 20/04 International Friendly", North Macedonia U16 vs Turkey U16 16:00 ngày 20/04 International Friendly
-https://live.alilicloud.com/live/e454dbc15223eeb18e0ad77f96defae7/playlist.m3u8
-#EXTINF:-1 tvg-id="601408498" group-title="Shuktara Jubo Sangsad vs Dhaka Rangers FC 16:30 ngày 20/04 Dhaka Senior Division Football League", Shuktara Jubo Sangsad vs Dhaka Rangers FC 16:30 ngày 20/04 Dhaka Senior Division Football League
-https://live.alilicloud.com/live/79707825526f993cb3f2b8ee2ab67417/playlist.m3u8
-#EXTINF:-1 tvg-id="601408501" group-title="MSPCC City Club vs Little Friends Club 16:30 ngày 20/04 Bangladesh Champions League", MSPCC City Club vs Little Friends Club 16:30 ngày 20/04 Bangladesh Champions League
-https://live.alilicloud.com/live/13e6e5a731989e9cb3749119431c4f11/playlist.m3u8
+#EXTINF:-1 tvg-id="601408324" group-title="Galatasaray Women vs Aras Kargo Nữ 18:00 ngày 20/04 Sultanlar Ligi Women", Galatasaray Women vs Aras Kargo Nữ 18:00 ngày 20/04 Sultanlar Ligi Women
+https://cdn-hls.taoxanh.biz/live/69e605be203f3_4439/index.m3u8?expire=1777287230&amp;sign=6f479eda0300c00a50969473579e12da
 #EXTINF:-1 tvg-id="601408495" group-title="City Club Dhaka vs Little Friends Club 16:35 ngày 20/04 Dhaka Senior Division Football League", City Club Dhaka vs Little Friends Club 16:35 ngày 20/04 Dhaka Senior Division Football League
 https://live.alilicloud.com/live/09c892a8fc5cdd4cce28f868e7d40b45/playlist.m3u8
+#EXTINF:-1 tvg-id="601381717" group-title="Bahir Dar Kenema FC vs Sheger Ketema 17:00 ngày 20/04 Ethiopia Premier League", Bahir Dar Kenema FC vs Sheger Ketema 17:00 ngày 20/04 Ethiopia Premier League
+https://live.alilicloud.com/live/af7451059091edbe24d37fb910b1623c/playlist.m3u8
 #EXTINF:-1 tvg-id="601377370" group-title="FC Gomel B vs FC Molodechno 17:00 ngày 20/04 Belarusian First League", FC Gomel B vs FC Molodechno 17:00 ngày 20/04 Belarusian First League
 https://live.alilicloud.com/live/1418cb213f5634d0179a1807642ff25d/playlist.m3u8
-#EXTINF:-1 tvg-id="601403482" group-title="Giuseppe La Vela vs Daniil Ostapenkov 14:20 ngày 20/04 ATP Challenger Shymkent, Kazakhstan Men Singles", Giuseppe La Vela vs Daniil Ostapenkov 14:20 ngày 20/04 ATP Challenger Shymkent, Kazakhstan Men Singles
-https://live.alilicloud.com/live/b67f5d13440fe9c37189af6264988f63/playlist.m3u8
-#EXTINF:-1 tvg-id="601403485" group-title="Martin Krumich vs Jacopo Vasami 15:00 ngày 20/04 ATP Challenger Rome, Italy Men Singles", Martin Krumich vs Jacopo Vasami 15:00 ngày 20/04 ATP Challenger Rome, Italy Men Singles
-https://live.alilicloud.com/live/f5d5a87a8493b88d7b4fe967ef20028d/playlist.m3u8
-#EXTINF:-1 tvg-id="601403431" group-title="Alex Martinez vs Andrea Guerrieri 15:00 ngày 20/04 ATP Challenger Rome, Italy Men Singles", Alex Martinez vs Andrea Guerrieri 15:00 ngày 20/04 ATP Challenger Rome, Italy Men Singles
-https://live.alilicloud.com/live/9bcb5926d4d87b5187f70b16d9bc5220/playlist.m3u8
-#EXTINF:-1 tvg-id="601403494" group-title="Polina Kudermetova vs Lea Boskovic 16:00 ngày 20/04 WTA 125K Oeiras 4, Portugal Women Singles", Polina Kudermetova vs Lea Boskovic 16:00 ngày 20/04 WTA 125K Oeiras 4, Portugal Women Singles
-https://live.alilicloud.com/live/4ff65f2f8a22425e02ae152305f7f03f/playlist.m3u8
-#EXTINF:-1 tvg-id="601403788" group-title="Lucie Havlickova vs Mia Ristic 16:00 ngày 20/04 WTA 125K Oeiras 4, Portugal Women Singles", Lucie Havlickova vs Mia Ristic 16:00 ngày 20/04 WTA 125K Oeiras 4, Portugal Women Singles
-https://live.alilicloud.com/live/ab2f92f0466e7f315502d0c50c3fe820/playlist.m3u8
-#EXTINF:-1 tvg-id="601403791" group-title="Alisa Oktiabreva vs Ayana Akli 16:00 ngày 20/04 WTA 125K Oeiras 4, Portugal Women Singles", Alisa Oktiabreva vs Ayana Akli 16:00 ngày 20/04 WTA 125K Oeiras 4, Portugal Women Singles
-https://live.alilicloud.com/live/0704034ad4f17000ee2eb34b22bd8803/playlist.m3u8
-#EXTINF:-1 tvg-id="601397782" group-title="Sandro Kopp vs Damir Zhalgasbay 16:05 ngày 20/04 ATP Challenger Shymkent, Kazakhstan Men Singles", Sandro Kopp vs Damir Zhalgasbay 16:05 ngày 20/04 ATP Challenger Shymkent, Kazakhstan Men Singles
-https://live.alilicloud.com/live/96446fa876567b9f8c71ff4740869c4a/playlist.m3u8
+#EXTINF:-1 tvg-id="601389178" group-title="SC Bengaluru vs Neroca FC 17:30 ngày 20/04 Indian I-League 2nd Division", SC Bengaluru vs Neroca FC 17:30 ngày 20/04 Indian I-League 2nd Division
+https://live.alilicloud.com/live/4df540c677c95840bd33f821621d4451/playlist.m3u8
+#EXTINF:-1 tvg-id="601389175" group-title="Delhi FC vs Sporting Clube de Goa 17:30 ngày 20/04 Indian I-League 2nd Division", Delhi FC vs Sporting Clube de Goa 17:30 ngày 20/04 Indian I-League 2nd Division
+https://live.alilicloud.com/live/3a19a4db437118b95f7ea80ceb247500/playlist.m3u8
+#EXTINF:-1 tvg-id="601388191" group-title="San Juan Knights vs Rizal Xentro Mall Golden Coolers 17:00 ngày 20/04 Philippines MPBL", San Juan Knights vs Rizal Xentro Mall Golden Coolers 17:00 ngày 20/04 Philippines MPBL
+https://live.alilicloud.com/live/0c57fe90ad16d734fc51166d2cf523a1/playlist.m3u8
+#EXTINF:-1 tvg-id="601388197" group-title="Ironi Nahariya vs Maccabi Rehovot 18:00 ngày 20/04 Israel Basketball  League", Ironi Nahariya vs Maccabi Rehovot 18:00 ngày 20/04 Israel Basketball  League
+https://live.alilicloud.com/live/60c073418a02d8a9c91eec5f0322ac85/playlist.m3u8
+#EXTINF:-1 tvg-id="601388215" group-title="Shanxi Loongs Fenjiu vs Guangdong Southern Tigers 18:35 ngày 20/04 Chinese Basketball Association", Shanxi Loongs Fenjiu vs Guangdong Southern Tigers 18:35 ngày 20/04 Chinese Basketball Association
+https://live.alilicloud.com/live/e517a0e1b7cc967a8fef483665ddbe0a/playlist.m3u8
+#EXTINF:-1 tvg-id="601388212" group-title="Shanghai Jiushi Sharks vs Liaoning Flying Leopards 18:35 ngày 20/04 Chinese Basketball Association", Shanghai Jiushi Sharks vs Liaoning Flying Leopards 18:35 ngày 20/04 Chinese Basketball Association
+https://live.alilicloud.com/live/4966ca6a756841273aad5cd9186aff0e/playlist.m3u8
+#EXTINF:-1 tvg-id="601388209" group-title="Jiangsu Dragons Kentier vs Sichuan Jinqiang Blue Whales 18:35 ngày 20/04 Chinese Basketball Association", Jiangsu Dragons Kentier vs Sichuan Jinqiang Blue Whales 18:35 ngày 20/04 Chinese Basketball Association
+https://live.alilicloud.com/live/1def1b0be38c1d3538ac58fa915b7213/playlist.m3u8
+#EXTINF:-1 tvg-id="601388206" group-title="Guangzhou Loong Lions vs Fujian Xunxing Sturgeons 18:35 ngày 20/04 Chinese Basketball Association", Guangzhou Loong Lions vs Fujian Xunxing Sturgeons 18:35 ngày 20/04 Chinese Basketball Association
+https://live.alilicloud.com/live/1e81d961a1880c3ba5d8db03212748b7/playlist.m3u8
+#EXTINF:-1 tvg-id="601388203" group-title="Ningbo Rockets vs Jilin Northeast Tigers 18:35 ngày 20/04 Chinese Basketball Association", Ningbo Rockets vs Jilin Northeast Tigers 18:35 ngày 20/04 Chinese Basketball Association
+https://live.alilicloud.com/live/aad6457bfa22e596db39a20d22adb080/playlist.m3u8
+#EXTINF:-1 tvg-id="601388218" group-title="Zhejiang Golden Bulls vs Tianjin Pioneers 18:35 ngày 20/04 Chinese Basketball Association", Zhejiang Golden Bulls vs Tianjin Pioneers 18:35 ngày 20/04 Chinese Basketball Association
+https://live.alilicloud.com/live/fde1caf8fb6e310e0792d3ef648aafa3/playlist.m3u8
+#EXTINF:-1 tvg-id="601403752" group-title="Donna Vekic vs Leolia Jeanjean 16:55 ngày 20/04 WTA Madrid, Spain Women Singles", Donna Vekic vs Leolia Jeanjean 16:55 ngày 20/04 WTA Madrid, Spain Women Singles
+https://live.alilicloud.com/live/510c2f9299738b0a05b8deadd5afa930/playlist.m3u8
 #EXTINF:-1 tvg-id="601403776" group-title="Anna Blinkova vs Nuria Brancaccio 16:55 ngày 20/04 WTA Madrid, Spain Women Singles", Anna Blinkova vs Nuria Brancaccio 16:55 ngày 20/04 WTA Madrid, Spain Women Singles
 https://live.alilicloud.com/live/a08c6e6db89051fd09dc085f9e0d1a00/playlist.m3u8
-#EXTINF:-1 tvg-id="601403770" group-title="Elvina Kalieva vs Suzan Lamens 17:00 ngày 20/04 WTA Madrid, Spain Women Singles", Elvina Kalieva vs Suzan Lamens 17:00 ngày 20/04 WTA Madrid, Spain Women Singles
-https://live.alilicloud.com/live/a03d51c0f0db6d3f8a1fa3925e576097/playlist.m3u8
+#EXTINF:-1 tvg-id="601403785" group-title="David Jorda Sanchis vs Cezar Cretu 17:00 ngày 20/04 ATP Challenger Rome, Italy Men Singles", David Jorda Sanchis vs Cezar Cretu 17:00 ngày 20/04 ATP Challenger Rome, Italy Men Singles
+https://live.alilicloud.com/live/851e2362c6e31aa2478f958cf5c9c7e4/playlist.m3u8
+#EXTINF:-1 tvg-id="601397794" group-title="Tomasz Berkieta vs Jelle Sels 17:00 ngày 20/04 ATP Challenger Shymkent, Kazakhstan Men Singles", Tomasz Berkieta vs Jelle Sels 17:00 ngày 20/04 ATP Challenger Shymkent, Kazakhstan Men Singles
+https://live.alilicloud.com/live/9b245f38a4e23e53b10c010305efbc2b/playlist.m3u8
+#EXTINF:-1 tvg-id="601403761" group-title="Rebeka Masarova vs Rebecca Sramkova 17:15 ngày 20/04 WTA Madrid, Spain Women Singles", Rebeka Masarova vs Rebecca Sramkova 17:15 ngày 20/04 WTA Madrid, Spain Women Singles
+https://live.alilicloud.com/live/25a56d4411763dfe7d42e2cb3fe5c1a5/playlist.m3u8
+#EXTINF:-1 tvg-id="601402819" group-title="Carol Young Suh Lee vs Varvara Lepchenko 17:30 ngày 20/04 WTA 125K Oeiras 4, Portugal Women Singles", Carol Young Suh Lee vs Varvara Lepchenko 17:30 ngày 20/04 WTA 125K Oeiras 4, Portugal Women Singles
+https://live.alilicloud.com/live/018c8c8fe3d853198ed3a6d73746c66c/playlist.m3u8
+#EXTINF:-1 tvg-id="601397806" group-title="Buvaysar Gadamauri vs Sean Cuenin 17:35 ngày 20/04 ATP Challenger Shymkent, Kazakhstan Men Singles", Buvaysar Gadamauri vs Sean Cuenin 17:35 ngày 20/04 ATP Challenger Shymkent, Kazakhstan Men Singles
+https://live.alilicloud.com/live/52c892ebe401437a2ec3cf30a78f5f2c/playlist.m3u8
+#EXTINF:-1 tvg-id="601387963" group-title="Dewa United FC vs Persib Bandung 19:00 ngày 20/04 Indonesian Liga 1", Dewa United FC vs Persib Bandung 19:00 ngày 20/04 Indonesian Liga 1
+https://cdn-hls.taoxanh.biz/live/69e60f4f42281_79/index.m3u8?expire=1777289679&amp;sign=0cafede880a63c92680108c9f3700b66
+#EXTINF:-1 tvg-id="601387975" group-title="FC Noah vs FK Van Charentsavan 19:00 ngày 20/04 Armenian Premier League", FC Noah vs FK Van Charentsavan 19:00 ngày 20/04 Armenian Premier League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69e60945203f3_4908/index.m3u8?expire=1777288133&amp;sign=f96d348825b4aa30da3a0ba6e51dbd05
+#EXTINF:-1 tvg-id="601387975" group-title="FC Noah vs FK Van Charentsavan 19:00 ngày 20/04 Armenian Premier League", FC Noah vs FK Van Charentsavan 19:00 ngày 20/04 Armenian Premier League (Link 2)
+https://live.alilicloud.com/live/7ec554eb7bc58d5e1fb3dec8096ebe28/playlist.m3u8
