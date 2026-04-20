@@ -1,13 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601388185" group-title="San Antonio Spurs vs Portland Trail Blazers 08:00 ngày 20/04 National Basketball Association", San Antonio Spurs vs Portland Trail Blazers 08:00 ngày 20/04 National Basketball Association (Link 1)
-https://cdn-hls.taoxanh.biz/live/69e57c28203f3_4733/index.m3u8?expire=1777252008&amp;sign=3740cb96919912e23b5d9019c8da1fa5
-#EXTINF:-1 tvg-id="601388185" group-title="San Antonio Spurs vs Portland Trail Blazers 08:00 ngày 20/04 National Basketball Association", San Antonio Spurs vs Portland Trail Blazers 08:00 ngày 20/04 National Basketball Association (Link 2)
-https://cdn-hls.taoxanh.biz/live/69e56c7542281_153967/index.m3u8?expire=1777247989&amp;sign=098cceb0e8a2e77a9a20f75b5fdb8a5f
-#EXTINF:-1 tvg-id="601388185" group-title="San Antonio Spurs vs Portland Trail Blazers 08:00 ngày 20/04 National Basketball Association", San Antonio Spurs vs Portland Trail Blazers 08:00 ngày 20/04 National Basketball Association (Link 3)
-https://live.alilicloud.com/live/3b841c0285374f0cbc2382e85c078bd8/playlist.m3u8
-#EXTINF:-1 tvg-id="601408393" group-title="⁩ TONG LU vs Yip Kin Ling Leo 09:30 ngày 20/04 Duya Legends Golden Nine International Classic", ⁩ TONG LU vs Yip Kin Ling Leo 09:30 ngày 20/04 Duya Legends Golden Nine International Classic
+#EXTINF:-1 tvg-id="601408393" group-title="Phạm Hoài Nam vs NING XU FEI 11:20 ngày 20/04 Duya Legends Golden Nine International Classic", Phạm Hoài Nam vs NING XU FEI 11:20 ngày 20/04 Duya Legends Golden Nine International Classic
 https://cdn-hls.taoxanh.biz/live/69e59258203f3_103/index.m3u8?expire=1777257688&amp;sign=6fa953138705dd299674f3b1f0c4f814
-#EXTINF:-1 tvg-id="601403320" group-title="Renta Tokuda vs Marat Sharipov 09:00 ngày 20/04 ATP Challenger Gwangju, Korea Republic Men Singles", Renta Tokuda vs Marat Sharipov 09:00 ngày 20/04 ATP Challenger Gwangju, Korea Republic Men Singles
-https://live.alilicloud.com/live/90232251cb71b053c960b8ade9d39b6b/playlist.m3u8
-#EXTINF:-1 tvg-id="601403353" group-title="Patrick Zahraj vs Daniel Masur 09:00 ngày 20/04 ATP Challenger Gwangju, Korea Republic Men Singles", Patrick Zahraj vs Daniel Masur 09:00 ngày 20/04 ATP Challenger Gwangju, Korea Republic Men Singles
-https://live.alilicloud.com/live/185d57f06ad0653039b180ca61f51d98/playlist.m3u8
+#EXTINF:-1 tvg-id="601387930" group-title="Ji'nan Linksafe vs Anhui Wanmei 12:00 ngày 20/04 Chinese Football Association Member Association Champions League", Ji'nan Linksafe vs Anhui Wanmei 12:00 ngày 20/04 Chinese Football Association Member Association Champions League
+https://live.alilicloud.com/live/31e081ec3b7885b9c3a5c647ad081336/playlist.m3u8
+#EXTINF:-1 tvg-id="601387933" group-title="Kunshan Zhangpu vs Yangzhou Sanwan Ledao 12:00 ngày 20/04 Chinese Football Association Member Association Champions League", Kunshan Zhangpu vs Yangzhou Sanwan Ledao 12:00 ngày 20/04 Chinese Football Association Member Association Champions League
+https://live.alilicloud.com/live/293b8f586fe102faebdebf7d1ea5c8c2/playlist.m3u8
+#EXTINF:-1 tvg-id="601403422" group-title="Kasidit Samrej vs Hayato Matsuoka 10:25 ngày 20/04 ATP Challenger Gwangju, Korea Republic Men Singles", Kasidit Samrej vs Hayato Matsuoka 10:25 ngày 20/04 ATP Challenger Gwangju, Korea Republic Men Singles
+https://live.alilicloud.com/live/d3936d6bbc0b823649b380822310a19e/playlist.m3u8
+#EXTINF:-1 tvg-id="601403362" group-title="Luca Staeheli vs Oleksii Krutykh 12:00 ngày 20/04 ATP Challenger Shymkent, Kazakhstan Men Singles", Luca Staeheli vs Oleksii Krutykh 12:00 ngày 20/04 ATP Challenger Shymkent, Kazakhstan Men Singles
+https://live.alilicloud.com/live/8e0eff03e5ab46cf2b3345f6be25d8e0/playlist.m3u8
+#EXTINF:-1 tvg-id="601403425" group-title="Mili Poljicak vs Denys Klok 12:00 ngày 20/04 ATP Challenger Shymkent, Kazakhstan Men Singles", Mili Poljicak vs Denys Klok 12:00 ngày 20/04 ATP Challenger Shymkent, Kazakhstan Men Singles
+https://live.alilicloud.com/live/4b281b5b0acdddeba77d52c346f77d36/playlist.m3u8
+#EXTINF:-1 tvg-id="601403428" group-title="Ergi Kirkin vs Kai Wehnelt 12:00 ngày 20/04 ATP Challenger Shymkent, Kazakhstan Men Singles", Ergi Kirkin vs Kai Wehnelt 12:00 ngày 20/04 ATP Challenger Shymkent, Kazakhstan Men Singles
+https://live.alilicloud.com/live/11d1eef718ad73836aa4aa6fc3e98adf/playlist.m3u8
+#EXTINF:-1 tvg-id="601397314" group-title="Clement Chidekh vs Chak Lam Coleman Wong 12:10 ngày 20/04 ATP Challenger Gwangju, Korea Republic Men Singles", Clement Chidekh vs Chak Lam Coleman Wong 12:10 ngày 20/04 ATP Challenger Gwangju, Korea Republic Men Singles
+https://live.alilicloud.com/live/ba9d6fbcbf17c968dd73db598be0684f/playlist.m3u8
+#EXTINF:-1 tvg-id="601397311" group-title="Mark Lajal vs Maximus Jones 12:35 ngày 20/04 ATP Challenger Gwangju, Korea Republic Men Singles", Mark Lajal vs Maximus Jones 12:35 ngày 20/04 ATP Challenger Gwangju, Korea Republic Men Singles
+https://live.alilicloud.com/live/fdbfb2ab22d23d5248695f67f9e3629b/playlist.m3u8
