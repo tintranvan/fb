@@ -1,71 +1,51 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601389385" group-title="Gimcheon Sangmu Football Club vs Gangwon Football Club 17:30 ngày 21/04 Korean K League 1", Gimcheon Sangmu Football Club vs Gangwon Football Club 17:30 ngày 21/04 Korean K League 1 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69e74c70203f3_73445/index.m3u8?expire=1777370864&amp;sign=89dd86e2b84a49dc1e8b26a5d8bb2482
-#EXTINF:-1 tvg-id="601389385" group-title="Gimcheon Sangmu Football Club vs Gangwon Football Club 17:30 ngày 21/04 Korean K League 1", Gimcheon Sangmu Football Club vs Gangwon Football Club 17:30 ngày 21/04 Korean K League 1 (Link 2)
-https://live.alilicloud.com/live/d950758f96c5bd8d9e0f059e888aedeb/playlist.m3u8
-#EXTINF:-1 tvg-id="601389382" group-title="Jeonbuk Hyundai Motors vs Incheon United Club 17:30 ngày 21/04 Korean K League 1", Jeonbuk Hyundai Motors vs Incheon United Club 17:30 ngày 21/04 Korean K League 1 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69e74a0142281_136682/index.m3u8?expire=1777370241&amp;sign=205f03c228a0a8a602807a759b3dc845
-#EXTINF:-1 tvg-id="601389382" group-title="Jeonbuk Hyundai Motors vs Incheon United Club 17:30 ngày 21/04 Korean K League 1", Jeonbuk Hyundai Motors vs Incheon United Club 17:30 ngày 21/04 Korean K League 1 (Link 2)
-https://live.alilicloud.com/live/fa2bf4a27fcbde653e1b359566d0fadc/playlist.m3u8
-#EXTINF:-1 tvg-id="601389379" group-title="Football Club Seoul vs Bucheon FC 1995 17:30 ngày 21/04 Korean K League 1", Football Club Seoul vs Bucheon FC 1995 17:30 ngày 21/04 Korean K League 1 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69e73f8742281_85514/index.m3u8?expire=1777367559&amp;sign=b52d1b1a475e81b870627a18b9360097
-#EXTINF:-1 tvg-id="601389379" group-title="Football Club Seoul vs Bucheon FC 1995 17:30 ngày 21/04 Korean K League 1", Football Club Seoul vs Bucheon FC 1995 17:30 ngày 21/04 Korean K League 1 (Link 2)
-https://live.alilicloud.com/live/256c334f80cce023222916eb3d09c107/playlist.m3u8
 #EXTINF:-1 tvg-id="601389388" group-title="Shenzhen Peng City FC vs Beijing Guoan FC 18:00 ngày 21/04 Chinese Football Super League", Shenzhen Peng City FC vs Beijing Guoan FC 18:00 ngày 21/04 Chinese Football Super League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69e75084203f3_6308/index.m3u8?expire=1777371908&amp;sign=ec0edfd2187038940b0b62b39ada1c0f
 #EXTINF:-1 tvg-id="601389388" group-title="Shenzhen Peng City FC vs Beijing Guoan FC 18:00 ngày 21/04 Chinese Football Super League", Shenzhen Peng City FC vs Beijing Guoan FC 18:00 ngày 21/04 Chinese Football Super League (Link 2)
 https://live.alilicloud.com/live/da20fb8fd89b2ac3c16f989f568c8990/playlist.m3u8
-#EXTINF:-1 tvg-id="601389394" group-title="Chengdu Rongcheng FC vs Yunnan Yukun 18:35 ngày 21/04 Chinese Football Super League", Chengdu Rongcheng FC vs Yunnan Yukun 18:35 ngày 21/04 Chinese Football Super League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69e74b3c42281_88186/index.m3u8?expire=1777370556&amp;sign=a3135efa68839bc2f1ce9be5b6eec7ad
-#EXTINF:-1 tvg-id="601389394" group-title="Chengdu Rongcheng FC vs Yunnan Yukun 18:35 ngày 21/04 Chinese Football Super League", Chengdu Rongcheng FC vs Yunnan Yukun 18:35 ngày 21/04 Chinese Football Super League (Link 2)
-https://live.alilicloud.com/live/2261fcdb2416aa008a10818f0852e8cd/playlist.m3u8
 #EXTINF:-1 tvg-id="601389397" group-title="Wuhan Three Towns FC vs Zhejiang Professional FC 18:35 ngày 21/04 Chinese Football Super League", Wuhan Three Towns FC vs Zhejiang Professional FC 18:35 ngày 21/04 Chinese Football Super League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69e75729203f3_28/index.m3u8?expire=1777373609&amp;sign=ded4267be85100344ed290d33e64a365
 #EXTINF:-1 tvg-id="601389397" group-title="Wuhan Three Towns FC vs Zhejiang Professional FC 18:35 ngày 21/04 Chinese Football Super League", Wuhan Three Towns FC vs Zhejiang Professional FC 18:35 ngày 21/04 Chinese Football Super League (Link 2)
 https://live.alilicloud.com/live/bb546273446194eb22bda81eb880f533/playlist.m3u8
+#EXTINF:-1 tvg-id="601389394" group-title="Chengdu Rongcheng FC vs Yunnan Yukun 18:35 ngày 21/04 Chinese Football Super League", Chengdu Rongcheng FC vs Yunnan Yukun 18:35 ngày 21/04 Chinese Football Super League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69e74b3c42281_88186/index.m3u8?expire=1777370556&amp;sign=a3135efa68839bc2f1ce9be5b6eec7ad
+#EXTINF:-1 tvg-id="601389394" group-title="Chengdu Rongcheng FC vs Yunnan Yukun 18:35 ngày 21/04 Chinese Football Super League", Chengdu Rongcheng FC vs Yunnan Yukun 18:35 ngày 21/04 Chinese Football Super League (Link 2)
+https://live.alilicloud.com/live/2261fcdb2416aa008a10818f0852e8cd/playlist.m3u8
+#EXTINF:-1 tvg-id="601389409" group-title="Tianjin Jinmen Tiger FC vs Shandong Taishan FC 19:00 ngày 21/04 Chinese Football Super League", Tianjin Jinmen Tiger FC vs Shandong Taishan FC 19:00 ngày 21/04 Chinese Football Super League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69e75f6542281_72787/index.m3u8?expire=1777375717&amp;sign=2fdf7550a470275d6bb1eb8ec8f6bfb3
+#EXTINF:-1 tvg-id="601389409" group-title="Tianjin Jinmen Tiger FC vs Shandong Taishan FC 19:00 ngày 21/04 Chinese Football Super League", Tianjin Jinmen Tiger FC vs Shandong Taishan FC 19:00 ngày 21/04 Chinese Football Super League (Link 2)
+https://live.alilicloud.com/live/2184ac9eb1847e6541402c99b59b0e76/playlist.m3u8
+#EXTINF:-1 tvg-id="601389406" group-title="Shanghai Port FC vs Chongqing Tongliangloong FC 19:00 ngày 21/04 Chinese Football Super League", Shanghai Port FC vs Chongqing Tongliangloong FC 19:00 ngày 21/04 Chinese Football Super League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69e75ec4203f3_18754/index.m3u8?expire=1777375556&amp;sign=947ce53e297168de1199208b5ab14587
+#EXTINF:-1 tvg-id="601389406" group-title="Shanghai Port FC vs Chongqing Tongliangloong FC 19:00 ngày 21/04 Chinese Football Super League", Shanghai Port FC vs Chongqing Tongliangloong FC 19:00 ngày 21/04 Chinese Football Super League (Link 2)
+https://live.alilicloud.com/live/b2adf209922e784927831dd4cb01656d/playlist.m3u8
 #EXTINF:-1 tvg-id="601408612" group-title="Marco Trungelliti vs Daniel Merida Aguilar 18:20 ngày 21/04 ATP Madrid, Spain Men Singles", Marco Trungelliti vs Daniel Merida Aguilar 18:20 ngày 21/04 ATP Madrid, Spain Men Singles
 https://cdn-hls.taoxanh.biz/live/69e75c4a42281_42127/index.m3u8?expire=1777374922&amp;sign=70cfd12bc16f3e5c1add78ed5ab790a8
 #EXTINF:-1 tvg-id="601408603" group-title="Wu Yibing vs Titouan Droguet 18:25 ngày 21/04 ATP Madrid, Spain Men Singles", Wu Yibing vs Titouan Droguet 18:25 ngày 21/04 ATP Madrid, Spain Men Singles
 https://cdn-hls.taoxanh.biz/live/69e75db542281_153967/index.m3u8?expire=1777375285&amp;sign=423d0c0b3788805f468cc441315e3836
 #EXTINF:-1 tvg-id="601410904" group-title="CHU BING JIE vs LIANG SHI YU 16:15 ngày 21/04 Duya Legends Golden Nine International Classic", CHU BING JIE vs LIANG SHI YU 16:15 ngày 21/04 Duya Legends Golden Nine International Classic
 https://cdn-hls.taoxanh.biz/live/69e6e202203f3_103/index.m3u8?expire=1777343618&amp;sign=83dcf82edd18b0a127662c8c4a3cdf95
-#EXTINF:-1 tvg-id="601389376" group-title="Leixoes U23 vs Santa Clara U23 17:00 ngày 21/04 Portuguese U23 League", Leixoes U23 vs Santa Clara U23 17:00 ngày 21/04 Portuguese U23 League
-https://live.alilicloud.com/live/ecfd7574567aa6f0ba0c73268d360111/playlist.m3u8
-#EXTINF:-1 tvg-id="601389373" group-title="Farense U23 vs Estoril U23 17:00 ngày 21/04 Portuguese U23 League", Farense U23 vs Estoril U23 17:00 ngày 21/04 Portuguese U23 League
-https://live.alilicloud.com/live/636b5c4e873b8915d26da7c884b8a938/playlist.m3u8
-#EXTINF:-1 tvg-id="601392109" group-title="Sudeva Delhi vs GMSC 17:30 ngày 21/04 Indian I-League 2nd Division", Sudeva Delhi vs GMSC 17:30 ngày 21/04 Indian I-League 2nd Division
-https://live.alilicloud.com/live/ad6492e41f8290d0762df1dfba5ae629/playlist.m3u8
 #EXTINF:-1 tvg-id="601389391" group-title="Sigma Olomouc U19 vs Mlada Boleslav U19 18:00 ngày 21/04 Czech U19 League", Sigma Olomouc U19 vs Mlada Boleslav U19 18:00 ngày 21/04 Czech U19 League
 https://live.alilicloud.com/live/ecebdd505efab7d219fa98224e1be794/playlist.m3u8
-#EXTINF:-1 tvg-id="601408435" group-title="Kharkivski Sokoly vs BC Kyiv-Basket 17:00 ngày 21/04 Ukrainian Basketball SuperLeague", Kharkivski Sokoly vs BC Kyiv-Basket 17:00 ngày 21/04 Ukrainian Basketball SuperLeague
-https://live.alilicloud.com/live/02373271e8156527aa1d2125615e1d47/playlist.m3u8
-#EXTINF:-1 tvg-id="601389736" group-title="Paranaque Patriots vs Abra Weavers 17:30 ngày 21/04 Philippines MPBL", Paranaque Patriots vs Abra Weavers 17:30 ngày 21/04 Philippines MPBL
-https://live.alilicloud.com/live/bf45f635e7d862d7e6425845019c2e3b/playlist.m3u8
-#EXTINF:-1 tvg-id="601389742" group-title="Taoyuan Pilots vs Ulaanbaatar Xac Broncos 18:00 ngày 21/04 Basketball Champions League Asia", Taoyuan Pilots vs Ulaanbaatar Xac Broncos 18:00 ngày 21/04 Basketball Champions League Asia
-https://live.alilicloud.com/live/29dff891231a2e0a93321488691088f3/playlist.m3u8
+#EXTINF:-1 tvg-id="601392118" group-title="Karbi Anglong Morning Star FC vs FC Bengaluru United 19:30 ngày 21/04 Indian I-League 2nd Division", Karbi Anglong Morning Star FC vs FC Bengaluru United 19:30 ngày 21/04 Indian I-League 2nd Division
+https://live.alilicloud.com/live/bff004e5d31333bba83c26109b0d1937/playlist.m3u8
+#EXTINF:-1 tvg-id="601389754" group-title="Hong Kong Bulls vs Shanghai Blackbird 18:30 ngày 21/04 China National Basketball League", Hong Kong Bulls vs Shanghai Blackbird 18:30 ngày 21/04 China National Basketball League
+https://live.alilicloud.com/live/285f997a8f03751307e2d2227fd5c323/playlist.m3u8
+#EXTINF:-1 tvg-id="601389751" group-title="Changsha vs Western Hunan 18:30 ngày 21/04 Hunan City Basketball League", Changsha vs Western Hunan 18:30 ngày 21/04 Hunan City Basketball League
+https://live.alilicloud.com/live/1c2900edb4defa8c360467689df7ffae/playlist.m3u8
 #EXTINF:-1 tvg-id="601389748" group-title="Rain or Shine Elastopainters vs Phoenix Fuel Masters 18:30 ngày 21/04 Philippine Basketball Commissioner's Cup", Rain or Shine Elastopainters vs Phoenix Fuel Masters 18:30 ngày 21/04 Philippine Basketball Commissioner's Cup
 https://live.alilicloud.com/live/210e97a8b54e41cc1d9a22f901d62281/playlist.m3u8
-#EXTINF:-1 tvg-id="601408549" group-title="Rei Sakamoto vs Vilius Gaubas 16:00 ngày 21/04 ATP Madrid, Spain Men Singles", Rei Sakamoto vs Vilius Gaubas 16:00 ngày 21/04 ATP Madrid, Spain Men Singles
-https://live.alilicloud.com/live/fd101edf0c161dc980a944d1c028c569/playlist.m3u8
-#EXTINF:-1 tvg-id="601408558" group-title="Nikola Bartunkova vs Alina Charaeva 16:00 ngày 21/04 WTA Madrid, Spain Women Singles", Nikola Bartunkova vs Alina Charaeva 16:00 ngày 21/04 WTA Madrid, Spain Women Singles
-https://live.alilicloud.com/live/37ba09ddefd1e046d1b89ea32a909378/playlist.m3u8
-#EXTINF:-1 tvg-id="601402492" group-title="Pierre Hugues Herbert vs Guy Den Ouden 16:10 ngày 21/04 ATP Challenger Rome, Italy Men Singles", Pierre Hugues Herbert vs Guy Den Ouden 16:10 ngày 21/04 ATP Challenger Rome, Italy Men Singles
-https://live.alilicloud.com/live/9dca0a0e468085956d766f79ec3a6ac3/playlist.m3u8
-#EXTINF:-1 tvg-id="601408627" group-title="Jacopo Vasami vs Frederico Ferreira Silva 16:45 ngày 21/04 ATP Challenger Rome, Italy Men Singles", Jacopo Vasami vs Frederico Ferreira Silva 16:45 ngày 21/04 ATP Challenger Rome, Italy Men Singles
-https://live.alilicloud.com/live/49b3de2dbfe54c0ecb3e168c862eaf6f/playlist.m3u8
 #EXTINF:-1 tvg-id="601408618" group-title="Anna Blinkova vs Elvina Kalieva 17:25 ngày 21/04 WTA Madrid, Spain Women Singles", Anna Blinkova vs Elvina Kalieva 17:25 ngày 21/04 WTA Madrid, Spain Women Singles
 https://live.alilicloud.com/live/51dd59308d44b0a60a076b92813ba885/playlist.m3u8
-#EXTINF:-1 tvg-id="601408240" group-title="Laura Siegemund vs Irina-Camelia Begu 17:30 ngày 21/04 WTA Madrid, Spain Women Singles", Laura Siegemund vs Irina-Camelia Begu 17:30 ngày 21/04 WTA Madrid, Spain Women Singles
-https://live.alilicloud.com/live/93c62645728a0d18500f013e6ba9698c/playlist.m3u8
-#EXTINF:-1 tvg-id="601408243" group-title="Beatriz Haddad Maia vs Jessica Bouzas Maneiro 17:40 ngày 21/04 WTA Madrid, Spain Women Singles", Beatriz Haddad Maia vs Jessica Bouzas Maneiro 17:40 ngày 21/04 WTA Madrid, Spain Women Singles
-https://live.alilicloud.com/live/3e5c471c4b2f7b32843401ebad61964a/playlist.m3u8
-#EXTINF:-1 tvg-id="601408753" group-title="Panna Udvardy vs Tyra Caterina Grant 18:30 ngày 21/04 WTA Madrid, Spain Women Singles", Panna Udvardy vs Tyra Caterina Grant 18:30 ngày 21/04 WTA Madrid, Spain Women Singles
-https://live.alilicloud.com/live/58b10a2f4537ad8f812cdcd8a2947b8c/playlist.m3u8
-#EXTINF:-1 tvg-id="601389406" group-title="Shanghai Port FC vs Chongqing Tongliangloong FC 19:00 ngày 21/04 Chinese Football Super League", Shanghai Port FC vs Chongqing Tongliangloong FC 19:00 ngày 21/04 Chinese Football Super League
-https://cdn-hls.taoxanh.biz/live/69e75ec4203f3_18754/index.m3u8?expire=1777375556&amp;sign=947ce53e297168de1199208b5ab14587
-#EXTINF:-1 tvg-id="601389409" group-title="Tianjin Jinmen Tiger FC vs Shandong Taishan FC 19:00 ngày 21/04 Chinese Football Super League", Tianjin Jinmen Tiger FC vs Shandong Taishan FC 19:00 ngày 21/04 Chinese Football Super League
-https://cdn-hls.taoxanh.biz/live/69e75f6542281_72787/index.m3u8?expire=1777375717&amp;sign=2fdf7550a470275d6bb1eb8ec8f6bfb3
-#EXTINF:-1 tvg-id="601408759" group-title="Diego Dedura-Palomero vs Benjamin Bonzi 19:35 ngày 21/04 ATP Madrid, Spain Men Singles", Diego Dedura-Palomero vs Benjamin Bonzi 19:35 ngày 21/04 ATP Madrid, Spain Men Singles
+#EXTINF:-1 tvg-id="601408741" group-title="Storm Hunter vs Lucie Havlickova 18:30 ngày 21/04 WTA 125K Oeiras 4, Portugal Women Singles", Storm Hunter vs Lucie Havlickova 18:30 ngày 21/04 WTA 125K Oeiras 4, Portugal Women Singles
+https://live.alilicloud.com/live/2699852d758a43e316c414217081efb2/playlist.m3u8
+#EXTINF:-1 tvg-id="601402822" group-title="Matilde Jorge vs Lucia Bronzetti 19:00 ngày 21/04 WTA 125K Oeiras 4, Portugal Women Singles", Matilde Jorge vs Lucia Bronzetti 19:00 ngày 21/04 WTA 125K Oeiras 4, Portugal Women Singles
+https://live.alilicloud.com/live/4a08dda6f2b4b662c154beda7f827529/playlist.m3u8
+#EXTINF:-1 tvg-id="601408756" group-title="Katie Volynets vs Tamara Korpatsch 19:05 ngày 21/04 WTA Madrid, Spain Women Singles", Katie Volynets vs Tamara Korpatsch 19:05 ngày 21/04 WTA Madrid, Spain Women Singles
+https://live.alilicloud.com/live/d6c5a72382feab47fc8e2a9d5cb0e58d/playlist.m3u8
+#EXTINF:-1 tvg-id="601408759" group-title="Diego Dedura-Palomero vs Benjamin Bonzi 19:50 ngày 21/04 ATP Madrid, Spain Men Singles", Diego Dedura-Palomero vs Benjamin Bonzi 19:50 ngày 21/04 ATP Madrid, Spain Men Singles
 https://cdn-hls.taoxanh.biz/live/69e75e5f42281_4733/index.m3u8?expire=1777375455&amp;sign=778134cfd10385da5bebfc0e5efebe81
+#EXTINF:-1 tvg-id="601389451" group-title="NK Lokomotiva Zagreb vs Slaven Belupo 21:00 ngày 21/04 Croatian Football League", NK Lokomotiva Zagreb vs Slaven Belupo 21:00 ngày 21/04 Croatian Football League
+https://cdn-hls.taoxanh.biz/live/69e76ebb203f3_124958/index.m3u8?expire=1777379643&amp;sign=c960448fde51a3a53599c67b5dbad26d
 #EXTINF:-1 tvg-id="601392301" group-title="Stoke City vs Millwall 01:45 ngày 22/04 English Football League Championship", Stoke City vs Millwall 01:45 ngày 22/04 English Football League Championship
 https://cdn-hls.taoxanh.biz/live/69e75c3a203f3_88642/index.m3u8?expire=1777374906&amp;sign=e0d6f124ed77bfedc16244585f58ea67
