@@ -1,30 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601392358" group-title="Real Madrid vs Deportivo Alavés 02:30 ngày 22/04 Spanish La Liga", Real Madrid vs Deportivo Alavés 02:30 ngày 22/04 Spanish La Liga (Link 1)
-https://cdn-hls.taoxanh.biz/live/69e7c730203f3_151255/index.m3u8?expire=1777402288&amp;sign=7651beed7a610cc2047d6fd4a5dff5ea
-#EXTINF:-1 tvg-id="601392358" group-title="Real Madrid vs Deportivo Alavés 02:30 ngày 22/04 Spanish La Liga", Real Madrid vs Deportivo Alavés 02:30 ngày 22/04 Spanish La Liga (Link 2)
-https://cdn-hls.taoxanh.biz/live/69e7c60542281_28/index.m3u8?expire=1777401989&amp;sign=de3eeb84500ea53a9221d799c84eebe4
-#EXTINF:-1 tvg-id="601392358" group-title="Real Madrid vs Deportivo Alavés 02:30 ngày 22/04 Spanish La Liga", Real Madrid vs Deportivo Alavés 02:30 ngày 22/04 Spanish La Liga (Link 3)
-https://cdn-hls.taoxanh.biz/live/69e7c9e6203f3_85514/index.m3u8?expire=1777402982&amp;sign=865995788fb144fe5743fc550f9ba6f8
-#EXTINF:-1 tvg-id="601392358" group-title="Real Madrid vs Deportivo Alavés 02:30 ngày 22/04 Spanish La Liga", Real Madrid vs Deportivo Alavés 02:30 ngày 22/04 Spanish La Liga (Link 4)
-https://live.alilicloud.com/live/55d2007690113bbb3414dd4bd957708e/playlist.m3u8
-#EXTINF:-1 tvg-id="601392361" group-title="Botafogo RJ vs Chapecoense SC 03:00 ngày 22/04 Brazilian Cup", Botafogo RJ vs Chapecoense SC 03:00 ngày 22/04 Brazilian Cup
-https://live.alilicloud.com/live/4828c8fb30139c153714949c787ca0a2/playlist.m3u8
 #EXTINF:-1 tvg-id="601392370" group-title="Atletico Tucuman Reserve vs Central Cordoba SdE Reserves 04:00 ngày 22/04 Argentine Reserve League", Atletico Tucuman Reserve vs Central Cordoba SdE Reserves 04:00 ngày 22/04 Argentine Reserve League
 https://live.alilicloud.com/live/124799c3fc882c045e50f68e4b3a4093/playlist.m3u8
-#EXTINF:-1 tvg-id="601401730" group-title="Recife W vs Unimed Campinas Basquete (W) 03:00 ngày 22/04 Brazil Liga Feminina de Basquete", Recife W vs Unimed Campinas Basquete (W) 03:00 ngày 22/04 Brazil Liga Feminina de Basquete
-https://live.alilicloud.com/live/572f47c749cae9f3a651852dea9790e9/playlist.m3u8
+#EXTINF:-1 tvg-id="601380874" group-title="Deportivo Merlo vs Comunicaciones BsAs 05:00 ngày 22/04 Argentine Group B Tebolidun League Manchester", Deportivo Merlo vs Comunicaciones BsAs 05:00 ngày 22/04 Argentine Group B Tebolidun League Manchester
+https://live.alilicloud.com/live/26d0103ee4d13a1a61e4e3caedcb6da9/playlist.m3u8
 #EXTINF:-1 tvg-id="601407520" group-title="Pitagoras Minas vs Cruzeiro 04:00 ngày 22/04 Novo Basquete Brasil", Pitagoras Minas vs Cruzeiro 04:00 ngày 22/04 Novo Basquete Brasil
 https://live.alilicloud.com/live/322074a3b64d003d4e5a166013ec6d85/playlist.m3u8
-#EXTINF:-1 tvg-id="601402915" group-title="Maxime Chazal vs Millen Hurrion 01:30 ngày 22/04 ATP Challenger Abidjan, Cote d Ivoire Men Singles", Maxime Chazal vs Millen Hurrion 01:30 ngày 22/04 ATP Challenger Abidjan, Cote d Ivoire Men Singles
-https://live.alilicloud.com/live/b13ea1076e9d5d75b037ded675ae46d1/playlist.m3u8
-#EXTINF:-1 tvg-id="601412233" group-title="Cesar Bouchelaghem vs Jeremy Schifris 01:40 ngày 22/04 ATP Challenger Abidjan, Cote d Ivoire Men Singles", Cesar Bouchelaghem vs Jeremy Schifris 01:40 ngày 22/04 ATP Challenger Abidjan, Cote d Ivoire Men Singles
-https://live.alilicloud.com/live/ba4192148102aec73521de08bcd40b7b/playlist.m3u8
 #EXTINF:-1 tvg-id="601410790" group-title="Andrew Johnson vs Nishesh Basavareddy 02:15 ngày 22/04 ATP Challenger Savannah, USA Men Singles", Andrew Johnson vs Nishesh Basavareddy 02:15 ngày 22/04 ATP Challenger Savannah, USA Men Singles
 https://live.alilicloud.com/live/549a58f2d2aaf6152e4bdaf4299e1e06/playlist.m3u8
-#EXTINF:-1 tvg-id="601403080" group-title="Jeffrey John Wolf vs Thomas Faurel 02:45 ngày 22/04 ATP Challenger Savannah, USA Men Singles", Jeffrey John Wolf vs Thomas Faurel 02:45 ngày 22/04 ATP Challenger Savannah, USA Men Singles
-https://live.alilicloud.com/live/cb6adf7ae20c8ab8c46d724330b22006/playlist.m3u8
 #EXTINF:-1 tvg-id="601403092" group-title="Andres Andrade vs Oliver Crawford 03:25 ngày 22/04 ATP Challenger Savannah, USA Men Singles", Andres Andrade vs Oliver Crawford 03:25 ngày 22/04 ATP Challenger Savannah, USA Men Singles
 https://live.alilicloud.com/live/373de226062084f7d7ece47a58b6c9eb/playlist.m3u8
+#EXTINF:-1 tvg-id="601403065" group-title="Stefan Dostanic vs Federico Agustin Gomez 04:35 ngày 22/04 ATP Challenger Savannah, USA Men Singles", Stefan Dostanic vs Federico Agustin Gomez 04:35 ngày 22/04 ATP Challenger Savannah, USA Men Singles
+https://live.alilicloud.com/live/5e8caea132a34711f2b44ffa0e665a17/playlist.m3u8
 #EXTINF:-1 tvg-id="601391005" group-title="Boston Celtics vs Philadelphia 76ers 06:00 ngày 22/04 National Basketball Association", Boston Celtics vs Philadelphia 76ers 06:00 ngày 22/04 National Basketball Association
 https://live.alilicloud.com/live/681456cedbe92ade96a1818d00069aaf/playlist.m3u8
 #EXTINF:-1 tvg-id="601391017" group-title="San Antonio Spurs vs Portland Trail Blazers 07:00 ngày 22/04 National Basketball Association", San Antonio Spurs vs Portland Trail Blazers 07:00 ngày 22/04 National Basketball Association
