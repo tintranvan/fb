@@ -1,15 +1,21 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="601392388" group-title="Brooklyn FC vs Sacramento Republic FC 06:00 ngày 22/04 USL Championship", Brooklyn FC vs Sacramento Republic FC 06:00 ngày 22/04 USL Championship (Link 1)
+https://cdn-hls.taoxanh.biz/live/69e7fcf542281_74012/index.m3u8?expire=1777416053&amp;sign=daf430512d8550eff3cf8c986824bb9b
+#EXTINF:-1 tvg-id="601392388" group-title="Brooklyn FC vs Sacramento Republic FC 06:00 ngày 22/04 USL Championship", Brooklyn FC vs Sacramento Republic FC 06:00 ngày 22/04 USL Championship (Link 2)
+https://live.alilicloud.com/live/498b6130fd9b9e33b65c4f7b6c9bfe1d/playlist.m3u8
 #EXTINF:-1 tvg-id="601391005" group-title="Boston Celtics vs Philadelphia 76ers 06:00 ngày 22/04 National Basketball Association", Boston Celtics vs Philadelphia 76ers 06:00 ngày 22/04 National Basketball Association
 https://live.alilicloud.com/live/681456cedbe92ade96a1818d00069aaf/playlist.m3u8
+#EXTINF:-1 tvg-id="601411240" group-title="Boston Celtics vs Philadelphia 76ers 06:00 ngày 22/04 NBA", Boston Celtics vs Philadelphia 76ers 06:00 ngày 22/04 NBA
+https://cdn-hls.taoxanh.biz/live/69e7fa92203f3_4733/index.m3u8?expire=1777415442&amp;sign=3ec9a098aa6f76fc05865820ea17fba9
 #EXTINF:-1 tvg-id="601380874" group-title="Deportivo Merlo vs Comunicaciones BsAs 05:00 ngày 22/04 Argentine Group B Tebolidun League Manchester", Deportivo Merlo vs Comunicaciones BsAs 05:00 ngày 22/04 Argentine Group B Tebolidun League Manchester
 https://live.alilicloud.com/live/26d0103ee4d13a1a61e4e3caedcb6da9/playlist.m3u8
 #EXTINF:-1 tvg-id="601392382" group-title="Sao Paulo vs Juventude 05:15 ngày 22/04 Brazilian Cup", Sao Paulo vs Juventude 05:15 ngày 22/04 Brazilian Cup
 https://live.alilicloud.com/live/3f6bf8190394c2ee7410c210b6c2a391/playlist.m3u8
 #EXTINF:-1 tvg-id="601392385" group-title="Gremio (RS) vs AD Confiança 05:30 ngày 22/04 Brazilian Cup", Gremio (RS) vs AD Confiança 05:30 ngày 22/04 Brazilian Cup
 https://live.alilicloud.com/live/f16038f82b8b34556791ad969bb58958/playlist.m3u8
+#EXTINF:-1 tvg-id="601392391" group-title="CA Independiente Reserves vs Racing Club Reserves 06:00 ngày 22/04 Argentine Reserve League", CA Independiente Reserves vs Racing Club Reserves 06:00 ngày 22/04 Argentine Reserve League
+https://live.alilicloud.com/live/4cbec28b0e84bbe86717b8f0341d7a5c/playlist.m3u8
+#EXTINF:-1 tvg-id="601410763" group-title="Brittons Hill vs Bagatelle SS 06:00 ngày 22/04 Barbados Premier League", Brittons Hill vs Bagatelle SS 06:00 ngày 22/04 Barbados Premier League
+https://live.alilicloud.com/live/05df9486e0032261eb3513ba5a26dab5/playlist.m3u8
 #EXTINF:-1 tvg-id="601391020" group-title="Motilones del Norte vs Caimanes del Llano 05:00 ngày 22/04 Liga de Baloncesto", Motilones del Norte vs Caimanes del Llano 05:00 ngày 22/04 Liga de Baloncesto
 https://live.alilicloud.com/live/3f122393add2c359e336b2c1e75d1fdc/playlist.m3u8
-#EXTINF:-1 tvg-id="601392388" group-title="Brooklyn FC vs Sacramento Republic FC 06:00 ngày 22/04 USL Championship", Brooklyn FC vs Sacramento Republic FC 06:00 ngày 22/04 USL Championship
-https://cdn-hls.taoxanh.biz/live/69e7fcf542281_74012/index.m3u8?expire=1777416053&amp;sign=daf430512d8550eff3cf8c986824bb9b
-#EXTINF:-1 tvg-id="601391017" group-title="San Antonio Spurs vs Portland Trail Blazers 07:00 ngày 22/04 National Basketball Association", San Antonio Spurs vs Portland Trail Blazers 07:00 ngày 22/04 National Basketball Association
-https://live.alilicloud.com/live/8eb8cf8ccc4b8b193c4431616d6dff77/playlist.m3u8
