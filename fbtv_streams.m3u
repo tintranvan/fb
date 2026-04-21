@@ -1,33 +1,29 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601389292" group-title="San Lorenzo vs Velez Sarsfield 05:30 ngày 21/04 Argentine Division 1", San Lorenzo vs Velez Sarsfield 05:30 ngày 21/04 Argentine Division 1 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69e6a48c203f3_74012/index.m3u8?expire=1777327884&amp;sign=a655e3cbdb8c48973f77405245dd3633
-#EXTINF:-1 tvg-id="601389292" group-title="San Lorenzo vs Velez Sarsfield 05:30 ngày 21/04 Argentine Division 1", San Lorenzo vs Velez Sarsfield 05:30 ngày 21/04 Argentine Division 1 (Link 2)
-https://live.alilicloud.com/live/c3c3819956b4b730734882f0f771503a/playlist.m3u8
-#EXTINF:-1 tvg-id="601389304" group-title="Deportiva Once Caldas vs La Equidad 06:20 ngày 21/04 Categoría Primera A", Deportiva Once Caldas vs La Equidad 06:20 ngày 21/04 Categoría Primera A (Link 1)
-https://cdn-hls.taoxanh.biz/live/69e6abdd42281_95554/index.m3u8?expire=1777329757&amp;sign=5fe2e3f98dc5307767c02f677ef233a7
-#EXTINF:-1 tvg-id="601389304" group-title="Deportiva Once Caldas vs La Equidad 06:20 ngày 21/04 Categoría Primera A", Deportiva Once Caldas vs La Equidad 06:20 ngày 21/04 Categoría Primera A (Link 2)
-https://live.alilicloud.com/live/821d4f210e3fc23822f48ffe0120da84/playlist.m3u8
-#EXTINF:-1 tvg-id="601389691" group-title="Cleveland Cavaliers vs Toronto Raptors 06:00 ngày 21/04 National Basketball Association", Cleveland Cavaliers vs Toronto Raptors 06:00 ngày 21/04 National Basketball Association (Link 1)
-https://cdn-hls.taoxanh.biz/live/69e6ae87203f3_153967/index.m3u8?expire=1777330439&amp;sign=e05524113a2d58b2ac54d538c66c9ae4
-#EXTINF:-1 tvg-id="601389691" group-title="Cleveland Cavaliers vs Toronto Raptors 06:00 ngày 21/04 National Basketball Association", Cleveland Cavaliers vs Toronto Raptors 06:00 ngày 21/04 National Basketball Association (Link 2)
-https://cdn-hls.taoxanh.biz/live/69e6aba7203f3_42127/index.m3u8?expire=1777329703&amp;sign=e04f33f2cf121c3834c1b2047129a924
-#EXTINF:-1 tvg-id="601389691" group-title="Cleveland Cavaliers vs Toronto Raptors 06:00 ngày 21/04 National Basketball Association", Cleveland Cavaliers vs Toronto Raptors 06:00 ngày 21/04 National Basketball Association (Link 3)
-https://live.alilicloud.com/live/f96136f32b13f65f599de27d83353198/playlist.m3u8
+#EXTINF:-1 tvg-id="601389328" group-title="Gimnasia y Esgrima de Mendoza vs Club Atlético Lanús 07:45 ngày 21/04 Argentine Division 1", Gimnasia y Esgrima de Mendoza vs Club Atlético Lanús 07:45 ngày 21/04 Argentine Division 1 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69e6bb7342281_88642/index.m3u8?expire=1777333747&amp;sign=f556a4360799f7cc01e800a9abd3ea28
+#EXTINF:-1 tvg-id="601389328" group-title="Gimnasia y Esgrima de Mendoza vs Club Atlético Lanús 07:45 ngày 21/04 Argentine Division 1", Gimnasia y Esgrima de Mendoza vs Club Atlético Lanús 07:45 ngày 21/04 Argentine Division 1 (Link 2)
+https://live.alilicloud.com/live/2f597feb522ea8c4d1b7ff080ead0ede/playlist.m3u8
+#EXTINF:-1 tvg-id="601389331" group-title="Club Atletico Tigre vs CA Huracan 07:45 ngày 21/04 Argentine Division 1", Club Atletico Tigre vs CA Huracan 07:45 ngày 21/04 Argentine Division 1 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69e6c3c142281_74012/index.m3u8?expire=1777335873&amp;sign=64b8f697f968779017759436667b8258
+#EXTINF:-1 tvg-id="601389331" group-title="Club Atletico Tigre vs CA Huracan 07:45 ngày 21/04 Argentine Division 1", Club Atletico Tigre vs CA Huracan 07:45 ngày 21/04 Argentine Division 1 (Link 2)
+https://live.alilicloud.com/live/5683191787ed220f93b949339223c31c/playlist.m3u8
+#EXTINF:-1 tvg-id="601389340" group-title="Atletico Nacional Medellin vs Atletico Bucaramanga 08:30 ngày 21/04 Categoría Primera A", Atletico Nacional Medellin vs Atletico Bucaramanga 08:30 ngày 21/04 Categoría Primera A (Link 1)
+https://cdn-hls.taoxanh.biz/live/69e6cfb842281_95554/index.m3u8?expire=1777338936&amp;sign=576cde17ce3f9a23e312af0d6c37c0a2
+#EXTINF:-1 tvg-id="601389340" group-title="Atletico Nacional Medellin vs Atletico Bucaramanga 08:30 ngày 21/04 Categoría Primera A", Atletico Nacional Medellin vs Atletico Bucaramanga 08:30 ngày 21/04 Categoría Primera A (Link 2)
+https://live.alilicloud.com/live/305484bb28f370f76b7cddef38d4d481/playlist.m3u8
 #EXTINF:-1 tvg-id="601389703" group-title="New York Knicks vs Atlanta Hawks 07:00 ngày 21/04 National Basketball Association", New York Knicks vs Atlanta Hawks 07:00 ngày 21/04 National Basketball Association (Link 1)
 https://cdn-hls.taoxanh.biz/live/69e6b9d2203f3_4733/index.m3u8?expire=1777333330&amp;sign=8b184a8a6e547992963c4f8dd2d2f688
 #EXTINF:-1 tvg-id="601389703" group-title="New York Knicks vs Atlanta Hawks 07:00 ngày 21/04 National Basketball Association", New York Knicks vs Atlanta Hawks 07:00 ngày 21/04 National Basketball Association (Link 2)
 https://cdn-hls.taoxanh.biz/live/69e6b7fd203f3_72787/index.m3u8?expire=1777332861&amp;sign=0dea8c0848884439e079628c7ba66aee
-#EXTINF:-1 tvg-id="601389283" group-title="Santos (w) vs Atletico Mineiro (w) 05:00 ngày 21/04 Campeonato Brasileiro de Futebol Feminino Série A1", Santos (w) vs Atletico Mineiro (w) 05:00 ngày 21/04 Campeonato Brasileiro de Futebol Feminino Série A1
-https://live.alilicloud.com/live/d79843a6bd798e38c21d0820aab3c958/playlist.m3u8
-#EXTINF:-1 tvg-id="601389286" group-title="Sao Paulo/SP (w) vs Gremio (w) 05:00 ngày 21/04 Campeonato Brasileiro de Futebol Feminino Série A1", Sao Paulo/SP (w) vs Gremio (w) 05:00 ngày 21/04 Campeonato Brasileiro de Futebol Feminino Série A1
-https://live.alilicloud.com/live/f19d6db7abcd1aa32764d6c323c9f22f/playlist.m3u8
-#EXTINF:-1 tvg-id="601389295" group-title="Atletico Rafaela vs Agropecuario de Carlos Casares 06:00 ngày 21/04 Argentine Division 2", Atletico Rafaela vs Agropecuario de Carlos Casares 06:00 ngày 21/04 Argentine Division 2
-https://live.alilicloud.com/live/bb179e35bcbe50bb24161288608bd35d/playlist.m3u8
-#EXTINF:-1 tvg-id="601389298" group-title="Floresta CE vs Ferroviaria SP 06:00 ngày 21/04 Brazilian Serie C", Floresta CE vs Ferroviaria SP 06:00 ngày 21/04 Brazilian Serie C
-https://live.alilicloud.com/live/4c638e91175afcf1041fc9a1e7d80360/playlist.m3u8
-#EXTINF:-1 tvg-id="601389301" group-title="Maringa FC vs Brusque FC 06:00 ngày 21/04 Brazilian Serie C", Maringa FC vs Brusque FC 06:00 ngày 21/04 Brazilian Serie C
-https://live.alilicloud.com/live/6c9e20835b22f5f831ad89d3c61e5ada/playlist.m3u8
-#EXTINF:-1 tvg-id="601389310" group-title="CA Penarol vs CA Juventud 06:30 ngày 21/04 Uruguay Primera Division", CA Penarol vs CA Juventud 06:30 ngày 21/04 Uruguay Primera Division
-https://live.alilicloud.com/live/50ca038bec27e93238eca2dfbe58a578/playlist.m3u8
-#EXTINF:-1 tvg-id="601389328" group-title="Gimnasia y Esgrima de Mendoza vs Club Atlético Lanús 07:45 ngày 21/04 Argentine Division 1", Gimnasia y Esgrima de Mendoza vs Club Atlético Lanús 07:45 ngày 21/04 Argentine Division 1
-https://cdn-hls.taoxanh.biz/live/69e6bb7342281_88642/index.m3u8?expire=1777333747&amp;sign=f556a4360799f7cc01e800a9abd3ea28
+#EXTINF:-1 tvg-id="601389703" group-title="New York Knicks vs Atlanta Hawks 07:00 ngày 21/04 National Basketball Association", New York Knicks vs Atlanta Hawks 07:00 ngày 21/04 National Basketball Association (Link 3)
+https://live.alilicloud.com/live/82ac24967096f2e3dcbd9ddc09fbcada/playlist.m3u8
+#EXTINF:-1 tvg-id="601389709" group-title="Denver Nuggets vs Minnesota Timberwolves 09:30 ngày 21/04 National Basketball Association", Denver Nuggets vs Minnesota Timberwolves 09:30 ngày 21/04 National Basketball Association (Link 1)
+https://cdn-hls.taoxanh.biz/live/69e6d4de42281_42127/index.m3u8?expire=1777340254&amp;sign=5cc5a02b2e99f471c6a2d28387f4b4a5
+#EXTINF:-1 tvg-id="601389709" group-title="Denver Nuggets vs Minnesota Timberwolves 09:30 ngày 21/04 National Basketball Association", Denver Nuggets vs Minnesota Timberwolves 09:30 ngày 21/04 National Basketball Association (Link 2)
+https://cdn-hls.taoxanh.biz/live/69e6d546203f3_153967/index.m3u8?expire=1777340358&amp;sign=68480863a7fd9651b542d94cf785883e
+#EXTINF:-1 tvg-id="601389709" group-title="Denver Nuggets vs Minnesota Timberwolves 09:30 ngày 21/04 National Basketball Association", Denver Nuggets vs Minnesota Timberwolves 09:30 ngày 21/04 National Basketball Association (Link 3)
+https://live.alilicloud.com/live/c78557d0025ec07ae0db903227b9e630/playlist.m3u8
+#EXTINF:-1 tvg-id="601389316" group-title="Univ Catolica vs Union La Calera 07:30 ngày 21/04 Chilean Primera Division", Univ Catolica vs Union La Calera 07:30 ngày 21/04 Chilean Primera Division
+https://live.alilicloud.com/live/b65e8b50db9939504fcab3ebbbafa150/playlist.m3u8
+#EXTINF:-1 tvg-id="601389334" group-title="Juarez FC (w) vs Chivas Guadalajara (w) 08:06 ngày 21/04 Mexico Liga MX Femenil", Juarez FC (w) vs Chivas Guadalajara (w) 08:06 ngày 21/04 Mexico Liga MX Femenil
+https://live.alilicloud.com/live/b598247bb5c99831ce3a7121f8d0adb4/playlist.m3u8
