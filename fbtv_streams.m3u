@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601392337" group-title="Brighton Hove Albion vs Chelsea 02:00 ngày 22/04 English Premier League", Brighton Hove Albion vs Chelsea 02:00 ngày 22/04 English Premier League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69e7bf05203f3_79/index.m3u8?expire=1777400197&amp;sign=b2dd2b67ee898cc9d5875d1fdecc7ba1
-#EXTINF:-1 tvg-id="601392337" group-title="Brighton Hove Albion vs Chelsea 02:00 ngày 22/04 English Premier League", Brighton Hove Albion vs Chelsea 02:00 ngày 22/04 English Premier League (Link 2)
-https://cdn-hls.taoxanh.biz/live/69e7c09042281_4908/index.m3u8?expire=1777400592&amp;sign=a7e981e1431ce0ec1b96a994009649c0
-#EXTINF:-1 tvg-id="601392337" group-title="Brighton Hove Albion vs Chelsea 02:00 ngày 22/04 English Premier League", Brighton Hove Albion vs Chelsea 02:00 ngày 22/04 English Premier League (Link 3)
-https://live.alilicloud.com/live/e77ca1d8317e59b5166e19180af8ee5c/playlist.m3u8
 #EXTINF:-1 tvg-id="601392358" group-title="Real Madrid vs Deportivo Alavés 02:30 ngày 22/04 Spanish La Liga", Real Madrid vs Deportivo Alavés 02:30 ngày 22/04 Spanish La Liga (Link 1)
 https://cdn-hls.taoxanh.biz/live/69e7c730203f3_151255/index.m3u8?expire=1777402288&amp;sign=7651beed7a610cc2047d6fd4a5dff5ea
 #EXTINF:-1 tvg-id="601392358" group-title="Real Madrid vs Deportivo Alavés 02:30 ngày 22/04 Spanish La Liga", Real Madrid vs Deportivo Alavés 02:30 ngày 22/04 Spanish La Liga (Link 2)
@@ -13,64 +7,24 @@ https://cdn-hls.taoxanh.biz/live/69e7c60542281_28/index.m3u8?expire=1777401989&a
 https://cdn-hls.taoxanh.biz/live/69e7c9e6203f3_85514/index.m3u8?expire=1777402982&amp;sign=865995788fb144fe5743fc550f9ba6f8
 #EXTINF:-1 tvg-id="601392358" group-title="Real Madrid vs Deportivo Alavés 02:30 ngày 22/04 Spanish La Liga", Real Madrid vs Deportivo Alavés 02:30 ngày 22/04 Spanish La Liga (Link 4)
 https://live.alilicloud.com/live/55d2007690113bbb3414dd4bd957708e/playlist.m3u8
-#EXTINF:-1 tvg-id="601392346" group-title="Inter Milan vs Como 02:00 ngày 22/04 Coppa Italia", Inter Milan vs Como 02:00 ngày 22/04 Coppa Italia (Link 1)
-https://cdn-hls.taoxanh.biz/live/69e7becb42281_128756/index.m3u8?expire=1777400139&amp;sign=6f2a4097777d5665734ed56e43f0b920
-#EXTINF:-1 tvg-id="601392346" group-title="Inter Milan vs Como 02:00 ngày 22/04 Coppa Italia", Inter Milan vs Como 02:00 ngày 22/04 Coppa Italia (Link 2)
-https://live.alilicloud.com/live/fe65ae8c039ed5f248edf1165fbc227e/playlist.m3u8
-#EXTINF:-1 tvg-id="601392313" group-title="Leicester City vs Hull City 01:45 ngày 22/04 English Football League Championship", Leicester City vs Hull City 01:45 ngày 22/04 English Football League Championship (Link 1)
-https://cdn-hls.taoxanh.biz/live/69e7b31642281_72787/index.m3u8?expire=1777397142&amp;sign=7db89daad404f2c5c57ac2d387c38bb8
-#EXTINF:-1 tvg-id="601392313" group-title="Leicester City vs Hull City 01:45 ngày 22/04 English Football League Championship", Leicester City vs Hull City 01:45 ngày 22/04 English Football League Championship (Link 2)
-https://live.alilicloud.com/live/2bb0dc52ec23d6f6f8b53739ecb87107/playlist.m3u8
-#EXTINF:-1 tvg-id="601392310" group-title="Queens Park Rangers vs Swansea City 01:45 ngày 22/04 English Football League Championship", Queens Park Rangers vs Swansea City 01:45 ngày 22/04 English Football League Championship (Link 1)
-https://cdn-hls.taoxanh.biz/live/69e7be0b203f3_124958/index.m3u8?expire=1777399947&amp;sign=0a8079eba3369fa0cda649440fd615d2
-#EXTINF:-1 tvg-id="601392310" group-title="Queens Park Rangers vs Swansea City 01:45 ngày 22/04 English Football League Championship", Queens Park Rangers vs Swansea City 01:45 ngày 22/04 English Football League Championship (Link 2)
-https://live.alilicloud.com/live/682cb5505cf6883ddcec49a397ca918f/playlist.m3u8
-#EXTINF:-1 tvg-id="601392307" group-title="Oxford United vs Wrexham 01:45 ngày 22/04 English Football League Championship", Oxford United vs Wrexham 01:45 ngày 22/04 English Football League Championship (Link 1)
-https://cdn-hls.taoxanh.biz/live/69e7bda042281_74012/index.m3u8?expire=1777399840&amp;sign=0ad036ec801036af08f1afae6bd1d88b
-#EXTINF:-1 tvg-id="601392307" group-title="Oxford United vs Wrexham 01:45 ngày 22/04 English Football League Championship", Oxford United vs Wrexham 01:45 ngày 22/04 English Football League Championship (Link 2)
-https://live.alilicloud.com/live/69e30c4f53e8229f1c3ce20bce3adad5/playlist.m3u8
-#EXTINF:-1 tvg-id="601392304" group-title="West Bromwich Albion vs Watford 01:45 ngày 22/04 English Football League Championship", West Bromwich Albion vs Watford 01:45 ngày 22/04 English Football League Championship (Link 1)
-https://cdn-hls.taoxanh.biz/live/69e7bddb203f3_95554/index.m3u8?expire=1777399899&amp;sign=16557b0781de16389d097734901426c0
-#EXTINF:-1 tvg-id="601392304" group-title="West Bromwich Albion vs Watford 01:45 ngày 22/04 English Football League Championship", West Bromwich Albion vs Watford 01:45 ngày 22/04 English Football League Championship (Link 2)
-https://live.alilicloud.com/live/b3c5c593451a7641394f84c153f1c027/playlist.m3u8
-#EXTINF:-1 tvg-id="601392301" group-title="Stoke City vs Millwall 01:45 ngày 22/04 English Football League Championship", Stoke City vs Millwall 01:45 ngày 22/04 English Football League Championship (Link 1)
-https://cdn-hls.taoxanh.biz/live/69e75c3a203f3_88642/index.m3u8?expire=1777374906&amp;sign=e0d6f124ed77bfedc16244585f58ea67
-#EXTINF:-1 tvg-id="601392301" group-title="Stoke City vs Millwall 01:45 ngày 22/04 English Football League Championship", Stoke City vs Millwall 01:45 ngày 22/04 English Football League Championship (Link 2)
-https://live.alilicloud.com/live/6db80094e2ccf2c64135934370cc7572/playlist.m3u8
-#EXTINF:-1 tvg-id="601392292" group-title="Coventry City vs Portsmouth 01:45 ngày 22/04 English Football League Championship", Coventry City vs Portsmouth 01:45 ngày 22/04 English Football League Championship (Link 1)
-https://cdn-hls.taoxanh.biz/live/69e7ad07203f3_18754/index.m3u8?expire=1777395591&amp;sign=d54cd50884faf6ca0e7b0b0d0e49e99c
-#EXTINF:-1 tvg-id="601392292" group-title="Coventry City vs Portsmouth 01:45 ngày 22/04 English Football League Championship", Coventry City vs Portsmouth 01:45 ngày 22/04 English Football League Championship (Link 2)
-https://live.alilicloud.com/live/a70461be704d774ac797d890a67b082f/playlist.m3u8
-#EXTINF:-1 tvg-id="601392298" group-title="Southampton vs Bristol City 01:45 ngày 22/04 English Football League Championship", Southampton vs Bristol City 01:45 ngày 22/04 English Football League Championship (Link 1)
-https://cdn-hls.taoxanh.biz/live/69e7c4e2203f3_73445/index.m3u8?expire=1777401698&amp;sign=24b6190d16325e56616d809c2641359e
-#EXTINF:-1 tvg-id="601392298" group-title="Southampton vs Bristol City 01:45 ngày 22/04 English Football League Championship", Southampton vs Bristol City 01:45 ngày 22/04 English Football League Championship (Link 2)
-https://live.alilicloud.com/live/7b0ec06e3d223e3bd160fef2260e8569/playlist.m3u8
-#EXTINF:-1 tvg-id="601392352" group-title="RC Lens vs Toulouse FC 02:10 ngày 22/04 Coupe de France", RC Lens vs Toulouse FC 02:10 ngày 22/04 Coupe de France (Link 1)
-https://cdn-hls.taoxanh.biz/live/69e7c83142281_133172/index.m3u8?expire=1777402545&amp;sign=6498d4c833309b12ad5243df8cc48365
-#EXTINF:-1 tvg-id="601392352" group-title="RC Lens vs Toulouse FC 02:10 ngày 22/04 Coupe de France", RC Lens vs Toulouse FC 02:10 ngày 22/04 Coupe de France (Link 2)
-https://live.alilicloud.com/live/6bb3e1b52319013fd93a008aee3e7a9d/playlist.m3u8
-#EXTINF:-1 tvg-id="601392355" group-title="Girona FC vs Real Betis 02:30 ngày 22/04 Spanish La Liga", Girona FC vs Real Betis 02:30 ngày 22/04 Spanish La Liga (Link 1)
-https://cdn-hls.taoxanh.biz/live/69e7c4fe42281_88186/index.m3u8?expire=1777401726&amp;sign=eeb64cb6f30de7924d5078cfae350d59
-#EXTINF:-1 tvg-id="601392355" group-title="Girona FC vs Real Betis 02:30 ngày 22/04 Spanish La Liga", Girona FC vs Real Betis 02:30 ngày 22/04 Spanish La Liga (Link 2)
-https://live.alilicloud.com/live/20518821351f0036b5d713d9de23c43f/playlist.m3u8
-#EXTINF:-1 tvg-id="601392319" group-title="Dunfermline Athletic vs Saint Johnstone 01:45 ngày 22/04 Scottish Championship", Dunfermline Athletic vs Saint Johnstone 01:45 ngày 22/04 Scottish Championship
-https://live.alilicloud.com/live/0ebb2d630a7280126186d2992ef26fe5/playlist.m3u8
-#EXTINF:-1 tvg-id="601392349" group-title="Universitario De Vinto vs AcademiaDB 02:00 ngày 22/04 Bolivian Primera Division", Universitario De Vinto vs AcademiaDB 02:00 ngày 22/04 Bolivian Primera Division
-https://live.alilicloud.com/live/9bb1a9fd964c06bb2813ec2a2cb34ecc/playlist.m3u8
 #EXTINF:-1 tvg-id="601392361" group-title="Botafogo RJ vs Chapecoense SC 03:00 ngày 22/04 Brazilian Cup", Botafogo RJ vs Chapecoense SC 03:00 ngày 22/04 Brazilian Cup
 https://live.alilicloud.com/live/4828c8fb30139c153714949c787ca0a2/playlist.m3u8
-#EXTINF:-1 tvg-id="601389280" group-title="Rubio nu vs Club Libertad Asunción 03:00 ngày 22/04 Paraguayan Primera Division", Rubio nu vs Club Libertad Asunción 03:00 ngày 22/04 Paraguayan Primera Division
-https://live.alilicloud.com/live/352b245a35858d78eb6110732a07b57c/playlist.m3u8
-#EXTINF:-1 tvg-id="601401727" group-title="Barcelona vs Crvena Zvezda Belgrade 01:45 ngày 22/04 EuroLeague", Barcelona vs Crvena Zvezda Belgrade 01:45 ngày 22/04 EuroLeague
-https://live.alilicloud.com/live/2a1518399f73ec1f8ae89629c6d15be1/playlist.m3u8
-#EXTINF:-1 tvg-id="601389784" group-title="A.D.Sousas Ourense vs Palencia Baloncesto 01:45 ngày 22/04 Spain Primera FEB", A.D.Sousas Ourense vs Palencia Baloncesto 01:45 ngày 22/04 Spain Primera FEB
-https://live.alilicloud.com/live/7ecb92f69e6ac046a9802ec0deb06997/playlist.m3u8
+#EXTINF:-1 tvg-id="601392370" group-title="Atletico Tucuman Reserve vs Central Cordoba SdE Reserves 04:00 ngày 22/04 Argentine Reserve League", Atletico Tucuman Reserve vs Central Cordoba SdE Reserves 04:00 ngày 22/04 Argentine Reserve League
+https://live.alilicloud.com/live/124799c3fc882c045e50f68e4b3a4093/playlist.m3u8
 #EXTINF:-1 tvg-id="601401730" group-title="Recife W vs Unimed Campinas Basquete (W) 03:00 ngày 22/04 Brazil Liga Feminina de Basquete", Recife W vs Unimed Campinas Basquete (W) 03:00 ngày 22/04 Brazil Liga Feminina de Basquete
 https://live.alilicloud.com/live/572f47c749cae9f3a651852dea9790e9/playlist.m3u8
+#EXTINF:-1 tvg-id="601407520" group-title="Pitagoras Minas vs Cruzeiro 04:00 ngày 22/04 Novo Basquete Brasil", Pitagoras Minas vs Cruzeiro 04:00 ngày 22/04 Novo Basquete Brasil
+https://live.alilicloud.com/live/322074a3b64d003d4e5a166013ec6d85/playlist.m3u8
+#EXTINF:-1 tvg-id="601402915" group-title="Maxime Chazal vs Millen Hurrion 01:30 ngày 22/04 ATP Challenger Abidjan, Cote d Ivoire Men Singles", Maxime Chazal vs Millen Hurrion 01:30 ngày 22/04 ATP Challenger Abidjan, Cote d Ivoire Men Singles
+https://live.alilicloud.com/live/b13ea1076e9d5d75b037ded675ae46d1/playlist.m3u8
+#EXTINF:-1 tvg-id="601412233" group-title="Cesar Bouchelaghem vs Jeremy Schifris 01:40 ngày 22/04 ATP Challenger Abidjan, Cote d Ivoire Men Singles", Cesar Bouchelaghem vs Jeremy Schifris 01:40 ngày 22/04 ATP Challenger Abidjan, Cote d Ivoire Men Singles
+https://live.alilicloud.com/live/ba4192148102aec73521de08bcd40b7b/playlist.m3u8
 #EXTINF:-1 tvg-id="601410790" group-title="Andrew Johnson vs Nishesh Basavareddy 02:15 ngày 22/04 ATP Challenger Savannah, USA Men Singles", Andrew Johnson vs Nishesh Basavareddy 02:15 ngày 22/04 ATP Challenger Savannah, USA Men Singles
 https://live.alilicloud.com/live/549a58f2d2aaf6152e4bdaf4299e1e06/playlist.m3u8
 #EXTINF:-1 tvg-id="601403080" group-title="Jeffrey John Wolf vs Thomas Faurel 02:45 ngày 22/04 ATP Challenger Savannah, USA Men Singles", Jeffrey John Wolf vs Thomas Faurel 02:45 ngày 22/04 ATP Challenger Savannah, USA Men Singles
 https://live.alilicloud.com/live/cb6adf7ae20c8ab8c46d724330b22006/playlist.m3u8
+#EXTINF:-1 tvg-id="601403092" group-title="Andres Andrade vs Oliver Crawford 03:25 ngày 22/04 ATP Challenger Savannah, USA Men Singles", Andres Andrade vs Oliver Crawford 03:25 ngày 22/04 ATP Challenger Savannah, USA Men Singles
+https://live.alilicloud.com/live/373de226062084f7d7ece47a58b6c9eb/playlist.m3u8
 #EXTINF:-1 tvg-id="601391005" group-title="Boston Celtics vs Philadelphia 76ers 06:00 ngày 22/04 National Basketball Association", Boston Celtics vs Philadelphia 76ers 06:00 ngày 22/04 National Basketball Association
 https://live.alilicloud.com/live/681456cedbe92ade96a1818d00069aaf/playlist.m3u8
 #EXTINF:-1 tvg-id="601391017" group-title="San Antonio Spurs vs Portland Trail Blazers 07:00 ngày 22/04 National Basketball Association", San Antonio Spurs vs Portland Trail Blazers 07:00 ngày 22/04 National Basketball Association
