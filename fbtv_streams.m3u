@@ -1,17 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601392418" group-title="Monterrey vs Puebla 10:05 ngày 22/04 Mexico Liga MX", Monterrey vs Puebla 10:05 ngày 22/04 Mexico Liga MX (Link 1)
-https://cdn-hls.taoxanh.biz/live/69e82a1f42281_136682/index.m3u8?expire=1777427615&amp;sign=5eee3ccfdd8c6cae66b8025e4400453a
-#EXTINF:-1 tvg-id="601392418" group-title="Monterrey vs Puebla 10:05 ngày 22/04 Mexico Liga MX", Monterrey vs Puebla 10:05 ngày 22/04 Mexico Liga MX (Link 2)
-https://live.alilicloud.com/live/d9d4353df8173b98abf099a2a1f551e3/playlist.m3u8
-#EXTINF:-1 tvg-id="601392421" group-title="Club Leon vs Club America 10:10 ngày 22/04 Mexico Liga MX", Club Leon vs Club America 10:10 ngày 22/04 Mexico Liga MX (Link 1)
-https://cdn-hls.taoxanh.biz/live/69e83135203f3_128756/index.m3u8?expire=1777429429&amp;sign=b39dc43d2035285affddac99d6488b25
-#EXTINF:-1 tvg-id="601392421" group-title="Club Leon vs Club America 10:10 ngày 22/04 Mexico Liga MX", Club Leon vs Club America 10:10 ngày 22/04 Mexico Liga MX (Link 2)
-https://live.alilicloud.com/live/566dba02ed88ababfc88598802b9227a/playlist.m3u8
-#EXTINF:-1 tvg-id="601389730" group-title="Los Angeles Lakers vs Houston Rockets 09:30 ngày 22/04 National Basketball Association", Los Angeles Lakers vs Houston Rockets 09:30 ngày 22/04 National Basketball Association
-https://live.alilicloud.com/live/a89d98420565583fa2eb2987a7a07085/playlist.m3u8
-#EXTINF:-1 tvg-id="601411246" group-title="Los Angeles Lakers vs Houston Rockets 09:30 ngày 22/04 NBA", Los Angeles Lakers vs Houston Rockets 09:30 ngày 22/04 NBA (Link 1)
-https://cdn-hls.taoxanh.biz/live/69e82c3a42281_4733/index.m3u8?expire=1777428154&amp;sign=d31796df22b7cadf93709df137406ed7
-#EXTINF:-1 tvg-id="601411246" group-title="Los Angeles Lakers vs Houston Rockets 09:30 ngày 22/04 NBA", Los Angeles Lakers vs Houston Rockets 09:30 ngày 22/04 NBA (Link 2)
-https://cdn-hls.taoxanh.biz/live/69e8356142281_42127/index.m3u8?expire=1777430497&amp;sign=01e116400b05e45ba079fcba0458f7b5
-#EXTINF:-1 tvg-id="601392415" group-title="Cartagines Deportiva SA vs AD San Carlos 09:00 ngày 22/04 Costa Rica Primera Division", Cartagines Deportiva SA vs AD San Carlos 09:00 ngày 22/04 Costa Rica Primera Division
-https://live.alilicloud.com/live/1ccd41142ada0d979ab88be5f2adff47/playlist.m3u8
+#EXTINF:-1 tvg-id="601412596" group-title="FU JIAN BO vs Ko Pin Yi 11:00 ngày 22/04 Duya Legends Golden Nine International Classic", FU JIAN BO vs Ko Pin Yi 11:00 ngày 22/04 Duya Legends Golden Nine International Classic
+https://cdn-hls.taoxanh.biz/live/69e846ea203f3_103/index.m3u8?expire=1777434986&amp;sign=618f0b246fd9da9d5a8a2fe8686bf4e2
+#EXTINF:-1 tvg-id="601412602" group-title="Fu Jen University vs National Chung Hsing University 11:00 ngày 22/04 Chinese Taipei University Championship", Fu Jen University vs National Chung Hsing University 11:00 ngày 22/04 Chinese Taipei University Championship
+https://live.alilicloud.com/live/605c172b237f8c1d0e2da917a72264a1/playlist.m3u8
+#EXTINF:-1 tvg-id="601392424" group-title="Nanjing Longsheng vs Ji'nan Linksafe 12:00 ngày 22/04 Chinese Football Association Member Association Champions League", Nanjing Longsheng vs Ji'nan Linksafe 12:00 ngày 22/04 Chinese Football Association Member Association Champions League
+https://live.alilicloud.com/live/224260b45580d00df858c049fb326b6d/playlist.m3u8
+#EXTINF:-1 tvg-id="601392427" group-title="Yangzhou Sanwan Ledao vs Shanghai Zetian 12:00 ngày 22/04 Chinese Football Association Member Association Champions League", Yangzhou Sanwan Ledao vs Shanghai Zetian 12:00 ngày 22/04 Chinese Football Association Member Association Champions League
+https://live.alilicloud.com/live/12950c17931ed69b5745f7668f3a2b5f/playlist.m3u8
+#EXTINF:-1 tvg-id="601391167" group-title="Sandro Kopp vs Sergey Fomin 12:00 ngày 22/04 ATP Challenger Shymkent, Kazakhstan Men Singles", Sandro Kopp vs Sergey Fomin 12:00 ngày 22/04 ATP Challenger Shymkent, Kazakhstan Men Singles
+https://live.alilicloud.com/live/c4409003cde1c6b761b59d78b7cd4c8a/playlist.m3u8
+#EXTINF:-1 tvg-id="601391179" group-title="Radu Albot vs Antoine Ghibaudo 12:00 ngày 22/04 ATP Challenger Shymkent, Kazakhstan Men Singles", Radu Albot vs Antoine Ghibaudo 12:00 ngày 22/04 ATP Challenger Shymkent, Kazakhstan Men Singles
+https://live.alilicloud.com/live/43fd744f01d9b2014e876a8db869d0cc/playlist.m3u8
+#EXTINF:-1 tvg-id="601391185" group-title="Max Wiskandt vs Gilles Arnaud Bailly 12:00 ngày 22/04 ATP Challenger Shymkent, Kazakhstan Men Singles", Max Wiskandt vs Gilles Arnaud Bailly 12:00 ngày 22/04 ATP Challenger Shymkent, Kazakhstan Men Singles
+https://live.alilicloud.com/live/01f905636cb49da14024e9f2f1fe0c71/playlist.m3u8
