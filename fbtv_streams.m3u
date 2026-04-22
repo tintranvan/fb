@@ -1,15 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="601412596" group-title="FU JIAN BO vs Ko Pin Yi 11:00 ngày 22/04 Duya Legends Golden Nine International Classic", FU JIAN BO vs Ko Pin Yi 11:00 ngày 22/04 Duya Legends Golden Nine International Classic
 https://cdn-hls.taoxanh.biz/live/69e846ea203f3_103/index.m3u8?expire=1777434986&amp;sign=618f0b246fd9da9d5a8a2fe8686bf4e2
-#EXTINF:-1 tvg-id="601412602" group-title="Fu Jen University vs National Chung Hsing University 11:00 ngày 22/04 Chinese Taipei University Championship", Fu Jen University vs National Chung Hsing University 11:00 ngày 22/04 Chinese Taipei University Championship
-https://live.alilicloud.com/live/605c172b237f8c1d0e2da917a72264a1/playlist.m3u8
-#EXTINF:-1 tvg-id="601392424" group-title="Nanjing Longsheng vs Ji'nan Linksafe 12:00 ngày 22/04 Chinese Football Association Member Association Champions League", Nanjing Longsheng vs Ji'nan Linksafe 12:00 ngày 22/04 Chinese Football Association Member Association Champions League
-https://live.alilicloud.com/live/224260b45580d00df858c049fb326b6d/playlist.m3u8
-#EXTINF:-1 tvg-id="601392427" group-title="Yangzhou Sanwan Ledao vs Shanghai Zetian 12:00 ngày 22/04 Chinese Football Association Member Association Champions League", Yangzhou Sanwan Ledao vs Shanghai Zetian 12:00 ngày 22/04 Chinese Football Association Member Association Champions League
-https://live.alilicloud.com/live/12950c17931ed69b5745f7668f3a2b5f/playlist.m3u8
+#EXTINF:-1 tvg-id="601412674" group-title="National Tsinghua University vs Taiwan University 14:00 ngày 22/04 Chinese Taipei University Championship", National Tsinghua University vs Taiwan University 14:00 ngày 22/04 Chinese Taipei University Championship
+https://live.alilicloud.com/live/f3c3b072a32417a19d73aa8d7b55555f/playlist.m3u8
 #EXTINF:-1 tvg-id="601391167" group-title="Sandro Kopp vs Sergey Fomin 12:00 ngày 22/04 ATP Challenger Shymkent, Kazakhstan Men Singles", Sandro Kopp vs Sergey Fomin 12:00 ngày 22/04 ATP Challenger Shymkent, Kazakhstan Men Singles
 https://live.alilicloud.com/live/c4409003cde1c6b761b59d78b7cd4c8a/playlist.m3u8
-#EXTINF:-1 tvg-id="601391179" group-title="Radu Albot vs Antoine Ghibaudo 12:00 ngày 22/04 ATP Challenger Shymkent, Kazakhstan Men Singles", Radu Albot vs Antoine Ghibaudo 12:00 ngày 22/04 ATP Challenger Shymkent, Kazakhstan Men Singles
-https://live.alilicloud.com/live/43fd744f01d9b2014e876a8db869d0cc/playlist.m3u8
-#EXTINF:-1 tvg-id="601391185" group-title="Max Wiskandt vs Gilles Arnaud Bailly 12:00 ngày 22/04 ATP Challenger Shymkent, Kazakhstan Men Singles", Max Wiskandt vs Gilles Arnaud Bailly 12:00 ngày 22/04 ATP Challenger Shymkent, Kazakhstan Men Singles
-https://live.alilicloud.com/live/01f905636cb49da14024e9f2f1fe0c71/playlist.m3u8
+#EXTINF:-1 tvg-id="601391182" group-title="Bekkhan Atlangeriev vs Andrej Nedic 14:00 ngày 22/04 ATP Challenger Shymkent, Kazakhstan Men Singles", Bekkhan Atlangeriev vs Andrej Nedic 14:00 ngày 22/04 ATP Challenger Shymkent, Kazakhstan Men Singles
+https://live.alilicloud.com/live/2a57f9d6d465f4df40dd36e6ac5c2caf/playlist.m3u8
