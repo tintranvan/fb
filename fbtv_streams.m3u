@@ -1,23 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601392388" group-title="Brooklyn FC vs Sacramento Republic FC 06:00 ngày 22/04 USL Championship", Brooklyn FC vs Sacramento Republic FC 06:00 ngày 22/04 USL Championship (Link 1)
-https://cdn-hls.taoxanh.biz/live/69e7fcf542281_74012/index.m3u8?expire=1777416053&amp;sign=daf430512d8550eff3cf8c986824bb9b
-#EXTINF:-1 tvg-id="601392388" group-title="Brooklyn FC vs Sacramento Republic FC 06:00 ngày 22/04 USL Championship", Brooklyn FC vs Sacramento Republic FC 06:00 ngày 22/04 USL Championship (Link 2)
-https://live.alilicloud.com/live/498b6130fd9b9e33b65c4f7b6c9bfe1d/playlist.m3u8
-#EXTINF:-1 tvg-id="601391005" group-title="Boston Celtics vs Philadelphia 76ers 06:00 ngày 22/04 National Basketball Association", Boston Celtics vs Philadelphia 76ers 06:00 ngày 22/04 National Basketball Association
-https://live.alilicloud.com/live/681456cedbe92ade96a1818d00069aaf/playlist.m3u8
-#EXTINF:-1 tvg-id="601391017" group-title="San Antonio Spurs vs Portland Trail Blazers 07:00 ngày 22/04 National Basketball Association", San Antonio Spurs vs Portland Trail Blazers 07:00 ngày 22/04 National Basketball Association
-https://live.alilicloud.com/live/8eb8cf8ccc4b8b193c4431616d6dff77/playlist.m3u8
-#EXTINF:-1 tvg-id="601411240" group-title="Boston Celtics vs Philadelphia 76ers 06:00 ngày 22/04 NBA", Boston Celtics vs Philadelphia 76ers 06:00 ngày 22/04 NBA
-https://cdn-hls.taoxanh.biz/live/69e7fa92203f3_4733/index.m3u8?expire=1777415442&amp;sign=3ec9a098aa6f76fc05865820ea17fba9
-#EXTINF:-1 tvg-id="601411243" group-title="San Antonio Spurs vs Portland Trail Blazers 07:00 ngày 22/04 NBA", San Antonio Spurs vs Portland Trail Blazers 07:00 ngày 22/04 NBA (Link 1)
-https://cdn-hls.taoxanh.biz/live/69e8089f203f3_42127/index.m3u8?expire=1777419039&amp;sign=9f9fffc9645d5dd45ea8b66a88e81e8d
-#EXTINF:-1 tvg-id="601411243" group-title="San Antonio Spurs vs Portland Trail Blazers 07:00 ngày 22/04 NBA", San Antonio Spurs vs Portland Trail Blazers 07:00 ngày 22/04 NBA (Link 2)
-https://cdn-hls.taoxanh.biz/live/69e807e0203f3_153967/index.m3u8?expire=1777418848&amp;sign=c9bdb5e7d7b6d8149b5bc681064a8eaf
-#EXTINF:-1 tvg-id="601392382" group-title="Sao Paulo vs Juventude 05:15 ngày 22/04 Brazilian Cup", Sao Paulo vs Juventude 05:15 ngày 22/04 Brazilian Cup
-https://live.alilicloud.com/live/3f6bf8190394c2ee7410c210b6c2a391/playlist.m3u8
-#EXTINF:-1 tvg-id="601392385" group-title="Gremio (RS) vs AD Confiança 05:30 ngày 22/04 Brazilian Cup", Gremio (RS) vs AD Confiança 05:30 ngày 22/04 Brazilian Cup
-https://live.alilicloud.com/live/f16038f82b8b34556791ad969bb58958/playlist.m3u8
-#EXTINF:-1 tvg-id="601392391" group-title="CA Independiente Reserves vs Racing Club Reserves 06:00 ngày 22/04 Argentine Reserve League", CA Independiente Reserves vs Racing Club Reserves 06:00 ngày 22/04 Argentine Reserve League
-https://live.alilicloud.com/live/4cbec28b0e84bbe86717b8f0341d7a5c/playlist.m3u8
-#EXTINF:-1 tvg-id="601410763" group-title="Brittons Hill vs Bagatelle SS 06:00 ngày 22/04 Barbados Premier League", Brittons Hill vs Bagatelle SS 06:00 ngày 22/04 Barbados Premier League
-https://live.alilicloud.com/live/05df9486e0032261eb3513ba5a26dab5/playlist.m3u8
+#EXTINF:-1 tvg-id="601392418" group-title="Monterrey vs Puebla 10:05 ngày 22/04 Mexico Liga MX", Monterrey vs Puebla 10:05 ngày 22/04 Mexico Liga MX (Link 1)
+https://cdn-hls.taoxanh.biz/live/69e82a1f42281_136682/index.m3u8?expire=1777427615&amp;sign=5eee3ccfdd8c6cae66b8025e4400453a
+#EXTINF:-1 tvg-id="601392418" group-title="Monterrey vs Puebla 10:05 ngày 22/04 Mexico Liga MX", Monterrey vs Puebla 10:05 ngày 22/04 Mexico Liga MX (Link 2)
+https://live.alilicloud.com/live/d9d4353df8173b98abf099a2a1f551e3/playlist.m3u8
+#EXTINF:-1 tvg-id="601392421" group-title="Club Leon vs Club America 10:10 ngày 22/04 Mexico Liga MX", Club Leon vs Club America 10:10 ngày 22/04 Mexico Liga MX (Link 1)
+https://cdn-hls.taoxanh.biz/live/69e83135203f3_128756/index.m3u8?expire=1777429429&amp;sign=b39dc43d2035285affddac99d6488b25
+#EXTINF:-1 tvg-id="601392421" group-title="Club Leon vs Club America 10:10 ngày 22/04 Mexico Liga MX", Club Leon vs Club America 10:10 ngày 22/04 Mexico Liga MX (Link 2)
+https://live.alilicloud.com/live/566dba02ed88ababfc88598802b9227a/playlist.m3u8
+#EXTINF:-1 tvg-id="601389730" group-title="Los Angeles Lakers vs Houston Rockets 09:30 ngày 22/04 National Basketball Association", Los Angeles Lakers vs Houston Rockets 09:30 ngày 22/04 National Basketball Association
+https://live.alilicloud.com/live/a89d98420565583fa2eb2987a7a07085/playlist.m3u8
+#EXTINF:-1 tvg-id="601411246" group-title="Los Angeles Lakers vs Houston Rockets 09:30 ngày 22/04 NBA", Los Angeles Lakers vs Houston Rockets 09:30 ngày 22/04 NBA (Link 1)
+https://cdn-hls.taoxanh.biz/live/69e82c3a42281_4733/index.m3u8?expire=1777428154&amp;sign=d31796df22b7cadf93709df137406ed7
+#EXTINF:-1 tvg-id="601411246" group-title="Los Angeles Lakers vs Houston Rockets 09:30 ngày 22/04 NBA", Los Angeles Lakers vs Houston Rockets 09:30 ngày 22/04 NBA (Link 2)
+https://cdn-hls.taoxanh.biz/live/69e8356142281_42127/index.m3u8?expire=1777430497&amp;sign=01e116400b05e45ba079fcba0458f7b5
+#EXTINF:-1 tvg-id="601392415" group-title="Cartagines Deportiva SA vs AD San Carlos 09:00 ngày 22/04 Costa Rica Primera Division", Cartagines Deportiva SA vs AD San Carlos 09:00 ngày 22/04 Costa Rica Primera Division
+https://live.alilicloud.com/live/1ccd41142ada0d979ab88be5f2adff47/playlist.m3u8
