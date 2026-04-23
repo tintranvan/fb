@@ -1,34 +1,42 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601397929" group-title="Club Atletico Acassuso vs Gimnasia La Plata 05:00 ngày 23/04 Copa Argentina", Club Atletico Acassuso vs Gimnasia La Plata 05:00 ngày 23/04 Copa Argentina (Link 1)
-https://cdn-hls.taoxanh.biz/live/69e93b2b42281_128756/index.m3u8?expire=1777497515&amp;sign=fd962c2aad9b595988213a7bd6ba097c
-#EXTINF:-1 tvg-id="601397929" group-title="Club Atletico Acassuso vs Gimnasia La Plata 05:00 ngày 23/04 Copa Argentina", Club Atletico Acassuso vs Gimnasia La Plata 05:00 ngày 23/04 Copa Argentina (Link 2)
-https://live.alilicloud.com/live/0aacfb16ce8ffe580bb574a01cb52320/playlist.m3u8
-#EXTINF:-1 tvg-id="601393303" group-title="Santos vs Coritiba PR 05:30 ngày 23/04 Brazilian Cup", Santos vs Coritiba PR 05:30 ngày 23/04 Brazilian Cup (Link 1)
+#EXTINF:-1 tvg-id="601393303" group-title="Santos vs Coritiba PR 05:30 ngày 23/04 Brazilian Cup", Santos vs Coritiba PR 05:30 ngày 23/04 Brazilian Cup
 https://cdn-hls.taoxanh.biz/live/69e93325203f3_88642/index.m3u8?expire=1777495461&amp;sign=564f1cbafd3104764507216acbd7714b
-#EXTINF:-1 tvg-id="601393303" group-title="Santos vs Coritiba PR 05:30 ngày 23/04 Brazilian Cup", Santos vs Coritiba PR 05:30 ngày 23/04 Brazilian Cup (Link 2)
-https://live.alilicloud.com/live/45ea4efcfedd67c48c0a57fe43651eb2/playlist.m3u8
+#EXTINF:-1 tvg-id="601393324" group-title="Real Espana vs Platense 06:15 ngày 23/04 Honduras Primera Division", Real Espana vs Platense 06:15 ngày 23/04 Honduras Primera Division
+https://cdn-hls.taoxanh.biz/live/69e9484842281_124958/index.m3u8?expire=1777500872&amp;sign=7aeee30a99d27157c995a44243fed72d
+#EXTINF:-1 tvg-id="601393327" group-title="Dep.Independiente Medellin vs Boyaca Chico 06:20 ngày 23/04 Categoría Primera A", Dep.Independiente Medellin vs Boyaca Chico 06:20 ngày 23/04 Categoría Primera A (Link 1)
+https://cdn-hls.taoxanh.biz/live/69e951be203f3_133172/index.m3u8?expire=1777503294&amp;sign=92d48e8b3ad395f0b5e497d3278e5fb0
+#EXTINF:-1 tvg-id="601393327" group-title="Dep.Independiente Medellin vs Boyaca Chico 06:20 ngày 23/04 Categoría Primera A", Dep.Independiente Medellin vs Boyaca Chico 06:20 ngày 23/04 Categoría Primera A (Link 2)
+https://live.alilicloud.com/live/50b64c4ed184c11ebf6a54e826b6e792/playlist.m3u8
+#EXTINF:-1 tvg-id="601393333" group-title="New York City FC vs FC Cincinnati 06:40 ngày 23/04 United States Major League Soccer", New York City FC vs FC Cincinnati 06:40 ngày 23/04 United States Major League Soccer
+https://live.alilicloud.com/live/329263bc523aaca2e6507dd9184a832d/playlist.m3u8
 #EXTINF:-1 tvg-id="601393675" group-title="Detroit Pistons vs Orlando Magic 06:00 ngày 23/04 National Basketball Association", Detroit Pistons vs Orlando Magic 06:00 ngày 23/04 National Basketball Association
 https://live.alilicloud.com/live/f90f2d698541a3d56808fa30ffa18167/playlist.m3u8
 #EXTINF:-1 tvg-id="601412782" group-title="Detroit Pistons vs Orlando Magic 06:00 ngày 23/04 NBA", Detroit Pistons vs Orlando Magic 06:00 ngày 23/04 NBA (Link 1)
 https://cdn-hls.taoxanh.biz/live/69e94e8f203f3_4733/index.m3u8?expire=1777502479&amp;sign=c0eed943807cf3ef4abb68455481cfa3
 #EXTINF:-1 tvg-id="601412782" group-title="Detroit Pistons vs Orlando Magic 06:00 ngày 23/04 NBA", Detroit Pistons vs Orlando Magic 06:00 ngày 23/04 NBA (Link 2)
 https://cdn-hls.taoxanh.biz/live/69e950ff42281_72787/index.m3u8?expire=1777503103&amp;sign=a0dd7de2257195cd358b024a177ceac1
-#EXTINF:-1 tvg-id="601393285" group-title="Itabaiana(SE) vs Botafogo PB 05:00 ngày 23/04 Brazilian Copa do Nordeste", Itabaiana(SE) vs Botafogo PB 05:00 ngày 23/04 Brazilian Copa do Nordeste
-https://live.alilicloud.com/live/daf7b9d344f737be9edbf5619b828522/playlist.m3u8
 #EXTINF:-1 tvg-id="601393288" group-title="Bahia vs Remo Belem (PA) 05:00 ngày 23/04 Brazilian Cup", Bahia vs Remo Belem (PA) 05:00 ngày 23/04 Brazilian Cup
 https://live.alilicloud.com/live/dbaa4ad4526a8b24ed0ab3423f81fd61/playlist.m3u8
 #EXTINF:-1 tvg-id="601393291" group-title="Goiás EC vs Cruzeiro Esporte Clube 05:00 ngày 23/04 Brazilian Cup", Goiás EC vs Cruzeiro Esporte Clube 05:00 ngày 23/04 Brazilian Cup
 https://live.alilicloud.com/live/5c9fec6f6b31d935f1c0246f42fa3a5b/playlist.m3u8
 #EXTINF:-1 tvg-id="601393300" group-title="Sarasota Paradise vs Corpus Christi FC 05:40 ngày 23/04 USL League One", Sarasota Paradise vs Corpus Christi FC 05:40 ngày 23/04 USL League One
 https://live.alilicloud.com/live/74a30e347df5ed1bdae79d2c9039d370/playlist.m3u8
+#EXTINF:-1 tvg-id="601393306" group-title="DC Power (W) vs Fort Lauderdale Utd (W) 06:00 ngày 23/04 USL Super League Women", DC Power (W) vs Fort Lauderdale Utd (W) 06:00 ngày 23/04 USL Super League Women
+https://live.alilicloud.com/live/259af410355d5528543e661fa9ff2953/playlist.m3u8
 #EXTINF:-1 tvg-id="601393309" group-title="Cusco FC vs FC Cajamarca 06:00 ngày 23/04 Peruvian Liga 1", Cusco FC vs FC Cajamarca 06:00 ngày 23/04 Peruvian Liga 1
 https://live.alilicloud.com/live/8e6d7842f456fcd19d9a4da9cee256ff/playlist.m3u8
-#EXTINF:-1 tvg-id="601393294" group-title="Real Potosi vs Club Guabira 05:00 ngày 23/04 Bolivian Primera Division", Real Potosi vs Club Guabira 05:00 ngày 23/04 Bolivian Primera Division
-https://live.alilicloud.com/live/a6d73b05318e6c1a449f48306905e767/playlist.m3u8
-#EXTINF:-1 tvg-id="601393312" group-title="Barcelona SC(ECU) vs Mushuc Runa 06:00 ngày 23/04 LigaPro Serie A", Barcelona SC(ECU) vs Mushuc Runa 06:00 ngày 23/04 LigaPro Serie A
-https://live.alilicloud.com/live/719011e7db148fb06dedfe12443e974a/playlist.m3u8
-#EXTINF:-1 tvg-id="601407532" group-title="Flamengo vs Uniao Corinthians 05:00 ngày 23/04 Novo Basquete Brasil", Flamengo vs Uniao Corinthians 05:00 ngày 23/04 Novo Basquete Brasil
-https://live.alilicloud.com/live/3c7cb4fe535a347f17838a76c7d2999e/playlist.m3u8
+#EXTINF:-1 tvg-id="601408861" group-title="Marilia Ac vs AA Portuguesa Santista 06:00 ngày 23/04 Brazilian Campeonato Paulista A3", Marilia Ac vs AA Portuguesa Santista 06:00 ngày 23/04 Brazilian Campeonato Paulista A3
+https://live.alilicloud.com/live/2cd4e2fc9f767c1bf0dbf839a10961d0/playlist.m3u8
+#EXTINF:-1 tvg-id="601393348" group-title="Athletic Club vs Internacional RS 06:30 ngày 23/04 Brazilian Cup", Athletic Club vs Internacional RS 06:30 ngày 23/04 Brazilian Cup
+https://live.alilicloud.com/live/89996fe2ef3e345a5969142d75bbd006/playlist.m3u8
+#EXTINF:-1 tvg-id="601393345" group-title="Rhode Island vs Charleston Battery 06:30 ngày 23/04 USL Championship", Rhode Island vs Charleston Battery 06:30 ngày 23/04 USL Championship
+https://live.alilicloud.com/live/434fedc92cf29542fe39b620b16cadea/playlist.m3u8
+#EXTINF:-1 tvg-id="601393339" group-title="Orlando City vs Charlotte FC 06:40 ngày 23/04 United States Major League Soccer", Orlando City vs Charlotte FC 06:40 ngày 23/04 United States Major League Soccer
+https://live.alilicloud.com/live/2533a7ec91d87db99161255b8adc98c0/playlist.m3u8
+#EXTINF:-1 tvg-id="601393342" group-title="Toronto FC vs Philadelphia Union 06:40 ngày 23/04 United States Major League Soccer", Toronto FC vs Philadelphia Union 06:40 ngày 23/04 United States Major League Soccer
+https://live.alilicloud.com/live/09bc22d5791efacb0fafe56d8fd91cf1/playlist.m3u8
+#EXTINF:-1 tvg-id="601393354" group-title="Atlanta United vs New England Revolution 06:45 ngày 23/04 United States Major League Soccer", Atlanta United vs New England Revolution 06:45 ngày 23/04 United States Major League Soccer
+https://live.alilicloud.com/live/301d43ba7de1c416b3145b4f67d6d77d/playlist.m3u8
 #EXTINF:-1 tvg-id="601401784" group-title="ADRM/Maringa Women vs Sao Jose Women 05:30 ngày 23/04 Brazil Liga Feminina de Basquete", ADRM/Maringa Women vs Sao Jose Women 05:30 ngày 23/04 Brazil Liga Feminina de Basquete
 https://live.alilicloud.com/live/b56d7c6188e581f67894975f3f498e4a/playlist.m3u8
 #EXTINF:-1 tvg-id="601407535" group-title="Vivo Franca vs Botafogo 05:30 ngày 23/04 Novo Basquete Brasil", Vivo Franca vs Botafogo 05:30 ngày 23/04 Novo Basquete Brasil
@@ -37,11 +45,11 @@ https://live.alilicloud.com/live/06d5cba45269b730d647c4ae5f62729b/playlist.m3u8
 https://live.alilicloud.com/live/f7e7bbf766bb6f57e2200cb2541abd70/playlist.m3u8
 #EXTINF:-1 tvg-id="601407541" group-title="CAIXA Brasília Basquete vs Caxias do Sul 06:00 ngày 23/04 Novo Basquete Brasil", CAIXA Brasília Basquete vs Caxias do Sul 06:00 ngày 23/04 Novo Basquete Brasil
 https://live.alilicloud.com/live/a997fe2bb6c0f6706bed9030f1abf24b/playlist.m3u8
-#EXTINF:-1 tvg-id="601393324" group-title="Real Espana vs Platense 06:15 ngày 23/04 Honduras Primera Division", Real Espana vs Platense 06:15 ngày 23/04 Honduras Primera Division
-https://cdn-hls.taoxanh.biz/live/69e9484842281_124958/index.m3u8?expire=1777500872&amp;sign=7aeee30a99d27157c995a44243fed72d
-#EXTINF:-1 tvg-id="601393327" group-title="Dep.Independiente Medellin vs Boyaca Chico 06:20 ngày 23/04 Categoría Primera A", Dep.Independiente Medellin vs Boyaca Chico 06:20 ngày 23/04 Categoría Primera A
-https://cdn-hls.taoxanh.biz/live/69e951be203f3_133172/index.m3u8?expire=1777503294&amp;sign=92d48e8b3ad395f0b5e497d3278e5fb0
 #EXTINF:-1 tvg-id="601397935" group-title="Deportivo Moron vs Ferrocarril Midland 07:15 ngày 23/04 Copa Argentina", Deportivo Moron vs Ferrocarril Midland 07:15 ngày 23/04 Copa Argentina
 https://cdn-hls.taoxanh.biz/live/69e8eee0203f3_6308/index.m3u8?expire=1777477984&amp;sign=8cd520c61afd4988d0b5c3a772369c8b
+#EXTINF:-1 tvg-id="601393366" group-title="Houston Dynamo vs San Diego FC 07:30 ngày 23/04 United States Major League Soccer", Houston Dynamo vs San Diego FC 07:30 ngày 23/04 United States Major League Soccer
+https://cdn-hls.taoxanh.biz/live/69e954b642281_136682/index.m3u8?expire=1777504054&amp;sign=3618f43de6698815db645872a207f4a6
+#EXTINF:-1 tvg-id="601393375" group-title="Red Bull Bragantino vs Mirassol 07:30 ngày 23/04 Brazilian Cup", Red Bull Bragantino vs Mirassol 07:30 ngày 23/04 Brazilian Cup
+https://cdn-hls.taoxanh.biz/live/69e95fbc203f3_88642/index.m3u8?expire=1777506876&amp;sign=0b9a6e85d767d017d29cca854ea2c38d
 #EXTINF:-1 tvg-id="601393690" group-title="Oklahoma City Thunder vs Phoenix Suns 08:30 ngày 23/04 National Basketball Association", Oklahoma City Thunder vs Phoenix Suns 08:30 ngày 23/04 National Basketball Association
 https://live.alilicloud.com/live/999e088b381f6250d72fca28b23abd9e/playlist.m3u8
