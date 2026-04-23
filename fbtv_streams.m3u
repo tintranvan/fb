@@ -1,19 +1,41 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="601414519" group-title="Mirassol FC Youth vs Ceara (Youth) 05:00 ngày 24/04 Brazilian Youth Championship", Mirassol FC Youth vs Ceara (Youth) 05:00 ngày 24/04 Brazilian Youth Championship
 https://cdn-hls.taoxanh.biz/live/69ea8664203f3_88186/index.m3u8?expire=1777582308&amp;sign=8b686e4d38446f6ec8eb0a3b79734831
-#EXTINF:-1 tvg-id="601395202" group-title="Deportivo Cali (w) vs Junior (w) 03:30 ngày 24/04 Colombian Liga Betplay Femenina", Deportivo Cali (w) vs Junior (w) 03:30 ngày 24/04 Colombian Liga Betplay Femenina
-https://live.alilicloud.com/live/382292073186e0d61453c9bfb0b7e540/playlist.m3u8
-#EXTINF:-1 tvg-id="601395208" group-title="Talleres Cordoba Reserve vs Belgrano Reserves 04:00 ngày 24/04 Argentine Reserve League", Talleres Cordoba Reserve vs Belgrano Reserves 04:00 ngày 24/04 Argentine Reserve League
-https://live.alilicloud.com/live/da4f750d8efc15b5099a893842c4eaa3/playlist.m3u8
+#EXTINF:-1 tvg-id="601395220" group-title="Palmeiras vs EC Jacuipense 05:30 ngày 24/04 Brazilian Cup", Palmeiras vs EC Jacuipense 05:30 ngày 24/04 Brazilian Cup (Link 1)
+https://cdn-hls.taoxanh.biz/live/69ea961842281_128756/index.m3u8?expire=1777586328&amp;sign=35981c5ef60316f194a77a93bd7a1da1
+#EXTINF:-1 tvg-id="601395220" group-title="Palmeiras vs EC Jacuipense 05:30 ngày 24/04 Brazilian Cup", Palmeiras vs EC Jacuipense 05:30 ngày 24/04 Brazilian Cup (Link 2)
+https://live.alilicloud.com/live/4a448f085ee13eed50380a3d42874b5d/playlist.m3u8
+#EXTINF:-1 tvg-id="601395223" group-title="Defensa Y Justicia vs Boca Juniors 06:00 ngày 24/04 Argentine Division 1", Defensa Y Justicia vs Boca Juniors 06:00 ngày 24/04 Argentine Division 1 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69ea9f0242281_74012/index.m3u8?expire=1777588610&amp;sign=cf5fa1885efd4c5af254ce2c11455c2c
+#EXTINF:-1 tvg-id="601395223" group-title="Defensa Y Justicia vs Boca Juniors 06:00 ngày 24/04 Argentine Division 1", Defensa Y Justicia vs Boca Juniors 06:00 ngày 24/04 Argentine Division 1 (Link 2)
+https://live.alilicloud.com/live/dcfce3b1191b1452c6c4cd822015965c/playlist.m3u8
+#EXTINF:-1 tvg-id="601395226" group-title="Deportivo Pasto vs Independiente Santa Fe 06:00 ngày 24/04 Categoría Primera A", Deportivo Pasto vs Independiente Santa Fe 06:00 ngày 24/04 Categoría Primera A (Link 1)
+https://cdn-hls.taoxanh.biz/live/69ea9923203f3_95554/index.m3u8?expire=1777587107&amp;sign=5097e0cd1084c4275751460742f7208a
+#EXTINF:-1 tvg-id="601395226" group-title="Deportivo Pasto vs Independiente Santa Fe 06:00 ngày 24/04 Categoría Primera A", Deportivo Pasto vs Independiente Santa Fe 06:00 ngày 24/04 Categoría Primera A (Link 2)
+https://live.alilicloud.com/live/66bd319b938361ffd3900cc017fb338a/playlist.m3u8
+#EXTINF:-1 tvg-id="601395853" group-title="Atlanta Hawks vs New York Knicks 06:00 ngày 24/04 National Basketball Association", Atlanta Hawks vs New York Knicks 06:00 ngày 24/04 National Basketball Association
+https://live.alilicloud.com/live/ee38a6c3ac9c393465825aa8fabdf81a/playlist.m3u8
+#EXTINF:-1 tvg-id="601414891" group-title="Atlanta Hawks vs New York Knicks 06:00 ngày 24/04 NBA", Atlanta Hawks vs New York Knicks 06:00 ngày 24/04 NBA (Link 1)
+https://cdn-hls.taoxanh.biz/live/69eaa26642281_72787/index.m3u8?expire=1777589478&amp;sign=06aba94c55a110cdb4e3ae7059cacdc0
+#EXTINF:-1 tvg-id="601414891" group-title="Atlanta Hawks vs New York Knicks 06:00 ngày 24/04 NBA", Atlanta Hawks vs New York Knicks 06:00 ngày 24/04 NBA (Link 2)
+https://cdn-hls.taoxanh.biz/live/69eaa0f4203f3_42127/index.m3u8?expire=1777589108&amp;sign=369ae51650614cceb4cb576ffb6f1116
 #EXTINF:-1 tvg-id="601411375" group-title="Dunbeholden FC vs Harbour View FC 04:30 ngày 24/04 Jamaica Premier League", Dunbeholden FC vs Harbour View FC 04:30 ngày 24/04 Jamaica Premier League
 https://live.alilicloud.com/live/219fed3dfaa889ed8f220afaeeef2473/playlist.m3u8
 #EXTINF:-1 tvg-id="601414516" group-title="Sporting Vereniging Notch vs Broki 04:30 ngày 24/04 SML", Sporting Vereniging Notch vs Broki 04:30 ngày 24/04 SML
 https://live.alilicloud.com/live/688de6cad47a4e8902e23d3218cf205a/playlist.m3u8
 #EXTINF:-1 tvg-id="601393267" group-title="Ituano  SP vs Ferroviaria SP 05:00 ngày 24/04 Brazilian Campeonato Paulista A2", Ituano  SP vs Ferroviaria SP 05:00 ngày 24/04 Brazilian Campeonato Paulista A2
 https://live.alilicloud.com/live/dedd474f5d77d93c0f7f4fe368b41067/playlist.m3u8
-#EXTINF:-1 tvg-id="601395220" group-title="Palmeiras vs EC Jacuipense 05:30 ngày 24/04 Brazilian Cup", Palmeiras vs EC Jacuipense 05:30 ngày 24/04 Brazilian Cup
-https://cdn-hls.taoxanh.biz/live/69ea961842281_128756/index.m3u8?expire=1777586328&amp;sign=35981c5ef60316f194a77a93bd7a1da1
+#EXTINF:-1 tvg-id="601395214" group-title="Atletico Mineiro vs Ceara 05:00 ngày 24/04 Brazilian Cup", Atletico Mineiro vs Ceara 05:00 ngày 24/04 Brazilian Cup
+https://live.alilicloud.com/live/f58a5a1987da74118b9bf345519ffa46/playlist.m3u8
+#EXTINF:-1 tvg-id="601395217" group-title="Millonarios (w) vs Llaneros Women 05:00 ngày 24/04 Colombian Liga Betplay Femenina", Millonarios (w) vs Llaneros Women 05:00 ngày 24/04 Colombian Liga Betplay Femenina
+https://live.alilicloud.com/live/cfa43e2363960e145fd1b2c689b709bc/playlist.m3u8
+#EXTINF:-1 tvg-id="601391239" group-title="Constantin Bittoun Kouzmine/Robert Strombachs vs Skander Mansouri/Maximilian Neuchrist 05:05 ngày 24/04 ATP Challenger Abidjan, Cote d Ivoire Men Doubles", Constantin Bittoun Kouzmine/Robert Strombachs vs Skander Mansouri/Maximilian Neuchrist 05:05 ngày 24/04 ATP Challenger Abidjan, Cote d Ivoire Men Doubles
+https://live.alilicloud.com/live/56245289d4f7785284ada17ef596af5e/playlist.m3u8
 #EXTINF:-1 tvg-id="601395232" group-title="Lobos UPNFM vs Genesis 06:15 ngày 24/04 Honduras Primera Division", Lobos UPNFM vs Genesis 06:15 ngày 24/04 Honduras Primera Division
 https://cdn-hls.taoxanh.biz/live/69ea8423203f3_88642/index.m3u8?expire=1777581731&amp;sign=4d0cc5683cd5fcff49f12faf5dae36cb
+#EXTINF:-1 tvg-id="601395868" group-title="Toronto Raptors vs Cleveland Cavaliers 07:00 ngày 24/04 National Basketball Association", Toronto Raptors vs Cleveland Cavaliers 07:00 ngày 24/04 National Basketball Association
+https://live.alilicloud.com/live/82d3785ef321c3eb92992feec7717d1c/playlist.m3u8
 #EXTINF:-1 tvg-id="601395250" group-title="Millonarios vs Deportes Tolima 08:00 ngày 24/04 Categoría Primera A", Millonarios vs Deportes Tolima 08:00 ngày 24/04 Categoría Primera A
 https://cdn-hls.taoxanh.biz/live/69e90bc2203f3_74012/index.m3u8?expire=1777485378&amp;sign=d92180dc0b7c01be655f16284e6a254e
+#EXTINF:-1 tvg-id="601395877" group-title="Minnesota Timberwolves vs Denver Nuggets 08:30 ngày 24/04 National Basketball Association", Minnesota Timberwolves vs Denver Nuggets 08:30 ngày 24/04 National Basketball Association
+https://live.alilicloud.com/live/5259289169c89f7c01db54ec178b181d/playlist.m3u8
