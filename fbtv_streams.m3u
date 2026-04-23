@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601395145" group-title="Damac vs Al-Okhdood 01:00 ngày 24/04 Saudi Professional League", Damac vs Al-Okhdood 01:00 ngày 24/04 Saudi Professional League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69ea523c42281_95554/index.m3u8?expire=1777568956&amp;sign=61487f6b79d767fc3159af04751ce401
-#EXTINF:-1 tvg-id="601395145" group-title="Damac vs Al-Okhdood 01:00 ngày 24/04 Saudi Professional League", Damac vs Al-Okhdood 01:00 ngày 24/04 Saudi Professional League (Link 2)
-https://live.alilicloud.com/live/9f80098f2eee16e728d6b788112db5a9/playlist.m3u8
-#EXTINF:-1 tvg-id="601395142" group-title="Rayo Vallecano vs RCD Espanyol de Barcelona 01:00 ngày 24/04 Spanish La Liga", Rayo Vallecano vs RCD Espanyol de Barcelona 01:00 ngày 24/04 Spanish La Liga (Link 1)
-https://cdn-hls.taoxanh.biz/live/69ea54a6203f3_151255/index.m3u8?expire=1777569574&amp;sign=35318905e6ff84d095a92b3224cb228e
-#EXTINF:-1 tvg-id="601395142" group-title="Rayo Vallecano vs RCD Espanyol de Barcelona 01:00 ngày 24/04 Spanish La Liga", Rayo Vallecano vs RCD Espanyol de Barcelona 01:00 ngày 24/04 Spanish La Liga (Link 2)
-https://live.alilicloud.com/live/a5d7d5938a0a3d1e6e66c6a1aa91d5e9/playlist.m3u8
 #EXTINF:-1 tvg-id="601395172" group-title="VfB Stuttgart vs SC Freiburg 01:45 ngày 24/04 DFB Pokal", VfB Stuttgart vs SC Freiburg 01:45 ngày 24/04 DFB Pokal (Link 1)
 https://cdn-hls.taoxanh.biz/live/69ea5ec042281_88642/index.m3u8?expire=1777572160&amp;sign=5f9f972625931e02cfc372def51d94c4
 #EXTINF:-1 tvg-id="601395172" group-title="VfB Stuttgart vs SC Freiburg 01:45 ngày 24/04 DFB Pokal", VfB Stuttgart vs SC Freiburg 01:45 ngày 24/04 DFB Pokal (Link 2)
@@ -21,47 +13,25 @@ https://cdn-hls.taoxanh.biz/live/69ea6b4042281_4908/index.m3u8?expire=1777575360
 https://cdn-hls.taoxanh.biz/live/69ea65c542281_79/index.m3u8?expire=1777573957&amp;sign=da36aae9e9292530a3c648af2b299ab8
 #EXTINF:-1 tvg-id="601395190" group-title="Real Oviedo vs Villarreal CF 02:30 ngày 24/04 Spanish La Liga", Real Oviedo vs Villarreal CF 02:30 ngày 24/04 Spanish La Liga (Link 3)
 https://live.alilicloud.com/live/1c786a404193d9a575a5f0944ac09ab5/playlist.m3u8
-#EXTINF:-1 tvg-id="601392727" group-title="FC Dinamo 1948 vs CS Universitatea Craiova 00:30 ngày 24/04 Romanian Cup", FC Dinamo 1948 vs CS Universitatea Craiova 00:30 ngày 24/04 Romanian Cup
-https://live.alilicloud.com/live/bbcb322f0abbe7aa5e43e2da65563b88/playlist.m3u8
-#EXTINF:-1 tvg-id="601393021" group-title="Mladost Lucani vs Radnicki 1923 Kragujevac 01:00 ngày 24/04 Serbian Super liga", Mladost Lucani vs Radnicki 1923 Kragujevac 01:00 ngày 24/04 Serbian Super liga
-https://live.alilicloud.com/live/cfb6acffcfb8f5c30e30806dcbd92f45/playlist.m3u8
-#EXTINF:-1 tvg-id="601397944" group-title="KS Wieczysta Krakow vs Polonia Bytom 01:00 ngày 24/04 Poland Liga 1", KS Wieczysta Krakow vs Polonia Bytom 01:00 ngày 24/04 Poland Liga 1
-https://live.alilicloud.com/live/2758951365de1cd56ccf49deda287c3f/playlist.m3u8
-#EXTINF:-1 tvg-id="601395166" group-title="Platense Reserves vs Argentinos Jrs Reserves 01:00 ngày 24/04 Argentine Reserve League", Platense Reserves vs Argentinos Jrs Reserves 01:00 ngày 24/04 Argentine Reserve League
-https://live.alilicloud.com/live/b0845eda7c690b3fa46f6e499e958047/playlist.m3u8
-#EXTINF:-1 tvg-id="601395163" group-title="Huracan Reserves vs San Lorenzo Reserves 01:00 ngày 24/04 Argentine Reserve League", Huracan Reserves vs San Lorenzo Reserves 01:00 ngày 24/04 Argentine Reserve League
-https://live.alilicloud.com/live/81dbd767a45e715de52608fe8085bfa1/playlist.m3u8
-#EXTINF:-1 tvg-id="601395160" group-title="Estudiantes Rio Cuarto Reserves vs Instituto AC Cordoba II 01:00 ngày 24/04 Argentine Reserve League", Estudiantes Rio Cuarto Reserves vs Instituto AC Cordoba II 01:00 ngày 24/04 Argentine Reserve League
-https://live.alilicloud.com/live/e5cfadf0ce80cda70eb9f0432c5f5785/playlist.m3u8
-#EXTINF:-1 tvg-id="601395151" group-title="Zamalek SC vs Pyramids FC 01:00 ngày 24/04 Egyptian Premier League", Zamalek SC vs Pyramids FC 01:00 ngày 24/04 Egyptian Premier League
-https://live.alilicloud.com/live/47ee2914ae06105691b17563211fb0d0/playlist.m3u8
-#EXTINF:-1 tvg-id="601395148" group-title="Sonderjyske vs Midtjylland 01:00 ngày 24/04 Danish Superliga", Sonderjyske vs Midtjylland 01:00 ngày 24/04 Danish Superliga
-https://live.alilicloud.com/live/292c39afb6eb3e4238569fec90fc1b1c/playlist.m3u8
-#EXTINF:-1 tvg-id="601393024" group-title="FK Spartak Zlatibor Voda vs Backa Topola 01:00 ngày 24/04 Serbian Super liga", FK Spartak Zlatibor Voda vs Backa Topola 01:00 ngày 24/04 Serbian Super liga
-https://live.alilicloud.com/live/97cb906575544360c63b5555fe8fc63e/playlist.m3u8
-#EXTINF:-1 tvg-id="601408867" group-title="Patro Eisden vs Beerschot Wilrijk 01:30 ngày 24/04 Belgian Second Division", Patro Eisden vs Beerschot Wilrijk 01:30 ngày 24/04 Belgian Second Division
-https://live.alilicloud.com/live/f5d44047d77f3c355ce38c9dc24874f7/playlist.m3u8
-#EXTINF:-1 tvg-id="601408870" group-title="KVSK Lommel vs RFC de Liege 01:30 ngày 24/04 Belgian Second Division", KVSK Lommel vs RFC de Liege 01:30 ngày 24/04 Belgian Second Division
-https://live.alilicloud.com/live/4cd8701a988ed554af4162280ce04924/playlist.m3u8
-#EXTINF:-1 tvg-id="601395169" group-title="Sint-Truidense vs Anderlecht 01:45 ngày 24/04 Belgian Pro League", Sint-Truidense vs Anderlecht 01:45 ngày 24/04 Belgian Pro League
-https://live.alilicloud.com/live/cd09e17853af62f2eac492a99b9299ee/playlist.m3u8
 #EXTINF:-1 tvg-id="601395181" group-title="San Antonio Bulo Bulo vs Real Oruro 02:00 ngày 24/04 Bolivian Primera Division", San Antonio Bulo Bulo vs Real Oruro 02:00 ngày 24/04 Bolivian Primera Division
 https://live.alilicloud.com/live/5bda0e2b7843e32e940e921a0ff3aa38/playlist.m3u8
-#EXTINF:-1 tvg-id="601412947" group-title="Valur Reykjavik vs Hafnarfjordur 02:15 ngày 24/04 Iceland Besta-deild karla", Valur Reykjavik vs Hafnarfjordur 02:15 ngày 24/04 Iceland Besta-deild karla
-https://live.alilicloud.com/live/4c9406fdf373b1ab33aaa2085d739175/playlist.m3u8
 #EXTINF:-1 tvg-id="601395187" group-title="Vikingur Reykjavik vs Stjarnan Gardabaer 02:15 ngày 24/04 Iceland Besta-deild karla", Vikingur Reykjavik vs Stjarnan Gardabaer 02:15 ngày 24/04 Iceland Besta-deild karla
 https://live.alilicloud.com/live/a32d8a128ff822194c55ca7a2f873b6f/playlist.m3u8
+#EXTINF:-1 tvg-id="601412947" group-title="Valur Reykjavik vs Hafnarfjordur 02:15 ngày 24/04 Iceland Besta-deild karla", Valur Reykjavik vs Hafnarfjordur 02:15 ngày 24/04 Iceland Besta-deild karla
+https://live.alilicloud.com/live/4c9406fdf373b1ab33aaa2085d739175/playlist.m3u8
+#EXTINF:-1 tvg-id="601395193" group-title="SCU Torreense vs Fafe 02:45 ngày 24/04 Portuguese Cup", SCU Torreense vs Fafe 02:45 ngày 24/04 Portuguese Cup
+https://live.alilicloud.com/live/62a6dd1bb15ebf79094d802df80fc938/playlist.m3u8
+#EXTINF:-1 tvg-id="601393249" group-title="Vitoria Salvador (Youth) vs Bragantino RB Youth 03:00 ngày 24/04 Brazilian Youth League", Vitoria Salvador (Youth) vs Bragantino RB Youth 03:00 ngày 24/04 Brazilian Youth League
+https://live.alilicloud.com/live/ef38735d8a6dd9982a539924ab641a00/playlist.m3u8
+#EXTINF:-1 tvg-id="601395199" group-title="CD Real Santander (w) vs America de Cali (w) 03:00 ngày 24/04 Colombian Liga Betplay Femenina", CD Real Santander (w) vs America de Cali (w) 03:00 ngày 24/04 Colombian Liga Betplay Femenina
+https://live.alilicloud.com/live/893570e0b2443ec8994f641726d63bf9/playlist.m3u8
+#EXTINF:-1 tvg-id="601395202" group-title="Deportivo Cali (w) vs Junior (w) 03:30 ngày 24/04 Colombian Liga Betplay Femenina", Deportivo Cali (w) vs Junior (w) 03:30 ngày 24/04 Colombian Liga Betplay Femenina
+https://live.alilicloud.com/live/382292073186e0d61453c9bfb0b7e540/playlist.m3u8
 #EXTINF:-1 tvg-id="601395178" group-title="Salford City vs Bromley 02:00 ngày 24/04 English Football League Two", Salford City vs Bromley 02:00 ngày 24/04 English Football League Two
 https://live.alilicloud.com/live/483ad59405e637e0046bea8975bf5f2d/playlist.m3u8
-#EXTINF:-1 tvg-id="601414618" group-title="Orange Academy vs Ludwigsburg 2 00:30 ngày 24/04 2.Basketball Bundesliga ProB", Orange Academy vs Ludwigsburg 2 00:30 ngày 24/04 2.Basketball Bundesliga ProB
+#EXTINF:-1 tvg-id="601395196" group-title="Los Chankas vs Cienciano 03:00 ngày 24/04 Peruvian Liga 1", Los Chankas vs Cienciano 03:00 ngày 24/04 Peruvian Liga 1
+https://live.alilicloud.com/live/7b2af14e6128fb455bac6818b84e50c1/playlist.m3u8
+#EXTINF:-1 tvg-id="601414618" group-title="Orange Academy vs Ludwigsburg 2 02:00 ngày 24/04 2.Basketball Bundesliga ProB", Orange Academy vs Ludwigsburg 2 02:00 ngày 24/04 2.Basketball Bundesliga ProB
 https://live.alilicloud.com/live/44a69673a90f68f20feeef16089a05a0/playlist.m3u8
-#EXTINF:-1 tvg-id="601414624" group-title="SSV Lok Bernau vs Hertener Loewen 01:00 ngày 24/04 2.Basketball Bundesliga ProB", SSV Lok Bernau vs Hertener Loewen 01:00 ngày 24/04 2.Basketball Bundesliga ProB
-https://live.alilicloud.com/live/c487a3731ab6c258930db0ae78a3f9de/playlist.m3u8
-#EXTINF:-1 tvg-id="601414621" group-title="ETB Wohnbau Baskets Essen vs En Baskets Schwelm 01:00 ngày 24/04 2.Basketball Bundesliga ProB", ETB Wohnbau Baskets Essen vs En Baskets Schwelm 01:00 ngày 24/04 2.Basketball Bundesliga ProB
-https://live.alilicloud.com/live/f60ed7cccae720f2c6e99dd18a696efe/playlist.m3u8
-#EXTINF:-1 tvg-id="601395826" group-title="Würzburg vs Bayern Munchen 01:00 ngày 24/04 Basketball Bundesliga", Würzburg vs Bayern Munchen 01:00 ngày 24/04 Basketball Bundesliga
-https://live.alilicloud.com/live/e0f090d31ea7febf7f1cc3734e139708/playlist.m3u8
-#EXTINF:-1 tvg-id="601407553" group-title="Rishon Le Zion Maccabi vs Maccabi Tel Aviv 01:05 ngày 24/04 Ligat HaAl", Rishon Le Zion Maccabi vs Maccabi Tel Aviv 01:05 ngày 24/04 Ligat HaAl
-https://live.alilicloud.com/live/a3ea25486572d8a405e0193dbc904999/playlist.m3u8
 #EXTINF:-1 tvg-id="601395250" group-title="Millonarios vs Deportes Tolima 08:00 ngày 24/04 Categoría Primera A", Millonarios vs Deportes Tolima 08:00 ngày 24/04 Categoría Primera A
 https://cdn-hls.taoxanh.biz/live/69e90bc2203f3_74012/index.m3u8?expire=1777485378&amp;sign=d92180dc0b7c01be655f16284e6a254e
