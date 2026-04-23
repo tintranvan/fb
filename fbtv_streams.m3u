@@ -1,24 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601395190" group-title="Real Oviedo vs Villarreal CF 02:30 ngày 24/04 Spanish La Liga", Real Oviedo vs Villarreal CF 02:30 ngày 24/04 Spanish La Liga (Link 1)
-https://cdn-hls.taoxanh.biz/live/69ea6b4042281_4908/index.m3u8?expire=1777575360&amp;sign=fed48ce62d2687ff1b0bf8a16c4978ee
-#EXTINF:-1 tvg-id="601395190" group-title="Real Oviedo vs Villarreal CF 02:30 ngày 24/04 Spanish La Liga", Real Oviedo vs Villarreal CF 02:30 ngày 24/04 Spanish La Liga (Link 2)
-https://cdn-hls.taoxanh.biz/live/69ea65c542281_79/index.m3u8?expire=1777573957&amp;sign=da36aae9e9292530a3c648af2b299ab8
-#EXTINF:-1 tvg-id="601395190" group-title="Real Oviedo vs Villarreal CF 02:30 ngày 24/04 Spanish La Liga", Real Oviedo vs Villarreal CF 02:30 ngày 24/04 Spanish La Liga (Link 3)
-https://live.alilicloud.com/live/1c786a404193d9a575a5f0944ac09ab5/playlist.m3u8
-#EXTINF:-1 tvg-id="601395193" group-title="SCU Torreense vs Fafe 02:45 ngày 24/04 Portuguese Cup", SCU Torreense vs Fafe 02:45 ngày 24/04 Portuguese Cup
-https://live.alilicloud.com/live/62a6dd1bb15ebf79094d802df80fc938/playlist.m3u8
-#EXTINF:-1 tvg-id="601393249" group-title="Vitoria Salvador (Youth) vs Bragantino RB Youth 03:00 ngày 24/04 Brazilian Youth League", Vitoria Salvador (Youth) vs Bragantino RB Youth 03:00 ngày 24/04 Brazilian Youth League
-https://live.alilicloud.com/live/ef38735d8a6dd9982a539924ab641a00/playlist.m3u8
-#EXTINF:-1 tvg-id="601395199" group-title="CD Real Santander (w) vs America de Cali (w) 03:00 ngày 24/04 Colombian Liga Betplay Femenina", CD Real Santander (w) vs America de Cali (w) 03:00 ngày 24/04 Colombian Liga Betplay Femenina
-https://live.alilicloud.com/live/893570e0b2443ec8994f641726d63bf9/playlist.m3u8
+#EXTINF:-1 tvg-id="601414519" group-title="Mirassol FC Youth vs Ceara (Youth) 05:00 ngày 24/04 Brazilian Youth Championship", Mirassol FC Youth vs Ceara (Youth) 05:00 ngày 24/04 Brazilian Youth Championship
+https://cdn-hls.taoxanh.biz/live/69ea8664203f3_88186/index.m3u8?expire=1777582308&amp;sign=8b686e4d38446f6ec8eb0a3b79734831
 #EXTINF:-1 tvg-id="601395202" group-title="Deportivo Cali (w) vs Junior (w) 03:30 ngày 24/04 Colombian Liga Betplay Femenina", Deportivo Cali (w) vs Junior (w) 03:30 ngày 24/04 Colombian Liga Betplay Femenina
 https://live.alilicloud.com/live/382292073186e0d61453c9bfb0b7e540/playlist.m3u8
 #EXTINF:-1 tvg-id="601395208" group-title="Talleres Cordoba Reserve vs Belgrano Reserves 04:00 ngày 24/04 Argentine Reserve League", Talleres Cordoba Reserve vs Belgrano Reserves 04:00 ngày 24/04 Argentine Reserve League
 https://live.alilicloud.com/live/da4f750d8efc15b5099a893842c4eaa3/playlist.m3u8
-#EXTINF:-1 tvg-id="601395196" group-title="Los Chankas vs Cienciano 03:00 ngày 24/04 Peruvian Liga 1", Los Chankas vs Cienciano 03:00 ngày 24/04 Peruvian Liga 1
-https://live.alilicloud.com/live/7b2af14e6128fb455bac6818b84e50c1/playlist.m3u8
-#EXTINF:-1 tvg-id="601414519" group-title="Mirassol FC Youth vs Ceara (Youth) 05:00 ngày 24/04 Brazilian Youth Championship", Mirassol FC Youth vs Ceara (Youth) 05:00 ngày 24/04 Brazilian Youth Championship
-https://cdn-hls.taoxanh.biz/live/69ea8664203f3_88186/index.m3u8?expire=1777582308&amp;sign=8b686e4d38446f6ec8eb0a3b79734831
+#EXTINF:-1 tvg-id="601411375" group-title="Dunbeholden FC vs Harbour View FC 04:30 ngày 24/04 Jamaica Premier League", Dunbeholden FC vs Harbour View FC 04:30 ngày 24/04 Jamaica Premier League
+https://live.alilicloud.com/live/219fed3dfaa889ed8f220afaeeef2473/playlist.m3u8
+#EXTINF:-1 tvg-id="601414516" group-title="Sporting Vereniging Notch vs Broki 04:30 ngày 24/04 SML", Sporting Vereniging Notch vs Broki 04:30 ngày 24/04 SML
+https://live.alilicloud.com/live/688de6cad47a4e8902e23d3218cf205a/playlist.m3u8
+#EXTINF:-1 tvg-id="601393267" group-title="Ituano  SP vs Ferroviaria SP 05:00 ngày 24/04 Brazilian Campeonato Paulista A2", Ituano  SP vs Ferroviaria SP 05:00 ngày 24/04 Brazilian Campeonato Paulista A2
+https://live.alilicloud.com/live/dedd474f5d77d93c0f7f4fe368b41067/playlist.m3u8
+#EXTINF:-1 tvg-id="601395220" group-title="Palmeiras vs EC Jacuipense 05:30 ngày 24/04 Brazilian Cup", Palmeiras vs EC Jacuipense 05:30 ngày 24/04 Brazilian Cup
+https://cdn-hls.taoxanh.biz/live/69ea961842281_128756/index.m3u8?expire=1777586328&amp;sign=35981c5ef60316f194a77a93bd7a1da1
 #EXTINF:-1 tvg-id="601395232" group-title="Lobos UPNFM vs Genesis 06:15 ngày 24/04 Honduras Primera Division", Lobos UPNFM vs Genesis 06:15 ngày 24/04 Honduras Primera Division
 https://cdn-hls.taoxanh.biz/live/69ea8423203f3_88642/index.m3u8?expire=1777581731&amp;sign=4d0cc5683cd5fcff49f12faf5dae36cb
 #EXTINF:-1 tvg-id="601395250" group-title="Millonarios vs Deportes Tolima 08:00 ngày 24/04 Categoría Primera A", Millonarios vs Deportes Tolima 08:00 ngày 24/04 Categoría Primera A
