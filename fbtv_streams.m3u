@@ -1,87 +1,81 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601414804" group-title="Malaysia U17 vs Vietnam U17 19:30 ngày 24/04 AFF U17 Youth Championship", Malaysia U17 vs Vietnam U17 19:30 ngày 24/04 AFF U17 Youth Championship (Link 1)
-https://cdn-hls.taoxanh.biz/live/69eb547e42281_151255/index.m3u8?expire=1777635070&amp;sign=2281c847d98601c7df641e014d1c56e1
-#EXTINF:-1 tvg-id="601414804" group-title="Malaysia U17 vs Vietnam U17 19:30 ngày 24/04 AFF U17 Youth Championship", Malaysia U17 vs Vietnam U17 19:30 ngày 24/04 AFF U17 Youth Championship (Link 2)
-https://cdn-hls.taoxanh.biz/live/69eb5a8242281_79/index.m3u8?expire=1777636610&amp;sign=1f11dcde10ce515852eee91516e72dfc
-#EXTINF:-1 tvg-id="601414804" group-title="Malaysia U17 vs Vietnam U17 19:30 ngày 24/04 AFF U17 Youth Championship", Malaysia U17 vs Vietnam U17 19:30 ngày 24/04 AFF U17 Youth Championship (Link 3)
-https://cdn-hls.taoxanh.biz/live/69eb52e842281_141847/index.m3u8?expire=1777634664&amp;sign=905119f1509702ecaaeba5835e899750
-#EXTINF:-1 tvg-id="601395529" group-title="Kelantan Darul Naim vs Selangor FC 20:00 ngày 24/04 Malaysian Super League", Kelantan Darul Naim vs Selangor FC 20:00 ngày 24/04 Malaysian Super League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69eb696e203f3_44731/index.m3u8?expire=1777640430&amp;sign=389c4d38626dec45800e418556d3dbdd
-#EXTINF:-1 tvg-id="601395529" group-title="Kelantan Darul Naim vs Selangor FC 20:00 ngày 24/04 Malaysian Super League", Kelantan Darul Naim vs Selangor FC 20:00 ngày 24/04 Malaysian Super League (Link 2)
-https://live.alilicloud.com/live/fe224640046dc8c514ea78706c23c98f/playlist.m3u8
+#EXTINF:-1 tvg-id="601395610" group-title="Al-Wasl SC vs Dabba Al-Fujairah 21:00 ngày 24/04 United Arab Emirates Adnoc Pro-League", Al-Wasl SC vs Dabba Al-Fujairah 21:00 ngày 24/04 United Arab Emirates Adnoc Pro-League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69eb7ba042281_4908/index.m3u8?expire=1777645088&amp;sign=dc82f8fc96b21f1b59c0b9604d3970e3
+#EXTINF:-1 tvg-id="601395610" group-title="Al-Wasl SC vs Dabba Al-Fujairah 21:00 ngày 24/04 United Arab Emirates Adnoc Pro-League", Al-Wasl SC vs Dabba Al-Fujairah 21:00 ngày 24/04 United Arab Emirates Adnoc Pro-League (Link 2)
+https://live.alilicloud.com/live/771938687f12ac6fb0336974cf85b27d/playlist.m3u8
 #EXTINF:-1 tvg-id="601395607" group-title="Al-Dhafra vs Ajman 21:00 ngày 24/04 United Arab Emirates Adnoc Pro-League", Al-Dhafra vs Ajman 21:00 ngày 24/04 United Arab Emirates Adnoc Pro-League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69eb6f1942281_28/index.m3u8?expire=1777641881&amp;sign=45cadadaffbdc6c286d86feb8e69d403
 #EXTINF:-1 tvg-id="601395607" group-title="Al-Dhafra vs Ajman 21:00 ngày 24/04 United Arab Emirates Adnoc Pro-League", Al-Dhafra vs Ajman 21:00 ngày 24/04 United Arab Emirates Adnoc Pro-League (Link 2)
 https://live.alilicloud.com/live/4ee88c501468cd6b2c1931f37173d2d7/playlist.m3u8
-#EXTINF:-1 tvg-id="601395610" group-title="Al-Wasl SC vs Dabba Al-Fujairah 21:00 ngày 24/04 United Arab Emirates Adnoc Pro-League", Al-Wasl SC vs Dabba Al-Fujairah 21:00 ngày 24/04 United Arab Emirates Adnoc Pro-League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69eb70f8203f3_4908/index.m3u8?expire=1777642360&amp;sign=b4d43395904961756d0103ad154e9681
-#EXTINF:-1 tvg-id="601395610" group-title="Al-Wasl SC vs Dabba Al-Fujairah 21:00 ngày 24/04 United Arab Emirates Adnoc Pro-League", Al-Wasl SC vs Dabba Al-Fujairah 21:00 ngày 24/04 United Arab Emirates Adnoc Pro-League (Link 2)
-https://live.alilicloud.com/live/771938687f12ac6fb0336974cf85b27d/playlist.m3u8
-#EXTINF:-1 tvg-id="601414819" group-title="Konjengbam P. / Mishra S. vs Kudsk A. C. / Werge M. 20:12 ngày 24/04 BWF Thomas &amp; Uber Cup Finals 2026  - SÂN 2", Konjengbam P. / Mishra S. vs Kudsk A. C. / Werge M. 20:12 ngày 24/04 BWF Thomas &amp; Uber Cup Finals 2026  - SÂN 2 (Link 1)
+#EXTINF:-1 tvg-id="601396129" group-title="Jannik Sinner vs Benjamin Bonzi 21:05 ngày 24/04 ATP Madrid, Spain Men Singles", Jannik Sinner vs Benjamin Bonzi 21:05 ngày 24/04 ATP Madrid, Spain Men Singles (Link 1)
+https://cdn-hls.taoxanh.biz/live/69eb6f6842281_4733/index.m3u8?expire=1777641960&amp;sign=3f6df2b48da49eebb6a6e9ba41408f61
+#EXTINF:-1 tvg-id="601396129" group-title="Jannik Sinner vs Benjamin Bonzi 21:05 ngày 24/04 ATP Madrid, Spain Men Singles", Jannik Sinner vs Benjamin Bonzi 21:05 ngày 24/04 ATP Madrid, Spain Men Singles (Link 2)
+https://live.alilicloud.com/live/b068b9580e6cfeb1f9dcaa9d28c95be9/playlist.m3u8
+#EXTINF:-1 tvg-id="601414819" group-title="Tanvi Sharma vs Amalie SCHULZ 21:36 ngày 24/04 BWF Thomas &amp; Uber Cup Finals 2026  - SÂN 2", Tanvi Sharma vs Amalie SCHULZ 21:36 ngày 24/04 BWF Thomas &amp; Uber Cup Finals 2026  - SÂN 2 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69eb05d442281_85706/index.m3u8?expire=1777614932&amp;sign=1cd9d9e59210096fd7788192b9551e9e
-#EXTINF:-1 tvg-id="601414819" group-title="Konjengbam P. / Mishra S. vs Kudsk A. C. / Werge M. 20:12 ngày 24/04 BWF Thomas &amp; Uber Cup Finals 2026  - SÂN 2", Konjengbam P. / Mishra S. vs Kudsk A. C. / Werge M. 20:12 ngày 24/04 BWF Thomas &amp; Uber Cup Finals 2026  - SÂN 2 (Link 2)
+#EXTINF:-1 tvg-id="601414819" group-title="Tanvi Sharma vs Amalie SCHULZ 21:36 ngày 24/04 BWF Thomas &amp; Uber Cup Finals 2026  - SÂN 2", Tanvi Sharma vs Amalie SCHULZ 21:36 ngày 24/04 BWF Thomas &amp; Uber Cup Finals 2026  - SÂN 2 (Link 2)
 https://cdn-hls.taoxanh.biz/live/69eb580442281_18754/index.m3u8?expire=1777635972&amp;sign=136ae1eb3fb44c6581911ade49970113
-#EXTINF:-1 tvg-id="601414816" group-title="Christo POPOV / Toma Junior POPOV vs Peeratchai SUKPHUN / Pakkapon TEERARATSAKUL 20:54 ngày 24/04 BWF Thomas &amp; Uber Cup Finals 2026 - SÂN 1", Christo POPOV / Toma Junior POPOV vs Peeratchai SUKPHUN / Pakkapon TEERARATSAKUL 20:54 ngày 24/04 BWF Thomas &amp; Uber Cup Finals 2026 - SÂN 1 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69eb3de142281_42127/index.m3u8?expire=1777629281&amp;sign=af24467b2b9d9e9fc65f231302fd7fbe
-#EXTINF:-1 tvg-id="601414816" group-title="Christo POPOV / Toma Junior POPOV vs Peeratchai SUKPHUN / Pakkapon TEERARATSAKUL 20:54 ngày 24/04 BWF Thomas &amp; Uber Cup Finals 2026 - SÂN 1", Christo POPOV / Toma Junior POPOV vs Peeratchai SUKPHUN / Pakkapon TEERARATSAKUL 20:54 ngày 24/04 BWF Thomas &amp; Uber Cup Finals 2026 - SÂN 1 (Link 2)
-https://cdn-hls.taoxanh.biz/live/69eb05a1203f3_142210/index.m3u8?expire=1777614881&amp;sign=5853cade71737c29567ca334281d18a3
-#EXTINF:-1 tvg-id="601416463" group-title="ZHAO JIAN BO vs ZHENG XIAO HUAI 15:10 ngày 24/04 Duya Legends Golden Nine International Classic", ZHAO JIAN BO vs ZHENG XIAO HUAI 15:10 ngày 24/04 Duya Legends Golden Nine International Classic
-https://cdn-hls.taoxanh.biz/live/69eaee8e42281_103/index.m3u8?expire=1777608974&amp;sign=16902dcf5c040196dfaba951bd5472e5
+#EXTINF:-1 tvg-id="601410937" group-title="Công an TPHCM vs Thể Công Tân Cảng 21:30 ngày 24/04 Bán Kết Cúp Hùng Vương 2026", Công an TPHCM vs Thể Công Tân Cảng 21:30 ngày 24/04 Bán Kết Cúp Hùng Vương 2026
+https://cdn-hls.taoxanh.biz/live/69eb7896203f3_128756/index.m3u8?expire=1777644310&amp;sign=c1206f29d17460b09d44406a52b38630
 #EXTINF:-1 tvg-id="601416733" group-title="Nguyễn Thanh Thoàn vs Rory Turner 20:30 ngày 24/04 ONE Friday Fights 151", Nguyễn Thanh Thoàn vs Rory Turner 20:30 ngày 24/04 ONE Friday Fights 151
 https://cdn-hls.taoxanh.biz/live/69eb73dc42281_138846/index.m3u8?expire=1777643100&amp;sign=c34f5cb48330bf862ea0dd44956292d7
-#EXTINF:-1 tvg-id="601400008" group-title="Kolos Kovalivka vs SC Poltava 19:30 ngày 24/04 Ukrainian Premier League", Kolos Kovalivka vs SC Poltava 19:30 ngày 24/04 Ukrainian Premier League
-https://live.alilicloud.com/live/67893393570d0afe00c2270c25896525/playlist.m3u8
-#EXTINF:-1 tvg-id="601411402" group-title="Rajasthan United FC vs Sreenidi Deccan 20:00 ngày 24/04 Indian League Division 1", Rajasthan United FC vs Sreenidi Deccan 20:00 ngày 24/04 Indian League Division 1
-https://live.alilicloud.com/live/244afa02a4140b12a9925937bc3ca863/playlist.m3u8
-#EXTINF:-1 tvg-id="601395547" group-title="Hang Sai vs S.L. Benfica de Macau 20:00 ngày 24/04 Chinese Macao Liga de Elite", Hang Sai vs S.L. Benfica de Macau 20:00 ngày 24/04 Chinese Macao Liga de Elite
-https://live.alilicloud.com/live/8babde2ea6623fbb4be69c1cb45a768e/playlist.m3u8
-#EXTINF:-1 tvg-id="601395445" group-title="Khan Tengri FC vs Jaiyq 20:00 ngày 24/04 Kazakhstan Division 1", Khan Tengri FC vs Jaiyq 20:00 ngày 24/04 Kazakhstan Division 1
-https://live.alilicloud.com/live/4b029df3784379ebf6b07c0628f691b3/playlist.m3u8
-#EXTINF:-1 tvg-id="601397989" group-title="Dibba Al-Hisn vs Al Arabi(UAE) 20:55 ngày 24/04 United Arab Emirates Division 1 Group A", Dibba Al-Hisn vs Al Arabi(UAE) 20:55 ngày 24/04 United Arab Emirates Division 1 Group A
-https://live.alilicloud.com/live/52cedd19884c220b9b64ff1d23ded65b/playlist.m3u8
-#EXTINF:-1 tvg-id="601397992" group-title="Emirates Club vs Masfout 20:55 ngày 24/04 United Arab Emirates Division 1 Group A", Emirates Club vs Masfout 20:55 ngày 24/04 United Arab Emirates Division 1 Group A
-https://live.alilicloud.com/live/447ea732403a2178c916259307fc8544/playlist.m3u8
+#EXTINF:-1 tvg-id="601395574" group-title="Majd FC vs Al Thaid 20:55 ngày 24/04 United Arab Emirates Division 1 Group A", Majd FC vs Al Thaid 20:55 ngày 24/04 United Arab Emirates Division 1 Group A
+https://live.alilicloud.com/live/b02639b71de888cfb6130c148ef00e02/playlist.m3u8
 #EXTINF:-1 tvg-id="601395568" group-title="Ahli Al-Fujirah vs Al Ittifaq Dubai 20:55 ngày 24/04 United Arab Emirates Division 1 Group A", Ahli Al-Fujirah vs Al Ittifaq Dubai 20:55 ngày 24/04 United Arab Emirates Division 1 Group A
 https://live.alilicloud.com/live/35c63574e8ceabdbc21881c9e4348a5a/playlist.m3u8
 #EXTINF:-1 tvg-id="601395571" group-title="Al-Jazira Al-Hamra vs Al-Hamriyah 20:55 ngày 24/04 United Arab Emirates Division 1 Group A", Al-Jazira Al-Hamra vs Al-Hamriyah 20:55 ngày 24/04 United Arab Emirates Division 1 Group A
 https://live.alilicloud.com/live/0960a74696b19c49a267b6d99a861de8/playlist.m3u8
-#EXTINF:-1 tvg-id="601395574" group-title="Majd FC vs Al Thaid 20:55 ngày 24/04 United Arab Emirates Division 1 Group A", Majd FC vs Al Thaid 20:55 ngày 24/04 United Arab Emirates Division 1 Group A
-https://live.alilicloud.com/live/b02639b71de888cfb6130c148ef00e02/playlist.m3u8
-#EXTINF:-1 tvg-id="601392700" group-title="Xorazm Urganch vs Neftchi Fargona 21:00 ngày 24/04 Uzbekistan Super League", Xorazm Urganch vs Neftchi Fargona 21:00 ngày 24/04 Uzbekistan Super League
-https://live.alilicloud.com/live/3ca28c339c93fa92fc39ffbc108faae5/playlist.m3u8
-#EXTINF:-1 tvg-id="601395544" group-title="Krylya Sovetov Samara (W) vs CSKA Moscow (w) 21:00 ngày 24/04 Russian Women's Premier League", Krylya Sovetov Samara (W) vs CSKA Moscow (w) 21:00 ngày 24/04 Russian Women's Premier League
-https://live.alilicloud.com/live/00b2b2ac99b0c77beff0837fa2bb4c95/playlist.m3u8
+#EXTINF:-1 tvg-id="601397989" group-title="Dibba Al-Hisn vs Al Arabi(UAE) 20:55 ngày 24/04 United Arab Emirates Division 1 Group A", Dibba Al-Hisn vs Al Arabi(UAE) 20:55 ngày 24/04 United Arab Emirates Division 1 Group A
+https://live.alilicloud.com/live/52cedd19884c220b9b64ff1d23ded65b/playlist.m3u8
+#EXTINF:-1 tvg-id="601397992" group-title="Emirates Club vs Masfout 20:55 ngày 24/04 United Arab Emirates Division 1 Group A", Emirates Club vs Masfout 20:55 ngày 24/04 United Arab Emirates Division 1 Group A
+https://live.alilicloud.com/live/447ea732403a2178c916259307fc8544/playlist.m3u8
+#EXTINF:-1 tvg-id="601395598" group-title="Bank El Ahly vs ZED FC 21:00 ngày 24/04 Egyptian Premier League", Bank El Ahly vs ZED FC 21:00 ngày 24/04 Egyptian Premier League
+https://live.alilicloud.com/live/205a48e3b35ed5e4016ad11fa4584ce5/playlist.m3u8
 #EXTINF:-1 tvg-id="601395601" group-title="Pharco vs El Gounah 21:00 ngày 24/04 Egyptian Premier League", Pharco vs El Gounah 21:00 ngày 24/04 Egyptian Premier League
 https://live.alilicloud.com/live/584b853d8d914397a508a76970e39eb3/playlist.m3u8
-#EXTINF:-1 tvg-id="601396150" group-title="Jiri Lehecka vs Alejandro Tabilo 19:15 ngày 24/04 ATP Madrid, Spain Men Singles", Jiri Lehecka vs Alejandro Tabilo 19:15 ngày 24/04 ATP Madrid, Spain Men Singles
-https://live.alilicloud.com/live/ba47407eeffed99bf0fe416b67544e4f/playlist.m3u8
-#EXTINF:-1 tvg-id="601412113" group-title="Alexandra Panova/Yang Zhaoxuan vs Ellen Perez/Demi Schuurs 20:35 ngày 24/04 WTA Madrid, Spain Women Doubles", Alexandra Panova/Yang Zhaoxuan vs Ellen Perez/Demi Schuurs 20:35 ngày 24/04 WTA Madrid, Spain Women Doubles
-https://live.alilicloud.com/live/375983bec28405741894afef79e57fab/playlist.m3u8
-#EXTINF:-1 tvg-id="601412131" group-title="Sara Errani/Jasmine Paolini vs Nadiia Kichenok/Makoto Ninomiya 20:35 ngày 24/04 WTA Madrid, Spain Women Doubles", Sara Errani/Jasmine Paolini vs Nadiia Kichenok/Makoto Ninomiya 20:35 ngày 24/04 WTA Madrid, Spain Women Doubles
-https://live.alilicloud.com/live/b886f638465a7b7efb3ff35133656578/playlist.m3u8
-#EXTINF:-1 tvg-id="601393840" group-title="Yulia Putintseva vs Marta Kostyuk 20:50 ngày 24/04 WTA Madrid, Spain Women Singles", Yulia Putintseva vs Marta Kostyuk 20:50 ngày 24/04 WTA Madrid, Spain Women Singles
-https://live.alilicloud.com/live/f3a1f79141bc356c4edf3a0bb6279fd2/playlist.m3u8
-#EXTINF:-1 tvg-id="601396222" group-title="Linda Klimovicova vs Yuan Yue 20:45 ngày 24/04 WTA 125K Oeiras 4, Portugal Women Singles", Linda Klimovicova vs Yuan Yue 20:45 ngày 24/04 WTA 125K Oeiras 4, Portugal Women Singles
-https://live.alilicloud.com/live/a8607b1bc4a769c04d520bbbe59bbf38/playlist.m3u8
-#EXTINF:-1 tvg-id="601396234" group-title="Karamoko N / Semenistaja D vs Costoulas S / Jorge M 20:50 ngày 24/04 WTA 125K Oeiras 4, Portugal Women Doubles", Karamoko N / Semenistaja D vs Costoulas S / Jorge M 20:50 ngày 24/04 WTA 125K Oeiras 4, Portugal Women Doubles
-https://live.alilicloud.com/live/02987a49c595da8e50dfa3d961eebce1/playlist.m3u8
-#EXTINF:-1 tvg-id="601396156" group-title="Ben Shelton vs Dino Prizmic 18:10 ngày 24/04 ATP Madrid, Spain Men Singles", Ben Shelton vs Dino Prizmic 18:10 ngày 24/04 ATP Madrid, Spain Men Singles
-https://live.alilicloud.com/live/bd36feff27c223f229c05b15e858f9da/playlist.m3u8
+#EXTINF:-1 tvg-id="601395544" group-title="Krylya Sovetov Samara (W) vs CSKA Moscow (w) 21:00 ngày 24/04 Russian Women's Premier League", Krylya Sovetov Samara (W) vs CSKA Moscow (w) 21:00 ngày 24/04 Russian Women's Premier League
+https://live.alilicloud.com/live/00b2b2ac99b0c77beff0837fa2bb4c95/playlist.m3u8
+#EXTINF:-1 tvg-id="601392700" group-title="Xorazm Urganch vs Neftchi Fargona 21:00 ngày 24/04 Uzbekistan Super League", Xorazm Urganch vs Neftchi Fargona 21:00 ngày 24/04 Uzbekistan Super League
+https://live.alilicloud.com/live/3ca28c339c93fa92fc39ffbc108faae5/playlist.m3u8
+#EXTINF:-1 tvg-id="601392697" group-title="Qizilqum Zarafshon vs FK Kokand 1912 21:00 ngày 24/04 Uzbekistan Super League", Qizilqum Zarafshon vs FK Kokand 1912 21:00 ngày 24/04 Uzbekistan Super League
+https://live.alilicloud.com/live/662caf9b564edd9d386639e980a36b4c/playlist.m3u8
+#EXTINF:-1 tvg-id="601398022" group-title="Al-Muharraq vs Al-Riffa 21:20 ngày 24/04 Bahrain King's Cup", Al-Muharraq vs Al-Riffa 21:20 ngày 24/04 Bahrain King's Cup
+https://live.alilicloud.com/live/03252adb537f827d20e20e6d42ca160e/playlist.m3u8
+#EXTINF:-1 tvg-id="601395616" group-title="Hermannstadt vs FK Csikszereda Miercurea Ciuc 21:30 ngày 24/04 Romanian Liga I", Hermannstadt vs FK Csikszereda Miercurea Ciuc 21:30 ngày 24/04 Romanian Liga I
+https://live.alilicloud.com/live/a8f2bd6fc64d08549dc205adaeb3f7f2/playlist.m3u8
+#EXTINF:-1 tvg-id="601398004" group-title="Ostrowitz vs Smorgon FC 21:30 ngày 24/04 Belarusian First League", Ostrowitz vs Smorgon FC 21:30 ngày 24/04 Belarusian First League
+https://live.alilicloud.com/live/b33d8f697fc531d6a64199d17cd3b697/playlist.m3u8
+#EXTINF:-1 tvg-id="601395622" group-title="TPS Turku vs Gnistan Helsinki 22:00 ngày 24/04 Finnish Veikkausliiga", TPS Turku vs Gnistan Helsinki 22:00 ngày 24/04 Finnish Veikkausliiga
+https://live.alilicloud.com/live/4583a8990234788f5b94f0da00f32b12/playlist.m3u8
+#EXTINF:-1 tvg-id="601398010" group-title="Slavia Mozyr vs Neman Grodno 22:00 ngày 24/04 Belarusian Premier League", Slavia Mozyr vs Neman Grodno 22:00 ngày 24/04 Belarusian Premier League
+https://live.alilicloud.com/live/891e502ee5e2f2545524e24273ab57c9/playlist.m3u8
+#EXTINF:-1 tvg-id="601395634" group-title="Hegelmann Litauen II vs FK Kauno Zalgiris II 22:00 ngày 24/04 Lithuanian I Lyga", Hegelmann Litauen II vs FK Kauno Zalgiris II 22:00 ngày 24/04 Lithuanian I Lyga
+https://live.alilicloud.com/live/ea118e0502b5ee9a42bebade233d682e/playlist.m3u8
+#EXTINF:-1 tvg-id="601395631" group-title="Babrungas vs FK Garliava 22:00 ngày 24/04 Lithuanian I Lyga", Babrungas vs FK Garliava 22:00 ngày 24/04 Lithuanian I Lyga
+https://live.alilicloud.com/live/bf51dd7ff8b3fd20cb7ce6d101b4ef37/playlist.m3u8
+#EXTINF:-1 tvg-id="601395628" group-title="Sporting CP U23 vs Benfica U23 22:00 ngày 24/04 Portuguese U23 League", Sporting CP U23 vs Benfica U23 22:00 ngày 24/04 Portuguese U23 League
+https://live.alilicloud.com/live/ea1c73f3c58786a91f2481ca06fa1da7/playlist.m3u8
+#EXTINF:-1 tvg-id="601395625" group-title="Vaasa VPS vs Ilves Tampere 22:00 ngày 24/04 Finnish Veikkausliiga", Vaasa VPS vs Ilves Tampere 22:00 ngày 24/04 Finnish Veikkausliiga
+https://live.alilicloud.com/live/c38d3091095ad3bf3c2bc48e2168a490/playlist.m3u8
+#EXTINF:-1 tvg-id="601398028" group-title="Dubai United vs Gulf United FC 22:10 ngày 24/04 United Arab Emirates Division 1 Group A", Dubai United vs Gulf United FC 22:10 ngày 24/04 United Arab Emirates Division 1 Group A
+https://live.alilicloud.com/live/3e14226c822e44e2c3c3b55d9d585735/playlist.m3u8
+#EXTINF:-1 tvg-id="601398469" group-title="Glasgow Rangers (w) vs Hearts (w) 22:30 ngày 24/04 Scottish Women's Premier League", Glasgow Rangers (w) vs Hearts (w) 22:30 ngày 24/04 Scottish Women's Premier League
+https://live.alilicloud.com/live/0bed4a0b986ee4512c695f3d734ad2fd/playlist.m3u8
+#EXTINF:-1 tvg-id="601395667" group-title="BE1 NFA vs Ekranas Panevezys 22:30 ngày 24/04 Lithuanian I Lyga", BE1 NFA vs Ekranas Panevezys 22:30 ngày 24/04 Lithuanian I Lyga
+https://live.alilicloud.com/live/55da748e58da0fefad1f315ca9606a08/playlist.m3u8
+#EXTINF:-1 tvg-id="601393819" group-title="Leolia Jeanjean vs Coco Gauff 21:40 ngày 24/04 WTA Madrid, Spain Women Singles", Leolia Jeanjean vs Coco Gauff 21:40 ngày 24/04 WTA Madrid, Spain Women Singles
+https://live.alilicloud.com/live/5b43f8420c5ad748ca526296b7894c9c/playlist.m3u8
 #EXTINF:-1 tvg-id="601396159" group-title="Arthur Fils vs Ignacio Buse 20:05 ngày 24/04 ATP Madrid, Spain Men Singles", Arthur Fils vs Ignacio Buse 20:05 ngày 24/04 ATP Madrid, Spain Men Singles
 https://live.alilicloud.com/live/4d2718c209e330c8f4f83a94043c95a5/playlist.m3u8
-#EXTINF:-1 tvg-id="601396042" group-title="RANS PIK vs Bumi Borneo 19:00 ngày 24/04 Indonesia Basketball League", RANS PIK vs Bumi Borneo 19:00 ngày 24/04 Indonesia Basketball League
-https://live.alilicloud.com/live/1821400ca10d259a39de777386301264/playlist.m3u8
-#EXTINF:-1 tvg-id="601396048" group-title="Lakeside Lightning vs Kalamunda Eastern Suns 19:30 ngày 24/04 Australia National Basketball League1 West", Lakeside Lightning vs Kalamunda Eastern Suns 19:30 ngày 24/04 Australia National Basketball League1 West
-https://live.alilicloud.com/live/f51c4de511207a01827504cd05b7a4ca/playlist.m3u8
-#EXTINF:-1 tvg-id="601396051" group-title="Rockingham Flames vs Mandulah Magic 19:30 ngày 24/04 Australia National Basketball League1 West", Rockingham Flames vs Mandulah Magic 19:30 ngày 24/04 Australia National Basketball League1 West
-https://live.alilicloud.com/live/0591fb0f3af94da430a24141c4baad10/playlist.m3u8
-#EXTINF:-1 tvg-id="601416391" group-title="Batumi-RSU vs Iverion 20:00 ngày 24/04 Georgia Super League", Batumi-RSU vs Iverion 20:00 ngày 24/04 Georgia Super League
-https://live.alilicloud.com/live/d7e760dd8d38618b318745491f70dd46/playlist.m3u8
 #EXTINF:-1 tvg-id="601396078" group-title="Nadezhda Orenburg Oblast Women vs Nika-Luzales Syktyvkar Women 21:00 ngày 24/04 Russian Women's Basketball Premier League", Nadezhda Orenburg Oblast Women vs Nika-Luzales Syktyvkar Women 21:00 ngày 24/04 Russian Women's Basketball Premier League
 https://live.alilicloud.com/live/b0ed6dd296e559af32219062535b9f2b/playlist.m3u8
-#EXTINF:-1 tvg-id="601396129" group-title="Jannik Sinner vs Benjamin Bonzi 21:05 ngày 24/04 ATP Madrid, Spain Men Singles", Jannik Sinner vs Benjamin Bonzi 21:05 ngày 24/04 ATP Madrid, Spain Men Singles
-https://cdn-hls.taoxanh.biz/live/69eb6f6842281_4733/index.m3u8?expire=1777641960&amp;sign=3f6df2b48da49eebb6a6e9ba41408f61
-#EXTINF:-1 tvg-id="601392685" group-title="Kuruvchi Bunyodkor vs FK Andijon 22:15 ngày 24/04 Uzbekistan Super League", Kuruvchi Bunyodkor vs FK Andijon 22:15 ngày 24/04 Uzbekistan Super League
-https://cdn-hls.taoxanh.biz/live/69eb57d042281_6308/index.m3u8?expire=1777635920&amp;sign=410620983404e797d0e1197294329296
+#EXTINF:-1 tvg-id="601410382" group-title="Dinamo Bucuresti vs Rapid Bucuresti 21:15 ngày 24/04 Liga Nationala de Baschet Masculin", Dinamo Bucuresti vs Rapid Bucuresti 21:15 ngày 24/04 Liga Nationala de Baschet Masculin
+https://live.alilicloud.com/live/b439e33de8014915bb853e23f30ec83a/playlist.m3u8
+#EXTINF:-1 tvg-id="601414726" group-title="Helsinky Seagulls vs Joensuun Kataja 22:30 ngày 24/04 Korisliiga", Helsinky Seagulls vs Joensuun Kataja 22:30 ngày 24/04 Korisliiga
+https://live.alilicloud.com/live/7849753145bac6142d015ac19f884208/playlist.m3u8
+#EXTINF:-1 tvg-id="601410361" group-title="Salon Vilpas vs UU-Korihait 22:30 ngày 24/04 Korisliiga", Salon Vilpas vs UU-Korihait 22:30 ngày 24/04 Korisliiga
+https://live.alilicloud.com/live/d926f904592a73ff1cbf8305fd1a9fae/playlist.m3u8
+#EXTINF:-1 tvg-id="601395670" group-title="Al-Fateh SC vs Al Khaleej Club 22:45 ngày 24/04 Saudi Professional League", Al-Fateh SC vs Al Khaleej Club 22:45 ngày 24/04 Saudi Professional League
+https://cdn-hls.taoxanh.biz/live/69eb84eb203f3_88186/index.m3u8?expire=1777647467&amp;sign=fd53d5545dd2d603f5a830b7b6c02644
 #EXTINF:-1 tvg-id="601398562" group-title="Cucuta Deportivo vs Atletico Junior Barranquilla 04:00 ngày 25/04 Categoría Primera A", Cucuta Deportivo vs Atletico Junior Barranquilla 04:00 ngày 25/04 Categoría Primera A
 https://cdn-hls.taoxanh.biz/live/69eae037203f3_74012/index.m3u8?expire=1777605303&amp;sign=654a182d88cb0f9c7753b2f0f5c399da
