@@ -1,86 +1,104 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601398757" group-title="Gangwon Football Club vs Football Club Seoul 12:00 ngày 25/04 Korean K League 1", Gangwon Football Club vs Football Club Seoul 12:00 ngày 25/04 Korean K League 1 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69ec4162203f3_72787/index.m3u8?expire=1777695714&amp;sign=634fefa4480d1d5f7fcfe95d5657ccb8
-#EXTINF:-1 tvg-id="601398757" group-title="Gangwon Football Club vs Football Club Seoul 12:00 ngày 25/04 Korean K League 1", Gangwon Football Club vs Football Club Seoul 12:00 ngày 25/04 Korean K League 1 (Link 2)
-https://live.alilicloud.com/live/b556bdcd4eafc95eb7a51dc94419a0e3/playlist.m3u8
-#EXTINF:-1 tvg-id="601398760" group-title="Paju Citizen FC vs Gyeongnam FC 12:00 ngày 25/04 Korean K League 2", Paju Citizen FC vs Gyeongnam FC 12:00 ngày 25/04 Korean K League 2 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69ec42da203f3_79/index.m3u8?expire=1777696090&amp;sign=d2bc6a6bb7e0f7530f2c18859ba6eb54
-#EXTINF:-1 tvg-id="601398760" group-title="Paju Citizen FC vs Gyeongnam FC 12:00 ngày 25/04 Korean K League 2", Paju Citizen FC vs Gyeongnam FC 12:00 ngày 25/04 Korean K League 2 (Link 2)
-https://live.alilicloud.com/live/61700682e273f06a66c9673328251266/playlist.m3u8
-#EXTINF:-1 tvg-id="601398709" group-title="Shimizu S-Pulse vs Nagoya Grampus 12:00 ngày 25/04 Japanese J1 League", Shimizu S-Pulse vs Nagoya Grampus 12:00 ngày 25/04 Japanese J1 League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69ec45e1203f3_73445/index.m3u8?expire=1777696865&amp;sign=110f9c6c12d4c40a25cf26dbf743c677
-#EXTINF:-1 tvg-id="601398709" group-title="Shimizu S-Pulse vs Nagoya Grampus 12:00 ngày 25/04 Japanese J1 League", Shimizu S-Pulse vs Nagoya Grampus 12:00 ngày 25/04 Japanese J1 League (Link 2)
-https://live.alilicloud.com/live/1ab8a68d476ef0c13cd9c5f78f846a40/playlist.m3u8
-#EXTINF:-1 tvg-id="601398706" group-title="Fagiano Okayama vs Avispa Fukuoka 12:00 ngày 25/04 Japanese J1 League", Fagiano Okayama vs Avispa Fukuoka 12:00 ngày 25/04 Japanese J1 League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69ec4bd042281_95554/index.m3u8?expire=1777698384&amp;sign=ecdc490e72e15b472520c98dd3ba223e
-#EXTINF:-1 tvg-id="601398706" group-title="Fagiano Okayama vs Avispa Fukuoka 12:00 ngày 25/04 Japanese J1 League", Fagiano Okayama vs Avispa Fukuoka 12:00 ngày 25/04 Japanese J1 League (Link 2)
-https://live.alilicloud.com/live/a34e317d80e2ce059fe424d8915bb045/playlist.m3u8
-#EXTINF:-1 tvg-id="601398703" group-title="Urawa Red Diamonds vs Yokohama F. Marinos 12:00 ngày 25/04 Japanese J1 League", Urawa Red Diamonds vs Yokohama F. Marinos 12:00 ngày 25/04 Japanese J1 League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69ec40ef42281_85514/index.m3u8?expire=1777695599&amp;sign=02d5f470d5da807f57d2627e7942e552
-#EXTINF:-1 tvg-id="601398703" group-title="Urawa Red Diamonds vs Yokohama F. Marinos 12:00 ngày 25/04 Japanese J1 League", Urawa Red Diamonds vs Yokohama F. Marinos 12:00 ngày 25/04 Japanese J1 League (Link 2)
-https://live.alilicloud.com/live/74e50535f00a018731913e90501e4731/playlist.m3u8
-#EXTINF:-1 tvg-id="601416727" group-title="Houston Rockets vs Los Angeles Lakers 07:00 ngày 25/04 NBA", Houston Rockets vs Los Angeles Lakers 07:00 ngày 25/04 NBA
-https://cdn-hls.taoxanh.biz/live/69ec0143203f3_153967/index.m3u8?expire=1777679299&amp;sign=6142297edcae8452ecb72fe32abeea87
+#EXTINF:-1 tvg-id="601398799" group-title="Kawasaki Frontale vs JEF United Ichihara Chiba 13:00 ngày 25/04 Japanese J1 League", Kawasaki Frontale vs JEF United Ichihara Chiba 13:00 ngày 25/04 Japanese J1 League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69ec52ee42281_88642/index.m3u8?expire=1777700206&amp;sign=040fba0ad31d3fb82ca79f68aa53a4eb
+#EXTINF:-1 tvg-id="601398799" group-title="Kawasaki Frontale vs JEF United Ichihara Chiba 13:00 ngày 25/04 Japanese J1 League", Kawasaki Frontale vs JEF United Ichihara Chiba 13:00 ngày 25/04 Japanese J1 League (Link 2)
+https://live.alilicloud.com/live/0a34917f695f2650b8214809a91c4bf5/playlist.m3u8
+#EXTINF:-1 tvg-id="601398814" group-title="Newcastle Jets vs Central Coast Mariners 14:00 ngày 25/04 Australia A-League", Newcastle Jets vs Central Coast Mariners 14:00 ngày 25/04 Australia A-League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69ec4e4542281_124958/index.m3u8?expire=1777699013&amp;sign=31f9ebb0c6d0efa48730c2ce323f2a4b
+#EXTINF:-1 tvg-id="601398814" group-title="Newcastle Jets vs Central Coast Mariners 14:00 ngày 25/04 Australia A-League", Newcastle Jets vs Central Coast Mariners 14:00 ngày 25/04 Australia A-League (Link 2)
+https://live.alilicloud.com/live/a7e16ce234b2b7818f2751b34d230844/playlist.m3u8
+#EXTINF:-1 tvg-id="601398820" group-title="Sanfrecce Hiroshima vs Cerezo Osaka 14:00 ngày 25/04 Japanese J1 League", Sanfrecce Hiroshima vs Cerezo Osaka 14:00 ngày 25/04 Japanese J1 League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69ec5f7c203f3_4908/index.m3u8?expire=1777703420&amp;sign=76fff3760470a907b733dc02523646b7
+#EXTINF:-1 tvg-id="601398820" group-title="Sanfrecce Hiroshima vs Cerezo Osaka 14:00 ngày 25/04 Japanese J1 League", Sanfrecce Hiroshima vs Cerezo Osaka 14:00 ngày 25/04 Japanese J1 League (Link 2)
+https://live.alilicloud.com/live/9e55c310cee7cc8ee871d046c8b358b2/playlist.m3u8
+#EXTINF:-1 tvg-id="601398886" group-title="Brisbane Roar Women vs Adelaide United Women 14:00 ngày 25/04 Australia W-League", Brisbane Roar Women vs Adelaide United Women 14:00 ngày 25/04 Australia W-League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69ec6040203f3_72787/index.m3u8?expire=1777703616&amp;sign=13363891688a3069032439d2a1f06019
+#EXTINF:-1 tvg-id="601398886" group-title="Brisbane Roar Women vs Adelaide United Women 14:00 ngày 25/04 Australia W-League", Brisbane Roar Women vs Adelaide United Women 14:00 ngày 25/04 Australia W-League (Link 2)
+https://live.alilicloud.com/live/1b7402d85e8242160ba9c46f5d2fc2da/playlist.m3u8
+#EXTINF:-1 tvg-id="601417633" group-title="CHOU Tien Chen vs Gustav BJORKLER 13:30 ngày 25/04 BWF Thomas &amp; Uber Cup Finals 2026  - SÂN 2", CHOU Tien Chen vs Gustav BJORKLER 13:30 ngày 25/04 BWF Thomas &amp; Uber Cup Finals 2026  - SÂN 2
+https://cdn-hls.taoxanh.biz/live/69ec5bfb42281_5160/index.m3u8?expire=1777702523&amp;sign=a8ef25e63aaa247b2b629c4e9e844e25
+#EXTINF:-1 tvg-id="601417630" group-title="Karupathevan LETSHANAA vs Neslihan ARIN 13:30 ngày 25/04 BWF Thomas &amp; Uber Cup Finals 2026 - SÂN 1", Karupathevan LETSHANAA vs Neslihan ARIN 13:30 ngày 25/04 BWF Thomas &amp; Uber Cup Finals 2026 - SÂN 1
+https://cdn-hls.taoxanh.biz/live/69ec5cce42281_18754/index.m3u8?expire=1777702734&amp;sign=db4d650f0fc0cd70b548f115accbf71a
+#EXTINF:-1 tvg-id="601417636" group-title="Riko GUNJI vs LAI Chloe 14:10 ngày 25/04 BWF Thomas &amp; Uber Cup Finals 2026 - SÂN 3", Riko GUNJI vs LAI Chloe 14:10 ngày 25/04 BWF Thomas &amp; Uber Cup Finals 2026 - SÂN 3
+https://cdn-hls.taoxanh.biz/live/69ec5847203f3_153967/index.m3u8?expire=1777701575&amp;sign=ae0012e1d4d80e84afd0a7582c1b3a05
 #EXTINF:-1 tvg-id="601418146" group-title="SHEN SHEN YI vs ZHENG XIAO HUAI 11:00 ngày 25/04 Duya Legends Golden Nine International Classic", SHEN SHEN YI vs ZHENG XIAO HUAI 11:00 ngày 25/04 Duya Legends Golden Nine International Classic
 https://cdn-hls.taoxanh.biz/live/69ec3bd6203f3_103/index.m3u8?expire=1777694294&amp;sign=e953bd28194f0759acb63e0b473f08c8
-#EXTINF:-1 tvg-id="601398694" group-title="Canberra United (w) vs Melbourne Victory (w) 11:00 ngày 25/04 Australia W-League", Canberra United (w) vs Melbourne Victory (w) 11:00 ngày 25/04 Australia W-League
-https://live.alilicloud.com/live/2059fa1965d87eac9ad6e85e93112d1f/playlist.m3u8
-#EXTINF:-1 tvg-id="601398682" group-title="Newcastle Olympic vs Edgeworth Eagles FC 11:00 ngày 25/04 Australia Northern New South Wales Premier League", Newcastle Olympic vs Edgeworth Eagles FC 11:00 ngày 25/04 Australia Northern New South Wales Premier League
-https://live.alilicloud.com/live/f3a13025ed95366439f2cb49defbe9bb/playlist.m3u8
-#EXTINF:-1 tvg-id="601398775" group-title="Daejeon Korail vs Changwon City 12:00 ngày 25/04 Korean K League 3", Daejeon Korail vs Changwon City 12:00 ngày 25/04 Korean K League 3
-https://live.alilicloud.com/live/4004aea84ab52e097235e6b6550a1640/playlist.m3u8
-#EXTINF:-1 tvg-id="601398778" group-title="Adamstown Rosebuds FC vs Weston Workers FC 12:00 ngày 25/04 Australia Northern New South Wales Premier League", Adamstown Rosebuds FC vs Weston Workers FC 12:00 ngày 25/04 Australia Northern New South Wales Premier League
-https://live.alilicloud.com/live/697956cc6d33415a5461622dc2b289b1/playlist.m3u8
-#EXTINF:-1 tvg-id="601398781" group-title="Boeun Sangmu (w) vs Gyeongju FC (w) 12:00 ngày 25/04 Korean WK League", Boeun Sangmu (w) vs Gyeongju FC (w) 12:00 ngày 25/04 Korean WK League
-https://live.alilicloud.com/live/9666ce85095d10aa9acf72df6e895005/playlist.m3u8
-#EXTINF:-1 tvg-id="601398772" group-title="Jeonbuk Hyundai Motors II vs Dangjin Citizen 12:00 ngày 25/04 Korean K League 3", Jeonbuk Hyundai Motors II vs Dangjin Citizen 12:00 ngày 25/04 Korean K League 3
-https://live.alilicloud.com/live/98256764978a52efa1e99d358dae0e9b/playlist.m3u8
-#EXTINF:-1 tvg-id="601398769" group-title="Gyeongju KHNP vs Ulsan Citizens 12:00 ngày 25/04 Korean K League 3", Gyeongju KHNP vs Ulsan Citizens 12:00 ngày 25/04 Korean K League 3
-https://live.alilicloud.com/live/59c73b5732cfa779076986bea84cbafc/playlist.m3u8
-#EXTINF:-1 tvg-id="601398763" group-title="Suwon Samsung Bluewings vs Busan I Park 12:00 ngày 25/04 Korean K League 2", Suwon Samsung Bluewings vs Busan I Park 12:00 ngày 25/04 Korean K League 2
-https://live.alilicloud.com/live/5fc841786a9cf4184db8824211110cde/playlist.m3u8
-#EXTINF:-1 tvg-id="601398748" group-title="Tegevajaro Miyazaki vs Kagoshima United 12:00 ngày 25/04 J2/J3 100 Year Vision League", Tegevajaro Miyazaki vs Kagoshima United 12:00 ngày 25/04 J2/J3 100 Year Vision League
-https://live.alilicloud.com/live/f56249c64e9bde48ffe716364de2d83d/playlist.m3u8
-#EXTINF:-1 tvg-id="601398745" group-title="Hokkaido Consadole Sapporo vs Iwaki FC 12:00 ngày 25/04 J2/J3 100 Year Vision League", Hokkaido Consadole Sapporo vs Iwaki FC 12:00 ngày 25/04 J2/J3 100 Year Vision League
-https://live.alilicloud.com/live/190f84197dd5ad9ebf6c9b3fecde3927/playlist.m3u8
-#EXTINF:-1 tvg-id="601398733" group-title="Sagan Tosu vs Reilac Shiga FC 12:00 ngày 25/04 J2/J3 100 Year Vision League", Sagan Tosu vs Reilac Shiga FC 12:00 ngày 25/04 J2/J3 100 Year Vision League
-https://live.alilicloud.com/live/0b8ec3f16bca7ef80150d8c8583b4112/playlist.m3u8
-#EXTINF:-1 tvg-id="601398742" group-title="Zweigen Kanazawa FC vs Nara Club 12:00 ngày 25/04 J2/J3 100 Year Vision League", Zweigen Kanazawa FC vs Nara Club 12:00 ngày 25/04 J2/J3 100 Year Vision League
-https://live.alilicloud.com/live/7c67978dd411a9f69f7f56ed9f3a0709/playlist.m3u8
 #EXTINF:-1 tvg-id="601398739" group-title="Fujieda MYFC vs RB Omiya Ardija 12:00 ngày 25/04 J2/J3 100 Year Vision League", Fujieda MYFC vs RB Omiya Ardija 12:00 ngày 25/04 J2/J3 100 Year Vision League
 https://live.alilicloud.com/live/fc2c0430caf5d16f0f49305c1b4d5e67/playlist.m3u8
-#EXTINF:-1 tvg-id="601398736" group-title="Vegalta Sendai vs Montedio Yamagata 12:00 ngày 25/04 J2/J3 100 Year Vision League", Vegalta Sendai vs Montedio Yamagata 12:00 ngày 25/04 J2/J3 100 Year Vision League
-https://live.alilicloud.com/live/ce08334ebf8847af2d5a8a0329c7b89e/playlist.m3u8
-#EXTINF:-1 tvg-id="601398730" group-title="Fukushima United FC vs Ventforet Kofu 12:00 ngày 25/04 J2/J3 100 Year Vision League", Fukushima United FC vs Ventforet Kofu 12:00 ngày 25/04 J2/J3 100 Year Vision League
-https://live.alilicloud.com/live/f736df5b83f10637bcc1bda6b315f7fa/playlist.m3u8
-#EXTINF:-1 tvg-id="601398727" group-title="Giravanz Kitakyushu vs Renofa Yamaguchi 12:00 ngày 25/04 J2/J3 100 Year Vision League", Giravanz Kitakyushu vs Renofa Yamaguchi 12:00 ngày 25/04 J2/J3 100 Year Vision League
-https://live.alilicloud.com/live/5d78275cd2044b3ce77062490421819b/playlist.m3u8
-#EXTINF:-1 tvg-id="601398724" group-title="Imabari FC vs Kataller Toyama 12:00 ngày 25/04 J2/J3 100 Year Vision League", Imabari FC vs Kataller Toyama 12:00 ngày 25/04 J2/J3 100 Year Vision League
-https://live.alilicloud.com/live/373ad126c145599e2aaad535d5f437a9/playlist.m3u8
-#EXTINF:-1 tvg-id="601398721" group-title="Tochigi City vs Tochigi SC 12:00 ngày 25/04 J2/J3 100 Year Vision League", Tochigi City vs Tochigi SC 12:00 ngày 25/04 J2/J3 100 Year Vision League
-https://live.alilicloud.com/live/c679bcc4ca171ffcc26a7391bc136cb1/playlist.m3u8
-#EXTINF:-1 tvg-id="601398718" group-title="Thespa Kusatsu Gunma vs Yokohama FC 12:00 ngày 25/04 J2/J3 100 Year Vision League", Thespa Kusatsu Gunma vs Yokohama FC 12:00 ngày 25/04 J2/J3 100 Year Vision League
-https://live.alilicloud.com/live/216a8b5b796724c46f17acf31bf2cae1/playlist.m3u8
-#EXTINF:-1 tvg-id="601398715" group-title="Albirex Niigata vs FC Osaka 12:00 ngày 25/04 J2/J3 100 Year Vision League", Albirex Niigata vs FC Osaka 12:00 ngày 25/04 J2/J3 100 Year Vision League
-https://live.alilicloud.com/live/3be7c9de4c8734f426a96c8c01ef6a87/playlist.m3u8
-#EXTINF:-1 tvg-id="601395283" group-title="Preston Lions (w) vs Melbourne City Youth(W) 12:00 ngày 25/04 Australia Victorian Women's Premier League", Preston Lions (w) vs Melbourne City Youth(W) 12:00 ngày 25/04 Australia Victorian Women's Premier League
-https://live.alilicloud.com/live/9c5ad5a6036d9594e826858ab2c5dff9/playlist.m3u8
-#EXTINF:-1 tvg-id="601401976" group-title="Nagoya Diamond Dolphins vs Utsunomiya Brex 11:05 ngày 25/04 B1 League", Nagoya Diamond Dolphins vs Utsunomiya Brex 11:05 ngày 25/04 B1 League
-https://live.alilicloud.com/live/b2e955849fd0c5b5704fe50e84023de2/playlist.m3u8
-#EXTINF:-1 tvg-id="601401979" group-title="Manawatu Jets vs Auckland Tuatara 11:30 ngày 25/04 New Zealand National Basketball League", Manawatu Jets vs Auckland Tuatara 11:30 ngày 25/04 New Zealand National Basketball League
-https://live.alilicloud.com/live/2ecb4411b389ff2d622f77a27316f029/playlist.m3u8
-#EXTINF:-1 tvg-id="601401982" group-title="Iwate Big Bulls vs Aomori Wat's 11:55 ngày 25/04 B2 League", Iwate Big Bulls vs Aomori Wat's 11:55 ngày 25/04 B2 League
-https://live.alilicloud.com/live/9eea0afed4dd55fa0076a569e2db0417/playlist.m3u8
-#EXTINF:-1 tvg-id="601401985" group-title="Changwon LG Sakers vs Goyang Sono Skygunners 12:00 ngày 25/04 Korean Basketball League", Changwon LG Sakers vs Goyang Sono Skygunners 12:00 ngày 25/04 Korean Basketball League
-https://live.alilicloud.com/live/2e2dc884bf695c3c2ba42f9fded0ea70/playlist.m3u8
-#EXTINF:-1 tvg-id="601401988" group-title="Sendai 89ers vs Yokohama B-Corsairs 12:05 ngày 25/04 B1 League", Sendai 89ers vs Yokohama B-Corsairs 12:05 ngày 25/04 B1 League
-https://live.alilicloud.com/live/54335a321c3a15ae28f1401e1ef927d8/playlist.m3u8
-#EXTINF:-1 tvg-id="601401991" group-title="Chiba Jets vs Hiroshima Dragonflies 12:05 ngày 25/04 B1 League", Chiba Jets vs Hiroshima Dragonflies 12:05 ngày 25/04 B1 League
-https://live.alilicloud.com/live/5e48c849435ca6c6f0b8ba4e81aee397/playlist.m3u8
-#EXTINF:-1 tvg-id="601398799" group-title="Kawasaki Frontale vs JEF United Ichihara Chiba 13:00 ngày 25/04 Japanese J1 League", Kawasaki Frontale vs JEF United Ichihara Chiba 13:00 ngày 25/04 Japanese J1 League
-https://cdn-hls.taoxanh.biz/live/69ec52ee42281_88642/index.m3u8?expire=1777700206&amp;sign=040fba0ad31d3fb82ca79f68aa53a4eb
-#EXTINF:-1 tvg-id="601398814" group-title="Newcastle Jets vs Central Coast Mariners 14:00 ngày 25/04 Australia A-League", Newcastle Jets vs Central Coast Mariners 14:00 ngày 25/04 Australia A-League
-https://cdn-hls.taoxanh.biz/live/69ec4e4542281_124958/index.m3u8?expire=1777699013&amp;sign=31f9ebb0c6d0efa48730c2ce323f2a4b
+#EXTINF:-1 tvg-id="601398802" group-title="Yenisey Krasnoyarsk (w) vs Chertanovo Moscow (w) 13:00 ngày 25/04 Russian Women's Premier League", Yenisey Krasnoyarsk (w) vs Chertanovo Moscow (w) 13:00 ngày 25/04 Russian Women's Premier League
+https://live.alilicloud.com/live/44da7818071dfaa88395ad967c01900d/playlist.m3u8
+#EXTINF:-1 tvg-id="601395271" group-title="Heidelberg United (w) vs Keilor Park (w) 13:15 ngày 25/04 Australia Victorian Women's Premier League", Heidelberg United (w) vs Keilor Park (w) 13:15 ngày 25/04 Australia Victorian Women's Premier League
+https://live.alilicloud.com/live/c7873cf687ffddc35677575449e58e88/playlist.m3u8
+#EXTINF:-1 tvg-id="601398811" group-title="Taichung Sakura (W) vs Taichung Blue Whale (w) 14:00 ngày 25/04 Chinese Taiwan Mulan Football League", Taichung Sakura (W) vs Taichung Blue Whale (w) 14:00 ngày 25/04 Chinese Taiwan Mulan Football League
+https://live.alilicloud.com/live/da026bf20307114020cefd54071accc4/playlist.m3u8
+#EXTINF:-1 tvg-id="601398871" group-title="Tianmen Team vs Xiaogan Team 14:00 ngày 25/04 Hubei City Football League", Tianmen Team vs Xiaogan Team 14:00 ngày 25/04 Hubei City Football League
+https://live.alilicloud.com/live/10f6f99881b08249d0e1cbd107c1aa82/playlist.m3u8
+#EXTINF:-1 tvg-id="601398868" group-title="Shanxi Chongde Ronghai vs Shanghai Port B 14:00 ngày 25/04 Chinese Football League 2", Shanxi Chongde Ronghai vs Shanghai Port B 14:00 ngày 25/04 Chinese Football League 2
+https://live.alilicloud.com/live/27b5dc2d38c3b285bedef5dc57e3c2c0/playlist.m3u8
+#EXTINF:-1 tvg-id="601398835" group-title="Fremantle City vs Sorrento F.C. 14:00 ngày 25/04 Western Australia National Premier Leagues", Fremantle City vs Sorrento F.C. 14:00 ngày 25/04 Western Australia National Premier Leagues
+https://live.alilicloud.com/live/49831aa267ebae6115337ac336c91741/playlist.m3u8
+#EXTINF:-1 tvg-id="601398808" group-title="Hang Yuan FC (w) vs Taipei Brao Women 14:00 ngày 25/04 Chinese Taiwan Mulan Football League", Hang Yuan FC (w) vs Taipei Brao Women 14:00 ngày 25/04 Chinese Taiwan Mulan Football League
+https://live.alilicloud.com/live/0dd043497bdca7d147fcab37a70a587e/playlist.m3u8
+#EXTINF:-1 tvg-id="601398817" group-title="Ipswich City vs Sunshine Coast Wanderers FC 14:00 ngày 25/04 Australia Queensland State League 1", Ipswich City vs Sunshine Coast Wanderers FC 14:00 ngày 25/04 Australia Queensland State League 1
+https://live.alilicloud.com/live/5d88263aa0a2d3ad0370a7081f93f651/playlist.m3u8
+#EXTINF:-1 tvg-id="601398823" group-title="Sydney Olympic vs University NSW 14:00 ngày 25/04 Australia New South Wales Premier League", Sydney Olympic vs University NSW 14:00 ngày 25/04 Australia New South Wales Premier League
+https://live.alilicloud.com/live/df96162e68bd5e6baf8da64df9b5fe73/playlist.m3u8
+#EXTINF:-1 tvg-id="601398829" group-title="Armadale SC vs Stirling Macedonia 14:00 ngày 25/04 Western Australia National Premier Leagues", Armadale SC vs Stirling Macedonia 14:00 ngày 25/04 Western Australia National Premier Leagues
+https://live.alilicloud.com/live/2dadd93243c3885089f5fb6a41065669/playlist.m3u8
+#EXTINF:-1 tvg-id="601398865" group-title="Yanbian Longding vs Shaanxi Union 14:00 ngày 25/04 Chinese Football League 1", Yanbian Longding vs Shaanxi Union 14:00 ngày 25/04 Chinese Football League 1
+https://live.alilicloud.com/live/3551d5716b2e5720d1f4a9103fe303b4/playlist.m3u8
+#EXTINF:-1 tvg-id="601398838" group-title="Olympic Kingsway SC vs Western Knights 14:00 ngày 25/04 Western Australia National Premier Leagues", Olympic Kingsway SC vs Western Knights 14:00 ngày 25/04 Western Australia National Premier Leagues
+https://live.alilicloud.com/live/1b8cf01f88f1fb961bc7f997d208f9d0/playlist.m3u8
+#EXTINF:-1 tvg-id="601398841" group-title="Inglewood United vs Willip 14:00 ngày 25/04 Western Australia State League 1", Inglewood United vs Willip 14:00 ngày 25/04 Western Australia State League 1
+https://live.alilicloud.com/live/02328210a616a960fe9e640e22dc0d97/playlist.m3u8
+#EXTINF:-1 tvg-id="601398844" group-title="Kingsley Westside vs Cockburn City 14:00 ngày 25/04 Western Australia State League 1", Kingsley Westside vs Cockburn City 14:00 ngày 25/04 Western Australia State League 1
+https://live.alilicloud.com/live/c9f7cdcc85ee5ab195f1e16f8b94378d/playlist.m3u8
+#EXTINF:-1 tvg-id="601398850" group-title="UWA-Nedlands FC vs Quinns FC 14:00 ngày 25/04 Western Australia State League 1", UWA-Nedlands FC vs Quinns FC 14:00 ngày 25/04 Western Australia State League 1
+https://live.alilicloud.com/live/8f1f7534f6afed5c6ec4e35283bdbeac/playlist.m3u8
+#EXTINF:-1 tvg-id="601398847" group-title="Murdoch Uni Melville vs Subiaco AFC 14:00 ngày 25/04 Western Australia State League 1", Murdoch Uni Melville vs Subiaco AFC 14:00 ngày 25/04 Western Australia State League 1
+https://live.alilicloud.com/live/b687f2949f03acba42560087284013f7/playlist.m3u8
+#EXTINF:-1 tvg-id="601401994" group-title="Sydney Comets vs Norths Bears 13:00 ngày 25/04 NBL1 Eastern", Sydney Comets vs Norths Bears 13:00 ngày 25/04 NBL1 Eastern
+https://live.alilicloud.com/live/0b5b8318366a4b14c65b26415535691b/playlist.m3u8
+#EXTINF:-1 tvg-id="601402006" group-title="SeaHorses Mikawa vs San-en NeoPhoenix 13:05 ngày 25/04 B1 League", SeaHorses Mikawa vs San-en NeoPhoenix 13:05 ngày 25/04 B1 League
+https://live.alilicloud.com/live/9a51b9f35db5aeb7af6997819931268b/playlist.m3u8
+#EXTINF:-1 tvg-id="601402027" group-title="Tokyo Excellence vs Fukushima Firebonds 13:05 ngày 25/04 B2 League", Tokyo Excellence vs Fukushima Firebonds 13:05 ngày 25/04 B2 League
+https://live.alilicloud.com/live/ac93c6d36d9e7d8e0fc338794765e14b/playlist.m3u8
+#EXTINF:-1 tvg-id="601402024" group-title="Ehime Orange Vikings vs Bambitious Nara 13:05 ngày 25/04 B2 League", Ehime Orange Vikings vs Bambitious Nara 13:05 ngày 25/04 B2 League
+https://live.alilicloud.com/live/052b6486551e8fe9df3e88a54a68bbc3/playlist.m3u8
+#EXTINF:-1 tvg-id="601402021" group-title="Fukui Blowinds vs Shinshu Brave Warriors 13:05 ngày 25/04 B2 League", Fukui Blowinds vs Shinshu Brave Warriors 13:05 ngày 25/04 B2 League
+https://live.alilicloud.com/live/982a38acafa3183a015e3b2a815e9ba6/playlist.m3u8
+#EXTINF:-1 tvg-id="601402018" group-title="Levanga Hokkaido vs Gunma Crane Thunders 13:05 ngày 25/04 B1 League", Levanga Hokkaido vs Gunma Crane Thunders 13:05 ngày 25/04 B1 League
+https://live.alilicloud.com/live/9e54c88e9371f5216ceb04f0620eb260/playlist.m3u8
+#EXTINF:-1 tvg-id="601402015" group-title="Koshigaya Alphas vs Kawasaki Brave Thunders 13:05 ngày 25/04 B1 League", Koshigaya Alphas vs Kawasaki Brave Thunders 13:05 ngày 25/04 B1 League
+https://live.alilicloud.com/live/8c9c60aa1666aba2440419bea2adafb4/playlist.m3u8
+#EXTINF:-1 tvg-id="601402009" group-title="Toyama Grouses vs Akita Northern Happinets 13:05 ngày 25/04 B1 League", Toyama Grouses vs Akita Northern Happinets 13:05 ngày 25/04 B1 League
+https://live.alilicloud.com/live/88d69e20b9609ccc8f241bf5fa4b0667/playlist.m3u8
+#EXTINF:-1 tvg-id="601402003" group-title="Shimane Susanoo Magic vs Ibaraki Robots 13:05 ngày 25/04 B1 League", Shimane Susanoo Magic vs Ibaraki Robots 13:05 ngày 25/04 B1 League
+https://live.alilicloud.com/live/26f22f24b27419665296b55b3f511f5b/playlist.m3u8
+#EXTINF:-1 tvg-id="601402000" group-title="Kyoto Hannaryz vs Osaka Evessa 13:05 ngày 25/04 B1 League", Kyoto Hannaryz vs Osaka Evessa 13:05 ngày 25/04 B1 League
+https://live.alilicloud.com/live/3069030b3f3813133516bfddf2c890e1/playlist.m3u8
+#EXTINF:-1 tvg-id="601401997" group-title="Kumamoto Volters vs Kagoshima Rebnise 13:05 ngày 25/04 B2 League", Kumamoto Volters vs Kagoshima Rebnise 13:05 ngày 25/04 B2 League
+https://live.alilicloud.com/live/20d2a3d2b5a3881ba6da6cb93ea8f088/playlist.m3u8
+#EXTINF:-1 tvg-id="601402012" group-title="Yamagata Wyverns vs Kobe Storks 13:05 ngày 25/04 B2 League", Yamagata Wyverns vs Kobe Storks 13:05 ngày 25/04 B2 League
+https://live.alilicloud.com/live/628cf486eef44a6c7c8b42147262cebf/playlist.m3u8
+#EXTINF:-1 tvg-id="601402030" group-title="Taiwan Beer Leopards vs Kaohsiung Aquas 13:30 ngày 25/04 China Taipei Professional Basketball League", Taiwan Beer Leopards vs Kaohsiung Aquas 13:30 ngày 25/04 China Taipei Professional Basketball League
+https://live.alilicloud.com/live/baacf7211048654f0ba8fa2c91025674/playlist.m3u8
+#EXTINF:-1 tvg-id="601402033" group-title="Kalamunda Eastern Suns Women vs Willetton Tigers Women 13:30 ngày 25/04 National Women’s Basketball League1 West", Kalamunda Eastern Suns Women vs Willetton Tigers Women 13:30 ngày 25/04 National Women’s Basketball League1 West
+https://live.alilicloud.com/live/035fbd45623d82909d673b0083a990ce/playlist.m3u8
+#EXTINF:-1 tvg-id="601402039" group-title="Fighting Eagles Nagoya vs Nagasaki Velca 13:35 ngày 25/04 B1 League", Fighting Eagles Nagoya vs Nagasaki Velca 13:35 ngày 25/04 B1 League
+https://live.alilicloud.com/live/118257959643feb66cce5a372a2508bc/playlist.m3u8
+#EXTINF:-1 tvg-id="601402051" group-title="Inner West Bulls Women vs Bankstown Bruins Women 14:00 ngày 25/04 National Women’s Basketball League1 East", Inner West Bulls Women vs Bankstown Bruins Women 14:00 ngày 25/04 National Women’s Basketball League1 East
+https://live.alilicloud.com/live/01fd6a465889a115de35c73f2348f1b4/playlist.m3u8
+#EXTINF:-1 tvg-id="601402042" group-title="Sandringham Sabres (W) vs Knox Raiders Women 14:00 ngày 25/04 National Women’s Basketball League1 South", Sandringham Sabres (W) vs Knox Raiders Women 14:00 ngày 25/04 National Women’s Basketball League1 South
+https://live.alilicloud.com/live/0b4078096b7bb74b4ee53a4fc695eea8/playlist.m3u8
+#EXTINF:-1 tvg-id="601402045" group-title="Hornsby Spiders Women vs Maitland Mustangs Women 14:00 ngày 25/04 National Women’s Basketball League1 East", Hornsby Spiders Women vs Maitland Mustangs Women 14:00 ngày 25/04 National Women’s Basketball League1 East
+https://live.alilicloud.com/live/b0c9c203aad94b222bf9d5176ac0e149/playlist.m3u8
+#EXTINF:-1 tvg-id="601413922" group-title="Taiyuan Women vs ChungHua Telecom Women 14:00 ngày 25/04 China Women' Taiwan Super Basketball League", Taiyuan Women vs ChungHua Telecom Women 14:00 ngày 25/04 China Women' Taiwan Super Basketball League
+https://live.alilicloud.com/live/48987eee8364b6275aeb389c7f93ff2b/playlist.m3u8
+#EXTINF:-1 tvg-id="601402054" group-title="Illawarra Hawks Waratah (w) vs Sutherland Sharks Women 14:00 ngày 25/04 National Women’s Basketball League1 East", Illawarra Hawks Waratah (w) vs Sutherland Sharks Women 14:00 ngày 25/04 National Women’s Basketball League1 East
+https://live.alilicloud.com/live/62fa44a6d62ad6faf237e7cd3ac00ba6/playlist.m3u8
+#EXTINF:-1 tvg-id="601398895" group-title="Incheon United Club vs Jeju SK FC 14:30 ngày 25/04 Korean K League 1", Incheon United Club vs Jeju SK FC 14:30 ngày 25/04 Korean K League 1
+https://cdn-hls.taoxanh.biz/live/69ec65c1203f3_136682/index.m3u8?expire=1777705025&amp;sign=d75035b132997e16bd1a3f313b8340c8
 #EXTINF:-1 tvg-id="601399804" group-title="Madura United vs Dewa United FC 15:30 ngày 25/04 Indonesian Liga 1", Madura United vs Dewa United FC 15:30 ngày 25/04 Indonesian Liga 1
 https://cdn-hls.taoxanh.biz/live/69ec5801203f3_88642/index.m3u8?expire=1777701505&amp;sign=b118d9496a294718256dbf5d3ad3114e
 #EXTINF:-1 tvg-id="601399429" group-title="Fulham vs Aston Villa 18:30 ngày 25/04 English Premier League", Fulham vs Aston Villa 18:30 ngày 25/04 English Premier League
