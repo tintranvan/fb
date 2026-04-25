@@ -1,44 +1,46 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601398619" group-title="Racing Club de Avellaneda vs Barracas Central 07:30 ngày 25/04 Argentine Division 1", Racing Club de Avellaneda vs Barracas Central 07:30 ngày 25/04 Argentine Division 1 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69ebfb4642281_88642/index.m3u8?expire=1777677766&amp;sign=697aad0727b4ee44f663cae221295088
-#EXTINF:-1 tvg-id="601398619" group-title="Racing Club de Avellaneda vs Barracas Central 07:30 ngày 25/04 Argentine Division 1", Racing Club de Avellaneda vs Barracas Central 07:30 ngày 25/04 Argentine Division 1 (Link 2)
-https://live.alilicloud.com/live/a30f17838af92410c4f0c7fa6971ff70/playlist.m3u8
-#EXTINF:-1 tvg-id="601404622" group-title="CA Platense vs San Lorenzo 07:30 ngày 25/04 Argentine Division 1", CA Platense vs San Lorenzo 07:30 ngày 25/04 Argentine Division 1 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69ec056d42281_74012/index.m3u8?expire=1777680365&amp;sign=0380d4d230d27c7796b390daef63faf1
-#EXTINF:-1 tvg-id="601404622" group-title="CA Platense vs San Lorenzo 07:30 ngày 25/04 Argentine Division 1", CA Platense vs San Lorenzo 07:30 ngày 25/04 Argentine Division 1 (Link 2)
-https://live.alilicloud.com/live/43c7a90c3f413b10acc3298d19997cb6/playlist.m3u8
-#EXTINF:-1 tvg-id="601416724" group-title="Philadelphia 76ers vs Boston Celtics 06:00 ngày 25/04 NBA", Philadelphia 76ers vs Boston Celtics 06:00 ngày 25/04 NBA (Link 1)
-https://cdn-hls.taoxanh.biz/live/69ebf3a142281_4733/index.m3u8?expire=1777675809&amp;sign=ac45f26f6b08752f9215800b5541adc1
-#EXTINF:-1 tvg-id="601416724" group-title="Philadelphia 76ers vs Boston Celtics 06:00 ngày 25/04 NBA", Philadelphia 76ers vs Boston Celtics 06:00 ngày 25/04 NBA (Link 2)
-https://cdn-hls.taoxanh.biz/live/69ebf1c9203f3_42127/index.m3u8?expire=1777675337&amp;sign=3e21b6412df10f4c9628f4e31fb4d288
-#EXTINF:-1 tvg-id="601416727" group-title="Houston Rockets vs Los Angeles Lakers 07:00 ngày 25/04 NBA", Houston Rockets vs Los Angeles Lakers 07:00 ngày 25/04 NBA (Link 1)
+#EXTINF:-1 tvg-id="601398646" group-title="Puebla vs Queretaro FC 10:00 ngày 25/04 Mexico Liga MX", Puebla vs Queretaro FC 10:00 ngày 25/04 Mexico Liga MX (Link 1)
+https://cdn-hls.taoxanh.biz/live/69ec2123203f3_95554/index.m3u8?expire=1777687459&amp;sign=9f5367383c36bacf7df0e8103b04beb3
+#EXTINF:-1 tvg-id="601398646" group-title="Puebla vs Queretaro FC 10:00 ngày 25/04 Mexico Liga MX", Puebla vs Queretaro FC 10:00 ngày 25/04 Mexico Liga MX (Link 2)
+https://live.alilicloud.com/live/fda015699c7f82ac19f81d6246664012/playlist.m3u8
+#EXTINF:-1 tvg-id="601416727" group-title="Houston Rockets vs Los Angeles Lakers 07:00 ngày 25/04 NBA", Houston Rockets vs Los Angeles Lakers 07:00 ngày 25/04 NBA
 https://cdn-hls.taoxanh.biz/live/69ec0143203f3_153967/index.m3u8?expire=1777679299&amp;sign=6142297edcae8452ecb72fe32abeea87
-#EXTINF:-1 tvg-id="601416727" group-title="Houston Rockets vs Los Angeles Lakers 07:00 ngày 25/04 NBA", Houston Rockets vs Los Angeles Lakers 07:00 ngày 25/04 NBA (Link 2)
-https://cdn-hls.taoxanh.biz/live/69ebff7142281_72787/index.m3u8?expire=1777678833&amp;sign=22f6cb723c334097e741b57c43f7655d
-#EXTINF:-1 tvg-id="601398598" group-title="Supra Du Quebec vs HFX Wanderers FC 06:10 ngày 25/04 Canadian Premier League", Supra Du Quebec vs HFX Wanderers FC 06:10 ngày 25/04 Canadian Premier League
-https://live.alilicloud.com/live/7d56f7b8eae12255e85eb17a16845966/playlist.m3u8
-#EXTINF:-1 tvg-id="601417777" group-title="CRKSV Jong Colombia vs Jong Holland 07:00 ngày 25/04 Curacao Liga MCB 1st Division", CRKSV Jong Colombia vs Jong Holland 07:00 ngày 25/04 Curacao Liga MCB 1st Division
-https://live.alilicloud.com/live/c8762a61b9382b856a629fb6455c4c4b/playlist.m3u8
-#EXTINF:-1 tvg-id="601398613" group-title="Washington Spirit (w) vs Kansas City Current (w) 07:10 ngày 25/04 United States Women's National Soccer League", Washington Spirit (w) vs Kansas City Current (w) 07:10 ngày 25/04 United States Women's National Soccer League
-https://live.alilicloud.com/live/db03a5e733c88b6d1f23a08f3b15924c/playlist.m3u8
-#EXTINF:-1 tvg-id="601398622" group-title="Audax Italiano vs Deportes Limache 07:30 ngày 25/04 Chilean Primera Division", Audax Italiano vs Deportes Limache 07:30 ngày 25/04 Chilean Primera Division
-https://live.alilicloud.com/live/4a4e904808c88815fbf0eeff769364ab/playlist.m3u8
-#EXTINF:-1 tvg-id="601409866" group-title="Escorpiones Belen vs Santa Cruz Costa Rica 08:00 ngày 25/04 Costa Rica 2.Liga", Escorpiones Belen vs Santa Cruz Costa Rica 08:00 ngày 25/04 Costa Rica 2.Liga
-https://live.alilicloud.com/live/e4e57f66a13dd72b65cf66e04b96ccfd/playlist.m3u8
-#EXTINF:-1 tvg-id="601398616" group-title="Independiente Petrolero vs Universitario De Vinto 07:00 ngày 25/04 Bolivian Primera Division", Independiente Petrolero vs Universitario De Vinto 07:00 ngày 25/04 Bolivian Primera Division
-https://live.alilicloud.com/live/a017aede69a52b00f9ec02487a68dbb6/playlist.m3u8
-#EXTINF:-1 tvg-id="601413916" group-title="Ferro Carril Oeste vs Club Atletico Penarol 06:00 ngày 25/04 Argentinian Liga Nacional de Bosquetbol", Ferro Carril Oeste vs Club Atletico Penarol 06:00 ngày 25/04 Argentinian Liga Nacional de Bosquetbol
-https://live.alilicloud.com/live/e1b5f399f031edc9974c0195cddaf897/playlist.m3u8
-#EXTINF:-1 tvg-id="601401925" group-title="Philadelphia 76ers vs Boston Celtics 06:00 ngày 25/04 National Basketball Association", Philadelphia 76ers vs Boston Celtics 06:00 ngày 25/04 National Basketball Association
-https://live.alilicloud.com/live/d03e234a92dc5731fa05753612384c51/playlist.m3u8
-#EXTINF:-1 tvg-id="601401934" group-title="Baamon cattle Herder vs Santurce Crabbers 07:00 ngày 25/04 Baloncesto Superior Nacional", Baamon cattle Herder vs Santurce Crabbers 07:00 ngày 25/04 Baloncesto Superior Nacional
-https://live.alilicloud.com/live/d9851054e291077f1e1fa14c4a97312c/playlist.m3u8
-#EXTINF:-1 tvg-id="601401937" group-title="Capitanes de Arecibo vs Leones de Ponce 07:00 ngày 25/04 Baloncesto Superior Nacional", Capitanes de Arecibo vs Leones de Ponce 07:00 ngày 25/04 Baloncesto Superior Nacional
-https://live.alilicloud.com/live/baed0be0b0bdefae2cb31370287ab27e/playlist.m3u8
-#EXTINF:-1 tvg-id="601401940" group-title="Houston Rockets vs Los Angeles Lakers 07:00 ngày 25/04 National Basketball Association", Houston Rockets vs Los Angeles Lakers 07:00 ngày 25/04 National Basketball Association
-https://live.alilicloud.com/live/2c17de39655323835c53b395674d3187/playlist.m3u8
-#EXTINF:-1 tvg-id="601401949" group-title="Deportivo Valdivia vs Osorno 07:30 ngày 25/04 Chile Liga Nacional Basketball", Deportivo Valdivia vs Osorno 07:30 ngày 25/04 Chile Liga Nacional Basketball
-https://live.alilicloud.com/live/83d05226460792378baa4b6c2322baba/playlist.m3u8
+#EXTINF:-1 tvg-id="601416730" group-title="Portland Trail Blazers vs San Antonio Spurs 09:30 ngày 25/04 NBA", Portland Trail Blazers vs San Antonio Spurs 09:30 ngày 25/04 NBA (Link 1)
+https://cdn-hls.taoxanh.biz/live/69ec1cca42281_4733/index.m3u8?expire=1777686346&amp;sign=f455256d33cc7f2e733b12cdcd8edc63
+#EXTINF:-1 tvg-id="601416730" group-title="Portland Trail Blazers vs San Antonio Spurs 09:30 ngày 25/04 NBA", Portland Trail Blazers vs San Antonio Spurs 09:30 ngày 25/04 NBA (Link 2)
+https://cdn-hls.taoxanh.biz/live/69ec1cca203f3_42127/index.m3u8?expire=1777686346&amp;sign=d24d056b56aea5eed950ce0ddd45e919
+#EXTINF:-1 tvg-id="601418146" group-title="SHEN SHEN YI vs ZHENG XIAO HUAI 11:00 ngày 25/04 Duya Legends Golden Nine International Classic", SHEN SHEN YI vs ZHENG XIAO HUAI 11:00 ngày 25/04 Duya Legends Golden Nine International Classic
+https://cdn-hls.taoxanh.biz/live/69ec3bd6203f3_103/index.m3u8?expire=1777694294&amp;sign=e953bd28194f0759acb63e0b473f08c8
+#EXTINF:-1 tvg-id="601416547" group-title="Deportes Quindio vs Envigado FC 08:15 ngày 25/04 Colombian Torneo BetPlay Dimayor", Deportes Quindio vs Envigado FC 08:15 ngày 25/04 Colombian Torneo BetPlay Dimayor
+https://live.alilicloud.com/live/c204258798bb886a653b0ed077a45bf3/playlist.m3u8
+#EXTINF:-1 tvg-id="601398643" group-title="Miramar Rangers vs Petone FC 09:30 ngày 25/04 New Zealand Central Premier League", Miramar Rangers vs Petone FC 09:30 ngày 25/04 New Zealand Central Premier League
+https://live.alilicloud.com/live/cf2986168478180ef37ff680bd378559/playlist.m3u8
+#EXTINF:-1 tvg-id="601415077" group-title="Adamstown Rosebud Reserves vs Weston Workers Reserves 09:30 ngày 25/04 Australia Northern New South Wales Reserves League", Adamstown Rosebud Reserves vs Weston Workers Reserves 09:30 ngày 25/04 Australia Northern New South Wales Reserves League
+https://live.alilicloud.com/live/da9958853ca88ff55a44aa792622b222/playlist.m3u8
+#EXTINF:-1 tvg-id="601398658" group-title="Auckland City vs Fencibles United 10:00 ngày 25/04 New Zealand Northern Premier League", Auckland City vs Fencibles United 10:00 ngày 25/04 New Zealand Northern Premier League
+https://live.alilicloud.com/live/a95a2cfba4a9b4542b8b58b9d8aff887/playlist.m3u8
+#EXTINF:-1 tvg-id="601398664" group-title="Birkenhead United vs Western Springs AFC 10:00 ngày 25/04 New Zealand Northern Premier League", Birkenhead United vs Western Springs AFC 10:00 ngày 25/04 New Zealand Northern Premier League
+https://live.alilicloud.com/live/d358a5ae015e09d2fd4291a26fa28de7/playlist.m3u8
+#EXTINF:-1 tvg-id="601398661" group-title="Eastern Suburbs AFC vs Tauranga City United 10:00 ngày 25/04 New Zealand Northern Premier League", Eastern Suburbs AFC vs Tauranga City United 10:00 ngày 25/04 New Zealand Northern Premier League
+https://live.alilicloud.com/live/0f7b826f0f00d2c20bb23c45eeb954ee/playlist.m3u8
+#EXTINF:-1 tvg-id="601398667" group-title="Monterrey (w) vs Tigres(w) 10:06 ngày 25/04 Mexico Liga MX Femenil", Monterrey (w) vs Tigres(w) 10:06 ngày 25/04 Mexico Liga MX Femenil
+https://live.alilicloud.com/live/54cef2988346ca86d7150f5f6e5abff2/playlist.m3u8
+#EXTINF:-1 tvg-id="601398673" group-title="Melville United vs East Coast Bays 10:30 ngày 25/04 New Zealand Northern Premier League", Melville United vs East Coast Bays 10:30 ngày 25/04 New Zealand Northern Premier League
+https://live.alilicloud.com/live/34041c9fccaa7e4e70443f59279bbe22/playlist.m3u8
+#EXTINF:-1 tvg-id="601398676" group-title="Wellington Olympic vs Island Bay United 10:45 ngày 25/04 New Zealand Central Premier League", Wellington Olympic vs Island Bay United 10:45 ngày 25/04 New Zealand Central Premier League
+https://live.alilicloud.com/live/ac9a61a7180771e723face2d4b7c9984/playlist.m3u8
+#EXTINF:-1 tvg-id="601398697" group-title="Auckland United vs Manukau United 11:00 ngày 25/04 New Zealand Northern Premier League", Auckland United vs Manukau United 11:00 ngày 25/04 New Zealand Northern Premier League
+https://live.alilicloud.com/live/b1ce9dd70bf3c968ce18965211389e20/playlist.m3u8
+#EXTINF:-1 tvg-id="601398694" group-title="Canberra United (w) vs Melbourne Victory (w) 11:00 ngày 25/04 Australia W-League", Canberra United (w) vs Melbourne Victory (w) 11:00 ngày 25/04 Australia W-League
+https://live.alilicloud.com/live/2059fa1965d87eac9ad6e85e93112d1f/playlist.m3u8
+#EXTINF:-1 tvg-id="601398685" group-title="Nittaidai SMG Yokohama vs Setagaya Sfid(w) 11:00 ngày 25/04 Japanese Nadeshiko League 1", Nittaidai SMG Yokohama vs Setagaya Sfid(w) 11:00 ngày 25/04 Japanese Nadeshiko League 1
+https://live.alilicloud.com/live/778e258aed6069492106e402405d59bb/playlist.m3u8
+#EXTINF:-1 tvg-id="601398679" group-title="Jubilo Iwata vs FC Gifu 11:00 ngày 25/04 J2/J3 100 Year Vision League", Jubilo Iwata vs FC Gifu 11:00 ngày 25/04 J2/J3 100 Year Vision League
+https://live.alilicloud.com/live/34f89cf83b1743779a1adb512190a70c/playlist.m3u8
+#EXTINF:-1 tvg-id="601401958" group-title="Franklin Bulls vs Canterbury Rams 09:30 ngày 25/04 New Zealand National Basketball League", Franklin Bulls vs Canterbury Rams 09:30 ngày 25/04 New Zealand National Basketball League
+https://live.alilicloud.com/live/89bc58ff24af2b2e98581ebdf3754d37/playlist.m3u8
+#EXTINF:-1 tvg-id="601401961" group-title="Portland Trail Blazers vs San Antonio Spurs 09:30 ngày 25/04 National Basketball Association", Portland Trail Blazers vs San Antonio Spurs 09:30 ngày 25/04 National Basketball Association
+https://live.alilicloud.com/live/d7d8e006a994a67a6d55bf7e8156f162/playlist.m3u8
 #EXTINF:-1 tvg-id="601399429" group-title="Fulham vs Aston Villa 18:30 ngày 25/04 English Premier League", Fulham vs Aston Villa 18:30 ngày 25/04 English Premier League
 https://live.alilicloud.com/live/42139f18d8523763649b9f507403df1b/playlist.m3u8
 #EXTINF:-1 tvg-id="601399690" group-title="Deportivo Alavés vs RCD Mallorca 19:00 ngày 25/04 Spanish La Liga", Deportivo Alavés vs RCD Mallorca 19:00 ngày 25/04 Spanish La Liga
