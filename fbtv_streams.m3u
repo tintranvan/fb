@@ -1,47 +1,55 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601410544" group-title="Philadelphia 76ers vs Boston Celtics 06:00 ngày 27/04 National Basketball Association", Philadelphia 76ers vs Boston Celtics 06:00 ngày 27/04 National Basketball Association
+#EXTINF:-1 tvg-id="601410058" group-title="Los Angeles Galaxy vs Real Salt Lake 06:00 ngày 27/04 United States Major League Soccer", Los Angeles Galaxy vs Real Salt Lake 06:00 ngày 27/04 United States Major League Soccer (Link 1)
+https://cdn-hls.taoxanh.biz/live/69ee90f7203f4_95554/index.m3u8?expire=1777847159&amp;sign=e1ccffe078d5ba75a9bff146314bc932
+#EXTINF:-1 tvg-id="601410058" group-title="Los Angeles Galaxy vs Real Salt Lake 06:00 ngày 27/04 United States Major League Soccer", Los Angeles Galaxy vs Real Salt Lake 06:00 ngày 27/04 United States Major League Soccer (Link 2)
+https://live.alilicloud.com/live/61c952d1bd2c8ddddb04c18bbf2eaa9a/playlist.m3u8
+#EXTINF:-1 tvg-id="601410064" group-title="Santos Laguna vs Monterrey 06:00 ngày 27/04 Mexico Liga MX", Santos Laguna vs Monterrey 06:00 ngày 27/04 Mexico Liga MX (Link 1)
+https://cdn-hls.taoxanh.biz/live/69ee8c50203f4_124958/index.m3u8?expire=1777845968&amp;sign=b4dbf4deff0bfa895ca0158c11ab50af
+#EXTINF:-1 tvg-id="601410064" group-title="Santos Laguna vs Monterrey 06:00 ngày 27/04 Mexico Liga MX", Santos Laguna vs Monterrey 06:00 ngày 27/04 Mexico Liga MX (Link 2)
+https://live.alilicloud.com/live/0f4a7e1208262b923b6701773622a8da/playlist.m3u8
+#EXTINF:-1 tvg-id="601410544" group-title="Philadelphia 76ers vs Boston Celtics 06:00 ngày 27/04 National Basketball Association", Philadelphia 76ers vs Boston Celtics 06:00 ngày 27/04 National Basketball Association (Link 1)
 https://cdn-hls.taoxanh.biz/live/69ee9509203f4_4733/index.m3u8?expire=1777848201&amp;sign=19e8cacd93e5524d79366b87d789f124
-#EXTINF:-1 tvg-id="601410016" group-title="Saint Louis City B vs Ventura County FC 04:00 ngày 27/04 MLS Next PL", Saint Louis City B vs Ventura County FC 04:00 ngày 27/04 MLS Next PL
-https://live.alilicloud.com/live/794388619a1b1c9b28767704b372157e/playlist.m3u8
-#EXTINF:-1 tvg-id="601409998" group-title="Operario Ferroviario PR vs Fortaleza 04:00 ngày 27/04 Brazilian Serie B", Operario Ferroviario PR vs Fortaleza 04:00 ngày 27/04 Brazilian Serie B
-https://live.alilicloud.com/live/171a49e2039cd20ff6a7f10b09cec720/playlist.m3u8
-#EXTINF:-1 tvg-id="601409995" group-title="Ceara vs Vila Nova 04:00 ngày 27/04 Brazilian Serie B", Ceara vs Vila Nova 04:00 ngày 27/04 Brazilian Serie B
-https://live.alilicloud.com/live/25d5c1c3bc828a892a41ce897f76a40f/playlist.m3u8
-#EXTINF:-1 tvg-id="601409992" group-title="Xelaju MC vs Coban Imperial 04:00 ngày 27/04 Guatemala Liga Nacional", Xelaju MC vs Coban Imperial 04:00 ngày 27/04 Guatemala Liga Nacional
-https://live.alilicloud.com/live/6d92451dc2fa6812208bd0a60daf38cb/playlist.m3u8
-#EXTINF:-1 tvg-id="601409974" group-title="Aguilas Doradas vs Deportiva Once Caldas 04:00 ngày 27/04 Categoría Primera A", Aguilas Doradas vs Deportiva Once Caldas 04:00 ngày 27/04 Categoría Primera A
-https://live.alilicloud.com/live/6c32fbf46883ab0ff60d98ce8a0ac2af/playlist.m3u8
-#EXTINF:-1 tvg-id="601409971" group-title="Deportivo Maipu vs Almagro 04:00 ngày 27/04 Argentine Division 2", Deportivo Maipu vs Almagro 04:00 ngày 27/04 Argentine Division 2
-https://live.alilicloud.com/live/4ebbd84913ccb8fea4fc82bf51650397/playlist.m3u8
-#EXTINF:-1 tvg-id="601410028" group-title="Everton CD vs Cobresal 04:30 ngày 27/04 Chilean Primera Division", Everton CD vs Cobresal 04:30 ngày 27/04 Chilean Primera Division
-https://live.alilicloud.com/live/129da5ce472e3708d5dc2f279b7bc919/playlist.m3u8
-#EXTINF:-1 tvg-id="601410025" group-title="Athletico Paranaense vs Vitoria BA 04:30 ngày 27/04 Brazilian Serie A", Athletico Paranaense vs Vitoria BA 04:30 ngày 27/04 Brazilian Serie A
-https://live.alilicloud.com/live/1a4557fff9844bf93653053d23be1c39/playlist.m3u8
-#EXTINF:-1 tvg-id="601410022" group-title="Red Bull Bragantino vs Palmeiras 04:30 ngày 27/04 Brazilian Serie A", Red Bull Bragantino vs Palmeiras 04:30 ngày 27/04 Brazilian Serie A
-https://live.alilicloud.com/live/e59c05822955085fa8cf464e40e4f1d3/playlist.m3u8
-#EXTINF:-1 tvg-id="601410031" group-title="Colon de Santa Fe vs Godoy Cruz Antonio Tomba 05:00 ngày 27/04 Argentine Division 2", Colon de Santa Fe vs Godoy Cruz Antonio Tomba 05:00 ngày 27/04 Argentine Division 2
-https://live.alilicloud.com/live/038334d2f007a27b8a9b9c1ae6578242/playlist.m3u8
+#EXTINF:-1 tvg-id="601410544" group-title="Philadelphia 76ers vs Boston Celtics 06:00 ngày 27/04 National Basketball Association", Philadelphia 76ers vs Boston Celtics 06:00 ngày 27/04 National Basketball Association (Link 2)
+https://live.alilicloud.com/live/d04ae0b3d12415a10213a99b364e05bc/playlist.m3u8
 #EXTINF:-1 tvg-id="601410049" group-title="Montevideo Wanderers FC vs CA Penarol 05:00 ngày 27/04 Uruguay Primera Division", Montevideo Wanderers FC vs CA Penarol 05:00 ngày 27/04 Uruguay Primera Division
 https://live.alilicloud.com/live/358a6426b625d39f5e3d78799435e81e/playlist.m3u8
 #EXTINF:-1 tvg-id="601410046" group-title="SV Brazil Juniors vs SV River Plate 05:00 ngày 27/04 Aruba Division Di Honor", SV Brazil Juniors vs SV River Plate 05:00 ngày 27/04 Aruba Division Di Honor
 https://live.alilicloud.com/live/7735790313c2545b81add4591036e8a5/playlist.m3u8
+#EXTINF:-1 tvg-id="601410043" group-title="Angel City FC (w) vs Portland Thorns FC (w) 05:00 ngày 27/04 United States Women's National Soccer League", Angel City FC (w) vs Portland Thorns FC (w) 05:00 ngày 27/04 United States Women's National Soccer League
+https://live.alilicloud.com/live/e6565550fa6f509a4d560339ece4370d/playlist.m3u8
 #EXTINF:-1 tvg-id="601410037" group-title="Ituano  SP vs Maringa FC 05:00 ngày 27/04 Brazilian Serie C", Ituano  SP vs Maringa FC 05:00 ngày 27/04 Brazilian Serie C
 https://live.alilicloud.com/live/74f8ce9f35b179fceefa1e692dc1edeb/playlist.m3u8
+#EXTINF:-1 tvg-id="601410031" group-title="Colon de Santa Fe vs Godoy Cruz Antonio Tomba 05:00 ngày 27/04 Argentine Division 2", Colon de Santa Fe vs Godoy Cruz Antonio Tomba 05:00 ngày 27/04 Argentine Division 2
+https://live.alilicloud.com/live/038334d2f007a27b8a9b9c1ae6578242/playlist.m3u8
 #EXTINF:-1 tvg-id="601404952" group-title="Metropolitanos FC vs Estudiantes Merida FC 05:00 ngày 27/04 Venezuela Primera Division", Metropolitanos FC vs Estudiantes Merida FC 05:00 ngày 27/04 Venezuela Primera Division
 https://live.alilicloud.com/live/80a21ad8d4151f2ac92ceb7fdd923155/playlist.m3u8
-#EXTINF:-1 tvg-id="601410043" group-title="Angel City FC (w) vs Portland Thorns FC (w) 05:10 ngày 27/04 United States Women's National Soccer League", Angel City FC (w) vs Portland Thorns FC (w) 05:10 ngày 27/04 United States Women's National Soccer League
-https://live.alilicloud.com/live/e6565550fa6f509a4d560339ece4370d/playlist.m3u8
-#EXTINF:-1 tvg-id="601410034" group-title="Pacific FC vs Forge FC 05:10 ngày 27/04 Canadian Premier League", Pacific FC vs Forge FC 05:10 ngày 27/04 Canadian Premier League
-https://live.alilicloud.com/live/9bab2bb66548004e1511f7b04bfdb294/playlist.m3u8
-#EXTINF:-1 tvg-id="601408156" group-title="Joao Fonseca vs Rafael Jodar 03:40 ngày 27/04 ATP Madrid, Spain Men Singles", Joao Fonseca vs Rafael Jodar 03:40 ngày 27/04 ATP Madrid, Spain Men Singles
-https://live.alilicloud.com/live/1952cde22ceb28838a8429efea73fb8c/playlist.m3u8
-#EXTINF:-1 tvg-id="601410508" group-title="GRSA Itabom Bauru vs Paulistano Amil 04:00 ngày 27/04 Novo Basquete Brasil", GRSA Itabom Bauru vs Paulistano Amil 04:00 ngày 27/04 Novo Basquete Brasil
-https://live.alilicloud.com/live/683a18a6e4eadc48ca1dcef703210f2e/playlist.m3u8
-#EXTINF:-1 tvg-id="601410529" group-title="Leones de Ponce vs Aguada Santeros 05:00 ngày 27/04 Baloncesto Superior Nacional", Leones de Ponce vs Aguada Santeros 05:00 ngày 27/04 Baloncesto Superior Nacional
-https://live.alilicloud.com/live/78f4adeb5bdf1cbe8a7c492241ed58e5/playlist.m3u8
+#EXTINF:-1 tvg-id="601410055" group-title="Spokane Zephyr (W) vs Fort Lauderdale Utd (W) 06:00 ngày 27/04 USL Super League Women", Spokane Zephyr (W) vs Fort Lauderdale Utd (W) 06:00 ngày 27/04 USL Super League Women
+https://live.alilicloud.com/live/41b721605e7138fe976e79a7ea6311c3/playlist.m3u8
+#EXTINF:-1 tvg-id="601419208" group-title="Bolivia (w) U17 vs Paraguay (w) U17 06:00 ngày 27/04 CONMEBOL U17 Women's Sudamericano", Bolivia (w) U17 vs Paraguay (w) U17 06:00 ngày 27/04 CONMEBOL U17 Women's Sudamericano
+https://live.alilicloud.com/live/182569a8f14c05736263594277fc3144/playlist.m3u8
+#EXTINF:-1 tvg-id="601411534" group-title="Coastal Spirit vs Wanaka AFC 06:00 ngày 27/04 New Zealand South Premier League", Coastal Spirit vs Wanaka AFC 06:00 ngày 27/04 New Zealand South Premier League
+https://live.alilicloud.com/live/693883ecbbc98a5dc62eca704f297f59/playlist.m3u8
+#EXTINF:-1 tvg-id="601410070" group-title="Vancouver Whitecaps Reserve vs Colorado Rapids II 06:00 ngày 27/04 MLS Next PL", Vancouver Whitecaps Reserve vs Colorado Rapids II 06:00 ngày 27/04 MLS Next PL
+https://live.alilicloud.com/live/8dc650a4b1495583a66b8669b9b114e6/playlist.m3u8
+#EXTINF:-1 tvg-id="601410067" group-title="Universitario De Deportes vs Alianza Atletico Sullana 06:00 ngày 27/04 Peruvian Liga 1", Universitario De Deportes vs Alianza Atletico Sullana 06:00 ngày 27/04 Peruvian Liga 1
+https://live.alilicloud.com/live/c087d79be11440faeb3988f2ea3a43c0/playlist.m3u8
+#EXTINF:-1 tvg-id="601410061" group-title="Atletico Tucuman vs Banfield 06:00 ngày 27/04 Argentine Division 1", Atletico Tucuman vs Banfield 06:00 ngày 27/04 Argentine Division 1
+https://live.alilicloud.com/live/c85ed8f0a526f1c7fbed37123226e010/playlist.m3u8
+#EXTINF:-1 tvg-id="601408924" group-title="Tepatitlan de Morelos vs CF Atlante 06:00 ngày 27/04 Mexico Ascenso MX", Tepatitlan de Morelos vs CF Atlante 06:00 ngày 27/04 Mexico Ascenso MX
+https://live.alilicloud.com/live/c5acf4d9be4f9ca451e8b681ab15fa08/playlist.m3u8
+#EXTINF:-1 tvg-id="601410076" group-title="Orense SC vs Barcelona SC(ECU) 06:10 ngày 27/04 LigaPro Serie A", Orense SC vs Barcelona SC(ECU) 06:10 ngày 27/04 LigaPro Serie A
+https://live.alilicloud.com/live/2cd7505d83a4f27b34f0c50822be85f6/playlist.m3u8
+#EXTINF:-1 tvg-id="601410073" group-title="Llaneros FC vs Alianza Fútbol Club 06:10 ngày 27/04 Categoría Primera A", Llaneros FC vs Alianza Fútbol Club 06:10 ngày 27/04 Categoría Primera A
+https://live.alilicloud.com/live/b6ef966cbfd1ad0d20d3fceb4716c558/playlist.m3u8
+#EXTINF:-1 tvg-id="601410088" group-title="Atletico Clube Goianiense vs Avaí FC 06:30 ngày 27/04 Brazilian Serie B", Atletico Clube Goianiense vs Avaí FC 06:30 ngày 27/04 Brazilian Serie B
+https://live.alilicloud.com/live/7cf360dc1992bf83338e199731ccdc21/playlist.m3u8
+#EXTINF:-1 tvg-id="601410085" group-title="Atletico Mineiro vs CR Flamengo 06:30 ngày 27/04 Brazilian Serie A", Atletico Mineiro vs CR Flamengo 06:30 ngày 27/04 Brazilian Serie A
+https://live.alilicloud.com/live/6876c9abe7d98d56bd12b7fabafa2d97/playlist.m3u8
+#EXTINF:-1 tvg-id="601410082" group-title="Fluminense RJ vs Chapecoense SC 06:30 ngày 27/04 Brazilian Serie A", Fluminense RJ vs Chapecoense SC 06:30 ngày 27/04 Brazilian Serie A
+https://live.alilicloud.com/live/6ab76a7f6a624badef7e8173da05ffa7/playlist.m3u8
+#EXTINF:-1 tvg-id="601413283" group-title="Sportivo San Lorenzo vs Rubio nu 06:00 ngày 27/04 Paraguayan Primera Division", Sportivo San Lorenzo vs Rubio nu 06:00 ngày 27/04 Paraguayan Primera Division
+https://live.alilicloud.com/live/ce68eaf69820cb75dc515e7faa4aa40e/playlist.m3u8
 #EXTINF:-1 tvg-id="601410526" group-title="Santurce Crabbers vs Corbuladias Pirates 05:00 ngày 27/04 Baloncesto Superior Nacional", Santurce Crabbers vs Corbuladias Pirates 05:00 ngày 27/04 Baloncesto Superior Nacional
 https://live.alilicloud.com/live/172e7468d295cfbd533832c0fab62b88/playlist.m3u8
-#EXTINF:-1 tvg-id="601410058" group-title="Los Angeles Galaxy vs Real Salt Lake 06:00 ngày 27/04 United States Major League Soccer", Los Angeles Galaxy vs Real Salt Lake 06:00 ngày 27/04 United States Major League Soccer
-https://cdn-hls.taoxanh.biz/live/69ee90f7203f4_95554/index.m3u8?expire=1777847159&amp;sign=e1ccffe078d5ba75a9bff146314bc932
-#EXTINF:-1 tvg-id="601410064" group-title="Santos Laguna vs Monterrey 06:00 ngày 27/04 Mexico Liga MX", Santos Laguna vs Monterrey 06:00 ngày 27/04 Mexico Liga MX
-https://cdn-hls.taoxanh.biz/live/69ee8c50203f4_124958/index.m3u8?expire=1777845968&amp;sign=b4dbf4deff0bfa895ca0158c11ab50af
+#EXTINF:-1 tvg-id="601410529" group-title="Leones de Ponce vs Aguada Santeros 05:00 ngày 27/04 Baloncesto Superior Nacional", Leones de Ponce vs Aguada Santeros 05:00 ngày 27/04 Baloncesto Superior Nacional
+https://live.alilicloud.com/live/78f4adeb5bdf1cbe8a7c492241ed58e5/playlist.m3u8
