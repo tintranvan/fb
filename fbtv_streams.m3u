@@ -7,72 +7,66 @@ https://live.alilicloud.com/live/d707c1320fe0f16a078e99f827d83765/playlist.m3u8
 https://cdn-hls.taoxanh.biz/live/69ede756203f4_95554/index.m3u8?expire=1777803734&amp;sign=6389b5f9fce3637701a07191bbcf78a4
 #EXTINF:-1 tvg-id="601405885" group-title="Fiorentina vs Sassuolo 17:30 ngày 26/04 Italian Serie A", Fiorentina vs Sassuolo 17:30 ngày 26/04 Italian Serie A (Link 2)
 https://live.alilicloud.com/live/f5634f0e87677dfce5aa910e823dba6f/playlist.m3u8
-#EXTINF:-1 tvg-id="601405900" group-title="Coventry City vs Wrexham 18:00 ngày 26/04 English Football League Championship", Coventry City vs Wrexham 18:00 ngày 26/04 English Football League Championship (Link 1)
-https://cdn-hls.taoxanh.biz/live/69eddf2242282_73445/index.m3u8?expire=1777801634&amp;sign=aca37358be38b1adf59f7c896d49216a
-#EXTINF:-1 tvg-id="601405900" group-title="Coventry City vs Wrexham 18:00 ngày 26/04 English Football League Championship", Coventry City vs Wrexham 18:00 ngày 26/04 English Football League Championship (Link 2)
-https://live.alilicloud.com/live/b880c21a233156b3ae2e1ec3e7406edc/playlist.m3u8
-#EXTINF:-1 tvg-id="601405984" group-title="Hong Linh Ha Tinh vs Ho Chi Minh City FC 18:00 ngày 26/04 Vietnam National Champion League", Hong Linh Ha Tinh vs Ho Chi Minh City FC 18:00 ngày 26/04 Vietnam National Champion League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69ede3d0203f4_136682/index.m3u8?expire=1777802832&amp;sign=5db5dd967f91072cc5ad02b89540ffbc
-#EXTINF:-1 tvg-id="601405984" group-title="Hong Linh Ha Tinh vs Ho Chi Minh City FC 18:00 ngày 26/04 Vietnam National Champion League", Hong Linh Ha Tinh vs Ho Chi Minh City FC 18:00 ngày 26/04 Vietnam National Champion League (Link 2)
-https://live.alilicloud.com/live/2aae82ed7f572239ec3733b958fcc5f1/playlist.m3u8
+#EXTINF:-1 tvg-id="601405978" group-title="Chongqing Tongliangloong FC vs Qingdao West Coast FC 18:00 ngày 26/04 Chinese Football Super League", Chongqing Tongliangloong FC vs Qingdao West Coast FC 18:00 ngày 26/04 Chinese Football Super League
+https://live.alilicloud.com/live/291f900b9f8f5e96db8a349fdf735b91/playlist.m3u8
 #EXTINF:-1 tvg-id="601405981" group-title="SHB Da Nang vs Viettel FC 18:00 ngày 26/04 Vietnam National Champion League", SHB Da Nang vs Viettel FC 18:00 ngày 26/04 Vietnam National Champion League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69eddbde42282_4908/index.m3u8?expire=1777800798&amp;sign=e4ed0ee868353f2e3955a6063bc21538
 #EXTINF:-1 tvg-id="601405981" group-title="SHB Da Nang vs Viettel FC 18:00 ngày 26/04 Vietnam National Champion League", SHB Da Nang vs Viettel FC 18:00 ngày 26/04 Vietnam National Champion League (Link 2)
 https://live.alilicloud.com/live/f0f475f9a542daaad53961403697d99a/playlist.m3u8
-#EXTINF:-1 tvg-id="601405978" group-title="Chongqing Tongliangloong FC vs Qingdao West Coast FC 18:00 ngày 26/04 Chinese Football Super League", Chongqing Tongliangloong FC vs Qingdao West Coast FC 18:00 ngày 26/04 Chinese Football Super League
-https://live.alilicloud.com/live/291f900b9f8f5e96db8a349fdf735b91/playlist.m3u8
-#EXTINF:-1 tvg-id="601418797" group-title="Indonesia vs Thailand 13:30 ngày 26/04 BWF Thomas &amp; Uber Cup Finals 2026 - SÂN 1", Indonesia vs Thailand 13:30 ngày 26/04 BWF Thomas &amp; Uber Cup Finals 2026 - SÂN 1
-https://cdn-hls.taoxanh.biz/live/69edaa17203f4_79/index.m3u8?expire=1777788055&amp;sign=ce0bfd060bdf06674a996cc08c83a2fc
+#EXTINF:-1 tvg-id="601405984" group-title="Hong Linh Ha Tinh vs Ho Chi Minh City FC 18:00 ngày 26/04 Vietnam National Champion League", Hong Linh Ha Tinh vs Ho Chi Minh City FC 18:00 ngày 26/04 Vietnam National Champion League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69ede3d0203f4_136682/index.m3u8?expire=1777802832&amp;sign=5db5dd967f91072cc5ad02b89540ffbc
+#EXTINF:-1 tvg-id="601405984" group-title="Hong Linh Ha Tinh vs Ho Chi Minh City FC 18:00 ngày 26/04 Vietnam National Champion League", Hong Linh Ha Tinh vs Ho Chi Minh City FC 18:00 ngày 26/04 Vietnam National Champion League (Link 2)
+https://live.alilicloud.com/live/2aae82ed7f572239ec3733b958fcc5f1/playlist.m3u8
+#EXTINF:-1 tvg-id="601405900" group-title="Coventry City vs Wrexham 18:00 ngày 26/04 English Football League Championship", Coventry City vs Wrexham 18:00 ngày 26/04 English Football League Championship (Link 1)
+https://cdn-hls.taoxanh.biz/live/69eddf2242282_73445/index.m3u8?expire=1777801634&amp;sign=aca37358be38b1adf59f7c896d49216a
+#EXTINF:-1 tvg-id="601405900" group-title="Coventry City vs Wrexham 18:00 ngày 26/04 English Football League Championship", Coventry City vs Wrexham 18:00 ngày 26/04 English Football League Championship (Link 2)
+https://live.alilicloud.com/live/b880c21a233156b3ae2e1ec3e7406edc/playlist.m3u8
+#EXTINF:-1 tvg-id="601408114" group-title="Tallon Griekspoor vs Lorenzo Musetti 18:35 ngày 26/04 ATP Madrid, Spain Men Singles", Tallon Griekspoor vs Lorenzo Musetti 18:35 ngày 26/04 ATP Madrid, Spain Men Singles
+https://cdn-hls.taoxanh.biz/live/69ede18542282_153967/index.m3u8?expire=1777802245&amp;sign=3a1a8ed5272a2f9518ac70b8aa5a7259
 #EXTINF:-1 tvg-id="601418968" group-title="Malaysia vs South Africa 17:00 ngày 26/04 BWF Thomas &amp; Uber Cup Finals 2026 - SÂN 3", Malaysia vs South Africa 17:00 ngày 26/04 BWF Thomas &amp; Uber Cup Finals 2026 - SÂN 3
-https://cdn-hls.taoxanh.biz/live/69ede0d242282_4439/index.m3u8?expire=1777802066&amp;sign=afa70bc8e5bff792ed9ccc7642ef5799
+https://cdn-hls.taoxanh.biz/live/69edf7a8203f4_142210/index.m3u8?expire=1777807912&amp;sign=e5d55d05204da5f85ed12951f3144f2e
 #EXTINF:-1 tvg-id="601418800" group-title="Korea vs Bulgaria 17:30 ngày 26/04 BWF Thomas &amp; Uber Cup Finals 2026  - SÂN 2", Korea vs Bulgaria 17:30 ngày 26/04 BWF Thomas &amp; Uber Cup Finals 2026  - SÂN 2
 https://cdn-hls.taoxanh.biz/live/69edae5642282_18754/index.m3u8?expire=1777789142&amp;sign=641a154cd4eb070d9e5bfca2155512be
-#EXTINF:-1 tvg-id="601400932" group-title="Bossekop vs Lillestrom B 17:00 ngày 26/04 Norwegian 3.Divisjon", Bossekop vs Lillestrom B 17:00 ngày 26/04 Norwegian 3.Divisjon
-https://live.alilicloud.com/live/40099c28e980a83f046a115eb7520ae8/playlist.m3u8
-#EXTINF:-1 tvg-id="601405804" group-title="Ibiza Islas Pitiusas vs Andratx 17:00 ngày 26/04 Spanish Segunda División RFEF", Ibiza Islas Pitiusas vs Andratx 17:00 ngày 26/04 Spanish Segunda División RFEF
-https://live.alilicloud.com/live/ddad91d7676ae78c17ebeeed7d3a0374/playlist.m3u8
-#EXTINF:-1 tvg-id="601405867" group-title="Macau University vs Ching Fung 17:00 ngày 26/04 Chinese Macao Liga de Elite", Macau University vs Ching Fung 17:00 ngày 26/04 Chinese Macao Liga de Elite
-https://live.alilicloud.com/live/1ce696065c4ca445b35acc13369ec8a9/playlist.m3u8
-#EXTINF:-1 tvg-id="601420837" group-title="UD Santarem vs Academica Coimbra 17:00 ngày 26/04 Portuguese Liga 3", UD Santarem vs Academica Coimbra 17:00 ngày 26/04 Portuguese Liga 3
-https://live.alilicloud.com/live/b2e04ad83f341991ea83f8e2d5fb653e/playlist.m3u8
+#EXTINF:-1 tvg-id="601418797" group-title="Japan vs Türkiye 17:35 ngày 26/04 BWF Thomas &amp; Uber Cup Finals 2026 - SÂN 1", Japan vs Türkiye 17:35 ngày 26/04 BWF Thomas &amp; Uber Cup Finals 2026 - SÂN 1
+https://cdn-hls.taoxanh.biz/live/69edf8c742282_4439/index.m3u8?expire=1777808199&amp;sign=b892d10a70edecdea239caca1987a9fa
 #EXTINF:-1 tvg-id="601395478" group-title="Zorya U21 vs Veres Rivne U21 17:00 ngày 26/04 Ukrainian Youth Team Championship", Zorya U21 vs Veres Rivne U21 17:00 ngày 26/04 Ukrainian Youth Team Championship
 https://live.alilicloud.com/live/192f23c4063b6737fc63485c7ba7b233/playlist.m3u8
-#EXTINF:-1 tvg-id="601400278" group-title="Strogino Moscow vs FK Shumbrat Saransk 17:00 ngày 26/04 RUS D3B", Strogino Moscow vs FK Shumbrat Saransk 17:00 ngày 26/04 RUS D3B
-https://live.alilicloud.com/live/b6111f2a1a7946ec9451ddc88c129086/playlist.m3u8
 #EXTINF:-1 tvg-id="601401445" group-title="Energetik-BGU Minsk vs Osipovichy 17:00 ngày 26/04 Belarusian First League", Energetik-BGU Minsk vs Osipovichy 17:00 ngày 26/04 Belarusian First League
 https://live.alilicloud.com/live/de7a125f47029da3308d0b191deef1ac/playlist.m3u8
-#EXTINF:-1 tvg-id="601405660" group-title="Podhale Nowy Targ vs Swit Szczecin 17:00 ngày 26/04 Poland Liga 2", Podhale Nowy Targ vs Swit Szczecin 17:00 ngày 26/04 Poland Liga 2
-https://live.alilicloud.com/live/eacb6e01b9ae32ddf67d01bb0ab750e8/playlist.m3u8
 #EXTINF:-1 tvg-id="601405849" group-title="FC Zhetysu Taldykorgan vs Ulytau Zhezkazgan 17:00 ngày 26/04 Kazakhstan Premier League", FC Zhetysu Taldykorgan vs Ulytau Zhezkazgan 17:00 ngày 26/04 Kazakhstan Premier League
 https://live.alilicloud.com/live/b2b451265a5f8840186e8f12332b5357/playlist.m3u8
-#EXTINF:-1 tvg-id="601405852" group-title="TP Ho Chi Minh II vs Dong Tam Long An 17:00 ngày 26/04 Vietnam National First Class League", TP Ho Chi Minh II vs Dong Tam Long An 17:00 ngày 26/04 Vietnam National First Class League
-https://live.alilicloud.com/live/526e9bad130b4a2c93ed2406c4dbe77d/playlist.m3u8
-#EXTINF:-1 tvg-id="601405858" group-title="FK Kosmos Dolgoprudny vs FC Tver 17:00 ngày 26/04 RUS D3B", FK Kosmos Dolgoprudny vs FC Tver 17:00 ngày 26/04 RUS D3B
-https://live.alilicloud.com/live/cf285c02c48f89c19e8cb8e335bec7e7/playlist.m3u8
-#EXTINF:-1 tvg-id="601405861" group-title="Krylia Sovetov II vs Nosta Novotroitsk 17:00 ngày 26/04 RUS D3B", Krylia Sovetov II vs Nosta Novotroitsk 17:00 ngày 26/04 RUS D3B
-https://live.alilicloud.com/live/fdaf4f90b3cf8ff9c413b08010190c15/playlist.m3u8
-#EXTINF:-1 tvg-id="601405870" group-title="Stroitel Kamensk-Shakhtinsky vs Pobeda Nizhniy Novgorod 17:00 ngày 26/04 RUS D3B", Stroitel Kamensk-Shakhtinsky vs Pobeda Nizhniy Novgorod 17:00 ngày 26/04 RUS D3B
-https://live.alilicloud.com/live/af82265e2cbf5254028e42b1f7c53211/playlist.m3u8
-#EXTINF:-1 tvg-id="601405873" group-title="Lee Man vs Eastern Football Team 17:00 ngày 26/04 Chinese Hong Kong Premier League", Lee Man vs Eastern Football Team 17:00 ngày 26/04 Chinese Hong Kong Premier League
-https://live.alilicloud.com/live/9eab2ef3ac9d53b72cff8771db09f68a/playlist.m3u8
+#EXTINF:-1 tvg-id="601420837" group-title="UD Santarem vs Academica Coimbra 17:00 ngày 26/04 Portuguese Liga 3", UD Santarem vs Academica Coimbra 17:00 ngày 26/04 Portuguese Liga 3
+https://live.alilicloud.com/live/b2e04ad83f341991ea83f8e2d5fb653e/playlist.m3u8
 #EXTINF:-1 tvg-id="601406944" group-title="Lusitania FC vs Pacos de Ferreira 17:00 ngày 26/04 Liga Portugal 2", Lusitania FC vs Pacos de Ferreira 17:00 ngày 26/04 Liga Portugal 2
 https://live.alilicloud.com/live/fbf1322dbd75747afe79b84ba4a711aa/playlist.m3u8
-#EXTINF:-1 tvg-id="601408972" group-title="FC Gomel (w) vs Naftan Novopolock(W) 17:00 ngày 26/04 Belarusian Women's Premier League", FC Gomel (w) vs Naftan Novopolock(W) 17:00 ngày 26/04 Belarusian Women's Premier League
-https://live.alilicloud.com/live/f04bd3f814655185601b2c45949bc328/playlist.m3u8
-#EXTINF:-1 tvg-id="601405882" group-title="Ajax Amsterdam (w) vs Feyenoord Rotterdam (w) 17:15 ngày 26/04 Netherlands Eredivisie Vrouwen", Ajax Amsterdam (w) vs Feyenoord Rotterdam (w) 17:15 ngày 26/04 Netherlands Eredivisie Vrouwen
-https://live.alilicloud.com/live/3e402fef6fa6e3e17efa0c5081e7ea2e/playlist.m3u8
+#EXTINF:-1 tvg-id="601405867" group-title="Macau University vs Ching Fung 17:00 ngày 26/04 Chinese Macao Liga de Elite", Macau University vs Ching Fung 17:00 ngày 26/04 Chinese Macao Liga de Elite
+https://live.alilicloud.com/live/1ce696065c4ca445b35acc13369ec8a9/playlist.m3u8
+#EXTINF:-1 tvg-id="601405861" group-title="Krylia Sovetov II vs Nosta Novotroitsk 17:00 ngày 26/04 RUS D3B", Krylia Sovetov II vs Nosta Novotroitsk 17:00 ngày 26/04 RUS D3B
+https://live.alilicloud.com/live/fdaf4f90b3cf8ff9c413b08010190c15/playlist.m3u8
+#EXTINF:-1 tvg-id="601405804" group-title="Ibiza Islas Pitiusas vs Andratx 17:00 ngày 26/04 Spanish Segunda División RFEF", Ibiza Islas Pitiusas vs Andratx 17:00 ngày 26/04 Spanish Segunda División RFEF
+https://live.alilicloud.com/live/ddad91d7676ae78c17ebeeed7d3a0374/playlist.m3u8
 #EXTINF:-1 tvg-id="601405876" group-title="Wisla Plock vs Radomiak Radom 17:15 ngày 26/04 PKO Bank Polski EKSTRAKLASA", Wisla Plock vs Radomiak Radom 17:15 ngày 26/04 PKO Bank Polski EKSTRAKLASA
 https://live.alilicloud.com/live/8660a3198b7fbde3fdcdf35e1bfc339a/playlist.m3u8
+#EXTINF:-1 tvg-id="601405882" group-title="Ajax Amsterdam (w) vs Feyenoord Rotterdam (w) 17:15 ngày 26/04 Netherlands Eredivisie Vrouwen", Ajax Amsterdam (w) vs Feyenoord Rotterdam (w) 17:15 ngày 26/04 Netherlands Eredivisie Vrouwen
+https://live.alilicloud.com/live/3e402fef6fa6e3e17efa0c5081e7ea2e/playlist.m3u8
+#EXTINF:-1 tvg-id="601400941" group-title="Harstad vs Tromso B 17:30 ngày 26/04 Norwegian 3.Divisjon", Harstad vs Tromso B 17:30 ngày 26/04 Norwegian 3.Divisjon
+https://live.alilicloud.com/live/24c79eb7d9be31b74f0c3b3fad651bd8/playlist.m3u8
 #EXTINF:-1 tvg-id="601405888" group-title="Tatung FC vs Sunny Bank Athletic Club Taipei 17:30 ngày 26/04 Chinese Taipei Intercity League", Tatung FC vs Sunny Bank Athletic Club Taipei 17:30 ngày 26/04 Chinese Taipei Intercity League
 https://live.alilicloud.com/live/7eb2444d296b6ef13620fdef57260d0e/playlist.m3u8
 #EXTINF:-1 tvg-id="601406137" group-title="Ahrobiznes TSK Romny vs FC Inhulets Petrove 17:30 ngày 26/04 Ukrainian First League", Ahrobiznes TSK Romny vs FC Inhulets Petrove 17:30 ngày 26/04 Ukrainian First League
 https://live.alilicloud.com/live/00e950a16dfb97888bc3f397e2900121/playlist.m3u8
-#EXTINF:-1 tvg-id="601400941" group-title="Harstad vs Tromso B 17:30 ngày 26/04 Norwegian 3.Divisjon", Harstad vs Tromso B 17:30 ngày 26/04 Norwegian 3.Divisjon
-https://live.alilicloud.com/live/24c79eb7d9be31b74f0c3b3fad651bd8/playlist.m3u8
 #EXTINF:-1 tvg-id="601401145" group-title="Kryvbas vs Dynamo Kyiv 17:50 ngày 26/04 Ukrainian Premier League", Kryvbas vs Dynamo Kyiv 17:50 ngày 26/04 Ukrainian Premier League
 https://live.alilicloud.com/live/7547139cb7f1589e8b8a31c6ce9838c8/playlist.m3u8
-#EXTINF:-1 tvg-id="601401388" group-title="FK Isloch Minsk vs Dnepr Mogilev 18:00 ngày 26/04 Belarusian Premier League", FK Isloch Minsk vs Dnepr Mogilev 18:00 ngày 26/04 Belarusian Premier League
-https://live.alilicloud.com/live/82ce5135bb07c30957cbbfebfa183c38/playlist.m3u8
+#EXTINF:-1 tvg-id="601405903" group-title="AC Milan U20 vs Cagliari U19 18:00 ngày 26/04 Italian Campionato Primavera 1", AC Milan U20 vs Cagliari U19 18:00 ngày 26/04 Italian Campionato Primavera 1
+https://live.alilicloud.com/live/dcc5b2fedc5fe0966f60ec467d219cef/playlist.m3u8
+#EXTINF:-1 tvg-id="601405906" group-title="FC Pari Nizhniy Novgorod vs Spartak Moscow 18:00 ngày 26/04 Russian Premier League", FC Pari Nizhniy Novgorod vs Spartak Moscow 18:00 ngày 26/04 Russian Premier League
+https://live.alilicloud.com/live/95b5ebb97f8622d68e44f249980701b6/playlist.m3u8
+#EXTINF:-1 tvg-id="601405912" group-title="London City Lionesses (w) vs Leicester City (w) 18:00 ngày 26/04 English FA Women's Super League", London City Lionesses (w) vs Leicester City (w) 18:00 ngày 26/04 English FA Women's Super League
+https://live.alilicloud.com/live/46579c85c71506c922ac7478199b8d0d/playlist.m3u8
+#EXTINF:-1 tvg-id="601405915" group-title="Everton FC (w) vs Chelsea FC (w) 18:00 ngày 26/04 English FA Women's Super League", Everton FC (w) vs Chelsea FC (w) 18:00 ngày 26/04 English FA Women's Super League
+https://live.alilicloud.com/live/de8f02ed8a489a95560022d3dcc38222/playlist.m3u8
+#EXTINF:-1 tvg-id="601405918" group-title="Tottenham Hotspur (w) vs Manchester United (w) 18:00 ngày 26/04 English FA Women's Super League", Tottenham Hotspur (w) vs Manchester United (w) 18:00 ngày 26/04 English FA Women's Super League
+https://live.alilicloud.com/live/e68741a482af850c5fdf30fb1d997106/playlist.m3u8
 #EXTINF:-1 tvg-id="601405921" group-title="Durham Wildcats LFC (w) vs Sheffield United (w) 18:00 ngày 26/04 English FA Women's Super League 2", Durham Wildcats LFC (w) vs Sheffield United (w) 18:00 ngày 26/04 English FA Women's Super League 2
 https://live.alilicloud.com/live/35c759e1b774241c9f27c9cd164b3976/playlist.m3u8
 #EXTINF:-1 tvg-id="601405933" group-title="Rayong FC vs Lamphun Warriors 18:00 ngày 26/04 Hilux Revo Thai League", Rayong FC vs Lamphun Warriors 18:00 ngày 26/04 Hilux Revo Thai League
@@ -83,8 +77,6 @@ https://live.alilicloud.com/live/479554291af3e0b9c7a38893dbb3f56d/playlist.m3u8
 https://live.alilicloud.com/live/cf2781d42d763e1d458a05396f7c6480/playlist.m3u8
 #EXTINF:-1 tvg-id="601405975" group-title="Shenzhen Peng City FC vs Liaoning Tieren 18:00 ngày 26/04 Chinese Football Super League", Shenzhen Peng City FC vs Liaoning Tieren 18:00 ngày 26/04 Chinese Football Super League
 https://live.alilicloud.com/live/aa66d6c72ae2d0394c6690a7ff31a8dc/playlist.m3u8
-#EXTINF:-1 tvg-id="601405918" group-title="Tottenham Hotspur (w) vs Manchester United (w) 18:00 ngày 26/04 English FA Women's Super League", Tottenham Hotspur (w) vs Manchester United (w) 18:00 ngày 26/04 English FA Women's Super League
-https://live.alilicloud.com/live/e68741a482af850c5fdf30fb1d997106/playlist.m3u8
 #EXTINF:-1 tvg-id="601405987" group-title="Tobol Kostanai vs FK Kaspyi Aktau 18:00 ngày 26/04 Kazakhstan Premier League", Tobol Kostanai vs FK Kaspyi Aktau 18:00 ngày 26/04 Kazakhstan Premier League
 https://live.alilicloud.com/live/165a46e4b3a6bd090bd4c1d140377060/playlist.m3u8
 #EXTINF:-1 tvg-id="601405990" group-title="Xuân Thiện Phú Thọ vs TDTT Bac Ninh 18:00 ngày 26/04 Vietnam National First Class League", Xuân Thiện Phú Thọ vs TDTT Bac Ninh 18:00 ngày 26/04 Vietnam National First Class League
@@ -97,52 +89,98 @@ https://live.alilicloud.com/live/8edfe302552b60e752aaee21b3dcf145/playlist.m3u8
 https://live.alilicloud.com/live/c17b684f1d261601704fb76fb42cf9bb/playlist.m3u8
 #EXTINF:-1 tvg-id="601406014" group-title="Slavia Sofia vs Botev Vratsa 18:00 ngày 26/04 Bulgarian First League", Slavia Sofia vs Botev Vratsa 18:00 ngày 26/04 Bulgarian First League
 https://live.alilicloud.com/live/f02ad644e7efd2bee57c00efbbde1d05/playlist.m3u8
-#EXTINF:-1 tvg-id="601405915" group-title="Everton FC (w) vs Chelsea FC (w) 18:00 ngày 26/04 English FA Women's Super League", Everton FC (w) vs Chelsea FC (w) 18:00 ngày 26/04 English FA Women's Super League
-https://live.alilicloud.com/live/de8f02ed8a489a95560022d3dcc38222/playlist.m3u8
-#EXTINF:-1 tvg-id="601405912" group-title="London City Lionesses (w) vs Leicester City (w) 18:00 ngày 26/04 English FA Women's Super League", London City Lionesses (w) vs Leicester City (w) 18:00 ngày 26/04 English FA Women's Super League
-https://live.alilicloud.com/live/46579c85c71506c922ac7478199b8d0d/playlist.m3u8
-#EXTINF:-1 tvg-id="601405906" group-title="FC Pari Nizhniy Novgorod vs Spartak Moscow 18:00 ngày 26/04 Russian Premier League", FC Pari Nizhniy Novgorod vs Spartak Moscow 18:00 ngày 26/04 Russian Premier League
-https://live.alilicloud.com/live/95b5ebb97f8622d68e44f249980701b6/playlist.m3u8
-#EXTINF:-1 tvg-id="601405903" group-title="AC Milan U20 vs Cagliari U19 18:00 ngày 26/04 Italian Campionato Primavera 1", AC Milan U20 vs Cagliari U19 18:00 ngày 26/04 Italian Campionato Primavera 1
-https://live.alilicloud.com/live/dcc5b2fedc5fe0966f60ec467d219cef/playlist.m3u8
 #EXTINF:-1 tvg-id="601405846" group-title="FK Kaluga vs Veles 18:00 ngày 26/04 RUS D3A", FK Kaluga vs Veles 18:00 ngày 26/04 RUS D3A
 https://live.alilicloud.com/live/862b39c3ee5e920b119e362b1b17e5a4/playlist.m3u8
 #EXTINF:-1 tvg-id="601405840" group-title="Irtysh 1946 Omsk vs Torpedo Miass 18:00 ngày 26/04 RUS D3A", Irtysh 1946 Omsk vs Torpedo Miass 18:00 ngày 26/04 RUS D3A
 https://live.alilicloud.com/live/fa4872ea4f54ea153c3f5c9874ba916f/playlist.m3u8
 #EXTINF:-1 tvg-id="601401448" group-title="Slutsksakhar Slutsk vs FK Minsk B 18:00 ngày 26/04 Belarusian First League", Slutsksakhar Slutsk vs FK Minsk B 18:00 ngày 26/04 Belarusian First League
 https://live.alilicloud.com/live/21b5bbbc9f26ea03d67d31f9031a8e84/playlist.m3u8
-#EXTINF:-1 tvg-id="601402591" group-title="Sorana Cirstea vs Coco Gauff 16:00 ngày 26/04 WTA Madrid, Spain Women Singles", Sorana Cirstea vs Coco Gauff 16:00 ngày 26/04 WTA Madrid, Spain Women Singles
-https://live.alilicloud.com/live/4b64880fe03fe36af80b06d2f48699f0/playlist.m3u8
+#EXTINF:-1 tvg-id="601401388" group-title="FK Isloch Minsk vs Dnepr Mogilev 18:00 ngày 26/04 Belarusian Premier League", FK Isloch Minsk vs Dnepr Mogilev 18:00 ngày 26/04 Belarusian Premier League
+https://live.alilicloud.com/live/82ce5135bb07c30957cbbfebfa183c38/playlist.m3u8
+#EXTINF:-1 tvg-id="601401424" group-title="NK Croatia Zmijavci vs Rudes 18:15 ngày 26/04 Croatian First Football League", NK Croatia Zmijavci vs Rudes 18:15 ngày 26/04 Croatian First Football League
+https://live.alilicloud.com/live/8eb6877c32121ce312854ed2e65f273f/playlist.m3u8
+#EXTINF:-1 tvg-id="601406059" group-title="KAA Gent vs Club Brugge 18:30 ngày 26/04 Belgian Pro League", KAA Gent vs Club Brugge 18:30 ngày 26/04 Belgian Pro League
+https://live.alilicloud.com/live/dc1505b93b9d460e980dbf1047eae650/playlist.m3u8
+#EXTINF:-1 tvg-id="601406062" group-title="Jinhua Team vs Ningbo Team 18:30 ngày 26/04 Wuyue Cup", Jinhua Team vs Ningbo Team 18:30 ngày 26/04 Wuyue Cup
+https://live.alilicloud.com/live/8f7b26794c8be8539e9f09fa485adeaa/playlist.m3u8
+#EXTINF:-1 tvg-id="601406065" group-title="Dongguan Team vs Shanwei Team 18:30 ngày 26/04 Guangdong City Football League", Dongguan Team vs Shanwei Team 18:30 ngày 26/04 Guangdong City Football League
+https://live.alilicloud.com/live/af405e8d3c457627a4e5c7eda512fdf3/playlist.m3u8
+#EXTINF:-1 tvg-id="601406068" group-title="Meizhou Team vs Shenzhen Team 18:30 ngày 26/04 Guangdong City Football League", Meizhou Team vs Shenzhen Team 18:30 ngày 26/04 Guangdong City Football League
+https://live.alilicloud.com/live/bebd10a50d2a330e0d0eb0e391691f65/playlist.m3u8
+#EXTINF:-1 tvg-id="601406071" group-title="Zhaoqing Team vs Zhongshan Team 18:30 ngày 26/04 Guangdong City Football League", Zhaoqing Team vs Zhongshan Team 18:30 ngày 26/04 Guangdong City Football League
+https://live.alilicloud.com/live/6e6e08c4daee9bc6ca5308046e02439e/playlist.m3u8
+#EXTINF:-1 tvg-id="601406056" group-title="Nantong Zhiyun FC vs Dalian K'un City 18:30 ngày 26/04 Chinese Football League 1", Nantong Zhiyun FC vs Dalian K'un City 18:30 ngày 26/04 Chinese Football League 1
+https://live.alilicloud.com/live/950f6b464a0c109ae7d4246a93f5255f/playlist.m3u8
+#EXTINF:-1 tvg-id="601406074" group-title="Jieyang Team vs Shantou Team 18:30 ngày 26/04 Guangdong City Football League", Jieyang Team vs Shantou Team 18:30 ngày 26/04 Guangdong City Football League
+https://live.alilicloud.com/live/6bc8bb1b7889c90d92595cb0977028cd/playlist.m3u8
+#EXTINF:-1 tvg-id="601406077" group-title="Zhanjiang Team vs Foshan Team 18:30 ngày 26/04 Guangdong City Football League", Zhanjiang Team vs Foshan Team 18:30 ngày 26/04 Guangdong City Football League
+https://live.alilicloud.com/live/2b7b08a2a3d7a8e3079c7e991c62b914/playlist.m3u8
+#EXTINF:-1 tvg-id="601406053" group-title="Hyderabad FC vs Mohammedan SC 18:30 ngày 26/04 Indian Super League", Hyderabad FC vs Mohammedan SC 18:30 ngày 26/04 Indian Super League
+https://live.alilicloud.com/live/89f584a6f777205ce05d473e297ad72a/playlist.m3u8
+#EXTINF:-1 tvg-id="601406044" group-title="Dragon Pathumwan Kanchanaburi FC vs Buriram United 18:30 ngày 26/04 Hilux Revo Thai League", Dragon Pathumwan Kanchanaburi FC vs Buriram United 18:30 ngày 26/04 Hilux Revo Thai League
+https://live.alilicloud.com/live/7c87b8bf43706715df080a345e9c544b/playlist.m3u8
+#EXTINF:-1 tvg-id="601406041" group-title="Chonburi Shark FC vs Muang Thong United 18:30 ngày 26/04 Hilux Revo Thai League", Chonburi Shark FC vs Muang Thong United 18:30 ngày 26/04 Hilux Revo Thai League
+https://live.alilicloud.com/live/ffd8826b2017f90b9ecc8279d327ff72/playlist.m3u8
+#EXTINF:-1 tvg-id="601406038" group-title="Geylang United FC vs Lion City Sailors 18:30 ngày 26/04 Singapore Premier League", Geylang United FC vs Lion City Sailors 18:30 ngày 26/04 Singapore Premier League
+https://live.alilicloud.com/live/f182dfe4715f4eb72ce636eedb24b266/playlist.m3u8
+#EXTINF:-1 tvg-id="601406035" group-title="Genclerbirligi vs Kocaelispor 18:30 ngày 26/04 Turkish Super League", Genclerbirligi vs Kocaelispor 18:30 ngày 26/04 Turkish Super League
+https://live.alilicloud.com/live/5df118b8795dbc355078fdd44e0c67cc/playlist.m3u8
+#EXTINF:-1 tvg-id="601406032" group-title="FC Viktoria Köln vs Energie Cottbus 18:30 ngày 26/04 German 3.Liga", FC Viktoria Köln vs Energie Cottbus 18:30 ngày 26/04 German 3.Liga
+https://live.alilicloud.com/live/2905a9484062b8864d13f8a8691a760d/playlist.m3u8
+#EXTINF:-1 tvg-id="601406029" group-title="SC Paderborn 07 vs Schalke 04 18:30 ngày 26/04 German Bundesliga 2", SC Paderborn 07 vs Schalke 04 18:30 ngày 26/04 German Bundesliga 2
+https://live.alilicloud.com/live/7a09cb94808846ee5c8bd97419303cb7/playlist.m3u8
+#EXTINF:-1 tvg-id="601406026" group-title="1. FC Nürnberg vs 1. FC Magdeburg 18:30 ngày 26/04 German Bundesliga 2", 1. FC Nürnberg vs 1. FC Magdeburg 18:30 ngày 26/04 German Bundesliga 2
+https://live.alilicloud.com/live/321d7e936ad4c2b3bcff620df12bc2f3/playlist.m3u8
+#EXTINF:-1 tvg-id="601406023" group-title="VfL Bochum 1848 vs SpVgg Greuther Fürth 18:30 ngày 26/04 German Bundesliga 2", VfL Bochum 1848 vs SpVgg Greuther Fürth 18:30 ngày 26/04 German Bundesliga 2
+https://live.alilicloud.com/live/d8da8d75147f1b5cd7b576e9159ec2eb/playlist.m3u8
+#EXTINF:-1 tvg-id="601406092" group-title="Dalian Yingbo FC vs Yunnan Yukun 18:35 ngày 26/04 Chinese Football Super League", Dalian Yingbo FC vs Yunnan Yukun 18:35 ngày 26/04 Chinese Football Super League
+https://live.alilicloud.com/live/ed4bf2c85b7fa9f87ea93de513893599/playlist.m3u8
 #EXTINF:-1 tvg-id="601402573" group-title="Katerina Siniakova vs Caty Mcnally 16:00 ngày 26/04 WTA Madrid, Spain Women Singles", Katerina Siniakova vs Caty Mcnally 16:00 ngày 26/04 WTA Madrid, Spain Women Singles
 https://live.alilicloud.com/live/d5892aed02c9139f9be8a5014db59e6e/playlist.m3u8
 #EXTINF:-1 tvg-id="601408189" group-title="Polina Kudermetova vs Fiona Ferro 17:00 ngày 26/04 WTA 125K Oeiras 4, Portugal Women Singles", Polina Kudermetova vs Fiona Ferro 17:00 ngày 26/04 WTA 125K Oeiras 4, Portugal Women Singles
 https://live.alilicloud.com/live/bdfea479dcc4c22db5ffc49ba3e4f409/playlist.m3u8
-#EXTINF:-1 tvg-id="601407862" group-title="Ryukyu Golden Kings vs Saga Ballooners 16:05 ngày 26/04 B1 League", Ryukyu Golden Kings vs Saga Ballooners 16:05 ngày 26/04 B1 League
-https://live.alilicloud.com/live/c25615b0a38b6f172e26acb5f49cd99e/playlist.m3u8
-#EXTINF:-1 tvg-id="601407865" group-title="Phoenix Fuel Masters vs Converge FiberXers 16:15 ngày 26/04 Philippine Basketball Commissioner's Cup", Phoenix Fuel Masters vs Converge FiberXers 16:15 ngày 26/04 Philippine Basketball Commissioner's Cup
-https://live.alilicloud.com/live/495604efda6d86cb897df112c4709081/playlist.m3u8
-#EXTINF:-1 tvg-id="601407868" group-title="C.B. Breogan Lugo vs DKV Joventut 17:00 ngày 26/04 Liga Asociación de Clubs de Baloncesto", C.B. Breogan Lugo vs DKV Joventut 17:00 ngày 26/04 Liga Asociación de Clubs de Baloncesto
-https://live.alilicloud.com/live/1ac21c2fc080ca39889abe8c1977e869/playlist.m3u8
-#EXTINF:-1 tvg-id="601415851" group-title="Zenit Petersburg vs Uralmash 17:00 ngày 26/04 VTB United League", Zenit Petersburg vs Uralmash 17:00 ngày 26/04 VTB United League
-https://live.alilicloud.com/live/7f6b1820fb1b0b93bc386c6a57dc7af7/playlist.m3u8
+#EXTINF:-1 tvg-id="601419325" group-title="Ayla Aksu vs Ksenia Zaytseva 17:55 ngày 26/04 WTA 125 Saint-Malo, France, Women Singles", Ayla Aksu vs Ksenia Zaytseva 17:55 ngày 26/04 WTA 125 Saint-Malo, France, Women Singles
+https://live.alilicloud.com/live/39d8e7d35ef461e059ab58b49a14ae98/playlist.m3u8
+#EXTINF:-1 tvg-id="601419322" group-title="Eleejah Inisan vs Yasmine Kabbaj 17:55 ngày 26/04 WTA 125 Saint-Malo, France, Women Singles", Eleejah Inisan vs Yasmine Kabbaj 17:55 ngày 26/04 WTA 125 Saint-Malo, France, Women Singles
+https://live.alilicloud.com/live/f6054b40f79be4f29c3e36b576857157/playlist.m3u8
+#EXTINF:-1 tvg-id="601402570" group-title="Elise Mertens vs Karolina Pliskova 18:05 ngày 26/04 WTA Madrid, Spain Women Singles", Elise Mertens vs Karolina Pliskova 18:05 ngày 26/04 WTA Madrid, Spain Women Singles
+https://live.alilicloud.com/live/701d4d1ca70fe0ceecfd599d11e19ed8/playlist.m3u8
+#EXTINF:-1 tvg-id="601408174" group-title="Sara Errani/Jasmine Paolini vs Laura Siegemund/Vera Zvonareva 18:15 ngày 26/04 WTA Madrid, Spain Women Doubles", Sara Errani/Jasmine Paolini vs Laura Siegemund/Vera Zvonareva 18:15 ngày 26/04 WTA Madrid, Spain Women Doubles
+https://live.alilicloud.com/live/438bc35cf4a2d2d0bba0664c65befa52/playlist.m3u8
 #EXTINF:-1 tvg-id="601407874" group-title="Pinar Karsiyaka vs Esenler Erokspor 17:00 ngày 26/04 Basketbol Super Ligi", Pinar Karsiyaka vs Esenler Erokspor 17:00 ngày 26/04 Basketbol Super Ligi
 https://live.alilicloud.com/live/bd332a6c79a311d51dcc65c2c80cf4e7/playlist.m3u8
 #EXTINF:-1 tvg-id="601407877" group-title="Baskonia Vitoria vs Barcelona 17:15 ngày 26/04 Liga Asociación de Clubs de Baloncesto", Baskonia Vitoria vs Barcelona 17:15 ngày 26/04 Liga Asociación de Clubs de Baloncesto
 https://live.alilicloud.com/live/10f6d1f9567a065f9160a9ed4a0b457d/playlist.m3u8
-#EXTINF:-1 tvg-id="601407991" group-title="Zamora vs Grupo Alega Cantabria 17:30 ngày 26/04 Spain Primera FEB", Zamora vs Grupo Alega Cantabria 17:30 ngày 26/04 Spain Primera FEB
-https://live.alilicloud.com/live/19bf4b5a86ab93d98e5b7f2f6148be8e/playlist.m3u8
-#EXTINF:-1 tvg-id="601407988" group-title="Basquet Coruna vs Gipuzkoa Basket 17:30 ngày 26/04 Spain Primera FEB", Basquet Coruna vs Gipuzkoa Basket 17:30 ngày 26/04 Spain Primera FEB
-https://live.alilicloud.com/live/8acb6b87e5e4b4ac17b191c771dc8849/playlist.m3u8
-#EXTINF:-1 tvg-id="601407976" group-title="Hestia Menorca vs A.D.Sousas Ourense 17:30 ngày 26/04 Spain Primera FEB", Hestia Menorca vs A.D.Sousas Ourense 17:30 ngày 26/04 Spain Primera FEB
-https://live.alilicloud.com/live/49ea6f1e2f0f2194947f53836268fbf8/playlist.m3u8
 #EXTINF:-1 tvg-id="601407880" group-title="Granada vs MoraBanc Andorra 17:30 ngày 26/04 Liga Asociación de Clubs de Baloncesto", Granada vs MoraBanc Andorra 17:30 ngày 26/04 Liga Asociación de Clubs de Baloncesto
 https://live.alilicloud.com/live/83fdb70bfc2ee54879370937344521f0/playlist.m3u8
-#EXTINF:-1 tvg-id="601408114" group-title="Tallon Griekspoor vs Lorenzo Musetti 18:30 ngày 26/04 ATP Madrid, Spain Men Singles", Tallon Griekspoor vs Lorenzo Musetti 18:30 ngày 26/04 ATP Madrid, Spain Men Singles
-https://cdn-hls.taoxanh.biz/live/69ede18542282_153967/index.m3u8?expire=1777802245&amp;sign=3a1a8ed5272a2f9518ac70b8aa5a7259
-#EXTINF:-1 tvg-id="601406098" group-title="Rayo Vallecano vs Real Sociedad 19:00 ngày 26/04 Spanish La Liga", Rayo Vallecano vs Real Sociedad 19:00 ngày 26/04 Spanish La Liga
+#EXTINF:-1 tvg-id="601407976" group-title="Hestia Menorca vs A.D.Sousas Ourense 17:30 ngày 26/04 Spain Primera FEB", Hestia Menorca vs A.D.Sousas Ourense 17:30 ngày 26/04 Spain Primera FEB
+https://live.alilicloud.com/live/49ea6f1e2f0f2194947f53836268fbf8/playlist.m3u8
+#EXTINF:-1 tvg-id="601407988" group-title="Basquet Coruna vs Gipuzkoa Basket 17:30 ngày 26/04 Spain Primera FEB", Basquet Coruna vs Gipuzkoa Basket 17:30 ngày 26/04 Spain Primera FEB
+https://live.alilicloud.com/live/8acb6b87e5e4b4ac17b191c771dc8849/playlist.m3u8
+#EXTINF:-1 tvg-id="601407991" group-title="Zamora vs Grupo Alega Cantabria 17:30 ngày 26/04 Spain Primera FEB", Zamora vs Grupo Alega Cantabria 17:30 ngày 26/04 Spain Primera FEB
+https://live.alilicloud.com/live/19bf4b5a86ab93d98e5b7f2f6148be8e/playlist.m3u8
+#EXTINF:-1 tvg-id="601415854" group-title="BC Dnipro vs BC Kyiv-Basket 18:00 ngày 26/04 Ukrainian Basketball SuperLeague", BC Dnipro vs BC Kyiv-Basket 18:00 ngày 26/04 Ukrainian Basketball SuperLeague
+https://live.alilicloud.com/live/3628583549714dbb8eb97077c48fb5c6/playlist.m3u8
+#EXTINF:-1 tvg-id="601420537" group-title="Yulon Dinosaurs vs Taiwan Beer 18:00 ngày 26/04 China Taiwan Super Basketball League", Yulon Dinosaurs vs Taiwan Beer 18:00 ngày 26/04 China Taiwan Super Basketball League
+https://live.alilicloud.com/live/08929694f8aa84738469b66e4f9d8964/playlist.m3u8
+#EXTINF:-1 tvg-id="601407886" group-title="Titan Ultra Giant Risers vs Barangay Ginebra San Miguel 18:30 ngày 26/04 Philippine Basketball Commissioner's Cup", Titan Ultra Giant Risers vs Barangay Ginebra San Miguel 18:30 ngày 26/04 Philippine Basketball Commissioner's Cup
+https://live.alilicloud.com/live/5e1530956e604d20fd3977d753a7e091/playlist.m3u8
+#EXTINF:-1 tvg-id="601406098" group-title="Rayo Vallecano vs Real Sociedad 19:00 ngày 26/04 Spanish La Liga", Rayo Vallecano vs Real Sociedad 19:00 ngày 26/04 Spanish La Liga (Link 1)
+https://cdn-hls.taoxanh.biz/live/69edf8f9203f4_79/index.m3u8?expire=1777808249&amp;sign=3f90860e922067d3e0db315f5fff611a
+#EXTINF:-1 tvg-id="601406098" group-title="Rayo Vallecano vs Real Sociedad 19:00 ngày 26/04 Spanish La Liga", Rayo Vallecano vs Real Sociedad 19:00 ngày 26/04 Spanish La Liga (Link 2)
+https://cdn-hls.taoxanh.biz/live/69edf69842282_133172/index.m3u8?expire=1777807640&amp;sign=64881bc614dbb622531aec2949a86b2e
+#EXTINF:-1 tvg-id="601406098" group-title="Rayo Vallecano vs Real Sociedad 19:00 ngày 26/04 Spanish La Liga", Rayo Vallecano vs Real Sociedad 19:00 ngày 26/04 Spanish La Liga (Link 3)
 https://live.alilicloud.com/live/a70512624a751944630016e9f8408f5a/playlist.m3u8
 #EXTINF:-1 tvg-id="601406344" group-title="Genoa vs Como 20:00 ngày 26/04 Italian Serie A", Genoa vs Como 20:00 ngày 26/04 Italian Serie A
 https://live.alilicloud.com/live/2458c31c0690a0134eed2ef8ddd7936d/playlist.m3u8
+#EXTINF:-1 tvg-id="601406779" group-title="Chelsea vs Leeds United 21:00 ngày 26/04 FA Cup", Chelsea vs Leeds United 21:00 ngày 26/04 FA Cup
+https://live.alilicloud.com/live/650f7bd1afb9357bb54c59a1031a708f/playlist.m3u8
+#EXTINF:-1 tvg-id="601406284" group-title="Cong An Ha Noi FC vs Song Lam Nghe An 19:15 ngày 26/04 Vietnam National Champion League", Cong An Ha Noi FC vs Song Lam Nghe An 19:15 ngày 26/04 Vietnam National Champion League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69edf845203f4_44731/index.m3u8?expire=1777808069&amp;sign=55d08fc7ce23ca2c76df1d34b4cfe0ea
+#EXTINF:-1 tvg-id="601406284" group-title="Cong An Ha Noi FC vs Song Lam Nghe An 19:15 ngày 26/04 Vietnam National Champion League", Cong An Ha Noi FC vs Song Lam Nghe An 19:15 ngày 26/04 Vietnam National Champion League (Link 2)
+https://live.alilicloud.com/live/480b5284af22c4612487654be8acd566/playlist.m3u8
+#EXTINF:-1 tvg-id="601406476" group-title="KuPs vs HJK Helsinki 20:00 ngày 26/04 Finnish Veikkausliiga", KuPs vs HJK Helsinki 20:00 ngày 26/04 Finnish Veikkausliiga
+https://live.alilicloud.com/live/eb3e7664ae8728920998bc5cb275414a/playlist.m3u8
 #EXTINF:-1 tvg-id="601406347" group-title="Lorient vs RC Strasbourg Alsace 20:00 ngày 26/04 French Ligue 1", Lorient vs RC Strasbourg Alsace 20:00 ngày 26/04 French Ligue 1
 https://live.alilicloud.com/live/0abf9d81cb6d77825a7faef0aaeeed61/playlist.m3u8
 #EXTINF:-1 tvg-id="601406599" group-title="VfB Stuttgart vs SV Werder Bremen 20:30 ngày 26/04 Bundesliga", VfB Stuttgart vs SV Werder Bremen 20:30 ngày 26/04 Bundesliga
