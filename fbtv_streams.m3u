@@ -1,7 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601411549" group-title="Tacoma Defiance vs Los Angeles FC II 10:00 ngày 27/04 MLS Next PL", Tacoma Defiance vs Los Angeles FC II 10:00 ngày 27/04 MLS Next PL
-https://live.alilicloud.com/live/f884c1ffcb9a171c993ea2369b4180a7/playlist.m3u8
-#EXTINF:-1 tvg-id="601411552" group-title="Selwyn United vs Nomads 10:00 ngày 27/04 New Zealand South Premier League", Selwyn United vs Nomads 10:00 ngày 27/04 New Zealand South Premier League
-https://live.alilicloud.com/live/83b08e545fdced1f9dc304a2f82e2448/playlist.m3u8
-#EXTINF:-1 tvg-id="601421200" group-title="Zhibek Kulambayeva vs Guo Meiqi  10:00 ngày 27/04 WTA 125K Huzhou, China Women Singles", Zhibek Kulambayeva vs Guo Meiqi  10:00 ngày 27/04 WTA 125K Huzhou, China Women Singles
-https://live.alilicloud.com/live/add50597a4d1ec663f3aa837df46c3b0/playlist.m3u8
+#EXTINF:-1 tvg-id="601421524" group-title="China vs Canada 13:30 ngày 27/04 BWF Thomas &amp; Uber Cup Finals 2026 - SÂN 1", China vs Canada 13:30 ngày 27/04 BWF Thomas &amp; Uber Cup Finals 2026 - SÂN 1
+https://cdn-hls.taoxanh.biz/live/69ef00d742282_18754/index.m3u8?expire=1777875799&amp;sign=dbd44830cf4ac1c17832e7c69d1df502
+#EXTINF:-1 tvg-id="601421527" group-title="Chinese Taipei vs Korea 13:30 ngày 27/04 BWF Thomas &amp; Uber Cup Finals 2026  - SÂN 2", Chinese Taipei vs Korea 13:30 ngày 27/04 BWF Thomas &amp; Uber Cup Finals 2026  - SÂN 2 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69ef036d42282_153967/index.m3u8?expire=1777876461&amp;sign=b3a9490538d6ad59205b20a634e8d485
+#EXTINF:-1 tvg-id="601421527" group-title="Chinese Taipei vs Korea 13:30 ngày 27/04 BWF Thomas &amp; Uber Cup Finals 2026  - SÂN 2", Chinese Taipei vs Korea 13:30 ngày 27/04 BWF Thomas &amp; Uber Cup Finals 2026  - SÂN 2 (Link 2)
+https://cdn-hls.taoxanh.biz/live/69ef06ef203f4_85706/index.m3u8?expire=1777877359&amp;sign=e5a760621bf22b7259f288c49e8a3d6a
+#EXTINF:-1 tvg-id="601421530" group-title="India vs Australia 13:30 ngày 27/04 BWF Thomas &amp; Uber Cup Finals 2026 - SÂN 3", India vs Australia 13:30 ngày 27/04 BWF Thomas &amp; Uber Cup Finals 2026 - SÂN 3
+https://cdn-hls.taoxanh.biz/live/69ef0185203f4_42127/index.m3u8?expire=1777875973&amp;sign=f82f5330a24eda215b74e728f8eae9bf
+#EXTINF:-1 tvg-id="601395418" group-title="Floreat Athena vs Curtin Univ SC 14:00 ngày 27/04 Western Australia State League 1", Floreat Athena vs Curtin Univ SC 14:00 ngày 27/04 Western Australia State League 1
+https://live.alilicloud.com/live/91c94afc47e3eabeec3685e003f706e0/playlist.m3u8
+#EXTINF:-1 tvg-id="601421224" group-title="You Xiaodi vs Lu Jia-Jing 13:35 ngày 27/04 WTA 125K Huzhou, China Women Singles", You Xiaodi vs Lu Jia-Jing 13:35 ngày 27/04 WTA 125K Huzhou, China Women Singles
+https://live.alilicloud.com/live/1c150e84a62e88d28b985453c56a76c8/playlist.m3u8
+#EXTINF:-1 tvg-id="601421215" group-title="Carol Zhao vs Katarzyna Kawa 14:05 ngày 27/04 WTA 125K Huzhou, China Women Singles", Carol Zhao vs Katarzyna Kawa 14:05 ngày 27/04 WTA 125K Huzhou, China Women Singles
+https://live.alilicloud.com/live/a02eacae594ad325fcd6e66cbbef0f22/playlist.m3u8
+#EXTINF:-1 tvg-id="601422700" group-title="ChelGU Chelyabinsk vs Kazygurt Shymkent 13:45 ngày 27/04 Higher League", ChelGU Chelyabinsk vs Kazygurt Shymkent 13:45 ngày 27/04 Higher League
+https://live.alilicloud.com/live/d6e2a086be0573dcfa8216052dc22b05/playlist.m3u8
+#EXTINF:-1 tvg-id="601420969" group-title="Sangmyung University vs Dankook University 14:00 ngày 27/04 Korean University Basketball League", Sangmyung University vs Dankook University 14:00 ngày 27/04 Korean University Basketball League
+https://live.alilicloud.com/live/b0a51d0c59d944efdea18475dcc14677/playlist.m3u8
+#EXTINF:-1 tvg-id="601420972" group-title="Yonsei University vs Korea University 14:00 ngày 27/04 Korean University Basketball League", Yonsei University vs Korea University 14:00 ngày 27/04 Korean University Basketball League
+https://live.alilicloud.com/live/5088d9ad42186598506f734cd8cfbd7d/playlist.m3u8
