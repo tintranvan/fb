@@ -1,15 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601412020" group-title="Denver Nuggets vs Minnesota Timberwolves 09:30 ngày 28/04 National Basketball Association", Denver Nuggets vs Minnesota Timberwolves 09:30 ngày 28/04 National Basketball Association (Link 1)
-https://cdn-hls.taoxanh.biz/live/69f01b92203f4_72787/index.m3u8?expire=1777948178&amp;sign=70b1770ae19b3ac0205cfbd0b30aa331
-#EXTINF:-1 tvg-id="601412020" group-title="Denver Nuggets vs Minnesota Timberwolves 09:30 ngày 28/04 National Basketball Association", Denver Nuggets vs Minnesota Timberwolves 09:30 ngày 28/04 National Basketball Association (Link 2)
-https://cdn-hls.taoxanh.biz/live/69f0220e203f4_42127/index.m3u8?expire=1777949838&amp;sign=1ee711d19d25a5ef0117b7ea8274e223
-#EXTINF:-1 tvg-id="601412020" group-title="Denver Nuggets vs Minnesota Timberwolves 09:30 ngày 28/04 National Basketball Association", Denver Nuggets vs Minnesota Timberwolves 09:30 ngày 28/04 National Basketball Association (Link 3)
-https://live.alilicloud.com/live/c07330b138bf5694cc79a130c639977a/playlist.m3u8
-#EXTINF:-1 tvg-id="601412020" group-title="Denver Nuggets vs Minnesota Timberwolves 09:30 ngày 28/04 National Basketball Association", Denver Nuggets vs Minnesota Timberwolves 09:30 ngày 28/04 National Basketball Association (Link 4)
-https://cdn-hls.taoxanh.biz/live/69f01b92203f4_72787/index.m3u8?expire=1777948178&sign=70b1770ae19b3ac0205cfbd0b30aa331
-#EXTINF:-1 tvg-id="601421212" group-title="Sara Saito vs Yao Xinxin  10:00 ngày 28/04 WTA 125K Huzhou, China Women Singles", Sara Saito vs Yao Xinxin  10:00 ngày 28/04 WTA 125K Huzhou, China Women Singles
-https://live.alilicloud.com/live/08282a956e6dc76cdfe75ab465675ec6/playlist.m3u8
-#EXTINF:-1 tvg-id="601422901" group-title="Dalila Spiteri vs Varvara Panshina 10:00 ngày 28/04 WTA 125K Huzhou, China Women Singles", Dalila Spiteri vs Varvara Panshina 10:00 ngày 28/04 WTA 125K Huzhou, China Women Singles
-https://live.alilicloud.com/live/e90d919d0e4bd1ca29e7effd870ef2a0/playlist.m3u8
-#EXTINF:-1 tvg-id="601422913" group-title="Wang Xiyu vs Zhibek Kulambayeva 11:25 ngày 28/04 WTA 125K Huzhou, China Women Singles", Wang Xiyu vs Zhibek Kulambayeva 11:25 ngày 28/04 WTA 125K Huzhou, China Women Singles
-https://live.alilicloud.com/live/982b66406ce6bd771e8b8bddf8d29d57/playlist.m3u8
+#EXTINF:-1 tvg-id="601422916" group-title="Anastasia Zolotareva vs Yuan Chengyiyi 12:50 ngày 28/04 WTA 125K Huzhou, China Women Singles", Anastasia Zolotareva vs Yuan Chengyiyi 12:50 ngày 28/04 WTA 125K Huzhou, China Women Singles
+https://live.alilicloud.com/live/f7b361b66a30501e5c47ce7e19876c44/playlist.m3u8
+#EXTINF:-1 tvg-id="601421209" group-title="Guo Hanyu vs Dalila Jakupovic 13:35 ngày 28/04 WTA 125K Huzhou, China Women Singles", Guo Hanyu vs Dalila Jakupovic 13:35 ngày 28/04 WTA 125K Huzhou, China Women Singles
+https://live.alilicloud.com/live/3f2641e5634b4b52df257e82963799e0/playlist.m3u8
+#EXTINF:-1 tvg-id="601422910" group-title="Rada Zolotareva vs Despina Papamichail 13:35 ngày 28/04 WTA 125K Huzhou, China Women Singles", Rada Zolotareva vs Despina Papamichail 13:35 ngày 28/04 WTA 125K Huzhou, China Women Singles
+https://live.alilicloud.com/live/efaa6de62f1b1417666fad4875babd4c/playlist.m3u8
+#EXTINF:-1 tvg-id="601421602" group-title="Konkuk University vs Chung Ang University 14:00 ngày 28/04 Korean University Basketball League", Konkuk University vs Chung Ang University 14:00 ngày 28/04 Korean University Basketball League
+https://live.alilicloud.com/live/383ebc971225b91ff42a255d3ce199bc/playlist.m3u8
