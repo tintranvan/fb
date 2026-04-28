@@ -1,27 +1,39 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601411771" group-title="Velez Sarsfield vs Club Atlético Unión 04:45 ngày 28/04 Argentine Division 1", Velez Sarsfield vs Club Atlético Unión 04:45 ngày 28/04 Argentine Division 1 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69efcad0203f4_88186/index.m3u8?expire=1777927504&amp;sign=7e31aa46ccac6a1bbd4310f9616f0bbe
-#EXTINF:-1 tvg-id="601411771" group-title="Velez Sarsfield vs Club Atlético Unión 04:45 ngày 28/04 Argentine Division 1", Velez Sarsfield vs Club Atlético Unión 04:45 ngày 28/04 Argentine Division 1 (Link 2)
-https://live.alilicloud.com/live/a74cab56087cd7d953a58c66f2f84afe/playlist.m3u8
-#EXTINF:-1 tvg-id="601411774" group-title="Athletic Club vs Nautico (PE) 05:00 ngày 28/04 Brazilian Serie B", Athletic Club vs Nautico (PE) 05:00 ngày 28/04 Brazilian Serie B
-https://live.alilicloud.com/live/fc136ab201e4fa06a146330dfddca1c5/playlist.m3u8
-#EXTINF:-1 tvg-id="601422511" group-title="Bogota FC vs Union Magdalena 05:00 ngày 28/04 Colombian Torneo BetPlay Dimayor", Bogota FC vs Union Magdalena 05:00 ngày 28/04 Colombian Torneo BetPlay Dimayor
-https://live.alilicloud.com/live/7903f499f610b338400af8208554d61a/playlist.m3u8
-#EXTINF:-1 tvg-id="601411783" group-title="Defensor Sporting Montevideo vs Club Atletico Progreso 05:30 ngày 28/04 Uruguay Primera Division", Defensor Sporting Montevideo vs Club Atletico Progreso 05:30 ngày 28/04 Uruguay Primera Division
-https://live.alilicloud.com/live/f8a628593c8c2d1da23a423e23e17c64/playlist.m3u8
-#EXTINF:-1 tvg-id="601411789" group-title="Ferroviaria SP vs Guarani SP 06:00 ngày 28/04 Brazilian Serie C", Ferroviaria SP vs Guarani SP 06:00 ngày 28/04 Brazilian Serie C
-https://live.alilicloud.com/live/48d361b78daac74c6622a74b4a79a029/playlist.m3u8
-#EXTINF:-1 tvg-id="601411792" group-title="Caxias RS vs Ypiranga(RS) 06:00 ngày 28/04 Brazilian Serie C", Caxias RS vs Ypiranga(RS) 06:00 ngày 28/04 Brazilian Serie C
-https://live.alilicloud.com/live/ecdaf95a9bbd78af778ede1332026781/playlist.m3u8
-#EXTINF:-1 tvg-id="601419403" group-title="Uruguay (w) U17 vs Brazil (w) U17 06:00 ngày 28/04 CONMEBOL U17 Women's Sudamericano", Uruguay (w) U17 vs Brazil (w) U17 06:00 ngày 28/04 CONMEBOL U17 Women's Sudamericano
-https://live.alilicloud.com/live/610dcaa6466e915f938450d6fb2c7873/playlist.m3u8
-#EXTINF:-1 tvg-id="601422634" group-title="Ellerton FC vs Bagatelle SS 06:00 ngày 28/04 Barbados Premier League", Ellerton FC vs Bagatelle SS 06:00 ngày 28/04 Barbados Premier League
-https://live.alilicloud.com/live/50ad5afac75adc5f4df9616ee74f5f19/playlist.m3u8
-#EXTINF:-1 tvg-id="601411975" group-title="Mogi das Cruzes vs Sao Jose 05:00 ngày 28/04 Novo Basquete Brasil", Mogi das Cruzes vs Sao Jose 05:00 ngày 28/04 Novo Basquete Brasil
-https://live.alilicloud.com/live/f23ac2f5f0c0ca028220fb3f9264f8d8/playlist.m3u8
-#EXTINF:-1 tvg-id="601411978" group-title="Caxias do Sul vs CAIXA Brasília Basquete 05:30 ngày 28/04 Novo Basquete Brasil", Caxias do Sul vs CAIXA Brasília Basquete 05:30 ngày 28/04 Novo Basquete Brasil
-https://live.alilicloud.com/live/1797a316ff581291d38376389abb9725/playlist.m3u8
-#EXTINF:-1 tvg-id="601411990" group-title="Uniao Corinthians vs Flamengo 06:00 ngày 28/04 Novo Basquete Brasil", Uniao Corinthians vs Flamengo 06:00 ngày 28/04 Novo Basquete Brasil
-https://live.alilicloud.com/live/61bb8bd4f0c8c0ed7be2d38e5464e85e/playlist.m3u8
-#EXTINF:-1 tvg-id="601411795" group-title="CA Huracan vs Argentinos Juniors 07:00 ngày 28/04 Argentine Division 1", CA Huracan vs Argentinos Juniors 07:00 ngày 28/04 Argentine Division 1
+#EXTINF:-1 tvg-id="601411795" group-title="CA Huracan vs Argentinos Juniors 07:00 ngày 28/04 Argentine Division 1", CA Huracan vs Argentinos Juniors 07:00 ngày 28/04 Argentine Division 1 (Link 1)
 https://cdn-hls.taoxanh.biz/live/69eff273203f4_74012/index.m3u8?expire=1777937651&amp;sign=f9f88253a03e2f93e2780c8399bf7946
+#EXTINF:-1 tvg-id="601411795" group-title="CA Huracan vs Argentinos Juniors 07:00 ngày 28/04 Argentine Division 1", CA Huracan vs Argentinos Juniors 07:00 ngày 28/04 Argentine Division 1 (Link 2)
+https://live.alilicloud.com/live/9cc9f111c81df5ecdea9a7588afb9f27/playlist.m3u8
+#EXTINF:-1 tvg-id="601412008" group-title="Orlando Magic vs Detroit Pistons 07:00 ngày 28/04 National Basketball Association", Orlando Magic vs Detroit Pistons 07:00 ngày 28/04 National Basketball Association (Link 1)
+https://cdn-hls.taoxanh.biz/live/69efebbb203f4_72787/index.m3u8?expire=1777935931&amp;sign=957c41913ccf90bff6502d892fc08e52
+#EXTINF:-1 tvg-id="601412008" group-title="Orlando Magic vs Detroit Pistons 07:00 ngày 28/04 National Basketball Association", Orlando Magic vs Detroit Pistons 07:00 ngày 28/04 National Basketball Association (Link 2)
+https://cdn-hls.taoxanh.biz/live/69efec8742282_42127/index.m3u8?expire=1777936135&amp;sign=7251e8b5603f40b3c613b81902c0ea2b
+#EXTINF:-1 tvg-id="601412008" group-title="Orlando Magic vs Detroit Pistons 07:00 ngày 28/04 National Basketball Association", Orlando Magic vs Detroit Pistons 07:00 ngày 28/04 National Basketball Association (Link 3)
+https://live.alilicloud.com/live/326f1c1951748887d841953d28548e28/playlist.m3u8
+#EXTINF:-1 tvg-id="601412017" group-title="Phoenix Suns vs Oklahoma City Thunder 08:30 ngày 28/04 National Basketball Association", Phoenix Suns vs Oklahoma City Thunder 08:30 ngày 28/04 National Basketball Association (Link 1)
+https://cdn-hls.taoxanh.biz/live/69f007e542282_153967/index.m3u8?expire=1777943141&amp;sign=bb8fc4fb9336fd58c0104cbfbe999c17
+#EXTINF:-1 tvg-id="601412017" group-title="Phoenix Suns vs Oklahoma City Thunder 08:30 ngày 28/04 National Basketball Association", Phoenix Suns vs Oklahoma City Thunder 08:30 ngày 28/04 National Basketball Association (Link 2)
+https://cdn-hls.taoxanh.biz/live/69f0044142282_4733/index.m3u8?expire=1777942209&amp;sign=338a476168dfd63cb8f7b4f85ef21b60
+#EXTINF:-1 tvg-id="601412017" group-title="Phoenix Suns vs Oklahoma City Thunder 08:30 ngày 28/04 National Basketball Association", Phoenix Suns vs Oklahoma City Thunder 08:30 ngày 28/04 National Basketball Association (Link 3)
+https://live.alilicloud.com/live/4aee2b7226ad814366b798740884c5f0/playlist.m3u8
+#EXTINF:-1 tvg-id="601411798" group-title="Deportivo Garcilaso vs FBC Melgar 07:00 ngày 28/04 Peruvian Liga 1", Deportivo Garcilaso vs FBC Melgar 07:00 ngày 28/04 Peruvian Liga 1
+https://live.alilicloud.com/live/cba7c926215df51850be90d189254b3a/playlist.m3u8
+#EXTINF:-1 tvg-id="601411801" group-title="Sociedad Deportiva Aucas vs Delfin SC 07:00 ngày 28/04 LigaPro Serie A", Sociedad Deportiva Aucas vs Delfin SC 07:00 ngày 28/04 LigaPro Serie A
+https://live.alilicloud.com/live/d3064580475dd195b36ea8f834a95a1e/playlist.m3u8
+#EXTINF:-1 tvg-id="601411807" group-title="Club Aurora vs San Antonio Bulo Bulo 07:00 ngày 28/04 Bolivian Primera Division", Club Aurora vs San Antonio Bulo Bulo 07:00 ngày 28/04 Bolivian Primera Division
+https://live.alilicloud.com/live/75bec7875f8378f7d6991a008b4875f8/playlist.m3u8
+#EXTINF:-1 tvg-id="601411810" group-title="SV Deportivo Nacional vs SV Caravel 07:30 ngày 28/04 Aruba Division Di Honor", SV Deportivo Nacional vs SV Caravel 07:30 ngày 28/04 Aruba Division Di Honor
+https://live.alilicloud.com/live/426552cc2621d927b66c331979ba7ca8/playlist.m3u8
+#EXTINF:-1 tvg-id="601419199" group-title="Mount Pleasant FA vs Waterhouse FC 07:30 ngày 28/04 Jamaica Premier League", Mount Pleasant FA vs Waterhouse FC 07:30 ngày 28/04 Jamaica Premier League
+https://live.alilicloud.com/live/e37e0b75107e1bf4ef4eb2810b322329/playlist.m3u8
+#EXTINF:-1 tvg-id="601409863" group-title="International San Carlos vs Pitbulls 08:00 ngày 28/04 Costa Rica 2.Liga", International San Carlos vs Pitbulls 08:00 ngày 28/04 Costa Rica 2.Liga
+https://live.alilicloud.com/live/ac626f7d68daff86537ab8f4cb30553b/playlist.m3u8
+#EXTINF:-1 tvg-id="601413973" group-title="Obras Sanitarias Buenos Aires vs Instituto de Cordoba 06:30 ngày 28/04 Argentinian Liga Nacional de Bosquetbol", Obras Sanitarias Buenos Aires vs Instituto de Cordoba 06:30 ngày 28/04 Argentinian Liga Nacional de Bosquetbol
+https://live.alilicloud.com/live/3fa432acec6ff3716a32960782a0f171/playlist.m3u8
+#EXTINF:-1 tvg-id="601412002" group-title="Criollos de Caguas vs Baamon cattle Herder 07:00 ngày 28/04 Baloncesto Superior Nacional", Criollos de Caguas vs Baamon cattle Herder 07:00 ngày 28/04 Baloncesto Superior Nacional
+https://live.alilicloud.com/live/420f0aa1f571ad8e48d8ae754c6cc85b/playlist.m3u8
+#EXTINF:-1 tvg-id="601412005" group-title="Minnesota Lynx vs Nigeria Women 07:00 ngày 28/04 Women's National Basketball Association", Minnesota Lynx vs Nigeria Women 07:00 ngày 28/04 Women's National Basketball Association
+https://live.alilicloud.com/live/a6c15e00099101e5f18705db1a9370f4/playlist.m3u8
+#EXTINF:-1 tvg-id="601412011" group-title="Botafogo vs Vivo Franca 07:00 ngày 28/04 Novo Basquete Brasil", Botafogo vs Vivo Franca 07:00 ngày 28/04 Novo Basquete Brasil
+https://live.alilicloud.com/live/442c7024c82ee34d79ab9e8d93670000/playlist.m3u8
+#EXTINF:-1 tvg-id="601413970" group-title="Boca Juniors vs San Martin 08:00 ngày 28/04 Argentinian Liga Nacional de Bosquetbol", Boca Juniors vs San Martin 08:00 ngày 28/04 Argentinian Liga Nacional de Bosquetbol
+https://live.alilicloud.com/live/220fa099134f313bca5fd8d9d7bd4e72/playlist.m3u8
