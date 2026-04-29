@@ -1,9 +1,43 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601424959" group-title="Chinese Taipei vs Denmark 23:00 ngày 29/04 BWF Thomas &amp; Uber Cup Finals 2026 - SÂN 1", Chinese Taipei vs Denmark 23:00 ngày 29/04 BWF Thomas &amp; Uber Cup Finals 2026 - SÂN 1
-https://cdn-hls.taoxanh.biz/live/69f2292a42282_18754/index.m3u8?expire=1778082730&amp;sign=bd4f1c5802bf6f524babd583bc8dd4ea
-#EXTINF:-1 tvg-id="601425460" group-title="Venezuela (w) U17 vs Uruguay (w) U17 03:00 ngày 30/04 CONMEBOL U17 Women's Sudamericano", Venezuela (w) U17 vs Uruguay (w) U17 03:00 ngày 30/04 CONMEBOL U17 Women's Sudamericano
-https://live.alilicloud.com/live/139db8cc04bdd54c33dc20cc2d818a9a/playlist.m3u8
+#EXTINF:-1 tvg-id="601415974" group-title="Detroit Pistons vs Orlando Magic 06:00 ngày 30/04 National Basketball Association", Detroit Pistons vs Orlando Magic 06:00 ngày 30/04 National Basketball Association (Link 1)
+https://cdn-hls.taoxanh.biz/live/69f28a7442282_153967/index.m3u8?expire=1778107636&amp;sign=faf26ec58c136c9ea3e8b468f54c1e23
+#EXTINF:-1 tvg-id="601415974" group-title="Detroit Pistons vs Orlando Magic 06:00 ngày 30/04 National Basketball Association", Detroit Pistons vs Orlando Magic 06:00 ngày 30/04 National Basketball Association (Link 2)
+https://live.alilicloud.com/live/68c70d806eb1404ae692da9361d192a1/playlist.m3u8
+#EXTINF:-1 tvg-id="601415974" group-title="Detroit Pistons vs Orlando Magic 06:00 ngày 30/04 National Basketball Association", Detroit Pistons vs Orlando Magic 06:00 ngày 30/04 National Basketball Association (Link 3)
+https://cdn-hls.taoxanh.biz/live/69f28a7442282_153967/index.m3u8?expire=1778107636&sign=faf26ec58c136c9ea3e8b468f54c1e23
 #EXTINF:-1 tvg-id="601415494" group-title="9 de Octubre vs Cumbaya FC 04:30 ngày 30/04 Ecuadorian Campeonato Serie B", 9 de Octubre vs Cumbaya FC 04:30 ngày 30/04 Ecuadorian Campeonato Serie B
 https://live.alilicloud.com/live/072859589db5f2fead50ce7925e81986/playlist.m3u8
-#EXTINF:-1 tvg-id="601425706" group-title="Inter Moengo Tapoe vs SV Leo Victor 04:30 ngày 30/04 SML", Inter Moengo Tapoe vs SV Leo Victor 04:30 ngày 30/04 SML
-https://live.alilicloud.com/live/7fdcb9ba4f12469f45464dd212e58ec8/playlist.m3u8
+#EXTINF:-1 tvg-id="601415497" group-title="CA Juventud vs Academia Puerto Cabello 05:00 ngày 30/04 CONMEBOL Copa Sudamericana", CA Juventud vs Academia Puerto Cabello 05:00 ngày 30/04 CONMEBOL Copa Sudamericana
+https://live.alilicloud.com/live/46db0ee6e511ba384d0c0f2510d14608/playlist.m3u8
+#EXTINF:-1 tvg-id="601425478" group-title="Jalapa vs Walter Ferretti 05:00 ngày 30/04 Nicaragua Liga Primera", Jalapa vs Walter Ferretti 05:00 ngày 30/04 Nicaragua Liga Primera
+https://live.alilicloud.com/live/98e398245dffeeff8b85c388cd112a7c/playlist.m3u8
+#EXTINF:-1 tvg-id="601415527" group-title="Trem-AP vs SC Paysandu Para 05:00 ngày 30/04 Brazilian Copa Verde", Trem-AP vs SC Paysandu Para 05:00 ngày 30/04 Brazilian Copa Verde
+https://live.alilicloud.com/live/bd709bcf515e83fcfe001e3b39abaa29/playlist.m3u8
+#EXTINF:-1 tvg-id="601415524" group-title="Nacional(AM) vs Guapore RO 05:00 ngày 30/04 Brazilian Copa Verde", Nacional(AM) vs Guapore RO 05:00 ngày 30/04 Brazilian Copa Verde
+https://live.alilicloud.com/live/c1bd893e39b32afade009f5dca70aaef/playlist.m3u8
+#EXTINF:-1 tvg-id="601415518" group-title="Porto Vitoria vs Tocantinopolis 05:00 ngày 30/04 Brazilian Copa Verde", Porto Vitoria vs Tocantinopolis 05:00 ngày 30/04 Brazilian Copa Verde
+https://live.alilicloud.com/live/d20d0f45010d08a22a5795ab99469b24/playlist.m3u8
+#EXTINF:-1 tvg-id="601415515" group-title="Atletico Clube Goianiense vs SE do Gama 05:00 ngày 30/04 Brazilian Copa Verde", Atletico Clube Goianiense vs SE do Gama 05:00 ngày 30/04 Brazilian Copa Verde
+https://live.alilicloud.com/live/d298cef91aec54e89533057982a4ca7b/playlist.m3u8
+#EXTINF:-1 tvg-id="601415503" group-title="Deportivo Riestra vs Montevideo City Torque 05:00 ngày 30/04 CONMEBOL Copa Sudamericana", Deportivo Riestra vs Montevideo City Torque 05:00 ngày 30/04 CONMEBOL Copa Sudamericana
+https://live.alilicloud.com/live/d91d9da39f2c99914cac496645cb18ee/playlist.m3u8
+#EXTINF:-1 tvg-id="601415500" group-title="Caracas FC vs Racing Club de Avellaneda 05:00 ngày 30/04 CONMEBOL Copa Sudamericana", Caracas FC vs Racing Club de Avellaneda 05:00 ngày 30/04 CONMEBOL Copa Sudamericana
+https://live.alilicloud.com/live/03641da38e4e401aef075a9eb7230811/playlist.m3u8
+#EXTINF:-1 tvg-id="601415506" group-title="CA Platense vs Independiente Santa Fe 05:00 ngày 30/04 CONMEBOL Copa Libertadores", CA Platense vs Independiente Santa Fe 05:00 ngày 30/04 CONMEBOL Copa Libertadores
+https://live.alilicloud.com/live/66788608265ce89b5105a2930dac41de/playlist.m3u8
+#EXTINF:-1 tvg-id="601415542" group-title="Capital CF vs Operario MS 05:00 ngày 30/04 Brazilian Copa Verde", Capital CF vs Operario MS 05:00 ngày 30/04 Brazilian Copa Verde
+https://live.alilicloud.com/live/c20795e0c375e757d37bbb7f8b1e6197/playlist.m3u8
+#EXTINF:-1 tvg-id="601415539" group-title="Araguaina vs Vila Nova 05:00 ngày 30/04 Brazilian Copa Verde", Araguaina vs Vila Nova 05:00 ngày 30/04 Brazilian Copa Verde
+https://live.alilicloud.com/live/7817f92382c6a24473c4bc386a39b94f/playlist.m3u8
+#EXTINF:-1 tvg-id="601415533" group-title="Porto Velho EC vs Ag. Maraba 05:00 ngày 30/04 Brazilian Copa Verde", Porto Velho EC vs Ag. Maraba 05:00 ngày 30/04 Brazilian Copa Verde
+https://live.alilicloud.com/live/47024987e556284126fca15075633306/playlist.m3u8
+#EXTINF:-1 tvg-id="601415512" group-title="Anapolis FC vs Cuiaba 05:00 ngày 30/04 Brazilian Copa Verde", Anapolis FC vs Cuiaba 05:00 ngày 30/04 Brazilian Copa Verde
+https://live.alilicloud.com/live/927614f4a852370c9c32ada35dd40cd3/playlist.m3u8
+#EXTINF:-1 tvg-id="601415509" group-title="Mirassol vs Always Ready 05:00 ngày 30/04 CONMEBOL Copa Libertadores", Mirassol vs Always Ready 05:00 ngày 30/04 CONMEBOL Copa Libertadores
+https://live.alilicloud.com/live/d1d69ed43554e1080cb979c311d61295/playlist.m3u8
+#EXTINF:-1 tvg-id="601421746" group-title="Pitagoras Minas vs Cruzeiro 05:00 ngày 30/04 Novo Basquete Brasil", Pitagoras Minas vs Cruzeiro 05:00 ngày 30/04 Novo Basquete Brasil
+https://live.alilicloud.com/live/61e1b36459e3c31d76e604c50c688033/playlist.m3u8
+#EXTINF:-1 tvg-id="601421743" group-title="Corinthians vs Unifacisa 05:00 ngày 30/04 Novo Basquete Brasil", Corinthians vs Unifacisa 05:00 ngày 30/04 Novo Basquete Brasil
+https://live.alilicloud.com/live/206a742343898789324a8944095ff033/playlist.m3u8
+#EXTINF:-1 tvg-id="601424998" group-title="Paulistano Amil vs GRSA Itabom Bauru 05:30 ngày 30/04 Novo Basquete Brasil", Paulistano Amil vs GRSA Itabom Bauru 05:30 ngày 30/04 Novo Basquete Brasil
+https://live.alilicloud.com/live/3a50760564412d77ffa4645d76a1b84c/playlist.m3u8
