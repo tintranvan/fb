@@ -1,41 +1,67 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601415659" group-title="PSIM Yogyakarta vs Persita Tangerang 15:30 ngày 30/04 Indonesian Liga 1", PSIM Yogyakarta vs Persita Tangerang 15:30 ngày 30/04 Indonesian Liga 1 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69f30d4742282_28/index.m3u8?expire=1778141127&amp;sign=4c5ec80a76c56edd92de194265092371
-#EXTINF:-1 tvg-id="601415659" group-title="PSIM Yogyakarta vs Persita Tangerang 15:30 ngày 30/04 Indonesian Liga 1", PSIM Yogyakarta vs Persita Tangerang 15:30 ngày 30/04 Indonesian Liga 1 (Link 2)
-https://live.alilicloud.com/live/4f2f4ff05ecfea560a8f9842cbca5379/playlist.m3u8
-#EXTINF:-1 tvg-id="601426117" group-title="Japan vs Thailand 15:00 ngày 30/04 BWF Thomas &amp; Uber Cup Finals 2026  - SÂN 2", Japan vs Thailand 15:00 ngày 30/04 BWF Thomas &amp; Uber Cup Finals 2026  - SÂN 2
-https://cdn-hls.taoxanh.biz/live/69f30bbf42282_161152/index.m3u8?expire=1778140735&amp;sign=36e2148fc181339f20ab7ae51c14cf6b
-#EXTINF:-1 tvg-id="601426114" group-title="China vs Malaysia 15:00 ngày 30/04 BWF Thomas &amp; Uber Cup Finals 2026 - SÂN 1", China vs Malaysia 15:00 ngày 30/04 BWF Thomas &amp; Uber Cup Finals 2026 - SÂN 1
-https://cdn-hls.taoxanh.biz/live/69f308a7203f4_18754/index.m3u8?expire=1778139943&amp;sign=0a75252c5f7ea9bd03062315a6e654e3
-#EXTINF:-1 tvg-id="601423567" group-title="Brothers Union vs Arambagh KS 16:30 ngày 30/04 Bangladesh Premier League", Brothers Union vs Arambagh KS 16:30 ngày 30/04 Bangladesh Premier League
-https://live.alilicloud.com/live/130d3cd9dd4138029c48f0da77a875fd/playlist.m3u8
-#EXTINF:-1 tvg-id="601426048" group-title="Sribhumi FC (W) vs Garhwal (w) 16:30 ngày 30/04 Indian Women's League", Sribhumi FC (W) vs Garhwal (w) 16:30 ngày 30/04 Indian Women's League
-https://live.alilicloud.com/live/f60b2fc806540aef5b92a4acea829829/playlist.m3u8
-#EXTINF:-1 tvg-id="601426042" group-title="East Bengal FC(W) vs Sethu FC Women 16:30 ngày 30/04 Indian Women's League", East Bengal FC(W) vs Sethu FC Women 16:30 ngày 30/04 Indian Women's League
-https://live.alilicloud.com/live/013d642834bf0d733c21ce8a78255f55/playlist.m3u8
-#EXTINF:-1 tvg-id="601423570" group-title="Mohammedan Dhaka vs Bashundara Kings 16:30 ngày 30/04 Bangladesh Premier League", Mohammedan Dhaka vs Bashundara Kings 16:30 ngày 30/04 Bangladesh Premier League
-https://live.alilicloud.com/live/95d6081f13841f64b1a9148f75378deb/playlist.m3u8
-#EXTINF:-1 tvg-id="601414216" group-title="Adam Walton vs Wu Tung-lin 14:10 ngày 30/04 ATP Challenger Jiujiang, China Men Singles", Adam Walton vs Wu Tung-lin 14:10 ngày 30/04 ATP Challenger Jiujiang, China Men Singles
-https://live.alilicloud.com/live/3c9414a91872f65df09a768cab33c2c1/playlist.m3u8
-#EXTINF:-1 tvg-id="601414330" group-title="Martin Krumich vs Jaime Faria 15:00 ngày 30/04 ATP Challenger Mauthausen, Austria Men Singles", Martin Krumich vs Jaime Faria 15:00 ngày 30/04 ATP Challenger Mauthausen, Austria Men Singles
-https://live.alilicloud.com/live/996a4142a412885f7e71287bf06d1d3c/playlist.m3u8
-#EXTINF:-1 tvg-id="601416196" group-title="Ivan Liutarevich/Filip Pieczonka vs Hipfl N / Vrbensky M 15:00 ngày 30/04 ATP Challenger Mauthausen, Austria Men Doubles", Ivan Liutarevich/Filip Pieczonka vs Hipfl N / Vrbensky M 15:00 ngày 30/04 ATP Challenger Mauthausen, Austria Men Doubles
-https://live.alilicloud.com/live/285f4b3bda002401ba5d9f2de5a090d1/playlist.m3u8
-#EXTINF:-1 tvg-id="601416148" group-title="Betov S / Nedunchezhiyan J vs Chekhov A / Shin M 15:25 ngày 30/04 ATP Challenger Shymkent II, Kazakhstan Men Double", Betov S / Nedunchezhiyan J vs Chekhov A / Shin M 15:25 ngày 30/04 ATP Challenger Shymkent II, Kazakhstan Men Double
-https://live.alilicloud.com/live/c6203f7a940c62b67c7fc8f204bcfeb3/playlist.m3u8
-#EXTINF:-1 tvg-id="601414318" group-title="Cristian Garin vs Nuno Borges 16:00 ngày 30/04 ATP Challenger Cagliari, Italy Men Singles", Cristian Garin vs Nuno Borges 16:00 ngày 30/04 ATP Challenger Cagliari, Italy Men Singles
-https://live.alilicloud.com/live/42b2638e3a4f9290b661dd7bbf9c44d3/playlist.m3u8
-#EXTINF:-1 tvg-id="601414375" group-title="Yasmine Kabbaj vs Jessika Ponchet 16:00 ngày 30/04 WTA 125 Saint-Malo, France, Women Singles", Yasmine Kabbaj vs Jessika Ponchet 16:00 ngày 30/04 WTA 125 Saint-Malo, France, Women Singles
-https://live.alilicloud.com/live/1260a7805dbb29bfe87571c2f81cf0cd/playlist.m3u8
-#EXTINF:-1 tvg-id="601416172" group-title="Rinky Hijikata vs Sebastian Ofner 16:00 ngày 30/04 ATP Challenger Aix en Provence, France Men Singles", Rinky Hijikata vs Sebastian Ofner 16:00 ngày 30/04 ATP Challenger Aix en Provence, France Men Singles
-https://live.alilicloud.com/live/1ae10146ec411ee58cc75d9662145470/playlist.m3u8
-#EXTINF:-1 tvg-id="601416175" group-title="Zizou Bergs vs Pierre Hugues Herbert 16:00 ngày 30/04 ATP Challenger Aix en Provence, France Men Singles", Zizou Bergs vs Pierre Hugues Herbert 16:00 ngày 30/04 ATP Challenger Aix en Provence, France Men Singles
-https://live.alilicloud.com/live/6bded90c7e9729a9f46c9cde3aba44bb/playlist.m3u8
-#EXTINF:-1 tvg-id="601416136" group-title="Guo M / Zhu A vs Kuwata H / Li Y-Y 16:45 ngày 30/04 WTA 125K Huzhou, China Women Doubles", Guo M / Zhu A vs Kuwata H / Li Y-Y 16:45 ngày 30/04 WTA 125K Huzhou, China Women Doubles
-https://live.alilicloud.com/live/17e246f75c894fe57f4d2ee1343e44b7/playlist.m3u8
-#EXTINF:-1 tvg-id="601425001" group-title="Cathay Life Women vs ChungHua Telecom Women 16:00 ngày 30/04 China Women' Taiwan Super Basketball League", Cathay Life Women vs ChungHua Telecom Women 16:00 ngày 30/04 China Women' Taiwan Super Basketball League
-https://live.alilicloud.com/live/62229735b57dba0dff26907ac15dfa28/playlist.m3u8
-#EXTINF:-1 tvg-id="601426834" group-title="ChelGU Kostanay  vs Aktobe 16:00 ngày 30/04 Higher League", ChelGU Kostanay  vs Aktobe 16:00 ngày 30/04 Higher League
-https://live.alilicloud.com/live/5eef1c8f8b5c20a9ce3af24a739fb73a/playlist.m3u8
 #EXTINF:-1 tvg-id="601415668" group-title="Hadiya Hossana vs Mekelle 70 Enderta 17:00 ngày 30/04 Ethiopia Premier League", Hadiya Hossana vs Mekelle 70 Enderta 17:00 ngày 30/04 Ethiopia Premier League
 https://cdn-hls.taoxanh.biz/live/69f3239542282_4908/index.m3u8?expire=1778146837&amp;sign=867c2e7b607fb55637c8c98719c9e51e
+#EXTINF:-1 tvg-id="601415677" group-title="Albirex Niigata FC vs Tampines Rovers FC 18:30 ngày 30/04 Singapore Premier League", Albirex Niigata FC vs Tampines Rovers FC 18:30 ngày 30/04 Singapore Premier League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69f33289203f4_88642/index.m3u8?expire=1778150665&amp;sign=4a1b69fe671c86ed4677fdd590aef50f
+#EXTINF:-1 tvg-id="601415677" group-title="Albirex Niigata FC vs Tampines Rovers FC 18:30 ngày 30/04 Singapore Premier League", Albirex Niigata FC vs Tampines Rovers FC 18:30 ngày 30/04 Singapore Premier League (Link 2)
+https://live.alilicloud.com/live/6c91fa3311b36dea9872505f7feb06c1/playlist.m3u8
+#EXTINF:-1 tvg-id="601415680" group-title="Guangdong Mingtu vs Jiangxi Lushan 18:30 ngày 30/04 Chinese Football League 2", Guangdong Mingtu vs Jiangxi Lushan 18:30 ngày 30/04 Chinese Football League 2 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69f3383b42282_133172/index.m3u8?expire=1778152123&amp;sign=df24b086ea5f4a150bb4f7d4a52320cf
+#EXTINF:-1 tvg-id="601415680" group-title="Guangdong Mingtu vs Jiangxi Lushan 18:30 ngày 30/04 Chinese Football League 2", Guangdong Mingtu vs Jiangxi Lushan 18:30 ngày 30/04 Chinese Football League 2 (Link 2)
+https://live.alilicloud.com/live/d917a3c0d91c3d4e95757c490e71b5ed/playlist.m3u8
+#EXTINF:-1 tvg-id="601415683" group-title="Lanzhou Longyuan Athletics vs Haimen Codion 18:30 ngày 30/04 Chinese Football League 2", Lanzhou Longyuan Athletics vs Haimen Codion 18:30 ngày 30/04 Chinese Football League 2 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69f32f5e203f4_28/index.m3u8?expire=1778149854&amp;sign=dbd1f77b8c35c60ed980623bc41f7980
+#EXTINF:-1 tvg-id="601415683" group-title="Lanzhou Longyuan Athletics vs Haimen Codion 18:30 ngày 30/04 Chinese Football League 2", Lanzhou Longyuan Athletics vs Haimen Codion 18:30 ngày 30/04 Chinese Football League 2 (Link 2)
+https://live.alilicloud.com/live/a894c2353b12eb95c4f2bc25cf67be93/playlist.m3u8
+#EXTINF:-1 tvg-id="601414300" group-title="Casper Ruud vs Alexander Blockx 18:00 ngày 30/04 ATP Madrid, Spain Men Singles", Casper Ruud vs Alexander Blockx 18:00 ngày 30/04 ATP Madrid, Spain Men Singles (Link 1)
+https://cdn-hls.taoxanh.biz/live/69f33230203f4_4439/index.m3u8?expire=1778150576&amp;sign=5631d72539f490dc2b0ef24b472c4b40
+#EXTINF:-1 tvg-id="601414300" group-title="Casper Ruud vs Alexander Blockx 18:00 ngày 30/04 ATP Madrid, Spain Men Singles", Casper Ruud vs Alexander Blockx 18:00 ngày 30/04 ATP Madrid, Spain Men Singles (Link 2)
+https://live.alilicloud.com/live/96b0ab0233197827028b8e5213e1e79d/playlist.m3u8
+#EXTINF:-1 tvg-id="601426117" group-title="Japan vs Thailand 15:00 ngày 30/04 BWF Thomas &amp; Uber Cup Finals 2026  - SÂN 2", Japan vs Thailand 15:00 ngày 30/04 BWF Thomas &amp; Uber Cup Finals 2026  - SÂN 2
+https://cdn-hls.taoxanh.biz/live/69f30bbf42282_161152/index.m3u8?expire=1778140735&amp;sign=36e2148fc181339f20ab7ae51c14cf6b
+#EXTINF:-1 tvg-id="601423567" group-title="Brothers Union vs Arambagh KS 16:30 ngày 30/04 Bangladesh Premier League", Brothers Union vs Arambagh KS 16:30 ngày 30/04 Bangladesh Premier League
+https://live.alilicloud.com/live/130d3cd9dd4138029c48f0da77a875fd/playlist.m3u8
+#EXTINF:-1 tvg-id="601415665" group-title="FK Yelimay Semey B vs Ekibastuzets 17:00 ngày 30/04 Kazakhstan Division 1", FK Yelimay Semey B vs Ekibastuzets 17:00 ngày 30/04 Kazakhstan Division 1
+https://live.alilicloud.com/live/b21d195ce05c61603d5305e4490311c9/playlist.m3u8
+#EXTINF:-1 tvg-id="601425514" group-title="Kazakhstan U16 vs Russia U16 17:30 ngày 30/04 International Friendly", Kazakhstan U16 vs Russia U16 17:30 ngày 30/04 International Friendly
+https://live.alilicloud.com/live/81c1a5f6063083525c4ee4dbfcd7d6b6/playlist.m3u8
+#EXTINF:-1 tvg-id="601425523" group-title="SC Poltava U21 vs Kryvbas U21 18:00 ngày 30/04 Ukrainian Youth Team Championship", SC Poltava U21 vs Kryvbas U21 18:00 ngày 30/04 Ukrainian Youth Team Championship
+https://live.alilicloud.com/live/b18c985ba81fdc3776bad7d7f67626e2/playlist.m3u8
+#EXTINF:-1 tvg-id="601425517" group-title="Anhui Wanmei vs Kunshan Zhangpu 18:30 ngày 30/04 Chinese Football Association Member Association Champions League", Anhui Wanmei vs Kunshan Zhangpu 18:30 ngày 30/04 Chinese Football Association Member Association Champions League
+https://live.alilicloud.com/live/4b0b4a175005e082a836e03577bad330/playlist.m3u8
+#EXTINF:-1 tvg-id="601425520" group-title="Jiangsu Changjin vs Shanghai Zetian 18:30 ngày 30/04 Chinese Football Association Member Association Champions League", Jiangsu Changjin vs Shanghai Zetian 18:30 ngày 30/04 Chinese Football Association Member Association Champions League
+https://live.alilicloud.com/live/a5a38fc794c23c25a3fbaf9e8dc164ca/playlist.m3u8
+#EXTINF:-1 tvg-id="601415686" group-title="Wenzhou Team vs Zhoushan Team 18:30 ngày 30/04 Wuyue Cup", Wenzhou Team vs Zhoushan Team 18:30 ngày 30/04 Wuyue Cup
+https://live.alilicloud.com/live/e578a15ecda33ea2be3ecc25a3cf54c8/playlist.m3u8
+#EXTINF:-1 tvg-id="601414321" group-title="Jesper de Jong vs Adrian Mannarino 17:00 ngày 30/04 ATP Challenger Cagliari, Italy Men Singles", Jesper de Jong vs Adrian Mannarino 17:00 ngày 30/04 ATP Challenger Cagliari, Italy Men Singles
+https://live.alilicloud.com/live/a08522bdb79ce03decd1e508604b7eae/playlist.m3u8
+#EXTINF:-1 tvg-id="601416211" group-title="Siddhant Banthia/Alexander Donski vs Jans J / Whitehouse M 17:00 ngày 30/04 ATP Challenger Ostrava, Czech Republic Men Doubles", Siddhant Banthia/Alexander Donski vs Jans J / Whitehouse M 17:00 ngày 30/04 ATP Challenger Ostrava, Czech Republic Men Doubles
+https://live.alilicloud.com/live/5ddcc36a6723ad123ea29af19a41550c/playlist.m3u8
+#EXTINF:-1 tvg-id="601416199" group-title="Alex Martinez/Bruno Pujol Navarro vs Kohlschreiber P / Schwaerzler J 17:15 ngày 30/04 ATP Challenger Mauthausen, Austria Men Doubles", Alex Martinez/Bruno Pujol Navarro vs Kohlschreiber P / Schwaerzler J 17:15 ngày 30/04 ATP Challenger Mauthausen, Austria Men Doubles
+https://live.alilicloud.com/live/614c888bfbb42685f2ffc11a58180644/playlist.m3u8
+#EXTINF:-1 tvg-id="601414327" group-title="Miguel Damas vs Mika Brunold 17:30 ngày 30/04 ATP Challenger Mauthausen, Austria Men Singles", Miguel Damas vs Mika Brunold 17:30 ngày 30/04 ATP Challenger Mauthausen, Austria Men Singles
+https://live.alilicloud.com/live/02f5ecc6e1ed28e3f4c4a658cfb47a53/playlist.m3u8
+#EXTINF:-1 tvg-id="601416187" group-title="Alexander Shevchenko vs Wu Yibing 17:40 ngày 30/04 ATP Challenger Aix en Provence, France Men Singles", Alexander Shevchenko vs Wu Yibing 17:40 ngày 30/04 ATP Challenger Aix en Provence, France Men Singles
+https://live.alilicloud.com/live/3db18760dcb7b76a8830ec10c2e886e2/playlist.m3u8
+#EXTINF:-1 tvg-id="601416178" group-title="Kimmer Coppejans vs Valentin Royer 17:40 ngày 30/04 ATP Challenger Aix en Provence, France Men Singles", Kimmer Coppejans vs Valentin Royer 17:40 ngày 30/04 ATP Challenger Aix en Provence, France Men Singles
+https://live.alilicloud.com/live/d60a8be9ec8253d21d0e3a39b30bbd49/playlist.m3u8
+#EXTINF:-1 tvg-id="601424899" group-title="Nicolas Barrientos/Ariel Behar vs Benjamin Kittay/Ryan Seggerman 17:40 ngày 30/04 ATP Challenger Cagliari, Italy Men Doubles", Nicolas Barrientos/Ariel Behar vs Benjamin Kittay/Ryan Seggerman 17:40 ngày 30/04 ATP Challenger Cagliari, Italy Men Doubles
+https://live.alilicloud.com/live/a3e84b05222cee7d82153e924ffe1ada/playlist.m3u8
+#EXTINF:-1 tvg-id="601414381" group-title="Whitney Osuigwe vs Viktorija Golubic 17:45 ngày 30/04 WTA 125 Saint-Malo, France, Women Singles", Whitney Osuigwe vs Viktorija Golubic 17:45 ngày 30/04 WTA 125 Saint-Malo, France, Women Singles
+https://live.alilicloud.com/live/2c4a493d12699d24f2313d8805e871ff/playlist.m3u8
+#EXTINF:-1 tvg-id="601416232" group-title="Marcelo Arevalo Gonzalez/Mate Pavic vs Harri Heliovaara/Henry Patten 18:00 ngày 30/04 ATP Madrid, Spain Men Doubles", Marcelo Arevalo Gonzalez/Mate Pavic vs Harri Heliovaara/Henry Patten 18:00 ngày 30/04 ATP Madrid, Spain Men Doubles
+https://live.alilicloud.com/live/5f42da88ea169fa419a4433979c5394e/playlist.m3u8
+#EXTINF:-1 tvg-id="601416226" group-title="Anna Danilina/Asia Muhammad vs Khromacheva I / Zaytseva K 18:10 ngày 30/04 WTA 125 Saint-Malo, France, Women Doubles", Anna Danilina/Asia Muhammad vs Khromacheva I / Zaytseva K 18:10 ngày 30/04 WTA 125 Saint-Malo, France, Women Doubles
+https://live.alilicloud.com/live/b61086933ba42d9e8e3a4d745387f47b/playlist.m3u8
+#EXTINF:-1 tvg-id="601426621" group-title="Takamatsu Five Arrows vs Kanazawa Samuraiz 17:00 ngày 30/04 Japan League B3", Takamatsu Five Arrows vs Kanazawa Samuraiz 17:00 ngày 30/04 Japan League B3
+https://live.alilicloud.com/live/a2146b188a6285070f08714afcad15b7/playlist.m3u8
+#EXTINF:-1 tvg-id="601416025" group-title="Johor Southern Tiger BC vs Dewa United 17:00 ngày 30/04 Basketball Champions League Asia", Johor Southern Tiger BC vs Dewa United 17:00 ngày 30/04 Basketball Champions League Asia
+https://live.alilicloud.com/live/a002bdcc178ead8253b871edd4113436/playlist.m3u8
+#EXTINF:-1 tvg-id="601424365" group-title="Busan KCC Egis vs Anyang JungKwanJang Red Boosters 17:00 ngày 30/04 Korean Basketball League", Busan KCC Egis vs Anyang JungKwanJang Red Boosters 17:00 ngày 30/04 Korean Basketball League
+https://live.alilicloud.com/live/7dbd6108330e0fa5a560c4d7aad32263/playlist.m3u8
+#EXTINF:-1 tvg-id="601426768" group-title="Yulon Dinosaurs vs Keelung Black Kites 18:00 ngày 30/04 China Taiwan Super Basketball League", Yulon Dinosaurs vs Keelung Black Kites 18:00 ngày 30/04 China Taiwan Super Basketball League
+https://live.alilicloud.com/live/ec95518b6f942d7290293893e5eabc50/playlist.m3u8
+#EXTINF:-1 tvg-id="601415689" group-title="Bhayangkara Presisi Indonesia FC vs Persib Bandung 19:00 ngày 30/04 Indonesian Liga 1", Bhayangkara Presisi Indonesia FC vs Persib Bandung 19:00 ngày 30/04 Indonesian Liga 1
+https://cdn-hls.taoxanh.biz/live/69f338b042282_95554/index.m3u8?expire=1778152240&amp;sign=ceeeef9de77457995ab2a4bf97f1e2b1
+#EXTINF:-1 tvg-id="601426774" group-title="Shaun Murphy vs John Higgins 19:00 ngày 30/04 Halo World Championship 2026", Shaun Murphy vs John Higgins 19:00 ngày 30/04 Halo World Championship 2026
+https://cdn-hls.taoxanh.biz/live/69f33dbd42282_142246/index.m3u8?expire=1778153533&amp;sign=3fc5766c8cf4a30df1f825df3961b9ff
