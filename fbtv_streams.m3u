@@ -1,5 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601426120" group-title="Denmark vs Indonesia 23:00 ngày 30/04 BWF Thomas &amp; Uber Cup Finals 2026 - SÂN 1", Denmark vs Indonesia 23:00 ngày 30/04 BWF Thomas &amp; Uber Cup Finals 2026 - SÂN 1
-https://cdn-hls.taoxanh.biz/live/69f37e20203f4_18754/index.m3u8?expire=1778170016&amp;sign=ff4bfb0d67c5d50cafc5edde29360f79
-#EXTINF:-1 tvg-id="601423402" group-title="Colombia (w) U17 vs Bolivia (w) U17 03:00 ngày 01/05 CONMEBOL U17 Women's Sudamericano", Colombia (w) U17 vs Bolivia (w) U17 03:00 ngày 01/05 CONMEBOL U17 Women's Sudamericano
-https://live.alilicloud.com/live/a4e1418458bde58c114e363ad8cba667/playlist.m3u8
+#EXTINF:-1 tvg-id="601423423" group-title="Tombense vs Sao Bernardo 05:00 ngày 01/05 Copa Sul-Sudeste", Tombense vs Sao Bernardo 05:00 ngày 01/05 Copa Sul-Sudeste
+https://live.alilicloud.com/live/ff16c6863ae995a7f45c2da1216d2e71/playlist.m3u8
+#EXTINF:-1 tvg-id="601423426" group-title="Clube de Regatas Vasco da Gama vs Olimpia Asuncion 05:00 ngày 01/05 CONMEBOL Copa Sudamericana", Clube de Regatas Vasco da Gama vs Olimpia Asuncion 05:00 ngày 01/05 CONMEBOL Copa Sudamericana
+https://live.alilicloud.com/live/3ae668a1868b32d835ad09ed8e7164a5/playlist.m3u8
+#EXTINF:-1 tvg-id="601423429" group-title="Carabobo vs Blooming 05:00 ngày 01/05 CONMEBOL Copa Sudamericana", Carabobo vs Blooming 05:00 ngày 01/05 CONMEBOL Copa Sudamericana
+https://live.alilicloud.com/live/0317a3dfc77e9f0aa12767d590635974/playlist.m3u8
+#EXTINF:-1 tvg-id="601423432" group-title="Bolivar vs Fluminense RJ 05:00 ngày 01/05 CONMEBOL Copa Libertadores", Bolivar vs Fluminense RJ 05:00 ngày 01/05 CONMEBOL Copa Libertadores
+https://live.alilicloud.com/live/70c4f1ecf1c52e77856e3bf556c17e6f/playlist.m3u8
+#EXTINF:-1 tvg-id="601423435" group-title="Independiente Rivadavia vs Deportivo La Guaira 05:00 ngày 01/05 CONMEBOL Copa Libertadores", Independiente Rivadavia vs Deportivo La Guaira 05:00 ngày 01/05 CONMEBOL Copa Libertadores
+https://live.alilicloud.com/live/ecf9e014d079d11eb2c06810937e819e/playlist.m3u8
+#EXTINF:-1 tvg-id="601423438" group-title="Ferroviaria SP vs Ituano  SP 05:00 ngày 01/05 Brazilian Campeonato Paulista A2", Ferroviaria SP vs Ituano  SP 05:00 ngày 01/05 Brazilian Campeonato Paulista A2
+https://live.alilicloud.com/live/965a9ba89ed3f257ccc4c302f28c8bb5/playlist.m3u8
+#EXTINF:-1 tvg-id="601423441" group-title="Boca Juniors Reserve vs CA Independiente Reserves 05:00 ngày 01/05 Argentine Reserve League", Boca Juniors Reserve vs CA Independiente Reserves 05:00 ngày 01/05 Argentine Reserve League
+https://live.alilicloud.com/live/0da01b6cb15b7587b303641b6c4f88e6/playlist.m3u8
+#EXTINF:-1 tvg-id="601424371" group-title="Flamengo vs Uniao Corinthians 05:30 ngày 01/05 Novo Basquete Brasil", Flamengo vs Uniao Corinthians 05:30 ngày 01/05 Novo Basquete Brasil
+https://live.alilicloud.com/live/1cec51d2797b8cf3f9a1a9f2c405b963/playlist.m3u8
