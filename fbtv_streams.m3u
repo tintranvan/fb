@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601423423" group-title="Tombense vs Sao Bernardo 05:00 ngày 01/05 Copa Sul-Sudeste", Tombense vs Sao Bernardo 05:00 ngày 01/05 Copa Sul-Sudeste
-https://live.alilicloud.com/live/ff16c6863ae995a7f45c2da1216d2e71/playlist.m3u8
+#EXTINF:-1 tvg-id="601421767" group-title="Atlanta Hawks vs New York Knicks 06:00 ngày 01/05 National Basketball Association", Atlanta Hawks vs New York Knicks 06:00 ngày 01/05 National Basketball Association (Link 1)
+https://cdn-hls.taoxanh.biz/live/69f3dbbe203f4_72787/index.m3u8?expire=1778193982&amp;sign=c2bc901ce49485355740b26fdb279aa8
+#EXTINF:-1 tvg-id="601421767" group-title="Atlanta Hawks vs New York Knicks 06:00 ngày 01/05 National Basketball Association", Atlanta Hawks vs New York Knicks 06:00 ngày 01/05 National Basketball Association (Link 2)
+https://live.alilicloud.com/live/b9120775e6578f2ccef3ac61f1046694/playlist.m3u8
 #EXTINF:-1 tvg-id="601423426" group-title="Clube de Regatas Vasco da Gama vs Olimpia Asuncion 05:00 ngày 01/05 CONMEBOL Copa Sudamericana", Clube de Regatas Vasco da Gama vs Olimpia Asuncion 05:00 ngày 01/05 CONMEBOL Copa Sudamericana
 https://live.alilicloud.com/live/3ae668a1868b32d835ad09ed8e7164a5/playlist.m3u8
 #EXTINF:-1 tvg-id="601423429" group-title="Carabobo vs Blooming 05:00 ngày 01/05 CONMEBOL Copa Sudamericana", Carabobo vs Blooming 05:00 ngày 01/05 CONMEBOL Copa Sudamericana
@@ -13,5 +15,15 @@ https://live.alilicloud.com/live/ecf9e014d079d11eb2c06810937e819e/playlist.m3u8
 https://live.alilicloud.com/live/965a9ba89ed3f257ccc4c302f28c8bb5/playlist.m3u8
 #EXTINF:-1 tvg-id="601423441" group-title="Boca Juniors Reserve vs CA Independiente Reserves 05:00 ngày 01/05 Argentine Reserve League", Boca Juniors Reserve vs CA Independiente Reserves 05:00 ngày 01/05 Argentine Reserve League
 https://live.alilicloud.com/live/0da01b6cb15b7587b303641b6c4f88e6/playlist.m3u8
+#EXTINF:-1 tvg-id="601423450" group-title="Chile (w) U17 vs Paraguay (w) U17 06:00 ngày 01/05 CONMEBOL U17 Women's Sudamericano", Chile (w) U17 vs Paraguay (w) U17 06:00 ngày 01/05 CONMEBOL U17 Women's Sudamericano
+https://live.alilicloud.com/live/9db5fe63315a19b66a2a86bb46c4ba97/playlist.m3u8
+#EXTINF:-1 tvg-id="601423453" group-title="All Boys vs CA San Miguel 06:30 ngày 01/05 Argentine Division 2", All Boys vs CA San Miguel 06:30 ngày 01/05 Argentine Division 2
+https://live.alilicloud.com/live/cabf0a711e1a991401d83bb63cca53df/playlist.m3u8
 #EXTINF:-1 tvg-id="601424371" group-title="Flamengo vs Uniao Corinthians 05:30 ngày 01/05 Novo Basquete Brasil", Flamengo vs Uniao Corinthians 05:30 ngày 01/05 Novo Basquete Brasil
 https://live.alilicloud.com/live/1cec51d2797b8cf3f9a1a9f2c405b963/playlist.m3u8
+#EXTINF:-1 tvg-id="601417267" group-title="Indiana Fever vs Dallas Wings 06:00 ngày 01/05 Women's National Basketball Association", Indiana Fever vs Dallas Wings 06:00 ngày 01/05 Women's National Basketball Association
+https://live.alilicloud.com/live/e4331747cbd80be6041b0d64947a3b26/playlist.m3u8
+#EXTINF:-1 tvg-id="601425049" group-title="CAIXA Brasília Basquete vs Caxias do Sul 06:15 ngày 01/05 Novo Basquete Brasil", CAIXA Brasília Basquete vs Caxias do Sul 06:15 ngày 01/05 Novo Basquete Brasil
+https://live.alilicloud.com/live/0fe330436d1191c6476adbc990f40f67/playlist.m3u8
+#EXTINF:-1 tvg-id="601423468" group-title="Velez Sarsfield vs Gimnasia yTiro 07:15 ngày 01/05 Copa Argentina", Velez Sarsfield vs Gimnasia yTiro 07:15 ngày 01/05 Copa Argentina
+https://cdn-hls.taoxanh.biz/live/69f3e5d942282_44731/index.m3u8?expire=1778196569&amp;sign=0db976cbc9e67a5f34ae6f94a5d0cbd2
