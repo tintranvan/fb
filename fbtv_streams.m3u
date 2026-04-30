@@ -1,7 +1,35 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601425496" group-title="Azerbaijan U16 vs Pakistan U16 12:30 ngày 30/04 International Friendly", Azerbaijan U16 vs Pakistan U16 12:30 ngày 30/04 International Friendly
-https://live.alilicloud.com/live/e281da40f1a323d011d8f35e2fcf38b7/playlist.m3u8
-#EXTINF:-1 tvg-id="601414237" group-title="Ren Yufei vs Polona Hercog 10:00 ngày 30/04 WTA 125K Huzhou, China Women Singles", Ren Yufei vs Polona Hercog 10:00 ngày 30/04 WTA 125K Huzhou, China Women Singles
-https://live.alilicloud.com/live/b99661fa6ff03561648b497e87f682cf/playlist.m3u8
-#EXTINF:-1 tvg-id="601414249" group-title="Yao Xinxin  vs Rada Zolotareva 11:35 ngày 30/04 WTA 125K Huzhou, China Women Singles", Yao Xinxin  vs Rada Zolotareva 11:35 ngày 30/04 WTA 125K Huzhou, China Women Singles
-https://live.alilicloud.com/live/d8e49d76fa64832697837cd50d7ca008/playlist.m3u8
+#EXTINF:-1 tvg-id="601415647" group-title="Dalian Kewei vs Beijing IT 14:00 ngày 30/04 Chinese Football League 2", Dalian Kewei vs Beijing IT 14:00 ngày 30/04 Chinese Football League 2 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69f2ec1b203f4_72787/index.m3u8?expire=1778132635&amp;sign=3eaad3edbb448c830748967327aeffaf
+#EXTINF:-1 tvg-id="601415647" group-title="Dalian Kewei vs Beijing IT 14:00 ngày 30/04 Chinese Football League 2", Dalian Kewei vs Beijing IT 14:00 ngày 30/04 Chinese Football League 2 (Link 2)
+https://live.alilicloud.com/live/8fc6784f6da6cbcdb4ed3905d66087e0/playlist.m3u8
+#EXTINF:-1 tvg-id="601415653" group-title="Shanghai Port B vs Changchun Xidu 14:30 ngày 30/04 Chinese Football League 2", Shanghai Port B vs Changchun Xidu 14:30 ngày 30/04 Chinese Football League 2 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69f2edf942282_124958/index.m3u8?expire=1778133113&amp;sign=1d842be342fd89e277994656814daffc
+#EXTINF:-1 tvg-id="601415653" group-title="Shanghai Port B vs Changchun Xidu 14:30 ngày 30/04 Chinese Football League 2", Shanghai Port B vs Changchun Xidu 14:30 ngày 30/04 Chinese Football League 2 (Link 2)
+https://live.alilicloud.com/live/0f9a768467a26df466f87368832a2a30/playlist.m3u8
+#EXTINF:-1 tvg-id="601415656" group-title="Qingdao Red Lions vs Tai'an Tiankuang 14:30 ngày 30/04 Chinese Football League 2", Qingdao Red Lions vs Tai'an Tiankuang 14:30 ngày 30/04 Chinese Football League 2 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69f2ec6f42282_88186/index.m3u8?expire=1778132719&amp;sign=d147d6248a292da763bc658622524bb4
+#EXTINF:-1 tvg-id="601415656" group-title="Qingdao Red Lions vs Tai'an Tiankuang 14:30 ngày 30/04 Chinese Football League 2", Qingdao Red Lions vs Tai'an Tiankuang 14:30 ngày 30/04 Chinese Football League 2 (Link 2)
+https://live.alilicloud.com/live/2a486795cb4c471ccfee3ff072f01307/playlist.m3u8
+#EXTINF:-1 tvg-id="601415650" group-title="Altay FK vs Ulytau Zhezkazgan 14:00 ngày 30/04 Kazakhstan Cup", Altay FK vs Ulytau Zhezkazgan 14:00 ngày 30/04 Kazakhstan Cup
+https://live.alilicloud.com/live/64949ccf0d8e7fa89b1b6bc0e83ecd4c/playlist.m3u8
+#EXTINF:-1 tvg-id="601414267" group-title="Denis Yevseyev vs Mili Poljicak 13:20 ngày 30/04 ATP Challenger Shymkent II, Kazakhstan Men Singles", Denis Yevseyev vs Mili Poljicak 13:20 ngày 30/04 ATP Challenger Shymkent II, Kazakhstan Men Singles
+https://live.alilicloud.com/live/193453777895bfda8e52e1d92f102069/playlist.m3u8
+#EXTINF:-1 tvg-id="601414276" group-title="Dimitar Kuzmanov vs Buvaysar Gadamauri 13:45 ngày 30/04 ATP Challenger Shymkent II, Kazakhstan Men Singles", Dimitar Kuzmanov vs Buvaysar Gadamauri 13:45 ngày 30/04 ATP Challenger Shymkent II, Kazakhstan Men Singles
+https://live.alilicloud.com/live/d0ae70f5c89205df391e0ae3063f006f/playlist.m3u8
+#EXTINF:-1 tvg-id="601414204" group-title="Giles Hussey vs Alex Bolt 13:50 ngày 30/04 ATP Challenger Jiujiang, China Men Singles", Giles Hussey vs Alex Bolt 13:50 ngày 30/04 ATP Challenger Jiujiang, China Men Singles
+https://live.alilicloud.com/live/21500748e88bddba1eae7078ffcd683b/playlist.m3u8
+#EXTINF:-1 tvg-id="601414216" group-title="Adam Walton vs Wu Tung-lin 14:10 ngày 30/04 ATP Challenger Jiujiang, China Men Singles", Adam Walton vs Wu Tung-lin 14:10 ngày 30/04 ATP Challenger Jiujiang, China Men Singles
+https://live.alilicloud.com/live/3c9414a91872f65df09a768cab33c2c1/playlist.m3u8
+#EXTINF:-1 tvg-id="601414225" group-title="Bu Yunchaokete vs Andre Ilagan 14:20 ngày 30/04 ATP Challenger Jiujiang, China Men Singles", Bu Yunchaokete vs Andre Ilagan 14:20 ngày 30/04 ATP Challenger Jiujiang, China Men Singles
+https://live.alilicloud.com/live/5ff6f12af70b2f47db2ced247c1b6979/playlist.m3u8
+#EXTINF:-1 tvg-id="601416130" group-title="Lansere S / Zolotareva A vs Yiming Dang/Xiaodi You 14:30 ngày 30/04 WTA 125K Huzhou, China Women Doubles", Lansere S / Zolotareva A vs Yiming Dang/Xiaodi You 14:30 ngày 30/04 WTA 125K Huzhou, China Women Doubles
+https://live.alilicloud.com/live/e2bcb5d2d8cb1f2f9d6b12bc569acf1b/playlist.m3u8
+#EXTINF:-1 tvg-id="601421770" group-title="Myongji University vs Yonsei University 14:00 ngày 30/04 Korean University Basketball League", Myongji University vs Yonsei University 14:00 ngày 30/04 Korean University Basketball League
+https://live.alilicloud.com/live/fad94bffe1d6d3fa48adf63e4cb20928/playlist.m3u8
+#EXTINF:-1 tvg-id="601421773" group-title="Korea University vs Dankook University 14:00 ngày 30/04 Korean University Basketball League", Korea University vs Dankook University 14:00 ngày 30/04 Korean University Basketball League
+https://live.alilicloud.com/live/4f40117637fd919dc983d96d9e72a1ae/playlist.m3u8
+#EXTINF:-1 tvg-id="601426831" group-title="Champ1on Almaty vs Almaty2 14:00 ngày 30/04 Higher League", Champ1on Almaty vs Almaty2 14:00 ngày 30/04 Higher League
+https://live.alilicloud.com/live/d9b3866f7f3c83237443af12a5a48a5a/playlist.m3u8
+#EXTINF:-1 tvg-id="601416019" group-title="Wellington Saints vs Taranaki Mountainairs 14:00 ngày 30/04 New Zealand National Basketball League", Wellington Saints vs Taranaki Mountainairs 14:00 ngày 30/04 New Zealand National Basketball League
+https://live.alilicloud.com/live/fd643db467a15fbda5fd3eff9e2f7c8c/playlist.m3u8
