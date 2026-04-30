@@ -1,75 +1,91 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601415782" group-title="Ethiopia Bunna vs Welwalo Adigrat 22:00 ngày 30/04 Ethiopia Premier League", Ethiopia Bunna vs Welwalo Adigrat 22:00 ngày 30/04 Ethiopia Premier League
-https://cdn-hls.taoxanh.biz/live/69f3576f42282_72787/index.m3u8?expire=1778160111&amp;sign=bcd7e0fb906ce9a0c68f3e81da07e293
-#EXTINF:-1 tvg-id="601415815" group-title="Lokomotiv Plovdiv vs Arda 23:00 ngày 30/04 Bulgarian Cup", Lokomotiv Plovdiv vs Arda 23:00 ngày 30/04 Bulgarian Cup (Link 1)
-https://cdn-hls.taoxanh.biz/live/69f36f7d42282_95554/index.m3u8?expire=1778166269&amp;sign=7dfeafcba20df67e45752385a0dc8c05
-#EXTINF:-1 tvg-id="601415815" group-title="Lokomotiv Plovdiv vs Arda 23:00 ngày 30/04 Bulgarian Cup", Lokomotiv Plovdiv vs Arda 23:00 ngày 30/04 Bulgarian Cup (Link 2)
-https://live.alilicloud.com/live/531d70d3a473e1419f0b523767e07439/playlist.m3u8
-#EXTINF:-1 tvg-id="601415806" group-title="FC Neftci Baku vs Qarabag 23:00 ngày 30/04 Azerbaijan Premier League", FC Neftci Baku vs Qarabag 23:00 ngày 30/04 Azerbaijan Premier League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69f375fa203f4_73445/index.m3u8?expire=1778167930&amp;sign=0fe00e11fb26bb9fafd93b5bb97044e0
-#EXTINF:-1 tvg-id="601415806" group-title="FC Neftci Baku vs Qarabag 23:00 ngày 30/04 Azerbaijan Premier League", FC Neftci Baku vs Qarabag 23:00 ngày 30/04 Azerbaijan Premier League (Link 2)
-https://live.alilicloud.com/live/3544b566a212d26051daf5df53f46f7c/playlist.m3u8
+#EXTINF:-1 tvg-id="601423294" group-title="Esbjerg vs AC Horsens 00:00 ngày 01/05 Danish 1st Division", Esbjerg vs AC Horsens 00:00 ngày 01/05 Danish 1st Division (Link 1)
+https://cdn-hls.taoxanh.biz/live/69f383f242282_28/index.m3u8?expire=1778171506&amp;sign=fcdc2c9d8d452c55c8f46a494d8b55d7
+#EXTINF:-1 tvg-id="601423294" group-title="Esbjerg vs AC Horsens 00:00 ngày 01/05 Danish 1st Division", Esbjerg vs AC Horsens 00:00 ngày 01/05 Danish 1st Division (Link 2)
+https://live.alilicloud.com/live/50906c4005f017d615b4b6638bc590ae/playlist.m3u8
+#EXTINF:-1 tvg-id="601423282" group-title="Bodo Glimt vs Start Kristiansand 00:00 ngày 01/05 Norwegian Eliteserien", Bodo Glimt vs Start Kristiansand 00:00 ngày 01/05 Norwegian Eliteserien (Link 1)
+https://cdn-hls.taoxanh.biz/live/69f382e942282_4908/index.m3u8?expire=1778171241&amp;sign=12cab5b0d2e0dad216c31e1dfacddd8d
+#EXTINF:-1 tvg-id="601423282" group-title="Bodo Glimt vs Start Kristiansand 00:00 ngày 01/05 Norwegian Eliteserien", Bodo Glimt vs Start Kristiansand 00:00 ngày 01/05 Norwegian Eliteserien (Link 2)
+https://live.alilicloud.com/live/2e2ff87a6fa755a68f18d06a52fa77f8/playlist.m3u8
+#EXTINF:-1 tvg-id="601423342" group-title="Al Kholood vs Al-Fayha 01:00 ngày 01/05 Saudi Professional League", Al Kholood vs Al-Fayha 01:00 ngày 01/05 Saudi Professional League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69f394c6203f4_133172/index.m3u8?expire=1778175814&amp;sign=73955453e059df3a77a40c9444f681b0
+#EXTINF:-1 tvg-id="601423342" group-title="Al Kholood vs Al-Fayha 01:00 ngày 01/05 Saudi Professional League", Al Kholood vs Al-Fayha 01:00 ngày 01/05 Saudi Professional League (Link 2)
+https://live.alilicloud.com/live/baa57355e83e4d05d76b204601bdc737/playlist.m3u8
+#EXTINF:-1 tvg-id="601426777" group-title="Mark Allen vs Wu Yize 01:00 ngày 01/05 Halo World Championship 2026", Mark Allen vs Wu Yize 01:00 ngày 01/05 Halo World Championship 2026
+https://cdn-hls.taoxanh.biz/live/69f39327203f4_142246/index.m3u8?expire=1778175399&amp;sign=d018f4b990869106de9845a50e0b2254
 #EXTINF:-1 tvg-id="601426123" group-title="Chinese Taipei vs Korea 23:00 ngày 30/04 BWF Thomas &amp; Uber Cup Finals 2026  - SÂN 2", Chinese Taipei vs Korea 23:00 ngày 30/04 BWF Thomas &amp; Uber Cup Finals 2026  - SÂN 2
 https://cdn-hls.taoxanh.biz/live/69f379db203f4_5160/index.m3u8?expire=1778168923&amp;sign=ff1b906b0831356886aed99f255d400b
 #EXTINF:-1 tvg-id="601426120" group-title="Denmark vs Indonesia 23:00 ngày 30/04 BWF Thomas &amp; Uber Cup Finals 2026 - SÂN 1", Denmark vs Indonesia 23:00 ngày 30/04 BWF Thomas &amp; Uber Cup Finals 2026 - SÂN 1
 https://cdn-hls.taoxanh.biz/live/69f37e20203f4_18754/index.m3u8?expire=1778170016&amp;sign=ff4bfb0d67c5d50cafc5edde29360f79
-#EXTINF:-1 tvg-id="601426165" group-title="Rzeszow vs Verva Warszawa 22:30 ngày 30/04 PlusLiga", Rzeszow vs Verva Warszawa 22:30 ngày 30/04 PlusLiga
-https://cdn-hls.taoxanh.biz/live/69f36d2642282_128756/index.m3u8?expire=1778165670&amp;sign=205dcb482b0e6d4c31eae23ded2d83e7
-#EXTINF:-1 tvg-id="601425559" group-title="Olympique Dcheira vs UTS Union Touarga Sport Rabat 22:00 ngày 30/04 The Botola Pro", Olympique Dcheira vs UTS Union Touarga Sport Rabat 22:00 ngày 30/04 The Botola Pro
-https://live.alilicloud.com/live/21bbe265984691b6cdbe20086218c969/playlist.m3u8
-#EXTINF:-1 tvg-id="601415761" group-title="Ordabasy vs FK Kaspyi Aktau 22:00 ngày 30/04 Kazakhstan Cup", Ordabasy vs FK Kaspyi Aktau 22:00 ngày 30/04 Kazakhstan Cup
-https://live.alilicloud.com/live/12d06fb8e38fd5ab9f98e86e2b68c6c1/playlist.m3u8
-#EXTINF:-1 tvg-id="601425562" group-title="DHJ Difaa Hassani Jadidi vs Renaissance Zmamra 22:00 ngày 30/04 The Botola Pro", DHJ Difaa Hassani Jadidi vs Renaissance Zmamra 22:00 ngày 30/04 The Botola Pro
-https://live.alilicloud.com/live/072390252ceef825a64495d2c10a4f8f/playlist.m3u8
-#EXTINF:-1 tvg-id="601426135" group-title="Maccabi Hadera (w) vs Hapoel Jerusalem (w) 22:30 ngày 30/04 Israel Women's Cup", Maccabi Hadera (w) vs Hapoel Jerusalem (w) 22:30 ngày 30/04 Israel Women's Cup
-https://live.alilicloud.com/live/b495bd866da4697e315a067193f437bd/playlist.m3u8
-#EXTINF:-1 tvg-id="601415794" group-title="Hapoel Acre FC vs Hapoel Afula 22:45 ngày 30/04 Israel Leumit League", Hapoel Acre FC vs Hapoel Afula 22:45 ngày 30/04 Israel Leumit League
-https://live.alilicloud.com/live/5358f41a497aa021adeffcb3812a1529/playlist.m3u8
-#EXTINF:-1 tvg-id="601415791" group-title="Hapoel Nof HaGalil vs Hapoel Hadera 22:45 ngày 30/04 Israel Leumit League", Hapoel Nof HaGalil vs Hapoel Hadera 22:45 ngày 30/04 Israel Leumit League
-https://live.alilicloud.com/live/44af38d3438ed953705ea88a4605da26/playlist.m3u8
-#EXTINF:-1 tvg-id="601415788" group-title="Hapoel Raanana vs Maccabi Kabilio Jaffa 22:45 ngày 30/04 Israel Leumit League", Hapoel Raanana vs Maccabi Kabilio Jaffa 22:45 ngày 30/04 Israel Leumit League
-https://live.alilicloud.com/live/76f4ea8990109e13849aa447eea0f27c/playlist.m3u8
-#EXTINF:-1 tvg-id="601415797" group-title="Hapoel Kfar Shalem vs Hapoel Kfar Saba 22:45 ngày 30/04 Israel Leumit League", Hapoel Kfar Shalem vs Hapoel Kfar Saba 22:45 ngày 30/04 Israel Leumit League
-https://live.alilicloud.com/live/2bc54d26028a41da098899c3692d18ed/playlist.m3u8
-#EXTINF:-1 tvg-id="601415800" group-title="Zaglebie Sosnowiec vs Stal Stalowa Wola 23:00 ngày 30/04 Poland Liga 2", Zaglebie Sosnowiec vs Stal Stalowa Wola 23:00 ngày 30/04 Poland Liga 2
-https://live.alilicloud.com/live/6c1396afef857823cde9d68b516970d9/playlist.m3u8
-#EXTINF:-1 tvg-id="601415803" group-title="Al-Okhdood vs Al-Ettifaq FC 23:00 ngày 30/04 Saudi Professional League", Al-Okhdood vs Al-Ettifaq FC 23:00 ngày 30/04 Saudi Professional League
-https://live.alilicloud.com/live/c8faa4a3a7b63f16c6879665cc74da79/playlist.m3u8
-#EXTINF:-1 tvg-id="601415809" group-title="Al Hussein Irbid vs Al-Jazeera 23:00 ngày 30/04 Jordan Cup", Al Hussein Irbid vs Al-Jazeera 23:00 ngày 30/04 Jordan Cup
-https://live.alilicloud.com/live/a7d54fa0d9b52aaad9c618b5a7e0cf0b/playlist.m3u8
-#EXTINF:-1 tvg-id="601415812" group-title="FC Flora Tallinn vs Harju JK Laagri 23:00 ngày 30/04 Estonian Premium Liiga", FC Flora Tallinn vs Harju JK Laagri 23:00 ngày 30/04 Estonian Premium Liiga
-https://live.alilicloud.com/live/8b9b4c9e3730117cec1b000d0fc21909/playlist.m3u8
-#EXTINF:-1 tvg-id="601415833" group-title="Greater Tomorrow FC vs Gambian Dutch Lions 23:30 ngày 30/04 Gambia League First Division", Greater Tomorrow FC vs Gambian Dutch Lions 23:30 ngày 30/04 Gambia League First Division
-https://live.alilicloud.com/live/213097d657daeecd1c89edb9f448f56d/playlist.m3u8
 #EXTINF:-1 tvg-id="601415839" group-title="Bombada FC vs Harts 23:30 ngày 30/04 Gambia League First Division", Bombada FC vs Harts 23:30 ngày 30/04 Gambia League First Division
 https://live.alilicloud.com/live/b54a543c563ce3adaf8f23fdd52387b2/playlist.m3u8
 #EXTINF:-1 tvg-id="601415836" group-title="Team Rhino FC vs Brikama United 23:30 ngày 30/04 Gambia League First Division", Team Rhino FC vs Brikama United 23:30 ngày 30/04 Gambia League First Division
 https://live.alilicloud.com/live/bc53941a56e3f07b9a09a566c3362455/playlist.m3u8
+#EXTINF:-1 tvg-id="601415833" group-title="Greater Tomorrow FC vs Gambian Dutch Lions 23:30 ngày 30/04 Gambia League First Division", Greater Tomorrow FC vs Gambian Dutch Lions 23:30 ngày 30/04 Gambia League First Division
+https://live.alilicloud.com/live/213097d657daeecd1c89edb9f448f56d/playlist.m3u8
 #EXTINF:-1 tvg-id="601415830" group-title="Samger FC vs BST Galaxy 23:30 ngày 30/04 Gambia League First Division", Samger FC vs BST Galaxy 23:30 ngày 30/04 Gambia League First Division
 https://live.alilicloud.com/live/6c614859c6bc34c6b0b2663162f61d95/playlist.m3u8
-#EXTINF:-1 tvg-id="601414378" group-title="Celine Naef vs Anna Blinkova 22:30 ngày 30/04 WTA 125 Saint-Malo, France, Women Singles", Celine Naef vs Anna Blinkova 22:30 ngày 30/04 WTA 125 Saint-Malo, France, Women Singles
-https://live.alilicloud.com/live/e312dc59b5292e1d16addd6d917a6266/playlist.m3u8
-#EXTINF:-1 tvg-id="601416037" group-title="Corona Brasov vs BC Steaua Bucuresti 22:00 ngày 30/04 Liga Nationala de Baschet Masculin", Corona Brasov vs BC Steaua Bucuresti 22:00 ngày 30/04 Liga Nationala de Baschet Masculin
-https://live.alilicloud.com/live/de83b5902b46a46ac863f8af79ed7ecc/playlist.m3u8
-#EXTINF:-1 tvg-id="601419601" group-title="BK Pardubice vs Srsni Pisek 22:30 ngày 30/04 Narodni Basketbalova Liga", BK Pardubice vs Srsni Pisek 22:30 ngày 30/04 Narodni Basketbalova Liga
-https://live.alilicloud.com/live/e80c84be7194bc7e9427a4d9e1717973/playlist.m3u8
-#EXTINF:-1 tvg-id="601416058" group-title="ACS Targu Jiu vs Valcea 23:00 ngày 30/04 Liga Nationala de Baschet Masculin", ACS Targu Jiu vs Valcea 23:00 ngày 30/04 Liga Nationala de Baschet Masculin
-https://live.alilicloud.com/live/7cdfa237355b243a26e0cd482e0c048c/playlist.m3u8
-#EXTINF:-1 tvg-id="601416091" group-title="VEF Riga Juniors vs BK Ventspils 23:00 ngày 30/04 Latvijas Basketbola līga", VEF Riga Juniors vs BK Ventspils 23:00 ngày 30/04 Latvijas Basketbola līga
-https://live.alilicloud.com/live/7b44125dc83bb22955a18ab4fd2bbe87/playlist.m3u8
-#EXTINF:-1 tvg-id="601425004" group-title="Khimki Moscow Region vs Dynamo Grozny 23:00 ngày 30/04 Basketball Super League 1", Khimki Moscow Region vs Dynamo Grozny 23:00 ngày 30/04 Basketball Super League 1
-https://live.alilicloud.com/live/bcfb8f22d893ae415a8df98e89637d33/playlist.m3u8
-#EXTINF:-1 tvg-id="601425907" group-title="Rilski Sportist vs Beroe 23:00 ngày 30/04 Bulgaria National Basketball League", Rilski Sportist vs Beroe 23:00 ngày 30/04 Bulgaria National Basketball League
-https://live.alilicloud.com/live/2b3daca5583d55087bd66ba2d06cb010/playlist.m3u8
-#EXTINF:-1 tvg-id="601414120" group-title="Zlatorog Lasko vs Triglav Kranj 23:00 ngày 30/04 Liga Nova KBM", Zlatorog Lasko vs Triglav Kranj 23:00 ngày 30/04 Liga Nova KBM
-https://live.alilicloud.com/live/47ecdb7cf22be6b3c58d0d9b694a6a41/playlist.m3u8
-#EXTINF:-1 tvg-id="601416043" group-title="Rapid Bucuresti vs Dinamo Bucuresti 23:00 ngày 30/04 Liga Nationala de Baschet Masculin", Rapid Bucuresti vs Dinamo Bucuresti 23:00 ngày 30/04 Liga Nationala de Baschet Masculin
-https://live.alilicloud.com/live/416e40bfea311ff5633ddaac334eb544/playlist.m3u8
-#EXTINF:-1 tvg-id="601425910" group-title="Lokomotiv Plovdiv vs BOTEV 2012 23:15 ngày 30/04 Bulgaria National Basketball League", Lokomotiv Plovdiv vs BOTEV 2012 23:15 ngày 30/04 Bulgaria National Basketball League
-https://live.alilicloud.com/live/224d5304d239ad68f7c4fb2e30cd25b5/playlist.m3u8
+#EXTINF:-1 tvg-id="601423309" group-title="Jedinstvo UB vs Crvena Zvezda 00:00 ngày 01/05 Serbian Cup", Jedinstvo UB vs Crvena Zvezda 00:00 ngày 01/05 Serbian Cup
+https://live.alilicloud.com/live/98184cc22e7665586cbab6115999f054/playlist.m3u8
+#EXTINF:-1 tvg-id="601423312" group-title="VFB Lubeck vs SV Drochtersen/Assel 00:30 ngày 01/05 German Regionalliga", VFB Lubeck vs SV Drochtersen/Assel 00:30 ngày 01/05 German Regionalliga
+https://live.alilicloud.com/live/1c36bc6f97fefaaf2eb5449e8c1fe1cb/playlist.m3u8
+#EXTINF:-1 tvg-id="601423321" group-title="Dijon vs Chateauroux 00:30 ngày 01/05 French Championnat National", Dijon vs Chateauroux 00:30 ngày 01/05 French Championnat National
+https://live.alilicloud.com/live/fdce14dca54f91f6b67e89bec888c78a/playlist.m3u8
+#EXTINF:-1 tvg-id="601423339" group-title="07 Vestur Sorvagur vs NSI Runavik 00:30 ngày 01/05 Faroe Islands Cup", 07 Vestur Sorvagur vs NSI Runavik 00:30 ngày 01/05 Faroe Islands Cup
+https://live.alilicloud.com/live/ddc061ba3100d94c57527808ae3410ca/playlist.m3u8
+#EXTINF:-1 tvg-id="601423318" group-title="Concarneau vs Paris 13 Atletico 00:45 ngày 01/05 French Championnat National", Concarneau vs Paris 13 Atletico 00:45 ngày 01/05 French Championnat National
+https://live.alilicloud.com/live/9695dd19bf84e3722903ab2a1ff89fd5/playlist.m3u8
+#EXTINF:-1 tvg-id="601423444" group-title="Atletico Tucuman Reserve vs Banfield Reserves 01:00 ngày 01/05 Argentine Reserve League", Atletico Tucuman Reserve vs Banfield Reserves 01:00 ngày 01/05 Argentine Reserve League
+https://live.alilicloud.com/live/56ea1381c491178994861bc414247470/playlist.m3u8
+#EXTINF:-1 tvg-id="601423360" group-title="CA Aldosivi Reserves vs San Lorenzo Reserves 01:00 ngày 01/05 Argentine Reserve League", CA Aldosivi Reserves vs San Lorenzo Reserves 01:00 ngày 01/05 Argentine Reserve League
+https://live.alilicloud.com/live/c5d45cc4acc0725eebce107935e75e5d/playlist.m3u8
+#EXTINF:-1 tvg-id="601423375" group-title="Racing Club Reserves vs Instituto AC Cordoba II 01:00 ngày 01/05 Argentine Reserve League", Racing Club Reserves vs Instituto AC Cordoba II 01:00 ngày 01/05 Argentine Reserve League
+https://live.alilicloud.com/live/4018a56646aef35b8c325260f4aa30c8/playlist.m3u8
+#EXTINF:-1 tvg-id="601423372" group-title="Huracan Reserves vs Platense Reserves 01:00 ngày 01/05 Argentine Reserve League", Huracan Reserves vs Platense Reserves 01:00 ngày 01/05 Argentine Reserve League
+https://live.alilicloud.com/live/9db32533266fffc1fe57794e02ef14db/playlist.m3u8
+#EXTINF:-1 tvg-id="601423369" group-title="Godoy Cruz Reserves vs Talleres Cordoba Reserve 01:00 ngày 01/05 Argentine Reserve League", Godoy Cruz Reserves vs Talleres Cordoba Reserve 01:00 ngày 01/05 Argentine Reserve League
+https://live.alilicloud.com/live/928a560800589c8fa4f07c748494a16c/playlist.m3u8
+#EXTINF:-1 tvg-id="601423366" group-title="Estudiantes Rio Cuarto Reserves vs Quilmes Reserves 01:00 ngày 01/05 Argentine Reserve League", Estudiantes Rio Cuarto Reserves vs Quilmes Reserves 01:00 ngày 01/05 Argentine Reserve League
+https://live.alilicloud.com/live/6fd826ee1d48916fc278913e4f80075c/playlist.m3u8
 #EXTINF:-1 tvg-id="601416109" group-title="Galil Elyon vs Maccabi Ironi Ramat Gan 23:30 ngày 30/04 Ligat HaAl", Galil Elyon vs Maccabi Ironi Ramat Gan 23:30 ngày 30/04 Ligat HaAl
 https://live.alilicloud.com/live/18a293dead5d2a412070517d775f68e5/playlist.m3u8
-#EXTINF:-1 tvg-id="601423282" group-title="Bodo Glimt vs Start Kristiansand 00:00 ngày 01/05 Norwegian Eliteserien", Bodo Glimt vs Start Kristiansand 00:00 ngày 01/05 Norwegian Eliteserien
-https://cdn-hls.taoxanh.biz/live/69f382e942282_4908/index.m3u8?expire=1778171241&amp;sign=12cab5b0d2e0dad216c31e1dfacddd8d
-#EXTINF:-1 tvg-id="601423294" group-title="Esbjerg vs AC Horsens 00:00 ngày 01/05 Danish 1st Division", Esbjerg vs AC Horsens 00:00 ngày 01/05 Danish 1st Division
-https://cdn-hls.taoxanh.biz/live/69f383f242282_28/index.m3u8?expire=1778171506&amp;sign=fcdc2c9d8d452c55c8f46a494d8b55d7
+#EXTINF:-1 tvg-id="601421788" group-title="Royal Hali Gaziantep vs Kahramanmaras 00:00 ngày 01/05 Turkish Basketball First League", Royal Hali Gaziantep vs Kahramanmaras 00:00 ngày 01/05 Turkish Basketball First League
+https://live.alilicloud.com/live/b63aac1024e6773bb6aa63f28e3214b9/playlist.m3u8
+#EXTINF:-1 tvg-id="601417234" group-title="Boras Basket vs Norrkoping Dolphins 00:00 ngày 01/05 Svenska Basketligan", Boras Basket vs Norrkoping Dolphins 00:00 ngày 01/05 Svenska Basketligan
+https://live.alilicloud.com/live/d90fc2952baba6040bcd3ab4a2ae2df5/playlist.m3u8
+#EXTINF:-1 tvg-id="601417240" group-title="UBSC Raiffeisen Graz vs Raiffeisen Flyers Wels 00:00 ngày 01/05 Austrian Basketball Superliga", UBSC Raiffeisen Graz vs Raiffeisen Flyers Wels 00:00 ngày 01/05 Austrian Basketball Superliga
+https://live.alilicloud.com/live/c58feafba07a987064739de4b09c82a0/playlist.m3u8
+#EXTINF:-1 tvg-id="601417231" group-title="Rogaska vs Helios Domzale 00:00 ngày 01/05 Liga Nova KBM", Rogaska vs Helios Domzale 00:00 ngày 01/05 Liga Nova KBM
+https://live.alilicloud.com/live/cca1d0bbf9e752186f1b32692577e016/playlist.m3u8
+#EXTINF:-1 tvg-id="601421791" group-title="Sencur KK vs Ilirija 00:30 ngày 01/05 Liga Nova KBM", Sencur KK vs Ilirija 00:30 ngày 01/05 Liga Nova KBM
+https://live.alilicloud.com/live/c041c47d2b7f81fa303ae98f55dcd2e9/playlist.m3u8
+#EXTINF:-1 tvg-id="601426825" group-title="Union Neuchatel Basket vs Lausanne Basket 00:30 ngày 01/05 Swiss Basketball League", Union Neuchatel Basket vs Lausanne Basket 00:30 ngày 01/05 Swiss Basketball League
+https://live.alilicloud.com/live/3b9be7ce37a1a176c3ed32d26f24906a/playlist.m3u8
+#EXTINF:-1 tvg-id="601416097" group-title="Fenerbahçe Beko Istanbul vs Zalgiris Kaunas 00:45 ngày 01/05 EuroLeague", Fenerbahçe Beko Istanbul vs Zalgiris Kaunas 00:45 ngày 01/05 EuroLeague
+https://live.alilicloud.com/live/e8f8dc880cfa24162a8c8feaee0748d8/playlist.m3u8
+#EXTINF:-1 tvg-id="601419607" group-title="Hapoel Rishon Le Zion Women vs Holon Woman 00:50 ngày 01/05 Israel Women's Premier League", Hapoel Rishon Le Zion Women vs Holon Woman 00:50 ngày 01/05 Israel Women's Premier League
+https://live.alilicloud.com/live/eca88886dbb1ac7270057b7e49d6f01c/playlist.m3u8
+#EXTINF:-1 tvg-id="601419610" group-title="Olympiacos vs Monaco 01:00 ngày 01/05 EuroLeague", Olympiacos vs Monaco 01:00 ngày 01/05 EuroLeague
+https://live.alilicloud.com/live/e30fa8d21362045a8994652d687d310e/playlist.m3u8
+#EXTINF:-1 tvg-id="601417255" group-title="Chalons-Reims vs Entente Orleanaise 01:00 ngày 01/05 Ligue Nationale de Basket Pro B", Chalons-Reims vs Entente Orleanaise 01:00 ngày 01/05 Ligue Nationale de Basket Pro B
+https://live.alilicloud.com/live/30f60618c1d1e9118ed18fabcb4d138c/playlist.m3u8
+#EXTINF:-1 tvg-id="601417252" group-title="Le Mans vs Nancy 01:00 ngày 01/05 Ligue Nationale de Basket Pro A", Le Mans vs Nancy 01:00 ngày 01/05 Ligue Nationale de Basket Pro A
+https://live.alilicloud.com/live/df48d6e404d4c4879b4de7a11c2b2e1a/playlist.m3u8
+#EXTINF:-1 tvg-id="601417249" group-title="Denain Voltaire vs Rouen 01:00 ngày 01/05 Ligue Nationale de Basket Pro B", Denain Voltaire vs Rouen 01:00 ngày 01/05 Ligue Nationale de Basket Pro B
+https://live.alilicloud.com/live/7343265ed10ad275413385d26a2f7572/playlist.m3u8
+#EXTINF:-1 tvg-id="601417246" group-title="La Rochelle vs Evreux 01:00 ngày 01/05 Ligue Nationale de Basket Pro B", La Rochelle vs Evreux 01:00 ngày 01/05 Ligue Nationale de Basket Pro B
+https://live.alilicloud.com/live/17b2fee4ae388c999d70f9e39acd0d61/playlist.m3u8
+#EXTINF:-1 tvg-id="601414297" group-title="Flavio Cobolli vs Alexander Zverev 01:00 ngày 01/05 ATP Madrid, Spain Men Singles", Flavio Cobolli vs Alexander Zverev 01:00 ngày 01/05 ATP Madrid, Spain Men Singles
+https://cdn-hls.taoxanh.biz/live/69f3970d203f4_42127/index.m3u8?expire=1778176397&amp;sign=30bf1e3fe69cf27defb0299c463cf2a9
+#EXTINF:-1 tvg-id="601423384" group-title="Rayo Vallecano vs RC Strasbourg Alsace 02:00 ngày 01/05 UEFA Europa Conference League", Rayo Vallecano vs RC Strasbourg Alsace 02:00 ngày 01/05 UEFA Europa Conference League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69f391e6203f4_88186/index.m3u8?expire=1778175078&amp;sign=0ec058412d1433726cfd753ec910afbc
+#EXTINF:-1 tvg-id="601423384" group-title="Rayo Vallecano vs RC Strasbourg Alsace 02:00 ngày 01/05 UEFA Europa Conference League", Rayo Vallecano vs RC Strasbourg Alsace 02:00 ngày 01/05 UEFA Europa Conference League (Link 2)
+https://live.alilicloud.com/live/b379ae76f25f9f13f27725e09f8900e9/playlist.m3u8
+#EXTINF:-1 tvg-id="601423387" group-title="Sporting Braga vs SC Freiburg 02:00 ngày 01/05 UEFA Europa League", Sporting Braga vs SC Freiburg 02:00 ngày 01/05 UEFA Europa League
+https://live.alilicloud.com/live/95feb8aa8137640dc5153dd205f94761/playlist.m3u8
+#EXTINF:-1 tvg-id="601423390" group-title="FC Shakhtar Donetsk vs Crystal Palace 02:00 ngày 01/05 UEFA Europa Conference League", FC Shakhtar Donetsk vs Crystal Palace 02:00 ngày 01/05 UEFA Europa Conference League
+https://live.alilicloud.com/live/d7722c003fe0ccda111f6a73b1afa31b/playlist.m3u8
+#EXTINF:-1 tvg-id="601423393" group-title="Nottingham Forest vs Aston Villa 02:00 ngày 01/05 UEFA Europa League", Nottingham Forest vs Aston Villa 02:00 ngày 01/05 UEFA Europa League
+https://live.alilicloud.com/live/065020978e4aa92ce00815f87484d433/playlist.m3u8
+#EXTINF:-1 tvg-id="601416256" group-title="Marta Kostyuk vs Anastasia Potapova 02:30 ngày 01/05 WTA Madrid, Spain Women Singles", Marta Kostyuk vs Anastasia Potapova 02:30 ngày 01/05 WTA Madrid, Spain Women Singles
+https://cdn-hls.taoxanh.biz/live/69f3970a203f4_42127/index.m3u8?expire=1778176394&amp;sign=67ceb0860dc32246d8b1fde889959032
