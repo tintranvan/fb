@@ -1,10 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601423702" group-title="Nam Dinh FC vs Ho Chi Minh City FC 18:00 ngày 01/05 Vietnam National Champion League", Nam Dinh FC vs Ho Chi Minh City FC 18:00 ngày 01/05 Vietnam National Champion League
-https://cdn-hls.taoxanh.biz/live/69f47f2942282_151255/index.m3u8?expire=1778235817&amp;sign=65e273a4b3e2c545cee91f17d9edc0db
-#EXTINF:-1 tvg-id="601423699" group-title="Dalian Yingbo FC vs Chongqing Tongliangloong FC 18:00 ngày 01/05 Chinese Football Super League", Dalian Yingbo FC vs Chongqing Tongliangloong FC 18:00 ngày 01/05 Chinese Football Super League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69f47ea1203f5_133172/index.m3u8?expire=1778235681&amp;sign=69e8aeba9198ab0876aa8ab68a203f0b
-#EXTINF:-1 tvg-id="601423699" group-title="Dalian Yingbo FC vs Chongqing Tongliangloong FC 18:00 ngày 01/05 Chinese Football Super League", Dalian Yingbo FC vs Chongqing Tongliangloong FC 18:00 ngày 01/05 Chinese Football Super League (Link 2)
-https://live.alilicloud.com/live/a9d9f6d03ff6d46c4119c227ca5e3ab2/playlist.m3u8
+#EXTINF:-1 tvg-id="601423855" group-title="TT Hanoi vs SHB Da Nang 19:15 ngày 01/05 Vietnam National Champion League", TT Hanoi vs SHB Da Nang 19:15 ngày 01/05 Vietnam National Champion League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69f48d2d203f5_4908/index.m3u8?expire=1778239405&amp;sign=3f5bf42e5df0c6633368e2a20cda7b5f
+#EXTINF:-1 tvg-id="601423855" group-title="TT Hanoi vs SHB Da Nang 19:15 ngày 01/05 Vietnam National Champion League", TT Hanoi vs SHB Da Nang 19:15 ngày 01/05 Vietnam National Champion League (Link 2)
+https://live.alilicloud.com/live/2ba5fe9c484c59c2b059063cf81f2c99/playlist.m3u8
 #EXTINF:-1 tvg-id="601423741" group-title="China U17 Women vs Myanmar U17 Women 18:30 ngày 01/05 AFC U17 Women's Asian Cup", China U17 Women vs Myanmar U17 Women 18:30 ngày 01/05 AFC U17 Women's Asian Cup (Link 1)
 https://cdn-hls.taoxanh.biz/live/69f488b542282_79/index.m3u8?expire=1778238261&amp;sign=4199e673858867d820cf22e74858b8cc
 #EXTINF:-1 tvg-id="601423741" group-title="China U17 Women vs Myanmar U17 Women 18:30 ngày 01/05 AFC U17 Women's Asian Cup", China U17 Women vs Myanmar U17 Women 18:30 ngày 01/05 AFC U17 Women's Asian Cup (Link 2)
@@ -13,96 +11,6 @@ https://live.alilicloud.com/live/6527967369b0db55a06f5a452e15bad8/playlist.m3u8
 https://cdn-hls.taoxanh.biz/live/69f48bc942282_73445/index.m3u8?expire=1778239049&amp;sign=c5d8e4778a815381df9311cb4c887a2c
 #EXTINF:-1 tvg-id="601423750" group-title="Tianjin Jinmen Tiger FC vs Wuhan Three Towns FC 18:35 ngày 01/05 Chinese Football Super League", Tianjin Jinmen Tiger FC vs Wuhan Three Towns FC 18:35 ngày 01/05 Chinese Football Super League (Link 2)
 https://live.alilicloud.com/live/2942317ee91a593d806bc113852f2567/playlist.m3u8
-#EXTINF:-1 tvg-id="601435150" group-title="China vs Malaysia 15:00 ngày 01/05 BWF Thomas &amp; Uber Cup Finals 2026 - SÂN 1", China vs Malaysia 15:00 ngày 01/05 BWF Thomas &amp; Uber Cup Finals 2026 - SÂN 1
-https://cdn-hls.taoxanh.biz/live/69f457b1203f4_18754/index.m3u8?expire=1778225713&amp;sign=4a28355537ffde8718ad0573c6df15e1
-#EXTINF:-1 tvg-id="601435153" group-title="India vs Chinese Taipei 15:00 ngày 01/05 BWF Thomas &amp; Uber Cup Finals 2026  - SÂN 2", India vs Chinese Taipei 15:00 ngày 01/05 BWF Thomas &amp; Uber Cup Finals 2026  - SÂN 2
-https://cdn-hls.taoxanh.biz/live/69f488df42282_5160/index.m3u8?expire=1778238303&amp;sign=30071ca57e24f58c13ce831eea1114ad
-#EXTINF:-1 tvg-id="601423588" group-title="Ulsan Citizens vs Daejeon Korail 17:00 ngày 01/05 Korean K League 3", Ulsan Citizens vs Daejeon Korail 17:00 ngày 01/05 Korean K League 3
-https://live.alilicloud.com/live/57c931ec7df2905e059ba4cdc26c16c4/playlist.m3u8
-#EXTINF:-1 tvg-id="601423600" group-title="FC Shakhtyor Karagandy vs Tobol Kostanai B 17:00 ngày 01/05 Kazakhstan Division 1", FC Shakhtyor Karagandy vs Tobol Kostanai B 17:00 ngày 01/05 Kazakhstan Division 1
-https://live.alilicloud.com/live/e79ba68f56b735848bc245e305c8694c/playlist.m3u8
-#EXTINF:-1 tvg-id="601423771" group-title="PFC Oleksandria U21 vs Kolos Kovalivka U21 17:00 ngày 01/05 Ukrainian Youth Team Championship", PFC Oleksandria U21 vs Kolos Kovalivka U21 17:00 ngày 01/05 Ukrainian Youth Team Championship
-https://live.alilicloud.com/live/2583eaf675b7aebacb4e68cbf4c7767d/playlist.m3u8
-#EXTINF:-1 tvg-id="601435183" group-title="Launceston United (w) vs Devonport Strikers (w) 17:15 ngày 01/05 Australia TSAmania Women's Super League", Launceston United (w) vs Devonport Strikers (w) 17:15 ngày 01/05 Australia TSAmania Women's Super League
-https://live.alilicloud.com/live/f7f977bcf47222739f1bc5daaec8f0b9/playlist.m3u8
-#EXTINF:-1 tvg-id="601423639" group-title="West Torrens Birkalla vs Adelaide City FC 17:30 ngày 01/05 South Australia National Premier Leagues", West Torrens Birkalla vs Adelaide City FC 17:30 ngày 01/05 South Australia National Premier Leagues
-https://live.alilicloud.com/live/39e787222de42d4191eee030bf9c7eb8/playlist.m3u8
-#EXTINF:-1 tvg-id="601423648" group-title="Bentleigh greens vs St Albans Saints 17:30 ngày 01/05 National Premier Leagues Victoria", Bentleigh greens vs St Albans Saints 17:30 ngày 01/05 National Premier Leagues Victoria
-https://live.alilicloud.com/live/7d1fb51c3f38530d78f803f6d0e1dcfd/playlist.m3u8
-#EXTINF:-1 tvg-id="601423711" group-title="Djerv 1919 vs Forde 18:00 ngày 01/05 Norwegian 3.Divisjon", Djerv 1919 vs Forde 18:00 ngày 01/05 Norwegian 3.Divisjon
-https://live.alilicloud.com/live/52acd2a0963201f7572d53eaf0bdd989/playlist.m3u8
-#EXTINF:-1 tvg-id="601423708" group-title="Akademiya Ontustik vs FK Taraz 18:00 ngày 01/05 Kazakhstan Division 1", Akademiya Ontustik vs FK Taraz 18:00 ngày 01/05 Kazakhstan Division 1
-https://live.alilicloud.com/live/8dc8324e63e6ba7f03c07b2147d503c2/playlist.m3u8
-#EXTINF:-1 tvg-id="601423705" group-title="Harju JK Laagri (W) vs Saku Sporting (w) 18:00 ngày 01/05 Estonian Women's Meistri Liiga", Harju JK Laagri (W) vs Saku Sporting (w) 18:00 ngày 01/05 Estonian Women's Meistri Liiga
-https://live.alilicloud.com/live/a7b843e3103e1314f98196dbacbef9b9/playlist.m3u8
-#EXTINF:-1 tvg-id="601423696" group-title="Henan FC vs Liaoning Tieren 18:00 ngày 01/05 Chinese Football Super League", Henan FC vs Liaoning Tieren 18:00 ngày 01/05 Chinese Football Super League
-https://live.alilicloud.com/live/19b8775f720377524863823ddaa69c76/playlist.m3u8
-#EXTINF:-1 tvg-id="601423666" group-title="Hassleholms IF vs Lunds BK 18:00 ngày 01/05 Sweden Division 1", Hassleholms IF vs Lunds BK 18:00 ngày 01/05 Sweden Division 1
-https://live.alilicloud.com/live/d5568c46d45229587be2deea1af93590/playlist.m3u8
-#EXTINF:-1 tvg-id="601423663" group-title="Eskilsminne IF vs Angelholms FF 18:00 ngày 01/05 Sweden Division 1", Eskilsminne IF vs Angelholms FF 18:00 ngày 01/05 Sweden Division 1
-https://live.alilicloud.com/live/49ae0f5bc44909ae0160300b7c8db6b5/playlist.m3u8
-#EXTINF:-1 tvg-id="601423651" group-title="Cagliari U19 vs Lecce U20 18:00 ngày 01/05 Italian Campionato Primavera 1", Cagliari U19 vs Lecce U20 18:00 ngày 01/05 Italian Campionato Primavera 1
-https://live.alilicloud.com/live/dd4904d79fcef36829746a68c6a67966/playlist.m3u8
-#EXTINF:-1 tvg-id="601423714" group-title="Fana vs Stord IL 18:00 ngày 01/05 Norwegian 3.Divisjon", Fana vs Stord IL 18:00 ngày 01/05 Norwegian 3.Divisjon
-https://live.alilicloud.com/live/869f1af9dbce2a6e805c2f1665245add/playlist.m3u8
-#EXTINF:-1 tvg-id="601435114" group-title="West Adelaide (w) vs West Torrens Birkalla (w) 18:00 ngày 01/05 South Australia Women's Premier League", West Adelaide (w) vs West Torrens Birkalla (w) 18:00 ngày 01/05 South Australia Women's Premier League
-https://live.alilicloud.com/live/0223578a8ab308fae516073d64332510/playlist.m3u8
-#EXTINF:-1 tvg-id="601426816" group-title="Palmerston vs Darwin Olympics 18:00 ngày 01/05 Australia Darwin Premier League", Palmerston vs Darwin Olympics 18:00 ngày 01/05 Australia Darwin Premier League
-https://live.alilicloud.com/live/295681c8836fda7ed4ca0df22a5170d2/playlist.m3u8
-#EXTINF:-1 tvg-id="601423717" group-title="Binzhou team vs Shandong Zibo 18:00 ngày 01/05 Shandong Qilu Football Super League", Binzhou team vs Shandong Zibo 18:00 ngày 01/05 Shandong Qilu Football Super League
-https://live.alilicloud.com/live/a34bea009ef80d739fc5391b99b5e372/playlist.m3u8
-#EXTINF:-1 tvg-id="601426291" group-title="Arsenal Dzyarzhynsk vs FK Isloch Minsk 18:30 ngày 01/05 Belarusian Premier League", Arsenal Dzyarzhynsk vs FK Isloch Minsk 18:30 ngày 01/05 Belarusian Premier League
-https://live.alilicloud.com/live/4c93238893482cfd0bec517420f98642/playlist.m3u8
-#EXTINF:-1 tvg-id="601423747" group-title="KAMAZ Naberezhnye Chelny vs Spartak Kostroma 18:30 ngày 01/05 Russian National Football League", KAMAZ Naberezhnye Chelny vs Spartak Kostroma 18:30 ngày 01/05 Russian National Football League
-https://live.alilicloud.com/live/ad3adda154509abf10ccb5a3bb9396f1/playlist.m3u8
-#EXTINF:-1 tvg-id="601423744" group-title="Varhaug vs Flekkeroy IL 18:30 ngày 01/05 Norwegian 3.Divisjon", Varhaug vs Flekkeroy IL 18:30 ngày 01/05 Norwegian 3.Divisjon
-https://live.alilicloud.com/live/e296baa96058b4160fe386f696cdd722/playlist.m3u8
-#EXTINF:-1 tvg-id="601423738" group-title="Trans Narva vs Nomme JK Kalju 18:30 ngày 01/05 Estonian Premium Liiga", Trans Narva vs Nomme JK Kalju 18:30 ngày 01/05 Estonian Premium Liiga
-https://live.alilicloud.com/live/a756c35bd33dc4c33e108ecbf678dfdf/playlist.m3u8
-#EXTINF:-1 tvg-id="601423759" group-title="Mianyang Team vs Chengdu Team 18:35 ngày 01/05 Sichuan City Football League", Mianyang Team vs Chengdu Team 18:35 ngày 01/05 Sichuan City Football League
-https://live.alilicloud.com/live/5aed021b2755d25c3c2467a3cc7a9b62/playlist.m3u8
-#EXTINF:-1 tvg-id="601423492" group-title="Xiamen Team vs Zhangzhou Team 18:35 ngày 01/05 Fujian Football City League", Xiamen Team vs Zhangzhou Team 18:35 ngày 01/05 Fujian Football City League
-https://live.alilicloud.com/live/d22b8ac0674337b6b2ef03dcf4149234/playlist.m3u8
-#EXTINF:-1 tvg-id="601423513" group-title="Deyang Team vs Nanchong Team 18:35 ngày 01/05 Sichuan City Football League", Deyang Team vs Nanchong Team 18:35 ngày 01/05 Sichuan City Football League
-https://live.alilicloud.com/live/127375b56aa3dad67bf36b47cd71adb2/playlist.m3u8
-#EXTINF:-1 tvg-id="601423753" group-title="Shandong Taishan FC vs Qingdao West Coast FC 18:35 ngày 01/05 Chinese Football Super League", Shandong Taishan FC vs Qingdao West Coast FC 18:35 ngày 01/05 Chinese Football Super League
-https://live.alilicloud.com/live/16b11a68907d2f0cde5ce154bf2fbd0f/playlist.m3u8
-#EXTINF:-1 tvg-id="601423762" group-title="Dazhou Team vs YIbin Team 18:35 ngày 01/05 Sichuan City Football League", Dazhou Team vs YIbin Team 18:35 ngày 01/05 Sichuan City Football League
-https://live.alilicloud.com/live/680f09c3e92fa613f5708caa7eff8bf9/playlist.m3u8
-#EXTINF:-1 tvg-id="601423756" group-title="Leshan Team vs Liangshan Team 18:35 ngày 01/05 Sichuan City Football League", Leshan Team vs Liangshan Team 18:35 ngày 01/05 Sichuan City Football League
-https://live.alilicloud.com/live/4a371f01c7bdf1e0307a122086899127/playlist.m3u8
-#EXTINF:-1 tvg-id="601417564" group-title="Jessika Ponchet vs Viktorija Golubic 17:35 ngày 01/05 WTA 125 Saint-Malo, France, Women Singles", Jessika Ponchet vs Viktorija Golubic 17:35 ngày 01/05 WTA 125 Saint-Malo, France, Women Singles
-https://live.alilicloud.com/live/53eeed583ceca283bf039f7817a62ad6/playlist.m3u8
-#EXTINF:-1 tvg-id="601417585" group-title="Sara Sorribes Tormo vs Elena Pridankina 18:15 ngày 01/05 WTA 125K La Bisbal D Emporda, Spain Women Singles", Sara Sorribes Tormo vs Elena Pridankina 18:15 ngày 01/05 WTA 125K La Bisbal D Emporda, Spain Women Singles
-https://live.alilicloud.com/live/a27c1f339ea4707c1faa688be8bcf85d/playlist.m3u8
-#EXTINF:-1 tvg-id="601417612" group-title="Laura Siegemund/Vera Zvonareva vs Mirra Andreeva/Diana Shnaider 18:30 ngày 01/05 WTA Madrid, Spain Women Doubles", Laura Siegemund/Vera Zvonareva vs Mirra Andreeva/Diana Shnaider 18:30 ngày 01/05 WTA Madrid, Spain Women Doubles
-https://live.alilicloud.com/live/322f2323650491bddd4d6f098015e4c2/playlist.m3u8
-#EXTINF:-1 tvg-id="601417330" group-title="Marikina Shoemasters vs Caloocan Batang Kankaloo 17:00 ngày 01/05 Philippines MPBL", Marikina Shoemasters vs Caloocan Batang Kankaloo 17:00 ngày 01/05 Philippines MPBL
-https://live.alilicloud.com/live/011ccec4608985be02a01b6005c360e2/playlist.m3u8
-#EXTINF:-1 tvg-id="601425055" group-title="Kobe Storks vs Kagoshima Rebnise 17:05 ngày 01/05 B2 League", Kobe Storks vs Kagoshima Rebnise 17:05 ngày 01/05 B2 League
-https://live.alilicloud.com/live/7a80985f223eb5151a5cd05b6b92f4ac/playlist.m3u8
-#EXTINF:-1 tvg-id="601421821" group-title="Ironi Nes Ziona vs Hapoel Migdal Haemek 17:30 ngày 01/05 Ligat HaAl", Ironi Nes Ziona vs Hapoel Migdal Haemek 17:30 ngày 01/05 Ligat HaAl
-https://live.alilicloud.com/live/cf0c02a828792838d898a30fbb74ca1c/playlist.m3u8
-#EXTINF:-1 tvg-id="601417351" group-title="Phoenix Sunshine Coast vs Cairns Marlins 17:30 ngày 01/05 Australia National Basketball League1 North", Phoenix Sunshine Coast vs Cairns Marlins 17:30 ngày 01/05 Australia National Basketball League1 North
-https://live.alilicloud.com/live/21ebde2bfa45b5e33add2801b908682c/playlist.m3u8
-#EXTINF:-1 tvg-id="601417345" group-title="Northern Force vs Bendigo Braves 17:30 ngày 01/05 National Basketball League1 South", Northern Force vs Bendigo Braves 17:30 ngày 01/05 National Basketball League1 South
-https://live.alilicloud.com/live/aa9abdc5fb3e236ca194f2df71ba5fd8/playlist.m3u8
-#EXTINF:-1 tvg-id="601417342" group-title="Rockingham Flames Women vs Kalamunda Eastern Suns Women 17:30 ngày 01/05 National Women’s Basketball League1 West", Rockingham Flames Women vs Kalamunda Eastern Suns Women 17:30 ngày 01/05 National Women’s Basketball League1 West
-https://live.alilicloud.com/live/018800d2b9c7b7ab2d57a53297df273f/playlist.m3u8
-#EXTINF:-1 tvg-id="601417339" group-title="East Perth Eagles Women vs Warwick Senators Women 17:30 ngày 01/05 National Women’s Basketball League1 West", East Perth Eagles Women vs Warwick Senators Women 17:30 ngày 01/05 National Women’s Basketball League1 West
-https://live.alilicloud.com/live/e7bd7bc79e34e2d89ac5dc99537b2c79/playlist.m3u8
-#EXTINF:-1 tvg-id="601417357" group-title="Barangay Ginebra San Miguel vs Meralco Bolts 18:30 ngày 01/05 Philippine Basketball Commissioner's Cup", Barangay Ginebra San Miguel vs Meralco Bolts 18:30 ngày 01/05 Philippine Basketball Commissioner's Cup
-https://live.alilicloud.com/live/6298130222e6799f2ae3778e9605be21/playlist.m3u8
-#EXTINF:-1 tvg-id="601417354" group-title="Satya Wacana Saints Salatiga vs Pelita Jaya Esia Jakarta 18:30 ngày 01/05 Indonesia Basketball League", Satya Wacana Saints Salatiga vs Pelita Jaya Esia Jakarta 18:30 ngày 01/05 Indonesia Basketball League
-https://live.alilicloud.com/live/9d1ad41b1eb1882812fa39e86a9e04d3/playlist.m3u8
-#EXTINF:-1 tvg-id="601417372" group-title="Guangzhou Loong Lions vs Guangdong Southern Tigers 18:35 ngày 01/05 Chinese Basketball Association", Guangzhou Loong Lions vs Guangdong Southern Tigers 18:35 ngày 01/05 Chinese Basketball Association
-https://live.alilicloud.com/live/70273eaed3f5952fd78945c3ec0c6454/playlist.m3u8
-#EXTINF:-1 tvg-id="601417369" group-title="Liaoning Flying Leopards vs Shandong Hi-Speed Kirin 18:35 ngày 01/05 Chinese Basketball Association", Liaoning Flying Leopards vs Shandong Hi-Speed Kirin 18:35 ngày 01/05 Chinese Basketball Association
-https://live.alilicloud.com/live/6600e9dbe7ec66945347f9b9cf1d89a1/playlist.m3u8
-#EXTINF:-1 tvg-id="601423855" group-title="TT Hanoi vs SHB Da Nang 19:15 ngày 01/05 Vietnam National Champion League", TT Hanoi vs SHB Da Nang 19:15 ngày 01/05 Vietnam National Champion League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69f48d2d203f5_4908/index.m3u8?expire=1778239405&amp;sign=3f5bf42e5df0c6633368e2a20cda7b5f
-#EXTINF:-1 tvg-id="601423855" group-title="TT Hanoi vs SHB Da Nang 19:15 ngày 01/05 Vietnam National Champion League", TT Hanoi vs SHB Da Nang 19:15 ngày 01/05 Vietnam National Champion League (Link 2)
-https://live.alilicloud.com/live/2ba5fe9c484c59c2b059063cf81f2c99/playlist.m3u8
 #EXTINF:-1 tvg-id="601423795" group-title="Shanghai Shenhua FC vs Chengdu Rongcheng FC 19:00 ngày 01/05 Chinese Football Super League", Shanghai Shenhua FC vs Chengdu Rongcheng FC 19:00 ngày 01/05 Chinese Football Super League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69f48ee042282_85514/index.m3u8?expire=1778239840&amp;sign=86e2557780aa69d6f5dd07a6bc3bd2bd
 #EXTINF:-1 tvg-id="601423795" group-title="Shanghai Shenhua FC vs Chengdu Rongcheng FC 19:00 ngày 01/05 Chinese Football Super League", Shanghai Shenhua FC vs Chengdu Rongcheng FC 19:00 ngày 01/05 Chinese Football Super League (Link 2)
@@ -111,3 +19,71 @@ https://live.alilicloud.com/live/8677409f1eb594b915f7a1518660c9bf/playlist.m3u8
 https://cdn-hls.taoxanh.biz/live/69f47db5203f5_124958/index.m3u8?expire=1778235445&amp;sign=cadc3a936a8cf06398d611f19c0497ba
 #EXTINF:-1 tvg-id="601423852" group-title="Kuching City FC vs Terengganu FC 19:15 ngày 01/05 Malaysian Super League", Kuching City FC vs Terengganu FC 19:15 ngày 01/05 Malaysian Super League (Link 2)
 https://live.alilicloud.com/live/41bc0755b3d46a8540ea61017ebacee3/playlist.m3u8
+#EXTINF:-1 tvg-id="601435153" group-title="India vs Chinese Taipei 15:00 ngày 01/05 BWF Thomas &amp; Uber Cup Finals 2026  - SÂN 2", India vs Chinese Taipei 15:00 ngày 01/05 BWF Thomas &amp; Uber Cup Finals 2026  - SÂN 2
+https://cdn-hls.taoxanh.biz/live/69f488df42282_5160/index.m3u8?expire=1778238303&amp;sign=30071ca57e24f58c13ce831eea1114ad
+#EXTINF:-1 tvg-id="601435150" group-title="China vs Malaysia 15:00 ngày 01/05 BWF Thomas &amp; Uber Cup Finals 2026 - SÂN 1", China vs Malaysia 15:00 ngày 01/05 BWF Thomas &amp; Uber Cup Finals 2026 - SÂN 1
+https://cdn-hls.taoxanh.biz/live/69f457b1203f4_18754/index.m3u8?expire=1778225713&amp;sign=4a28355537ffde8718ad0573c6df15e1
+#EXTINF:-1 tvg-id="601423747" group-title="KAMAZ Naberezhnye Chelny vs Spartak Kostroma 18:30 ngày 01/05 Russian National Football League", KAMAZ Naberezhnye Chelny vs Spartak Kostroma 18:30 ngày 01/05 Russian National Football League
+https://live.alilicloud.com/live/ad3adda154509abf10ccb5a3bb9396f1/playlist.m3u8
+#EXTINF:-1 tvg-id="601423735" group-title="Atakas Hatayspor vs Belediye Vanspor 18:30 ngày 01/05 Turkish First League", Atakas Hatayspor vs Belediye Vanspor 18:30 ngày 01/05 Turkish First League
+https://live.alilicloud.com/live/a18412903b37f4751d82156484391edb/playlist.m3u8
+#EXTINF:-1 tvg-id="601423744" group-title="Varhaug vs Flekkeroy IL 18:30 ngày 01/05 Norwegian 3.Divisjon", Varhaug vs Flekkeroy IL 18:30 ngày 01/05 Norwegian 3.Divisjon
+https://live.alilicloud.com/live/e296baa96058b4160fe386f696cdd722/playlist.m3u8
+#EXTINF:-1 tvg-id="601426291" group-title="Arsenal Dzyarzhynsk vs FK Isloch Minsk 18:30 ngày 01/05 Belarusian Premier League", Arsenal Dzyarzhynsk vs FK Isloch Minsk 18:30 ngày 01/05 Belarusian Premier League
+https://live.alilicloud.com/live/4c93238893482cfd0bec517420f98642/playlist.m3u8
+#EXTINF:-1 tvg-id="601423753" group-title="Shandong Taishan FC vs Qingdao West Coast FC 18:35 ngày 01/05 Chinese Football Super League", Shandong Taishan FC vs Qingdao West Coast FC 18:35 ngày 01/05 Chinese Football Super League
+https://live.alilicloud.com/live/16b11a68907d2f0cde5ce154bf2fbd0f/playlist.m3u8
+#EXTINF:-1 tvg-id="601423756" group-title="Leshan Team vs Liangshan Team 18:35 ngày 01/05 Sichuan City Football League", Leshan Team vs Liangshan Team 18:35 ngày 01/05 Sichuan City Football League
+https://live.alilicloud.com/live/4a371f01c7bdf1e0307a122086899127/playlist.m3u8
+#EXTINF:-1 tvg-id="601423759" group-title="Mianyang Team vs Chengdu Team 18:35 ngày 01/05 Sichuan City Football League", Mianyang Team vs Chengdu Team 18:35 ngày 01/05 Sichuan City Football League
+https://live.alilicloud.com/live/5aed021b2755d25c3c2467a3cc7a9b62/playlist.m3u8
+#EXTINF:-1 tvg-id="601423762" group-title="Dazhou Team vs YIbin Team 18:35 ngày 01/05 Sichuan City Football League", Dazhou Team vs YIbin Team 18:35 ngày 01/05 Sichuan City Football League
+https://live.alilicloud.com/live/680f09c3e92fa613f5708caa7eff8bf9/playlist.m3u8
+#EXTINF:-1 tvg-id="601423513" group-title="Deyang Team vs Nanchong Team 18:35 ngày 01/05 Sichuan City Football League", Deyang Team vs Nanchong Team 18:35 ngày 01/05 Sichuan City Football League
+https://live.alilicloud.com/live/127375b56aa3dad67bf36b47cd71adb2/playlist.m3u8
+#EXTINF:-1 tvg-id="601423492" group-title="Xiamen Team vs Zhangzhou Team 18:35 ngày 01/05 Fujian Football City League", Xiamen Team vs Zhangzhou Team 18:35 ngày 01/05 Fujian Football City League
+https://live.alilicloud.com/live/d22b8ac0674337b6b2ef03dcf4149234/playlist.m3u8
+#EXTINF:-1 tvg-id="601423768" group-title="FK Yarud Mariupol vs Ahrobiznes TSK Romny 19:00 ngày 01/05 Ukrainian First League", FK Yarud Mariupol vs Ahrobiznes TSK Romny 19:00 ngày 01/05 Ukrainian First League
+https://live.alilicloud.com/live/cac20d39a47dbe44b3ecaa3db4fcce12/playlist.m3u8
+#EXTINF:-1 tvg-id="601423810" group-title="Mandalskameratene vs Akra 19:00 ngày 01/05 Norwegian 3.Divisjon", Mandalskameratene vs Akra 19:00 ngày 01/05 Norwegian 3.Divisjon
+https://live.alilicloud.com/live/cd7e1effb76cc046bcd5ace7a162cbbe/playlist.m3u8
+#EXTINF:-1 tvg-id="601423813" group-title="FK Orsha vs Kommunalnik Slonim 19:00 ngày 01/05 Belarusian First League", FK Orsha vs Kommunalnik Slonim 19:00 ngày 01/05 Belarusian First League
+https://live.alilicloud.com/live/f80b90775be7d3954f7a7e72342595db/playlist.m3u8
+#EXTINF:-1 tvg-id="601423849" group-title="Shirak vs Ararat Yerevan 19:00 ngày 01/05 Armenian Premier League", Shirak vs Ararat Yerevan 19:00 ngày 01/05 Armenian Premier League
+https://live.alilicloud.com/live/329895067abf6bfd4bb97d8593605d07/playlist.m3u8
+#EXTINF:-1 tvg-id="601423816" group-title="Nanchang Team vs Ganzhou Team 19:00 ngày 01/05 Jiangxi City Football Super League", Nanchang Team vs Ganzhou Team 19:00 ngày 01/05 Jiangxi City Football Super League
+https://live.alilicloud.com/live/d741d220f14f760c20f2f12f706ecab0/playlist.m3u8
+#EXTINF:-1 tvg-id="601423777" group-title="Muang Thong United vs BG Pathum United 19:00 ngày 01/05 Hilux Revo Thai League", Muang Thong United vs BG Pathum United 19:00 ngày 01/05 Hilux Revo Thai League
+https://live.alilicloud.com/live/2cab755c83e80db8b35d21dbe544113d/playlist.m3u8
+#EXTINF:-1 tvg-id="601423858" group-title="SC Poltava vs Kryvbas 19:30 ngày 01/05 Ukrainian Premier League", SC Poltava vs Kryvbas 19:30 ngày 01/05 Ukrainian Premier League
+https://live.alilicloud.com/live/8579a1e75fb9d2e863246fda76865fd6/playlist.m3u8
+#EXTINF:-1 tvg-id="601423861" group-title="Varegg vs Austevoll 19:30 ngày 01/05 Norwegian 3.Divisjon", Varegg vs Austevoll 19:30 ngày 01/05 Norwegian 3.Divisjon
+https://live.alilicloud.com/live/5d112b6bbbef007f3eff47e40c67bbeb/playlist.m3u8
+#EXTINF:-1 tvg-id="601424080" group-title="FC Uzhgorod vs Real Pharma Ovidiopol 19:30 ngày 01/05 Ukrainian Second League", FC Uzhgorod vs Real Pharma Ovidiopol 19:30 ngày 01/05 Ukrainian Second League
+https://live.alilicloud.com/live/756e4fd099e8bc03657cad2b05166b53/playlist.m3u8
+#EXTINF:-1 tvg-id="601417564" group-title="Jessika Ponchet vs Viktorija Golubic 17:35 ngày 01/05 WTA 125 Saint-Malo, France, Women Singles", Jessika Ponchet vs Viktorija Golubic 17:35 ngày 01/05 WTA 125 Saint-Malo, France, Women Singles
+https://live.alilicloud.com/live/53eeed583ceca283bf039f7817a62ad6/playlist.m3u8
+#EXTINF:-1 tvg-id="601417585" group-title="Sara Sorribes Tormo vs Elena Pridankina 18:15 ngày 01/05 WTA 125K La Bisbal D Emporda, Spain Women Singles", Sara Sorribes Tormo vs Elena Pridankina 18:15 ngày 01/05 WTA 125K La Bisbal D Emporda, Spain Women Singles
+https://live.alilicloud.com/live/a27c1f339ea4707c1faa688be8bcf85d/playlist.m3u8
+#EXTINF:-1 tvg-id="601417474" group-title="Buvaysar Gadamauri/Jelle Sels vs Kalender A/Poljicak M 18:40 ngày 01/05 ATP Challenger Shymkent II, Kazakhstan Men Double", Buvaysar Gadamauri/Jelle Sels vs Kalender A/Poljicak M 18:40 ngày 01/05 ATP Challenger Shymkent II, Kazakhstan Men Double
+https://live.alilicloud.com/live/4fd18d3774d8385c75da86fb370b3eca/playlist.m3u8
+#EXTINF:-1 tvg-id="601417588" group-title="Fossa Huergo N / Ninomiya M vs Tereza Mihalikova/Olivia Nicholls 19:30 ngày 01/05 WTA125K La Bisbal D Emporda, Spain Women Doubles", Fossa Huergo N / Ninomiya M vs Tereza Mihalikova/Olivia Nicholls 19:30 ngày 01/05 WTA125K La Bisbal D Emporda, Spain Women Doubles
+https://live.alilicloud.com/live/ac1da2abd2f0ff3ebcd33bba6b173301/playlist.m3u8
+#EXTINF:-1 tvg-id="601417354" group-title="Satya Wacana Saints Salatiga vs Pelita Jaya Esia Jakarta 18:30 ngày 01/05 Indonesia Basketball League", Satya Wacana Saints Salatiga vs Pelita Jaya Esia Jakarta 18:30 ngày 01/05 Indonesia Basketball League
+https://live.alilicloud.com/live/9d1ad41b1eb1882812fa39e86a9e04d3/playlist.m3u8
+#EXTINF:-1 tvg-id="601417369" group-title="Liaoning Flying Leopards vs Shandong Hi-Speed Kirin 18:35 ngày 01/05 Chinese Basketball Association", Liaoning Flying Leopards vs Shandong Hi-Speed Kirin 18:35 ngày 01/05 Chinese Basketball Association
+https://live.alilicloud.com/live/6600e9dbe7ec66945347f9b9cf1d89a1/playlist.m3u8
+#EXTINF:-1 tvg-id="601417372" group-title="Guangzhou Loong Lions vs Guangdong Southern Tigers 18:35 ngày 01/05 Chinese Basketball Association", Guangzhou Loong Lions vs Guangdong Southern Tigers 18:35 ngày 01/05 Chinese Basketball Association
+https://live.alilicloud.com/live/70273eaed3f5952fd78945c3ec0c6454/playlist.m3u8
+#EXTINF:-1 tvg-id="601417357" group-title="Barangay Ginebra San Miguel vs Meralco Bolts 19:00 ngày 01/05 Philippine Basketball Commissioner's Cup", Barangay Ginebra San Miguel vs Meralco Bolts 19:00 ngày 01/05 Philippine Basketball Commissioner's Cup
+https://live.alilicloud.com/live/6298130222e6799f2ae3778e9605be21/playlist.m3u8
+#EXTINF:-1 tvg-id="601417375" group-title="Biñan Tatak Gel vs Basilan Viva Portmasters 19:00 ngày 01/05 Philippines MPBL", Biñan Tatak Gel vs Basilan Viva Portmasters 19:00 ngày 01/05 Philippines MPBL
+https://live.alilicloud.com/live/8681a535a0d1c122ecd2038f575119a8/playlist.m3u8
+#EXTINF:-1 tvg-id="601417378" group-title="Cockburn Cougars vs South West Slammers 19:10 ngày 01/05 Australia National Basketball League1 West", Cockburn Cougars vs South West Slammers 19:10 ngày 01/05 Australia National Basketball League1 West
+https://live.alilicloud.com/live/6d3a2b72803681f17652eb77a9f2c5bb/playlist.m3u8
+#EXTINF:-1 tvg-id="601417387" group-title="East Perth Eagles vs Senator Sterling 19:30 ngày 01/05 Australia National Basketball League1 West", East Perth Eagles vs Senator Sterling 19:30 ngày 01/05 Australia National Basketball League1 West
+https://live.alilicloud.com/live/7590fce385ce537defddec4eb825b76e/playlist.m3u8
+#EXTINF:-1 tvg-id="601417384" group-title="Joondalup Wolves vs Lakeside Lightning 19:30 ngày 01/05 Australia National Basketball League1 West", Joondalup Wolves vs Lakeside Lightning 19:30 ngày 01/05 Australia National Basketball League1 West
+https://live.alilicloud.com/live/29fd832e7ed6968d9cca55c9ee27e283/playlist.m3u8
+#EXTINF:-1 tvg-id="601417381" group-title="Rockingham Flames vs Kalamunda Eastern Suns 19:30 ngày 01/05 Australia National Basketball League1 West", Rockingham Flames vs Kalamunda Eastern Suns 19:30 ngày 01/05 Australia National Basketball League1 West
+https://live.alilicloud.com/live/b1fb6274601b405ada6eb266b8214f61/playlist.m3u8
