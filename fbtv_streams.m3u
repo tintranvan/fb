@@ -1,16 +1,22 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="601427161" group-title="Deportiva Once Caldas vs Atletico Nacional Medellin 06:00 ngày 02/05 Categoría Primera A", Deportiva Once Caldas vs Atletico Nacional Medellin 06:00 ngày 02/05 Categoría Primera A (Link 1)
+https://cdn-hls.taoxanh.biz/live/69f530a642283_74012/index.m3u8?expire=1778281254&amp;sign=664bca547f56d4f94a98fc014375afcc
+#EXTINF:-1 tvg-id="601427161" group-title="Deportiva Once Caldas vs Atletico Nacional Medellin 06:00 ngày 02/05 Categoría Primera A", Deportiva Once Caldas vs Atletico Nacional Medellin 06:00 ngày 02/05 Categoría Primera A (Link 2)
+https://live.alilicloud.com/live/b6bbc18ed7dad4aea2e9970f3c88e5c5/playlist.m3u8
+#EXTINF:-1 tvg-id="601435303" group-title="Orlando Magic vs Detroit Pistons 06:00 ngày 02/05 National Basketball Association", Orlando Magic vs Detroit Pistons 06:00 ngày 02/05 National Basketball Association (Link 1)
+https://cdn-hls.taoxanh.biz/live/69f52b6442283_4733/index.m3u8?expire=1778279908&amp;sign=a315c0a1cac247813643e2e5f0aa601f
+#EXTINF:-1 tvg-id="601435303" group-title="Orlando Magic vs Detroit Pistons 06:00 ngày 02/05 National Basketball Association", Orlando Magic vs Detroit Pistons 06:00 ngày 02/05 National Basketball Association (Link 2)
+https://live.alilicloud.com/live/a80af3a17e3cf0393b7c921cda966622/playlist.m3u8
 #EXTINF:-1 tvg-id="601437307" group-title="Shaun Murphy vs John Higgins 01:00 ngày 02/05 Halo World Championship 2026", Shaun Murphy vs John Higgins 01:00 ngày 02/05 Halo World Championship 2026
 https://cdn-hls.taoxanh.biz/live/69f4ef6a42283_142246/index.m3u8?expire=1778264554&amp;sign=2e19d99f6ca986ce2f141c33ee7bc8a1
-#EXTINF:-1 tvg-id="601427131" group-title="Club Sportivo Trinidense vs Club Sportivo 2 de Mayo 03:45 ngày 02/05 Paraguayan Primera Division", Club Sportivo Trinidense vs Club Sportivo 2 de Mayo 03:45 ngày 02/05 Paraguayan Primera Division
-https://live.alilicloud.com/live/08441cd38a0b909992617451ff19f1e2/playlist.m3u8
 #EXTINF:-1 tvg-id="601427152" group-title="Real Potosi vs Real Oruro 04:15 ngày 02/05 Bolivian Primera Division", Real Potosi vs Real Oruro 04:15 ngày 02/05 Bolivian Primera Division
 https://live.alilicloud.com/live/3aa104fb0c71f04ca708e539bd9c2e45/playlist.m3u8
 #EXTINF:-1 tvg-id="601427155" group-title="CD Universidad Católica vs Independiente del Valle 04:30 ngày 02/05 LigaPro Serie A", CD Universidad Católica vs Independiente del Valle 04:30 ngày 02/05 LigaPro Serie A
 https://live.alilicloud.com/live/f4ed039f5649d7b0f0be6a019746d936/playlist.m3u8
-#EXTINF:-1 tvg-id="601435303" group-title="Orlando Magic vs Detroit Pistons 06:00 ngày 02/05 National Basketball Association", Orlando Magic vs Detroit Pistons 06:00 ngày 02/05 National Basketball Association
-https://live.alilicloud.com/live/a80af3a17e3cf0393b7c921cda966622/playlist.m3u8
-#EXTINF:-1 tvg-id="601424374" group-title="Toronto Raptors vs Cleveland Cavaliers 06:30 ngày 02/05 National Basketball Association", Toronto Raptors vs Cleveland Cavaliers 06:30 ngày 02/05 National Basketball Association
-https://live.alilicloud.com/live/d84fc9f095fbbdbaa85b106d693cf9a0/playlist.m3u8
+#EXTINF:-1 tvg-id="601427164" group-title="Club Libertad Asunción vs Sportivo San Lorenzo 06:00 ngày 02/05 Paraguayan Primera Division", Club Libertad Asunción vs Sportivo San Lorenzo 06:00 ngày 02/05 Paraguayan Primera Division
+https://live.alilicloud.com/live/35d21718825ec9665847cb5abb073424/playlist.m3u8
+#EXTINF:-1 tvg-id="601427170" group-title="Peru (w) U17 vs Brazil (w) U17 06:00 ngày 02/05 CONMEBOL U17 Women's Sudamericano", Peru (w) U17 vs Brazil (w) U17 06:00 ngày 02/05 CONMEBOL U17 Women's Sudamericano
+https://live.alilicloud.com/live/bff92e81f2a2c222ccaf790c9d093386/playlist.m3u8
 #EXTINF:-1 tvg-id="601435306" group-title="Houston Rockets vs Los Angeles Lakers 08:30 ngày 02/05 National Basketball Association", Houston Rockets vs Los Angeles Lakers 08:30 ngày 02/05 National Basketball Association
 https://live.alilicloud.com/live/f27047481d0255ecb169df8362851999/playlist.m3u8
 #EXTINF:-1 tvg-id="601429753" group-title="Paris Saint Germain vs Lorient 22:00 ngày 02/05 French Ligue 1", Paris Saint Germain vs Lorient 22:00 ngày 02/05 French Ligue 1
