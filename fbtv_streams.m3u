@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601430626" group-title="Al-Hazm vs Al Hilal 01:00 ngày 03/05 Saudi Professional League", Al-Hazm vs Al Hilal 01:00 ngày 03/05 Saudi Professional League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69f63aff42283_128756/index.m3u8?expire=1778349439&amp;sign=2d3ee859de098d5edc3f069d49dd9574
-#EXTINF:-1 tvg-id="601430626" group-title="Al-Hazm vs Al Hilal 01:00 ngày 03/05 Saudi Professional League", Al-Hazm vs Al Hilal 01:00 ngày 03/05 Saudi Professional League (Link 2)
-https://live.alilicloud.com/live/2c5ba32082db1542e06f8d6b31932294/playlist.m3u8
 #EXTINF:-1 tvg-id="601430764" group-title="Atalanta vs Genoa 01:45 ngày 03/05 Italian Serie A", Atalanta vs Genoa 01:45 ngày 03/05 Italian Serie A (Link 1)
 https://cdn-hls.taoxanh.biz/live/69f63d8e203f5_73445/index.m3u8?expire=1778350094&amp;sign=52c106c709256e5c7d8586f0c4e1fba4
 #EXTINF:-1 tvg-id="601430764" group-title="Atalanta vs Genoa 01:45 ngày 03/05 Italian Serie A", Atalanta vs Genoa 01:45 ngày 03/05 Italian Serie A (Link 2)
@@ -19,64 +15,30 @@ https://live.alilicloud.com/live/08c152a2c87886e6d3e1e939b2d06d5f/playlist.m3u8
 https://cdn-hls.taoxanh.biz/live/69f6404b42283_133172/index.m3u8?expire=1778350795&amp;sign=542d723c4920609342292384769e0f44
 #EXTINF:-1 tvg-id="601430842" group-title="OGC Nice vs RC Lens 02:05 ngày 03/05 French Ligue 1", OGC Nice vs RC Lens 02:05 ngày 03/05 French Ligue 1 (Link 2)
 https://live.alilicloud.com/live/4abb1ebb47a3ceadc33c877c2c2b2082/playlist.m3u8
-#EXTINF:-1 tvg-id="601430851" group-title="FC Porto vs Alverca 02:30 ngày 03/05 Portuguese Primera Liga", FC Porto vs Alverca 02:30 ngày 03/05 Portuguese Primera Liga
+#EXTINF:-1 tvg-id="601430851" group-title="FC Porto vs Alverca 02:30 ngày 03/05 Portuguese Primera Liga", FC Porto vs Alverca 02:30 ngày 03/05 Portuguese Primera Liga (Link 1)
 https://cdn-hls.taoxanh.biz/live/69f64a9642283_124958/index.m3u8?expire=1778353430&amp;sign=0207746594d70aed1cb1e9972ac79112
+#EXTINF:-1 tvg-id="601430851" group-title="FC Porto vs Alverca 02:30 ngày 03/05 Portuguese Primera Liga", FC Porto vs Alverca 02:30 ngày 03/05 Portuguese Primera Liga (Link 2)
+https://live.alilicloud.com/live/c92823ae00ec739732014d8be4366982/playlist.m3u8
 #EXTINF:-1 tvg-id="601439026" group-title="Wu Yize vs Mark Allen 01:00 ngày 03/05 Halo World Championship 2026", Wu Yize vs Mark Allen 01:00 ngày 03/05 Halo World Championship 2026
 https://cdn-hls.taoxanh.biz/live/69f5b6cf42283_142246/index.m3u8?expire=1778315599&amp;sign=fbab274828bc0d1a778d1f65183a8895
-#EXTINF:-1 tvg-id="601438816" group-title="Eczacibasi Nữ vs Scandicci Nữ 00:00 ngày 03/05 CEV CHAMPIONS LEAGUE 2026", Eczacibasi Nữ vs Scandicci Nữ 00:00 ngày 03/05 CEV CHAMPIONS LEAGUE 2026
-https://cdn-hls.taoxanh.biz/live/69f6264242283_88642/index.m3u8?expire=1778344130&amp;sign=621e016d3d98b8d7d1f3a8d2012fab5c
-#EXTINF:-1 tvg-id="601430383" group-title="Al-Kahrbaa Club vs Al-Najaf 23:30 ngày 02/05 Iraq Stars League", Al-Kahrbaa Club vs Al-Najaf 23:30 ngày 02/05 Iraq Stars League
-https://live.alilicloud.com/live/c6d085b470d9e5b7b314825b80aa8195/playlist.m3u8
-#EXTINF:-1 tvg-id="601430617" group-title="Pau FC vs Nancy 01:00 ngày 03/05 French Ligue 2", Pau FC vs Nancy 01:00 ngày 03/05 French Ligue 2
-https://live.alilicloud.com/live/3846b1a2419910200ecede2dc8d058d2/playlist.m3u8
-#EXTINF:-1 tvg-id="601430593" group-title="AFC Ajax vs PSV Eindhoven 01:00 ngày 03/05 Netherlands Eredivisie", AFC Ajax vs PSV Eindhoven 01:00 ngày 03/05 Netherlands Eredivisie
-https://live.alilicloud.com/live/c2fb243f2ad76ea6fad102d1c4c28d6c/playlist.m3u8
-#EXTINF:-1 tvg-id="601430596" group-title="St.Polten vs Trenkwalder Admira Wacker 01:00 ngày 03/05 Austrian 2.Liga", St.Polten vs Trenkwalder Admira Wacker 01:00 ngày 03/05 Austrian 2.Liga
-https://live.alilicloud.com/live/ea0f9e2b82f1a682d087adb4ef3c15ec/playlist.m3u8
-#EXTINF:-1 tvg-id="601430599" group-title="Boulogne vs Annecy 01:00 ngày 03/05 French Ligue 2", Boulogne vs Annecy 01:00 ngày 03/05 French Ligue 2
-https://live.alilicloud.com/live/1762390198a0478e4bb2ff373e784f89/playlist.m3u8
-#EXTINF:-1 tvg-id="601430602" group-title="Amiens vs Red Star FC 93 01:00 ngày 03/05 French Ligue 2", Amiens vs Red Star FC 93 01:00 ngày 03/05 French Ligue 2
-https://live.alilicloud.com/live/7debaf568f53277bdf1ef83dfafdd90c/playlist.m3u8
-#EXTINF:-1 tvg-id="601430605" group-title="USL Dunkerque vs Grenoble 01:00 ngày 03/05 French Ligue 2", USL Dunkerque vs Grenoble 01:00 ngày 03/05 French Ligue 2
-https://live.alilicloud.com/live/a15027511bfa98e80f0d19d057d573d4/playlist.m3u8
-#EXTINF:-1 tvg-id="601430608" group-title="Guingamp vs Bastia 01:00 ngày 03/05 French Ligue 2", Guingamp vs Bastia 01:00 ngày 03/05 French Ligue 2
-https://live.alilicloud.com/live/b84407e69274214512c9557322c521d9/playlist.m3u8
-#EXTINF:-1 tvg-id="601430611" group-title="Le Mans vs Stade DE Reims 01:00 ngày 03/05 French Ligue 2", Le Mans vs Stade DE Reims 01:00 ngày 03/05 French Ligue 2
-https://live.alilicloud.com/live/505594f73fee21cfcbc56fafeadb795a/playlist.m3u8
-#EXTINF:-1 tvg-id="601430614" group-title="Montpellier Hérault SC vs Clermont 01:00 ngày 03/05 French Ligue 2", Montpellier Hérault SC vs Clermont 01:00 ngày 03/05 French Ligue 2
-https://live.alilicloud.com/live/9dc0f5c86c9774ed530ba860213d657e/playlist.m3u8
-#EXTINF:-1 tvg-id="601430620" group-title="Rodez Aveyron vs AS Saint-Étienne 01:00 ngày 03/05 French Ligue 2", Rodez Aveyron vs AS Saint-Étienne 01:00 ngày 03/05 French Ligue 2
-https://live.alilicloud.com/live/8a3cdfc243fb6bd6c8e042cdf7fd52b4/playlist.m3u8
-#EXTINF:-1 tvg-id="601430623" group-title="Troyes vs Stade Lavallois MFC 01:00 ngày 03/05 French Ligue 2", Troyes vs Stade Lavallois MFC 01:00 ngày 03/05 French Ligue 2
-https://live.alilicloud.com/live/6012b4219b6421e5a7b0110a1c876354/playlist.m3u8
-#EXTINF:-1 tvg-id="601430629" group-title="FC Cajamarca vs Sport Boys 01:00 ngày 03/05 Peruvian Liga 1", FC Cajamarca vs Sport Boys 01:00 ngày 03/05 Peruvian Liga 1
-https://live.alilicloud.com/live/0ad5d1c9531edcf7d9b5f41dc86e6137/playlist.m3u8
-#EXTINF:-1 tvg-id="601430680" group-title="KVSK Lommel vs Beerschot Wilrijk 01:00 ngày 03/05 Belgian Second Division", KVSK Lommel vs Beerschot Wilrijk 01:00 ngày 03/05 Belgian Second Division
-https://live.alilicloud.com/live/1a98b2c6dbb0f64e44573c83ab8e1cc4/playlist.m3u8
-#EXTINF:-1 tvg-id="601430683" group-title="Motor Lublin vs Lech Poznan 01:15 ngày 03/05 PKO Bank Polski EKSTRAKLASA", Motor Lublin vs Lech Poznan 01:15 ngày 03/05 PKO Bank Polski EKSTRAKLASA
-https://live.alilicloud.com/live/0c1275bac1c17ee2e0f42b3c2225513e/playlist.m3u8
-#EXTINF:-1 tvg-id="601430686" group-title="NK Publikum Celje vs NK Bravo 01:15 ngày 03/05 Slovenia 1.Liga", NK Publikum Celje vs NK Bravo 01:15 ngày 03/05 Slovenia 1.Liga
-https://live.alilicloud.com/live/0b466ad4e1d48357492ca32232378e0d/playlist.m3u8
-#EXTINF:-1 tvg-id="601430704" group-title="Los Andes vs Colon de Santa Fe 01:30 ngày 03/05 Argentine Division 2", Los Andes vs Colon de Santa Fe 01:30 ngày 03/05 Argentine Division 2
-https://live.alilicloud.com/live/6c6d09328d4771d0be535db5a971300f/playlist.m3u8
-#EXTINF:-1 tvg-id="601430692" group-title="Schalke 04 vs Fortuna Dusseldorf 01:30 ngày 03/05 German Bundesliga 2", Schalke 04 vs Fortuna Dusseldorf 01:30 ngày 03/05 German Bundesliga 2
-https://live.alilicloud.com/live/5a14b1cd051b8bfc1aef41b8dd31fb50/playlist.m3u8
-#EXTINF:-1 tvg-id="601430701" group-title="Defensores de Belgrano vs Central Norte Salta 01:30 ngày 03/05 Argentine Division 2", Defensores de Belgrano vs Central Norte Salta 01:30 ngày 03/05 Argentine Division 2
-https://live.alilicloud.com/live/5e24bb371fb874b3792a0e4a15261e94/playlist.m3u8
 #EXTINF:-1 tvg-id="601430737" group-title="Slovan Bratislava vs Dunajska Streda 01:30 ngày 03/05 Slovak Nike liga", Slovan Bratislava vs Dunajska Streda 01:30 ngày 03/05 Slovak Nike liga
 https://live.alilicloud.com/live/78644978ddd420d279e9d17ff3593908/playlist.m3u8
+#EXTINF:-1 tvg-id="601430746" group-title="Cerro Montevideo vs Deportivo Maldonado 01:30 ngày 03/05 Uruguay Primera Division", Cerro Montevideo vs Deportivo Maldonado 01:30 ngày 03/05 Uruguay Primera Division
+https://live.alilicloud.com/live/634689a50a898f2490c9aeca50f6358d/playlist.m3u8
 #EXTINF:-1 tvg-id="601430740" group-title="FC Basel 1893 vs Thun 01:30 ngày 03/05 Switzerland Super League", FC Basel 1893 vs Thun 01:30 ngày 03/05 Switzerland Super League
 https://live.alilicloud.com/live/d1a671f6ac449c3917c9eaccc594f328/playlist.m3u8
+#EXTINF:-1 tvg-id="601430704" group-title="Los Andes vs Colon de Santa Fe 01:30 ngày 03/05 Argentine Division 2", Los Andes vs Colon de Santa Fe 01:30 ngày 03/05 Argentine Division 2
+https://live.alilicloud.com/live/6c6d09328d4771d0be535db5a971300f/playlist.m3u8
+#EXTINF:-1 tvg-id="601430701" group-title="Defensores de Belgrano vs Central Norte Salta 01:30 ngày 03/05 Argentine Division 2", Defensores de Belgrano vs Central Norte Salta 01:30 ngày 03/05 Argentine Division 2
+https://live.alilicloud.com/live/5e24bb371fb874b3792a0e4a15261e94/playlist.m3u8
+#EXTINF:-1 tvg-id="601430692" group-title="Schalke 04 vs Fortuna Dusseldorf 01:30 ngày 03/05 German Bundesliga 2", Schalke 04 vs Fortuna Dusseldorf 01:30 ngày 03/05 German Bundesliga 2
+https://live.alilicloud.com/live/5a14b1cd051b8bfc1aef41b8dd31fb50/playlist.m3u8
 #EXTINF:-1 tvg-id="601430695" group-title="Sporting Kansas City vs Seattle Sounders 01:40 ngày 03/05 United States Major League Soccer", Sporting Kansas City vs Seattle Sounders 01:40 ngày 03/05 United States Major League Soccer
 https://live.alilicloud.com/live/19278ba6c6bed5088ebf640ea64a90af/playlist.m3u8
-#EXTINF:-1 tvg-id="601430767" group-title="FK Sloga Doboj vs NK Siroki Brijeg 01:45 ngày 03/05 Bosnia and Herzegovina Premier League", FK Sloga Doboj vs NK Siroki Brijeg 01:45 ngày 03/05 Bosnia and Herzegovina Premier League
-https://live.alilicloud.com/live/6a920bad7bcc3b76961e63262df6b2ae/playlist.m3u8
 #EXTINF:-1 tvg-id="601430770" group-title="Sint-Truidense vs Union Saint-Gilloise 01:45 ngày 03/05 Belgian Pro League", Sint-Truidense vs Union Saint-Gilloise 01:45 ngày 03/05 Belgian Pro League
 https://live.alilicloud.com/live/93857d8dfc02d672366ad112aabc3634/playlist.m3u8
-#EXTINF:-1 tvg-id="601430797" group-title="Botafogo SP vs Nautico (PE) 02:00 ngày 03/05 Brazilian Serie B", Botafogo SP vs Nautico (PE) 02:00 ngày 03/05 Brazilian Serie B
-https://live.alilicloud.com/live/08fa73f441df843b2e1f3b008cd66d08/playlist.m3u8
-#EXTINF:-1 tvg-id="601430773" group-title="NEC Nijmegen vs SC Telstar 02:00 ngày 03/05 Netherlands Eredivisie", NEC Nijmegen vs SC Telstar 02:00 ngày 03/05 Netherlands Eredivisie
-https://live.alilicloud.com/live/f7acb5c3bd42c9aa23de67d485311c68/playlist.m3u8
+#EXTINF:-1 tvg-id="601430767" group-title="FK Sloga Doboj vs NK Siroki Brijeg 01:45 ngày 03/05 Bosnia and Herzegovina Premier League", FK Sloga Doboj vs NK Siroki Brijeg 01:45 ngày 03/05 Bosnia and Herzegovina Premier League
+https://live.alilicloud.com/live/6a920bad7bcc3b76961e63262df6b2ae/playlist.m3u8
 #EXTINF:-1 tvg-id="601430779" group-title="Eibar vs Malaga 02:00 ngày 03/05 Spanish Segunda Division", Eibar vs Malaga 02:00 ngày 03/05 Spanish Segunda Division
 https://live.alilicloud.com/live/639ecbd07fbcff6590186fbf33ad1dfb/playlist.m3u8
 #EXTINF:-1 tvg-id="601430785" group-title="Botafogo RJ vs Remo Belem (PA) 02:00 ngày 03/05 Brazilian Serie A", Botafogo RJ vs Remo Belem (PA) 02:00 ngày 03/05 Brazilian Serie A
@@ -85,22 +47,24 @@ https://live.alilicloud.com/live/20d8503f702db34cebf03aa39c41e03a/playlist.m3u8
 https://live.alilicloud.com/live/f87d42971b121301fb97c82088ca5116/playlist.m3u8
 #EXTINF:-1 tvg-id="601430791" group-title="Deportivo Cuenca vs Tecnico Universitario 02:00 ngày 03/05 LigaPro Serie A", Deportivo Cuenca vs Tecnico Universitario 02:00 ngày 03/05 LigaPro Serie A
 https://live.alilicloud.com/live/4bbe817ab96d7d48548eda4740ee17be/playlist.m3u8
+#EXTINF:-1 tvg-id="601430797" group-title="Botafogo SP vs Nautico (PE) 02:00 ngày 03/05 Brazilian Serie B", Botafogo SP vs Nautico (PE) 02:00 ngày 03/05 Brazilian Serie B
+https://live.alilicloud.com/live/08fa73f441df843b2e1f3b008cd66d08/playlist.m3u8
 #EXTINF:-1 tvg-id="601430800" group-title="Always Ready vs Nacional Potosi 02:00 ngày 03/05 Bolivian Primera Division", Always Ready vs Nacional Potosi 02:00 ngày 03/05 Bolivian Primera Division
 https://live.alilicloud.com/live/04f4843a16bb12e164f41a3dd6bf7ce1/playlist.m3u8
+#EXTINF:-1 tvg-id="601430773" group-title="NEC Nijmegen vs SC Telstar 02:10 ngày 03/05 Netherlands Eredivisie", NEC Nijmegen vs SC Telstar 02:10 ngày 03/05 Netherlands Eredivisie
+https://live.alilicloud.com/live/f7acb5c3bd42c9aa23de67d485311c68/playlist.m3u8
 #EXTINF:-1 tvg-id="601430845" group-title="Central Cordoba SDE vs Boca Juniors 02:15 ngày 03/05 Argentine Division 1", Central Cordoba SDE vs Boca Juniors 02:15 ngày 03/05 Argentine Division 1
 https://live.alilicloud.com/live/9a85884bbce1ff73c027fd16ae6ba86d/playlist.m3u8
 #EXTINF:-1 tvg-id="601430848" group-title="Valur Reykjavik vs KR Reykjavik 02:15 ngày 03/05 Iceland Besta-deild karla", Valur Reykjavik vs KR Reykjavik 02:15 ngày 03/05 Iceland Besta-deild karla
 https://live.alilicloud.com/live/e2bc8b26f1d9808ef69b78e22e98ed01/playlist.m3u8
 #EXTINF:-1 tvg-id="601430854" group-title="Yaracuyanos vs Deportivo Lara 02:30 ngày 03/05 Venezuela Segunda Division", Yaracuyanos vs Deportivo Lara 02:30 ngày 03/05 Venezuela Segunda Division
 https://live.alilicloud.com/live/962e8ee3a03bf3cc9b821b5cbeaa75de/playlist.m3u8
-#EXTINF:-1 tvg-id="601439068" group-title="Lisboa e Benfica vs UD Oliveirense 01:00 ngày 03/05 Portugal Basketball Cup", Lisboa e Benfica vs UD Oliveirense 01:00 ngày 03/05 Portugal Basketball Cup
-https://live.alilicloud.com/live/10a590eb3d11f8e8d98fb57a7c2420ed/playlist.m3u8
-#EXTINF:-1 tvg-id="601421923" group-title="Gladiators Trier vs EWE Baskets Oldenburg 01:00 ngày 03/05 Basketball Bundesliga", Gladiators Trier vs EWE Baskets Oldenburg 01:00 ngày 03/05 Basketball Bundesliga
-https://live.alilicloud.com/live/62baf9b65267b6c42d4bec1f6f9ebd7e/playlist.m3u8
-#EXTINF:-1 tvg-id="601421941" group-title="ADA Blois Basket 41 vs UJAP Quimper 01:00 ngày 03/05 Ligue Nationale de Basket Pro B", ADA Blois Basket 41 vs UJAP Quimper 01:00 ngày 03/05 Ligue Nationale de Basket Pro B
-https://live.alilicloud.com/live/4ffb10a9de572bc376665370e9bcfe91/playlist.m3u8
-#EXTINF:-1 tvg-id="601421929" group-title="Isla De Tenerife Canarias vs MoraBanc Andorra 01:00 ngày 03/05 Liga Asociación de Clubs de Baloncesto", Isla De Tenerife Canarias vs MoraBanc Andorra 01:00 ngày 03/05 Liga Asociación de Clubs de Baloncesto
-https://live.alilicloud.com/live/903c39d0fb9d09750721463d2a3ca9a7/playlist.m3u8
+#EXTINF:-1 tvg-id="601430887" group-title="MINNESOTA United B vs Saint Louis City B 03:00 ngày 03/05 MLS Next PL", MINNESOTA United B vs Saint Louis City B 03:00 ngày 03/05 MLS Next PL
+https://live.alilicloud.com/live/352ba0f058b7c537c1bcafedd2a684e0/playlist.m3u8
+#EXTINF:-1 tvg-id="601430863" group-title="Guarani SP vs Santa Cruz  03:00 ngày 03/05 Brazilian Serie C", Guarani SP vs Santa Cruz  03:00 ngày 03/05 Brazilian Serie C
+https://live.alilicloud.com/live/be6abdd8cb57547739e92f388c2ac8c6/playlist.m3u8
+#EXTINF:-1 tvg-id="601430893" group-title="AD Tarma vs Atletico Grau 03:15 ngày 03/05 Peruvian Liga 1", AD Tarma vs Atletico Grau 03:15 ngày 03/05 Peruvian Liga 1
+https://live.alilicloud.com/live/d29af8b7323e3062f4990ee4019c0b11/playlist.m3u8
 #EXTINF:-1 tvg-id="601421926" group-title="Basketball Braunschweig vs EnBW Ludwigsburg 01:00 ngày 03/05 Basketball Bundesliga", Basketball Braunschweig vs EnBW Ludwigsburg 01:00 ngày 03/05 Basketball Bundesliga
 https://live.alilicloud.com/live/55e207000093337e969e4ad0d889bfa6/playlist.m3u8
 #EXTINF:-1 tvg-id="601421944" group-title="Paris vs Chalon/SaÔne 01:30 ngày 03/05 Ligue Nationale de Basket Pro A", Paris vs Chalon/SaÔne 01:30 ngày 03/05 Ligue Nationale de Basket Pro A
