@@ -1,22 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601427671" group-title="Korea Rep. (w) U17 vs Philippines U17 Women 14:30 ngày 02/05 AFC U17 Women's Asian Cup", Korea Rep. (w) U17 vs Philippines U17 Women 14:30 ngày 02/05 AFC U17 Women's Asian Cup (Link 1)
-https://cdn-hls.taoxanh.biz/live/69f5a131203f5_79/index.m3u8?expire=1778310065&amp;sign=ed65acf9cb05e8dcb023487b5a569eda
-#EXTINF:-1 tvg-id="601427671" group-title="Korea Rep. (w) U17 vs Philippines U17 Women 14:30 ngày 02/05 AFC U17 Women's Asian Cup", Korea Rep. (w) U17 vs Philippines U17 Women 14:30 ngày 02/05 AFC U17 Women's Asian Cup (Link 2)
-https://live.alilicloud.com/live/4bf08d6fc777e2407cf2a0a1153b5507/playlist.m3u8
-#EXTINF:-1 tvg-id="601427668" group-title="Japan (w) U17 vs Lebanon U17 Women 14:30 ngày 02/05 AFC U17 Women's Asian Cup", Japan (w) U17 vs Lebanon U17 Women 14:30 ngày 02/05 AFC U17 Women's Asian Cup (Link 1)
-https://cdn-hls.taoxanh.biz/live/69f5953b42283_136682/index.m3u8?expire=1778307003&amp;sign=9249950b72b459400c330ceec5a31e6d
-#EXTINF:-1 tvg-id="601427668" group-title="Japan (w) U17 vs Lebanon U17 Women 14:30 ngày 02/05 AFC U17 Women's Asian Cup", Japan (w) U17 vs Lebanon U17 Women 14:30 ngày 02/05 AFC U17 Women's Asian Cup (Link 2)
-https://live.alilicloud.com/live/2c1b236afc3010183829b3317b24735a/playlist.m3u8
-#EXTINF:-1 tvg-id="601427665" group-title="Jeju SK FC vs Jeonbuk Hyundai Motors 14:30 ngày 02/05 Korean K League 1", Jeju SK FC vs Jeonbuk Hyundai Motors 14:30 ngày 02/05 Korean K League 1 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69f5a1be203f5_72787/index.m3u8?expire=1778310206&amp;sign=f9bbca72ca9bb710dfee6795bac7ccd7
-#EXTINF:-1 tvg-id="601427665" group-title="Jeju SK FC vs Jeonbuk Hyundai Motors 14:30 ngày 02/05 Korean K League 1", Jeju SK FC vs Jeonbuk Hyundai Motors 14:30 ngày 02/05 Korean K League 1 (Link 2)
-https://live.alilicloud.com/live/344ea52edec44c598fa8dbf51ea0d11b/playlist.m3u8
-#EXTINF:-1 tvg-id="601427662" group-title="Incheon United Club vs Gangwon Football Club 14:30 ngày 02/05 Korean K League 1", Incheon United Club vs Gangwon Football Club 14:30 ngày 02/05 Korean K League 1 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69f5a1e542283_85514/index.m3u8?expire=1778310245&amp;sign=87f618b6b771e58acf17e35a60616938
-#EXTINF:-1 tvg-id="601427662" group-title="Incheon United Club vs Gangwon Football Club 14:30 ngày 02/05 Korean K League 1", Incheon United Club vs Gangwon Football Club 14:30 ngày 02/05 Korean K League 1 (Link 2)
-https://live.alilicloud.com/live/fa1ed26f980f1fb856396147bd6a3116/playlist.m3u8
 #EXTINF:-1 tvg-id="601427767" group-title="Persebaya Surabaya vs PSBS Biak Numfor  15:30 ngày 02/05 Indonesian Liga 1", Persebaya Surabaya vs PSBS Biak Numfor  15:30 ngày 02/05 Indonesian Liga 1
 https://cdn-hls.taoxanh.biz/live/69f59eff203f5_124958/index.m3u8?expire=1778309503&amp;sign=44be45bfa1d500540d75f0e4821372e1
+#EXTINF:-1 tvg-id="601427980" group-title="FC Anyang vs Bucheon FC 1995 17:00 ngày 02/05 Korean K League 1", FC Anyang vs Bucheon FC 1995 17:00 ngày 02/05 Korean K League 1 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69f5c617203f5_74012/index.m3u8?expire=1778319511&amp;sign=0d68c06009ba34f8bdac88e41907600f
+#EXTINF:-1 tvg-id="601427980" group-title="FC Anyang vs Bucheon FC 1995 17:00 ngày 02/05 Korean K League 1", FC Anyang vs Bucheon FC 1995 17:00 ngày 02/05 Korean K League 1 (Link 2)
+https://live.alilicloud.com/live/8cf0df6897187cc711e9e22b52649f52/playlist.m3u8
 #EXTINF:-1 tvg-id="601437310" group-title="China vs Japan 15:00 ngày 02/05 BWF Thomas &amp; Uber Cup Finals 2026 - SÂN 1", China vs Japan 15:00 ngày 02/05 BWF Thomas &amp; Uber Cup Finals 2026 - SÂN 1
 https://cdn-hls.taoxanh.biz/live/69f5a98242283_161152/index.m3u8?expire=1778312194&amp;sign=104bc1b6ea91c4bcd131e2e434615602
 #EXTINF:-1 tvg-id="601437313" group-title="Indonesia vs Korea 15:00 ngày 02/05 BWF Thomas &amp; Uber Cup Finals 2026  - SÂN 2", Indonesia vs Korea 15:00 ngày 02/05 BWF Thomas &amp; Uber Cup Finals 2026  - SÂN 2
@@ -25,48 +13,8 @@ https://cdn-hls.taoxanh.biz/live/69f5acb242283_18754/index.m3u8?expire=177831301
 https://cdn-hls.taoxanh.biz/live/69f5b6cf42283_142246/index.m3u8?expire=1778315599&amp;sign=fbab274828bc0d1a778d1f65183a8895
 #EXTINF:-1 tvg-id="601426780" group-title="Jack Della Maddalena vs Carlos Prates 15:00 ngày 02/05 UFC FIGHT PASS", Jack Della Maddalena vs Carlos Prates 15:00 ngày 02/05 UFC FIGHT PASS
 https://cdn-hls.taoxanh.biz/live/69f5ac5d203f5_142210/index.m3u8?expire=1778312925&amp;sign=ee89a77ca8aca4189a4b7979856640df
-#EXTINF:-1 tvg-id="601427656" group-title="White City Woodville vs Adelaide Comets FC 14:30 ngày 02/05 South Australia National Premier Leagues", White City Woodville vs Adelaide Comets FC 14:30 ngày 02/05 South Australia National Premier Leagues
-https://live.alilicloud.com/live/d331f492512f4b3583c6278fc82a4b51/playlist.m3u8
-#EXTINF:-1 tvg-id="601427653" group-title="Valkyrie (W) vs Hang Yuan FC (w) 14:30 ngày 02/05 Chinese Taiwan Mulan Football League", Valkyrie (W) vs Hang Yuan FC (w) 14:30 ngày 02/05 Chinese Taiwan Mulan Football League
-https://live.alilicloud.com/live/725080a0bb61e1775865d479bdd8a345/playlist.m3u8
-#EXTINF:-1 tvg-id="601427677" group-title="Chaozhou Team vs Meizhou Team 14:30 ngày 02/05 Guangdong City Football League", Chaozhou Team vs Meizhou Team 14:30 ngày 02/05 Guangdong City Football League
-https://live.alilicloud.com/live/c9c101df37985458165af1b8886498c3/playlist.m3u8
-#EXTINF:-1 tvg-id="601427674" group-title="Jinan Team vs Dongying Team 14:30 ngày 02/05 Shandong Qilu Football Super League", Jinan Team vs Dongying Team 14:30 ngày 02/05 Shandong Qilu Football Super League
-https://live.alilicloud.com/live/a6535f26e3898b110e4266d86e0a287b/playlist.m3u8
-#EXTINF:-1 tvg-id="601427659" group-title="Spirit FC vs Manly United 14:30 ngày 02/05 Australia New South Wales Premier League", Spirit FC vs Manly United 14:30 ngày 02/05 Australia New South Wales Premier League
-https://live.alilicloud.com/live/1dc7fbbebe0d95bad81f08d94bffa764/playlist.m3u8
-#EXTINF:-1 tvg-id="601427650" group-title="Taichung Blue Whale (w) vs Kaohsiung Attackers(w) 14:30 ngày 02/05 Chinese Taiwan Mulan Football League", Taichung Blue Whale (w) vs Kaohsiung Attackers(w) 14:30 ngày 02/05 Chinese Taiwan Mulan Football League
-https://live.alilicloud.com/live/b81cce13a80e86b2c0ca8c1317422695/playlist.m3u8
-#EXTINF:-1 tvg-id="601437472" group-title="Glenorchy Knights (w) vs Kingborough Lions (w) 14:45 ngày 02/05 Australia TSAmania Women's Super League", Glenorchy Knights (w) vs Kingborough Lions (w) 14:45 ngày 02/05 Australia TSAmania Women's Super League
-https://live.alilicloud.com/live/47340f1911bb9ebee30821b7302dde97/playlist.m3u8
-#EXTINF:-1 tvg-id="601427482" group-title="FC Bulleen Lions (w) vs Boroondara Eagles (w) 14:45 ngày 02/05 Australia Victorian Women's Premier League", FC Bulleen Lions (w) vs Boroondara Eagles (w) 14:45 ngày 02/05 Australia Victorian Women's Premier League
-https://live.alilicloud.com/live/d596083ba77e7441293b0e74f5cf5c83/playlist.m3u8
-#EXTINF:-1 tvg-id="601427680" group-title="Monaro Panthers vs Canberra Juventus 14:45 ngày 02/05 Australia National Premier Leagues Capital Football 1", Monaro Panthers vs Canberra Juventus 14:45 ngày 02/05 Australia National Premier Leagues Capital Football 1
-https://live.alilicloud.com/live/9f39b8bab020d0050a68c5d926123029/playlist.m3u8
-#EXTINF:-1 tvg-id="601435249" group-title="Tap Seac Party Prime Minister Village Football Team vs Bawang Village Football Team 14:50 ngày 02/05 Rural Football Super League", Tap Seac Party Prime Minister Village Football Team vs Bawang Village Football Team 14:50 ngày 02/05 Rural Football Super League
-https://live.alilicloud.com/live/41dac3b23b363850ac8afa6c827c6c8c/playlist.m3u8
-#EXTINF:-1 tvg-id="601427689" group-title="Mitchelton FC vs Brisbane Knights 15:00 ngày 02/05 QLD D2", Mitchelton FC vs Brisbane Knights 15:00 ngày 02/05 QLD D2
-https://live.alilicloud.com/live/d779b7b96780f6396d5c30015a183a44/playlist.m3u8
-#EXTINF:-1 tvg-id="601427683" group-title="Yeoju Citizen vs Chuncheon Citizen 15:00 ngày 02/05 Korean K League 3", Yeoju Citizen vs Chuncheon Citizen 15:00 ngày 02/05 Korean K League 3
-https://live.alilicloud.com/live/b4acffbbe8d917d648726eb885323d9c/playlist.m3u8
-#EXTINF:-1 tvg-id="601427686" group-title="FK Pribram B vs FC Pisek 15:00 ngày 02/05 Czech Third League", FK Pribram B vs FC Pisek 15:00 ngày 02/05 Czech Third League
-https://live.alilicloud.com/live/f82efc6613f2261952ea7bcadf71ffcb/playlist.m3u8
-#EXTINF:-1 tvg-id="601427731" group-title="Ezhou Team vs Xiantao Team 15:00 ngày 02/05 Hubei City Football League", Ezhou Team vs Xiantao Team 15:00 ngày 02/05 Hubei City Football League
-https://live.alilicloud.com/live/2f3b142db4ba2541400576abbf15db88/playlist.m3u8
-#EXTINF:-1 tvg-id="601427737" group-title="Shanghai RCB(W) vs Guangxi Pingguo Beinong (w) 15:00 ngày 02/05 Chinese Women's Super League", Shanghai RCB(W) vs Guangxi Pingguo Beinong (w) 15:00 ngày 02/05 Chinese Women's Super League
-https://live.alilicloud.com/live/75b77b6dd151352c169dc19a90115738/playlist.m3u8
-#EXTINF:-1 tvg-id="601427740" group-title="Caboolture FC (w) vs Grange Thistle (w) 15:00 ngày 02/05 Australia Queensland State Women's League", Caboolture FC (w) vs Grange Thistle (w) 15:00 ngày 02/05 Australia Queensland State Women's League
-https://live.alilicloud.com/live/f03b43f334ce7411e5c2efdbc907dd31/playlist.m3u8
-#EXTINF:-1 tvg-id="601427743" group-title="Moreton Bay United (w) vs Virginia United SC (w) 15:00 ngày 02/05 Australia Queensland State Women's League", Moreton Bay United (w) vs Virginia United SC (w) 15:00 ngày 02/05 Australia Queensland State Women's League
-https://live.alilicloud.com/live/17ca19fc9a1c65c2fdc01b6d117b8974/playlist.m3u8
-#EXTINF:-1 tvg-id="601427734" group-title="Beijing(W) vs Liaoning Shenbei Hefeng(W) 15:00 ngày 02/05 Chinese Women's Super League", Beijing(W) vs Liaoning Shenbei Hefeng(W) 15:00 ngày 02/05 Chinese Women's Super League
-https://live.alilicloud.com/live/3d8a41e9d22de0903684707d8c3269f9/playlist.m3u8
 #EXTINF:-1 tvg-id="601427755" group-title="Altona Magic vs Dandenong City SC 15:15 ngày 02/05 National Premier Leagues Victoria", Altona Magic vs Dandenong City SC 15:15 ngày 02/05 National Premier Leagues Victoria
 https://live.alilicloud.com/live/0fe15e298730883af4bb2b4e536f0c5f/playlist.m3u8
-#EXTINF:-1 tvg-id="601437493" group-title="Dalian Football School(w) vs Hebei Snow Ruyi  (w) 15:15 ngày 02/05 Chinese Women's League One", Dalian Football School(w) vs Hebei Snow Ruyi  (w) 15:15 ngày 02/05 Chinese Women's League One
-https://live.alilicloud.com/live/72b10c9932d7fb088beca69724a654cd/playlist.m3u8
-#EXTINF:-1 tvg-id="601427758" group-title="Mlada Boleslav B vs Hradec Kralove B 15:15 ngày 02/05 Czech Third League", Mlada Boleslav B vs Hradec Kralove B 15:15 ngày 02/05 Czech Third League
-https://live.alilicloud.com/live/70e82f53b5579c89d725af04c2f531a6/playlist.m3u8
 #EXTINF:-1 tvg-id="601427791" group-title="Velke Hamry vs SK Slovan Varnsdorf 15:30 ngày 02/05 Czech Third League", Velke Hamry vs SK Slovan Varnsdorf 15:30 ngày 02/05 Czech Third League
 https://live.alilicloud.com/live/66c24ccdf9c499977992d46e1b76e40e/playlist.m3u8
 #EXTINF:-1 tvg-id="601427788" group-title="Ceske Budejovice B vs Viktoria Plzen B 15:30 ngày 02/05 Czech Third League", Ceske Budejovice B vs Viktoria Plzen B 15:30 ngày 02/05 Czech Third League
@@ -75,58 +23,116 @@ https://live.alilicloud.com/live/78cd64d37a83bf04802ec83e99ecb54d/playlist.m3u8
 https://live.alilicloud.com/live/3bc1b40c469236613823c1e0ae9f62ed/playlist.m3u8
 #EXTINF:-1 tvg-id="601427770" group-title="West Adelaide SC vs Metrostars SC 15:30 ngày 02/05 South Australia National Premier Leagues", West Adelaide SC vs Metrostars SC 15:30 ngày 02/05 South Australia National Premier Leagues
 https://live.alilicloud.com/live/c459a342ebb505450c6c1fe0535d33f3/playlist.m3u8
+#EXTINF:-1 tvg-id="601427851" group-title="Quinns FC vs Floreat Athena 16:00 ngày 02/05 Western Australia State League 1", Quinns FC vs Floreat Athena 16:00 ngày 02/05 Western Australia State League 1
+https://live.alilicloud.com/live/fc59070acdf88bd80ed9d7d8f6e6d94d/playlist.m3u8
+#EXTINF:-1 tvg-id="601427821" group-title="Verona U20 vs Napoli Youth 16:00 ngày 02/05 Italian Campionato Primavera 1", Verona U20 vs Napoli Youth 16:00 ngày 02/05 Italian Campionato Primavera 1
+https://live.alilicloud.com/live/4d3cbd59ef643e82ad9253f498bdfa68/playlist.m3u8
+#EXTINF:-1 tvg-id="601427827" group-title="Logan Lightning vs Broadbeach United 16:00 ngày 02/05 Australia Queensland State League 1", Logan Lightning vs Broadbeach United 16:00 ngày 02/05 Australia Queensland State League 1
+https://live.alilicloud.com/live/8373c337f978e7cfef3d7f23196adcb1/playlist.m3u8
+#EXTINF:-1 tvg-id="601427872" group-title="Tiffy Army FC vs Life FC 16:00 ngày 02/05 Cambodian Premier League", Tiffy Army FC vs Life FC 16:00 ngày 02/05 Cambodian Premier League
+https://live.alilicloud.com/live/b5d030cd1f862bf3b3de5af1210a843f/playlist.m3u8
+#EXTINF:-1 tvg-id="601427830" group-title="AC Nagano Parceiro vs Fujieda MYFC 16:00 ngày 02/05 J2/J3 100 Year Vision League", AC Nagano Parceiro vs Fujieda MYFC 16:00 ngày 02/05 J2/J3 100 Year Vision League
+https://live.alilicloud.com/live/c611cfd01d63cac22f7368cced4fba64/playlist.m3u8
+#EXTINF:-1 tvg-id="601427866" group-title="Dong Tam Long An vs Than Quang Ninh 16:00 ngày 02/05 Vietnam National First Class League", Dong Tam Long An vs Than Quang Ninh 16:00 ngày 02/05 Vietnam National First Class League
+https://live.alilicloud.com/live/9ed08bd34c17ddbbcd4af7399af5bbfc/playlist.m3u8
+#EXTINF:-1 tvg-id="601427869" group-title="Skjervoy vs Skjetten Fotball 16:00 ngày 02/05 Norwegian 3.Divisjon", Skjervoy vs Skjetten Fotball 16:00 ngày 02/05 Norwegian 3.Divisjon
+https://live.alilicloud.com/live/0ee790ccd8d815b68697b7d73e62fbbd/playlist.m3u8
 #EXTINF:-1 tvg-id="601427875" group-title="Sichuan (w) vs Shandong Jsff(W) 16:00 ngày 02/05 Chinese Women's Super League", Sichuan (w) vs Shandong Jsff(W) 16:00 ngày 02/05 Chinese Women's Super League
 https://live.alilicloud.com/live/3faf0b39e931fff6251f1c2278d78053/playlist.m3u8
 #EXTINF:-1 tvg-id="601427878" group-title="Zhejiang Hangzhou Bank(W) vs Wuhan Jianghan(W) 16:00 ngày 02/05 Chinese Women's Super League", Zhejiang Hangzhou Bank(W) vs Wuhan Jianghan(W) 16:00 ngày 02/05 Chinese Women's Super League
 https://live.alilicloud.com/live/6b293683f96f602ed13c5835ea0f475b/playlist.m3u8
-#EXTINF:-1 tvg-id="601427866" group-title="Dong Tam Long An vs Than Quang Ninh 16:00 ngày 02/05 Vietnam National First Class League", Dong Tam Long An vs Than Quang Ninh 16:00 ngày 02/05 Vietnam National First Class League
-https://live.alilicloud.com/live/9ed08bd34c17ddbbcd4af7399af5bbfc/playlist.m3u8
-#EXTINF:-1 tvg-id="601427851" group-title="Quinns FC vs Floreat Athena 16:00 ngày 02/05 Western Australia State League 1", Quinns FC vs Floreat Athena 16:00 ngày 02/05 Western Australia State League 1
-https://live.alilicloud.com/live/fc59070acdf88bd80ed9d7d8f6e6d94d/playlist.m3u8
-#EXTINF:-1 tvg-id="601420180" group-title="Jaime Faria vs Darwin Blanch 15:00 ngày 02/05 ATP Challenger Mauthausen, Austria Men Singles", Jaime Faria vs Darwin Blanch 15:00 ngày 02/05 ATP Challenger Mauthausen, Austria Men Singles
-https://live.alilicloud.com/live/79dc7afe70facd12a61b4e51fd3f9bec/playlist.m3u8
-#EXTINF:-1 tvg-id="601437277" group-title="Defne Cirpanli vs Maria Sara Popa 15:00 ngày 02/05 WTA 125K Istanbul, Turkiye Women Singles", Defne Cirpanli vs Maria Sara Popa 15:00 ngày 02/05 WTA 125K Istanbul, Turkiye Women Singles
-https://live.alilicloud.com/live/9bb4b50284ce319adb6f41dc175a3ca7/playlist.m3u8
-#EXTINF:-1 tvg-id="601437280" group-title="Sude Ulueren vs Lucia Cortez Llorca 15:00 ngày 02/05 WTA 125K Istanbul, Turkiye Women Singles", Sude Ulueren vs Lucia Cortez Llorca 15:00 ngày 02/05 WTA 125K Istanbul, Turkiye Women Singles
-https://live.alilicloud.com/live/cc71a666aa27096ea317abde713a1337/playlist.m3u8
-#EXTINF:-1 tvg-id="601437283" group-title="Minel Naz Kaynak vs Isabella Shinikova 15:00 ngày 02/05 WTA 125K Istanbul, Turkiye Women Singles", Minel Naz Kaynak vs Isabella Shinikova 15:00 ngày 02/05 WTA 125K Istanbul, Turkiye Women Singles
-https://live.alilicloud.com/live/92858d25efcf1fd517fc562df88bfba9/playlist.m3u8
-#EXTINF:-1 tvg-id="601425079" group-title="Kobe Storks vs Kagoshima Rebnise 14:05 ngày 02/05 B2 League", Kobe Storks vs Kagoshima Rebnise 14:05 ngày 02/05 B2 League
-https://live.alilicloud.com/live/f6f59526eb82f237685bf36e08dc4f19/playlist.m3u8
-#EXTINF:-1 tvg-id="601419772" group-title="Dandenong Rangers Women vs Ringwood Hawks Women 14:30 ngày 02/05 National Women’s Basketball League1 South", Dandenong Rangers Women vs Ringwood Hawks Women 14:30 ngày 02/05 National Women’s Basketball League1 South
-https://live.alilicloud.com/live/d2aa8a4994d213669251b48561e35ca6/playlist.m3u8
-#EXTINF:-1 tvg-id="601419766" group-title="Bay Hawks vs Auckland Tuatara 14:30 ngày 02/05 New Zealand National Basketball League", Bay Hawks vs Auckland Tuatara 14:30 ngày 02/05 New Zealand National Basketball League
-https://live.alilicloud.com/live/91713d1b0b10e58b2014eaf046f5f39b/playlist.m3u8
-#EXTINF:-1 tvg-id="601419778" group-title="Gold Coast Sea Hawk Women vs Gold Coast Rollers Women 14:30 ngày 02/05 National Women’s Basketball League1 North", Gold Coast Sea Hawk Women vs Gold Coast Rollers Women 14:30 ngày 02/05 National Women’s Basketball League1 North
-https://live.alilicloud.com/live/2b0188cc1faa3b9679cb7025fd996b84/playlist.m3u8
-#EXTINF:-1 tvg-id="601419781" group-title="Kilsyth Cobras Women vs Ballarat Miners (W) 14:30 ngày 02/05 National Women’s Basketball League1 South", Kilsyth Cobras Women vs Ballarat Miners (W) 14:30 ngày 02/05 National Women’s Basketball League1 South
-https://live.alilicloud.com/live/988af1c8b4680ba161bef92dae2053c0/playlist.m3u8
-#EXTINF:-1 tvg-id="601419787" group-title="Knox Raiders Women vs Mt Gambier Pioneers Women 14:40 ngày 02/05 National Women’s Basketball League1 South", Knox Raiders Women vs Mt Gambier Pioneers Women 14:40 ngày 02/05 National Women’s Basketball League1 South
-https://live.alilicloud.com/live/5e5ec2b32850f1060c6019f18ab4aa93/playlist.m3u8
-#EXTINF:-1 tvg-id="601437931" group-title="Pakenham Women vs Western Port Steelers (W) 15:00 ngày 02/05 Australia Big V Women's League", Pakenham Women vs Western Port Steelers (W) 15:00 ngày 02/05 Australia Big V Women's League
-https://live.alilicloud.com/live/d33ece23b84f8e5699ef98db70c28e12/playlist.m3u8
-#EXTINF:-1 tvg-id="601419784" group-title="Frankston Blues Women vs Nunawading Spectres Women 15:00 ngày 02/05 National Women’s Basketball League1 South", Frankston Blues Women vs Nunawading Spectres Women 15:00 ngày 02/05 National Women’s Basketball League1 South
-https://live.alilicloud.com/live/5ec2a283b0c0873739e0fe18fbcc9093/playlist.m3u8
-#EXTINF:-1 tvg-id="601419790" group-title="Diamond Valley Eagle Women vs Keilor Thunder Women 15:00 ngày 02/05 National Women’s Basketball League1 South", Diamond Valley Eagle Women vs Keilor Thunder Women 15:00 ngày 02/05 National Women’s Basketball League1 South
-https://live.alilicloud.com/live/235c4b76e8b4a40c82bf963926b67a02/playlist.m3u8
-#EXTINF:-1 tvg-id="601419865" group-title="Pacific Caesar Surabaya vs RANS PIK 15:00 ngày 02/05 Indonesia Basketball League", Pacific Caesar Surabaya vs RANS PIK 15:00 ngày 02/05 Indonesia Basketball League
-https://live.alilicloud.com/live/bebce6ac1f439961e921aea2efc7482f/playlist.m3u8
-#EXTINF:-1 tvg-id="601437928" group-title="Bellarine Storm Women vs McKinnon Cougars Women 15:00 ngày 02/05 Australia Big V Women's League", Bellarine Storm Women vs McKinnon Cougars Women 15:00 ngày 02/05 Australia Big V Women's League
-https://live.alilicloud.com/live/4142927bcfcd2593cf5e6cca119cbe79/playlist.m3u8
-#EXTINF:-1 tvg-id="601437934" group-title="Hume City Broncos Women vs Warrnambool Mermaids Women 15:00 ngày 02/05 Australia Big V Women's League", Hume City Broncos Women vs Warrnambool Mermaids Women 15:00 ngày 02/05 Australia Big V Women's League
-https://live.alilicloud.com/live/54e64309d536c692df3c07874ace7d40/playlist.m3u8
-#EXTINF:-1 tvg-id="601437937" group-title="Warrandyte Venom Women vs Sunbury Jets Women 15:00 ngày 02/05 Australia Big V Women's League", Warrandyte Venom Women vs Sunbury Jets Women 15:00 ngày 02/05 Australia Big V Women's League
-https://live.alilicloud.com/live/92acdabda8238ae354b4ad0f266c16b8/playlist.m3u8
-#EXTINF:-1 tvg-id="601419796" group-title="Brisbane Spartans Women vs Brisbane Capitals Women 15:00 ngày 02/05 National Women’s Basketball League1 North", Brisbane Spartans Women vs Brisbane Capitals Women 15:00 ngày 02/05 National Women’s Basketball League1 North
-https://live.alilicloud.com/live/1905d2c053e26ed5e6206310eba62993/playlist.m3u8
-#EXTINF:-1 tvg-id="601419802" group-title="Hills Hornets vs Norths Bears 15:15 ngày 02/05 NBL1 Eastern", Hills Hornets vs Norths Bears 15:15 ngày 02/05 NBL1 Eastern
-https://live.alilicloud.com/live/6e5a1bb55a1f3e3f1482729c48835629/playlist.m3u8
-#EXTINF:-1 tvg-id="601419805" group-title="Eastern Mavericks Women vs West Adelaide Bearcats Women 15:30 ngày 02/05 National Women’s Basketball League1 Center", Eastern Mavericks Women vs West Adelaide Bearcats Women 15:30 ngày 02/05 National Women’s Basketball League1 Center
-https://live.alilicloud.com/live/7e753441bcc69dd9533379acbbcb9fa7/playlist.m3u8
+#EXTINF:-1 tvg-id="601427818" group-title="Lazio Youth vs Parma U20 16:10 ngày 02/05 Italian Campionato Primavera 1", Lazio Youth vs Parma U20 16:10 ngày 02/05 Italian Campionato Primavera 1
+https://live.alilicloud.com/live/8dba78c50dd66be94e68b87b412407ac/playlist.m3u8
+#EXTINF:-1 tvg-id="601427905" group-title="St George City FA vs Sydney FC (Youth) 16:15 ngày 02/05 Australia New South Wales Premier League", St George City FA vs Sydney FC (Youth) 16:15 ngày 02/05 Australia New South Wales Premier League
+https://live.alilicloud.com/live/5fd2cb28747de34211b13d310fadd0c9/playlist.m3u8
+#EXTINF:-1 tvg-id="601427914" group-title="Elva vs Nomme JK Kalju II 16:30 ngày 02/05 Estonian Esiliiga", Elva vs Nomme JK Kalju II 16:30 ngày 02/05 Estonian Esiliiga
+https://live.alilicloud.com/live/a5b8dd469a496df1268fac9e9f24eeff/playlist.m3u8
+#EXTINF:-1 tvg-id="601427926" group-title="Perth SC (w) vs Perth RedStar (W) 16:30 ngày 02/05 Western Australia Women's League", Perth SC (w) vs Perth RedStar (W) 16:30 ngày 02/05 Western Australia Women's League
+https://live.alilicloud.com/live/b37011de9f002243aace3616da30f4da/playlist.m3u8
+#EXTINF:-1 tvg-id="601427935" group-title="Melbourne Victory vs Sydney FC 16:40 ngày 02/05 Australia A-League", Melbourne Victory vs Sydney FC 16:40 ngày 02/05 Australia A-League
+https://live.alilicloud.com/live/0432daa501f51c6221bc947ab0770495/playlist.m3u8
+#EXTINF:-1 tvg-id="601428007" group-title="Valadares Gaia FC (w) vs Rio Ave (w) 17:00 ngày 02/05 Portuguese Women's Campeonato Nacional", Valadares Gaia FC (w) vs Rio Ave (w) 17:00 ngày 02/05 Portuguese Women's Campeonato Nacional
+https://live.alilicloud.com/live/80da9075ac35993b91609fcd8b239a82/playlist.m3u8
+#EXTINF:-1 tvg-id="601428022" group-title="CF Os Belenenses vs UD Santarem 17:00 ngày 02/05 Portuguese Liga 3", CF Os Belenenses vs UD Santarem 17:00 ngày 02/05 Portuguese Liga 3
+https://live.alilicloud.com/live/a13204b95de016c3f213fec64ed8392b/playlist.m3u8
+#EXTINF:-1 tvg-id="601428010" group-title="Vitoria SC Women vs SCU Torreense (w) 17:00 ngày 02/05 Portuguese Women's Campeonato Nacional", Vitoria SC Women vs SCU Torreense (w) 17:00 ngày 02/05 Portuguese Women's Campeonato Nacional
+https://live.alilicloud.com/live/cab03eaa81b538dc7a853f4ea097fb3d/playlist.m3u8
+#EXTINF:-1 tvg-id="601428004" group-title="Volna Pinsk vs Ostrowitz 17:00 ngày 02/05 Belarusian First League", Volna Pinsk vs Ostrowitz 17:00 ngày 02/05 Belarusian First League
+https://live.alilicloud.com/live/3f7672d058649835ebdeb4a84f6f3fde/playlist.m3u8
+#EXTINF:-1 tvg-id="601427989" group-title="Kyzylzhar Petropavlovsk vs Okzhetpes 17:00 ngày 02/05 Kazakhstan Premier League", Kyzylzhar Petropavlovsk vs Okzhetpes 17:00 ngày 02/05 Kazakhstan Premier League
+https://live.alilicloud.com/live/1ec01165082eedbbe004df115302d16d/playlist.m3u8
+#EXTINF:-1 tvg-id="601427959" group-title="Karpaty U21 vs LNZ Cherkasy U21 17:00 ngày 02/05 Ukrainian Youth Team Championship", Karpaty U21 vs LNZ Cherkasy U21 17:00 ngày 02/05 Ukrainian Youth Team Championship
+https://live.alilicloud.com/live/102cbbdfa0a65ea338b0a7b9ffbf8caa/playlist.m3u8
+#EXTINF:-1 tvg-id="601427953" group-title="Oliveirense vs Lusitania FC 17:00 ngày 02/05 Liga Portugal 2", Oliveirense vs Lusitania FC 17:00 ngày 02/05 Liga Portugal 2
+https://live.alilicloud.com/live/77bdaa61b645dc9856fd5e779812f232/playlist.m3u8
+#EXTINF:-1 tvg-id="601427944" group-title="Pogon Szczecin (w) vs Czarni Sosnowiec (w) 17:00 ngày 02/05 Poland Women's Ekstraliga", Pogon Szczecin (w) vs Czarni Sosnowiec (w) 17:00 ngày 02/05 Poland Women's Ekstraliga
+https://live.alilicloud.com/live/3dd63e8f66888147d7fb7bbc42fe5157/playlist.m3u8
+#EXTINF:-1 tvg-id="601427977" group-title="Gwangju Football Club vs Daejeon Citizen 17:00 ngày 02/05 Korean K League 1", Gwangju Football Club vs Daejeon Citizen 17:00 ngày 02/05 Korean K League 1
+https://live.alilicloud.com/live/0ce42c5e2517c3093e794d71e48ab48d/playlist.m3u8
+#EXTINF:-1 tvg-id="601420162" group-title="Raul Brancaccio vs Zdenek Kolar 16:00 ngày 02/05 ATP Challenger Ostrava, Czech Republic Men Singles", Raul Brancaccio vs Zdenek Kolar 16:00 ngày 02/05 ATP Challenger Ostrava, Czech Republic Men Singles
+https://live.alilicloud.com/live/ea605f16341a3affc42fedc5c04ec4e4/playlist.m3u8
+#EXTINF:-1 tvg-id="601420168" group-title="Daria Kasatkina vs Sara Sorribes Tormo 16:00 ngày 02/05 WTA 125K La Bisbal D Emporda, Spain Women Singles", Daria Kasatkina vs Sara Sorribes Tormo 16:00 ngày 02/05 WTA 125K La Bisbal D Emporda, Spain Women Singles
+https://live.alilicloud.com/live/dd0150d83d936119aba150333f88b4e0/playlist.m3u8
 #EXTINF:-1 tvg-id="601419799" group-title="Sturt Sabres Women vs Norwood Flames Women 15:30 ngày 02/05 National Women’s Basketball League1 Center", Sturt Sabres Women vs Norwood Flames Women 15:30 ngày 02/05 National Women’s Basketball League1 Center
 https://live.alilicloud.com/live/ca065edf38e6c8d0b44e8498ebf97458/playlist.m3u8
+#EXTINF:-1 tvg-id="601419814" group-title="South West Slammers Women vs Joondalup Resort Wolf Women 16:00 ngày 02/05 National Women’s Basketball League1 West", South West Slammers Women vs Joondalup Resort Wolf Women 16:00 ngày 02/05 National Women’s Basketball League1 West
+https://live.alilicloud.com/live/b10cf0a6104fbb9bdad22cdb0517680a/playlist.m3u8
+#EXTINF:-1 tvg-id="601419823" group-title="Geelong United vs Sandringham Sabres 16:00 ngày 02/05 National Basketball League1 South", Geelong United vs Sandringham Sabres 16:00 ngày 02/05 National Basketball League1 South
+https://live.alilicloud.com/live/e88af3009d06964d0e64f87fa8753a3d/playlist.m3u8
+#EXTINF:-1 tvg-id="601419829" group-title="Hobart Chargers vs Bendigo Braves 16:00 ngày 02/05 National Basketball League1 South", Hobart Chargers vs Bendigo Braves 16:00 ngày 02/05 National Basketball League1 South
+https://live.alilicloud.com/live/1230305200d493b6d98a2bccc76203a6/playlist.m3u8
+#EXTINF:-1 tvg-id="601419835" group-title="Sutherland Sharks vs Newcastle Falcons 16:00 ngày 02/05 NBL1 Eastern", Sutherland Sharks vs Newcastle Falcons 16:00 ngày 02/05 NBL1 Eastern
+https://live.alilicloud.com/live/832ee43b3e8a43933be854078fb968e0/playlist.m3u8
+#EXTINF:-1 tvg-id="601419838" group-title="Bankstown Bruin vs Maitland Mustangs 16:00 ngày 02/05 NBL1 Eastern", Bankstown Bruin vs Maitland Mustangs 16:00 ngày 02/05 NBL1 Eastern
+https://live.alilicloud.com/live/1d1a75b922576b6ddd24509253696808/playlist.m3u8
+#EXTINF:-1 tvg-id="601419841" group-title="Hornsby Spiders vs Sydney Comets 16:00 ngày 02/05 NBL1 Eastern", Hornsby Spiders vs Sydney Comets 16:00 ngày 02/05 NBL1 Eastern
+https://live.alilicloud.com/live/c68690cabc439054d2d7b282eb8e7021/playlist.m3u8
+#EXTINF:-1 tvg-id="601419844" group-title="Ipswich Force vs Mackay Meteors 16:00 ngày 02/05 Australia National Basketball League1 North", Ipswich Force vs Mackay Meteors 16:00 ngày 02/05 Australia National Basketball League1 North
+https://live.alilicloud.com/live/ddc19bc40354ad0b96a337d67a8564ad/playlist.m3u8
+#EXTINF:-1 tvg-id="601419847" group-title="Northside Wizards vs Cairns Marlins 16:00 ngày 02/05 Australia National Basketball League1 North", Northside Wizards vs Cairns Marlins 16:00 ngày 02/05 Australia National Basketball League1 North
+https://live.alilicloud.com/live/3d4201916319b0e7386330a77aee9f2d/playlist.m3u8
+#EXTINF:-1 tvg-id="601435309" group-title="Keelung Black Kites vs Yulon Dinosaurs 16:00 ngày 02/05 China Taiwan Super Basketball League", Keelung Black Kites vs Yulon Dinosaurs 16:00 ngày 02/05 China Taiwan Super Basketball League
+https://live.alilicloud.com/live/cc7b1ebb9076555fbfbaf694d539d2b0/playlist.m3u8
+#EXTINF:-1 tvg-id="601419811" group-title="Warwick Senators Women vs Rockingham Flames Women 16:00 ngày 02/05 National Women’s Basketball League1 West", Warwick Senators Women vs Rockingham Flames Women 16:00 ngày 02/05 National Women’s Basketball League1 West
+https://live.alilicloud.com/live/2a06273f3df749508b19e01aac4dfaee/playlist.m3u8
 #EXTINF:-1 tvg-id="601419808" group-title="New Taipei Kings vs Taiwan Beer Leopards 16:00 ngày 02/05 China Taipei Professional Basketball League", New Taipei Kings vs Taiwan Beer Leopards 16:00 ngày 02/05 China Taipei Professional Basketball League
 https://live.alilicloud.com/live/2fd372bac85298f7ac82929a1e0c5420/playlist.m3u8
+#EXTINF:-1 tvg-id="601419850" group-title="Terrafirma Dyip vs Macau Black Knights 16:15 ngày 02/05 Philippine Basketball Commissioner's Cup", Terrafirma Dyip vs Macau Black Knights 16:15 ngày 02/05 Philippine Basketball Commissioner's Cup
+https://live.alilicloud.com/live/c2e0e1d487582bf5643f9801096d1a08/playlist.m3u8
+#EXTINF:-1 tvg-id="601419874" group-title="Kilsyth Cobras vs Ballarat Miners 16:30 ngày 02/05 National Basketball League1 South", Kilsyth Cobras vs Ballarat Miners 16:30 ngày 02/05 National Basketball League1 South
+https://live.alilicloud.com/live/2acf2aa14d268736a97de486afa61d52/playlist.m3u8
+#EXTINF:-1 tvg-id="601419862" group-title="Gold Coast Sea Hawk vs Gold Coast Rollers 16:30 ngày 02/05 Australia National Basketball League1 North", Gold Coast Sea Hawk vs Gold Coast Rollers 16:30 ngày 02/05 Australia National Basketball League1 North
+https://live.alilicloud.com/live/926f97599c3ffa558d66149309e3765a/playlist.m3u8
+#EXTINF:-1 tvg-id="601419859" group-title="Canberra Gunners vs Albury Wodonga 16:30 ngày 02/05 NBL1 Eastern", Canberra Gunners vs Albury Wodonga 16:30 ngày 02/05 NBL1 Eastern
+https://live.alilicloud.com/live/e4a11a50b69a7608fd8ab0e2c19eb265/playlist.m3u8
+#EXTINF:-1 tvg-id="601419856" group-title="Casey Cavaliers vs Eltham Wildcats 16:30 ngày 02/05 National Basketball League1 South", Casey Cavaliers vs Eltham Wildcats 16:30 ngày 02/05 National Basketball League1 South
+https://live.alilicloud.com/live/b2f570fd77fe0f4ffe306cb2c16e2dd1/playlist.m3u8
+#EXTINF:-1 tvg-id="601419853" group-title="Dandenong Rangers vs Ringwood Hawks 16:30 ngày 02/05 National Basketball League1 South", Dandenong Rangers vs Ringwood Hawks 16:30 ngày 02/05 National Basketball League1 South
+https://live.alilicloud.com/live/beb9d873cb11e65aa352354a9aa5ba8d/playlist.m3u8
+#EXTINF:-1 tvg-id="601419892" group-title="Bataan Risers vs Cebu Classic 17:00 ngày 02/05 Philippines MPBL", Bataan Risers vs Cebu Classic 17:00 ngày 02/05 Philippines MPBL
+https://live.alilicloud.com/live/99f262dc7d8d92ed54c36799523d1885/playlist.m3u8
+#EXTINF:-1 tvg-id="601419880" group-title="Goldfields Giants Women vs Willetton Tigers Women 17:00 ngày 02/05 National Women’s Basketball League1 West", Goldfields Giants Women vs Willetton Tigers Women 17:00 ngày 02/05 National Women’s Basketball League1 West
+https://live.alilicloud.com/live/32af11c1ec0948682d553849b499752d/playlist.m3u8
+#EXTINF:-1 tvg-id="601419886" group-title="Thung Khru HiTech vs Johor Southern Tiger BC 17:00 ngày 02/05 Basketball Champions League Asia", Thung Khru HiTech vs Johor Southern Tiger BC 17:00 ngày 02/05 Basketball Champions League Asia
+https://live.alilicloud.com/live/fc913ad8e638600dd3be3d47faa00b59/playlist.m3u8
+#EXTINF:-1 tvg-id="601437970" group-title="Bellarine Storm vs McKinnon Cougars 17:00 ngày 02/05 Australia Big V League", Bellarine Storm vs McKinnon Cougars 17:00 ngày 02/05 Australia Big V League
+https://live.alilicloud.com/live/c089350c092bad997ccd571e5ff0d4ea/playlist.m3u8
+#EXTINF:-1 tvg-id="601437973" group-title="Pakenham Warriors vs RMIT University 17:00 ngày 02/05 Australia Big V League", Pakenham Warriors vs RMIT University 17:00 ngày 02/05 Australia Big V League
+https://live.alilicloud.com/live/4c335b8e4e142adaa62d4885694a0ffa/playlist.m3u8
+#EXTINF:-1 tvg-id="601437976" group-title="Melbourne University vs Camberwell Dragons 17:00 ngày 02/05 Australia Big V League", Melbourne University vs Camberwell Dragons 17:00 ngày 02/05 Australia Big V League
+https://live.alilicloud.com/live/2e5bb2a6f5ff79e456ccedc067f2adc2/playlist.m3u8
+#EXTINF:-1 tvg-id="601419883" group-title="Diamond Valley Eagles vs Keilor Thunder 17:00 ngày 02/05 National Basketball League1 South", Diamond Valley Eagles vs Keilor Thunder 17:00 ngày 02/05 National Basketball League1 South
+https://live.alilicloud.com/live/99020166074cbae35df7b54f1a32ccd7/playlist.m3u8
+#EXTINF:-1 tvg-id="601419868" group-title="Knox Raiders vs Mt Gambier 17:00 ngày 02/05 National Basketball League1 South", Knox Raiders vs Mt Gambier 17:00 ngày 02/05 National Basketball League1 South
+https://live.alilicloud.com/live/b12b039fd51da6db79781248eb388d8e/playlist.m3u8
+#EXTINF:-1 tvg-id="601419871" group-title="Perry Lake Eagle Women vs Perth Redbacks Women 17:00 ngày 02/05 National Women’s Basketball League1 West", Perry Lake Eagle Women vs Perth Redbacks Women 17:00 ngày 02/05 National Women’s Basketball League1 West
+https://live.alilicloud.com/live/2e6e809364b71de53cbe1b5b0523358e/playlist.m3u8
+#EXTINF:-1 tvg-id="601419877" group-title="Frankston Blues vs Nunawading Spectres 17:00 ngày 02/05 National Basketball League1 South", Frankston Blues vs Nunawading Spectres 17:00 ngày 02/05 National Basketball League1 South
+https://live.alilicloud.com/live/ae8effdd8e00391fdcd3234d338d897c/playlist.m3u8
+#EXTINF:-1 tvg-id="601428160" group-title="Becamex Binh Duong vs CLB Thanh Hoa 18:00 ngày 02/05 Vietnam National Champion League", Becamex Binh Duong vs CLB Thanh Hoa 18:00 ngày 02/05 Vietnam National Champion League
+https://cdn-hls.taoxanh.biz/live/69f5ce2c203f5_28/index.m3u8?expire=1778321580&amp;sign=0673b8427a6bca4d0e909e935f5069d7
+#EXTINF:-1 tvg-id="601428166" group-title="PVF CAND vs Hong Linh Ha Tinh 18:00 ngày 02/05 Vietnam National Champion League", PVF CAND vs Hong Linh Ha Tinh 18:00 ngày 02/05 Vietnam National Champion League
+https://cdn-hls.taoxanh.biz/live/69f5c94a203f5_44731/index.m3u8?expire=1778320330&amp;sign=9fd41af3140603fde85b43af38c77e96
 #EXTINF:-1 tvg-id="601428391" group-title="Villarreal CF vs Levante 19:00 ngày 02/05 Spanish La Liga", Villarreal CF vs Levante 19:00 ngày 02/05 Spanish La Liga
 https://live.alilicloud.com/live/fb43a8e21991a939e3c8815e0bcf2c8d/playlist.m3u8
 #EXTINF:-1 tvg-id="601428754" group-title="Udinese vs Torino 20:00 ngày 02/05 Italian Serie A", Udinese vs Torino 20:00 ngày 02/05 Italian Serie A
