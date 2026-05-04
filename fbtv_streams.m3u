@@ -1,11 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601435450" group-title="Gimnasia y Esgrima de Mendoza vs Defensa Y Justicia 03:00 ngày 05/05 Argentine Division 1", Gimnasia y Esgrima de Mendoza vs Defensa Y Justicia 03:00 ngày 05/05 Argentine Division 1 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69f8fa41203f5_73445/index.m3u8?expire=1778529473&amp;sign=1aa4211b66301dba3f975950045f9e90
-#EXTINF:-1 tvg-id="601435450" group-title="Gimnasia y Esgrima de Mendoza vs Defensa Y Justicia 03:00 ngày 05/05 Argentine Division 1", Gimnasia y Esgrima de Mendoza vs Defensa Y Justicia 03:00 ngày 05/05 Argentine Division 1 (Link 2)
-https://live.alilicloud.com/live/2ea4e2725c34a0a91c9f0bbf3612cba5/playlist.m3u8
-#EXTINF:-1 tvg-id="601442416" group-title="Wu Yize vs Shaun Murphy 01:00 ngày 05/05 Halo World Championship 2026", Wu Yize vs Shaun Murphy 01:00 ngày 05/05 Halo World Championship 2026
-https://cdn-hls.taoxanh.biz/live/69f737a8203f5_142246/index.m3u8?expire=1778414120&amp;sign=185fce1316a743e8124f151445e47b35
-#EXTINF:-1 tvg-id="601435456" group-title="KACM Marrakech vs Olympique Dcheira 03:00 ngày 05/05 The Botola Pro", KACM Marrakech vs Olympique Dcheira 03:00 ngày 05/05 The Botola Pro
-https://live.alilicloud.com/live/8a0a99d45831b60fd3298799ffd3a410/playlist.m3u8
 #EXTINF:-1 tvg-id="601443586" group-title="Union Magdalena vs Barranquilla FC 04:00 ngày 05/05 Colombian Torneo BetPlay Dimayor", Union Magdalena vs Barranquilla FC 04:00 ngày 05/05 Colombian Torneo BetPlay Dimayor
 https://live.alilicloud.com/live/9b0b632bc8ac686bc336bd3d6b833df7/playlist.m3u8
+#EXTINF:-1 tvg-id="601435462" group-title="Vila Nova vs Athletic Club 05:00 ngày 05/05 Brazilian Serie B", Vila Nova vs Athletic Club 05:00 ngày 05/05 Brazilian Serie B
+https://live.alilicloud.com/live/46b33d85b0b4a84500f9ff411be796b1/playlist.m3u8
+#EXTINF:-1 tvg-id="601435465" group-title="Velez Sarsfield vs Club Atlético Newell's Old Boys 05:15 ngày 05/05 Argentine Division 1", Velez Sarsfield vs Club Atlético Newell's Old Boys 05:15 ngày 05/05 Argentine Division 1
+https://live.alilicloud.com/live/9400a8fb2e6ca40eb28a4b9e971841ae/playlist.m3u8
+#EXTINF:-1 tvg-id="601437979" group-title="Pitagoras Minas vs Corinthians 05:00 ngày 05/05 Novo Basquete Brasil", Pitagoras Minas vs Corinthians 05:00 ngày 05/05 Novo Basquete Brasil
+https://live.alilicloud.com/live/5489fff319474134c3bdf7f4c510f367/playlist.m3u8
