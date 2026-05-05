@@ -1,19 +1,35 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601435462" group-title="Vila Nova vs Athletic Club 05:00 ngày 05/05 Brazilian Serie B", Vila Nova vs Athletic Club 05:00 ngày 05/05 Brazilian Serie B
-https://live.alilicloud.com/live/46b33d85b0b4a84500f9ff411be796b1/playlist.m3u8
-#EXTINF:-1 tvg-id="601435465" group-title="Velez Sarsfield vs Club Atlético Newell's Old Boys 05:15 ngày 05/05 Argentine Division 1", Velez Sarsfield vs Club Atlético Newell's Old Boys 05:15 ngày 05/05 Argentine Division 1
-https://live.alilicloud.com/live/9400a8fb2e6ca40eb28a4b9e971841ae/playlist.m3u8
-#EXTINF:-1 tvg-id="601435468" group-title="CA Penarol vs Defensor Sporting Montevideo 05:30 ngày 05/05 Uruguay Primera Division", CA Penarol vs Defensor Sporting Montevideo 05:30 ngày 05/05 Uruguay Primera Division
-https://live.alilicloud.com/live/edc5e09a21a1524aea2400cd02b72546/playlist.m3u8
-#EXTINF:-1 tvg-id="601435474" group-title="Quilmes vs Chacarita juniors 06:00 ngày 05/05 Argentine Division 2", Quilmes vs Chacarita juniors 06:00 ngày 05/05 Argentine Division 2
-https://live.alilicloud.com/live/37e1dc65f55f867f78d472910c074d28/playlist.m3u8
-#EXTINF:-1 tvg-id="601435477" group-title="Comunicaciones BsAs vs Ituzaingo 06:00 ngày 05/05 Argentine Group B Tebolidun League Manchester", Comunicaciones BsAs vs Ituzaingo 06:00 ngày 05/05 Argentine Group B Tebolidun League Manchester
-https://live.alilicloud.com/live/d1b8ceaec2a9847303b561437cc5f17c/playlist.m3u8
-#EXTINF:-1 tvg-id="601435480" group-title="Figueirense vs Barra FC 06:00 ngày 05/05 Brazilian Serie C", Figueirense vs Barra FC 06:00 ngày 05/05 Brazilian Serie C
-https://live.alilicloud.com/live/4143710322a0456d04dfb07816a210f7/playlist.m3u8
-#EXTINF:-1 tvg-id="601435483" group-title="Floresta CE vs Maranhao 06:00 ngày 05/05 Brazilian Serie C", Floresta CE vs Maranhao 06:00 ngày 05/05 Brazilian Serie C
-https://live.alilicloud.com/live/24145fac478a3d10fe1e1f476754cb2f/playlist.m3u8
-#EXTINF:-1 tvg-id="601437979" group-title="Pitagoras Minas vs Corinthians 05:00 ngày 05/05 Novo Basquete Brasil", Pitagoras Minas vs Corinthians 05:00 ngày 05/05 Novo Basquete Brasil
-https://live.alilicloud.com/live/5489fff319474134c3bdf7f4c510f367/playlist.m3u8
+#EXTINF:-1 tvg-id="601435507" group-title="Estudiantes Rio Cuarto vs Instituto de Córdoba 07:30 ngày 05/05 Argentine Division 1", Estudiantes Rio Cuarto vs Instituto de Córdoba 07:30 ngày 05/05 Argentine Division 1 (Link 1)
+https://cdn-hls.taoxanh.biz/live/69f9325c42283_95554/index.m3u8?expire=1778543836&amp;sign=00b5cabddec9a3e482be278991127b23
+#EXTINF:-1 tvg-id="601435507" group-title="Estudiantes Rio Cuarto vs Instituto de Córdoba 07:30 ngày 05/05 Argentine Division 1", Estudiantes Rio Cuarto vs Instituto de Córdoba 07:30 ngày 05/05 Argentine Division 1 (Link 2)
+https://live.alilicloud.com/live/b8dc43f469951298c477ac5d8d4f2d16/playlist.m3u8
+#EXTINF:-1 tvg-id="601442629" group-title="New York Knicks vs Philadelphia 76ers 07:00 ngày 05/05 National Basketball Association", New York Knicks vs Philadelphia 76ers 07:00 ngày 05/05 National Basketball Association (Link 1)
+https://cdn-hls.taoxanh.biz/live/69f9311c203f5_72787/index.m3u8?expire=1778543516&amp;sign=78a02ba3922f0d2e056425069bbb9cc1
+#EXTINF:-1 tvg-id="601442629" group-title="New York Knicks vs Philadelphia 76ers 07:00 ngày 05/05 National Basketball Association", New York Knicks vs Philadelphia 76ers 07:00 ngày 05/05 National Basketball Association (Link 2)
+https://cdn-hls.taoxanh.biz/live/69f92cb2203f5_4733/index.m3u8?expire=1778542386&amp;sign=574fd8046ec3a39128534e93fd7de817
+#EXTINF:-1 tvg-id="601442629" group-title="New York Knicks vs Philadelphia 76ers 07:00 ngày 05/05 National Basketball Association", New York Knicks vs Philadelphia 76ers 07:00 ngày 05/05 National Basketball Association (Link 3)
+https://live.alilicloud.com/live/28912a0881af822cab330aa886e16c9d/playlist.m3u8
+#EXTINF:-1 tvg-id="601437985" group-title="San Antonio Spurs vs Minnesota Timberwolves 08:30 ngày 05/05 National Basketball Association", San Antonio Spurs vs Minnesota Timberwolves 08:30 ngày 05/05 National Basketball Association (Link 1)
+https://cdn-hls.taoxanh.biz/live/69f94410203f5_153967/index.m3u8?expire=1778548368&amp;sign=f20b8949f9b7aaabd393d1f1800939f0
+#EXTINF:-1 tvg-id="601437985" group-title="San Antonio Spurs vs Minnesota Timberwolves 08:30 ngày 05/05 National Basketball Association", San Antonio Spurs vs Minnesota Timberwolves 08:30 ngày 05/05 National Basketball Association (Link 2)
+https://live.alilicloud.com/live/049c9a170834d31adeee8f862620b857/playlist.m3u8
+#EXTINF:-1 tvg-id="601435501" group-title="CD Vargas Torres vs Pottu Via Ho 07:00 ngày 05/05 Ecuadorian Campeonato Serie B", CD Vargas Torres vs Pottu Via Ho 07:00 ngày 05/05 Ecuadorian Campeonato Serie B
+https://live.alilicloud.com/live/c36a124461a46a42ed18b599c99185df/playlist.m3u8
+#EXTINF:-1 tvg-id="601435504" group-title="Universitario De Vinto vs Blooming 07:00 ngày 05/05 Bolivian Primera Division", Universitario De Vinto vs Blooming 07:00 ngày 05/05 Bolivian Primera Division
+https://live.alilicloud.com/live/8a4e0f71834a7b585058c35c961d0f94/playlist.m3u8
+#EXTINF:-1 tvg-id="601443589" group-title="Deportes Quindio vs Tigres Zipaquira 07:00 ngày 05/05 Colombian Torneo BetPlay Dimayor", Deportes Quindio vs Tigres Zipaquira 07:00 ngày 05/05 Colombian Torneo BetPlay Dimayor
+https://live.alilicloud.com/live/3962af24969b4ec85acdbe2fabbd136d/playlist.m3u8
+#EXTINF:-1 tvg-id="601435510" group-title="Gimnasia yTiro vs Agropecuario de Carlos Casares 07:30 ngày 05/05 Argentine Division 2", Gimnasia yTiro vs Agropecuario de Carlos Casares 07:30 ngày 05/05 Argentine Division 2
+https://live.alilicloud.com/live/bbadc9637be010ba794373656cbee7e0/playlist.m3u8
+#EXTINF:-1 tvg-id="601435519" group-title="SV Jong Aruba vs SV Brazil Juniors 07:30 ngày 05/05 Aruba Division Di Honor", SV Jong Aruba vs SV Brazil Juniors 07:30 ngày 05/05 Aruba Division Di Honor
+https://live.alilicloud.com/live/1968555b032ee67745f1f17a914adbf0/playlist.m3u8
+#EXTINF:-1 tvg-id="601435522" group-title="International San Carlos vs Escorpiones Belen 08:00 ngày 05/05 Costa Rica 2.Liga", International San Carlos vs Escorpiones Belen 08:00 ngày 05/05 Costa Rica 2.Liga
+https://live.alilicloud.com/live/bc35d8905df609dde9b4a03e5652168e/playlist.m3u8
 #EXTINF:-1 tvg-id="601437982" group-title="E.c. Pinheiros Sao Paolo vs Paulistano Amil 06:00 ngày 05/05 Novo Basquete Brasil", E.c. Pinheiros Sao Paolo vs Paulistano Amil 06:00 ngày 05/05 Novo Basquete Brasil
 https://live.alilicloud.com/live/6b06a3c34ebd0a4efdab9b2ab1ab5bb5/playlist.m3u8
+#EXTINF:-1 tvg-id="601425148" group-title="Indios de Mayaguez vs Capitanes de Arecibo 07:00 ngày 05/05 Baloncesto Superior Nacional", Indios de Mayaguez vs Capitanes de Arecibo 07:00 ngày 05/05 Baloncesto Superior Nacional
+https://live.alilicloud.com/live/155a3c5eb4b2d9f74eb3f32aabd1cc83/playlist.m3u8
+#EXTINF:-1 tvg-id="601425151" group-title="Guaynabo vs Manati 07:00 ngày 05/05 Baloncesto Superior Nacional", Guaynabo vs Manati 07:00 ngày 05/05 Baloncesto Superior Nacional
+https://live.alilicloud.com/live/634dc0a9283bfea36e6d3c900b5a57ac/playlist.m3u8
+#EXTINF:-1 tvg-id="601425154" group-title="Atenas Cordoba vs Atletico Argentino Junin 07:00 ngày 05/05 Argentinian Liga Nacional de Bosquetbol", Atenas Cordoba vs Atletico Argentino Junin 07:00 ngày 05/05 Argentinian Liga Nacional de Bosquetbol
+https://live.alilicloud.com/live/5a75e05a0a8fd40545cae40ecead0398/playlist.m3u8
