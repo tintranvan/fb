@@ -1,73 +1,45 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601435615" group-title="Football Club Seoul vs FC Anyang 17:00 ngày 05/05 Korean K League 1", Football Club Seoul vs FC Anyang 17:00 ngày 05/05 Korean K League 1 (Link 1)
-https://cdn-hls.taoxanh.biz/live/69f9acc842283_28/index.m3u8?expire=1778575176&amp;sign=bcd450d21af6e364eedc7328ddd22568
-#EXTINF:-1 tvg-id="601435615" group-title="Football Club Seoul vs FC Anyang 17:00 ngày 05/05 Korean K League 1", Football Club Seoul vs FC Anyang 17:00 ngày 05/05 Korean K League 1 (Link 2)
-https://live.alilicloud.com/live/bd1eae2d9c1ca9a803e52524fb97a194/playlist.m3u8
-#EXTINF:-1 tvg-id="601435630" group-title="Qingdao West Coast FC vs Tianjin Jinmen Tiger FC 18:00 ngày 05/05 Chinese Football Super League", Qingdao West Coast FC vs Tianjin Jinmen Tiger FC 18:00 ngày 05/05 Chinese Football Super League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69f9c4ad42283_4908/index.m3u8?expire=1778581293&amp;sign=ce5ca0b2efb7db12f573a18d75f09896
-#EXTINF:-1 tvg-id="601435630" group-title="Qingdao West Coast FC vs Tianjin Jinmen Tiger FC 18:00 ngày 05/05 Chinese Football Super League", Qingdao West Coast FC vs Tianjin Jinmen Tiger FC 18:00 ngày 05/05 Chinese Football Super League (Link 2)
-https://live.alilicloud.com/live/ac0233b05cafc9c84e1bdf2cd07de235/playlist.m3u8
-#EXTINF:-1 tvg-id="601435642" group-title="Philippines U17 Women vs North Korea Women U17 18:30 ngày 05/05 AFC U17 Women's Asian Cup", Philippines U17 Women vs North Korea Women U17 18:30 ngày 05/05 AFC U17 Women's Asian Cup (Link 1)
-https://cdn-hls.taoxanh.biz/live/69f9cc4d203f5_151255/index.m3u8?expire=1778583245&amp;sign=9a4aaa854e7b3d01fbd5455721584d6e
-#EXTINF:-1 tvg-id="601435642" group-title="Philippines U17 Women vs North Korea Women U17 18:30 ngày 05/05 AFC U17 Women's Asian Cup", Philippines U17 Women vs North Korea Women U17 18:30 ngày 05/05 AFC U17 Women's Asian Cup (Link 2)
-https://live.alilicloud.com/live/e7acae3b2db98fe7ba092489d06d08bb/playlist.m3u8
-#EXTINF:-1 tvg-id="601435639" group-title="India (w) U17 vs Japan (w) U17 18:30 ngày 05/05 AFC U17 Women's Asian Cup", India (w) U17 vs Japan (w) U17 18:30 ngày 05/05 AFC U17 Women's Asian Cup (Link 1)
-https://cdn-hls.taoxanh.biz/live/69f9ca2b42283_88186/index.m3u8?expire=1778582699&amp;sign=bfe640d2ce8f8bb9e31a1fc5a48b5dfa
-#EXTINF:-1 tvg-id="601435639" group-title="India (w) U17 vs Japan (w) U17 18:30 ngày 05/05 AFC U17 Women's Asian Cup", India (w) U17 vs Japan (w) U17 18:30 ngày 05/05 AFC U17 Women's Asian Cup (Link 2)
-https://live.alilicloud.com/live/097a9aa2037ba4d21404976208123bbc/playlist.m3u8
-#EXTINF:-1 tvg-id="601435669" group-title="Borneo FC vs Persita Tangerang 19:00 ngày 05/05 Indonesian Liga 1", Borneo FC vs Persita Tangerang 19:00 ngày 05/05 Indonesian Liga 1
-https://cdn-hls.taoxanh.biz/live/69f9d70642283_6308/index.m3u8?expire=1778585990&amp;sign=40099dc96bfff019f6984d86b24a0ad8
-#EXTINF:-1 tvg-id="601435624" group-title="Shuiwei Village vs Xiaobao Village FC 17:30 ngày 05/05 Rural Football Super League", Shuiwei Village vs Xiaobao Village FC 17:30 ngày 05/05 Rural Football Super League
-https://live.alilicloud.com/live/dae747170afacaa8e7f062451b17326f/playlist.m3u8
-#EXTINF:-1 tvg-id="601435570" group-title="Jinhua Team vs Quzhou Team 18:30 ngày 05/05 Wuyue Cup", Jinhua Team vs Quzhou Team 18:30 ngày 05/05 Wuyue Cup
-https://live.alilicloud.com/live/7553e3ffebc48e1f0af76c426e33ce68/playlist.m3u8
-#EXTINF:-1 tvg-id="601435645" group-title="Wenzhou Professional Football Club vs Guangzhou Dandelion Alpha FC 18:30 ngày 05/05 Chinese Football League 2", Wenzhou Professional Football Club vs Guangzhou Dandelion Alpha FC 18:30 ngày 05/05 Chinese Football League 2
-https://live.alilicloud.com/live/78fe489763c2fddedbadc3c0deb876b9/playlist.m3u8
-#EXTINF:-1 tvg-id="601435648" group-title="Ganzhou Ruishi vs Guizhou Zhucheng Athletic FC 18:30 ngày 05/05 Chinese Football League 2", Ganzhou Ruishi vs Guizhou Zhucheng Athletic FC 18:30 ngày 05/05 Chinese Football League 2
-https://live.alilicloud.com/live/744f1d43c12b8e809fd37c11fd33a627/playlist.m3u8
-#EXTINF:-1 tvg-id="601435558" group-title="Longyan Team vs Pingtan Team 18:35 ngày 05/05 Fujian Football City League", Longyan Team vs Pingtan Team 18:35 ngày 05/05 Fujian Football City League
-https://live.alilicloud.com/live/c100cf62828a52861b573eadffc915e6/playlist.m3u8
-#EXTINF:-1 tvg-id="601435651" group-title="Shandong Taishan FC vs Shanghai Shenhua FC 18:35 ngày 05/05 Chinese Football Super League", Shandong Taishan FC vs Shanghai Shenhua FC 18:35 ngày 05/05 Chinese Football Super League
-https://live.alilicloud.com/live/a5dd3836ead48049175bb67bcd6c376b/playlist.m3u8
-#EXTINF:-1 tvg-id="601435654" group-title="Liaoning Tieren vs Chengdu Rongcheng FC 18:35 ngày 05/05 Chinese Football Super League", Liaoning Tieren vs Chengdu Rongcheng FC 18:35 ngày 05/05 Chinese Football Super League
-https://live.alilicloud.com/live/2f10c0640b9e638c615d6a0c891a1496/playlist.m3u8
-#EXTINF:-1 tvg-id="601435657" group-title="Deyang Team vs Zigong Team 18:35 ngày 05/05 Sichuan City Football League", Deyang Team vs Zigong Team 18:35 ngày 05/05 Sichuan City Football League
-https://live.alilicloud.com/live/0876e821535b5f3c59857c4851ea64a6/playlist.m3u8
-#EXTINF:-1 tvg-id="601435660" group-title="Liangshan Team vs Mianyang Team 18:35 ngày 05/05 Sichuan City Football League", Liangshan Team vs Mianyang Team 18:35 ngày 05/05 Sichuan City Football League
-https://live.alilicloud.com/live/b3fa92a4e8132c9eca2bd4d9b1097852/playlist.m3u8
-#EXTINF:-1 tvg-id="601435663" group-title="YIbin Team vs Nanchong Team 18:35 ngày 05/05 Sichuan City Football League", YIbin Team vs Nanchong Team 18:35 ngày 05/05 Sichuan City Football League
-https://live.alilicloud.com/live/b2fe98d90bc49717db393749374aa4fe/playlist.m3u8
-#EXTINF:-1 tvg-id="601435666" group-title="Chengdu Team vs Dazhou Team 18:35 ngày 05/05 Sichuan City Football League", Chengdu Team vs Dazhou Team 18:35 ngày 05/05 Sichuan City Football League
-https://live.alilicloud.com/live/349174f7cb33d8b67329d3b07bfd5c51/playlist.m3u8
-#EXTINF:-1 tvg-id="601435672" group-title="Chongqing Tongliangloong FC vs Henan FC 19:00 ngày 05/05 Chinese Football Super League", Chongqing Tongliangloong FC vs Henan FC 19:00 ngày 05/05 Chinese Football Super League
-https://live.alilicloud.com/live/e9c2c299fe2760c5ce74097f8c3bbe7b/playlist.m3u8
-#EXTINF:-1 tvg-id="601443895" group-title="Katherine Sebov vs Berfu Cengiz 17:15 ngày 05/05 WTA 125K Istanbul, Turkiye Women Singles", Katherine Sebov vs Berfu Cengiz 17:15 ngày 05/05 WTA 125K Istanbul, Turkiye Women Singles
-https://live.alilicloud.com/live/2d1c02ad034a378559bbfca26754c55f/playlist.m3u8
-#EXTINF:-1 tvg-id="601440985" group-title="Felix Gill vs Zdenek Kolar 17:45 ngày 05/05 ATP Challenger Francavilla, Italy Men Singles", Felix Gill vs Zdenek Kolar 17:45 ngày 05/05 ATP Challenger Francavilla, Italy Men Singles
-https://live.alilicloud.com/live/5a3d0b391a744176ec283628e9fd7876/playlist.m3u8
-#EXTINF:-1 tvg-id="601442380" group-title="Lina Gjorcheska vs Sun Xinran 17:45 ngày 05/05 WTA 125K Istanbul, Turkiye Women Singles", Lina Gjorcheska vs Sun Xinran 17:45 ngày 05/05 WTA 125K Istanbul, Turkiye Women Singles
-https://live.alilicloud.com/live/0e2614c14415c491ee0c4e3ee93996af/playlist.m3u8
-#EXTINF:-1 tvg-id="601443841" group-title="Anna Bondar vs Zheng Qinwen 17:45 ngày 05/05 WTA Rome, Italy Women Singles", Anna Bondar vs Zheng Qinwen 17:45 ngày 05/05 WTA Rome, Italy Women Singles
-https://live.alilicloud.com/live/a2ad5f6b158377c755be79e67d231e3b/playlist.m3u8
-#EXTINF:-1 tvg-id="601443847" group-title="Petra Marcinko vs Oleksandra Oliynykova 17:55 ngày 05/05 WTA Rome, Italy Women Singles", Petra Marcinko vs Oleksandra Oliynykova 17:55 ngày 05/05 WTA Rome, Italy Women Singles
-https://live.alilicloud.com/live/10f213b51dfdd4ab7e2ad2c89c95bc4c/playlist.m3u8
-#EXTINF:-1 tvg-id="601443856" group-title="Sofia Kenin vs Bianca Andreescu 18:05 ngày 05/05 WTA Rome, Italy Women Singles", Sofia Kenin vs Bianca Andreescu 18:05 ngày 05/05 WTA Rome, Italy Women Singles
-https://live.alilicloud.com/live/45002eb224d079d4a08fbb7a4377cadb/playlist.m3u8
-#EXTINF:-1 tvg-id="601440970" group-title="Facundo Diaz Acosta vs Henry Bernet 18:20 ngày 05/05 ATP Challenger Francavilla, Italy Men Singles", Facundo Diaz Acosta vs Henry Bernet 18:20 ngày 05/05 ATP Challenger Francavilla, Italy Men Singles
-https://live.alilicloud.com/live/33b6bd89ed0fc45d0b11af7ced070871/playlist.m3u8
-#EXTINF:-1 tvg-id="601443886" group-title="Maria Sara Popa vs Carole Monnet 18:50 ngày 05/05 WTA 125K Istanbul, Turkiye Women Singles", Maria Sara Popa vs Carole Monnet 18:50 ngày 05/05 WTA 125K Istanbul, Turkiye Women Singles
-https://live.alilicloud.com/live/ad1cba732ca2af71a04dc8acae981361/playlist.m3u8
-#EXTINF:-1 tvg-id="601447957" group-title="New Taipei Kings vs New Taipei CTBC DEA 18:00 ngày 05/05 China Taipei Professional Basketball League", New Taipei Kings vs New Taipei CTBC DEA 18:00 ngày 05/05 China Taipei Professional Basketball League
-https://live.alilicloud.com/live/3f213994556b777962fd1185961c448a/playlist.m3u8
-#EXTINF:-1 tvg-id="601425169" group-title="Ulaanbaatar Xac Broncos vs South China AA 18:00 ngày 05/05 Basketball Champions League Asia", Ulaanbaatar Xac Broncos vs South China AA 18:00 ngày 05/05 Basketball Champions League Asia
-https://live.alilicloud.com/live/abc442c22f192460e5e55cedb0a701ae/playlist.m3u8
-#EXTINF:-1 tvg-id="601425181" group-title="Yiyang vs Shaoyang 18:30 ngày 05/05 Hunan City Basketball League", Yiyang vs Shaoyang 18:30 ngày 05/05 Hunan City Basketball League
-https://live.alilicloud.com/live/03e46fc5bd0dc2cbd4fd5dee26f8f9d5/playlist.m3u8
-#EXTINF:-1 tvg-id="601425178" group-title="Huaihua vs Yongzhou 18:30 ngày 05/05 Hunan City Basketball League", Huaihua vs Yongzhou 18:30 ngày 05/05 Hunan City Basketball League
-https://live.alilicloud.com/live/7f412b7044049a820c37d0dfaf7fcf0c/playlist.m3u8
-#EXTINF:-1 tvg-id="601425175" group-title="Xiangtan vs Western Hunan 18:30 ngày 05/05 Hunan City Basketball League", Xiangtan vs Western Hunan 18:30 ngày 05/05 Hunan City Basketball League
-https://live.alilicloud.com/live/668d69248e308ba536a4fb3905f6258b/playlist.m3u8
-#EXTINF:-1 tvg-id="601425172" group-title="TNT Tropang Giga vs Magnolia Hotshots 18:45 ngày 05/05 Philippine Basketball Commissioner's Cup", TNT Tropang Giga vs Magnolia Hotshots 18:45 ngày 05/05 Philippine Basketball Commissioner's Cup
-https://live.alilicloud.com/live/84b4e7ea4a94527bd92243746521d20a/playlist.m3u8
+#EXTINF:-1 tvg-id="601435714" group-title="Mekelle 70 Enderta vs Arba Minch 20:00 ngày 05/05 Ethiopia Premier League", Mekelle 70 Enderta vs Arba Minch 20:00 ngày 05/05 Ethiopia Premier League
+https://cdn-hls.taoxanh.biz/live/69f9dcbd203f5_72787/index.m3u8?expire=1778587453&amp;sign=1af8e4c2d9d8b9e011733428d5b014c7
+#EXTINF:-1 tvg-id="601435702" group-title="Bawang Village Football Team vs Changba Village 19:30 ngày 05/05 Rural Football Super League", Bawang Village Football Team vs Changba Village 19:30 ngày 05/05 Rural Football Super League
+https://live.alilicloud.com/live/9a65ab2cfc2f8f1f5056407e16ac647b/playlist.m3u8
+#EXTINF:-1 tvg-id="601442002" group-title="Rukinzo FC vs Ngozi City FC 20:00 ngày 05/05 Burundi Cup", Rukinzo FC vs Ngozi City FC 20:00 ngày 05/05 Burundi Cup
+https://live.alilicloud.com/live/785a027855e94cd674da4e69cc1ae9c6/playlist.m3u8
+#EXTINF:-1 tvg-id="601441999" group-title="Vitalo vs Aigle Noir 20:00 ngày 05/05 Burundi Cup", Vitalo vs Aigle Noir 20:00 ngày 05/05 Burundi Cup
+https://live.alilicloud.com/live/60fc790a47e49e6cadc4c5eae0560e49/playlist.m3u8
+#EXTINF:-1 tvg-id="601435723" group-title="Gokulam Kerala FC vs Aizawl FC 20:00 ngày 05/05 Indian League Division 1", Gokulam Kerala FC vs Aizawl FC 20:00 ngày 05/05 Indian League Division 1
+https://live.alilicloud.com/live/1b0d28a5b65af79a3c06742ae57517ef/playlist.m3u8
+#EXTINF:-1 tvg-id="601435780" group-title="Mumbai City FC  vs East Bengal FC 21:00 ngày 05/05 Indian Super League", Mumbai City FC  vs East Bengal FC 21:00 ngày 05/05 Indian Super League
+https://live.alilicloud.com/live/7eee5be0f172f4d56722487a84810c3b/playlist.m3u8
+#EXTINF:-1 tvg-id="601435792" group-title="France (w) U17 vs Poland (w) U17 21:00 ngày 05/05 UEFA European U17 Women's Championship", France (w) U17 vs Poland (w) U17 21:00 ngày 05/05 UEFA European U17 Women's Championship
+https://live.alilicloud.com/live/9421e17f55b1cae97320b96623a4b6ec/playlist.m3u8
+#EXTINF:-1 tvg-id="601435798" group-title="Ajman vs Al-Jazira(UAE) 21:05 ngày 05/05 United Arab Emirates Adnoc Pro-League", Ajman vs Al-Jazira(UAE) 21:05 ngày 05/05 United Arab Emirates Adnoc Pro-League
+https://live.alilicloud.com/live/ffb4432778504bdbfb0ed9ba3b96e35d/playlist.m3u8
+#EXTINF:-1 tvg-id="601435609" group-title="MFK Karvina U19 vs Slovacko U19 21:15 ngày 05/05 Czech U19 League", MFK Karvina U19 vs Slovacko U19 21:15 ngày 05/05 Czech U19 League
+https://live.alilicloud.com/live/6d5cf353362ca6b95f151d8ab8100138/playlist.m3u8
+#EXTINF:-1 tvg-id="601443523" group-title="Al-Wakra vs Al-Gharafa 21:15 ngày 05/05 Qatar Prince Cup", Al-Wakra vs Al-Gharafa 21:15 ngày 05/05 Qatar Prince Cup
+https://live.alilicloud.com/live/984075f63bbe0a13f6d843d72e7d0a73/playlist.m3u8
+#EXTINF:-1 tvg-id="601444096" group-title="Ryan Seggerman vs Yannick Theodor Alexandrescou 19:10 ngày 05/05 ATP Challenger Francavilla, Italy Men Singles", Ryan Seggerman vs Yannick Theodor Alexandrescou 19:10 ngày 05/05 ATP Challenger Francavilla, Italy Men Singles
+https://live.alilicloud.com/live/8c9eb8c1e9624470f355c4a7b06bb8d4/playlist.m3u8
+#EXTINF:-1 tvg-id="601444090" group-title="Harry Wendelken vs Frederico Ferreira Silva 19:40 ngày 05/05 ATP Challenger Francavilla, Italy Men Singles", Harry Wendelken vs Frederico Ferreira Silva 19:40 ngày 05/05 ATP Challenger Francavilla, Italy Men Singles
+https://live.alilicloud.com/live/5397fc8d6ef445559e16b2c77020c5c0/playlist.m3u8
+#EXTINF:-1 tvg-id="601443862" group-title="Anastasia Zakharova vs Dayana Yastremska 20:15 ngày 05/05 WTA Rome, Italy Women Singles", Anastasia Zakharova vs Dayana Yastremska 20:15 ngày 05/05 WTA Rome, Italy Women Singles
+https://live.alilicloud.com/live/db1715e794f364d12adb366581aa039d/playlist.m3u8
+#EXTINF:-1 tvg-id="601443823" group-title="Mccartney Kessler vs Lucia Bronzetti 20:15 ngày 05/05 WTA Rome, Italy Women Singles", Mccartney Kessler vs Lucia Bronzetti 20:15 ngày 05/05 WTA Rome, Italy Women Singles
+https://live.alilicloud.com/live/208fe1283b706705c8bd900c6c5c62c7/playlist.m3u8
+#EXTINF:-1 tvg-id="601443889" group-title="Laura Pigossi vs Lucia Cortez Llorca 20:20 ngày 05/05 WTA 125K Istanbul, Turkiye Women Singles", Laura Pigossi vs Lucia Cortez Llorca 20:20 ngày 05/05 WTA 125K Istanbul, Turkiye Women Singles
+https://live.alilicloud.com/live/2a42a57d1417baf5427b9925dbd10610/playlist.m3u8
+#EXTINF:-1 tvg-id="601444102" group-title="Nicolas Villalon Valdes vs Fermin Tenti 20:30 ngày 05/05 ATP Challenger Santos, Brazil Men Singles", Nicolas Villalon Valdes vs Fermin Tenti 20:30 ngày 05/05 ATP Challenger Santos, Brazil Men Singles
+https://live.alilicloud.com/live/00afac1dc0e635727bbdb36bbcec5e74/playlist.m3u8
+#EXTINF:-1 tvg-id="601447846" group-title="Wilson Leite vs Lautaro Agustin Falabella 20:30 ngày 05/05 ATP Challenger Santos, Brazil Men Singles", Wilson Leite vs Lautaro Agustin Falabella 20:30 ngày 05/05 ATP Challenger Santos, Brazil Men Singles
+https://live.alilicloud.com/live/af521326c0b5603b4353e63a20ba3a5f/playlist.m3u8
+#EXTINF:-1 tvg-id="601444099" group-title="Nicolas Zanellato vs Joao Victor Couto Loureiro 20:30 ngày 05/05 ATP Challenger Santos, Brazil Men Singles", Nicolas Zanellato vs Joao Victor Couto Loureiro 20:30 ngày 05/05 ATP Challenger Santos, Brazil Men Singles
+https://live.alilicloud.com/live/7df40b8523dec127abd8a50e04de8ef6/playlist.m3u8
+#EXTINF:-1 tvg-id="601447861" group-title="Mayar Sherif vs Tamara Korpatsch 21:10 ngày 05/05 WTA Rome, Italy Women Singles", Mayar Sherif vs Tamara Korpatsch 21:10 ngày 05/05 WTA Rome, Italy Women Singles
+https://live.alilicloud.com/live/18d6eca8aaf1a96249e49b249a72ef34/playlist.m3u8
+#EXTINF:-1 tvg-id="601442491" group-title="Polina Kudermetova/Maria Timofeeva vs Ayla Aksu/Cagla Buyukakcay 21:20 ngày 05/05 WTA 125K Istanbul, Turkiye Women Doubles", Polina Kudermetova/Maria Timofeeva vs Ayla Aksu/Cagla Buyukakcay 21:20 ngày 05/05 WTA 125K Istanbul, Turkiye Women Doubles
+https://live.alilicloud.com/live/17ea861f15188330d19f512f816d13be/playlist.m3u8
 #EXTINF:-1 tvg-id="601435804" group-title="Beroe Stara Zagora vs PFK Montana 21:30 ngày 05/05 Bulgarian First League", Beroe Stara Zagora vs PFK Montana 21:30 ngày 05/05 Bulgarian First League
-https://live.alilicloud.com/live/e24d066fd3cf83777d3a88ae587ceb22/playlist.m3u8
+https://cdn-hls.taoxanh.biz/live/69f9eb29203f5_124958/index.m3u8?expire=1778591145&amp;sign=1b3d5750938ee117ef242a2ae043573e
+#EXTINF:-1 tvg-id="601413733" group-title="EBK Espoo vs FC POHU 22:00 ngày 05/05 Finland Suomen Cup", EBK Espoo vs FC POHU 22:00 ngày 05/05 Finland Suomen Cup
+https://cdn-hls.taoxanh.biz/live/69f9fb1042283_18754/index.m3u8?expire=1778595216&amp;sign=0ba2b431b8ccf01f2d91139b4117ad2d
