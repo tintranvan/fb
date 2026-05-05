@@ -3,6 +3,14 @@
 https://cdn-hls.taoxanh.biz/live/69fa5d82203f5_128756/index.m3u8?expire=1778620418&amp;sign=43322bee9b1504aea875b91d9d93670c
 #EXTINF:-1 tvg-id="601441744" group-title="Independiente Petrolero vs Caracas FC 05:00 ngày 06/05 CONMEBOL Copa Sudamericana", Independiente Petrolero vs Caracas FC 05:00 ngày 06/05 CONMEBOL Copa Sudamericana (Link 2)
 https://live.alilicloud.com/live/0bbabd5b638bd291745312e062c513f3/playlist.m3u8
+#EXTINF:-1 tvg-id="601441759" group-title="New York City Team B vs Chicago flame B 06:00 ngày 06/05 MLS Next PL", New York City Team B vs Chicago flame B 06:00 ngày 06/05 MLS Next PL (Link 1)
+https://cdn-hls.taoxanh.biz/live/69fa6e59203f5_133172/index.m3u8?expire=1778624729&amp;sign=ae96f6bf55ea2236907b90f998d9b5b3
+#EXTINF:-1 tvg-id="601441759" group-title="New York City Team B vs Chicago flame B 06:00 ngày 06/05 MLS Next PL", New York City Team B vs Chicago flame B 06:00 ngày 06/05 MLS Next PL (Link 2)
+https://live.alilicloud.com/live/e600f924263929fa5235f4868506a2dc/playlist.m3u8
+#EXTINF:-1 tvg-id="601444051" group-title="Detroit Pistons vs Cleveland Cavaliers 06:00 ngày 06/05 National Basketball Association", Detroit Pistons vs Cleveland Cavaliers 06:00 ngày 06/05 National Basketball Association (Link 1)
+https://cdn-hls.taoxanh.biz/live/69fa76de203f5_72787/index.m3u8?expire=1778626910&amp;sign=e9f735cf8a1827dcde057621577c51a5
+#EXTINF:-1 tvg-id="601444051" group-title="Detroit Pistons vs Cleveland Cavaliers 06:00 ngày 06/05 National Basketball Association", Detroit Pistons vs Cleveland Cavaliers 06:00 ngày 06/05 National Basketball Association (Link 2)
+https://live.alilicloud.com/live/c43edbb8a06e7d5699360e6310269898/playlist.m3u8
 #EXTINF:-1 tvg-id="601441741" group-title="CA Juventud vs Atletico Mineiro 05:00 ngày 06/05 CONMEBOL Copa Sudamericana", CA Juventud vs Atletico Mineiro 05:00 ngày 06/05 CONMEBOL Copa Sudamericana
 https://live.alilicloud.com/live/484c01c4e059d27d67355e47afe6a230/playlist.m3u8
 #EXTINF:-1 tvg-id="601441747" group-title="Deportivo Riestra vs Gremio (RS) 05:00 ngày 06/05 CONMEBOL Copa Sudamericana", Deportivo Riestra vs Gremio (RS) 05:00 ngày 06/05 CONMEBOL Copa Sudamericana
@@ -13,9 +21,11 @@ https://live.alilicloud.com/live/7f2e39cb19e358f53051cae482789422/playlist.m3u8
 https://live.alilicloud.com/live/64a35e70514b86bc08ed1ca93ae17131/playlist.m3u8
 #EXTINF:-1 tvg-id="601441756" group-title="River Plate R vs Racing Club Reserves 05:00 ngày 06/05 Argentine Reserve League", River Plate R vs Racing Club Reserves 05:00 ngày 06/05 Argentine Reserve League
 https://live.alilicloud.com/live/0dd17ff53eff80b3206e5218c86955ff/playlist.m3u8
+#EXTINF:-1 tvg-id="601444003" group-title="Brittons Hill vs St Andrew Lions 06:00 ngày 06/05 Barbados Premier League", Brittons Hill vs St Andrew Lions 06:00 ngày 06/05 Barbados Premier League
+https://live.alilicloud.com/live/555cfeb45cb28b6b25d0d641a1d9bd57/playlist.m3u8
 #EXTINF:-1 tvg-id="601437991" group-title="Vivo Franca vs Mogi das Cruzes 05:00 ngày 06/05 Novo Basquete Brasil", Vivo Franca vs Mogi das Cruzes 05:00 ngày 06/05 Novo Basquete Brasil
 https://live.alilicloud.com/live/4e8d4cc10be1bc878e097771962caadc/playlist.m3u8
-#EXTINF:-1 tvg-id="601441759" group-title="New York City Team B vs Chicago flame B 06:00 ngày 06/05 MLS Next PL", New York City Team B vs Chicago flame B 06:00 ngày 06/05 MLS Next PL
-https://cdn-hls.taoxanh.biz/live/69fa6e59203f5_133172/index.m3u8?expire=1778624729&amp;sign=ae96f6bf55ea2236907b90f998d9b5b3
+#EXTINF:-1 tvg-id="601441765" group-title="Barcelona SC(ECU) vs Boca Juniors 07:00 ngày 06/05 CONMEBOL Copa Libertadores", Barcelona SC(ECU) vs Boca Juniors 07:00 ngày 06/05 CONMEBOL Copa Libertadores
+https://cdn-hls.taoxanh.biz/live/69fa7d3c203f5_95554/index.m3u8?expire=1778628540&amp;sign=85439de9bb7bd8b351bf7a9e20b9d0bd
 #EXTINF:-1 tvg-id="601441786" group-title="Deportivo Cuenca vs San Lorenzo 09:00 ngày 06/05 CONMEBOL Copa Sudamericana", Deportivo Cuenca vs San Lorenzo 09:00 ngày 06/05 CONMEBOL Copa Sudamericana
 https://cdn-hls.taoxanh.biz/live/69fa3405203f5_6308/index.m3u8?expire=1778609797&amp;sign=84c48330468a65803aa1a32b0669fe78
