@@ -1,15 +1,29 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601436089" group-title="Maghreb Fez vs Raja Club Athletic 03:00 ngày 07/05 The Botola Pro", Maghreb Fez vs Raja Club Athletic 03:00 ngày 07/05 The Botola Pro
-https://live.alilicloud.com/live/75f14abc336569cc7fe51a6928a4015f/playlist.m3u8
-#EXTINF:-1 tvg-id="601436104" group-title="Cavalier FC vs Harbour View FC 03:30 ngày 07/05 Jamaica Premier League", Cavalier FC vs Harbour View FC 03:30 ngày 07/05 Jamaica Premier League
-https://live.alilicloud.com/live/a67cb2835b0cac0fee0e47ace7374214/playlist.m3u8
+#EXTINF:-1 tvg-id="601442896" group-title="New York Knicks vs Philadelphia 76ers 06:00 ngày 07/05 National Basketball Association", New York Knicks vs Philadelphia 76ers 06:00 ngày 07/05 National Basketball Association (Link 1)
+https://cdn-hls.taoxanh.biz/live/69fbc5e142283_72787/index.m3u8?expire=1778712673&amp;sign=2359c49d4282ad7e293684b7b857bfe4
+#EXTINF:-1 tvg-id="601442896" group-title="New York Knicks vs Philadelphia 76ers 06:00 ngày 07/05 National Basketball Association", New York Knicks vs Philadelphia 76ers 06:00 ngày 07/05 National Basketball Association (Link 2)
+https://live.alilicloud.com/live/6d86c51dfd73a4b3d95ccebf1bae1a6c/playlist.m3u8
 #EXTINF:-1 tvg-id="601454701" group-title="Palmeiras SP (w) vs Mirassol (W) 04:00 ngày 07/05 Brazilian Paulista Women's League", Palmeiras SP (w) vs Mirassol (W) 04:00 ngày 07/05 Brazilian Paulista Women's League
 https://live.alilicloud.com/live/6422d1bec9333922daa136ee253f0902/playlist.m3u8
-#EXTINF:-1 tvg-id="601454263" group-title="Luis Miguel vs Wilson Leite 04:00 ngày 07/05 ATP Challenger Santos, Brazil Men Singles", Luis Miguel vs Wilson Leite 04:00 ngày 07/05 ATP Challenger Santos, Brazil Men Singles
-https://live.alilicloud.com/live/dee42355e6073b7779979b37bd423d91/playlist.m3u8
+#EXTINF:-1 tvg-id="601436116" group-title="Montevideo City Torque vs Palestino 05:00 ngày 07/05 CONMEBOL Copa Sudamericana", Montevideo City Torque vs Palestino 05:00 ngày 07/05 CONMEBOL Copa Sudamericana
+https://live.alilicloud.com/live/9af7e35d7a0ff473597463f9ab7c2941/playlist.m3u8
+#EXTINF:-1 tvg-id="601436119" group-title="Audax Italiano vs Clube de Regatas Vasco da Gama 05:00 ngày 07/05 CONMEBOL Copa Sudamericana", Audax Italiano vs Clube de Regatas Vasco da Gama 05:00 ngày 07/05 CONMEBOL Copa Sudamericana
+https://live.alilicloud.com/live/a1b3944094018f741de7f6d73e1902fb/playlist.m3u8
+#EXTINF:-1 tvg-id="601436122" group-title="Cusco FC vs Estudiantes La Plata 05:00 ngày 07/05 CONMEBOL Copa Libertadores", Cusco FC vs Estudiantes La Plata 05:00 ngày 07/05 CONMEBOL Copa Libertadores
+https://live.alilicloud.com/live/81384b386abd37a7c336adaed20a5a95/playlist.m3u8
+#EXTINF:-1 tvg-id="601436125" group-title="Deportivo La Guaira vs Bolivar 05:00 ngày 07/05 CONMEBOL Copa Libertadores", Deportivo La Guaira vs Bolivar 05:00 ngày 07/05 CONMEBOL Copa Libertadores
+https://live.alilicloud.com/live/b21eb71d358db1365ecdfe38dda40476/playlist.m3u8
+#EXTINF:-1 tvg-id="601436128" group-title="Central Cordoba SdE Reserves vs Lanus Reserves 05:00 ngày 07/05 Argentine Reserve League", Central Cordoba SdE Reserves vs Lanus Reserves 05:00 ngày 07/05 Argentine Reserve League
+https://live.alilicloud.com/live/5a0282fe568e3df53f82a029ca157493/playlist.m3u8
+#EXTINF:-1 tvg-id="601436131" group-title="Talleres Cordoba Reserve vs Atletico Tucuman Reserve 05:00 ngày 07/05 Argentine Reserve League", Talleres Cordoba Reserve vs Atletico Tucuman Reserve 05:00 ngày 07/05 Argentine Reserve League
+https://live.alilicloud.com/live/25b9924a198b803ece3867088f90759f/playlist.m3u8
+#EXTINF:-1 tvg-id="601448578" group-title="ABC RN vs Juazeirense 05:00 ngày 07/05 Brazilian Copa do Nordeste", ABC RN vs Juazeirense 05:00 ngày 07/05 Brazilian Copa do Nordeste
+https://live.alilicloud.com/live/7a98f2115c87a4267b5024889258866b/playlist.m3u8
+#EXTINF:-1 tvg-id="601454515" group-title="Cayon FC vs ELCO LTD St Peters 05:30 ngày 07/05 Saint Kitts Nevis Premier League", Cayon FC vs ELCO LTD St Peters 05:30 ngày 07/05 Saint Kitts Nevis Premier League
+https://live.alilicloud.com/live/495bc72c25917a6c293ead820e248d5b/playlist.m3u8
 #EXTINF:-1 tvg-id="601442812" group-title="Hardt N / Rodriguez C vs Dutra Da Silva D / Mena F 04:35 ngày 07/05 ATP Challenger Santos, Brazil Men Double", Hardt N / Rodriguez C vs Dutra Da Silva D / Mena F 04:35 ngày 07/05 ATP Challenger Santos, Brazil Men Double
 https://live.alilicloud.com/live/667a3397e4dbbd3e058583091f940c56/playlist.m3u8
-#EXTINF:-1 tvg-id="601454581" group-title="U.M.F. Grindavik vs Valur Reykjavik 03:15 ngày 07/05 Iceland Basketball Premier League", U.M.F. Grindavik vs Valur Reykjavik 03:15 ngày 07/05 Iceland Basketball Premier League
-https://live.alilicloud.com/live/f2de8dce6dd83b20ec9a55c6c0a1dbc2/playlist.m3u8
+#EXTINF:-1 tvg-id="601448611" group-title="Malvin vs Defensor Sporting 05:15 ngày 07/05 Uruguay Liga Uruguaya", Malvin vs Defensor Sporting 05:15 ngày 07/05 Uruguay Liga Uruguaya
+https://live.alilicloud.com/live/3e51b107af9554b2a0604e7663f98fbd/playlist.m3u8
 #EXTINF:-1 tvg-id="601439293" group-title="Aston Villa vs Nottingham Forest 02:00 ngày 08/05 UEFA Europa League", Aston Villa vs Nottingham Forest 02:00 ngày 08/05 UEFA Europa League
 https://cdn-hls.taoxanh.biz/live/69fbad82203f5_4908/index.m3u8?expire=1778706434&amp;sign=69b0704ac83777f80f64ea4aea43f723
