@@ -2,28 +2,46 @@
 #EXTINF:-1 tvg-id="601442896" group-title="New York Knicks vs Philadelphia 76ers 06:00 ngày 07/05 National Basketball Association", New York Knicks vs Philadelphia 76ers 06:00 ngày 07/05 National Basketball Association (Link 1)
 https://cdn-hls.taoxanh.biz/live/69fbc5e142283_72787/index.m3u8?expire=1778712673&amp;sign=2359c49d4282ad7e293684b7b857bfe4
 #EXTINF:-1 tvg-id="601442896" group-title="New York Knicks vs Philadelphia 76ers 06:00 ngày 07/05 National Basketball Association", New York Knicks vs Philadelphia 76ers 06:00 ngày 07/05 National Basketball Association (Link 2)
+https://cdn-hls.taoxanh.biz/live/69fbc8e442283_4733/index.m3u8?expire=1778713444&amp;sign=2b930afdc730aaae8abd761bc3a248f4
+#EXTINF:-1 tvg-id="601442896" group-title="New York Knicks vs Philadelphia 76ers 06:00 ngày 07/05 National Basketball Association", New York Knicks vs Philadelphia 76ers 06:00 ngày 07/05 National Basketball Association (Link 3)
 https://live.alilicloud.com/live/6d86c51dfd73a4b3d95ccebf1bae1a6c/playlist.m3u8
-#EXTINF:-1 tvg-id="601454701" group-title="Palmeiras SP (w) vs Mirassol (W) 04:00 ngày 07/05 Brazilian Paulista Women's League", Palmeiras SP (w) vs Mirassol (W) 04:00 ngày 07/05 Brazilian Paulista Women's League
-https://live.alilicloud.com/live/6422d1bec9333922daa136ee253f0902/playlist.m3u8
-#EXTINF:-1 tvg-id="601436116" group-title="Montevideo City Torque vs Palestino 05:00 ngày 07/05 CONMEBOL Copa Sudamericana", Montevideo City Torque vs Palestino 05:00 ngày 07/05 CONMEBOL Copa Sudamericana
-https://live.alilicloud.com/live/9af7e35d7a0ff473597463f9ab7c2941/playlist.m3u8
-#EXTINF:-1 tvg-id="601436119" group-title="Audax Italiano vs Clube de Regatas Vasco da Gama 05:00 ngày 07/05 CONMEBOL Copa Sudamericana", Audax Italiano vs Clube de Regatas Vasco da Gama 05:00 ngày 07/05 CONMEBOL Copa Sudamericana
-https://live.alilicloud.com/live/a1b3944094018f741de7f6d73e1902fb/playlist.m3u8
-#EXTINF:-1 tvg-id="601436122" group-title="Cusco FC vs Estudiantes La Plata 05:00 ngày 07/05 CONMEBOL Copa Libertadores", Cusco FC vs Estudiantes La Plata 05:00 ngày 07/05 CONMEBOL Copa Libertadores
-https://live.alilicloud.com/live/81384b386abd37a7c336adaed20a5a95/playlist.m3u8
-#EXTINF:-1 tvg-id="601436125" group-title="Deportivo La Guaira vs Bolivar 05:00 ngày 07/05 CONMEBOL Copa Libertadores", Deportivo La Guaira vs Bolivar 05:00 ngày 07/05 CONMEBOL Copa Libertadores
-https://live.alilicloud.com/live/b21eb71d358db1365ecdfe38dda40476/playlist.m3u8
-#EXTINF:-1 tvg-id="601436128" group-title="Central Cordoba SdE Reserves vs Lanus Reserves 05:00 ngày 07/05 Argentine Reserve League", Central Cordoba SdE Reserves vs Lanus Reserves 05:00 ngày 07/05 Argentine Reserve League
-https://live.alilicloud.com/live/5a0282fe568e3df53f82a029ca157493/playlist.m3u8
-#EXTINF:-1 tvg-id="601436131" group-title="Talleres Cordoba Reserve vs Atletico Tucuman Reserve 05:00 ngày 07/05 Argentine Reserve League", Talleres Cordoba Reserve vs Atletico Tucuman Reserve 05:00 ngày 07/05 Argentine Reserve League
-https://live.alilicloud.com/live/25b9924a198b803ece3867088f90759f/playlist.m3u8
 #EXTINF:-1 tvg-id="601448578" group-title="ABC RN vs Juazeirense 05:00 ngày 07/05 Brazilian Copa do Nordeste", ABC RN vs Juazeirense 05:00 ngày 07/05 Brazilian Copa do Nordeste
 https://live.alilicloud.com/live/7a98f2115c87a4267b5024889258866b/playlist.m3u8
+#EXTINF:-1 tvg-id="601436131" group-title="Talleres Cordoba Reserve vs Atletico Tucuman Reserve 05:00 ngày 07/05 Argentine Reserve League", Talleres Cordoba Reserve vs Atletico Tucuman Reserve 05:00 ngày 07/05 Argentine Reserve League
+https://live.alilicloud.com/live/25b9924a198b803ece3867088f90759f/playlist.m3u8
+#EXTINF:-1 tvg-id="601436128" group-title="Central Cordoba SdE Reserves vs Lanus Reserves 05:00 ngày 07/05 Argentine Reserve League", Central Cordoba SdE Reserves vs Lanus Reserves 05:00 ngày 07/05 Argentine Reserve League
+https://live.alilicloud.com/live/5a0282fe568e3df53f82a029ca157493/playlist.m3u8
+#EXTINF:-1 tvg-id="601436125" group-title="Deportivo La Guaira vs Bolivar 05:00 ngày 07/05 CONMEBOL Copa Libertadores", Deportivo La Guaira vs Bolivar 05:00 ngày 07/05 CONMEBOL Copa Libertadores
+https://live.alilicloud.com/live/b21eb71d358db1365ecdfe38dda40476/playlist.m3u8
+#EXTINF:-1 tvg-id="601436122" group-title="Cusco FC vs Estudiantes La Plata 05:00 ngày 07/05 CONMEBOL Copa Libertadores", Cusco FC vs Estudiantes La Plata 05:00 ngày 07/05 CONMEBOL Copa Libertadores
+https://live.alilicloud.com/live/81384b386abd37a7c336adaed20a5a95/playlist.m3u8
+#EXTINF:-1 tvg-id="601436119" group-title="Audax Italiano vs Clube de Regatas Vasco da Gama 05:00 ngày 07/05 CONMEBOL Copa Sudamericana", Audax Italiano vs Clube de Regatas Vasco da Gama 05:00 ngày 07/05 CONMEBOL Copa Sudamericana
+https://live.alilicloud.com/live/a1b3944094018f741de7f6d73e1902fb/playlist.m3u8
+#EXTINF:-1 tvg-id="601436116" group-title="Montevideo City Torque vs Palestino 05:00 ngày 07/05 CONMEBOL Copa Sudamericana", Montevideo City Torque vs Palestino 05:00 ngày 07/05 CONMEBOL Copa Sudamericana
+https://live.alilicloud.com/live/9af7e35d7a0ff473597463f9ab7c2941/playlist.m3u8
 #EXTINF:-1 tvg-id="601454515" group-title="Cayon FC vs ELCO LTD St Peters 05:30 ngày 07/05 Saint Kitts Nevis Premier League", Cayon FC vs ELCO LTD St Peters 05:30 ngày 07/05 Saint Kitts Nevis Premier League
 https://live.alilicloud.com/live/495bc72c25917a6c293ead820e248d5b/playlist.m3u8
-#EXTINF:-1 tvg-id="601442812" group-title="Hardt N / Rodriguez C vs Dutra Da Silva D / Mena F 04:35 ngày 07/05 ATP Challenger Santos, Brazil Men Double", Hardt N / Rodriguez C vs Dutra Da Silva D / Mena F 04:35 ngày 07/05 ATP Challenger Santos, Brazil Men Double
-https://live.alilicloud.com/live/667a3397e4dbbd3e058583091f940c56/playlist.m3u8
+#EXTINF:-1 tvg-id="601454710" group-title="Ferroviaria SP (w) vs Santos (w) 06:00 ngày 07/05 Brazilian Paulista Women's League", Ferroviaria SP (w) vs Santos (w) 06:00 ngày 07/05 Brazilian Paulista Women's League
+https://live.alilicloud.com/live/7fb3a43cfefb99a31dd475cf9d73247a/playlist.m3u8
+#EXTINF:-1 tvg-id="601436134" group-title="DC Power (W) vs Sporting JAX (W) 06:00 ngày 07/05 USL Super League Women", DC Power (W) vs Sporting JAX (W) 06:00 ngày 07/05 USL Super League Women
+https://live.alilicloud.com/live/68c3bdf8eeeddfc8dade6eb61537b0e0/playlist.m3u8
+#EXTINF:-1 tvg-id="601448113" group-title="Penapolense vs Inter Bebedouro/SP 06:00 ngày 07/05 Brazilian Campeonato Paulista A4", Penapolense vs Inter Bebedouro/SP 06:00 ngày 07/05 Brazilian Campeonato Paulista A4
+https://live.alilicloud.com/live/1c6d2c46ddbc8b8513b7dff48005fb5d/playlist.m3u8
+#EXTINF:-1 tvg-id="601448101" group-title="Brazil (w) U17 vs Chile (w) U17 06:00 ngày 07/05 CONMEBOL U17 Women's Sudamericano", Brazil (w) U17 vs Chile (w) U17 06:00 ngày 07/05 CONMEBOL U17 Women's Sudamericano
+https://live.alilicloud.com/live/daf156d884cd62ef22718782a10c1e43/playlist.m3u8
+#EXTINF:-1 tvg-id="601448116" group-title="Montreal Impact vs Calgary Blizzard 06:30 ngày 07/05 Canadian Championship", Montreal Impact vs Calgary Blizzard 06:30 ngày 07/05 Canadian Championship
+https://live.alilicloud.com/live/405d552ae2961fe83d337319bb3556e3/playlist.m3u8
+#EXTINF:-1 tvg-id="601436140" group-title="Fort Wayne FC vs Portland Hearts of Pine 06:30 ngày 07/05 USL League One", Fort Wayne FC vs Portland Hearts of Pine 06:30 ngày 07/05 USL League One
+https://live.alilicloud.com/live/edb2d2c439402950c8c1c5f991f681ef/playlist.m3u8
+#EXTINF:-1 tvg-id="601436137" group-title="Charlotte Independence vs Athletic Club Boise 06:30 ngày 07/05 USL League One", Charlotte Independence vs Athletic Club Boise 06:30 ngày 07/05 USL League One
+https://live.alilicloud.com/live/1684602e8f4e3a76f82e930434aebc93/playlist.m3u8
 #EXTINF:-1 tvg-id="601448611" group-title="Malvin vs Defensor Sporting 05:15 ngày 07/05 Uruguay Liga Uruguaya", Malvin vs Defensor Sporting 05:15 ngày 07/05 Uruguay Liga Uruguaya
 https://live.alilicloud.com/live/3e51b107af9554b2a0604e7663f98fbd/playlist.m3u8
+#EXTINF:-1 tvg-id="601454587" group-title="Sao Jose Women vs Sodie Mesquita Women 05:30 ngày 07/05 Brazil Liga Feminina de Basquete", Sao Jose Women vs Sodie Mesquita Women 05:30 ngày 07/05 Brazil Liga Feminina de Basquete
+https://live.alilicloud.com/live/7da496751620b13a39c308e64290a887/playlist.m3u8
+#EXTINF:-1 tvg-id="601454596" group-title="ADRM/Maringa Women vs Unimed Campinas Basquete (W) 06:00 ngày 07/05 Brazil Liga Feminina de Basquete", ADRM/Maringa Women vs Unimed Campinas Basquete (W) 06:00 ngày 07/05 Brazil Liga Feminina de Basquete
+https://live.alilicloud.com/live/36b8340da9a39bd88c4b821b96dc35fa/playlist.m3u8
 #EXTINF:-1 tvg-id="601439293" group-title="Aston Villa vs Nottingham Forest 02:00 ngày 08/05 UEFA Europa League", Aston Villa vs Nottingham Forest 02:00 ngày 08/05 UEFA Europa League
 https://cdn-hls.taoxanh.biz/live/69fbad82203f5_4908/index.m3u8?expire=1778706434&amp;sign=69b0704ac83777f80f64ea4aea43f723
+#EXTINF:-1 tvg-id="601436149" group-title="Sporting Kansas City(R) vs Ventura County FC 07:00 ngày 07/05 MLS Next PL", Sporting Kansas City(R) vs Ventura County FC 07:00 ngày 07/05 MLS Next PL
+https://cdn-hls.taoxanh.biz/live/69fbcea4203f5_74012/index.m3u8?expire=1778714916&amp;sign=df4b8632d0b99cd40ba0863fb13eb998
