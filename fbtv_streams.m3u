@@ -1,25 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601436056" group-title="FC Bayern Munich vs Paris Saint Germain 02:00 ngày 07/05 UEFA Champions League", FC Bayern Munich vs Paris Saint Germain 02:00 ngày 07/05 UEFA Champions League (Link 1)
-https://cdn-hls.taoxanh.biz/live/69fb885a42283_151255/index.m3u8?expire=1778696922&amp;sign=2162926b67dcc480e4de5f9f5baa6d9a
-#EXTINF:-1 tvg-id="601436056" group-title="FC Bayern Munich vs Paris Saint Germain 02:00 ngày 07/05 UEFA Champions League", FC Bayern Munich vs Paris Saint Germain 02:00 ngày 07/05 UEFA Champions League (Link 2)
-https://cdn-hls.taoxanh.biz/live/69fb840742283_4908/index.m3u8?expire=1778695815&amp;sign=fe6f79914f753e85ecee357d868e52e7
-#EXTINF:-1 tvg-id="601436056" group-title="FC Bayern Munich vs Paris Saint Germain 02:00 ngày 07/05 UEFA Champions League", FC Bayern Munich vs Paris Saint Germain 02:00 ngày 07/05 UEFA Champions League (Link 3)
-https://cdn-hls.taoxanh.biz/live/69fb84ed42283_162172/index.m3u8?expire=1778696045&amp;sign=6046fb81634a39c1c948a0bffe3b5629
-#EXTINF:-1 tvg-id="601436056" group-title="FC Bayern Munich vs Paris Saint Germain 02:00 ngày 07/05 UEFA Champions League", FC Bayern Munich vs Paris Saint Germain 02:00 ngày 07/05 UEFA Champions League (Link 4)
-https://cdn-hls.taoxanh.biz/live/69fb8244203f5_44731/index.m3u8?expire=1778695364&amp;sign=0e3f8e487d66d812df6b0a8573f8fd65
-#EXTINF:-1 tvg-id="601436056" group-title="FC Bayern Munich vs Paris Saint Germain 02:00 ngày 07/05 UEFA Champions League", FC Bayern Munich vs Paris Saint Germain 02:00 ngày 07/05 UEFA Champions League (Link 5)
-https://live.alilicloud.com/live/e04742a487171151887442f27a890e99/playlist.m3u8
-#EXTINF:-1 tvg-id="601454698" group-title="Taubate(w) vs Bragantino (w) 02:00 ngày 07/05 Brazilian Paulista Women's League", Taubate(w) vs Bragantino (w) 02:00 ngày 07/05 Brazilian Paulista Women's League
-https://live.alilicloud.com/live/dc6ed8e035d052a98bb72ecd26c0a82e/playlist.m3u8
 #EXTINF:-1 tvg-id="601436089" group-title="Maghreb Fez vs Raja Club Athletic 03:00 ngày 07/05 The Botola Pro", Maghreb Fez vs Raja Club Athletic 03:00 ngày 07/05 The Botola Pro
 https://live.alilicloud.com/live/75f14abc336569cc7fe51a6928a4015f/playlist.m3u8
-#EXTINF:-1 tvg-id="601448098" group-title="Argentina (w) U17 vs Venezuela (w) U17 03:00 ngày 07/05 CONMEBOL U17 Women's Sudamericano", Argentina (w) U17 vs Venezuela (w) U17 03:00 ngày 07/05 CONMEBOL U17 Women's Sudamericano
-https://live.alilicloud.com/live/d225d03a7f230e28840e2ef79bd57903/playlist.m3u8
 #EXTINF:-1 tvg-id="601436104" group-title="Cavalier FC vs Harbour View FC 03:30 ngày 07/05 Jamaica Premier League", Cavalier FC vs Harbour View FC 03:30 ngày 07/05 Jamaica Premier League
 https://live.alilicloud.com/live/a67cb2835b0cac0fee0e47ace7374214/playlist.m3u8
-#EXTINF:-1 tvg-id="601442806" group-title="M.Alves/P.Sakamoto vs Hernan Casanova/Nicolás Kicker 02:30 ngày 07/05 ATP Challenger Santos, Brazil Men Double", M.Alves/P.Sakamoto vs Hernan Casanova/Nicolás Kicker 02:30 ngày 07/05 ATP Challenger Santos, Brazil Men Double
-https://live.alilicloud.com/live/8cb1a455282d4e8a8629c8df50e68f26/playlist.m3u8
-#EXTINF:-1 tvg-id="601442803" group-title="Justo Guido Ivan/Franco Roncadelli vs Thiago Cigarran/Lautaro Agustin Falabella 03:00 ngày 07/05 ATP Challenger Santos, Brazil Men Double", Justo Guido Ivan/Franco Roncadelli vs Thiago Cigarran/Lautaro Agustin Falabella 03:00 ngày 07/05 ATP Challenger Santos, Brazil Men Double
-https://live.alilicloud.com/live/35db5f899aa5230031733eb6bd0ab0ea/playlist.m3u8
+#EXTINF:-1 tvg-id="601454701" group-title="Palmeiras SP (w) vs Mirassol (W) 04:00 ngày 07/05 Brazilian Paulista Women's League", Palmeiras SP (w) vs Mirassol (W) 04:00 ngày 07/05 Brazilian Paulista Women's League
+https://live.alilicloud.com/live/6422d1bec9333922daa136ee253f0902/playlist.m3u8
+#EXTINF:-1 tvg-id="601454263" group-title="Luis Miguel vs Wilson Leite 04:00 ngày 07/05 ATP Challenger Santos, Brazil Men Singles", Luis Miguel vs Wilson Leite 04:00 ngày 07/05 ATP Challenger Santos, Brazil Men Singles
+https://live.alilicloud.com/live/dee42355e6073b7779979b37bd423d91/playlist.m3u8
+#EXTINF:-1 tvg-id="601442812" group-title="Hardt N / Rodriguez C vs Dutra Da Silva D / Mena F 04:35 ngày 07/05 ATP Challenger Santos, Brazil Men Double", Hardt N / Rodriguez C vs Dutra Da Silva D / Mena F 04:35 ngày 07/05 ATP Challenger Santos, Brazil Men Double
+https://live.alilicloud.com/live/667a3397e4dbbd3e058583091f940c56/playlist.m3u8
 #EXTINF:-1 tvg-id="601454581" group-title="U.M.F. Grindavik vs Valur Reykjavik 03:15 ngày 07/05 Iceland Basketball Premier League", U.M.F. Grindavik vs Valur Reykjavik 03:15 ngày 07/05 Iceland Basketball Premier League
 https://live.alilicloud.com/live/f2de8dce6dd83b20ec9a55c6c0a1dbc2/playlist.m3u8
+#EXTINF:-1 tvg-id="601439293" group-title="Aston Villa vs Nottingham Forest 02:00 ngày 08/05 UEFA Europa League", Aston Villa vs Nottingham Forest 02:00 ngày 08/05 UEFA Europa League
+https://cdn-hls.taoxanh.biz/live/69fbad82203f5_4908/index.m3u8?expire=1778706434&amp;sign=69b0704ac83777f80f64ea4aea43f723
