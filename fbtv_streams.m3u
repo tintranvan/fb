@@ -1,7 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601454320" group-title="Solomon Kings FC vs Tahiti United FC 10:00 ngày 07/05 OFC P L", Solomon Kings FC vs Tahiti United FC 10:00 ngày 07/05 OFC P L
-https://live.alilicloud.com/live/478e461babd9b89b66405d4ac40bea19/playlist.m3u8
-#EXTINF:-1 tvg-id="601454770" group-title="Caballeros de Culiacán vs Pioneros de Los Mochis 10:15 ngày 07/05 Mexico CIBACOPA", Caballeros de Culiacán vs Pioneros de Los Mochis 10:15 ngày 07/05 Mexico CIBACOPA
-https://live.alilicloud.com/live/267185acfee1ec4c2aba0896ca2b860d/playlist.m3u8
+#EXTINF:-1 tvg-id="601454323" group-title="Vanuatu United FC vs Hekari Souths United FC 14:00 ngày 07/05 OFC P L", Vanuatu United FC vs Hekari Souths United FC 14:00 ngày 07/05 OFC P L
+https://live.alilicloud.com/live/529d031a07a50893ec648245afa8982a/playlist.m3u8
+#EXTINF:-1 tvg-id="601436500" group-title="Taranaki Mountainairs vs Southland Sharks 14:00 ngày 07/05 New Zealand National Basketball League", Taranaki Mountainairs vs Southland Sharks 14:00 ngày 07/05 New Zealand National Basketball League
+https://live.alilicloud.com/live/0b88e6a908155138c75b3665265046ea/playlist.m3u8
+#EXTINF:-1 tvg-id="601456168" group-title="Dongguk University vs Sangmyung University 14:00 ngày 07/05 Korean University Basketball League", Dongguk University vs Sangmyung University 14:00 ngày 07/05 Korean University Basketball League
+https://live.alilicloud.com/live/d7fa683f6185df2e65cf80ba2444f513/playlist.m3u8
+#EXTINF:-1 tvg-id="601456171" group-title="Korea University vs Chung Ang University 14:00 ngày 07/05 Korean University Basketball League", Korea University vs Chung Ang University 14:00 ngày 07/05 Korean University Basketball League
+https://live.alilicloud.com/live/80f13c7c69dabecca2259be384c8cf04/playlist.m3u8
 #EXTINF:-1 tvg-id="601439293" group-title="Aston Villa vs Nottingham Forest 02:00 ngày 08/05 UEFA Europa League", Aston Villa vs Nottingham Forest 02:00 ngày 08/05 UEFA Europa League
 https://cdn-hls.taoxanh.biz/live/69fbad82203f5_4908/index.m3u8?expire=1778706434&amp;sign=69b0704ac83777f80f64ea4aea43f723
