@@ -1,65 +1,93 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601436371" group-title="DHJ Difaa Hassani Jadidi vs Hassania Agadir 23:00 ngày 07/05 The Botola Pro", DHJ Difaa Hassani Jadidi vs Hassania Agadir 23:00 ngày 07/05 The Botola Pro (Link 1)
-https://cdn-hls.taoxanh.biz/live/69fca1d742283_124958/index.m3u8?expire=1778768983&amp;sign=fe8ee35a135f275bae5a0c7c5ae6bcd6
-#EXTINF:-1 tvg-id="601436371" group-title="DHJ Difaa Hassani Jadidi vs Hassania Agadir 23:00 ngày 07/05 The Botola Pro", DHJ Difaa Hassani Jadidi vs Hassania Agadir 23:00 ngày 07/05 The Botola Pro (Link 2)
-https://live.rapidlive.shop/live/b14f9a832cca24e6361aa932a3755568/playlist.m3u8
-#EXTINF:-1 tvg-id="601444138" group-title="Thiago Agustin Tirante vs Gianluca Cadenasso 22:30 ngày 07/05 ATP Rome, Italy Men Singles", Thiago Agustin Tirante vs Gianluca Cadenasso 22:30 ngày 07/05 ATP Rome, Italy Men Singles
-https://cdn-hls.taoxanh.biz/live/69fcaf2f203f5_4733/index.m3u8?expire=1778772399&amp;sign=3a71ba83ba2e9fe062b20708787b5d2d
-#EXTINF:-1 tvg-id="601448167" group-title="Al-Najaf vs Amanat Baghdad 22:00 ngày 07/05 Iraq Stars League", Al-Najaf vs Amanat Baghdad 22:00 ngày 07/05 Iraq Stars League
-https://live.rapidlive.shop/live/696174428ebff2ee7e16cc4b9e7041f9/playlist.m3u8
-#EXTINF:-1 tvg-id="601436320" group-title="Tekstilac vs Semendrija 1924 22:00 ngày 07/05 Serbian Prva Liga", Tekstilac vs Semendrija 1924 22:00 ngày 07/05 Serbian Prva Liga
-https://live.rapidlive.shop/live/47a800457d416c7d2c420683233a1ec9/playlist.m3u8
-#EXTINF:-1 tvg-id="601436317" group-title="FK Dubocica vs FAP 22:00 ngày 07/05 Serbian Prva Liga", FK Dubocica vs FAP 22:00 ngày 07/05 Serbian Prva Liga
-https://live.rapidlive.shop/live/b5bb764bb8021ff6fe08d1aca01e8275/playlist.m3u8
-#EXTINF:-1 tvg-id="601436314" group-title="Dinamo Jug vs Usce 22:00 ngày 07/05 Serbian Prva Liga", Dinamo Jug vs Usce 22:00 ngày 07/05 Serbian Prva Liga
-https://live.rapidlive.shop/live/07f744c95123ad249b3d938cb99c29cb/playlist.m3u8
-#EXTINF:-1 tvg-id="601436344" group-title="Dinamo Tbilisi vs Spaeri FC 23:00 ngày 07/05 Georgia Erovnuli Liga", Dinamo Tbilisi vs Spaeri FC 23:00 ngày 07/05 Georgia Erovnuli Liga
-https://live.rapidlive.shop/live/8885db12b5091c31b7ad5ce679c1793e/playlist.m3u8
-#EXTINF:-1 tvg-id="601436347" group-title="Elva vs Tallinna FC Ararat TTU 23:00 ngày 07/05 Estonian Esiliiga", Elva vs Tallinna FC Ararat TTU 23:00 ngày 07/05 Estonian Esiliiga
-https://live.rapidlive.shop/live/57e373c2f169a599eb06ea7ae070cb61/playlist.m3u8
-#EXTINF:-1 tvg-id="601436341" group-title="PK-35 Vantaa vs Mikkelin Palloilijat 23:00 ngày 07/05 Finnish Ykkosliiga", PK-35 Vantaa vs Mikkelin Palloilijat 23:00 ngày 07/05 Finnish Ykkosliiga
-https://live.rapidlive.shop/live/b583900669bc7b3930b80510c9e38344/playlist.m3u8
-#EXTINF:-1 tvg-id="601454326" group-title="LKS Lodz vs Pogon Grodzisk Mazowiecki 23:00 ngày 07/05 Poland Liga 1", LKS Lodz vs Pogon Grodzisk Mazowiecki 23:00 ngày 07/05 Poland Liga 1
-https://live.rapidlive.shop/live/ffe20dc41c796a5e224317f1e8791e74/playlist.m3u8
+#EXTINF:-1 tvg-id="601439269" group-title="Al-Shabab FC vs Al Nassr FC 01:00 ngày 08/05 Saudi Professional League", Al-Shabab FC vs Al Nassr FC 01:00 ngày 08/05 Saudi Professional League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69fccd93203f5_73445/index.m3u8?expire=1778780179&amp;sign=84816694f602d8ad2f10b124ac262964
+#EXTINF:-1 tvg-id="601439269" group-title="Al-Shabab FC vs Al Nassr FC 01:00 ngày 08/05 Saudi Professional League", Al-Shabab FC vs Al Nassr FC 01:00 ngày 08/05 Saudi Professional League (Link 2)
+https://cdn-hls.taoxanh.biz/live/69fc6a04203f5_6308/index.m3u8?expire=1778754692&amp;sign=aedf21a7b0d630efa3d7b8ec3f467361
+#EXTINF:-1 tvg-id="601439269" group-title="Al-Shabab FC vs Al Nassr FC 01:00 ngày 08/05 Saudi Professional League", Al-Shabab FC vs Al Nassr FC 01:00 ngày 08/05 Saudi Professional League (Link 3)
+https://live.rapidlive.shop/live/639cb1a3bb811cf91744ddfb9001cb7d/playlist.m3u8
+#EXTINF:-1 tvg-id="601448650" group-title="Corum Belediyespor vs Keciorengucu 00:00 ngày 08/05 Turkish First League", Corum Belediyespor vs Keciorengucu 00:00 ngày 08/05 Turkish First League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69fcbe6f42283_18754/index.m3u8?expire=1778776303&amp;sign=e1b8f203a9e813e95aab17f54939ac71
+#EXTINF:-1 tvg-id="601448650" group-title="Corum Belediyespor vs Keciorengucu 00:00 ngày 08/05 Turkish First League", Corum Belediyespor vs Keciorengucu 00:00 ngày 08/05 Turkish First League (Link 2)
+https://live.rapidlive.shop/live/d4aa047926ae70b120e35f520a4528d0/playlist.m3u8
+#EXTINF:-1 tvg-id="601448647" group-title="Bodrum FK vs Pendikspor 00:00 ngày 08/05 Turkish First League", Bodrum FK vs Pendikspor 00:00 ngày 08/05 Turkish First League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69fcbf1b203f5_103/index.m3u8?expire=1778776475&amp;sign=2df3ba1414f2fa001c2d69eb1eab03fe
+#EXTINF:-1 tvg-id="601448647" group-title="Bodrum FK vs Pendikspor 00:00 ngày 08/05 Turkish First League", Bodrum FK vs Pendikspor 00:00 ngày 08/05 Turkish First League (Link 2)
+https://live.rapidlive.shop/live/994f50bac898571e1b456fafcb366273/playlist.m3u8
+#EXTINF:-1 tvg-id="601439266" group-title="FK Krasnodar vs Dynamo Moscow 00:30 ngày 08/05 Russian Cup", FK Krasnodar vs Dynamo Moscow 00:30 ngày 08/05 Russian Cup (Link 1)
+https://cdn-hls.taoxanh.biz/live/69fcc60442283_136682/index.m3u8?expire=1778778244&amp;sign=ee4129e8d9ed9b28654eb990906031d3
+#EXTINF:-1 tvg-id="601439266" group-title="FK Krasnodar vs Dynamo Moscow 00:30 ngày 08/05 Russian Cup", FK Krasnodar vs Dynamo Moscow 00:30 ngày 08/05 Russian Cup (Link 2)
+https://live.rapidlive.shop/live/d7e34b976cc89afb76fc9e412ab6d589/playlist.m3u8
+#EXTINF:-1 tvg-id="601444147" group-title="Hamad Medjedovic vs Valentin Royer 23:50 ngày 07/05 ATP Rome, Italy Men Singles", Hamad Medjedovic vs Valentin Royer 23:50 ngày 07/05 ATP Rome, Italy Men Singles
+https://cdn-hls.taoxanh.biz/live/69fcc118203f5_42127/index.m3u8?expire=1778776984&amp;sign=7e5e5bf34a42807dd575ff8e1a9bdbaa
+#EXTINF:-1 tvg-id="601444159" group-title="Denis Shapovalov vs Mariano Navone 00:30 ngày 08/05 ATP Rome, Italy Men Singles", Denis Shapovalov vs Mariano Navone 00:30 ngày 08/05 ATP Rome, Italy Men Singles
+https://cdn-hls.taoxanh.biz/live/69fcd1f6203f5_4733/index.m3u8?expire=1778781302&amp;sign=d057182a0a93451d1cdae0e1bfbbaa55
 #EXTINF:-1 tvg-id="601436374" group-title="Freetown City vs BAI Bureh Warriors 23:30 ngày 07/05 Sierra Leone Premier League", Freetown City vs BAI Bureh Warriors 23:30 ngày 07/05 Sierra Leone Premier League
 https://live.rapidlive.shop/live/0c19db1ba104972ee6f0d1f9f120ee9e/playlist.m3u8
 #EXTINF:-1 tvg-id="601436377" group-title="Fortune FC vs TMT FA 23:30 ngày 07/05 Gambia League First Division", Fortune FC vs TMT FA 23:30 ngày 07/05 Gambia League First Division
 https://live.rapidlive.shop/live/8c017b77474534baf3549eee484f7474/playlist.m3u8
-#EXTINF:-1 tvg-id="601456435" group-title="Jeļena Ostapenko vs Elena-Gabriela Ruse 21:50 ngày 07/05 WTA Rome, Italy Women Singles", Jeļena Ostapenko vs Elena-Gabriela Ruse 21:50 ngày 07/05 WTA Rome, Italy Women Singles
-https://live.alilicloud.com/live/49e6769f903a2c74a1359dc564b90084/playlist.m3u8
-#EXTINF:-1 tvg-id="601436653" group-title="Murkel Alejandro Dellien Velasco vs Nick Hardt 22:00 ngày 07/05 ATP Challenger Santos, Brazil Men Singles", Murkel Alejandro Dellien Velasco vs Nick Hardt 22:00 ngày 07/05 ATP Challenger Santos, Brazil Men Singles
-https://live.alilicloud.com/live/d49f9fd6353a428caebe63c13e8291e6/playlist.m3u8
-#EXTINF:-1 tvg-id="601436782" group-title="Luis Britto/Paulo Andre Saraiva Dos Santos vs Arcon A / Kleiman M 22:00 ngày 07/05 ATP Challenger Brazzaville, Republic of Congo Men Doubles", Luis Britto/Paulo Andre Saraiva Dos Santos vs Arcon A / Kleiman M 22:00 ngày 07/05 ATP Challenger Brazzaville, Republic of Congo Men Doubles
-https://live.alilicloud.com/live/de1ced7b285d466f01f4a438f06aa464/playlist.m3u8
-#EXTINF:-1 tvg-id="601436758" group-title="Latinovic S / Liutarevich I vs Benjamin Kittay/Ryan Seggerman 22:15 ngày 07/05 ATP Challenger Francavilla, Italy Men Double", Latinovic S / Liutarevich I vs Benjamin Kittay/Ryan Seggerman 22:15 ngày 07/05 ATP Challenger Francavilla, Italy Men Double
-https://live.alilicloud.com/live/84bbb7c2c7a9792c57690837a16afb05/playlist.m3u8
-#EXTINF:-1 tvg-id="601436656" group-title="Justo Guido Ivan vs Lorenzo Joaquin Rodriguez 22:50 ngày 07/05 ATP Challenger Santos, Brazil Men Singles", Justo Guido Ivan vs Lorenzo Joaquin Rodriguez 22:50 ngày 07/05 ATP Challenger Santos, Brazil Men Singles
-https://live.alilicloud.com/live/17da7d9503e67af28890780214fb58d2/playlist.m3u8
-#EXTINF:-1 tvg-id="601448632" group-title="Belinda Bencic vs Bianca Andreescu 23:20 ngày 07/05 WTA Rome, Italy Women Singles", Belinda Bencic vs Bianca Andreescu 23:20 ngày 07/05 WTA Rome, Italy Women Singles
-https://live.alilicloud.com/live/916b313bc4cc61787653b22820cc6113/playlist.m3u8
-#EXTINF:-1 tvg-id="601436527" group-title="Elizzur Maccabi Netanya vs Hapoel Jerusalem 22:30 ngày 07/05 Ligat HaAl", Elizzur Maccabi Netanya vs Hapoel Jerusalem 22:30 ngày 07/05 Ligat HaAl
-https://live.alilicloud.com/live/4bceb50ab315c74a32a118a2220d072d/playlist.m3u8
-#EXTINF:-1 tvg-id="601442899" group-title="Elitzur Shomron vs Hapoel Haifa 23:00 ngày 07/05 Israel Basketball  League", Elitzur Shomron vs Hapoel Haifa 23:00 ngày 07/05 Israel Basketball  League
-https://live.alilicloud.com/live/a6c7099904c9809cc6600a2b3a1eb39a/playlist.m3u8
+#EXTINF:-1 tvg-id="601439251" group-title="Haras El Hodood vs ZED FC 00:00 ngày 08/05 Egyptian Premier League", Haras El Hodood vs ZED FC 00:00 ngày 08/05 Egyptian Premier League
+https://live.rapidlive.shop/live/21a2022c98de3b85aa04ecee21197248/playlist.m3u8
+#EXTINF:-1 tvg-id="601439254" group-title="Bank El Ahly vs Ismaily SC 00:00 ngày 08/05 Egyptian Premier League", Bank El Ahly vs Ismaily SC 00:00 ngày 08/05 Egyptian Premier League
+https://live.rapidlive.shop/live/3ee89b56eb396afb6f98dd2e745e334f/playlist.m3u8
+#EXTINF:-1 tvg-id="601439260" group-title="Northern Ireland Women U17 vs Norway (w) U17 00:00 ngày 08/05 UEFA European U17 Women's Championship", Northern Ireland Women U17 vs Norway (w) U17 00:00 ngày 08/05 UEFA European U17 Women's Championship
+https://live.rapidlive.shop/live/e1524960979381cfe6c7beecc0d92534/playlist.m3u8
+#EXTINF:-1 tvg-id="601439248" group-title="FK Auda Riga vs Grobina 00:00 ngày 08/05 Latvian Higher League", FK Auda Riga vs Grobina 00:00 ngày 08/05 Latvian Higher League
+https://live.rapidlive.shop/live/f16be15c9be649820b7a56396e6d8708/playlist.m3u8
+#EXTINF:-1 tvg-id="601448659" group-title="Barracas Central Reserves vs Godoy Cruz Reserves 01:00 ngày 08/05 Argentine Reserve League", Barracas Central Reserves vs Godoy Cruz Reserves 01:00 ngày 08/05 Argentine Reserve League
+https://live.rapidlive.shop/live/7b766a6257232d20c846128bbf18abbc/playlist.m3u8
+#EXTINF:-1 tvg-id="601448671" group-title="Tigre Reserves vs CA Aldosivi Reserves 01:00 ngày 08/05 Argentine Reserve League", Tigre Reserves vs CA Aldosivi Reserves 01:00 ngày 08/05 Argentine Reserve League
+https://live.rapidlive.shop/live/e42be0e369985df33305128f6b511120/playlist.m3u8
+#EXTINF:-1 tvg-id="601448665" group-title="Estudiantes LP Reserves vs Newell's Reserves 01:00 ngày 08/05 Argentine Reserve League", Estudiantes LP Reserves vs Newell's Reserves 01:00 ngày 08/05 Argentine Reserve League
+https://live.rapidlive.shop/live/cc2edb1380222ea4c3cd02723443a049/playlist.m3u8
+#EXTINF:-1 tvg-id="601448662" group-title="Colon Reserves vs Boca Juniors Reserve 01:00 ngày 08/05 Argentine Reserve League", Colon Reserves vs Boca Juniors Reserve 01:00 ngày 08/05 Argentine Reserve League
+https://live.rapidlive.shop/live/a83650d988d0bc1612ac12356ad25cbb/playlist.m3u8
+#EXTINF:-1 tvg-id="601439275" group-title="Renaissance de Berkane vs UTS Union Touarga Sport Rabat 01:00 ngày 08/05 The Botola Pro", Renaissance de Berkane vs UTS Union Touarga Sport Rabat 01:00 ngày 08/05 The Botola Pro
+https://live.rapidlive.shop/live/a1b3d15f4b696d89bd0b7e8825b696df/playlist.m3u8
+#EXTINF:-1 tvg-id="601436035" group-title="Banfield Reserves vs Union Santa Fe Reserves 01:00 ngày 08/05 Argentine Reserve League", Banfield Reserves vs Union Santa Fe Reserves 01:00 ngày 08/05 Argentine Reserve League
+https://live.rapidlive.shop/live/861049c4ec925d687b461828121b8376/playlist.m3u8
+#EXTINF:-1 tvg-id="601455109" group-title="Solana Sierra vs Anhelina Kalinina 23:50 ngày 07/05 WTA Rome, Italy Women Singles", Solana Sierra vs Anhelina Kalinina 23:50 ngày 07/05 WTA Rome, Italy Women Singles
+https://live.alilicloud.com/live/fece62b33144eca0f7f6f49061f10928/playlist.m3u8
 #EXTINF:-1 tvg-id="601454902" group-title="Valmiera vs BK Ventspils 23:00 ngày 07/05 Latvijas Basketbola līga", Valmiera vs BK Ventspils 23:00 ngày 07/05 Latvijas Basketbola līga
 https://live.alilicloud.com/live/3d9d8b779cc2c2bdb0a448ded744719d/playlist.m3u8
-#EXTINF:-1 tvg-id="601436545" group-title="Maccabi Raanana vs Galil Elyon 23:00 ngày 07/05 Ligat HaAl", Maccabi Raanana vs Galil Elyon 23:00 ngày 07/05 Ligat HaAl
-https://live.alilicloud.com/live/5275e449c2639eba7e86a31f090745b9/playlist.m3u8
-#EXTINF:-1 tvg-id="601436539" group-title="Rytas Vilnius vs Isla De Tenerife Canarias 23:00 ngày 07/05 Basketball Champions League", Rytas Vilnius vs Isla De Tenerife Canarias 23:00 ngày 07/05 Basketball Champions League
-https://live.alilicloud.com/live/4f767796d0521575bc8e855e54277b76/playlist.m3u8
+#EXTINF:-1 tvg-id="601436551" group-title="EnBW Ludwigsburg vs Bayern Munchen 23:30 ngày 07/05 Basketball Bundesliga", EnBW Ludwigsburg vs Bayern Munchen 23:30 ngày 07/05 Basketball Bundesliga
+https://live.alilicloud.com/live/29aedcaea62fa7a15fa56353fa8d8032/playlist.m3u8
 #EXTINF:-1 tvg-id="601448629" group-title="Crvena Zvezda Belgrade vs KK Cedevita Olimpija 23:30 ngày 07/05 Adriatic Basketball Association League", Crvena Zvezda Belgrade vs KK Cedevita Olimpija 23:30 ngày 07/05 Adriatic Basketball Association League
 https://live.alilicloud.com/live/a685ad8264e0f8703784adb6d69738dc/playlist.m3u8
 #EXTINF:-1 tvg-id="601436554" group-title="Chemcats Chemnitz vs Skyliners Frankfurt 23:30 ngày 07/05 Basketball Bundesliga", Chemcats Chemnitz vs Skyliners Frankfurt 23:30 ngày 07/05 Basketball Bundesliga
 https://live.alilicloud.com/live/ab3ade2bde216f1493013744335481d4/playlist.m3u8
-#EXTINF:-1 tvg-id="601436551" group-title="EnBW Ludwigsburg vs Bayern Munchen 23:30 ngày 07/05 Basketball Bundesliga", EnBW Ludwigsburg vs Bayern Munchen 23:30 ngày 07/05 Basketball Bundesliga
-https://live.alilicloud.com/live/29aedcaea62fa7a15fa56353fa8d8032/playlist.m3u8
-#EXTINF:-1 tvg-id="601439269" group-title="Al-Shabab FC vs Al Nassr FC 01:00 ngày 08/05 Saudi Professional League", Al-Shabab FC vs Al Nassr FC 01:00 ngày 08/05 Saudi Professional League
-https://cdn-hls.taoxanh.biz/live/69fc6a04203f5_6308/index.m3u8?expire=1778754692&amp;sign=aedf21a7b0d630efa3d7b8ec3f467361
-#EXTINF:-1 tvg-id="601439293" group-title="Aston Villa vs Nottingham Forest 02:00 ngày 08/05 UEFA Europa League", Aston Villa vs Nottingham Forest 02:00 ngày 08/05 UEFA Europa League
+#EXTINF:-1 tvg-id="601455073" group-title="Boras Basket vs Norrkoping Dolphins 00:00 ngày 08/05 Svenska Basketligan", Boras Basket vs Norrkoping Dolphins 00:00 ngày 08/05 Svenska Basketligan
+https://live.alilicloud.com/live/e1fa1898b12ed085b05422f79d595f5d/playlist.m3u8
+#EXTINF:-1 tvg-id="601455064" group-title="KK Krka vs Hopsi Polzela 00:00 ngày 08/05 Liga Nova KBM", KK Krka vs Hopsi Polzela 00:00 ngày 08/05 Liga Nova KBM
+https://live.alilicloud.com/live/f45639dfa3ed1563e2467f7ef68144b5/playlist.m3u8
+#EXTINF:-1 tvg-id="601453780" group-title="Oberwart Gunners vs Basket Club Vienna 00:00 ngày 08/05 Austrian Basketball Superliga", Oberwart Gunners vs Basket Club Vienna 00:00 ngày 08/05 Austrian Basketball Superliga
+https://live.alilicloud.com/live/f6bc0961e9fa7dadf06597e5cf0cdc20/playlist.m3u8
+#EXTINF:-1 tvg-id="601453777" group-title="Valencia Women vs Spar Girona Women 00:00 ngày 08/05 Liga Femenina de Baloncesto", Valencia Women vs Spar Girona Women 00:00 ngày 08/05 Liga Femenina de Baloncesto
+https://live.alilicloud.com/live/9dde63f85eba863cd4d4a3ff7b98d4f0/playlist.m3u8
+#EXTINF:-1 tvg-id="601453783" group-title="Kapfenberg Bulls vs UBSC Raiffeisen Graz 00:15 ngày 08/05 Austrian Basketball Superliga", Kapfenberg Bulls vs UBSC Raiffeisen Graz 00:15 ngày 08/05 Austrian Basketball Superliga
+https://live.alilicloud.com/live/feb240f9ce3c5082d4adeb8b3f632d7e/playlist.m3u8
+#EXTINF:-1 tvg-id="601453786" group-title="HAKRO Merlins Crailsheim vs LTi Giessen 46ers 00:30 ngày 08/05 2.Basketball Bundesliga ProA", HAKRO Merlins Crailsheim vs LTi Giessen 46ers 00:30 ngày 08/05 2.Basketball Bundesliga ProA
+https://live.alilicloud.com/live/7fd6544e8e5b29b8bf736a7c362148f9/playlist.m3u8
+#EXTINF:-1 tvg-id="601455076" group-title="Hapoel Tel Aviv vs Real Madrid 01:00 ngày 08/05 EuroLeague", Hapoel Tel Aviv vs Real Madrid 01:00 ngày 08/05 EuroLeague
+https://live.alilicloud.com/live/b34a54594946cb69ac777e46a078423b/playlist.m3u8
+#EXTINF:-1 tvg-id="601438009" group-title="Hamburg vs Würzburg 01:00 ngày 08/05 Basketball Bundesliga", Hamburg vs Würzburg 01:00 ngày 08/05 Basketball Bundesliga
+https://live.alilicloud.com/live/f6aa012b1d06d512081347653327a42e/playlist.m3u8
+#EXTINF:-1 tvg-id="601438006" group-title="Jena vs Heidelberg 01:00 ngày 08/05 Basketball Bundesliga", Jena vs Heidelberg 01:00 ngày 08/05 Basketball Bundesliga
+https://live.alilicloud.com/live/47ffbbe9a10fcaabdb62952336d89008/playlist.m3u8
+#EXTINF:-1 tvg-id="601439290" group-title="SC Freiburg vs Sporting Braga 02:00 ngày 08/05 UEFA Europa League", SC Freiburg vs Sporting Braga 02:00 ngày 08/05 UEFA Europa League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69fcd2c6203f5_88186/index.m3u8?expire=1778781510&amp;sign=256d59d8d869de50fdad5374d9287c33
+#EXTINF:-1 tvg-id="601439290" group-title="SC Freiburg vs Sporting Braga 02:00 ngày 08/05 UEFA Europa League", SC Freiburg vs Sporting Braga 02:00 ngày 08/05 UEFA Europa League (Link 2)
+https://cdn-hls.taoxanh.biz/live/69fcd38942283_124958/index.m3u8?expire=1778781705&amp;sign=b08e5a4c3edf7c053d431cff57c17652
+#EXTINF:-1 tvg-id="601439290" group-title="SC Freiburg vs Sporting Braga 02:00 ngày 08/05 UEFA Europa League", SC Freiburg vs Sporting Braga 02:00 ngày 08/05 UEFA Europa League (Link 3)
+https://live.rapidlive.shop/live/0eb656b693ac04afa83fc6b916466bd6/playlist.m3u8
+#EXTINF:-1 tvg-id="601439293" group-title="Aston Villa vs Nottingham Forest 02:00 ngày 08/05 UEFA Europa League", Aston Villa vs Nottingham Forest 02:00 ngày 08/05 UEFA Europa League (Link 1)
 https://cdn-hls.taoxanh.biz/live/69fbad82203f5_4908/index.m3u8?expire=1778706434&amp;sign=69b0704ac83777f80f64ea4aea43f723
-#EXTINF:-1 tvg-id="601444147" group-title="Hamad Medjedovic vs Valentin Royer 23:50 ngày 07/05 ATP Rome, Italy Men Singles", Hamad Medjedovic vs Valentin Royer 23:50 ngày 07/05 ATP Rome, Italy Men Singles
-https://cdn-hls.taoxanh.biz/live/69fcc118203f5_42127/index.m3u8?expire=1778776984&amp;sign=7e5e5bf34a42807dd575ff8e1a9bdbaa
-#EXTINF:-1 tvg-id="601448650" group-title="Corum Belediyespor vs Keciorengucu 00:00 ngày 08/05 Turkish First League", Corum Belediyespor vs Keciorengucu 00:00 ngày 08/05 Turkish First League
-https://cdn-hls.taoxanh.biz/live/69fcbe6f42283_18754/index.m3u8?expire=1778776303&amp;sign=e1b8f203a9e813e95aab17f54939ac71
-#EXTINF:-1 tvg-id="601448647" group-title="Bodrum FK vs Pendikspor 00:00 ngày 08/05 Turkish First League", Bodrum FK vs Pendikspor 00:00 ngày 08/05 Turkish First League
-https://cdn-hls.taoxanh.biz/live/69fcbf1b203f5_103/index.m3u8?expire=1778776475&amp;sign=2df3ba1414f2fa001c2d69eb1eab03fe
+#EXTINF:-1 tvg-id="601439293" group-title="Aston Villa vs Nottingham Forest 02:00 ngày 08/05 UEFA Europa League", Aston Villa vs Nottingham Forest 02:00 ngày 08/05 UEFA Europa League (Link 2)
+https://cdn-hls.taoxanh.biz/live/69fcd55342283_95554/index.m3u8?expire=1778782163&amp;sign=c9d8db1626ef8d6d394129206ecd873e
+#EXTINF:-1 tvg-id="601439293" group-title="Aston Villa vs Nottingham Forest 02:00 ngày 08/05 UEFA Europa League", Aston Villa vs Nottingham Forest 02:00 ngày 08/05 UEFA Europa League (Link 3)
+https://live.rapidlive.shop/live/40ee2e4a6536d16bbb2528b0aef90ce4/playlist.m3u8
+#EXTINF:-1 tvg-id="601439287" group-title="Crystal Palace vs FC Shakhtar Donetsk 02:00 ngày 08/05 UEFA Europa Conference League", Crystal Palace vs FC Shakhtar Donetsk 02:00 ngày 08/05 UEFA Europa Conference League
+https://live.rapidlive.shop/live/fb8d44eebf332bdedd6db68c838ace00/playlist.m3u8
+#EXTINF:-1 tvg-id="601439284" group-title="RC Strasbourg Alsace vs Rayo Vallecano 02:00 ngày 08/05 UEFA Europa Conference League", RC Strasbourg Alsace vs Rayo Vallecano 02:00 ngày 08/05 UEFA Europa Conference League (Link 1)
+https://cdn-hls.taoxanh.biz/live/69fcd2d842283_44731/index.m3u8?expire=1778781528&amp;sign=a1a2801456695b0c2a9f81d7dd02188b
+#EXTINF:-1 tvg-id="601439284" group-title="RC Strasbourg Alsace vs Rayo Vallecano 02:00 ngày 08/05 UEFA Europa Conference League", RC Strasbourg Alsace vs Rayo Vallecano 02:00 ngày 08/05 UEFA Europa Conference League (Link 2)
+https://live.rapidlive.shop/live/8d74093c65633911f1c9814d6a45ef00/playlist.m3u8
