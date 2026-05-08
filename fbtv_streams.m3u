@@ -1,17 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601444648" group-title="IR Reykjavik vs Grindavik 03:00 ngày 09/05 Iceland 1. Deild Karla", IR Reykjavik vs Grindavik 03:00 ngày 09/05 Iceland 1. Deild Karla
-https://live.rapidlive.shop/live/f5cc01b03fd18cc64108483ed7d94593/playlist.m3u8
-#EXTINF:-1 tvg-id="601444657" group-title="UTC Cajamarca vs FC Cajamarca 03:00 ngày 09/05 Peruvian Liga 1", UTC Cajamarca vs FC Cajamarca 03:00 ngày 09/05 Peruvian Liga 1
-https://live.rapidlive.shop/live/f056020dc3f2476d830f3b76a5ed6b7b/playlist.m3u8
-#EXTINF:-1 tvg-id="601444666" group-title="KACM Marrakech vs Renaissance Zmamra 03:00 ngày 09/05 The Botola Pro", KACM Marrakech vs Renaissance Zmamra 03:00 ngày 09/05 The Botola Pro
-https://live.rapidlive.shop/live/0dc6eba005127375dd803fe12d3cd74f/playlist.m3u8
-#EXTINF:-1 tvg-id="601455145" group-title="Boca Juniors De Cali vs Alianza Fútbol Club 03:00 ngày 09/05 Colombian Copa BetPlay DIMAYOR", Boca Juniors De Cali vs Alianza Fútbol Club 03:00 ngày 09/05 Colombian Copa BetPlay DIMAYOR
-https://live.rapidlive.shop/live/54f48c4a4a17c239ce7d5f11e90466b1/playlist.m3u8
-#EXTINF:-1 tvg-id="601455148" group-title="Fortaleza F.C vs Leones 03:00 ngày 09/05 Colombian Copa BetPlay DIMAYOR", Fortaleza F.C vs Leones 03:00 ngày 09/05 Colombian Copa BetPlay DIMAYOR
-https://live.rapidlive.shop/live/05be7bdbd4b646ac86dd6342b8c8ddc2/playlist.m3u8
+#EXTINF:-1 tvg-id="601448875" group-title="Montevideo Wanderers FC vs Liverpool URU 05:30 ngày 09/05 Uruguay Primera Division", Montevideo Wanderers FC vs Liverpool URU 05:30 ngày 09/05 Uruguay Primera Division
+https://cdn-hls.taoxanh.biz/live/69fe5c61203f5_95554/index.m3u8?expire=1778882273&amp;sign=e309a87df7596c700822faecbef8a0cf
 #EXTINF:-1 tvg-id="601436080" group-title="Pottu Via Ho vs Atletico Futbol Club 04:30 ngày 09/05 Ecuadorian Campeonato Serie B", Pottu Via Ho vs Atletico Futbol Club 04:30 ngày 09/05 Ecuadorian Campeonato Serie B
 https://live.rapidlive.shop/live/1acf875d84dc8da525d4c06fc9b6c642/playlist.m3u8
-#EXTINF:-1 tvg-id="601436845" group-title="Lorenzo Musetti vs Giovanni Mpetshi Perricard 03:30 ngày 09/05 ATP Rome, Italy Men Singles", Lorenzo Musetti vs Giovanni Mpetshi Perricard 03:30 ngày 09/05 ATP Rome, Italy Men Singles
-https://live.alilicloud.com/live/49d09a4fcd32f8e98d95f55ceefdff77/playlist.m3u8
-#EXTINF:-1 tvg-id="601436797" group-title="Yannick Hanfmann vs Luciano Darderi 03:40 ngày 09/05 ATP Rome, Italy Men Singles", Yannick Hanfmann vs Luciano Darderi 03:40 ngày 09/05 ATP Rome, Italy Men Singles
-https://live.alilicloud.com/live/fa063d6df47e0d902feabd9a715820ca/playlist.m3u8
+#EXTINF:-1 tvg-id="601458622" group-title="Barranquilla FC vs Bogota FC 05:00 ngày 09/05 Colombian Torneo BetPlay Dimayor", Barranquilla FC vs Bogota FC 05:00 ngày 09/05 Colombian Torneo BetPlay Dimayor
+https://live.rapidlive.shop/live/5a201ad86e8e9f74c0020e9c9340d1be/playlist.m3u8
+#EXTINF:-1 tvg-id="601440355" group-title="Flamengo vs CAIXA Brasília Basquete 05:00 ngày 09/05 Novo Basquete Brasil", Flamengo vs CAIXA Brasília Basquete 05:00 ngày 09/05 Novo Basquete Brasil
+https://live.alilicloud.com/live/b33f253ec1995af16f9fd9dfaeba4b8f/playlist.m3u8
+#EXTINF:-1 tvg-id="601453822" group-title="Urunday Universitario vs Penarol Uruguay 05:15 ngày 09/05 Uruguay Liga Uruguaya", Urunday Universitario vs Penarol Uruguay 05:15 ngày 09/05 Uruguay Liga Uruguaya
+https://live.alilicloud.com/live/e02854ecd9768ff407e6c6d3695e42e9/playlist.m3u8
+#EXTINF:-1 tvg-id="601444690" group-title="International Miami B vs Chattanooga 06:00 ngày 09/05 MLS Next PL", International Miami B vs Chattanooga 06:00 ngày 09/05 MLS Next PL
+https://cdn-hls.taoxanh.biz/live/69fe631f42283_74012/index.m3u8?expire=1778883999&amp;sign=fa645d71af9c06480388c88ad2205c1f
