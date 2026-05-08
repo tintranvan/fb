@@ -1,17 +1,39 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601439353" group-title="Zhejiang Hangzhou Women B vs Shanghai Jiading Huilong(w) 13:00 ngày 08/05 Chinese Women's League One", Zhejiang Hangzhou Women B vs Shanghai Jiading Huilong(w) 13:00 ngày 08/05 Chinese Women's League One
-https://live.rapidlive.shop/live/490ec4271c881add528dc2a8dbe10a68/playlist.m3u8
-#EXTINF:-1 tvg-id="601438141" group-title="Mark Lajal vs Dane Sweeny 13:00 ngày 08/05 ATP Challenger Wuxi, China Men Singles", Mark Lajal vs Dane Sweeny 13:00 ngày 08/05 ATP Challenger Wuxi, China Men Singles
-https://live.alilicloud.com/live/4e4c6313ea42332abbd2fbf5f5c2bf2f/playlist.m3u8
-#EXTINF:-1 tvg-id="601436695" group-title="Da Silva Fick G / Mcgiffin T vs Osborne A / Zheng W 13:40 ngày 08/05 WTA 125 Cali, Colombia Women Double", Da Silva Fick G / Mcgiffin T vs Osborne A / Zheng W 13:40 ngày 08/05 WTA 125 Cali, Colombia Women Double
-https://live.alilicloud.com/live/df4e7a1a618fab7845b6fa0673bc40f9/playlist.m3u8
-#EXTINF:-1 tvg-id="601436692" group-title="Yiming Dang/Xiaodi You vs Cabrera L / Watson H 13:45 ngày 08/05 WTA 125 Cali, Colombia Women Double", Yiming Dang/Xiaodi You vs Cabrera L / Watson H 13:45 ngày 08/05 WTA 125 Cali, Colombia Women Double
-https://live.alilicloud.com/live/ce568f556095b1d77f030b8b17e6c05c/playlist.m3u8
+#EXTINF:-1 tvg-id="601439362" group-title="Japan (w) U17 vs Australia Women U17 14:30 ngày 08/05 AFC U17 Women's Asian Cup", Japan (w) U17 vs Australia Women U17 14:30 ngày 08/05 AFC U17 Women's Asian Cup (Link 1)
+https://cdn-hls.taoxanh.biz/live/69fd8d9c42283_162172/index.m3u8?expire=1778829340&amp;sign=4a0606b71d6ce9105ab8d09c6f07e2d1
+#EXTINF:-1 tvg-id="601439362" group-title="Japan (w) U17 vs Australia Women U17 14:30 ngày 08/05 AFC U17 Women's Asian Cup", Japan (w) U17 vs Australia Women U17 14:30 ngày 08/05 AFC U17 Women's Asian Cup (Link 2)
+https://live.rapidlive.shop/live/85c76b1105bb377af79f9bfcd8c799a2/playlist.m3u8
+#EXTINF:-1 tvg-id="601439365" group-title="India (w) U17 vs Lebanon U17 Women 14:30 ngày 08/05 AFC U17 Women's Asian Cup", India (w) U17 vs Lebanon U17 Women 14:30 ngày 08/05 AFC U17 Women's Asian Cup (Link 1)
+https://cdn-hls.taoxanh.biz/live/69fd8a1942283_103/index.m3u8?expire=1778828441&amp;sign=bb96e8b59208d43598c300ad59b17887
+#EXTINF:-1 tvg-id="601439365" group-title="India (w) U17 vs Lebanon U17 Women 14:30 ngày 08/05 AFC U17 Women's Asian Cup", India (w) U17 vs Lebanon U17 Women 14:30 ngày 08/05 AFC U17 Women's Asian Cup (Link 2)
+https://live.rapidlive.shop/live/9af98fd6091a4ff938a4f504bf03a03b/playlist.m3u8
+#EXTINF:-1 tvg-id="601439389" group-title="Semen Padang vs Persik Kediri 15:30 ngày 08/05 Indonesian Liga 1", Semen Padang vs Persik Kediri 15:30 ngày 08/05 Indonesian Liga 1
+https://cdn-hls.taoxanh.biz/live/69fd98bc42283_88186/index.m3u8?expire=1778832188&amp;sign=c09a41fbc822c3f23779e22474cc75db
+#EXTINF:-1 tvg-id="601439452" group-title="FC Kryvbas Kriviy Rih (w) vs Zhytomyr Women 15:00 ngày 08/05 Ukrainian Women's Professional Football League", FC Kryvbas Kriviy Rih (w) vs Zhytomyr Women 15:00 ngày 08/05 Ukrainian Women's Professional Football League
+https://live.rapidlive.shop/live/a98b69a970d9eea29658e445b9b86e76/playlist.m3u8
+#EXTINF:-1 tvg-id="601456381" group-title="Cooks Hill United Reserves vs Kahibah FC Reserves 15:00 ngày 08/05 Australia Northern New South Wales Reserves League", Cooks Hill United Reserves vs Kahibah FC Reserves 15:00 ngày 08/05 Australia Northern New South Wales Reserves League
+https://live.rapidlive.shop/live/8be193af9e7837c4a97fe1bdf70f37c2/playlist.m3u8
+#EXTINF:-1 tvg-id="601439377" group-title="Qingdao West Coast(w) vs Fujian Nanan (w) 15:30 ngày 08/05 Chinese Women's League One", Qingdao West Coast(w) vs Fujian Nanan (w) 15:30 ngày 08/05 Chinese Women's League One
+https://live.rapidlive.shop/live/411f15365dc120d31574e09dd1a11a60/playlist.m3u8
+#EXTINF:-1 tvg-id="601456372" group-title="Adelaide Comets (w) vs MetroStars (W) 15:45 ngày 08/05 South Australia Women's Premier League", Adelaide Comets (w) vs MetroStars (W) 15:45 ngày 08/05 South Australia Women's Premier League
+https://live.rapidlive.shop/live/02094d772191095d1ae296cb9d6a22f8/playlist.m3u8
+#EXTINF:-1 tvg-id="601436713" group-title="Laura Pigossi vs Guiomar Maristany Zuleta de Reales 15:00 ngày 08/05 WTA 125K Istanbul, Turkiye Women Singles", Laura Pigossi vs Guiomar Maristany Zuleta de Reales 15:00 ngày 08/05 WTA 125K Istanbul, Turkiye Women Singles
+https://live.alilicloud.com/live/7d340f71e5ffd8769f7e60e778d84160/playlist.m3u8
+#EXTINF:-1 tvg-id="601458592" group-title="Shanghai Women U21 vs Wuhan U21 (W) 15:00 ngày 08/05 China Woman's National Basketball League U21", Shanghai Women U21 vs Wuhan U21 (W) 15:00 ngày 08/05 China Woman's National Basketball League U21
+https://live.alilicloud.com/live/189b564fe958ba60100b67d199ad7529/playlist.m3u8
+#EXTINF:-1 tvg-id="601438045" group-title="Iloilo United Royals vs Quezon City Galeries Taipan 15:00 ngày 08/05 Philippines MPBL", Iloilo United Royals vs Quezon City Galeries Taipan 15:00 ngày 08/05 Philippines MPBL
+https://live.alilicloud.com/live/813aa50829c7e99eba53138644745069/playlist.m3u8
+#EXTINF:-1 tvg-id="601438048" group-title="South West Metro Pirates Women vs Brisbane Spartans Women 15:00 ngày 08/05 National Women’s Basketball League1 North", South West Metro Pirates Women vs Brisbane Spartans Women 15:00 ngày 08/05 National Women’s Basketball League1 North
+https://live.alilicloud.com/live/08aadb02169ec19978f25d18ea051921/playlist.m3u8
+#EXTINF:-1 tvg-id="601458577" group-title="Fujian Sturgeons U21 Women vs Hebei U21 Women 15:00 ngày 08/05 China Woman's National Basketball League U21", Fujian Sturgeons U21 Women vs Hebei U21 Women 15:00 ngày 08/05 China Woman's National Basketball League U21
+https://live.alilicloud.com/live/89c71032c5485938cdfc77a909a04627/playlist.m3u8
+#EXTINF:-1 tvg-id="601438051" group-title="Mt Gambier Pioneers Women vs Hobart Chargers Women 15:30 ngày 08/05 National Women’s Basketball League1 South", Mt Gambier Pioneers Women vs Hobart Chargers Women 15:30 ngày 08/05 National Women’s Basketball League1 South
+https://live.alilicloud.com/live/806abce8bdaa82081b8654a7fab016e1/playlist.m3u8
 #EXTINF:-1 tvg-id="601439515" group-title="North Korea Women U17 vs Korea Rep. (w) U17 18:30 ngày 08/05 AFC U17 Women's Asian Cup", North Korea Women U17 vs Korea Rep. (w) U17 18:30 ngày 08/05 AFC U17 Women's Asian Cup
 https://cdn-hls.taoxanh.biz/live/69fd81d8203f5_6308/index.m3u8?expire=1778826328&amp;sign=e7b0e3c992afb1ab1a66a571dd06d165
-#EXTINF:-1 tvg-id="601439362" group-title="Japan (w) U17 vs Australia Women U17 14:30 ngày 08/05 AFC U17 Women's Asian Cup", Japan (w) U17 vs Australia Women U17 14:30 ngày 08/05 AFC U17 Women's Asian Cup
-https://cdn-hls.taoxanh.biz/live/69fd8d9c42283_162172/index.m3u8?expire=1778829340&amp;sign=4a0606b71d6ce9105ab8d09c6f07e2d1
-#EXTINF:-1 tvg-id="601439365" group-title="India (w) U17 vs Lebanon U17 Women 14:30 ngày 08/05 AFC U17 Women's Asian Cup", India (w) U17 vs Lebanon U17 Women 14:30 ngày 08/05 AFC U17 Women's Asian Cup
-https://cdn-hls.taoxanh.biz/live/69fd8a1942283_103/index.m3u8?expire=1778828441&amp;sign=bb96e8b59208d43598c300ad59b17887
+#EXTINF:-1 tvg-id="601436791" group-title="Nuno Borges vs Rafael Jodar 16:00 ngày 08/05 ATP Rome, Italy Men Singles", Nuno Borges vs Rafael Jodar 16:00 ngày 08/05 ATP Rome, Italy Men Singles
+https://cdn-hls.taoxanh.biz/live/69fd98d442283_72787/index.m3u8?expire=1778832212&amp;sign=d3c82505d89d3c7f2fe2c2a54b649995
+#EXTINF:-1 tvg-id="601436806" group-title="Alex de Minaur vs Matteo Arnaldi 16:00 ngày 08/05 ATP Rome, Italy Men Singles", Alex de Minaur vs Matteo Arnaldi 16:00 ngày 08/05 ATP Rome, Italy Men Singles
+https://cdn-hls.taoxanh.biz/live/69fd9f1d42283_124958/index.m3u8?expire=1778833821&amp;sign=be12cd5e801b438d67db58f3604db872
 #EXTINF:-1 tvg-id="601439749" group-title="Rakow Czestochowa vs Korona Kielce 23:00 ngày 08/05 PKO Bank Polski EKSTRAKLASA", Rakow Czestochowa vs Korona Kielce 23:00 ngày 08/05 PKO Bank Polski EKSTRAKLASA
 https://cdn-hls.taoxanh.biz/live/69fd81db203f5_6308/index.m3u8?expire=1778826331&amp;sign=5c9cc863cde5a91cc0301eb1a54d8c4b
