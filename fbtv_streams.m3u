@@ -1,23 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601439329" group-title="Atletico Junior Barranquilla vs Cerro Porteno 09:00 ngày 08/05 CONMEBOL Copa Libertadores", Atletico Junior Barranquilla vs Cerro Porteno 09:00 ngày 08/05 CONMEBOL Copa Libertadores (Link 1)
-https://cdn-hls.taoxanh.biz/live/69fd3eba42283_72787/index.m3u8?expire=1778809146&amp;sign=23abc344bbbe06a1d83cde66485a14f2
-#EXTINF:-1 tvg-id="601439329" group-title="Atletico Junior Barranquilla vs Cerro Porteno 09:00 ngày 08/05 CONMEBOL Copa Libertadores", Atletico Junior Barranquilla vs Cerro Porteno 09:00 ngày 08/05 CONMEBOL Copa Libertadores (Link 2)
-https://live.rapidlive.shop/live/621bcc15165e90ac754dc2d5ca185102/playlist.m3u8
-#EXTINF:-1 tvg-id="601440259" group-title="Oklahoma City Thunder vs Los Angeles Lakers 08:30 ngày 08/05 National Basketball Association", Oklahoma City Thunder vs Los Angeles Lakers 08:30 ngày 08/05 National Basketball Association (Link 1)
-https://cdn-hls.taoxanh.biz/live/69fd3f8942283_42127/index.m3u8?expire=1778809353&amp;sign=54259892d7c5ad76bd9d4a4934fb255a
-#EXTINF:-1 tvg-id="601440259" group-title="Oklahoma City Thunder vs Los Angeles Lakers 08:30 ngày 08/05 National Basketball Association", Oklahoma City Thunder vs Los Angeles Lakers 08:30 ngày 08/05 National Basketball Association (Link 2)
-https://cdn-hls.taoxanh.biz/live/69fd336642283_4733/index.m3u8?expire=1778806246&amp;sign=1586d9c90717736746bd1c41258949bd
-#EXTINF:-1 tvg-id="601440259" group-title="Oklahoma City Thunder vs Los Angeles Lakers 08:30 ngày 08/05 National Basketball Association", Oklahoma City Thunder vs Los Angeles Lakers 08:30 ngày 08/05 National Basketball Association (Link 3)
-https://live.alilicloud.com/live/afd122a48a811b36ecc6068db37d0f33/playlist.m3u8
-#EXTINF:-1 tvg-id="601456132" group-title="Municipal Pococi (w) vs CS Herediano (w) 09:00 ngày 08/05 CostaRica Women's Primera Division", Municipal Pococi (w) vs CS Herediano (w) 09:00 ngày 08/05 CostaRica Women's Primera Division
-https://live.rapidlive.shop/live/8ba3f4d05cc4e612ee86fb52457ea3d1/playlist.m3u8
-#EXTINF:-1 tvg-id="601456135" group-title="Dimas Escazu (w) vs Alajuelense (w) 09:00 ngày 08/05 CostaRica Women's Primera Division", Dimas Escazu (w) vs Alajuelense (w) 09:00 ngày 08/05 CostaRica Women's Primera Division
-https://live.rapidlive.shop/live/193ffd96d4c16fb6f29c93fa0954efbf/playlist.m3u8
-#EXTINF:-1 tvg-id="601455016" group-title="Toluca (w) vs Club America (w) 10:00 ngày 08/05 Mexico Liga MX Femenil", Toluca (w) vs Club America (w) 10:00 ngày 08/05 Mexico Liga MX Femenil
-https://live.rapidlive.shop/live/d3dfbc8b55a5e4e43929d0e9b5d3af1b/playlist.m3u8
-#EXTINF:-1 tvg-id="601436686" group-title="Lizette Cabrera vs Bai Zhuoxuan 10:00 ngày 08/05 WTA 125K Jiujiang, China Women Singles", Lizette Cabrera vs Bai Zhuoxuan 10:00 ngày 08/05 WTA 125K Jiujiang, China Women Singles
-https://live.alilicloud.com/live/366b8f1eff3069245d58e8d6e9a87f15/playlist.m3u8
-#EXTINF:-1 tvg-id="601436680" group-title="Heather Watson vs You Xiaodi 10:05 ngày 08/05 WTA 125K Jiujiang, China Women Singles", Heather Watson vs You Xiaodi 10:05 ngày 08/05 WTA 125K Jiujiang, China Women Singles
-https://live.alilicloud.com/live/5f0d059f4bafa53e0506b8e613b198c7/playlist.m3u8
-#EXTINF:-1 tvg-id="601436698" group-title="Momoko Kobori/Ayano Shimizu vs Micic E / Shimizu E 10:05 ngày 08/05 WTA 125 Cali, Colombia Women Double", Momoko Kobori/Ayano Shimizu vs Micic E / Shimizu E 10:05 ngày 08/05 WTA 125 Cali, Colombia Women Double
-https://live.alilicloud.com/live/e1d0c2633adf8a835540ad9ae226ff9b/playlist.m3u8
+#EXTINF:-1 tvg-id="601455019" group-title="Congtai District Zhaodu vs Dalian Chuanyi 12:00 ngày 08/05 Chinese Football Association Member Association Champions League", Congtai District Zhaodu vs Dalian Chuanyi 12:00 ngày 08/05 Chinese Football Association Member Association Champions League
+https://live.rapidlive.shop/live/19258363f3445f3ee3b9fec461169d08/playlist.m3u8
+#EXTINF:-1 tvg-id="601436683" group-title="Lanlana Tararudee vs Yao Xinxin  11:35 ngày 08/05 WTA 125K Jiujiang, China Women Singles", Lanlana Tararudee vs Yao Xinxin  11:35 ngày 08/05 WTA 125K Jiujiang, China Women Singles
+https://live.alilicloud.com/live/40484c7bc3098e514ec0bf7fb10b47cd/playlist.m3u8
+#EXTINF:-1 tvg-id="601436689" group-title="Li Y-Y / Li Z vs Lee Y / Ye Q Y 11:50 ngày 08/05 WTA 125 Cali, Colombia Women Double", Li Y-Y / Li Z vs Lee Y / Ye Q Y 11:50 ngày 08/05 WTA 125 Cali, Colombia Women Double
+https://live.alilicloud.com/live/a1306a329f19b7cffca20bffb043d893/playlist.m3u8
+#EXTINF:-1 tvg-id="601436677" group-title="Hayu Kinoshita vs Liang En-shuo 12:15 ngày 08/05 WTA 125K Jiujiang, China Women Singles", Hayu Kinoshita vs Liang En-shuo 12:15 ngày 08/05 WTA 125K Jiujiang, China Women Singles
+https://live.alilicloud.com/live/79b2f66ce3b12349bb0195451ab74d9c/playlist.m3u8
+#EXTINF:-1 tvg-id="601456342" group-title="Gwangju Womens University Women vs Dankook University Women 12:00 ngày 08/05 South Korea College League Women", Gwangju Womens University Women vs Dankook University Women 12:00 ngày 08/05 South Korea College League Women
+https://live.alilicloud.com/live/5150609063de9fe9298f32693c051eb0/playlist.m3u8
+#EXTINF:-1 tvg-id="601456345" group-title="Suwon University Women vs Gwangju University Women 12:00 ngày 08/05 South Korea College League Women", Suwon University Women vs Gwangju University Women 12:00 ngày 08/05 South Korea College League Women
+https://live.alilicloud.com/live/51359d394f4930918e496becbab86d12/playlist.m3u8
