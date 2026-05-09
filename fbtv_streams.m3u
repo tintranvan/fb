@@ -5,32 +5,22 @@ https://cdn-hls.taoxanh.biz/live/69ff5b3642283_72787/index.m3u8?expire=177894751
 https://cdn-hls.taoxanh.biz/live/69ff720342283_42127/index.m3u8?expire=1778953347&amp;sign=1a3ab75010e45d4dae7fd5f0c1e15e69
 #EXTINF:-1 tvg-id="601437166" group-title="UFC 328", UFC 328
 https://cdn-hls.taoxanh.biz/live/69ff99c1203f5_4733/index.m3u8?expire=1778963521&amp;sign=3daa9c7f7e46eca9b81cdfe6c7ecd430
-#EXTINF:-1 tvg-id="601449451" group-title="Chicago flame B vs Crown Legacy FC 03:00 ngày 10/05 MLS Next PL", Chicago flame B vs Crown Legacy FC 03:00 ngày 10/05 MLS Next PL
-https://vlsrq.alilicloud.com/live/dc2d3135474065978a42bc4045cc780c/playlist.m3u8
 #EXTINF:-1 tvg-id="601449439" group-title="Forge FC vs HFX Wanderers FC 03:00 ngày 10/05 Canadian Championship", Forge FC vs HFX Wanderers FC 03:00 ngày 10/05 Canadian Championship
 https://vlsrq.alilicloud.com/live/f050fdebc2229cb61a7a2f0e5a5b1076/playlist.m3u8
-#EXTINF:-1 tvg-id="601449403" group-title="SC Paysandu Para vs Anapolis FC 03:00 ngày 10/05 Brazilian Serie C", SC Paysandu Para vs Anapolis FC 03:00 ngày 10/05 Brazilian Serie C
-https://vlsrq.alilicloud.com/live/a1c52697caab7f83b5eb80b6f0b862ba/playlist.m3u8
-#EXTINF:-1 tvg-id="601449463" group-title="Atletico Grau vs Cienciano 03:15 ngày 10/05 Peruvian Liga 1", Atletico Grau vs Cienciano 03:15 ngày 10/05 Peruvian Liga 1
-https://vlsrq.alilicloud.com/live/99c617aab5075ed74418b2ad3660bb7e/playlist.m3u8
-#EXTINF:-1 tvg-id="601449475" group-title="Montreal Impact vs Orlando City 03:40 ngày 10/05 United States Major League Soccer", Montreal Impact vs Orlando City 03:40 ngày 10/05 United States Major League Soccer
-https://vlsrq.alilicloud.com/live/0cf8cdff8ebbe1583d58e27a37fa09ff/playlist.m3u8
-#EXTINF:-1 tvg-id="601449478" group-title="Club Sportivo 2 de Mayo vs Rubio nu 03:45 ngày 10/05 Paraguayan Primera Division", Club Sportivo 2 de Mayo vs Rubio nu 03:45 ngày 10/05 Paraguayan Primera Division
-https://vlsrq.alilicloud.com/live/563e8b624c7be83b8147d24a7d3db0e0/playlist.m3u8
-#EXTINF:-1 tvg-id="601449487" group-title="Guayaquil City vs Deportivo Cuenca 04:00 ngày 10/05 LigaPro Serie A", Guayaquil City vs Deportivo Cuenca 04:00 ngày 10/05 LigaPro Serie A
-https://vlsrq.alilicloud.com/live/3e2c85d9c4a19c3e4f15d24e471ae5f0/playlist.m3u8
 #EXTINF:-1 tvg-id="601449517" group-title="La Equidad vs Atletico Nacional Medellin 04:00 ngày 10/05 Categoría Primera A", La Equidad vs Atletico Nacional Medellin 04:00 ngày 10/05 Categoría Primera A
 https://vlsrq.alilicloud.com/live/643d8665c1eaf6974a96180c8059d269/playlist.m3u8
 #EXTINF:-1 tvg-id="601449514" group-title="Saint Louis City B vs Houston Dynamo B 04:00 ngày 10/05 MLS Next PL", Saint Louis City B vs Houston Dynamo B 04:00 ngày 10/05 MLS Next PL
 https://vlsrq.alilicloud.com/live/f50b916adc5d500c77982fbdefe3e7a5/playlist.m3u8
 #EXTINF:-1 tvg-id="601449496" group-title="Maranhao vs Botafogo PB 04:00 ngày 10/05 Brazilian Serie C", Maranhao vs Botafogo PB 04:00 ngày 10/05 Brazilian Serie C
 https://vlsrq.alilicloud.com/live/5beda4dff38b6ca4afc03c8966223d3b/playlist.m3u8
-#EXTINF:-1 tvg-id="601449493" group-title="Athletic Club vs Cuiaba 04:00 ngày 10/05 Brazilian Serie B", Athletic Club vs Cuiaba 04:00 ngày 10/05 Brazilian Serie B
-https://vlsrq.alilicloud.com/live/6194d129d8fea0cd120bb1166847f38d/playlist.m3u8
-#EXTINF:-1 tvg-id="601449481" group-title="Fluminense RJ vs Vitoria BA 04:00 ngày 10/05 Brazilian Serie A", Fluminense RJ vs Vitoria BA 04:00 ngày 10/05 Brazilian Serie A
-https://vlsrq.alilicloud.com/live/501a75924db6d1a119555a09b827b24b/playlist.m3u8
 #EXTINF:-1 tvg-id="601444696" group-title="Atletico Rafaela vs Gimnasia yTiro 04:00 ngày 10/05 Argentine Division 2", Atletico Rafaela vs Gimnasia yTiro 04:00 ngày 10/05 Argentine Division 2
 https://vlsrq.alilicloud.com/live/fcd77707a16ce5569ea57e35ec5f496e/playlist.m3u8
+#EXTINF:-1 tvg-id="601449481" group-title="Fluminense RJ vs Vitoria BA 04:00 ngày 10/05 Brazilian Serie A", Fluminense RJ vs Vitoria BA 04:00 ngày 10/05 Brazilian Serie A
+https://vlsrq.alilicloud.com/live/501a75924db6d1a119555a09b827b24b/playlist.m3u8
+#EXTINF:-1 tvg-id="601449487" group-title="Guayaquil City vs Deportivo Cuenca 04:00 ngày 10/05 LigaPro Serie A", Guayaquil City vs Deportivo Cuenca 04:00 ngày 10/05 LigaPro Serie A
+https://vlsrq.alilicloud.com/live/3e2c85d9c4a19c3e4f15d24e471ae5f0/playlist.m3u8
+#EXTINF:-1 tvg-id="601449493" group-title="Athletic Club vs Cuiaba 04:00 ngày 10/05 Brazilian Serie B", Athletic Club vs Cuiaba 04:00 ngày 10/05 Brazilian Serie B
+https://vlsrq.alilicloud.com/live/6194d129d8fea0cd120bb1166847f38d/playlist.m3u8
 #EXTINF:-1 tvg-id="601449520" group-title="Club Guabira vs Gualberto Villarroel Deportivo San José 04:15 ngày 10/05 Bolivian Primera Division", Club Guabira vs Gualberto Villarroel Deportivo San José 04:15 ngày 10/05 Bolivian Primera Division
 https://vlsrq.alilicloud.com/live/02687552e1d98ec6b4336499b6a8ffba/playlist.m3u8
 #EXTINF:-1 tvg-id="601449523" group-title="Central Espanol vs Racing Club Montevideo 04:25 ngày 10/05 Uruguay Primera Division", Central Espanol vs Racing Club Montevideo 04:25 ngày 10/05 Uruguay Primera Division
@@ -41,3 +31,19 @@ https://vlsrq.alilicloud.com/live/33c3ce624ea572a488e99948741395de/playlist.m3u8
 https://vlsrq.alilicloud.com/live/39450fd83658aa80f36d54d328d2276c/playlist.m3u8
 #EXTINF:-1 tvg-id="601449526" group-title="Sociedad Deportiva Aucas vs CD Universidad Católica 04:30 ngày 10/05 LigaPro Serie A", Sociedad Deportiva Aucas vs CD Universidad Católica 04:30 ngày 10/05 LigaPro Serie A
 https://vlsrq.alilicloud.com/live/45cad1ca45f396a599afc8dcdb8fab32/playlist.m3u8
+#EXTINF:-1 tvg-id="601455214" group-title="Boca Juniors vs CA Huracan 05:00 ngày 10/05 Argentine Division 1", Boca Juniors vs CA Huracan 05:00 ngày 10/05 Argentine Division 1
+https://vlsrq.alilicloud.com/live/864c3beeb17528c1cdf006430c21f00a/playlist.m3u8
+#EXTINF:-1 tvg-id="601455211" group-title="Orsomarso vs Cucuta Deportivo 05:00 ngày 10/05 Colombian Copa BetPlay DIMAYOR", Orsomarso vs Cucuta Deportivo 05:00 ngày 10/05 Colombian Copa BetPlay DIMAYOR
+https://vlsrq.alilicloud.com/live/e5d98347147ef428243ad86673df5fa3/playlist.m3u8
+#EXTINF:-1 tvg-id="601449544" group-title="Ceara vs Atletico Clube Goianiense 05:00 ngày 10/05 Brazilian Serie B", Ceara vs Atletico Clube Goianiense 05:00 ngày 10/05 Brazilian Serie B
+https://vlsrq.alilicloud.com/live/42734c950e382925f3a4b3cee74d09cd/playlist.m3u8
+#EXTINF:-1 tvg-id="601459525" group-title="Circle Newtown United vs ELCO LTD St Peters 05:00 ngày 10/05 Saint Kitts Nevis Premier League", Circle Newtown United vs ELCO LTD St Peters 05:00 ngày 10/05 Saint Kitts Nevis Premier League
+https://vlsrq.alilicloud.com/live/283db52d74c93fc32150a783a30bf006/playlist.m3u8
+#EXTINF:-1 tvg-id="601459528" group-title="Bubali SC vs SV Dakota 05:30 ngày 10/05 Aruba Division Di Honor", Bubali SC vs SV Dakota 05:30 ngày 10/05 Aruba Division Di Honor
+https://vlsrq.alilicloud.com/live/b31c03b2bf869e254eaa1d88f8844749/playlist.m3u8
+#EXTINF:-1 tvg-id="601449562" group-title="Gotham FC (w) vs Boston Legacy W 05:30 ngày 10/05 United States Women's National Soccer League", Gotham FC (w) vs Boston Legacy W 05:30 ngày 10/05 United States Women's National Soccer League
+https://vlsrq.alilicloud.com/live/dfeca7e388822e2c1eeea585a42a61c7/playlist.m3u8
+#EXTINF:-1 tvg-id="601442983" group-title="Corinthians vs Pitagoras Minas 05:00 ngày 10/05 Novo Basquete Brasil", Corinthians vs Pitagoras Minas 05:00 ngày 10/05 Novo Basquete Brasil
+https://live.alilicloud.com/live/98a5e4ca4be9ea6593590a0187bafcd9/playlist.m3u8
+#EXTINF:-1 tvg-id="601453846" group-title="Alletico Aguada vs Hebraica y Macabi 05:15 ngày 10/05 Uruguay Liga Uruguaya", Alletico Aguada vs Hebraica y Macabi 05:15 ngày 10/05 Uruguay Liga Uruguaya
+https://live.alilicloud.com/live/aac9241e7157af2f54dda08f503fce25/playlist.m3u8
