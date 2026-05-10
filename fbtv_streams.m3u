@@ -1,33 +1,47 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601447570" group-title="Philadelphia 76ers vs New York Knicks 02:30 ngày 11/05 National Basketball Association", Philadelphia 76ers vs New York Knicks 02:30 ngày 11/05 National Basketball Association (Link 1)
-https://cdn-hls.taoxanh.biz/live/6a00dc80203f6_4439/index.m3u8?expire=1779046144&amp;sign=591b35169e0318b605286f580ed5727e
-#EXTINF:-1 tvg-id="601447570" group-title="Philadelphia 76ers vs New York Knicks 02:30 ngày 11/05 National Basketball Association", Philadelphia 76ers vs New York Knicks 02:30 ngày 11/05 National Basketball Association (Link 2)
-https://dlqcalr.alilicloud.com/live/a8b941fc386c6f6b91d88de5029748fa/playlist.m3u8
-#EXTINF:-1 tvg-id="601453027" group-title="Comerciantes Unidos vs FBC Melgar 03:15 ngày 11/05 Peruvian Liga 1", Comerciantes Unidos vs FBC Melgar 03:15 ngày 11/05 Peruvian Liga 1
-https://dlqcalr.alilicloud.com/live/4f9666406c73eef1fdc9da58d7dcb895/playlist.m3u8
-#EXTINF:-1 tvg-id="601453033" group-title="Club Sport Emelec vs Libertad FC 03:30 ngày 11/05 LigaPro Serie A", Club Sport Emelec vs Libertad FC 03:30 ngày 11/05 LigaPro Serie A
-https://dlqcalr.alilicloud.com/live/163f3e71b3fcfa346224bb0d20c98ba1/playlist.m3u8
-#EXTINF:-1 tvg-id="601453030" group-title="New York City FC vs Columbus Crew 03:40 ngày 11/05 United States Major League Soccer", New York City FC vs Columbus Crew 03:40 ngày 11/05 United States Major League Soccer
-https://dlqcalr.alilicloud.com/live/5598adb50b8b98e3ac13b0df49472925/playlist.m3u8
-#EXTINF:-1 tvg-id="601461736" group-title="Inter Moengo Tapoe vs Voorwaarts T 03:40 ngày 11/05 SML", Inter Moengo Tapoe vs Voorwaarts T 03:40 ngày 11/05 SML
-https://dlqcalr.alilicloud.com/live/60fb7fa11c90ff729dff25b268dce344/playlist.m3u8
-#EXTINF:-1 tvg-id="601453036" group-title="Sportivo San Lorenzo vs Olimpia Asuncion 03:45 ngày 11/05 Paraguayan Primera Division", Sportivo San Lorenzo vs Olimpia Asuncion 03:45 ngày 11/05 Paraguayan Primera Division
-https://dlqcalr.alilicloud.com/live/875d79852edf647d91cfec603369dd52/playlist.m3u8
-#EXTINF:-1 tvg-id="601453039" group-title="Colon de Santa Fe vs All Boys 04:00 ngày 11/05 Argentine Division 2", Colon de Santa Fe vs All Boys 04:00 ngày 11/05 Argentine Division 2
-https://dlqcalr.alilicloud.com/live/90be1a78906b8928963359b98bbf563d/playlist.m3u8
-#EXTINF:-1 tvg-id="601466029" group-title="Tigres Zipaquira vs Deportes Quindio 04:00 ngày 11/05 Colombian Torneo BetPlay Dimayor", Tigres Zipaquira vs Deportes Quindio 04:00 ngày 11/05 Colombian Torneo BetPlay Dimayor
-https://dlqcalr.alilicloud.com/live/66820c0f729382f0c670be93ec74f6e0/playlist.m3u8
+#EXTINF:-1 tvg-id="601453117" group-title="Pachuca vs Toluca 06:00 ngày 11/05 Mexico Liga MX", Pachuca vs Toluca 06:00 ngày 11/05 Mexico Liga MX (Link 1)
+https://cdn-hls.taoxanh.biz/live/6a01095a42284_95554/index.m3u8?expire=1779057626&amp;sign=86c88180e009ea1aef6ecbd9af3ed2f8
+#EXTINF:-1 tvg-id="601453117" group-title="Pachuca vs Toluca 06:00 ngày 11/05 Mexico Liga MX", Pachuca vs Toluca 06:00 ngày 11/05 Mexico Liga MX (Link 2)
+https://dlqcalr.alilicloud.com/live/ef55cc8fcb0b417236d0b6c66b9c843d/playlist.m3u8
 #EXTINF:-1 tvg-id="601453060" group-title="The Strongest vs Real Potosi 04:15 ngày 11/05 Bolivian Primera Division", The Strongest vs Real Potosi 04:15 ngày 11/05 Bolivian Primera Division
 https://dlqcalr.alilicloud.com/live/6537394e0d3ca3067b03a690b170621f/playlist.m3u8
-#EXTINF:-1 tvg-id="601449301" group-title="Avaí FC vs Fortaleza 04:30 ngày 11/05 Brazilian Serie B", Avaí FC vs Fortaleza 04:30 ngày 11/05 Brazilian Serie B
-https://dlqcalr.alilicloud.com/live/d43c357e06def3a356af7c814d765834/playlist.m3u8
-#EXTINF:-1 tvg-id="601453063" group-title="Corinthians Paulista (SP) vs Sao Paulo 04:30 ngày 11/05 Brazilian Serie A", Corinthians Paulista (SP) vs Sao Paulo 04:30 ngày 11/05 Brazilian Serie A
-https://dlqcalr.alilicloud.com/live/0b1a8c3d22f94bffd9470ba0617767bd/playlist.m3u8
-#EXTINF:-1 tvg-id="601453066" group-title="Mirassol vs Chapecoense SC 04:30 ngày 11/05 Brazilian Serie A", Mirassol vs Chapecoense SC 04:30 ngày 11/05 Brazilian Serie A
-https://dlqcalr.alilicloud.com/live/5657e25c4872429a4c8eef8c3a162166/playlist.m3u8
 #EXTINF:-1 tvg-id="601453069" group-title="Santos vs Red Bull Bragantino 04:30 ngày 11/05 Brazilian Serie A", Santos vs Red Bull Bragantino 04:30 ngày 11/05 Brazilian Serie A
 https://dlqcalr.alilicloud.com/live/b05d70a4531ccc45c2423cb96ced93a8/playlist.m3u8
-#EXTINF:-1 tvg-id="601453078" group-title="Deportivo Saprissa vs Municipal Liberia 05:00 ngày 11/05 Costa Rica Primera Division", Deportivo Saprissa vs Municipal Liberia 05:00 ngày 11/05 Costa Rica Primera Division
-https://dlqcalr.alilicloud.com/live/11b185fd30ca715700ef818f82f4ed16/playlist.m3u8
+#EXTINF:-1 tvg-id="601453066" group-title="Mirassol vs Chapecoense SC 04:30 ngày 11/05 Brazilian Serie A", Mirassol vs Chapecoense SC 04:30 ngày 11/05 Brazilian Serie A
+https://dlqcalr.alilicloud.com/live/5657e25c4872429a4c8eef8c3a162166/playlist.m3u8
+#EXTINF:-1 tvg-id="601453063" group-title="Corinthians Paulista (SP) vs Sao Paulo 04:30 ngày 11/05 Brazilian Serie A", Corinthians Paulista (SP) vs Sao Paulo 04:30 ngày 11/05 Brazilian Serie A
+https://dlqcalr.alilicloud.com/live/0b1a8c3d22f94bffd9470ba0617767bd/playlist.m3u8
+#EXTINF:-1 tvg-id="601449301" group-title="Avaí FC vs Fortaleza 04:30 ngày 11/05 Brazilian Serie B", Avaí FC vs Fortaleza 04:30 ngày 11/05 Brazilian Serie B
+https://dlqcalr.alilicloud.com/live/d43c357e06def3a356af7c814d765834/playlist.m3u8
 #EXTINF:-1 tvg-id="601461745" group-title="Cibao FC vs Atletico Pantoja 05:00 ngày 11/05 Liga Dominicana de Fútbol", Cibao FC vs Atletico Pantoja 05:00 ngày 11/05 Liga Dominicana de Fútbol
 https://dlqcalr.alilicloud.com/live/243a43dc6d84320f59a8a4fa50e6f5ca/playlist.m3u8
+#EXTINF:-1 tvg-id="601453075" group-title="Spokane Velocity vs FC Naples 05:00 ngày 11/05 USL League One", Spokane Velocity vs FC Naples 05:00 ngày 11/05 USL League One
+https://dlqcalr.alilicloud.com/live/4349e4ebd2b887085ea758edc747337c/playlist.m3u8
+#EXTINF:-1 tvg-id="601453078" group-title="Deportivo Saprissa vs Municipal Liberia 05:00 ngày 11/05 Costa Rica Primera Division", Deportivo Saprissa vs Municipal Liberia 05:00 ngày 11/05 Costa Rica Primera Division
+https://dlqcalr.alilicloud.com/live/11b185fd30ca715700ef818f82f4ed16/playlist.m3u8
+#EXTINF:-1 tvg-id="601461742" group-title="Paradise FC vs Brittons Hill 05:00 ngày 11/05 Barbados Premier League", Paradise FC vs Brittons Hill 05:00 ngày 11/05 Barbados Premier League
+https://dlqcalr.alilicloud.com/live/f78d734fa4e270a87579b791150f79aa/playlist.m3u8
+#EXTINF:-1 tvg-id="601453087" group-title="Cincinnati II vs Columbus Crew B 05:00 ngày 11/05 MLS Next PL", Cincinnati II vs Columbus Crew B 05:00 ngày 11/05 MLS Next PL
+https://dlqcalr.alilicloud.com/live/32f6bd62e5eb6094d9500e680c247751/playlist.m3u8
+#EXTINF:-1 tvg-id="601455244" group-title="River Plate vs San Lorenzo 05:00 ngày 11/05 Argentine Division 1", River Plate vs San Lorenzo 05:00 ngày 11/05 Argentine Division 1
+https://dlqcalr.alilicloud.com/live/e009dacd034d7f904295b7e0d6e02591/playlist.m3u8
+#EXTINF:-1 tvg-id="601461739" group-title="Racing United vs Portmore United 05:00 ngày 11/05 Jamaica Premier League", Racing United vs Portmore United 05:00 ngày 11/05 Jamaica Premier League
+https://dlqcalr.alilicloud.com/live/b499c3176ed2ef94a13dd7cab2e8855e/playlist.m3u8
+#EXTINF:-1 tvg-id="601453081" group-title="SV Unistars vs SV River Plate 05:10 ngày 11/05 Aruba Division Di Honor", SV Unistars vs SV River Plate 05:10 ngày 11/05 Aruba Division Di Honor
+https://dlqcalr.alilicloud.com/live/eb4b7ba9a23838cb3cbe73f23e7e2469/playlist.m3u8
+#EXTINF:-1 tvg-id="601453090" group-title="Nacional Montevideo vs Cerro Montevideo 05:25 ngày 11/05 Uruguay Primera Division", Nacional Montevideo vs Cerro Montevideo 05:25 ngày 11/05 Uruguay Primera Division
+https://dlqcalr.alilicloud.com/live/2065bac1719dc43baf7d4c7f21931c07/playlist.m3u8
+#EXTINF:-1 tvg-id="601453105" group-title="Ituano  SP vs AD Confiança 05:30 ngày 11/05 Brazilian Serie C", Ituano  SP vs AD Confiança 05:30 ngày 11/05 Brazilian Serie C
+https://dlqcalr.alilicloud.com/live/de38222b1c7231b8a6254eff10358aa1/playlist.m3u8
+#EXTINF:-1 tvg-id="601453102" group-title="Brusque FC vs Ypiranga(RS) 05:30 ngày 11/05 Brazilian Serie C", Brusque FC vs Ypiranga(RS) 05:30 ngày 11/05 Brazilian Serie C
+https://dlqcalr.alilicloud.com/live/219b8bef8cf6805cf40533ae7c9dea3e/playlist.m3u8
+#EXTINF:-1 tvg-id="601453099" group-title="Gremio Novorizontino vs Botafogo SP 05:30 ngày 11/05 Brazilian Serie B", Gremio Novorizontino vs Botafogo SP 05:30 ngày 11/05 Brazilian Serie B
+https://dlqcalr.alilicloud.com/live/176079e15ac5338eafc72641f35af70b/playlist.m3u8
+#EXTINF:-1 tvg-id="601453096" group-title="Cusco FC vs Los Chankas 05:30 ngày 11/05 Peruvian Liga 1", Cusco FC vs Los Chankas 05:30 ngày 11/05 Peruvian Liga 1
+https://dlqcalr.alilicloud.com/live/612526fc8d9d1859c09e42b4c1b598df/playlist.m3u8
+#EXTINF:-1 tvg-id="601453093" group-title="Gremio (RS) vs CR Flamengo 05:30 ngày 11/05 Brazilian Serie A", Gremio (RS) vs CR Flamengo 05:30 ngày 11/05 Brazilian Serie A
+https://dlqcalr.alilicloud.com/live/58c77755f5bc6eb888895cd9966e43bd/playlist.m3u8
+#EXTINF:-1 tvg-id="601447576" group-title="Los Angeles Sparks vs Las Vegas Aces 05:00 ngày 11/05 Women's National Basketball Association", Los Angeles Sparks vs Las Vegas Aces 05:00 ngày 11/05 Women's National Basketball Association
+https://dlqcalr.alilicloud.com/live/829b284c749291ea2641be224934908d/playlist.m3u8
+#EXTINF:-1 tvg-id="601453132" group-title="Clube de Regatas Vasco da Gama vs Athletico Paranaense 06:30 ngày 11/05 Brazilian Serie A", Clube de Regatas Vasco da Gama vs Athletico Paranaense 06:30 ngày 11/05 Brazilian Serie A
+https://cdn-hls.taoxanh.biz/live/6a01074242283_74012/index.m3u8?expire=1779057090&amp;sign=bd3cb98add827c7a8d7c8906258037da
