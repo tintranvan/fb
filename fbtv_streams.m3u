@@ -1,25 +1,73 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601453180" group-title="Vietnam U17 Women vs Australia Women U17 14:00 ngày 11/05 AFC U17 Women's Asian Cup", Vietnam U17 Women vs Australia Women U17 14:00 ngày 11/05 AFC U17 Women's Asian Cup (Link 1)
-https://cdn-hls.taoxanh.biz/live/6a01797042284_162172/index.m3u8?expire=1779086320&amp;sign=79f42b15181affce401ab23a4a211dfb
-#EXTINF:-1 tvg-id="601453180" group-title="Vietnam U17 Women vs Australia Women U17 14:00 ngày 11/05 AFC U17 Women's Asian Cup", Vietnam U17 Women vs Australia Women U17 14:00 ngày 11/05 AFC U17 Women's Asian Cup (Link 2)
-https://dlqcalr.alilicloud.com/live/aa06210b1fa50d0ef83423b52b6a58e0/playlist.m3u8
-#EXTINF:-1 tvg-id="601453183" group-title="Japan (w) U17 vs Korea Rep. (w) U17 14:00 ngày 11/05 AFC U17 Women's Asian Cup", Japan (w) U17 vs Korea Rep. (w) U17 14:00 ngày 11/05 AFC U17 Women's Asian Cup (Link 1)
-https://cdn-hls.taoxanh.biz/live/6a017713203f6_72787/index.m3u8?expire=1779085715&amp;sign=5fdcff462e8c76283367fb4f63bff1a4
-#EXTINF:-1 tvg-id="601453183" group-title="Japan (w) U17 vs Korea Rep. (w) U17 14:00 ngày 11/05 AFC U17 Women's Asian Cup", Japan (w) U17 vs Korea Rep. (w) U17 14:00 ngày 11/05 AFC U17 Women's Asian Cup (Link 2)
-https://dlqcalr.alilicloud.com/live/56a54dc483345d1ffb3aaa199db9b400/playlist.m3u8
-#EXTINF:-1 tvg-id="601461769" group-title="Qingdao West Coast U21 vs Shandong Taishan U20 14:00 ngày 11/05 Chinese Football Assorciation U-21 League", Qingdao West Coast U21 vs Shandong Taishan U20 14:00 ngày 11/05 Chinese Football Assorciation U-21 League
-https://dlqcalr.alilicloud.com/live/e0eea3a337e5792b17377a59a6cbdac7/playlist.m3u8
-#EXTINF:-1 tvg-id="601461787" group-title="Henan FC U21 vs Tianjin Jinmen Tiger U21 14:00 ngày 11/05 Chinese Football Assorciation U-21 League", Henan FC U21 vs Tianjin Jinmen Tiger U21 14:00 ngày 11/05 Chinese Football Assorciation U-21 League
-https://dlqcalr.alilicloud.com/live/9ffc2a8f1a1202ec89080cd31df83099/playlist.m3u8
-#EXTINF:-1 tvg-id="601461790" group-title="Shijiazhuang Gongfu U21 vs Lanzhou Longyuan Athletics U21 14:00 ngày 11/05 Chinese Football Assorciation U-21 League", Shijiazhuang Gongfu U21 vs Lanzhou Longyuan Athletics U21 14:00 ngày 11/05 Chinese Football Assorciation U-21 League
-https://dlqcalr.alilicloud.com/live/99aa76a1e82ac0ea53086df39868a794/playlist.m3u8
-#EXTINF:-1 tvg-id="601461772" group-title="Guangdong Guangzhou Power U20 vs Shanghai Port U20 14:00 ngày 11/05 Chinese Football Assorciation U-21 League", Guangdong Guangzhou Power U20 vs Shanghai Port U20 14:00 ngày 11/05 Chinese Football Assorciation U-21 League
-https://dlqcalr.alilicloud.com/live/126c90bb2ae8cfb86300b2dc1960d95f/playlist.m3u8
-#EXTINF:-1 tvg-id="601461781" group-title="Liaoning Tieren U20 vs Hubei Istar U20 14:00 ngày 11/05 Chinese Football Assorciation U-21 League", Liaoning Tieren U20 vs Hubei Istar U20 14:00 ngày 11/05 Chinese Football Assorciation U-21 League
-https://dlqcalr.alilicloud.com/live/ab46325c2493416ef9d4a78bdbf57533/playlist.m3u8
-#EXTINF:-1 tvg-id="601466305" group-title="Naoya Honda vs Ryotaro Taguchi 12:30 ngày 11/05 ATP Challenger Bengaluru 2, India Men Singles", Naoya Honda vs Ryotaro Taguchi 12:30 ngày 11/05 ATP Challenger Bengaluru 2, India Men Singles
-https://dlqcalr.alilicloud.com/live/dc51bf594f755aeabce7f4f5c55406f2/playlist.m3u8
-#EXTINF:-1 tvg-id="601466569" group-title="Alastair Gray vs Volodymyr Iakubenko 14:00 ngày 11/05 ATP Challenger Bengaluru 2, India Men Singles", Alastair Gray vs Volodymyr Iakubenko 14:00 ngày 11/05 ATP Challenger Bengaluru 2, India Men Singles
-https://dlqcalr.alilicloud.com/live/3697abc9f79a4388aeb5ef9f10a1ebde/playlist.m3u8
-#EXTINF:-1 tvg-id="601470094" group-title="Beijing Ducks U21 vs Guangdong Southern Tigers U21 14:30 ngày 11/05 China National Basketball League U21", Beijing Ducks U21 vs Guangdong Southern Tigers U21 14:30 ngày 11/05 China National Basketball League U21
-https://dlqcalr.alilicloud.com/live/d48696ffe85a6734b2127cd1c4f78d5c/playlist.m3u8
+#EXTINF:-1 tvg-id="601453228" group-title="China U17 Women vs India (w) U17 18:30 ngày 11/05 AFC U17 Women's Asian Cup", China U17 Women vs India (w) U17 18:30 ngày 11/05 AFC U17 Women's Asian Cup (Link 1)
+https://cdn-hls.taoxanh.biz/live/6a01a951203f6_88186/index.m3u8?expire=1779098577&amp;sign=52926b523a19d81b3d87ec4db95e758f
+#EXTINF:-1 tvg-id="601453228" group-title="China U17 Women vs India (w) U17 18:30 ngày 11/05 AFC U17 Women's Asian Cup", China U17 Women vs India (w) U17 18:30 ngày 11/05 AFC U17 Women's Asian Cup (Link 2)
+https://dlqcalr.alilicloud.com/live/a63efcdd1d598a25b72f54b7d7d9d477/playlist.m3u8
+#EXTINF:-1 tvg-id="601453231" group-title="North Korea Women U17 vs Thailand U17 Women 18:30 ngày 11/05 AFC U17 Women's Asian Cup", North Korea Women U17 vs Thailand U17 Women 18:30 ngày 11/05 AFC U17 Women's Asian Cup (Link 1)
+https://cdn-hls.taoxanh.biz/live/6a01b31342284_133172/index.m3u8?expire=1779101075&amp;sign=caefd6e47538c6040b6d60840dc1244a
+#EXTINF:-1 tvg-id="601453231" group-title="North Korea Women U17 vs Thailand U17 Women 18:30 ngày 11/05 AFC U17 Women's Asian Cup", North Korea Women U17 vs Thailand U17 Women 18:30 ngày 11/05 AFC U17 Women's Asian Cup (Link 2)
+https://dlqcalr.alilicloud.com/live/6e29760cd78dc593274c55a454b64cc9/playlist.m3u8
+#EXTINF:-1 tvg-id="601453201" group-title="Akron Togliatti vs FK Rostov 17:00 ngày 11/05 Russian Premier League", Akron Togliatti vs FK Rostov 17:00 ngày 11/05 Russian Premier League (Link 1)
+https://cdn-hls.taoxanh.biz/live/6a01a23d203f6_18754/index.m3u8?expire=1779096765&amp;sign=01c3cb9b1d3f9d3023970b0327f5e701
+#EXTINF:-1 tvg-id="601453201" group-title="Akron Togliatti vs FK Rostov 17:00 ngày 11/05 Russian Premier League", Akron Togliatti vs FK Rostov 17:00 ngày 11/05 Russian Premier League (Link 2)
+https://dlqcalr.alilicloud.com/live/97c0f361c8b81e03eb2642464dc5186e/playlist.m3u8
+#EXTINF:-1 tvg-id="601443391" group-title="Brandon Nakashima vs Nikoloz Basilashvili 17:35 ngày 11/05 ATP Rome, Italy Men Singles", Brandon Nakashima vs Nikoloz Basilashvili 17:35 ngày 11/05 ATP Rome, Italy Men Singles
+https://cdn-hls.taoxanh.biz/live/6a01b10b42284_72787/index.m3u8?expire=1779100555&amp;sign=3d853f7e480235bfb756a0ca1af50bad
+#EXTINF:-1 tvg-id="601443388" group-title="Frances Tiafoe vs Andrea Pellegrino 18:10 ngày 11/05 ATP Rome, Italy Men Singles", Frances Tiafoe vs Andrea Pellegrino 18:10 ngày 11/05 ATP Rome, Italy Men Singles
+https://cdn-hls.taoxanh.biz/live/6a019ed242284_42127/index.m3u8?expire=1779095890&amp;sign=a6722e531d614213483ec529948b545b
+#EXTINF:-1 tvg-id="601456930" group-title="Academico Viseu U23 vs Santa Clara U23 17:00 ngày 11/05 Portugal Taca Revelacao U23", Academico Viseu U23 vs Santa Clara U23 17:00 ngày 11/05 Portugal Taca Revelacao U23
+https://dlqcalr.alilicloud.com/live/a729119ad8eb38ba7deb31843ea5b50d/playlist.m3u8
+#EXTINF:-1 tvg-id="601453210" group-title="Yenisey Krasnoyarsk vs Arsenal Tula 17:00 ngày 11/05 Russian National Football League", Yenisey Krasnoyarsk vs Arsenal Tula 17:00 ngày 11/05 Russian National Football League
+https://dlqcalr.alilicloud.com/live/2e18fe339aaf3f0e448a3ba1ee9af1c2/playlist.m3u8
+#EXTINF:-1 tvg-id="601453204" group-title="Metalist 1925 Kharkiv(U21) vs Karpaty U21 17:00 ngày 11/05 Ukrainian Youth Team Championship", Metalist 1925 Kharkiv(U21) vs Karpaty U21 17:00 ngày 11/05 Ukrainian Youth Team Championship
+https://dlqcalr.alilicloud.com/live/7574235553e1c7fa072ce3902c6cd477/playlist.m3u8
+#EXTINF:-1 tvg-id="601453225" group-title="Ural Yekaterinburg vs KAMAZ Naberezhnye Chelny 18:00 ngày 11/05 Russian National Football League", Ural Yekaterinburg vs KAMAZ Naberezhnye Chelny 18:00 ngày 11/05 Russian National Football League
+https://dlqcalr.alilicloud.com/live/9d51386735d96a2345f4b6ffe2efc74b/playlist.m3u8
+#EXTINF:-1 tvg-id="601470028" group-title="North Macedonia (W) U16 vs Kosovo U16(W) 18:00 ngày 11/05 International Friendly", North Macedonia (W) U16 vs Kosovo U16(W) 18:00 ngày 11/05 International Friendly
+https://dlqcalr.alilicloud.com/live/a95d9d3c61f35a986e555c75f605c23a/playlist.m3u8
+#EXTINF:-1 tvg-id="601466413" group-title="Andrej Nedic vs Thiago Monteiro 15:00 ngày 11/05 Challenge Zagreb Men Singles", Andrej Nedic vs Thiago Monteiro 15:00 ngày 11/05 Challenge Zagreb Men Singles
+https://dlqcalr.alilicloud.com/live/41e3a56379167c22d7fda697db6668e2/playlist.m3u8
+#EXTINF:-1 tvg-id="601466572" group-title="Michele Ribecai vs Thanasi Kokkinakis 15:00 ngày 11/05 Challenge Zagreb Men Singles", Michele Ribecai vs Thanasi Kokkinakis 15:00 ngày 11/05 Challenge Zagreb Men Singles
+https://dlqcalr.alilicloud.com/live/44b1f5175e3a33fea98ed7dd2d391381/playlist.m3u8
+#EXTINF:-1 tvg-id="601469764" group-title="Sun Fajing vs Alejo Sanchez Quilez 16:00 ngày 11/05 ATP Challenger Valencia, Spain Men Singles", Sun Fajing vs Alejo Sanchez Quilez 16:00 ngày 11/05 ATP Challenger Valencia, Spain Men Singles
+https://dlqcalr.alilicloud.com/live/d997633456a56d0217b17585117fbf3f/playlist.m3u8
+#EXTINF:-1 tvg-id="601466602" group-title="Daniel Elahi Galan vs Tyler Zink 16:00 ngày 11/05 Challenge Zagreb Men Singles", Daniel Elahi Galan vs Tyler Zink 16:00 ngày 11/05 Challenge Zagreb Men Singles
+https://dlqcalr.alilicloud.com/live/2d6a3edb56edde2630ea690f78cd2296/playlist.m3u8
+#EXTINF:-1 tvg-id="601466446" group-title="Pol Martin Tiffon  vs Lukas Pokorny 16:00 ngày 11/05 ATP Challenger Tunis, Tunisia Men Singles", Pol Martin Tiffon  vs Lukas Pokorny 16:00 ngày 11/05 ATP Challenger Tunis, Tunisia Men Singles
+https://dlqcalr.alilicloud.com/live/7849643104ed75f0d6b28f6d77c8b282/playlist.m3u8
+#EXTINF:-1 tvg-id="601461649" group-title="Dominik Palan vs Maan Kesarwani 16:35 ngày 11/05 ATP Challenger Bengaluru 2, India Men Singles", Dominik Palan vs Maan Kesarwani 16:35 ngày 11/05 ATP Challenger Bengaluru 2, India Men Singles
+https://dlqcalr.alilicloud.com/live/528a165b590b6707773a3bcfb291086a/playlist.m3u8
+#EXTINF:-1 tvg-id="601469767" group-title="Victoria Bosio vs Elena Bocchi 16:40 ngày 11/05 WTA 125K Parma, Italy Women Singles", Victoria Bosio vs Elena Bocchi 16:40 ngày 11/05 WTA 125K Parma, Italy Women Singles
+https://dlqcalr.alilicloud.com/live/728435be2899f610c103be7ddd0b7fb9/playlist.m3u8
+#EXTINF:-1 tvg-id="601469773" group-title="Zhibek Kulambayeva vs Nicole Fossa Huergo 16:40 ngày 11/05 WTA 125K Parma, Italy Women Singles", Zhibek Kulambayeva vs Nicole Fossa Huergo 16:40 ngày 11/05 WTA 125K Parma, Italy Women Singles
+https://dlqcalr.alilicloud.com/live/3df31313f82dc69180218eb533c229d4/playlist.m3u8
+#EXTINF:-1 tvg-id="601469770" group-title="Susan Bandecchi vs Sapfo Sakellaridi 16:45 ngày 11/05 WTA 125K Parma, Italy Women Singles", Susan Bandecchi vs Sapfo Sakellaridi 16:45 ngày 11/05 WTA 125K Parma, Italy Women Singles
+https://dlqcalr.alilicloud.com/live/a9e19d06fbba013f5b2030843597a304/playlist.m3u8
+#EXTINF:-1 tvg-id="601465489" group-title="Marko Topo vs Eero Vasa 17:00 ngày 11/05 ATP Challenger Oeiras 4, Portugal Men Singles", Marko Topo vs Eero Vasa 17:00 ngày 11/05 ATP Challenger Oeiras 4, Portugal Men Singles
+https://dlqcalr.alilicloud.com/live/9adde3e951b8972b8c833340f6febb6c/playlist.m3u8
+#EXTINF:-1 tvg-id="601469776" group-title="Taro Daniel vs Raul Brancaccio 17:05 ngày 11/05 ATP Challenger Valencia, Spain Men Singles", Taro Daniel vs Raul Brancaccio 17:05 ngày 11/05 ATP Challenger Valencia, Spain Men Singles
+https://dlqcalr.alilicloud.com/live/6e3ddbfc435aee81feaa740effd6f1aa/playlist.m3u8
+#EXTINF:-1 tvg-id="601459426" group-title="Christian Harrison/Neal Skupski vs Orlando Luz/Rafael Matos 17:25 ngày 11/05 ATP Rome, Italy Men Doubles", Christian Harrison/Neal Skupski vs Orlando Luz/Rafael Matos 17:25 ngày 11/05 ATP Rome, Italy Men Doubles
+https://dlqcalr.alilicloud.com/live/bfaa1364dc18bc2d1f8563ce2db7b245/playlist.m3u8
+#EXTINF:-1 tvg-id="601466590" group-title="Tamara Korpatsch vs Ksenia Efremova 17:45 ngày 11/05 WTA 125K Paris, France Women Singles", Tamara Korpatsch vs Ksenia Efremova 17:45 ngày 11/05 WTA 125K Paris, France Women Singles
+https://dlqcalr.alilicloud.com/live/50e667c099e48a93157512dfa61c88ac/playlist.m3u8
+#EXTINF:-1 tvg-id="601460413" group-title="Ulrikke Eikeri/Quinn Gleason vs Nadiia Kichenok/Aleksandra Krunić 17:45 ngày 11/05 WTA Rome, Italy Women Doubles", Ulrikke Eikeri/Quinn Gleason vs Nadiia Kichenok/Aleksandra Krunić 17:45 ngày 11/05 WTA Rome, Italy Women Doubles
+https://dlqcalr.alilicloud.com/live/200f8a4998be8e67d8785dbff909f283/playlist.m3u8
+#EXTINF:-1 tvg-id="601465648" group-title="Coco Gauff vs Iva Jovic 17:50 ngày 11/05 WTA Rome, Italy Women Singles", Coco Gauff vs Iva Jovic 17:50 ngày 11/05 WTA Rome, Italy Women Singles
+https://dlqcalr.alilicloud.com/live/036143e9f2a6e984d0c166f075807fbc/playlist.m3u8
+#EXTINF:-1 tvg-id="601465651" group-title="Anna Kalinskaya vs Jeļena Ostapenko 18:00 ngày 11/05 WTA Rome, Italy Women Singles", Anna Kalinskaya vs Jeļena Ostapenko 18:00 ngày 11/05 WTA Rome, Italy Women Singles
+https://dlqcalr.alilicloud.com/live/076b8393317be645051eb43d96d27e48/playlist.m3u8
+#EXTINF:-1 tvg-id="601469962" group-title="Takamatsu Five Arrows vs Niigata Albirex BB 17:00 ngày 11/05 Japan League B3", Takamatsu Five Arrows vs Niigata Albirex BB 17:00 ngày 11/05 Japan League B3
+https://dlqcalr.alilicloud.com/live/2a228233fadd0a6f484b01d16d38e535/playlist.m3u8
+#EXTINF:-1 tvg-id="601447600" group-title="Mindoro Tamaraws vs Biñan Tatak Gel 17:00 ngày 11/05 Philippines MPBL", Mindoro Tamaraws vs Biñan Tatak Gel 17:00 ngày 11/05 Philippines MPBL
+https://dlqcalr.alilicloud.com/live/99769d1380aa29ee131170db3a555404/playlist.m3u8
+#EXTINF:-1 tvg-id="601466194" group-title="Chiba Jets vs Gunma Crane Thunders 17:05 ngày 11/05 B1 League", Chiba Jets vs Gunma Crane Thunders 17:05 ngày 11/05 B1 League
+https://dlqcalr.alilicloud.com/live/c087ca1452bd4ecb4d1f59f2f2255a80/playlist.m3u8
+#EXTINF:-1 tvg-id="601447606" group-title="Shinshu Brave Warriors vs Fukushima Firebonds 17:35 ngày 11/05 B2 League", Shinshu Brave Warriors vs Fukushima Firebonds 17:35 ngày 11/05 B2 League
+https://dlqcalr.alilicloud.com/live/b61d5b1c200e40d38806a19ba126a136/playlist.m3u8
+#EXTINF:-1 tvg-id="601453246" group-title="Bali United vs Borneo FC 19:00 ngày 11/05 Indonesian Liga 1", Bali United vs Borneo FC 19:00 ngày 11/05 Indonesian Liga 1
+https://cdn-hls.taoxanh.biz/live/6a01bb30203f6_88642/index.m3u8?expire=1779103152&amp;sign=220c33154b23bb05064e7d5c7f7f129a
+#EXTINF:-1 tvg-id="601453249" group-title="Bhayangkara Presisi Indonesia FC vs Madura United 19:00 ngày 11/05 Indonesian Liga 1", Bhayangkara Presisi Indonesia FC vs Madura United 19:00 ngày 11/05 Indonesian Liga 1
+https://cdn-hls.taoxanh.biz/live/6a01be5042284_73445/index.m3u8?expire=1779103952&amp;sign=0ad81e8a5dc82c27f8fa05c968411217
+#EXTINF:-1 tvg-id="601453264" group-title="FC Pari Nizhniy Novgorod vs CSKA Moscow 19:15 ngày 11/05 Russian Premier League", FC Pari Nizhniy Novgorod vs CSKA Moscow 19:15 ngày 11/05 Russian Premier League
+https://cdn-hls.taoxanh.biz/live/6a01b946203f6_124958/index.m3u8?expire=1779102662&amp;sign=dc410028de6776a4965b8b993ee393b8
