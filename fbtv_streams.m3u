@@ -1,83 +1,57 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601453414" group-title="Randers FC vs Odense BK 00:00 ngày 12/05 Danish Superliga", Randers FC vs Odense BK 00:00 ngày 12/05 Danish Superliga (Link 1)
-https://cdn-hls.taoxanh.biz/live/6a01fe5d203f6_124958/index.m3u8?expire=1779120349&amp;sign=e018936eed9e9c916f351efa7213a4ad
-#EXTINF:-1 tvg-id="601453414" group-title="Randers FC vs Odense BK 00:00 ngày 12/05 Danish Superliga", Randers FC vs Odense BK 00:00 ngày 12/05 Danish Superliga (Link 2)
-https://dlqcalr.alilicloud.com/live/1a105f9618d9c74306c0414c18fc166f/playlist.m3u8
-#EXTINF:-1 tvg-id="601453444" group-title="Fotbal Club FCSB vs FC Unirea 2004 Slobozia 01:00 ngày 12/05 Romanian Liga I", Fotbal Club FCSB vs FC Unirea 2004 Slobozia 01:00 ngày 12/05 Romanian Liga I (Link 1)
-https://cdn-hls.taoxanh.biz/live/6a021599203f6_73445/index.m3u8?expire=1779126297&amp;sign=e1c92582cc379b43f6bd69561243dd33
-#EXTINF:-1 tvg-id="601453444" group-title="Fotbal Club FCSB vs FC Unirea 2004 Slobozia 01:00 ngày 12/05 Romanian Liga I", Fotbal Club FCSB vs FC Unirea 2004 Slobozia 01:00 ngày 12/05 Romanian Liga I (Link 2)
-https://dlqcalr.alilicloud.com/live/0d32f029a4cdd51e2822949b0de67b94/playlist.m3u8
-#EXTINF:-1 tvg-id="601453432" group-title="Al-Taawoun vs Al-Ahli SFC 01:00 ngày 12/05 Saudi Professional League", Al-Taawoun vs Al-Ahli SFC 01:00 ngày 12/05 Saudi Professional League (Link 1)
-https://cdn-hls.taoxanh.biz/live/6a02134142284_95554/index.m3u8?expire=1779125697&amp;sign=ae3d1dd937a5393ab5ac2d63390b12e0
-#EXTINF:-1 tvg-id="601453432" group-title="Al-Taawoun vs Al-Ahli SFC 01:00 ngày 12/05 Saudi Professional League", Al-Taawoun vs Al-Ahli SFC 01:00 ngày 12/05 Saudi Professional League (Link 2)
-https://dlqcalr.alilicloud.com/live/51ed17f20f1f1cdb5ae042f2772d96b7/playlist.m3u8
-#EXTINF:-1 tvg-id="601453480" group-title="Napoli vs Bologna 01:45 ngày 12/05 Italian Serie A", Napoli vs Bologna 01:45 ngày 12/05 Italian Serie A (Link 1)
-https://cdn-hls.taoxanh.biz/live/6a021cf8203f6_79/index.m3u8?expire=1779128184&amp;sign=4513b0b3e768e54d4307aeecd64bd640
-#EXTINF:-1 tvg-id="601453480" group-title="Napoli vs Bologna 01:45 ngày 12/05 Italian Serie A", Napoli vs Bologna 01:45 ngày 12/05 Italian Serie A (Link 2)
-https://cdn-hls.taoxanh.biz/live/6a021ac6203f6_28/index.m3u8?expire=1779127622&amp;sign=a6137eac0222fa83a774e5a137f804e8
-#EXTINF:-1 tvg-id="601453480" group-title="Napoli vs Bologna 01:45 ngày 12/05 Italian Serie A", Napoli vs Bologna 01:45 ngày 12/05 Italian Serie A (Link 3)
-https://dlqcalr.alilicloud.com/live/24b985706eba8b708602cf90e671a2b3/playlist.m3u8
-#EXTINF:-1 tvg-id="601459642" group-title="Bodrum FK vs Corum Belediyespor 00:00 ngày 12/05 Turkish First League", Bodrum FK vs Corum Belediyespor 00:00 ngày 12/05 Turkish First League
-https://dlqcalr.alilicloud.com/live/fdb15e77f12c937819527d9bff3ac186/playlist.m3u8
-#EXTINF:-1 tvg-id="601453420" group-title="FC Lyn Oslo B vs Raelingen 00:00 ngày 12/05 Norwegian 3.Divisjon", FC Lyn Oslo B vs Raelingen 00:00 ngày 12/05 Norwegian 3.Divisjon
-https://dlqcalr.alilicloud.com/live/19f947e09bded25a1f7aaca3ed797c64/playlist.m3u8
-#EXTINF:-1 tvg-id="601453417" group-title="Frigg vs KFUM Oslo II 00:00 ngày 12/05 Norwegian 3.Divisjon", Frigg vs KFUM Oslo II 00:00 ngày 12/05 Norwegian 3.Divisjon
-https://dlqcalr.alilicloud.com/live/3950c19dce821953f36d210674a275e2/playlist.m3u8
-#EXTINF:-1 tvg-id="601453408" group-title="FC Metalurgi Rustavi vs Dinamo Tbilisi 00:00 ngày 12/05 Georgia Erovnuli Liga", FC Metalurgi Rustavi vs Dinamo Tbilisi 00:00 ngày 12/05 Georgia Erovnuli Liga
-https://dlqcalr.alilicloud.com/live/95caa45314332d368701d0df4d869478/playlist.m3u8
-#EXTINF:-1 tvg-id="601453402" group-title="IK Sirius FK vs Orgryte 00:00 ngày 12/05 Sweden Allsvenskan", IK Sirius FK vs Orgryte 00:00 ngày 12/05 Sweden Allsvenskan
-https://dlqcalr.alilicloud.com/live/5770b6c397c2c91eaba0bfaa4396c01b/playlist.m3u8
-#EXTINF:-1 tvg-id="601453393" group-title="Cracovia Krakow vs Radomiak Radom 00:00 ngày 12/05 PKO Bank Polski EKSTRAKLASA", Cracovia Krakow vs Radomiak Radom 00:00 ngày 12/05 PKO Bank Polski EKSTRAKLASA
-https://dlqcalr.alilicloud.com/live/0cbc30e2ba143b7d9b3ae3ca1f862717/playlist.m3u8
-#EXTINF:-1 tvg-id="601446664" group-title="Rosenborg B vs Kvik Trondheim 00:00 ngày 12/05 Norwegian 3.Divisjon", Rosenborg B vs Kvik Trondheim 00:00 ngày 12/05 Norwegian 3.Divisjon
-https://dlqcalr.alilicloud.com/live/53eda43b9aba2f4361d2d8fa3b3e86eb/playlist.m3u8
-#EXTINF:-1 tvg-id="601453438" group-title="Deportivo Garcilaso vs Alianza Atletico Sullana 01:00 ngày 12/05 Peruvian Liga 1", Deportivo Garcilaso vs Alianza Atletico Sullana 01:00 ngày 12/05 Peruvian Liga 1
-https://dlqcalr.alilicloud.com/live/41cf76b65f79b12b828d5069741c7512/playlist.m3u8
-#EXTINF:-1 tvg-id="601453447" group-title="Yacoub El Mansour vs KACM Marrakech 01:00 ngày 12/05 The Botola Pro", Yacoub El Mansour vs KACM Marrakech 01:00 ngày 12/05 The Botola Pro
-https://dlqcalr.alilicloud.com/live/31efecf5548463685fa1d1dd1933c45f/playlist.m3u8
-#EXTINF:-1 tvg-id="601453468" group-title="Yverdon vs FC Rapperswil-Jona 01:15 ngày 12/05 Switzerland Challenge League", Yverdon vs FC Rapperswil-Jona 01:15 ngày 12/05 Switzerland Challenge League
-https://dlqcalr.alilicloud.com/live/5234aabfed762899bfad574d5a7f8f17/playlist.m3u8
-#EXTINF:-1 tvg-id="601453465" group-title="Neuchatel Xamax vs Etoile Carouge 01:15 ngày 12/05 Switzerland Challenge League", Neuchatel Xamax vs Etoile Carouge 01:15 ngày 12/05 Switzerland Challenge League
-https://dlqcalr.alilicloud.com/live/48cd2a9e5ebd2b73a9673da578f5e539/playlist.m3u8
-#EXTINF:-1 tvg-id="601453462" group-title="Vaduz vs Aarau 01:15 ngày 12/05 Switzerland Challenge League", Vaduz vs Aarau 01:15 ngày 12/05 Switzerland Challenge League
-https://dlqcalr.alilicloud.com/live/641afc7d9fc06ca88f061d5ce11623e1/playlist.m3u8
-#EXTINF:-1 tvg-id="601453459" group-title="Stade Nyonnais vs Stade Ouchy 01:15 ngày 12/05 Switzerland Challenge League", Stade Nyonnais vs Stade Ouchy 01:15 ngày 12/05 Switzerland Challenge League
-https://dlqcalr.alilicloud.com/live/3f5881ccded90ab1e4c68177a07034e6/playlist.m3u8
-#EXTINF:-1 tvg-id="601453456" group-title="Bellinzona vs FC Wil 1900 01:15 ngày 12/05 Switzerland Challenge League", Bellinzona vs FC Wil 1900 01:15 ngày 12/05 Switzerland Challenge League
-https://dlqcalr.alilicloud.com/live/a2186c0d4b9cf64b5ecf98a2bcadf375/playlist.m3u8
-#EXTINF:-1 tvg-id="601453477" group-title="Sacachispas vs Centro Espanol 01:30 ngày 12/05 Argentine Group C Tebolidun League Manchester", Sacachispas vs Centro Espanol 01:30 ngày 12/05 Argentine Group C Tebolidun League Manchester
-https://dlqcalr.alilicloud.com/live/02d5f1e045db3edacdb56bddccc02cf3/playlist.m3u8
-#EXTINF:-1 tvg-id="601453471" group-title="SD Huesca vs Real Sociedad B 01:30 ngày 12/05 Spanish Segunda Division", SD Huesca vs Real Sociedad B 01:30 ngày 12/05 Spanish Segunda Division
-https://dlqcalr.alilicloud.com/live/32261bed7a3e5d78b8b0bde55fc5f5fc/playlist.m3u8
-#EXTINF:-1 tvg-id="601446955" group-title="Fratria vs FC Dunav Ruse 00:15 ngày 12/05 Bulgarian Second League", Fratria vs FC Dunav Ruse 00:15 ngày 12/05 Bulgarian Second League
-https://dlqcalr.alilicloud.com/live/db95d1a2176c9a534abea6124767d291/playlist.m3u8
-#EXTINF:-1 tvg-id="601460410" group-title="Bouzkova M / Panova A vs Gabriela Dabrowski/Luisa Stefani 00:45 ngày 12/05 WTA Rome, Italy Women Doubles", Bouzkova M / Panova A vs Gabriela Dabrowski/Luisa Stefani 00:45 ngày 12/05 WTA Rome, Italy Women Doubles
-https://dlqcalr.alilicloud.com/live/73b20285485e64c701f3ae0922483251/playlist.m3u8
-#EXTINF:-1 tvg-id="601469881" group-title="Naomi Osaka vs Iga Swiatek 00:50 ngày 12/05 WTA Rome, Italy Women Singles", Naomi Osaka vs Iga Swiatek 00:50 ngày 12/05 WTA Rome, Italy Women Singles
-https://dlqcalr.alilicloud.com/live/6fe98489ac1ef681b64249a60b37a003/playlist.m3u8
-#EXTINF:-1 tvg-id="601469815" group-title="Benjamin Kittay/Ryan Seggerman vs Sadio Doumbia/Fabien Reboul 01:05 ngày 12/05 ATP Rome, Italy Men Doubles", Benjamin Kittay/Ryan Seggerman vs Sadio Doumbia/Fabien Reboul 01:05 ngày 12/05 ATP Rome, Italy Men Doubles
-https://dlqcalr.alilicloud.com/live/3b54126a034505c5c71e7ee65deb7f30/playlist.m3u8
-#EXTINF:-1 tvg-id="601455865" group-title="Rigas Zelli vs VEF Riga Juniors 00:00 ngày 12/05 Latvijas Basketbola līga", Rigas Zelli vs VEF Riga Juniors 00:00 ngày 12/05 Latvijas Basketbola līga
-https://dlqcalr.alilicloud.com/live/d19b00b1ede57b9bda4214e48d9db040/playlist.m3u8
-#EXTINF:-1 tvg-id="601443280" group-title="Bnei Herzliya vs Elizzur Maccabi Netanya 00:30 ngày 12/05 Ligat HaAl", Bnei Herzliya vs Elizzur Maccabi Netanya 00:30 ngày 12/05 Ligat HaAl
-https://dlqcalr.alilicloud.com/live/91be991ed9c5cfdb4fc7a8e9ec3453da/playlist.m3u8
-#EXTINF:-1 tvg-id="601443277" group-title="Maccabi Tel Aviv vs Ironi Kiryat Ata 01:05 ngày 12/05 Ligat HaAl", Maccabi Tel Aviv vs Ironi Kiryat Ata 01:05 ngày 12/05 Ligat HaAl
-https://dlqcalr.alilicloud.com/live/8a91e86177c1da044ddf9bb04b11f8a2/playlist.m3u8
 #EXTINF:-1 tvg-id="601453483" group-title="Tottenham Hotspur vs Leeds United 02:00 ngày 12/05 English Premier League", Tottenham Hotspur vs Leeds United 02:00 ngày 12/05 English Premier League (Link 1)
 https://cdn-hls.taoxanh.biz/live/6a020fda203f6_88186/index.m3u8?expire=1779124826&amp;sign=afe2f91edbf4b8f9bfc6cf8342e219b0
 #EXTINF:-1 tvg-id="601453483" group-title="Tottenham Hotspur vs Leeds United 02:00 ngày 12/05 English Premier League", Tottenham Hotspur vs Leeds United 02:00 ngày 12/05 English Premier League (Link 2)
 https://cdn-hls.taoxanh.biz/live/6a02236142284_4908/index.m3u8?expire=1779129825&amp;sign=c7beff086eefac27b1767eb13db1821f
 #EXTINF:-1 tvg-id="601453483" group-title="Tottenham Hotspur vs Leeds United 02:00 ngày 12/05 English Premier League", Tottenham Hotspur vs Leeds United 02:00 ngày 12/05 English Premier League (Link 3)
 https://cdn-hls.taoxanh.biz/live/6a02228e42284_162172/index.m3u8?expire=1779129614&amp;sign=6db92fcca68691b0cdc04882e24e7ea9
+#EXTINF:-1 tvg-id="601453483" group-title="Tottenham Hotspur vs Leeds United 02:00 ngày 12/05 English Premier League", Tottenham Hotspur vs Leeds United 02:00 ngày 12/05 English Premier League (Link 4)
+https://dlqcalr.alilicloud.com/live/1ce83bfd7c951e9927646677d9e4cf02/playlist.m3u8
+#EXTINF:-1 tvg-id="601453480" group-title="Napoli vs Bologna 01:45 ngày 12/05 Italian Serie A", Napoli vs Bologna 01:45 ngày 12/05 Italian Serie A (Link 1)
+https://cdn-hls.taoxanh.biz/live/6a021cf8203f6_79/index.m3u8?expire=1779128184&amp;sign=4513b0b3e768e54d4307aeecd64bd640
+#EXTINF:-1 tvg-id="601453480" group-title="Napoli vs Bologna 01:45 ngày 12/05 Italian Serie A", Napoli vs Bologna 01:45 ngày 12/05 Italian Serie A (Link 2)
+https://cdn-hls.taoxanh.biz/live/6a021ac6203f6_28/index.m3u8?expire=1779127622&amp;sign=a6137eac0222fa83a774e5a137f804e8
+#EXTINF:-1 tvg-id="601453480" group-title="Napoli vs Bologna 01:45 ngày 12/05 Italian Serie A", Napoli vs Bologna 01:45 ngày 12/05 Italian Serie A (Link 3)
+https://dlqcalr.alilicloud.com/live/24b985706eba8b708602cf90e671a2b3/playlist.m3u8
 #EXTINF:-1 tvg-id="601453486" group-title="Rayo Vallecano vs Girona FC 02:00 ngày 12/05 Spanish La Liga", Rayo Vallecano vs Girona FC 02:00 ngày 12/05 Spanish La Liga (Link 1)
 https://cdn-hls.taoxanh.biz/live/6a022139203f6_44731/index.m3u8?expire=1779129273&amp;sign=963b1d1bee8c807991f6296eb773d4ee
 #EXTINF:-1 tvg-id="601453486" group-title="Rayo Vallecano vs Girona FC 02:00 ngày 12/05 Spanish La Liga", Rayo Vallecano vs Girona FC 02:00 ngày 12/05 Spanish La Liga (Link 2)
 https://cdn-hls.taoxanh.biz/live/6a0218bc203f6_133172/index.m3u8?expire=1779127100&amp;sign=7f025318b7f42b53cfbccfe706af81de
-#EXTINF:-1 tvg-id="601453492" group-title="Millwall vs Hull City 02:00 ngày 12/05 English Football League Championship", Millwall vs Hull City 02:00 ngày 12/05 English Football League Championship
+#EXTINF:-1 tvg-id="601453486" group-title="Rayo Vallecano vs Girona FC 02:00 ngày 12/05 Spanish La Liga", Rayo Vallecano vs Girona FC 02:00 ngày 12/05 Spanish La Liga (Link 3)
+https://dlqcalr.alilicloud.com/live/7f48aef3c6705d69f569ca1f09667830/playlist.m3u8
+#EXTINF:-1 tvg-id="601453492" group-title="Millwall vs Hull City 02:00 ngày 12/05 English Football League Championship", Millwall vs Hull City 02:00 ngày 12/05 English Football League Championship (Link 1)
 https://cdn-hls.taoxanh.biz/live/6a02214d42284_74012/index.m3u8?expire=1779129293&amp;sign=161f76d0031952a4935cc53326e448d1
-#EXTINF:-1 tvg-id="601453504" group-title="Rio Ave vs Sporting CP 02:15 ngày 12/05 Portuguese Primera Liga", Rio Ave vs Sporting CP 02:15 ngày 12/05 Portuguese Primera Liga
+#EXTINF:-1 tvg-id="601453492" group-title="Millwall vs Hull City 02:00 ngày 12/05 English Football League Championship", Millwall vs Hull City 02:00 ngày 12/05 English Football League Championship (Link 2)
+https://dlqcalr.alilicloud.com/live/461fb9aedd4a2dbfa1226b2a01cee27f/playlist.m3u8
+#EXTINF:-1 tvg-id="601453504" group-title="Rio Ave vs Sporting CP 02:15 ngày 12/05 Portuguese Primera Liga", Rio Ave vs Sporting CP 02:15 ngày 12/05 Portuguese Primera Liga (Link 1)
 https://cdn-hls.taoxanh.biz/live/6a021b3642284_6308/index.m3u8?expire=1779127734&amp;sign=00b75400b572d3ce3cf45f217673433a
-#EXTINF:-1 tvg-id="601453498" group-title="CF Estrela Amadora SAD vs FC Famalicao 02:15 ngày 12/05 Portuguese Primera Liga", CF Estrela Amadora SAD vs FC Famalicao 02:15 ngày 12/05 Portuguese Primera Liga
-https://cdn-hls.taoxanh.biz/live/6a0214f042284_88642/index.m3u8?expire=1779126128&amp;sign=77e5c3bc8f99109a3f9d14e3c2e8e5ca
-#EXTINF:-1 tvg-id="601453495" group-title="Benfica vs Sporting Braga 02:15 ngày 12/05 Portuguese Primera Liga", Benfica vs Sporting Braga 02:15 ngày 12/05 Portuguese Primera Liga
+#EXTINF:-1 tvg-id="601453504" group-title="Rio Ave vs Sporting CP 02:15 ngày 12/05 Portuguese Primera Liga", Rio Ave vs Sporting CP 02:15 ngày 12/05 Portuguese Primera Liga (Link 2)
+https://dlqcalr.alilicloud.com/live/d4f992a3505a406347d6bff8e0ed2033/playlist.m3u8
+#EXTINF:-1 tvg-id="601453495" group-title="Benfica vs Sporting Braga 02:15 ngày 12/05 Portuguese Primera Liga", Benfica vs Sporting Braga 02:15 ngày 12/05 Portuguese Primera Liga (Link 1)
 https://cdn-hls.taoxanh.biz/live/6a022454203f6_103/index.m3u8?expire=1779130068&amp;sign=6c123abf0510fca53e7353f0d5324c35
+#EXTINF:-1 tvg-id="601453495" group-title="Benfica vs Sporting Braga 02:15 ngày 12/05 Portuguese Primera Liga", Benfica vs Sporting Braga 02:15 ngày 12/05 Portuguese Primera Liga (Link 2)
+https://dlqcalr.alilicloud.com/live/088142d114a0e7eba9d00b07ed01c8e0/playlist.m3u8
+#EXTINF:-1 tvg-id="601453498" group-title="CF Estrela Amadora SAD vs FC Famalicao 02:15 ngày 12/05 Portuguese Primera Liga", CF Estrela Amadora SAD vs FC Famalicao 02:15 ngày 12/05 Portuguese Primera Liga (Link 1)
+https://cdn-hls.taoxanh.biz/live/6a0214f042284_88642/index.m3u8?expire=1779126128&amp;sign=77e5c3bc8f99109a3f9d14e3c2e8e5ca
+#EXTINF:-1 tvg-id="601453498" group-title="CF Estrela Amadora SAD vs FC Famalicao 02:15 ngày 12/05 Portuguese Primera Liga", CF Estrela Amadora SAD vs FC Famalicao 02:15 ngày 12/05 Portuguese Primera Liga (Link 2)
+https://dlqcalr.alilicloud.com/live/d504b331577be35d66f26203e8d69fee/playlist.m3u8
+#EXTINF:-1 tvg-id="601453471" group-title="SD Huesca vs Real Sociedad B 01:30 ngày 12/05 Spanish Segunda Division", SD Huesca vs Real Sociedad B 01:30 ngày 12/05 Spanish Segunda Division
+https://dlqcalr.alilicloud.com/live/32261bed7a3e5d78b8b0bde55fc5f5fc/playlist.m3u8
+#EXTINF:-1 tvg-id="601453489" group-title="AcademiaDB vs Oriente Petrolero 02:00 ngày 12/05 Bolivian Primera Division", AcademiaDB vs Oriente Petrolero 02:00 ngày 12/05 Bolivian Primera Division
+https://dlqcalr.alilicloud.com/live/43e3bad7af4ec86cbbe578fcdfc53ffd/playlist.m3u8
+#EXTINF:-1 tvg-id="601453513" group-title="Vitoria Guimaraes vs Casa Pia AC 02:15 ngày 12/05 Portuguese Primera Liga", Vitoria Guimaraes vs Casa Pia AC 02:15 ngày 12/05 Portuguese Primera Liga
+https://dlqcalr.alilicloud.com/live/1c8fded6be1e660c2c34bdb9bb885224/playlist.m3u8
+#EXTINF:-1 tvg-id="601453510" group-title="CD Tondela vs Moreirense 02:15 ngày 12/05 Portuguese Primera Liga", CD Tondela vs Moreirense 02:15 ngày 12/05 Portuguese Primera Liga
+https://dlqcalr.alilicloud.com/live/78397376794e9fe4f56dbd7914c29e17/playlist.m3u8
+#EXTINF:-1 tvg-id="601453507" group-title="Santa Clara vs Nacional da Madeira 02:15 ngày 12/05 Portuguese Primera Liga", Santa Clara vs Nacional da Madeira 02:15 ngày 12/05 Portuguese Primera Liga
+https://dlqcalr.alilicloud.com/live/663c7d1c37cf969ce28e66db922d2388/playlist.m3u8
+#EXTINF:-1 tvg-id="601453501" group-title="Gil Vicente vs FC Arouca 02:15 ngày 12/05 Portuguese Primera Liga", Gil Vicente vs FC Arouca 02:15 ngày 12/05 Portuguese Primera Liga
+https://dlqcalr.alilicloud.com/live/12590ca12b37a6d0ddc2d6d0cabff541/playlist.m3u8
+#EXTINF:-1 tvg-id="601453528" group-title="Deportivo Maldonado vs Boston River 02:55 ngày 12/05 Uruguay Primera Division", Deportivo Maldonado vs Boston River 02:55 ngày 12/05 Uruguay Primera Division
+https://dlqcalr.alilicloud.com/live/37e48276aaab4351e26bc145c64a791d/playlist.m3u8
+#EXTINF:-1 tvg-id="601455262" group-title="Atletico FC vs Patriotas FC 03:00 ngày 12/05 Colombian Copa BetPlay DIMAYOR", Atletico FC vs Patriotas FC 03:00 ngày 12/05 Colombian Copa BetPlay DIMAYOR
+https://dlqcalr.alilicloud.com/live/1293c6968a2e643705eec808ed8c4334/playlist.m3u8
+#EXTINF:-1 tvg-id="601453534" group-title="Renaissance Zmamra vs Olympique Dcheira 03:00 ngày 12/05 The Botola Pro", Renaissance Zmamra vs Olympique Dcheira 03:00 ngày 12/05 The Botola Pro
+https://dlqcalr.alilicloud.com/live/ab877314883df60a5b2c73554cce1b23/playlist.m3u8
+#EXTINF:-1 tvg-id="601458043" group-title="Njardvik Women vs Haukar Women 02:30 ngày 12/05 Iceland Women's Basketball Premier League", Njardvik Women vs Haukar Women 02:30 ngày 12/05 Iceland Women's Basketball Premier League
+https://dlqcalr.alilicloud.com/live/8a2de3e458207885c50b1b94b7b01cc2/playlist.m3u8
