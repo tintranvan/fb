@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="601453609" group-title="Gangwon Football Club vs Daejeon Citizen 17:30 ngày 12/05 Korean K League 1", Gangwon Football Club vs Daejeon Citizen 17:30 ngày 12/05 Korean K League 1 (Link 1)
+https://cdn-hls.taoxanh.biz/live/6a02f96b42284_72787/index.m3u8?expire=1779184619&amp;sign=0612017e2c0aa3fdaf95c93f5643bf24
+#EXTINF:-1 tvg-id="601453609" group-title="Gangwon Football Club vs Daejeon Citizen 17:30 ngày 12/05 Korean K League 1", Gangwon Football Club vs Daejeon Citizen 17:30 ngày 12/05 Korean K League 1 (Link 2)
+https://dlqcalr.alilicloud.com/live/8986aebe2d89c817244aba1623d37f6a/playlist.m3u8
 #EXTINF:-1 tvg-id="601453612" group-title="Gwangju Football Club vs Football Club Seoul 17:30 ngày 12/05 Korean K League 1", Gwangju Football Club vs Football Club Seoul 17:30 ngày 12/05 Korean K League 1 (Link 1)
 https://cdn-hls.taoxanh.biz/live/6a02f66842284_74012/index.m3u8?expire=1779183848&amp;sign=cfb595c776cf0249adc3c4957363389f
 #EXTINF:-1 tvg-id="601453612" group-title="Gwangju Football Club vs Football Club Seoul 17:30 ngày 12/05 Korean K League 1", Gwangju Football Club vs Football Club Seoul 17:30 ngày 12/05 Korean K League 1 (Link 2)
@@ -7,61 +11,41 @@ https://dlqcalr.alilicloud.com/live/806074c1150f9592d6d2b6eae1017955/playlist.m3
 https://cdn-hls.taoxanh.biz/live/6a02f7d842284_124958/index.m3u8?expire=1779184216&amp;sign=366c225c50def5b3a20def90269fa194
 #EXTINF:-1 tvg-id="601453615" group-title="Incheon United Club vs Pohang Steelers 17:30 ngày 12/05 Korean K League 1", Incheon United Club vs Pohang Steelers 17:30 ngày 12/05 Korean K League 1 (Link 2)
 https://dlqcalr.alilicloud.com/live/e499243ec37022dd029a48ba64a1d816/playlist.m3u8
-#EXTINF:-1 tvg-id="601453609" group-title="Gangwon Football Club vs Daejeon Citizen 17:30 ngày 12/05 Korean K League 1", Gangwon Football Club vs Daejeon Citizen 17:30 ngày 12/05 Korean K League 1 (Link 1)
-https://cdn-hls.taoxanh.biz/live/6a02f96b42284_72787/index.m3u8?expire=1779184619&amp;sign=0612017e2c0aa3fdaf95c93f5643bf24
-#EXTINF:-1 tvg-id="601453609" group-title="Gangwon Football Club vs Daejeon Citizen 17:30 ngày 12/05 Korean K League 1", Gangwon Football Club vs Daejeon Citizen 17:30 ngày 12/05 Korean K League 1 (Link 2)
-https://dlqcalr.alilicloud.com/live/8986aebe2d89c817244aba1623d37f6a/playlist.m3u8
 #EXTINF:-1 tvg-id="601454053" group-title="Rafael Jodar vs Learner Tien 17:25 ngày 12/05 ATP Rome, Italy Men Singles", Rafael Jodar vs Learner Tien 17:25 ngày 12/05 ATP Rome, Italy Men Singles
 https://cdn-hls.taoxanh.biz/live/6a030144203f6_4733/index.m3u8?expire=1779186628&amp;sign=4481a5172a162c67b4556901992953bc
 #EXTINF:-1 tvg-id="601470184" group-title="HUNG /  LUI vs GOONTING / HAIKAL 17:00 ngày 12/05 TOYOTA Thailand Open 2026 _ Sân 3", HUNG /  LUI vs GOONTING / HAIKAL 17:00 ngày 12/05 TOYOTA Thailand Open 2026 _ Sân 3
 https://cdn-hls.taoxanh.biz/live/6a02a330203f6_85714/index.m3u8?expire=1779162544&amp;sign=cae3a4d59b7efb0bbdc339832e069fa9
-#EXTINF:-1 tvg-id="601470187" group-title="ONG Xin Yee /  Carmen TING vs MEIDA / NASTINE 17:00 ngày 12/05 TOYOTA Thailand Open 2026 _ Sân 4", ONG Xin Yee /  Carmen TING vs MEIDA / NASTINE 17:00 ngày 12/05 TOYOTA Thailand Open 2026 _ Sân 4 (Link 1)
-https://cdn-hls.taoxanh.biz/live/6a028742203f6_42127/index.m3u8?expire=1779155394&amp;sign=e1b58abc5737295a59c61a7956f7b96b
-#EXTINF:-1 tvg-id="601470187" group-title="ONG Xin Yee /  Carmen TING vs MEIDA / NASTINE 17:00 ngày 12/05 TOYOTA Thailand Open 2026 _ Sân 4", ONG Xin Yee /  Carmen TING vs MEIDA / NASTINE 17:00 ngày 12/05 TOYOTA Thailand Open 2026 _ Sân 4 (Link 2)
+#EXTINF:-1 tvg-id="601470187" group-title="Kral/Kral vs XIE H. / ZENG W. H. 18:20 ngày 12/05 TOYOTA Thailand Open 2026 _ Sân 4", Kral/Kral vs XIE H. / ZENG W. H. 18:20 ngày 12/05 TOYOTA Thailand Open 2026 _ Sân 4
 https://cdn-hls.taoxanh.biz/live/6a02a36e42284_138846/index.m3u8?expire=1779162606&amp;sign=a5a1f9cb50d62d73c9c1d48bf99b753f
-#EXTINF:-1 tvg-id="601470181" group-title="IWANAGA / NAKANISHI vs Lauren LAM /  Allison Quynh LEE 17:00 ngày 12/05 TOYOTA Thailand Open 2026 _ Sân 2", IWANAGA / NAKANISHI vs Lauren LAM /  Allison Quynh LEE 17:00 ngày 12/05 TOYOTA Thailand Open 2026 _ Sân 2 (Link 1)
-https://cdn-hls.taoxanh.biz/live/6a02a07d42284_85706/index.m3u8?expire=1779161853&amp;sign=257e1c01708da757394ea79a7cd749ae
-#EXTINF:-1 tvg-id="601470181" group-title="IWANAGA / NAKANISHI vs Lauren LAM /  Allison Quynh LEE 17:00 ngày 12/05 TOYOTA Thailand Open 2026 _ Sân 2", IWANAGA / NAKANISHI vs Lauren LAM /  Allison Quynh LEE 17:00 ngày 12/05 TOYOTA Thailand Open 2026 _ Sân 2 (Link 2)
-https://cdn-hls.taoxanh.biz/live/6a02e18b203f6_4439/index.m3u8?expire=1779178507&amp;sign=2ebb8e3f1f1cf3b880b49a571fe7eb23
-#EXTINF:-1 tvg-id="601470178" group-title="S. RANKIREDDY / Chirag SHETTY vs ERWIANSYAH / MAULANA 17:00 ngày 12/05 TOYOTA Thailand Open 2026  _ Sân 1", S. RANKIREDDY / Chirag SHETTY vs ERWIANSYAH / MAULANA 17:00 ngày 12/05 TOYOTA Thailand Open 2026  _ Sân 1 (Link 1)
+#EXTINF:-1 tvg-id="601470178" group-title="Rui HIROKAMI/Sayaka HOBARA vs Tidapron KLEEBYEESUN/Nattamon 19:35 ngày 12/05 TOYOTA Thailand Open 2026  _ Sân 1", Rui HIROKAMI/Sayaka HOBARA vs Tidapron KLEEBYEESUN/Nattamon 19:35 ngày 12/05 TOYOTA Thailand Open 2026  _ Sân 1 (Link 1)
 https://cdn-hls.taoxanh.biz/live/6a028579203f6_18754/index.m3u8?expire=1779154937&amp;sign=093f7a75ca8aedc93161ad6ae03eb7c7
-#EXTINF:-1 tvg-id="601470178" group-title="S. RANKIREDDY / Chirag SHETTY vs ERWIANSYAH / MAULANA 17:00 ngày 12/05 TOYOTA Thailand Open 2026  _ Sân 1", S. RANKIREDDY / Chirag SHETTY vs ERWIANSYAH / MAULANA 17:00 ngày 12/05 TOYOTA Thailand Open 2026  _ Sân 1 (Link 2)
+#EXTINF:-1 tvg-id="601470178" group-title="Rui HIROKAMI/Sayaka HOBARA vs Tidapron KLEEBYEESUN/Nattamon 19:35 ngày 12/05 TOYOTA Thailand Open 2026  _ Sân 1", Rui HIROKAMI/Sayaka HOBARA vs Tidapron KLEEBYEESUN/Nattamon 19:35 ngày 12/05 TOYOTA Thailand Open 2026  _ Sân 1 (Link 2)
 https://cdn-hls.taoxanh.biz/live/6a02a2e9203f6_142210/index.m3u8?expire=1779162473&amp;sign=984b449c1e0c54724f7a624ae13a8b5d
-#EXTINF:-1 tvg-id="601454044" group-title="Karen Khachanov vs Dino Prizmic 16:00 ngày 12/05 ATP Rome, Italy Men Singles", Karen Khachanov vs Dino Prizmic 16:00 ngày 12/05 ATP Rome, Italy Men Singles
-https://dlqcalr.alilicloud.com/live/b21a85a5b50c78f35ec5bf874e6a2edb/playlist.m3u8
-#EXTINF:-1 tvg-id="601453600" group-title="Canberra White Eagles vs Queanbeyan City 16:30 ngày 12/05 Australia National Premier Leagues Capital Football 1", Canberra White Eagles vs Queanbeyan City 16:30 ngày 12/05 Australia National Premier Leagues Capital Football 1
-https://dlqcalr.alilicloud.com/live/b1e0ff2d1a6d5228f4206fdd7dd0643b/playlist.m3u8
-#EXTINF:-1 tvg-id="601470139" group-title="Sunshine Coast Wanderers (w) vs Eastern Suburbs SC (w) 16:45 ngày 12/05 Australia Queensland State Women's League", Sunshine Coast Wanderers (w) vs Eastern Suburbs SC (w) 16:45 ngày 12/05 Australia Queensland State Women's League
-https://dlqcalr.alilicloud.com/live/1bed407488c5940656935204722bbe52/playlist.m3u8
-#EXTINF:-1 tvg-id="601453603" group-title="FK Oleksandria vs Zorya 17:00 ngày 12/05 Ukrainian Premier League", FK Oleksandria vs Zorya 17:00 ngày 12/05 Ukrainian Premier League
-https://dlqcalr.alilicloud.com/live/19554635962c518b6d329deb1ed4aafe/playlist.m3u8
-#EXTINF:-1 tvg-id="601453606" group-title="Zhytomyr Women vs FK Ladomir Women 17:00 ngày 12/05 Ukrainian Women's Professional Football League", Zhytomyr Women vs FK Ladomir Women 17:00 ngày 12/05 Ukrainian Women's Professional Football League
-https://dlqcalr.alilicloud.com/live/c78da639abbf1b3756b14ad0b36704ac/playlist.m3u8
-#EXTINF:-1 tvg-id="601459942" group-title="Dinamo KyivU21 vs Kolos Kovalivka U21 17:00 ngày 12/05 Ukrainian Youth Team Championship", Dinamo KyivU21 vs Kolos Kovalivka U21 17:00 ngày 12/05 Ukrainian Youth Team Championship
-https://dlqcalr.alilicloud.com/live/efc4b13b26adebea58492186ec22cda2/playlist.m3u8
-#EXTINF:-1 tvg-id="601470145" group-title="Hellenic AC vs Darwin Hearts 17:30 ngày 12/05 Australia Darwin Premier League", Hellenic AC vs Darwin Hearts 17:30 ngày 12/05 Australia Darwin Premier League
-https://dlqcalr.alilicloud.com/live/fab6d8d4efa3e4f6c160dd1c0fe0d46c/playlist.m3u8
+#EXTINF:-1 tvg-id="601470181" group-title="R PANDA/S PANDA vs LIN CC/YANG C Y 20:00 ngày 12/05 TOYOTA Thailand Open 2026 _ Sân 2", R PANDA/S PANDA vs LIN CC/YANG C Y 20:00 ngày 12/05 TOYOTA Thailand Open 2026 _ Sân 2 (Link 1)
+https://cdn-hls.taoxanh.biz/live/6a02a07d42284_85706/index.m3u8?expire=1779161853&amp;sign=257e1c01708da757394ea79a7cd749ae
+#EXTINF:-1 tvg-id="601470181" group-title="R PANDA/S PANDA vs LIN CC/YANG C Y 20:00 ngày 12/05 TOYOTA Thailand Open 2026 _ Sân 2", R PANDA/S PANDA vs LIN CC/YANG C Y 20:00 ngày 12/05 TOYOTA Thailand Open 2026 _ Sân 2 (Link 2)
+https://cdn-hls.taoxanh.biz/live/6a02e18b203f6_4439/index.m3u8?expire=1779178507&amp;sign=2ebb8e3f1f1cf3b880b49a571fe7eb23
 #EXTINF:-1 tvg-id="601470142" group-title="Gold Coast Knights (w) vs Gold Coast United Women 17:30 ngày 12/05 Australia Queensland State Women's League", Gold Coast Knights (w) vs Gold Coast United Women 17:30 ngày 12/05 Australia Queensland State Women's League
 https://dlqcalr.alilicloud.com/live/e8a175c50bc463d8e4d30fd8e3398581/playlist.m3u8
-#EXTINF:-1 tvg-id="601470406" group-title="Ilia Simakin vs Laurent Lokoli 16:00 ngày 12/05 ATP Challenger Tunis, Tunisia Men Singles", Ilia Simakin vs Laurent Lokoli 16:00 ngày 12/05 ATP Challenger Tunis, Tunisia Men Singles
-https://dlqcalr.alilicloud.com/live/2ac71ab03ab7bc3710bf0c62261ad0c2/playlist.m3u8
-#EXTINF:-1 tvg-id="601465564" group-title="Skander Mansouri vs Federico Agustin Gomez 16:00 ngày 12/05 ATP Challenger Tunis, Tunisia Men Singles", Skander Mansouri vs Federico Agustin Gomez 16:00 ngày 12/05 ATP Challenger Tunis, Tunisia Men Singles
-https://dlqcalr.alilicloud.com/live/2a9982721f6cb3b0e52d92b5cb21ec16/playlist.m3u8
-#EXTINF:-1 tvg-id="601469914" group-title="Jenson Brooksby vs Alex Molcan 16:30 ngày 12/05 ATP Challenger Bordeaux, France Men Singles", Jenson Brooksby vs Alex Molcan 16:30 ngày 12/05 ATP Challenger Bordeaux, France Men Singles
-https://dlqcalr.alilicloud.com/live/1354f59210026f4b7498439b94efbd2e/playlist.m3u8
-#EXTINF:-1 tvg-id="601470157" group-title="Kriish Tyagi vs Taiyo Yamanaka 16:30 ngày 12/05 ATP Challenger Bengaluru 2, India Men Singles", Kriish Tyagi vs Taiyo Yamanaka 16:30 ngày 12/05 ATP Challenger Bengaluru 2, India Men Singles
-https://dlqcalr.alilicloud.com/live/eb441dd9171883dedae107b9ba849b2c/playlist.m3u8
-#EXTINF:-1 tvg-id="601470268" group-title="Rei Sakamoto vs Tseng Chun-hsin 16:30 ngày 12/05 ATP Challenger Bordeaux, France Men Singles", Rei Sakamoto vs Tseng Chun-hsin 16:30 ngày 12/05 ATP Challenger Bordeaux, France Men Singles
-https://dlqcalr.alilicloud.com/live/f2b29bd4dc921b051a1ed7b7621e5544/playlist.m3u8
-#EXTINF:-1 tvg-id="601470385" group-title="Priscilla Hon vs Susan Bandecchi 17:00 ngày 12/05 WTA 125K Parma, Italy Women Singles", Priscilla Hon vs Susan Bandecchi 17:00 ngày 12/05 WTA 125K Parma, Italy Women Singles
-https://dlqcalr.alilicloud.com/live/9265a05ed7d1d7035893249dcb078c3e/playlist.m3u8
-#EXTINF:-1 tvg-id="601470403" group-title="Taylah Preston vs Yulia Starodubtseva 17:20 ngày 12/05 WTA 125K Paris, France Women Singles", Taylah Preston vs Yulia Starodubtseva 17:20 ngày 12/05 WTA 125K Paris, France Women Singles
-https://dlqcalr.alilicloud.com/live/5bb08fd584cab17f382cfcb3c127549e/playlist.m3u8
+#EXTINF:-1 tvg-id="601456951" group-title="Beijing Warriors vs Shaanxi Northwest Juniors 18:00 ngày 12/05 Chinese Football Association Member Association Champions League", Beijing Warriors vs Shaanxi Northwest Juniors 18:00 ngày 12/05 Chinese Football Association Member Association Champions League
+https://dlqcalr.alilicloud.com/live/119fe1fbee6c3910d7e37e359419892b/playlist.m3u8
 #EXTINF:-1 tvg-id="601470394" group-title="Victoria Bosio vs Dayana Yastremska 17:20 ngày 12/05 WTA 125K Parma, Italy Women Singles", Victoria Bosio vs Dayana Yastremska 17:20 ngày 12/05 WTA 125K Parma, Italy Women Singles
 https://dlqcalr.alilicloud.com/live/16478c494488ebfdee381ca87543b5a7/playlist.m3u8
+#EXTINF:-1 tvg-id="601470403" group-title="Taylah Preston vs Yulia Starodubtseva 17:20 ngày 12/05 WTA 125K Paris, France Women Singles", Taylah Preston vs Yulia Starodubtseva 17:20 ngày 12/05 WTA 125K Paris, France Women Singles
+https://dlqcalr.alilicloud.com/live/5bb08fd584cab17f382cfcb3c127549e/playlist.m3u8
 #EXTINF:-1 tvg-id="601454086" group-title="Irina Khromacheva/Giuliana Olmos vs Anna Danilina/Asia Muhammad 17:25 ngày 12/05 WTA Rome, Italy Women Doubles", Irina Khromacheva/Giuliana Olmos vs Anna Danilina/Asia Muhammad 17:25 ngày 12/05 WTA Rome, Italy Women Doubles
 https://dlqcalr.alilicloud.com/live/b7f868d4ff7b70d7157d4acdf5593f1f/playlist.m3u8
-#EXTINF:-1 tvg-id="601471840" group-title="Shanghai Sharks U21 vs Qingdao Eagles U21 17:00 ngày 12/05 China National Basketball League U21", Shanghai Sharks U21 vs Qingdao Eagles U21 17:00 ngày 12/05 China National Basketball League U21
-https://dlqcalr.alilicloud.com/live/5bf3258ac05f4a83242e22a51ada19ae/playlist.m3u8
-#EXTINF:-1 tvg-id="601471843" group-title="Xinjiang Guanghui U21 vs Shanxi Fenjiu U21 17:00 ngày 12/05 China National Basketball League U21", Xinjiang Guanghui U21 vs Shanxi Fenjiu U21 17:00 ngày 12/05 China National Basketball League U21
-https://dlqcalr.alilicloud.com/live/0d737a6378febc8da1b9acc25b6f3708/playlist.m3u8
+#EXTINF:-1 tvg-id="601454050" group-title="Luciano Darderi vs Alexander Zverev 19:00 ngày 12/05 ATP Rome, Italy Men Singles", Luciano Darderi vs Alexander Zverev 19:00 ngày 12/05 ATP Rome, Italy Men Singles
+https://cdn-hls.taoxanh.biz/live/6a03116542284_42127/index.m3u8?expire=1779190757&amp;sign=90e30bdcd7e33753c86589f9af5b3b4d
+#EXTINF:-1 tvg-id="601453633" group-title="FK Epitsentr Dunayivtsi vs Polissya Zhytomyr 19:30 ngày 12/05 Ukrainian Premier League", FK Epitsentr Dunayivtsi vs Polissya Zhytomyr 19:30 ngày 12/05 Ukrainian Premier League
+https://cdn-hls.taoxanh.biz/live/6a0312e442284_88642/index.m3u8?expire=1779191140&amp;sign=123e71810c33e2e633c1cc6d591c924e
+#EXTINF:-1 tvg-id="601454035" group-title="Jannik Sinner vs Andrea Pellegrino 20:00 ngày 12/05 ATP Rome, Italy Men Singles", Jannik Sinner vs Andrea Pellegrino 20:00 ngày 12/05 ATP Rome, Italy Men Singles
+https://cdn-hls.taoxanh.biz/live/6a031cc842284_4733/index.m3u8?expire=1779193672&amp;sign=4278187bc89a46f5b6951af6c9c6da66
+#EXTINF:-1 tvg-id="601454038" group-title="Andrey Rublev vs Nikoloz Basilashvili 20:10 ngày 12/05 ATP Rome, Italy Men Singles", Andrey Rublev vs Nikoloz Basilashvili 20:10 ngày 12/05 ATP Rome, Italy Men Singles
+https://cdn-hls.taoxanh.biz/live/6a031c09203f6_72787/index.m3u8?expire=1779193481&amp;sign=f5e30c9c726d43fb695fcfa515e4f42c
+#EXTINF:-1 tvg-id="601453648" group-title="El Gounah vs Kahraba Ismailia 21:00 ngày 12/05 Egyptian Premier League", El Gounah vs Kahraba Ismailia 21:00 ngày 12/05 Egyptian Premier League
+https://cdn-hls.taoxanh.biz/live/6a032537203f6_136682/index.m3u8?expire=1779195831&amp;sign=8b5e53635bbe79615d2966b77ca7c485
+#EXTINF:-1 tvg-id="601453651" group-title="Pharco vs Modern Sport FC 21:00 ngày 12/05 Egyptian Premier League", Pharco vs Modern Sport FC 21:00 ngày 12/05 Egyptian Premier League
+https://cdn-hls.taoxanh.biz/live/6a03244342284_4908/index.m3u8?expire=1779195587&amp;sign=49e66454df58ab32ca63c54bdd3c4e2d
+#EXTINF:-1 tvg-id="601455346" group-title="Inter Turku vs JS Hercules 21:00 ngày 12/05 Finland Suomen Cup", Inter Turku vs JS Hercules 21:00 ngày 12/05 Finland Suomen Cup
+https://cdn-hls.taoxanh.biz/live/6a031474203f6_73445/index.m3u8?expire=1779191540&amp;sign=26236b7c22273212c33da9ebe5271442
