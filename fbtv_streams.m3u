@@ -1,5 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="601455493" group-title="Internacional RS vs Athletic Club 05:30 ngày 13/05 Brazilian Cup", Internacional RS vs Athletic Club 05:30 ngày 13/05 Brazilian Cup
 https://cdn-hls.taoxanh.biz/live/6a03a227203f6_74012/index.m3u8?expire=1779227815&amp;sign=2b799590a7c3ffa50c09bb299f36c95e
+#EXTINF:-1 tvg-id="601455502" group-title="Atletico Nacional Medellin vs La Equidad 06:20 ngày 13/05 Categoría Primera A", Atletico Nacional Medellin vs La Equidad 06:20 ngày 13/05 Categoría Primera A
+https://cdn-hls.taoxanh.biz/live/6a03b23542284_153967/index.m3u8?expire=1779231925&amp;sign=2c8b6842ae6bc29305bdb5b966021570
+#EXTINF:-1 tvg-id="601455514" group-title="San Martin Tucuman vs Gimnasia Jujuy 07:10 ngày 13/05 Argentine Division 2", San Martin Tucuman vs Gimnasia Jujuy 07:10 ngày 13/05 Argentine Division 2
+https://cdn-hls.taoxanh.biz/live/6a03b632203f6_95554/index.m3u8?expire=1779232946&amp;sign=2942fb34e9050ae6c691ce89d8efb1f8
 #EXTINF:-1 tvg-id="601455523" group-title="SV Brazil Juniors vs SV Estrella 07:30 ngày 13/05 Aruba Division Di Honor", SV Brazil Juniors vs SV Estrella 07:30 ngày 13/05 Aruba Division Di Honor
 https://cdn-hls.taoxanh.biz/live/6a03886142284_124958/index.m3u8?expire=1779221217&amp;sign=d6ef45cfe7ca0c8ff9909cf513c09f18
+#EXTINF:-1 tvg-id="601455517" group-title="Fluminense RJ vs Operario Ferroviario PR 07:30 ngày 13/05 Brazilian Cup", Fluminense RJ vs Operario Ferroviario PR 07:30 ngày 13/05 Brazilian Cup
+https://cdn-hls.taoxanh.biz/live/6a03b71942284_103/index.m3u8?expire=1779233177&amp;sign=6b33c4421bc0f52759c7c54600879ef9
+#EXTINF:-1 tvg-id="601455526" group-title="Independiente Santa Fe vs America de Cali 08:30 ngày 13/05 Categoría Primera A", Independiente Santa Fe vs America de Cali 08:30 ngày 13/05 Categoría Primera A
+https://cdn-hls.taoxanh.biz/live/6a03b911203f6_88186/index.m3u8?expire=1779233681&amp;sign=73882fb8bf63938623ef95eb4ea921fc
