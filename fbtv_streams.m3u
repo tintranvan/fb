@@ -1,103 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601453714" group-title="Japan U17 vs Indonesia U17 23:00 ngày 12/05 AFC U17 Asian Cup", Japan U17 vs Indonesia U17 23:00 ngày 12/05 AFC U17 Asian Cup (Link 1)
-https://cdn-hls.taoxanh.biz/live/6a03451442284_79/index.m3u8?expire=1779203988&amp;sign=58b9547303af7a990a24a32db30958a0
-#EXTINF:-1 tvg-id="601453714" group-title="Japan U17 vs Indonesia U17 23:00 ngày 12/05 AFC U17 Asian Cup", Japan U17 vs Indonesia U17 23:00 ngày 12/05 AFC U17 Asian Cup (Link 2)
-https://cdn-hls.taoxanh.biz/live/6a03424542284_103/index.m3u8?expire=1779203269&amp;sign=d2e3146f1985b988722856ce96e1ad41
-#EXTINF:-1 tvg-id="601453714" group-title="Japan U17 vs Indonesia U17 23:00 ngày 12/05 AFC U17 Asian Cup", Japan U17 vs Indonesia U17 23:00 ngày 12/05 AFC U17 Asian Cup (Link 3)
-https://dlqcalr.alilicloud.com/live/4f7445a7a461c28d7c31e6d6c0babc83/playlist.m3u8
-#EXTINF:-1 tvg-id="601453717" group-title="China U17 vs Qatar U17 23:00 ngày 12/05 AFC U17 Asian Cup", China U17 vs Qatar U17 23:00 ngày 12/05 AFC U17 Asian Cup (Link 1)
-https://cdn-hls.taoxanh.biz/live/6a0343ec42284_162172/index.m3u8?expire=1779203692&amp;sign=b7b0a096a900a5581bb1ddde02019524
-#EXTINF:-1 tvg-id="601453717" group-title="China U17 vs Qatar U17 23:00 ngày 12/05 AFC U17 Asian Cup", China U17 vs Qatar U17 23:00 ngày 12/05 AFC U17 Asian Cup (Link 2)
-https://cdn-hls.taoxanh.biz/live/6a034302203f6_44731/index.m3u8?expire=1779203458&amp;sign=99ed946c5401d1265309dbe355e29ac1
-#EXTINF:-1 tvg-id="601453717" group-title="China U17 vs Qatar U17 23:00 ngày 12/05 AFC U17 Asian Cup", China U17 vs Qatar U17 23:00 ngày 12/05 AFC U17 Asian Cup (Link 3)
-https://dlqcalr.alilicloud.com/live/1874deb2914f0e83e147c2fc74812307/playlist.m3u8
-#EXTINF:-1 tvg-id="601453759" group-title="Al Kholood vs Al-Okhdood 23:20 ngày 12/05 Saudi Professional League", Al Kholood vs Al-Okhdood 23:20 ngày 12/05 Saudi Professional League (Link 1)
-https://cdn-hls.taoxanh.biz/live/6a034c1d42284_73445/index.m3u8?expire=1779205789&amp;sign=b4f6cb3b6a0db407ba59877f706c0ce9
-#EXTINF:-1 tvg-id="601453759" group-title="Al Kholood vs Al-Okhdood 23:20 ngày 12/05 Saudi Professional League", Al Kholood vs Al-Okhdood 23:20 ngày 12/05 Saudi Professional League (Link 2)
-https://dlqcalr.alilicloud.com/live/252940137dcc32d54b404acafaf3a5d8/playlist.m3u8
-#EXTINF:-1 tvg-id="601455382" group-title="Wadi Degla SC vs Ismaily SC 00:00 ngày 13/05 Egyptian Premier League", Wadi Degla SC vs Ismaily SC 00:00 ngày 13/05 Egyptian Premier League
-https://cdn-hls.taoxanh.biz/live/6a035a5f203f6_95554/index.m3u8?expire=1779209439&amp;sign=dcf2e32a538dedf2f6b2010619160c0b
-#EXTINF:-1 tvg-id="601455367" group-title="RC Celta vs Levante 00:00 ngày 13/05 Spanish La Liga", RC Celta vs Levante 00:00 ngày 13/05 Spanish La Liga (Link 1)
-https://cdn-hls.taoxanh.biz/live/6a034f0642284_4908/index.m3u8?expire=1779206534&amp;sign=dc9f6d39c4c0909705cce203841f98a6
-#EXTINF:-1 tvg-id="601455367" group-title="RC Celta vs Levante 00:00 ngày 13/05 Spanish La Liga", RC Celta vs Levante 00:00 ngày 13/05 Spanish La Liga (Link 2)
-https://dlqcalr.alilicloud.com/live/b0a4937bf05ee0150983953e4d087521/playlist.m3u8
-#EXTINF:-1 tvg-id="601455394" group-title="Thailand U17 vs Myanmar U17 00:00 ngày 13/05 AFC U17 Asian Cup", Thailand U17 vs Myanmar U17 00:00 ngày 13/05 AFC U17 Asian Cup (Link 1)
-https://cdn-hls.taoxanh.biz/live/6a03579a42284_28/index.m3u8?expire=1779208730&amp;sign=07b1090db535417be2053826768a867c
-#EXTINF:-1 tvg-id="601455394" group-title="Thailand U17 vs Myanmar U17 00:00 ngày 13/05 AFC U17 Asian Cup", Thailand U17 vs Myanmar U17 00:00 ngày 13/05 AFC U17 Asian Cup (Link 2)
-https://dlqcalr.alilicloud.com/live/66fa99035a230e6fa5118b396e3a6154/playlist.m3u8
-#EXTINF:-1 tvg-id="601455391" group-title="Saudi Arabia U17 vs Tajikistan U17 00:00 ngày 13/05 AFC U17 Asian Cup", Saudi Arabia U17 vs Tajikistan U17 00:00 ngày 13/05 AFC U17 Asian Cup (Link 1)
-https://cdn-hls.taoxanh.biz/live/6a035016203f6_88186/index.m3u8?expire=1779206806&amp;sign=be7055c002d16feca053f8b4d6fae28a
-#EXTINF:-1 tvg-id="601455391" group-title="Saudi Arabia U17 vs Tajikistan U17 00:00 ngày 13/05 AFC U17 Asian Cup", Saudi Arabia U17 vs Tajikistan U17 00:00 ngày 13/05 AFC U17 Asian Cup (Link 2)
-https://dlqcalr.alilicloud.com/live/2beb20fb7755539e0258bd502d754569/playlist.m3u8
-#EXTINF:-1 tvg-id="601455364" group-title="Riga FC vs FK Auda Riga 23:00 ngày 12/05 Latvian Higher League", Riga FC vs FK Auda Riga 23:00 ngày 12/05 Latvian Higher League
-https://dlqcalr.alilicloud.com/live/babbaadcbfb7bf56e19cbb6c4088f4e0/playlist.m3u8
-#EXTINF:-1 tvg-id="601455643" group-title="PK-35 Vantaa vs KuPs 23:00 ngày 12/05 Finland Suomen Cup", PK-35 Vantaa vs KuPs 23:00 ngày 12/05 Finland Suomen Cup
-https://dlqcalr.alilicloud.com/live/3c3805b114e2e1417993c26f0752b632/playlist.m3u8
-#EXTINF:-1 tvg-id="601453756" group-title="Viking (w) vs FK Haugesund (W) 23:00 ngày 12/05 Norwegian Women's Cup", Viking (w) vs FK Haugesund (W) 23:00 ngày 12/05 Norwegian Women's Cup
-https://dlqcalr.alilicloud.com/live/aa686e87287650ed08cced79fce7d04e/playlist.m3u8
-#EXTINF:-1 tvg-id="601453753" group-title="Tynset (w) vs LSK Kvinner (w) 23:00 ngày 12/05 Norwegian Women's Cup", Tynset (w) vs LSK Kvinner (w) 23:00 ngày 12/05 Norwegian Women's Cup
-https://dlqcalr.alilicloud.com/live/4a9ef6d40b1af84cc68d64f10b46dbc2/playlist.m3u8
-#EXTINF:-1 tvg-id="601453744" group-title="Sarpsborg 08 Kvinner (w) vs Honefoss (w) 23:00 ngày 12/05 Norwegian Women's Cup", Sarpsborg 08 Kvinner (w) vs Honefoss (w) 23:00 ngày 12/05 Norwegian Women's Cup
-https://dlqcalr.alilicloud.com/live/5f2a37fbfce52014365048d7ff882c8f/playlist.m3u8
-#EXTINF:-1 tvg-id="601453741" group-title="Odd BK (W) vs Stabaek (w) 23:00 ngày 12/05 Norwegian Women's Cup", Odd BK (W) vs Stabaek (w) 23:00 ngày 12/05 Norwegian Women's Cup
-https://dlqcalr.alilicloud.com/live/1d15c53efcadea5f3551270b6b6172b5/playlist.m3u8
-#EXTINF:-1 tvg-id="601453735" group-title="HamKam (W) vs Valerenga (w) 23:00 ngày 12/05 Norwegian Women's Cup", HamKam (W) vs Valerenga (w) 23:00 ngày 12/05 Norwegian Women's Cup
-https://dlqcalr.alilicloud.com/live/b3c83cbdf00d49fb131373d56804dd79/playlist.m3u8
-#EXTINF:-1 tvg-id="601453726" group-title="Bryne (w) vs Start Kristiansand (W) 23:00 ngày 12/05 Norwegian Women's Cup", Bryne (w) vs Start Kristiansand (W) 23:00 ngày 12/05 Norwegian Women's Cup
-https://dlqcalr.alilicloud.com/live/b538fcc0bac88809524f75d7de7351b3/playlist.m3u8
-#EXTINF:-1 tvg-id="601453723" group-title="Arna Bjornar (w) vs Aasane (w) 23:00 ngày 12/05 Norwegian Women's Cup", Arna Bjornar (w) vs Aasane (w) 23:00 ngày 12/05 Norwegian Women's Cup
-https://dlqcalr.alilicloud.com/live/aae490af02694814128802959f0452f1/playlist.m3u8
-#EXTINF:-1 tvg-id="601453711" group-title="Panaitolikos Agrinio vs AEL Larisa 23:00 ngày 12/05 Greek Super League", Panaitolikos Agrinio vs AEL Larisa 23:00 ngày 12/05 Greek Super League
-https://dlqcalr.alilicloud.com/live/d7288d60058d916df8881e6b85340669/playlist.m3u8
-#EXTINF:-1 tvg-id="601453708" group-title="AE Kifisias vs Atromitos Athens 23:00 ngày 12/05 Greek Super League", AE Kifisias vs Atromitos Athens 23:00 ngày 12/05 Greek Super League
-https://dlqcalr.alilicloud.com/live/9badfff39d7bf353e6bccb638a0eb7c1/playlist.m3u8
-#EXTINF:-1 tvg-id="601453705" group-title="Asteras Aktor vs Panserraikos 23:00 ngày 12/05 Greek Super League", Asteras Aktor vs Panserraikos 23:00 ngày 12/05 Greek Super League
-https://dlqcalr.alilicloud.com/live/4716ca331a5824ac7c30ca8aad93c7fa/playlist.m3u8
-#EXTINF:-1 tvg-id="601453762" group-title="Rustaq SC vs Ibri SCC 23:20 ngày 12/05 Oman Professional League", Rustaq SC vs Ibri SCC 23:20 ngày 12/05 Oman Professional League
-https://dlqcalr.alilicloud.com/live/01571b772b87ba4f6327deb5ab99531e/playlist.m3u8
-#EXTINF:-1 tvg-id="601453774" group-title="Bombada FC vs Gambian Dutch Lions 23:30 ngày 12/05 Gambia League First Division", Bombada FC vs Gambian Dutch Lions 23:30 ngày 12/05 Gambia League First Division
-https://dlqcalr.alilicloud.com/live/85e63836578fcb2bf7cded9a6a315060/playlist.m3u8
-#EXTINF:-1 tvg-id="601453771" group-title="Harts vs Banjul Hawks FC 23:30 ngày 12/05 Gambia League First Division", Harts vs Banjul Hawks FC 23:30 ngày 12/05 Gambia League First Division
-https://dlqcalr.alilicloud.com/live/f88f3ddae40e8ebcdc750d470de20a9d/playlist.m3u8
-#EXTINF:-1 tvg-id="601453765" group-title="Team Rhino FC vs BST Galaxy 23:30 ngày 12/05 Gambia League First Division", Team Rhino FC vs BST Galaxy 23:30 ngày 12/05 Gambia League First Division
-https://dlqcalr.alilicloud.com/live/79202455e144195967aadfb840387d32/playlist.m3u8
-#EXTINF:-1 tvg-id="601470046" group-title="Modena vs Juve Stabia 23:45 ngày 12/05 Italian Serie B", Modena vs Juve Stabia 23:45 ngày 12/05 Italian Serie B
-https://dlqcalr.alilicloud.com/live/b278619553147448309105883530ee65/playlist.m3u8
-#EXTINF:-1 tvg-id="601455388" group-title="Hapoel Tel Aviv vs Hapoel Petah Tikva 00:00 ngày 13/05 Israel Premier League", Hapoel Tel Aviv vs Hapoel Petah Tikva 00:00 ngày 13/05 Israel Premier League
-https://dlqcalr.alilicloud.com/live/5bccce35e4bd07d3a97fd3c173e27060/playlist.m3u8
-#EXTINF:-1 tvg-id="601455376" group-title="IFK Varnamo vs Orebro 00:00 ngày 13/05 Sweden Superettan", IFK Varnamo vs Orebro 00:00 ngày 13/05 Sweden Superettan
-https://dlqcalr.alilicloud.com/live/f03463892bcd5dffaa1164e354a8bef4/playlist.m3u8
-#EXTINF:-1 tvg-id="601455370" group-title="Djurgardens (w) vs Hammarby (w) 00:00 ngày 13/05 Sweden Damallsvenskan", Djurgardens (w) vs Hammarby (w) 00:00 ngày 13/05 Sweden Damallsvenskan
-https://dlqcalr.alilicloud.com/live/15b826da39890917848a2cd99a39595b/playlist.m3u8
-#EXTINF:-1 tvg-id="601466686" group-title="Yuan Yue vs Mayar Sherif 22:00 ngày 12/05 WTA 125K Parma, Italy Women Singles", Yuan Yue vs Mayar Sherif 22:00 ngày 12/05 WTA 125K Parma, Italy Women Singles
-https://dlqcalr.alilicloud.com/live/d5b6dfe73a9fe95f4cd8b6d443ed5f41/playlist.m3u8
-#EXTINF:-1 tvg-id="601471861" group-title="Maccabi Ironi Ramat Gan vs Maccabi Raanana 23:00 ngày 12/05 Ligat HaAl", Maccabi Ironi Ramat Gan vs Maccabi Raanana 23:00 ngày 12/05 Ligat HaAl
-https://dlqcalr.alilicloud.com/live/fd40e7e0250f8e25ff1bb09780a48657/playlist.m3u8
-#EXTINF:-1 tvg-id="601458049" group-title="Goztepe vs Bordo BK 23:00 ngày 12/05 Turkish Basketball First League", Goztepe vs Bordo BK 23:00 ngày 12/05 Turkish Basketball First League
-https://dlqcalr.alilicloud.com/live/e932ec5f8624f476fcc6db002485a4e8/playlist.m3u8
-#EXTINF:-1 tvg-id="601455880" group-title="Rilski Sportist vs Lokomotiv Plovdiv 23:15 ngày 12/05 Bulgaria National Basketball League", Rilski Sportist vs Lokomotiv Plovdiv 23:15 ngày 12/05 Bulgaria National Basketball League
-https://dlqcalr.alilicloud.com/live/2bf26de9c9cb54485cb970a7c605788c/playlist.m3u8
-#EXTINF:-1 tvg-id="601470097" group-title="Rostock Seawolves vs EnBW Ludwigsburg 23:30 ngày 12/05 Basketball Bundesliga", Rostock Seawolves vs EnBW Ludwigsburg 23:30 ngày 12/05 Basketball Bundesliga
-https://dlqcalr.alilicloud.com/live/2d9b4fa531d87e4350bbad0d7cca839c/playlist.m3u8
-#EXTINF:-1 tvg-id="601453996" group-title="CSKA Moscow vs Lokomotiv Kuban 23:30 ngày 12/05 VTB United League", CSKA Moscow vs Lokomotiv Kuban 23:30 ngày 12/05 VTB United League
-https://dlqcalr.alilicloud.com/live/7fb9b01054ab3d25fe7c2fb25bd93157/playlist.m3u8
-#EXTINF:-1 tvg-id="601453987" group-title="Helios Domzale vs Sencur KK 00:00 ngày 13/05 Liga Nova KBM", Helios Domzale vs Sencur KK 00:00 ngày 13/05 Liga Nova KBM
-https://dlqcalr.alilicloud.com/live/e4a3335879eccb2fe7a9c255701b5b51/playlist.m3u8
-#EXTINF:-1 tvg-id="601455883" group-title="KK Cedevita Olimpija vs Crvena Zvezda Belgrade 00:00 ngày 13/05 Adriatic Basketball Association League", KK Cedevita Olimpija vs Crvena Zvezda Belgrade 00:00 ngày 13/05 Adriatic Basketball Association League
-https://dlqcalr.alilicloud.com/live/98a83bfa15f845040d6638b5df0b19d9/playlist.m3u8
 #EXTINF:-1 tvg-id="601453678" group-title="USM Alger vs ES Mostaganem 01:00 ngày 13/05 Algerian Ligue Professionnelle 1", USM Alger vs ES Mostaganem 01:00 ngày 13/05 Algerian Ligue Professionnelle 1
 https://cdn-hls.taoxanh.biz/live/6a0359ed42284_136682/index.m3u8?expire=1779209325&amp;sign=8861a53ea5401cd1e518bc4bd68c989b
-#EXTINF:-1 tvg-id="601457353" group-title="Real Madrid U21 vs Borussia Dortmund II 01:00 ngày 13/05 Premier League International Cup", Real Madrid U21 vs Borussia Dortmund II 01:00 ngày 13/05 Premier League International Cup
-https://cdn-hls.taoxanh.biz/live/6a03611842284_128756/index.m3u8?expire=1779211160&amp;sign=eb853a4dc2a00be5c81234135000084d
-#EXTINF:-1 tvg-id="601455421" group-title="Al Nassr FC vs Al Hilal 01:00 ngày 13/05 Saudi Professional League", Al Nassr FC vs Al Hilal 01:00 ngày 13/05 Saudi Professional League (Link 1)
-https://cdn-hls.taoxanh.biz/live/6a035b6542284_133172/index.m3u8?expire=1779209701&amp;sign=34cf8160b80f5d3a2b4d3a9fce67eabf
-#EXTINF:-1 tvg-id="601455421" group-title="Al Nassr FC vs Al Hilal 01:00 ngày 13/05 Saudi Professional League", Al Nassr FC vs Al Hilal 01:00 ngày 13/05 Saudi Professional League (Link 2)
-https://cdn-hls.taoxanh.biz/live/6a034d48203f6_88642/index.m3u8?expire=1779206088&amp;sign=61b7e719ea8ee1dba47f20cda25f71b0
 #EXTINF:-1 tvg-id="601455418" group-title="Real Betis vs Elche 01:00 ngày 13/05 Spanish La Liga", Real Betis vs Elche 01:00 ngày 13/05 Spanish La Liga (Link 1)
 https://cdn-hls.taoxanh.biz/live/6a0327fa42284_6308/index.m3u8?expire=1779196538&amp;sign=ab380036d6b50ac6e03470b6066da4d5
 #EXTINF:-1 tvg-id="601455418" group-title="Real Betis vs Elche 01:00 ngày 13/05 Spanish La Liga", Real Betis vs Elche 01:00 ngày 13/05 Spanish La Liga (Link 2)
 https://dlqcalr.alilicloud.com/live/2268d3be1405c03dd8c3bc52beca7620/playlist.m3u8
-#EXTINF:-1 tvg-id="601454047" group-title="Thiago Agustin Tirante vs Daniil Medvedev 01:30 ngày 13/05 ATP Rome, Italy Men Singles", Thiago Agustin Tirante vs Daniil Medvedev 01:30 ngày 13/05 ATP Rome, Italy Men Singles
-https://cdn-hls.taoxanh.biz/live/6a0363c0203f6_72787/index.m3u8?expire=1779211840&amp;sign=2d186bf78fda06c22aa7c855d3e47765
-#EXTINF:-1 tvg-id="601455463" group-title="CA Osasuna vs Atletico Madrid 02:30 ngày 13/05 Spanish La Liga", CA Osasuna vs Atletico Madrid 02:30 ngày 13/05 Spanish La Liga
+#EXTINF:-1 tvg-id="601455421" group-title="Al Nassr FC vs Al Hilal 01:00 ngày 13/05 Saudi Professional League", Al Nassr FC vs Al Hilal 01:00 ngày 13/05 Saudi Professional League (Link 1)
+https://cdn-hls.taoxanh.biz/live/6a035b6542284_133172/index.m3u8?expire=1779209701&amp;sign=34cf8160b80f5d3a2b4d3a9fce67eabf
+#EXTINF:-1 tvg-id="601455421" group-title="Al Nassr FC vs Al Hilal 01:00 ngày 13/05 Saudi Professional League", Al Nassr FC vs Al Hilal 01:00 ngày 13/05 Saudi Professional League (Link 2)
+https://cdn-hls.taoxanh.biz/live/6a034d48203f6_88642/index.m3u8?expire=1779206088&amp;sign=61b7e719ea8ee1dba47f20cda25f71b0
+#EXTINF:-1 tvg-id="601457353" group-title="Real Madrid U21 vs Borussia Dortmund II 01:00 ngày 13/05 Premier League International Cup", Real Madrid U21 vs Borussia Dortmund II 01:00 ngày 13/05 Premier League International Cup
+https://cdn-hls.taoxanh.biz/live/6a03611842284_128756/index.m3u8?expire=1779211160&amp;sign=eb853a4dc2a00be5c81234135000084d
+#EXTINF:-1 tvg-id="601455454" group-title="Southampton vs Middlesbrough 02:00 ngày 13/05 English Football League Championship", Southampton vs Middlesbrough 02:00 ngày 13/05 English Football League Championship
+https://cdn-hls.taoxanh.biz/live/6a03731942284_73445/index.m3u8?expire=1779215769&amp;sign=abd968e0b5f4e1c9be7c91397954ed29
+#EXTINF:-1 tvg-id="601456963" group-title="JS Saoura vs CR Belouizdad 02:00 ngày 13/05 Algerian Ligue Professionnelle 1", JS Saoura vs CR Belouizdad 02:00 ngày 13/05 Algerian Ligue Professionnelle 1
+https://cdn-hls.taoxanh.biz/live/6a03783d42284_95554/index.m3u8?expire=1779217085&amp;sign=105340aa0ed9b005541499b944ebad45
+#EXTINF:-1 tvg-id="601455463" group-title="CA Osasuna vs Atletico Madrid 02:30 ngày 13/05 Spanish La Liga", CA Osasuna vs Atletico Madrid 02:30 ngày 13/05 Spanish La Liga (Link 1)
+https://cdn-hls.taoxanh.biz/live/6a037bea203f6_162172/index.m3u8?expire=1779218026&amp;sign=1df83caf56bc2343435b011184a75a23
+#EXTINF:-1 tvg-id="601455463" group-title="CA Osasuna vs Atletico Madrid 02:30 ngày 13/05 Spanish La Liga", CA Osasuna vs Atletico Madrid 02:30 ngày 13/05 Spanish La Liga (Link 2)
+https://cdn-hls.taoxanh.biz/live/6a03696242284_79/index.m3u8?expire=1779213282&amp;sign=5468e00a2ba10a03ef3dce5df3444447
+#EXTINF:-1 tvg-id="601455463" group-title="CA Osasuna vs Atletico Madrid 02:30 ngày 13/05 Spanish La Liga", CA Osasuna vs Atletico Madrid 02:30 ngày 13/05 Spanish La Liga (Link 3)
 https://dlqcalr.alilicloud.com/live/2934c698454af3669e08273109af5821/playlist.m3u8
+#EXTINF:-1 tvg-id="601454047" group-title="Thiago Agustin Tirante vs Daniil Medvedev 02:40 ngày 13/05 ATP Rome, Italy Men Singles", Thiago Agustin Tirante vs Daniil Medvedev 02:40 ngày 13/05 ATP Rome, Italy Men Singles
+https://cdn-hls.taoxanh.biz/live/6a0363c0203f6_72787/index.m3u8?expire=1779211840&amp;sign=2d186bf78fda06c22aa7c855d3e47765
