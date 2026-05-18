@@ -1,14 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="gre" group-title="Thể thao", El Geish Vs Pharco
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
-#EXTINF:-1 tvg-id="hda" group-title="Thể thao", Brancaccio R Vs Wawrinka S
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
 #EXTINF:-1 tvg-id="jnq" group-title="Thể thao", Oklahoma City Thunder Vs San Antonio Spurs
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
-#EXTINF:-1 tvg-id="bxc" group-title="Thể thao", El Mokawloon Vs Wadi Degla
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
-#EXTINF:-1 tvg-id="xkl" group-title="Thể thao", Ghazl El Mehalla Vs Al Ittihad
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8
 #EXTINF:-1 tvg-id="via" group-title="Thể thao", Tks Viet Nam Nu Vs Ho Chi Minh Nu
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
 #EXTINF:-1 tvg-id="zzz" group-title="Thể thao", Sichuan Jiuniu Vs Dalian Zhixing
@@ -21,3 +13,7 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8
 #EXTINF:-1 tvg-id="zgp" group-title="Thể thao", Phong Phu Ha Nam Nu Vs Thai Nguyen Nu
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
+#EXTINF:-1 tvg-id="uff" group-title="Thể thao", Japan U17 Vs Uzbekistan U17
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
+#EXTINF:-1 tvg-id="ugo" group-title="Thể thao", Fc Noah Vs Ararat
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
