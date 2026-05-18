@@ -1,12 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="sjo" group-title="Thể thao", Gunma Bank Green Wings W Vs Suwon City W
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_quechoa_1.m3u8
-#EXTINF:-1 tvg-id="kge" group-title="Thể thao", Baez S Vs Michelsen A
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
 #EXTINF:-1 tvg-id="zhn" group-title="Thể thao", Lpb Ninh Binh Vs Nu Ha Noi Tasco Auto
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_quechoa_1.m3u8
-#EXTINF:-1 tvg-id="rzw" group-title="Thể thao", Rinderknech A Vs Tirante T A
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
 #EXTINF:-1 tvg-id="djp" group-title="Thể thao", Zhejiang Guangsha Vs Shenzhen
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
 #EXTINF:-1 tvg-id="gre" group-title="Thể thao", El Geish Vs Pharco
@@ -21,3 +15,9 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
 #EXTINF:-1 tvg-id="jnq" group-title="Thể thao", Oklahoma City Thunder Vs San Antonio Spurs
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
+#EXTINF:-1 tvg-id="via" group-title="Thể thao", Tks Viet Nam Nu Vs Ho Chi Minh Nu
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
+#EXTINF:-1 tvg-id="zzz" group-title="Thể thao", Sichuan Jiuniu Vs Dalian Zhixing
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
+#EXTINF:-1 tvg-id="zkl" group-title="Thể thao", Tianjin Teda Vs Henan Jianye
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_quechoa_1.m3u8
