@@ -1,10 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="plk" group-title="Thể thao", Jiangsu Vs Viettinbank
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
-#EXTINF:-1 tvg-id="kge" group-title="Thể thao", Baez S Vs Michelsen A
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
 #EXTINF:-1 tvg-id="sjo" group-title="Thể thao", Gunma Bank Green Wings W Vs Suwon City W
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_quechoa_1.m3u8
+#EXTINF:-1 tvg-id="kge" group-title="Thể thao", Baez S Vs Michelsen A
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
 #EXTINF:-1 tvg-id="zhn" group-title="Thể thao", Lpb Ninh Binh Vs Nu Ha Noi Tasco Auto
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_quechoa_1.m3u8
 #EXTINF:-1 tvg-id="rzw" group-title="Thể thao", Rinderknech A Vs Tirante T A
