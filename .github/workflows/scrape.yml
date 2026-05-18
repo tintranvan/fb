@@ -25,7 +25,7 @@ jobs:
       - name: Install dependencies
         run: |
           pip install playwright
-          playwright install chromium
+          playwright install --with-deps chromium
       
       - name: Run scraper
         run: python scrape_fbtv_streams.py
