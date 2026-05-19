@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="uff" group-title="Thể thao", Japan U17 Vs Uzbekistan U17
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
-#EXTINF:-1 tvg-id="ugo" group-title="Thể thao", Fc Noah Vs Ararat
+#EXTINF:-1 tvg-id="rka" group-title="Thể thao", Bournemouth Vs Manchester City
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
 #EXTINF:-1 tvg-id="aus" group-title="Thể thao", Genk Vs Antwerp
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
@@ -21,3 +19,9 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
 #EXTINF:-1 tvg-id="rfk" group-title="Thể thao", Jiangsu Vs Lpb Ninh Binh
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_quechoa_1.m3u8
+#EXTINF:-1 tvg-id="vsb" group-title="Thể thao", New York Knicks Vs Cleveland Cavaliers
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
+#EXTINF:-1 tvg-id="vmi" group-title="Thể thao", T1 Vs Krx
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
+#EXTINF:-1 tvg-id="pjv" group-title="Thể thao", Nongshim Redforce Vs Kt Rolster
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
