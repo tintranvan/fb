@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="vmi" group-title="Thể thao", T1 Vs Krx
+#EXTINF:-1 tvg-id="pjv" group-title="Thể thao", Nongshim Redforce Vs Kt Rolster
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
-#EXTINF:-1 tvg-id="kqv" group-title="Thể thao", Nu Binh Chung Thong Tin Bd19 Vs Suwon City W
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_quechoa_1.m3u8
-#EXTINF:-1 tvg-id="fep" group-title="Thể thao", Naegohyang W Vs Suwon Fmc
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
 #EXTINF:-1 tvg-id="tzq" group-title="Thể thao", Shenyang Urban Vs Qingdao Jonoon
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
 #EXTINF:-1 tvg-id="nho" group-title="Thể thao", Shanghai Shenhua Vs Wuhan Three Towns
@@ -17,5 +13,5 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_quechoa_1.m3u8
 #EXTINF:-1 tvg-id="sgi" group-title="Thể thao", Gunma Bank Green Wings W Vs Viettinbank
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_quechoa_1.m3u8
-#EXTINF:-1 tvg-id="pjv" group-title="Thể thao", Nongshim Redforce Vs Kt Rolster
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
+#EXTINF:-1 tvg-id="qvb" group-title="Thể thao", Ha Noi Tasco Auto Vs Vtv Binh Dien Long An
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_quechoa_1.m3u8
