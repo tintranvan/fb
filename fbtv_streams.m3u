@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="orv" group-title="Thể thao", China Pr U17 Vs Japan U17
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
+#EXTINF:-1 tvg-id="ykd" group-title="Thể thao", Trabzonspor Vs Konyaspor
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_quechoa_1.m3u8
 #EXTINF:-1 tvg-id="bil" group-title="Thể thao", Arema Fc Vs Psim Yogyakarta
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_quechoa_1.m3u8
 #EXTINF:-1 tvg-id="lmh" group-title="Thể thao", Ho Chi Minh Vs Binh Phuoc
@@ -7,6 +11,8 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
 #EXTINF:-1 tvg-id="zgc" group-title="Thể thao", Xuan Thien Phu Tho Vs Dong Thap
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
+#EXTINF:-1 tvg-id="jvv" group-title="Thể thao", Dewa United Vs Bali United
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
 #EXTINF:-1 tvg-id="lhr" group-title="Thể thao", Viettel Vs Pho Hien
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8
 #EXTINF:-1 tvg-id="uob" group-title="Thể thao", Auda Vs Fk Liepaja
