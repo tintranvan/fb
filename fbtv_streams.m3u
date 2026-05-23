@@ -1,21 +1,21 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="xga" group-title="Thể thao", Nu Binh Chung Thong Tin Bd19 Vs Gunma Bank Green Wings W
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_quechoa_1.m3u8
-#EXTINF:-1 tvg-id="ibd" group-title="Thể thao", Kashiwa Reysol Vs Jef United Chiba
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
-#EXTINF:-1 tvg-id="flh" group-title="Thể thao", Persib Bandung Vs Persijap
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
-#EXTINF:-1 tvg-id="klw" group-title="Thể thao", Jiangsu Vs Nu Vtv Binh Dien Long An
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_quechoa_1.m3u8
 #EXTINF:-1 tvg-id="kuw" group-title="Thể thao", Da Nang Vs Hai Phong
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
 #EXTINF:-1 tvg-id="vek" group-title="Thể thao", Phu Dong Vs Ho Chi Minh
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
-#EXTINF:-1 tvg-id="qon" group-title="Thể thao", Thanh Hoa Vs Hoang Anh Gia Lai
+#EXTINF:-1 tvg-id="klw" group-title="Thể thao", Jiangsu Vs Nu Vtv Binh Dien Long An
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_quechoa_1.m3u8
+#EXTINF:-1 tvg-id="dxm" group-title="Thể thao", Real Madrid Vs Athletic Club
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8
+#EXTINF:-1 tvg-id="zeb" group-title="Thể thao", Valencia Vs Barcelona
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
 #EXTINF:-1 tvg-id="lgl" group-title="Thể thao", Epitsentr Dunayivtsi Vs Sk Poltava
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
 #EXTINF:-1 tvg-id="cyt" group-title="Thể thao", Girona Vs Elche
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_quechoa_1.m3u8
 #EXTINF:-1 tvg-id="agj" group-title="Thể thao", Mallorca Vs Oviedo
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
+#EXTINF:-1 tvg-id="qcj" group-title="Thể thao", Los Angeles Galaxy Vs Houston Dynamo
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
