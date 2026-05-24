@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="qcp" group-title="Thể thao", Liverpool Vs Brentford
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_quechoa_1.m3u8
-#EXTINF:-1 tvg-id="ywa" group-title="Thể thao", Tottenham Vs Everton
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
-#EXTINF:-1 tvg-id="mbq" group-title="Thể thao", Sunderland Vs Chelsea
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8
-#EXTINF:-1 tvg-id="ffn" group-title="Thể thao", Crystal Palace Vs Arsenal
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
 #EXTINF:-1 tvg-id="nft" group-title="Thể thao", Torino Vs Juventus
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8
 #EXTINF:-1 tvg-id="pzg" group-title="Thể thao", Verona Vs As Roma
