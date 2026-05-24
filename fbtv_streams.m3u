@@ -1,13 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="nft" group-title="Thể thao", Torino Vs Juventus
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8
 #EXTINF:-1 tvg-id="pzg" group-title="Thể thao", Verona Vs As Roma
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_quechoa_1.m3u8
-#EXTINF:-1 tvg-id="ggt" group-title="Thể thao", Villarreal Vs Atletico Madrid
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8
 #EXTINF:-1 tvg-id="bai" group-title="Thể thao", Inter Miami Vs Philadelphia Union
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
 #EXTINF:-1 tvg-id="fvg" group-title="Thể thao", Los Angeles Fc Vs Seattle Sounders
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
 #EXTINF:-1 tvg-id="fbz" group-title="Thể thao", Croatia U17 Vs Belgium U17
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
+#EXTINF:-1 tvg-id="gya" group-title="Thể thao", Estonia U17 Vs Spain U17
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
+#EXTINF:-1 tvg-id="nwg" group-title="Thể thao", Sc Paderborn 07 Vs Vfl Wolfsburg
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8
+#EXTINF:-1 tvg-id="ysd" group-title="Thể thao", Italy U17 Vs France U17
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
+#EXTINF:-1 tvg-id="xnw" group-title="Thể thao", Montenegro U17 Vs Denmark U17
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
