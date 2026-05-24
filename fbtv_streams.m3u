@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="xfn" group-title="Thể thao", Binh Duong Vs Song Lam Nghe An
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
+#EXTINF:-1 tvg-id="ncp" group-title="Thể thao", Hong Linh Ha Tinh Vs Cong An Nhan Dan
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
 #EXTINF:-1 tvg-id="grl" group-title="Thể thao", Brighton Vs Manchester United
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8
 #EXTINF:-1 tvg-id="ohl" group-title="Thể thao", West Ham Vs Leeds
@@ -10,10 +14,6 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
 #EXTINF:-1 tvg-id="mbq" group-title="Thể thao", Sunderland Vs Chelsea
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8
 #EXTINF:-1 tvg-id="ffn" group-title="Thể thao", Crystal Palace Vs Arsenal
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
-#EXTINF:-1 tvg-id="xfn" group-title="Thể thao", Binh Duong Vs Song Lam Nghe An
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
-#EXTINF:-1 tvg-id="ncp" group-title="Thể thao", Hong Linh Ha Tinh Vs Cong An Nhan Dan
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
 #EXTINF:-1 tvg-id="xiu" group-title="Thể thao", Ha Noi Vs Nam Dinh
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8
