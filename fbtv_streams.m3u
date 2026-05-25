@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="fvg" group-title="Thể thao", Los Angeles Fc Vs Seattle Sounders
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
 #EXTINF:-1 tvg-id="fbz" group-title="Thể thao", Croatia U17 Vs Belgium U17
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
 #EXTINF:-1 tvg-id="gya" group-title="Thể thao", Estonia U17 Vs Spain U17
@@ -11,3 +9,9 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
 #EXTINF:-1 tvg-id="xnw" group-title="Thể thao", Montenegro U17 Vs Denmark U17
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
+#EXTINF:-1 tvg-id="ldh" group-title="Thể thao", Cleveland Cavaliers Vs New York Knicks
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
+#EXTINF:-1 tvg-id="yqo" group-title="Thể thao", Shanghai Vs Zhejiang Guangsha
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
+#EXTINF:-1 tvg-id="fyi" group-title="Thể thao", Dplus Kia Vs T1
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
