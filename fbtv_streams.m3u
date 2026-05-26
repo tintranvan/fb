@@ -1,10 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="rjp" group-title="Thể thao", Spvgg Greuther Furth Vs Rot Weiss Essen
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
-#EXTINF:-1 tvg-id="tfk" group-title="Thể thao", Saint Etienne Vs Nice
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
-#EXTINF:-1 tvg-id="irn" group-title="Thể thao", Buriram United Vs Selangor
+#EXTINF:-1 tvg-id="vca" group-title="Thể thao", Oklahoma City Thunder Vs San Antonio Spurs
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
+#EXTINF:-1 tvg-id="irn" group-title="Thể thao", Buriram United Vs Selangor
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8
 #EXTINF:-1 tvg-id="ekg" group-title="Thể thao", Pyunik Yerevan Vs Van
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_quechoa_1.m3u8
 #EXTINF:-1 tvg-id="yro" group-title="Thể thao", Sri Lanka W Vs Bhutan W
