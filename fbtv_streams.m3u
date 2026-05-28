@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="mgg" group-title="Thể thao", Duong Quoc Hoang Vs Chua Xac Dinh
+#EXTINF:-1 tvg-id="ydr" group-title="Thể thao", Nguyen Anh Tuan Vs Niklas Dohr
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8
-#EXTINF:-1 tvg-id="wzk" group-title="Thể thao", Petrojet Vs El Gouna Fc
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_quechoa_1.m3u8
 #EXTINF:-1 tvg-id="mwo" group-title="Thể thao", El Geish Vs Wadi Degla
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
 #EXTINF:-1 tvg-id="mux" group-title="Thể thao", Montenegro U17 Vs Italy U17
