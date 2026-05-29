@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="bqp" group-title="Thể thao", Duong Quoc Hoang Vs Jayson Shaw
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8
-#EXTINF:-1 tvg-id="otf" group-title="Thể thao", Nice Vs Saint Etienne
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
 #EXTINF:-1 tvg-id="oii" group-title="Thể thao", Vissel Kobe Vs Kashima
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_quechoa_1.m3u8
 #EXTINF:-1 tvg-id="lcx" group-title="Thể thao", Binh Dinh Vs Bac Ninh
