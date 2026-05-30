@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ylv" group-title="Thể thao", Binh Phuoc Vs Long An
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
 #EXTINF:-1 tvg-id="xjv" group-title="Thể thao", Fear X Vs T1
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
 #EXTINF:-1 tvg-id="cjf" group-title="Thể thao", Toluca Vs Tigres Uanl
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
+#EXTINF:-1 tvg-id="jrb" group-title="Thể thao", Mexico Vs Australia
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_quechoa_1.m3u8
