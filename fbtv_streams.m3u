@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="jkn" group-title="Thể thao", Norway Vs Sweden
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
-#EXTINF:-1 tvg-id="hre" group-title="Thể thao", Austria Vs Tunisia
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8
 #EXTINF:-1 tvg-id="xid" group-title="Thể thao", Zhejiang Guangsha Vs Shanghai
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
 #EXTINF:-1 tvg-id="imj" group-title="Thể thao", Canada Vs Uzbekistan
