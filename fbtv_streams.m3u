@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="xid" group-title="Thể thao", Zhejiang Guangsha Vs Shanghai
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
-#EXTINF:-1 tvg-id="vcs" group-title="Thể thao", Brunei Vs Timor Leste
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8
 #EXTINF:-1 tvg-id="gce" group-title="Thể thao", Croatia Vs Belgium
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
+#EXTINF:-1 tvg-id="vnh" group-title="Thể thao", Georgia Vs Romania
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8
+#EXTINF:-1 tvg-id="deo" group-title="Thể thao", Morocco Vs Madagascar
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8
