@@ -1,13 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="jfx" group-title="Thể thao", Myanmar U19 Vs Vietnam U19
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
-#EXTINF:-1 tvg-id="itp" group-title="Thể thao", Van Hien Vs Sanna Khanh Hoa
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
+#EXTINF:-1 tvg-id="jfm" group-title="Thể thao", Cambodia Vs Bhutan
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
 #EXTINF:-1 tvg-id="zyp" group-title="Thể thao", Italy U17 Vs Spain U17
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8
 #EXTINF:-1 tvg-id="vvj" group-title="Thể thao", France Vs Ivory Coast
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
-#EXTINF:-1 tvg-id="jfm" group-title="Thể thao", Cambodia Vs Bhutan
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
 #EXTINF:-1 tvg-id="pbm" group-title="Thể thao", Timor Leste U19 Vs Indonesia U19
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
