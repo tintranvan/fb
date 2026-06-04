@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ngw" group-title="Thể thao", Spain Vs Iraq
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8
-#EXTINF:-1 tvg-id="vvj" group-title="Thể thao", France Vs Ivory Coast
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
 #EXTINF:-1 tvg-id="sad" group-title="Thể thao", Mexico Vs Serbia
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
 #EXTINF:-1 tvg-id="lab" group-title="Thể thao", Singapore Vs China
