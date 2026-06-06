@@ -1,14 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="vkr" group-title="Thể thao", Tokyo Verdy Vs Gamba Osaka
+#EXTINF:-1 tvg-id="bod" group-title="Thể thao", Kashiwa Reysol Vs Kyoto Sanga
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
+#EXTINF:-1 tvg-id="oog" group-title="Thể thao", Kawasaki Frontale Vs Sanfrecce Hiroshima
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
 #EXTINF:-1 tvg-id="tjj" group-title="Thể thao", Usa Vs Germany
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
 #EXTINF:-1 tvg-id="ofj" group-title="Thể thao", England Vs New Zealand
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
-#EXTINF:-1 tvg-id="uww" group-title="Thể thao", Yokohama F Marinos Vs Shimizu S Pulse
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
-#EXTINF:-1 tvg-id="oog" group-title="Thể thao", Kawasaki Frontale Vs Sanfrecce Hiroshima
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
 #EXTINF:-1 tvg-id="ycw" group-title="Thể thao", Thailand U23 Vs South Korea
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
 #EXTINF:-1 tvg-id="ual" group-title="Thể thao", Belgium Vs Tunisia
