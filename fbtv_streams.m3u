@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="eom" group-title="Thể thao", Viettel Vs Cong An Nhan Dan
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
+#EXTINF:-1 tvg-id="lml" group-title="Thể thao", Indonesia U19 Vs Vietnam U19
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8
 #EXTINF:-1 tvg-id="bzo" group-title="Thể thao", Denmark Vs Ukraine
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
 #EXTINF:-1 tvg-id="rnb" group-title="Thể thao", Belgium U17 Vs Italy U17
@@ -9,6 +11,8 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
 #EXTINF:-1 tvg-id="pki" group-title="Thể thao", Croatia Vs Slovenia
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8
+#EXTINF:-1 tvg-id="osg" group-title="Thể thao", Morocco Vs Norway
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
 #EXTINF:-1 tvg-id="mqs" group-title="Thể thao", Thailand U19 Vs Malaysia U19
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
 #EXTINF:-1 tvg-id="kqo" group-title="Thể thao", Singapore U19 Vs Brunei U19
