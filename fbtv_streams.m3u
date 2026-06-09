@@ -1,7 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="xga" group-title="Thể thao", China Vs Thailand
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
+#EXTINF:-1 tvg-id="bjx" group-title="Thể thao", Monte Vs Pain Gaming
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
 #EXTINF:-1 tvg-id="nrp" group-title="Thể thao", Australia U19 Vs Cambodia U19
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
 #EXTINF:-1 tvg-id="bip" group-title="Thể thao", Hungary Vs Kazakhstan
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8
+#EXTINF:-1 tvg-id="xhi" group-title="Thể thao", Russia Vs Trinidad And Tobago
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
+#EXTINF:-1 tvg-id="jxj" group-title="Thể thao", Azerbaijan Vs San Marino
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
+#EXTINF:-1 tvg-id="zay" group-title="Thể thao", Argentina Vs Iceland
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
+#EXTINF:-1 tvg-id="vrw" group-title="Thể thao", Iraq Vs Venezuela
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
