@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="zay" group-title="Thể thao", Argentina Vs Iceland
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
-#EXTINF:-1 tvg-id="vrw" group-title="Thể thao", Iraq Vs Venezuela
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
 #EXTINF:-1 tvg-id="rgz" group-title="Thể thao", Nam Dinh Vs Ho Chi Minh
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
 #EXTINF:-1 tvg-id="hwc" group-title="Thể thao", Phu Dong Vs Viettel
