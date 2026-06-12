@@ -1,6 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="rgy" group-title="Thể thao", Free Practice 1 Vs Free Practice 1
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
 #EXTINF:-1 tvg-id="ogf" group-title="Thể thao", Tukums Vs Bfc Daugavpils
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
+#EXTINF:-1 tvg-id="vyp" group-title="Thể thao", Free Practice 2 Vs Free Practice 2
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
 #EXTINF:-1 tvg-id="shj" group-title="Thể thao", Fk Liepaja Vs Super Nova
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
 #EXTINF:-1 tvg-id="zbh" group-title="Thể thao", Brazil Vs Morocco
